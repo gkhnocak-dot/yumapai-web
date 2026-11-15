@@ -1,0 +1,35 @@
+{
+ "name": "YuMapAI",
+ "short_name": "YuMapAI",
+ "lang": "tr",
+ "start_url": ".",
+ "scope": ".",
+ "display": "standalone",
+ "background_color": "#1E7BEA",
+ "theme_color": "#1688F8",
+ "description": "Arkadaşlarının gezileri, Keşfet, Yumy gezi rehberi, mesajlar ve gezilerin.",
+ "icons": [
+  {
+   "src": "icons/Icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/Icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/Icon-maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icons/Icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

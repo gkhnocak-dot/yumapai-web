@@ -1,0 +1,6 @@
+YuMapAI web — first-party mirror of the Flutter web engine fallback fonts (D-119W).
+Roboto: Apache License 2.0. Noto fonts (Noto Sans, Noto Sans Symbols / Symbols 2 / Math / Arabic / Hebrew /
+Georgian / Armenian / Thai / Devanagari, Noto Color Emoji, and every other Noto family in an `all` build):
+SIL Open Font License 1.1. Files are byte-identical copies of the engine's pinned versions
+(source https://fonts.gstatic.com/s/<family>/<version>/<file>), served from this origin so no visitor request reaches Google.
+Mirror mode: core — 28 of 725 engine fallback files.
