@@ -40,7 +40,6 @@ e220bfde-6486-456d-8e1e-8ce175bd4424,Pizza Pizza Yeni,RESTAURANT,39.715565,43.01
 2ff79157-232b-40c5-9f38-916345bc1801,Pizza Pizza,RESTAURANT,39.715694,43.012486,,Ağrı,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.851
 e483560e-d3df-4e09-9802-dd85a5b1aa45,Osmanlı Cafe-Restorant&Çorba,RESTAURANT,39.715466,43.012867,Atalay Cad Nurettin Dolgun Endüstiri Meslek Lisesi Karşısı,Ağrı,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.753
 061ece57-548e-4fa3-aad3-827624e7349b,Ehl-i Keyf Cafe,CAFE,39.715542,43.013027,Fırat Mahallesi Atalay Caddesi Merkez Ağrı,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.927
-9f973653-f130-4f19-b1d5-6513734f3367,Big Yellow Taxi Ağrı,CAFE,39.715553,43.013363,1530. Sk. no:20,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.780
 d68088f1-7246-4ebb-8c01-10c12078f2ad,Mor Kuzu Cağ Kebap,RESTAURANT,39.715927,43.013908,Fırat Mah. çevre yolu bulvarı otel Cenas yanı opet içi,Ağrı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.957
 a8cb3e87-34a2-453f-9aff-811ad5cdd499,Arusha Lounge Cafe Nargile,CAFE,39.715267,43.012505,Ağrı Fırat Mahallesi Özel Harekat Şube Yanı,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.798
 d56eec5f-8aed-44a7-9dc9-ff34f9dca168,Ağrı Gazi Künefe Katmer,CAFE,39.715008,43.010616,Atalay Caddesi 42,Ağrı,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.753
@@ -53,9 +52,7 @@ a3ff63b7-390f-4b0c-a1cd-c1fb6531dfa5,Bülent Börekçilik,CAFE,39.717197,43.0170
 19d2879c-ccda-4e72-98d9-5757aa06c4a0,Başak Restaurant ve Cafe,CAFE,39.717258,43.01701,"Yeni Hastanesi Karşısı, Erzurum Blv.",Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.883
 0e2e9ce0-747e-4eee-8782-4e0f40fb0d65,Aşiyan Cafe Restaurant,RESTAURANT,39.719631,43.018822,Erzurum Cad SGK Arkası No 253/a,Ağrı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,eastern_european_restaurant,food_and_drink>restaurant>european_restaurant>eastern_european_restaurant,0.770
 dfce0a88-d50c-41a7-b756-fdd585971077,cafe mydonos restaurant,CAFE,39.721218,43.014824,1040. Sk. No:2,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.878
-ecb723a2-0324-462c-a702-81badcd06af4,Revan,CAFE,39.719185,43.020699,Fırat mah.yaşar Kemal cad.ideal market yanı,Ağrı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.941
 5511cd80-ea23-4dc6-a5ea-96cf65275af1,Çorbacı Restaurant AĞRI,RESTAURANT,39.71904,43.027889,Abide Mah. Yaşar Kemal Cad. Tulumtaş Apt. Altu No:62- Ağrı Merkez,Ağrı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.838
-06a504cb-8620-45a3-9407-e64ae6dd56d7,Patron,CAFE,39.719028,43.029434,,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.842
 7a968896-57cf-41dd-aadd-187d66cf0f34,Florya Cafe & Restaurant,CAFE,39.721252,43.035595,"Millet Bahçesi, No 5",Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.935
 95b7fa65-c563-4809-a08b-4bdf440fc909,Değirmen Fırın Cafe,CAFE,39.719234,43.032127,632. Sk. No:1,Ağrı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.929
 4c752192-4bed-4e21-97e7-2e8f27f7582b,Caddeüstü Cafe,CAFE,39.719162,43.032509,632. Sk. No:1,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.981
@@ -80,7 +77,6 @@ f1eda8f0-39c3-4adf-8f4b-f23b9b0336df,Kanatçı Sofinin Yeri,RESTAURANT,39.719917
 b10467a9-f9a6-4779-9601-eacceeb6bb28,Sultan Sofrasi,RESTAURANT,39.720123,43.050552,Kağızman Cd. No:7,Ağrı,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.932
 83a2452d-8049-4352-9cb2-04465c31ade5,Quqaa Cafe Nargile,CAFE,39.72002,43.050804,Kağızman Cd. No:10 Merkez,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.908
 c1de129e-dd1b-4bdd-b2b0-07e9475420df,Cenas Hotel,HOTEL,39.720501,43.050583,Kağızman Cd. No:11,Ağrı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.951
-327e3f8a-c4c2-4bc2-bbac-36c6d47d21e9,Oz Diyarbakir Kadayifcisi,CAFE,39.720406,43.050804,Kağızman Cd. OTELCENAS ALTI NO:9/B,Ağrı,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.881
 c899b383-7e7e-4b5a-916f-320b8717a878,Pizza Pizza,RESTAURANT,39.720638,43.050716,Ağrı,Ağrı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.770
 e12952bf-60c1-4f91-8174-71066f99e817,Çarşı Cafe & okey salonu,CAFE,39.720821,43.050762,Cumuryet caddesi kütüphane karşısi,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.804
 b25a48ce-2507-4e9f-b55e-4b41beddbfc8,Ağrı taşlıçay komagene,RESTAURANT,39.72081,43.050774,ağrı taşıçay Hükümet konağı karşı ,Ağrı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.781
@@ -89,8 +85,6 @@ d24e76ff-c4f7-4ff2-9323-fbadd1191aca,Yüzüncü Yıl Parkı,SIGHT,39.722095,43.0
 760c58c9-a566-4f1b-a950-a70ef4d71165,Karais cafe,CAFE,39.722046,43.050831,,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.904
 91f53bb6-3dc9-4917-bbe7-addd91aa8af7,Musuloglu Restorant,RESTAURANT,39.720898,43.050495,612 sok aktas sitesi alti,Ağrı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.979
 946b7b42-bf51-4768-be4d-30d4f621d489,Bayramefendi Osmanlı Kahvecisi,CAFE,39.721298,43.050919,Kağızman Cd. No:20 / A,Ağrı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.915
-dbd0abdf-1055-487b-81b3-598cd022e93a,King Off Waffle Ağrı,RESTAURANT,39.720901,43.05098,"Musuloğlu Restoran, Kağızman Caddesi 19",Ağrı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.777
-228bfc7c-4146-43b9-ab55-c1213d252e2f,King Of Waffle,RESTAURANT,39.720917,43.051098,"Yavuz mahallesi Kağızman caddesi, 403. Sk. No:15",Ağrı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.788
 1484692f-d345-463f-8e2d-8275f22dfe8c,Kampüs Dürüm Evi,RESTAURANT,39.720848,43.052113,403. Sk. No:5,Ağrı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.871
 a25691f4-d416-4fd0-88a1-92b064d1b691,Teras Cafe,CAFE,39.721359,43.051849,Nevzat Güngör Cd. No:41,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.887
 fd7da5d1-3a65-45c1-a18f-d9ce5adb9cef,Nova cafe,CAFE,39.721596,43.051651,,Ağrı,CDLA-Permissive-2.0,Overture|meta,asian_restaurant,food_and_drink>restaurant>asian_restaurant,0.768
@@ -110,7 +104,7 @@ f9f6f2fb-59ca-43e6-a1f3-87d822515dfa,Nostalji cafe,CAFE,39.722054,43.053345,Vali
 8c28056f-d4ca-460e-acf4-0649c331ca36,Cervantes Kitap Cafe,CAFE,39.721706,43.053406,1702. Sk. 33-27,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.924
 8eee3ce3-cd67-4f70-b313-a165c266679a,Agri Cafe Bistro,CAFE,39.721645,43.052876,Cumhuriyet Caddesi 120,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.893
 b2ceec29-05cf-4f50-8592-45bff9b5e151,ADANA UNLU Mamülleri pasta cafe,CAFE,39.72134,43.052856,Cumhuriyet Caddesi 56,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.953
-147b32bb-f4d9-442a-85ce-80c9446aa9f9,Osmanoğlu Kır Pidesi,RESTAURANT,39.721367,43.052868,Cumhuriyet Cd.,Ağrı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.774
+147b32bb-f4d9-442a-85ce-80c9446aa9f9,Osmanoğlu Kır Pidesi,CAFE,39.721367,43.052868,Cumhuriyet Cd.,Ağrı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.774
 ddcad01f-5791-4533-a91a-0c319208b2b6,Armoni Sanat Evi,SIGHT,39.721294,43.052513,Bülbül Cd. 3A,Ağrı,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.932
 7e41a2a4-498f-4958-bae6-5420447e6d34,Ağrı kirvem kebap lahmacun pide salonu,RESTAURANT,39.720917,43.052559,Cumhuriyet Caddesi 92,Ağrı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.929
 f8cbb73f-c004-4bc2-829c-d7eed7695c36,Hatemoğlu Otel,HOTEL,39.720875,43.052971,"1702. Sk. Kırlangıç Sk., Cumhuriyet Cad. Halkbank Arkası",Ağrı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
@@ -127,22 +121,17 @@ d243a494-9263-45ab-ad36-022f55ba10cd,Barbisos Kebap & Restaurant,RESTAURANT,39.7
 6e3d64bc-2808-4aff-94d1-d29c31600bb2,Alacati Cafe and Restaurant,CAFE,39.719189,43.05106,,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.860
 4127c784-296d-4b4c-943e-57352838d1bb,Kabuba Kebab Salonu,RESTAURANT,39.719189,43.051125,Atalay Cad,Ağrı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.798
 02e341b9-b2d7-4711-825b-1ef71c72cd95,Buyuk Agri Hotel and Apart,HOTEL,39.719215,43.051655,Cumhuriyet Cd. No:1,Ağrı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.866
-aeb9e372-22c2-41be-8401-61abb549dd04,Ağrı Saklı Bahçe,CAFE,39.719341,43.051991,,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
 614e0cec-22c6-472e-a683-59b3d25ed08d,Merkez Cami Çay Bahçesi,CAFE,39.719444,43.052071,,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.864
 dad10561-02d7-465e-bc19-b435351adccd,Tutunamayanlar kitabevi & cafe,CAFE,39.720432,43.054096,1701. Sk. No:6 D:1,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.973
 34e0fbe4-2025-4173-a453-2b1aa4fcc7b3,Çıtır Çıtır Pide & Lahmacun,RESTAURANT,39.719685,43.056396,Hanibaba Bulvarı 36,Ağrı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.773
-7f7aab92-ec87-477e-8f55-d4e13d80d6e9,Ağrı İstanbul Apart Pansiyon,HOTEL,39.722023,43.057472,1810. Sk. No:5/1,Ağrı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.919
 617672ac-1ec9-47fa-90ea-19039e58d2e7,Tadımca Pide Lahmacun ve Izgara,RESTAURANT,39.72163,43.055565,Namık Sezgin Cd.,Ağrı,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.764
 bd1115c8-86ab-4737-8677-b29df1f0efe5,Ciğerci Bekir Baba,RESTAURANT,39.721626,43.055489,"final dershanesi, Namık Sezgin Cd. altı no 46 D",Ağrı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.937
 c7a2e39b-5aa9-4ee0-9493-b4fe30360885,Umut Balıkçılık ve Izgara Salonu,RESTAURANT,39.722042,43.053822,"Hürriyet, Vali Konağı Cd.",Ağrı,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.902
 625c5621-2e98-4413-9ca1-ab473eb867f3,Merkez Çayevi,CAFE,39.723713,43.054146,Dr. Harun Yılmaz Cd. No:55,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.900
 56c47776-432a-4cba-90e4-9d472ade5740,Hacıoğlu Kebap Ve Pide,RESTAURANT,39.723507,43.055542,Dr. Harun Yılmaz Cd.,Ağrı,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.971
-ffcc04b0-57e6-4e07-917b-999bcc3a643d,Teyyare Mahllesi,RESTAURANT,39.726234,43.054176,hürriyet,Ağrı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.857
 2e7d3fd6-9d37-4881-8ad1-e59056a6c8fe,Yazıcı Baraj Göleti Ağrı,SIGHT,39.719891,43.04731,"Ağrı 1. Noterliği, Yeni Van Caddesi 2",Ağrı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.916
 be4bece4-f8d1-4e08-8c32-3fe0e8ce3738,Mirshan Cafe and Restaurant,CAFE,39.72237,43.041122,Stad Cd. Futbol Sahası No:6,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.951
-51d336aa-0d07-4896-a35b-4ff40398cf73,Ada Marina,CAFE,39.719994,43.036957,Ada Marina,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.960
 1236a34d-1cdc-4f53-8a03-f715cca40b7d,Agrı Dolphin Cafe&restaurant,CAFE,39.724586,43.03701,15 Temmuz Vatan Şehitleri Parkı,Ağrı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.933
-b84e6fbd-599a-4763-b2cf-1b2aae59d041,Teyyare Mahllesi,RESTAURANT,39.730377,43.056141,hürriyet,Ağrı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.857
 975114bd-b339-4098-9b75-2313558a966b,İShak PaŞA Sarayi,SIGHT,39.716705,43.081787,Ağrı,Ağrı,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.917
 2dec74c8-5047-4335-8d4e-3029d9fc2a6b,Agrıdogbeyazıt Ishakpaşa Sarayı,SIGHT,39.711212,43.052334,,Ağrı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.708
 f84f5920-ee10-4f47-b809-f40eeb68414a,Van Gölü Sahil,SIGHT,39.648911,43.010986,,Ağrı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.811
@@ -166,7 +155,6 @@ f417f519-986c-4e2d-8439-5993b3b4f7be,Marina Balikçilik,RESTAURANT,39.683792,43.
 1fe097de-766e-4f0e-9f70-cee407ede38a,Cennet Bahçesi,RESTAURANT,39.760517,43.106949,,Ağrı,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.822
 8e231baa-e3d3-4599-aedb-ec46ceb8c53d,Dsi Yazıcı Barajı,SIGHT,39.785751,43.161346,,Ağrı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.755
 07b08d1c-6c82-47f2-9718-c08ce949b998,Sakli Bahce,CAFE,39.775974,43.128185,Murathan Koyu,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.905
-99d71fbc-f8a7-4549-8911-e5b0f3f2a0ea,Ağrı Saklı Bahçe,CAFE,39.775917,43.128223,,Ağrı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
 3ff85f63-9b3a-4bfb-9d05-0d98a13de377,Amcaoğlu Alabalık Tesisleri,RESTAURANT,39.912239,43.606052,,Diyadin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.919
 e2dc00fa-dc54-4cd4-9d28-cd7a382c3df9,balıklı göl,SIGHT,39.837322,43.582489,,Diyadin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.799
 ae463e48-e339-4ee0-802f-a1a86ba576b7,Balık Gölü,SIGHT,39.783333,43.549999,,Diyadin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.704
@@ -181,7 +169,7 @@ ce676a4a-01d5-4d46-b7fa-810afc44bb18,Ishak Paşa Sarayı,SIGHT,39.552559,44.0677
 3368f5df-7bd3-425a-930b-574d1180f3cd,Golden hill hotel,HOTEL,39.554356,44.062504,Ağrı Doğubeyazıt Yolu No:326,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.970
 87641365-c9d0-4899-97a5-14a3922797b8,Butik Ertur Hotel,HOTEL,39.552288,44.060249,ÇEVRE YOLU BULVARI No:545,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
 56640a48-3077-419f-bd89-22c6ab4509bc,Saraçoğlu Diyarbakır Ciğercisi,RESTAURANT,39.547672,44.051102,"Saraçoğlu Diyarbakır ciğercisi, Çevre yolu üzerinde no 646",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.821
-0f5e7a3e-786d-4952-8fde-cd0433e4360e,balıkgölü,SIGHT,39.544521,44.069641,Doğubeyazıt,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.702
+0f5e7a3e-786d-4952-8fde-cd0433e4360e,balıkgölü,RESTAURANT,39.544521,44.069641,Doğubeyazıt,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.702
 7cfe98f9-0d9e-49aa-ba8e-fe96a51e4bd4,Saray harman kebap salonu,RESTAURANT,39.547215,44.068314,"Saray Harman, Iğdir Doğubeyazit Yolu 2",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.945
 70ccbc57-dafc-444a-bf95-3575d4398c9b,Köşk restaurant,RESTAURANT,39.547699,44.074936,Ağrı Cd.,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.861
 96406e27-451c-4cc6-ba1d-7d60be4dab64,Yeni Güven Restorant,RESTAURANT,39.548149,44.077862,Ağrı Cd.,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.911
@@ -193,20 +181,16 @@ e7338f79-99fc-465b-aa0c-9cbc6408401f,Lounge Rover Cafe,CAFE,39.545063,44.08078,"
 7f9b7bd7-367c-48b1-b6af-33b5f570a9ae,Ahmedi Hani Pasajı,SHOPPING,39.544445,44.083576,Büyük Ağrı Cd.,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.823
 563d4577-f57a-4be5-827d-2ebbaa64b581,Olympos Cafe,CAFE,39.545635,44.081795,Güven Caddesi 9,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.921
 fc2f3a19-9e27-46be-8ff8-411b7090f8bf,Hotel Nuh,HOTEL,39.545139,44.082348,,Doğubayazıt,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-3f2baf58-df7b-442a-9a9d-5ad15a65ed76,Tehran Boutique Hotel,HOTEL,39.545956,44.081261,Büyük Ağrı Cd.,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 92c20b03-65b3-437b-a557-8e62ef08ff81,Doğubeyazıt Kent Evi Ve Müzesi,SIGHT,39.545753,44.081429,,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.726
 033923b5-de53-492c-b1e8-d6b07cd6dff3,Mevlana Kebap Salonu,RESTAURANT,39.545872,44.081375,Büyük Ağrı Cd. No:53,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.935
 3973dc2b-8342-4af0-be12-eee10e7eceba,Yildiz Park Avm,SHOPPING,39.545994,44.081005,Büyük Ağrı Cd.,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.815
-fa935987-5957-4e98-bb21-482e284789bc,Şehr-î Bazîd,CAFE,39.546501,44.081417,Çifte Pınar Mahallesi İnegöl Caddesi Ziraat Bankası Arkası,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.924
 ac89f88e-8c50-4919-9677-5c4caea433f1,Hotel Yayla Palas,HOTEL,39.546391,44.082294,Ismail Besikci Cad No:126,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.710
 e81b1856-b277-4890-96ac-ea181ba10264,Terascafe04,CAFE,39.545746,44.083534,İnegöl Cd. No:79,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.838
 2c013e3e-7526-4a84-82df-9cdb0d06416c,Diyarbakır Dağkapı Ciğercisi,RESTAURANT,39.546265,44.082966,İnegöl Cd. No:102,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.957
 5046ac98-f9f6-4703-8511-9f7e51154a40,Evin Restaurant,RESTAURANT,39.546318,44.082729,İnegöl Cd. No:92,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.950
 9d48ba81-5a48-48af-b2b5-954e0bd8f34d,Hotel Yayla Palas,HOTEL,39.546432,44.082561,Ismail Besikci Cad No:126,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.710
-41dc72bb-439c-4fbd-a9e4-92174d5979bd,Big Yellow Taxi,CAFE,39.546928,44.082478,,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.871
 69cb2c1a-7141-4770-9b1e-c547a23a1021,Bayramefendi Osmanlı Kahvecisi,CAFE,39.54689,44.082447,Rıfkı Başkaya Cd No:17 D:64,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.952
 be1ec4a5-ac19-4b80-a050-a9a09d7b19f1,Dogubayazıt Bulent Borekcilik,RESTAURANT,39.546879,44.082806,Ağrı Caddesi 2,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.906
-78063393-8d33-4f37-a88e-1a70a26d05e5,Fırıncım,RESTAURANT,39.547234,44.083015,"Rıfkı başkaya cad, AVM",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.751
 fdcaa3ac-cd5a-4d78-ba34-f8c4d1e0b93f,Burger King,RESTAURANT,39.547279,44.082874,Çiftepınar Mahallesi Rıfkı Başkaya Caddesi No: 17,Doğubayazıt,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
 e32e5fb9-a023-4ec7-9a52-1e40a969771a,Doğubayazıt AVM,SHOPPING,39.547443,44.082367,,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.939
 f4d62631-e4f7-40b9-8c60-88bc234db9fb,Kahveland Doğubayazıt,CAFE,39.547325,44.082394,Rıfkıbaşkaya Caddesi Doğubeyazıt Avm Kahveland,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.976
@@ -224,9 +208,8 @@ d1cd5a9a-7645-4393-97aa-2916cd7e478a,Doğubayazıt Balık Evi,RESTAURANT,39.5461
 3979421f-38cb-4b89-995a-57a0d8e29f69,Mitanni Lounge Coffee,CAFE,39.548248,44.079746,Ağrı Caddesi 206,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.818
 dc4d5110-0cad-4438-8217-d3d1b31afc1f,Konak Caffe,CAFE,39.548534,44.079803,,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.917
 7f58873b-696d-4a27-ab92-f1d108e7af4c,Ru Sahaf Cafe,CAFE,39.548954,44.080719,Ahmedi Hani mahallesi Suat Sokak,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.943
-fc4e91ba-5e18-463b-8de7-efab394170ae,Sirdonkişot,CAFE,39.548653,44.083439,Ağrı Caddesi 132,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855
 62d19a06-db95-48ca-80c3-c096d06960ea,Kervan Cafe Restaurant,CAFE,39.54845,44.08223,Ağrı Cd. No:43,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.982
-2431bbc5-ded6-4cec-9e3b-7f8ab956f517,Merdane Pide ve Borek,RESTAURANT,39.548321,44.081669,Rıfkı Başkaya Cd No:7 D:b,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.808
+2431bbc5-ded6-4cec-9e3b-7f8ab956f517,Merdane Pide ve Borek,CAFE,39.548321,44.081669,Rıfkı Başkaya Cd No:7 D:b,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.808
 1a7f4db0-33a2-4b43-8383-f7eedbaeebc2,Bâb-ı Âli Kahvesi,CAFE,39.548386,44.081352,Ağrı Cd. No:206,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.955
 6447a737-7007-406f-9866-c5b3dd3e515a,The garden cafe doğubayazıt,CAFE,39.548103,44.08168,ismail beşikçi cadesi belediye arkası selahatin eyübi parkı tehe garden cafe,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.874
 8193b22a-0640-4e26-9d51-b0b3d0e1bc34,Komagene Etsiz Çiğ Köfte,RESTAURANT,39.548252,44.082466,Büyük Ağrı Cd. No:44,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -252,7 +235,6 @@ c747b8d6-7b0a-415c-add1-df9e29ccd484,Hotel Ararat,HOTEL,39.544601,44.084068,Bele
 cb14ebbf-f544-4d99-9ccb-3eb34ba2d134,Ark hostel,HOTEL,39.537891,44.099159,Sarıgül Mahallesi Ş.J.UZ.ÇVŞ. Göksel Koç Caddesi No: 18,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,hostel,lodging>hostel,0.939
 0dd666b2-e536-400c-ab01-6ba183054cad,yasemincoffeeandgarden,CAFE,39.5602,44.099308,"Sarıgül, İshak Paşa Sk., 04400 Doğubayazıt/Ağrı",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.944
 0e1d5ef8-aa1e-4fec-982b-8cce5ee030aa,Kardeşler Simit & Lahmacun Pide,RESTAURANT,39.553665,44.094189,ahmedi hani caddesi ıgdır duragı karşısı,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
-ef85a600-ea6c-4f24-ae71-cfb530474e5e,MFM Dinlenme Tesisleri,CAFE,39.556622,44.079163,Çevre Yolu Bulvarı 161/1,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.807
 bf3e79d0-0f75-4de8-8e60-71399edad575,Atlıhan Plus Hotel,HOTEL,39.556862,44.081276,Çevre Yolu Bulvarı No ;343,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.944
 39620c80-a9c8-433e-b08c-a80204d19a3b,Adıyaman kervansaray cafe,CAFE,39.565357,44.080288,iran yolu üzeri cmt sitesi bim yanı,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.775
 66b978b2-3650-47c6-9438-c392aa4aa198,Âhmédê Xâñê,SIGHT,39.520718,44.135178,Doğu Beyazıt,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.750
@@ -263,9 +245,7 @@ fa4b80ca-ce84-4607-8894-dca6a9683e18,Dogubeyazıt Ahmedi Hani Kent Muzesi,SIGHT,
 deff6e46-2225-4ab3-89fd-5b1a80aa6438,İshakpaşa Sarayı,SIGHT,39.519882,44.129642,,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.770
 f0a312dc-927d-48d3-8014-4c7d133362ec,Paraşüt Cafe and Restaurant,RESTAURANT,39.519485,44.130272,İshak Paşa Sarayı üstü,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.949
 99fadf65-e37d-45bb-a6fc-36e73fd5a55d,Ishak Pasha Palace,SIGHT,39.520283,44.129322,,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.843
-a65a5cb6-c4cf-43a7-a5a8-1ebfee2258e1,Noah cıty,RESTAURANT,39.520908,44.125763,"Sarıgül Mahallesi, İshak Paşa Sk. No:60, 04400 Yukarıtavla Köyü",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.917
 8c0c5fc5-2705-4c3e-8d51-d5a656d790dc,Beyzade- Mis Cafe Restuarant,CAFE,39.531563,44.106354,"Doğubayazıt, Ağrı, Türkiye",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.838
 961240d9-3844-469b-96f1-e14422e6de6c,Ishak Pasha Palace,SIGHT,39.531567,44.106358,"Ishak Pasha Palace, Agri - Global",Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.960
-931e41d2-9371-4bb4-aa59-3e22e784a319,Yalıkavak,CAFE,39.533195,44.104492,Ishakpaşa Cad No:147,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.860
 b4d6c95d-d7e6-42c1-9c02-0167fde45071,Ararat Restaurant ve Kahvaltı Salonu,RESTAURANT,39.535389,44.100937,İshak Paşa Sk. No:60,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.968
 9bfb5c47-56a9-455c-a228-a5414b102abd,Menessa Aile Çay Bahçesi,CAFE,39.536343,44.099277,İshak Paşa Sk.,Doğubayazıt,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.971

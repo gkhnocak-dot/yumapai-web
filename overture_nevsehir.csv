@@ -14,12 +14,12 @@ d88810ff-4829-4cc1-93cc-66368ceca17e,Karapınar Meydan Parkı,SIGHT,38.516705,34
 65527ac6-a0b6-4fe1-b425-d43c63b4fd96,Cappadocia Antique Gelveri Cave Hotel,HOTEL,38.313107,34.532772,akrapol sokak,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.896
 11802ec5-5803-43ef-90a3-22920c979d3a,Yeşiloba Et Lokantası,RESTAURANT,38.183475,34.505428,"Atatürk parkı, Azatlı kasabası",Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
 92784297-6eb4-4c78-823c-d5ceef98ad1d,Meydan Kıraathanesi,CAFE,38.320984,34.729511,Cumhuriyet Ağcaşar Köy meydanı,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.887
-75f63eee-c6a8-4d65-a582-11bc281ce6f8,Nigde Golcuk Kasabasi,SIGHT,38.227856,34.775715,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.725
 3c30ad93-9ce2-4303-8648-bb2337951a48,Murat usta çorba pide kebap salonu,RESTAURANT,38.400528,34.737152,Atatürk Caddesi 14,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.908
 d2fb14ce-e0b2-4cb7-a433-6d4b7f075f5d,Mahperi hatun kervansarayı,SIGHT,38.388039,34.736149,Atatürk cad. esentepe mah.,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
 0276ad75-073c-4bc7-b0d2-54c4f3cb0619,Akdeniz Kebap Salonu Derinkuyu,RESTAURANT,38.374798,34.732872,CUMHURİYET MEYDANI NO:4,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.935
 6e1c1a0e-be42-46a3-a365-499536e24e1d,Severse Döner,RESTAURANT,38.375164,34.733368,Atatürk Cd.,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.810
 71c0a2c6-9ec1-4791-a97c-dc23bb1cd03a,Dervis Bey Cafe,CAFE,38.372482,34.73447,Nevşehir Niğde Yolu,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.915
+62661834-b73f-4300-9c35-1d2c44b49b95,Derinkuyu Underground City,SIGHT,38.373425,34.735104,Çukur Sk.,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.891
 01a4c9ec-1b11-469d-bb6c-bc0cf0681ede,Unfa Hotel,HOTEL,38.375401,34.734615,Şht. Ali Güven Cd.,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
 99481aa6-e980-497d-980a-7b072cfee848,Derinkuyu Doyum Restorant,RESTAURANT,38.376133,34.73505,"Baş Mahallesi Şehit Ali Güven CAD, 7020 sokak no 3",Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.992
 bbec0121-acd7-4051-862f-cb2ca67b6bd7,Gökhan ustanin yeri,RESTAURANT,38.376423,34.73328,Atatürk Cd. No:39,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.865
@@ -27,12 +27,19 @@ bc321f58-8633-475a-b904-559bf3a29765,Derinkuyu Hüseyin Ustanın Yeri Restoran,R
 37fabf2c-dca4-4a4a-b104-988d7e4a56e7,Derinkuyu Köftedokya,RESTAURANT,38.376457,34.733536,Atatürk Caddesi 28/e,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.946
 890c3ab8-3082-447f-bb98-8a34ca55ff7f,Mevlana Pide Salonu,CAFE,38.376019,34.733414,Atatürk Cd. 33a,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.856
 e9676f55-003b-40be-a78a-aa861c607452,Cappadocia Lounge & Cafe,CAFE,38.375702,34.732849,Cumhuriyet Meydanı 21,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.934
+6327e874-3109-4e35-a836-14a5ec55e7d6,Unterirdische Stadt Derinkuyu,SIGHT,38.381386,34.736111,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.826
 721ffd7e-7dcf-480d-8835-97a136611901,Şahin-Er Alışveriş Merkezi,SHOPPING,38.377518,34.736118,Yapağı Yolu Sk.,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.908
+d1e453a9-496f-4965-b0ea-4d7a54e92ec7,Nevşehir Derinkuyu Yeraltı Şehri,SIGHT,38.363144,34.73621,Derinkuyu,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.789
 70d0eb93-cf6b-49cc-91f5-afc0720b48b4,Kayadibi Cave Otel,HOTEL,38.366589,34.732044,2. Cadde 20,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
 c759cb0a-467a-4527-8fef-1b2e1ff5808f,Hakkı Atamulu Kültür Parkı,SIGHT,38.370243,34.73254,Şht. Ali Güven Cd.,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.956
+fb8d6a2c-45ea-417a-9a33-236c7b92d835,Kaymaklı Yeraltı Şehri,SIGHT,38.460884,34.752869,Eşref Ayhan Caddesi 46,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.994
+d69b3d0b-3243-4734-94c7-6eda17ec2f41,Nevsehir Kaymakli Yer Alti Sehri,SIGHT,38.460537,34.751663,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.802
+9998e14c-2dfa-4de4-b11d-90f3e2bfe198,地底城,SIGHT,38.461002,34.751141,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 6c34d697-da7c-406e-9e5c-8940a474ad11,Gaziantep Restaurant,RESTAURANT,38.46114,34.750351,"kasabası Nevşehir TR, Belediye caddesi. Niğde yolu No:10",Derinkuyu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.859
 3f8046ef-1cb1-4901-b671-df876ec50044,Akın usta çorba ve kebap salonu,RESTAURANT,38.459904,34.75053,Esref ayhan caddesi no:2,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.902
 892dce81-512d-49ce-a134-bbb20eb7c95a,Kaymaklı Vera Hotel (),HOTEL,38.462914,34.751156,Nevşehir Niğde Yolu No:88,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.829
+d0e7a755-6500-443d-961f-ef300e78c038,Crystal Kaymaklı,HOTEL,38.463062,34.750736,Belediye Cad No:114,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
+ee4c1b20-c255-41b6-af93-cc2f27725082,Подземный город Каймаклы,SIGHT,38.465549,34.750553,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.811
 0f7c3e77-2aa5-48ea-8292-e3aee195ae6f,Metal İş Pide Fırını,CAFE,38.611038,34.689434,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.958
 e8030b36-1c93-44ff-bd9a-3f85eab59c95,Pide Yerim Tava ve Pide Salonu,RESTAURANT,38.614151,34.695206,"Yeni, 12. Blok Sanayi Sitesi",Nevşehir,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.931
 d637c917-d883-4344-904e-903f5430a80c,İstanbul Börek,CAFE,38.614609,34.698143,Fevzi Çakmak Cd. No:57,Nevşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.802
@@ -45,6 +52,7 @@ f6c66b12-cecf-415e-ba0b-e806076c7bed,Sokak lezzetleri,RESTAURANT,38.616215,34.70
 d83820c8-1603-4c6c-9d07-84a65b38980a,Nevşehir Konağı Restoran,RESTAURANT,38.618858,34.70443,aksaray cd.,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.770
 042ce88d-156f-4b08-9583-5de6d6ad3ac5,Nevşehir Seltur Lunapark,ACTIVITY,38.620682,34.706268,Mustafa Parmaksız Caddesi 20,Nevşehir,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.992
 0b70d2d2-fa3c-4880-8673-7446bebe6566,Pigeon Valley Hotel,HOTEL,38.624737,34.705959,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.855
+50062042-f52a-460f-85aa-a73f1185c90c,Three Doors Cappadocia,HOTEL,38.62471,34.70726,İbrahimpaşa Köyü,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.948
 37b6eaed-0273-41fb-9549-bed377d433ac,Kardeşler 1 Kıraathanesi,CAFE,38.624184,34.707966,"kardesler kıraathane, Garaj Sk. No:30",Nevşehir,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.941
 927f787d-5427-47b5-a2af-30838853d60d,Ötüken cafe ve çay bahçesi,CAFE,38.62244,34.709705,Sadabat parkı,Nevşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.900
 8c161346-0e26-4100-8205-4c4504c26a91,Otel İpek Palas,HOTEL,38.622963,34.709278,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.801
@@ -70,12 +78,14 @@ ae06c24c-4922-47a9-b22a-7ad9744a53cd,Aslanbey Çiğ Köfte,RESTAURANT,38.624401,
 dd78134d-33f0-4048-a8e2-ad62ec3ace72,Ahsen BÖRek,RESTAURANT,38.624653,34.71349,Atatürk Bulvarı 34,Nevşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.759
 24244e0d-2d74-4eb9-9894-e2341726f1f1,Pınar pastanesi,CAFE,38.624474,34.713749,"No 25 Gülbahçe Karşısı, Atatürk Bulvarı",Nevşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.866
 8a65a532-dc9c-42d8-b36d-87cc5f223e68,Doy Doy Büfe,RESTAURANT,38.625839,34.714439,Nar Caddesi,Nevşehir,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.824
+5885d141-c8c7-4819-a330-66999f7fefd5,AJWA Cappadocia,HOTEL,38.624863,34.714375,Mustafapaşa Köyü Yeni Mah. Ürgüp Cad. No 13 Ürgüp,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
 a39a5d59-1b8e-4805-a9ae-7b46c393448e,Şirin Döner,RESTAURANT,38.625107,34.714897,Lale Cd. No:31,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.969
 35cf7468-7fcd-4c91-8f56-d564f3c5e41d,Şef Döner Dürüm,RESTAURANT,38.625622,34.714855,Lale Cd. No:27,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.791
 da8094a5-b37c-4a67-81be-7f7b364a43f4,MC Et Döner Nevşehir,RESTAURANT,38.625874,34.714977,Lale Caddesi 30,Nevşehir,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.877
 6020e4a2-140c-4569-b0c8-43ff5485df2b,Tatlises Çiğ Köfte,RESTAURANT,38.625435,34.714809,Lale Cd.,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.900
 636a374e-5e71-4f43-a9e7-581af356ab0d,Karadeniz Pastanesi,CAFE,38.625309,34.715004,"Nevşehir, Yeni Mh.",Nevşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.980
 057948ec-b140-4b74-8e02-6bcac3d01ef3,Istanbul Börek,CAFE,38.625229,34.715401,Kayseri Cd. No:3 D:1,Nevşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.907
+ebd451f8-3971-4aff-bce7-c43429e128f9,Crowne Plaza Cappadocia,HOTEL,38.624821,34.715611,Milli Irade Caddesi No 2/1,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,1.000
 bec61593-7105-4798-9b5e-6fe994316171,Burger King,RESTAURANT,38.624802,34.715374,Yeni Mahallesi Milli İrade Caddesi Kat 3,Nevşehir,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 e3e1a206-69c0-48ce-8a72-09ee97481e42,Popeyes Louisiana Kitchen,RESTAURANT,38.62484,34.715408,Yeni Mahalle Milli İrade Caddesi No: 2 No: 78,Nevşehir,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.919
 c88467c5-903b-4bfb-bae5-d3050e4927b0,Usta Dönerci,RESTAURANT,38.624947,34.71524,Yeni Mahallesi Milli İrade Caddesi Kapı No: 2 İç Kapı No: 79,Nevşehir,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
@@ -92,11 +102,13 @@ ecbbf0b2-a4fd-451f-809f-74c5a18a3a7b,Starbucks,CAFE,38.624691,34.715431,Sahil So
 961c2f5e-2445-4e0e-a56a-8f9dd44fd866,Pizza 7,RESTAURANT,38.62373,34.715939,Sahil Sk. No17/A,Nevşehir,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.984
 477d4ede-8470-4a27-9905-901155bd218d,Helvacı Ali Nevşehir,CAFE,38.624649,34.715679,Milli İrade Caddesin No:2,Nevşehir,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.862
 edcbde98-5203-453c-838a-846278ff0d73,HD İskender,RESTAURANT,38.624622,34.715881,Yeni Mahalle Caddesi 2,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.949
+4e00069f-5c9e-42d0-9c5c-5c276293e34f,Kapadokya Cappadocia Kappadokien Cappadoce,SIGHT,38.624645,34.716026,Kapadokya,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.854
 c8f110f2-0321-4ba1-babf-3a99ab73f598,Heybeli Teras Cafe,CAFE,38.625294,34.716072,Kayseri Cd. No:8,Nevşehir,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.943
 7f77e368-1245-450b-80dd-38a79ac654ff,Kervan Hatay Döner,RESTAURANT,38.625389,34.716511,Milli irade caddesi no 16/d,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.918
 57c4ad9f-733e-431b-854f-cba1b240a99f,Gönül Kahvesi,CAFE,38.625069,34.716282,Yeni Mah. Lale Cad. No:29,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 6401df3e-f489-438f-abb8-0d7878e3247d,Bayramefendi Osmanli Kahvecisi,CAFE,38.624756,34.716446,Sahil Sk. No:24,Nevşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.996
 72b227e7-9f61-4be8-99c7-8242b2fe4350,Köftedokya,RESTAURANT,38.625774,34.717102,Yeni kayseri cad. Derman eczanesi karşısı,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.770
+fcd236de-881b-42c7-bb85-c86a3c151c67,Kaymakli Underground City,SIGHT,38.620956,34.719521,"Kaymakli, Nevşehir - Global",Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.876
 9d302480-1f19-435c-9343-90d6688a5122,Meva Suit Konaklama,HOTEL,38.62212,34.719707,Fatih Sultan Mehmet Mahallesi  No:24  MERKEZ/NEVŞEHİR,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hostel,lodging>hostel,0.770
 94efaa90-900b-4f33-a680-782cff566095,Kapadokya Uygulama Oteli,HOTEL,38.624485,34.718529,Ali Dirikoç Blv. No:13,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 e2f7adc9-9616-4be6-afc2-9417d465c287,Nevşehir Kalesi,SIGHT,38.622589,34.720219,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.897
@@ -109,11 +121,14 @@ cc9a3deb-7e56-442d-b18c-d7b065c1bf15,Dut Dibi Restorant,RESTAURANT,38.625656,34.
 3bcc337f-9ac8-4383-ae1e-3b52ee2fe9a0,Saray Yeraltı Evi,SIGHT,38.550907,34.767815,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.851
 86565bac-4cc5-4fc8-b0ae-1a327c3460fa,Cardak Sarayköy Evi,SIGHT,38.5499,34.767178,Nevşehir çardak Köyü No:65 ,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.903
 8919f85e-e1b4-490d-a5b1-1df3cc0fd739,Pukka Indian Restaurant Turkey,RESTAURANT,38.609314,34.783009,"Yukarı Mahalle, Ardic Sok 1/1",Nevşehir,CDLA-Permissive-2.0,Overture|meta,indian_restaurant,food_and_drink>restaurant>asian_restaurant>south_asian_restaurant>indian_restaurant,0.978
+f28c542e-8ed9-49e5-8f19-cd5781cc8279,Noble Crown Stone House Kapadokya,HOTEL,38.623985,34.793907,Ihlamur Sk. NO: 18,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.939
 d92ad3b0-aa3a-4bef-9344-9bc5b173cc36,Cappadocia Symbol Hotel,HOTEL,38.624245,34.793491,göreme,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
+89acca46-aa00-4440-96bd-99069a798b9d,Vg Cappadocia Cave House,HOTEL,38.623001,34.794674,Selahattin Küçükdağ Caddesi 21,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 996a3a45-9552-47cd-afe9-103287fca84e,Halayhan Kaya Restaurant,RESTAURANT,38.619278,34.79163,Çubuk Yolu,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 4eb1b519-228c-4b30-bc07-50680df1f062,Üçhisar Kale,SIGHT,38.610958,34.802498,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.720
 808b81dc-a0c2-4fe4-b480-3b4eaedac0ca,El Nazar Stone Suite,HOTEL,38.625027,34.797562,5. Özal Sk. No:23,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
 1fa0dbfd-214d-489d-a1cf-c23c20687af0,Pigeon Valley Hotel,HOTEL,38.62328,34.798725,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
+e9878fd3-3440-4d87-b0f6-504c116e9cdf,Relais & Châteaux,HOTEL,38.624699,34.800297,Tekelli Mah. No:1 Uçhisar,Nevşehir,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
 83fe1087-43d0-415f-babc-6822994b4394,Remus Romulus Hotel,HOTEL,38.623592,34.80394,Adnan Menderes Caddesi 30,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.957
 1d03c87e-11e4-4a6c-a999-1ada364859fc,Calina Otel,HOTEL,38.621994,34.801994,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.956
 dc60c6d6-b059-45c5-a713-11949e5d15b3,Kapadokya El Sanatları Merkezi,SIGHT,38.61887,34.804226,Adnan Menderes Cd.,Nevşehir,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.954
@@ -131,7 +146,9 @@ a23f3c40-12b8-413e-a2e5-d554b0d35192,Babayan Evi Restaurant,RESTAURANT,38.598938
 68d1914d-f81f-4655-9be3-324987d81a26,Sentor Restaurant,RESTAURANT,38.5993,34.848869,İbrahimpaşa Köyü Yolu,Ürgüp,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.877
 93aa7b08-9699-482d-9447-eb07f9636fc0,Nino Cave Suites,HOTEL,38.599236,34.848953,İbrahimpaşa Kümeevleri No:284,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.970
 d34ede07-6c85-414e-b18e-f6e177b5ec48,El Puente Cave Hotel,HOTEL,38.599178,34.849571,İbrahimpaşa Köyü Yolu no:44,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
+beb0dd1d-8c9c-416a-b1d9-1bbf472bf71a,Barceló Cappadocia,HOTEL,38.613083,34.837132,"Nevşehir Cad 17, Bahcelievler",Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.891
 24d38123-ef6c-486b-8703-ebfb5823d874,"Goreme Open Air Museum, Cappadocia",SIGHT,38.625542,34.848728,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.772
+9abee5c3-ac23-42b7-ab4e-134366e289d9,Three Doors Cappadocia,HOTEL,38.601406,34.850323,No. 161 Kapadokya/Cappadocia/Ürgüp Nevşehir TR,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
 88948cf1-1412-4bcc-a4dd-1a0423cd0560,Anka Cave Suites,HOTEL,38.601543,34.850395,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.939
 7d0c8549-4dfe-4de2-970d-df845f025822,Valley İnn Cave Hotel,HOTEL,38.601864,34.851944,İbrahimpaşa Köyü,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.885
 0ca79c68-62dd-45f2-aa5b-753d226808dd,Babayan Evi Cave Boutique Hotel,HOTEL,38.601814,34.851433,İbrahimpaşa Köyü Munar Mah. No:145 Ürgüp Ürgüp,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.857
@@ -194,6 +211,7 @@ a1684b03-16e2-4ba9-8930-74277bbeeb1b,Hotel Özyel,HOTEL,38.625099,34.864197,Özy
 2fcda756-fc67-4bec-9bf7-bd81816bddc8,Gümüş Hotel/Capadocia,HOTEL,38.624043,34.865562,Hüseyin Galip Efendi Caddesi 30,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.889
 f1f4b21c-48de-4670-94eb-9e871207dfec,Kızılçukur Vadisi,SIGHT,38.623585,34.865326,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.728
 ac870165-0848-404f-815c-093d5c113b66,Acer Cave Hotel,HOTEL,38.623959,34.864967,"Cappadocia, Hüseyin Galip Efendi Cd. No:11/1",Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
+e676f7f5-5915-41ab-8bb9-5b0a7ac22f67,Каппадокия,SIGHT,38.623741,34.864681,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.775
 aeff5082-c0e3-4343-aa9b-6ef6f2b9bfb8,Oba Cave Hotel,HOTEL,38.623501,34.865219,Hüseyin Galip Efendi Cd. No:1 Sk. No:6,Ürgüp,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.994
 370b4eea-ba86-4755-a96d-15036a6d3e97,Ortahisar inn Hotel,HOTEL,38.623066,34.866161,Ortahisar Merkez,Ürgüp,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 b614a1f5-ce5c-4826-9bee-e9eeb16a90a9,Nova Cave Hotel,HOTEL,38.624508,34.866108,Eski Mah. Seker Çesme Sk. No: 23 Ortahisar/ Ürgüp,Ürgüp,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.961
@@ -208,6 +226,7 @@ d3104ad4-2459-4495-82cf-3e0ba585f03d,Vigneron Cave Hotel,HOTEL,38.620056,34.8657
 69df0200-3ef6-42ce-b0a6-c3bd7bb9f7e4,Splendid Cave Hotel,HOTEL,38.619392,34.866276,Ortahisar Kasabası Eski Mah. Köprü Sokak No.97,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
 4bab9220-0e8d-46ac-ad51-f3fff3a350ab,Abu Hayat Cave Suites,HOTEL,38.619038,34.865204,"Eski Mahalle Hacı Telgraf Caddesi No42, Kale Sokak",Ürgüp,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.945
 ab2fb448-1d10-46d7-9a4d-4219e5612817,Potamia Cave Suites,HOTEL,38.618851,34.865097,kapadokya /1 sokak no:28,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.952
+23008e81-8a2c-454e-9321-f88777028039,Uçhisar,SIGHT,38.618031,34.868961,Uçhisar,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.826
 27fec114-f7af-4350-bbda-f6a1903edbc0,Janus Cappadocia Hotel,HOTEL,38.622719,34.869106,Ortahisar Kas. Eski Mah. Kapadokya Cad. No:24 Ürgüp/NEVŞEHİR,Ürgüp,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.786
 e09dffac-98b0-4434-add6-2f58ec2f6191,Carna Cave Hotel,HOTEL,38.610874,34.877277,Eski Mah Küme Evler 19,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
 d7026947-2ba8-48ef-aede-8ca8be54c903,Pancarlık Church,SIGHT,38.614403,34.892712,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
@@ -273,8 +292,10 @@ d1fbd158-1609-4c5d-adba-f667728be28a,Gamirasu Cave Hotel,HOTEL,38.545654,34.8707
 a83c2bc1-ccf8-4f76-99d1-2b025f0816f2,Basdegirmen Alabalık,RESTAURANT,38.557903,34.91983,Damsa Barajı Altı Mustafapaşa,Ürgüp,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.962
 e1d94ba7-2254-4b1b-a17e-026056158e8e,Damsa Barajı,SIGHT,38.554455,34.921768,Mustafapaşa-Şahinefendi Yol,Ürgüp,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.906
 fc1df662-940d-463b-8f36-2fa5297dd577,Cappadocia Efe Restaurant,RESTAURANT,38.591946,34.905731,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.954
+620ecc2e-6c23-4944-af86-7c7b3d273d29,AyAn Restaurant & Düğün Salonu,RESTAURANT,38.616482,34.924435,koyun yolu mevkii ,Ürgüp,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.765
 fa5c8127-c104-485d-9b4e-565a5aa5c05d,Mustafa Paşa Kasabası,SIGHT,38.583332,34.933331,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.814
 c1d91a69-e8ef-4421-8db9-70180eb37e8a,Keşlik Manastırı,SIGHT,38.514263,34.942432,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.879
+db16850c-bb95-4dce-a6b2-6ece294a0a51,Mazı Yeraltı Şehri,SIGHT,38.469879,34.948654,Şahinefendi Köyü,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.819
 fda42940-d1a6-4223-aac8-13c89d8eccd9,Sobesos Antik Kenti,SIGHT,38.464184,34.965706,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.762
 38148735-26dd-4f64-a2ef-77571bedad2f,Soğanlı Vadisi,SIGHT,38.350986,34.966377,Soğanlı Köyü,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.963
 7f727aec-3cb5-4a59-83ca-02d880673473,Yılanlı Kilise,SIGHT,38.351093,34.966717,,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.823
@@ -287,11 +308,9 @@ ef09ec03-0a73-4511-a1ca-deeac318bde1,Soğanlı Vadisi Kiliseleri,SIGHT,38.344681
 6e0939e6-a0cf-4049-9e8f-03fa50eca1d3,Cappadocia Soğanli Valley Pension Ziya Baba,HOTEL,38.344597,34.967113,Yukarı Soğanlı kümeevler ziya baba soğanli restoran pansiyon,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.936
 18283c75-db59-4a39-aea6-b058029bd0a0,Soğanlı Pension Restaurant,HOTEL,38.333275,34.999966,Soğanlı Valley,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.891
 6c15b996-3779-4a56-a8a1-13015e64e74a,Soğanli kapadokya Restorant,RESTAURANT,38.336548,34.992794,soğanli koyu,Derinkuyu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.899
-8382f4b2-2b24-4ff9-b19a-80f029df18f4,Soğanlı Valley -Soganlı Vadisi Kayseri,SIGHT,38.340374,34.979259,"Soğanlı Köyü Yolu, 38800, Soğanlı, Yeşilhisar, Türkiye",Derinkuyu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.918
 06e5e447-822d-44ad-b2e8-ce275bee6007,St. Theodore Church,SIGHT,38.543015,34.990917,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.849
 90373eae-5b3c-4d7f-af8e-0714b026913c,Pideci Bilal,RESTAURANT,39.01366,34.639114,,Kozaklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.786
 1ec63ad9-57c4-4b4d-8352-0c4e3b924416,Aşık Mahzuni Şerif mezarı,SIGHT,38.939468,34.579025,,Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.770
-f7897560-5ce3-4914-9bae-d6921520ee3a,Kırşehir Hacı Bektaşi Müzesi,SIGHT,38.941952,34.58543,,Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.701
 7e33c98a-1db0-4881-8e79-34b10a5b9753,Komagene Etsiz Çiğ Köfte,RESTAURANT,38.941116,34.561676,"Eski Pazar yeri, Bektaş Efendi Sk. no 18/A",Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.969
 c6796ff2-6ad6-442e-a67c-5440b9c0a19a,Akçaoğlu Restoran,RESTAURANT,38.941662,34.560524,Pazaryeri Sk. No:43,Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.816
 b935d126-b2ab-4e29-a754-4b7aae04936f,Can Baba Köfte Şiş,RESTAURANT,38.941708,34.56179,Pazaryeri Sk. No:43,Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.801
@@ -319,7 +338,6 @@ d52893eb-8420-4fc7-a554-ad98855d3a2c,Fuat Baba Otel Pansiyon,HOTEL,38.947903,34.
 af5df211-dbee-4ceb-bd9b-989225e8c233,Kasapcan restoran,RESTAURANT,38.941956,34.559605,Okul Sk.,Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.982
 f22362f9-881f-4ad8-ab3d-5ab69787e69c,Uçhisar Kalesi,SIGHT,38.941708,34.559212,,Hacıbektaş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.719
 9a2254e0-72d2-448c-ada8-0b6564c0dc9e,İsoetmangal,RESTAURANT,39.048008,34.510731,Mucura 13 km,Kozaklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.871
-11808630-d0be-4e3f-ab71-7459f98de61f,Obruk Gölü Mucur Kırşehir,SIGHT,39.059872,34.517719,,Kozaklı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.701
 22ea3559-8d86-42fd-8ddf-1640fe4a8c98,Hacıbektaş Kumtepe Göleti,SIGHT,38.928818,34.626667,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.889
 9e6c24b3-4e79-4f2d-9a64-f7919bcf4917,Mantar kaya Açıksaray Gülşehirnevşehir,SIGHT,38.734814,34.666,,Gülşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.740
 66becaa9-a1d8-4c24-977b-d14beee35476,Mantar kaya Açıksaray Gülşehirnevşehir,SIGHT,38.737934,34.66272,,Gülşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.747
@@ -333,7 +351,6 @@ ec79ab08-d38b-4138-9e84-3ea3ead066e6,Cappadocia Plus Hotel,HOTEL,38.744926,34.61
 4ad2a8b6-35f3-4831-80da-fb8661465c18,Canpolat Avm,SHOPPING,38.747009,34.620457,,Gülşehir,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.735
 0d7ee672-53e9-4971-be84-64b3fe859d69,Gulsehir Kaya Lunapark,ACTIVITY,38.750069,34.622635,Çevreyolu Caddesi 1/3,Gülşehir,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.972
 f0ed67f8-13f9-426a-8a8c-2e5a272b07ae,Gülşehir Sadabad Parkı,SIGHT,38.751888,34.621731,Kırşehir Nevşehir Yolu No:28,Gülşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.918
-fb211cc5-242e-47b6-a50a-45766acd82e0,İstanbul Ucuzluk Pazarı Gülşehir,SHOPPING,38.751163,34.617706,Kızılırmak Caddesi 9,Gülşehir,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.701
 0da9a199-0136-42fa-ae2e-dbfc12bfa1c2,Serince Çiğ Köfte,RESTAURANT,38.747379,34.61842,Kızılırmak Cd.,Gülşehir,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.775
 1695ab99-8a99-411b-bfba-a323ac3643ca,Çakırca Balık Evi,RESTAURANT,38.777462,34.558773,,Gülşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.801
 ebb6145f-399a-4ccd-8202-8d1575652370,Çat Vadisi,SIGHT,38.678974,34.6623,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.735
@@ -373,7 +390,6 @@ fbee5b94-795f-4eaf-bbc4-2899945b7460,Altınöz Hotel Nevsehir,HOTEL,38.628456,34
 9a49b1d4-c9e0-41ff-85fa-718acece8539,Hotel Business Han,HOTEL,38.628242,34.71524,"METERİS KARŞISI, Saatçi Hoca Cd. No:11",Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.992
 f1c58b67-f5fd-4ba4-8477-30bb24ad7751,ANGEL Cafe&bistro&bar,RESTAURANT,38.630653,34.70969,5. Sokak 4,Nevşehir,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.813
 dfe3e52a-1b4b-4c08-8612-29dfac365e0e,Köfteci Ramiz Nevşehir Şubesi,RESTAURANT,38.631603,34.719418,"Nıssara Avm, Lale Caddesi 29",Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.908
-17694eab-204a-4536-9fbf-5405d1c6db38,Bolu Et Mangal,RESTAURANT,38.631752,34.72427,Necip Fazıl Kısakürek Blv.,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.979
 086be39c-6673-43fd-8214-a84c235dfe3e,Kırmızı Beyaz Et Mangal,RESTAURANT,38.631523,34.723808,Emek Mah,Nevşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.766
 48b36df6-3266-4f74-8a1c-8db548fa0a9d,Kipa Cafe,CAFE,38.630402,34.731777,Forum Kapadokya,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.816
 71e83db7-ba1b-46ea-bb1f-f84df3def05a,Topkapı Sarayı Apart Rezidans,HOTEL,38.62925,34.720448,Saatçi Hoca Cd. No:57,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
@@ -389,8 +405,10 @@ a3a1c693-1196-419e-b5d0-5d973189f676,Hamidiye Börekçilik ve Baklava,RESTAURANT
 c1207446-7baa-4791-830c-91d330614dac,Kanatçı Halil Restaurant,RESTAURANT,38.631123,34.74395,Ürgüp Yolu 2. Km,Nevşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.948
 25ea0982-8146-443f-929b-58e29dbea95d,Monark Hotel Cappadocia,HOTEL,38.63047,34.743721,Ürgüp Cd. No:72,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 de805fbe-44d0-4b71-9cce-45d338ecb423,Cappadocia Marriott Hotel,HOTEL,38.631077,34.752579,Ürgüp Cd. No:98,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
+dd2aa43e-edf7-40ae-88dc-68296bdc735e,Masal Park Cafe Ve Kır Bahçesi̇ Düğün Salonu,CAFE,38.626484,34.768677,Uçhisar Kavşağı,Nevşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.777
 aa58205b-624b-48e9-8896-c9413f000037,Grand Uçhisar Hotel,HOTEL,38.628555,34.796787,Atatürk Bulvarı 40,Nevşehir,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.894
 f3bda39d-b60b-4317-9ee2-7be3b7510691,Paprika Burger & Pasta,RESTAURANT,38.628723,34.802673,Fatih Cd. No:20,Nevşehir,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.976
+05cef3bf-07a1-4707-b18a-6c1df1dc2bb7,UCHI Cappadocia,HOTEL,38.62859,34.804241,Adnan Menderes Caddesi 14,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.842
 e14ed42d-c1c7-40ea-9cda-756e86f1e43b,UÇHİSar Kadinelİ Restaurant,RESTAURANT,38.628525,34.803257,Fatih Cd.,Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.974
 7689e961-659e-4580-8aa5-0da1966d5e3c,Kebapci Mustafa,RESTAURANT,38.628464,34.803719,Eski Belediye Mcydani,Nevşehir,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.850
 e685212b-887d-49f0-a4b1-a0c2e86b0748,Coffee Time,CAFE,38.628487,34.802853,Fatih Cd. No:9,Nevşehir,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.880
@@ -400,6 +418,7 @@ c0ec24fd-d4c2-4aa3-ae0f-bafad6499f08,Selfie Hotel,HOTEL,38.628189,34.804176,"Tek
 10071fa4-5e40-4925-af3a-aaba1be5a2a0,Elai Bistrot,RESTAURANT,38.628155,34.804405,Fatih Cd.,Nevşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.986
 e657459b-92f2-4260-a2e4-2d11344751a4,Pinhan Suites,HOTEL,38.628109,34.804581,Belediye Meydanı No:11,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.931
 10476370-c2be-4c3c-b149-a8b873a8a98d,Nusr-Et Steakhouse,RESTAURANT,38.628021,34.804062,Belediye Meydanı No: 1A,Nevşehir,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.922
+4b7b7450-52d0-4aea-9203-edb2e71575c3,Uçhisar,SIGHT,38.627949,34.80452,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.896
 dbe1c7b6-69f9-4103-a5ef-de662a885401,Ottoman Cafe & Restaurant,RESTAURANT,38.627899,34.803822,Uçhisar,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 ac8429fc-2871-464c-a037-0e3738e81504,Cafe Di Dolce Kapadokya,CAFE,38.627838,34.80434,Belediye Meydanı No: 1A,Nevşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.754
 ea0c56e0-c356-4893-9e4a-1282763cf1ba,Capiedra Hotel,HOTEL,38.627853,34.801357,"Yukari Mah, Kadi Burhaneddin Sokak No, D:1",Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
@@ -411,6 +430,8 @@ a04bdddc-1025-4b1a-bfb0-4138ecd41a5b,Ahiyan Hotel,HOTEL,38.627918,34.801159,Kad�
 b58e4c3d-0fa1-4570-aeeb-4e8a53b9d19f,Cappadocia Pegasos Cave Suite Hotel,HOTEL,38.6273,34.804691,Adnan Menderes Cd. No:3,Nevşehir,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.969
 fdb05897-559e-42f3-a2a8-03c0e59ff96f,Ucasar Döner ve Çiğköfte,RESTAURANT,38.62706,34.802429,Osman Güven Sk. No: 14/3,Nevşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.927
 8cd989a0-324e-4e37-8ce0-8c76596c5967,Pigeon Hotel,HOTEL,38.626907,34.80468,Trafo Çıkmazı Sokak No:5,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
+5a29460a-eb60-47c0-8f75-0d0f1b3b7575,Wish Cappadocia,HOTEL,38.626835,34.804676,Özsoy Çıkmazı Sokak 3,Nevşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
+287378e5-dd6c-4f05-a301-a420e7953a54,Kapadokya Uçhisar Nevşehir,SIGHT,38.627365,34.799232,,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.774
 1da26242-b67c-4364-919f-2912afbeb7bb,Shecooks Cappadocia,RESTAURANT,38.627373,34.799252,"Tekelli, Göreme Cd. No:4, 50200 Uçhisar/Nevşehir Merkez/Nevşehir",Nevşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.929
 38f33c71-a562-470d-965d-c8906e0cc559,Nazar Ağacı,SIGHT,38.627193,34.794964,Güvercinlik Vadisi Karşısı...,Nevşehir,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.815
 304ac70e-6354-4491-977b-f2057e250f0f,Guvercinlik Vadisi,SIGHT,38.626343,34.804626,Aşağı Mah.,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.929
@@ -551,8 +572,6 @@ dee96e66-8a14-466c-93c7-42c7f15ad586,Pashabelle Hotel Goreme Cappadocia Turkey,H
 b9c511a4-ba8c-4383-9f99-45e770b37ebb,Cappadocia Sunrise Breakfast,RESTAURANT,38.648521,34.837162,kasabası Nevşehir TR,Avanos,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.862
 e54530f5-ff41-4676-b7db-ae2ba2f1e6ca,Göreme Reva Hotel,HOTEL,38.647766,34.8321,"Anatolia Region, Avcılar Mah Central, Kaymaklı Sk. no:13",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
 6d3193bf-8f99-452b-bcbf-908576b30d93,Caravanserai Inn Hotel,HOTEL,38.647957,34.833405,"İsali Gaferli, Avcılar Mahallesi, Eski Bağyolu Sokak, Dutlu Sk. no:8",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.980
-fa54f973-8cea-475a-9e17-9e51fca234e6,Eskişehir Sazova Parkı,SIGHT,38.646915,34.831707,,Avanos,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.878
-6b90a357-23b7-49a7-9bc4-d0860b91ea8f,Eskişehir Sazova Parkı,SIGHT,38.646961,34.831875,,Avanos,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.878
 041162ae-2505-4751-9ba5-601735ecdeac,Cappadocia View Hotel,HOTEL,38.64711,34.833061,Kaymaklı Sokak 14,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.988
 de06c833-0cc9-422d-a33b-32402c45647b,Çakıltaşı Evi Hotel,HOTEL,38.646378,34.831871,Mehmet Tan Cd. No: 8,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
 358f69b3-51dd-486a-aded-2212b825947e,Burger King,RESTAURANT,38.646267,34.833035,İsa Ali Gaferli Avcılar mah. Bilal Eroğlu,Avanos,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
@@ -595,6 +614,7 @@ f6f29e54-f0b3-4894-8088-92a5c83a643b,Panda Hostel Göreme,HOTEL,38.644016,34.830
 53052ea5-5a2b-4882-8058-60ef321e28af,Ferize Gastro Meyhane,RESTAURANT,38.643913,34.82877,"Göreme, Belediye Cd. No:5C D:M",Avanos,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.799
 3f00b463-00d1-47c5-93f1-3218a794a45f,Dilek ağacı-salkım tepesi,SIGHT,38.64426,34.829269,esentepe mevki dilek ağacı-salkım tepesi panorama,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.945
 f8de762c-8283-4a27-b26d-c44c13cfb882,Ala Stone Hotel,HOTEL,38.644176,34.829086,Musluk sok no 15,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.981
+5fe49bcd-0799-4795-8c0c-a3d971d1f2c0,唐人街火锅店,RESTAURANT,38.644176,34.829086,Orta mahalle Adana Mederes caddesi NO1/1 Göreme Nevşehir ,Avanos,CDLA-Permissive-2.0,Overture|meta,chinese_restaurant,food_and_drink>restaurant>asian_restaurant>east_asian_restaurant>chinese_restaurant,0.802
 8f089edd-3ab3-4b6a-88c7-c4cf77d54314,Sun rise view hotel,HOTEL,38.644176,34.829086,,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.902
 da45b86a-423a-4e0d-8c08-00900205fce5,Olivia Cave Hotel,HOTEL,38.644192,34.830097,Sağlık Sk. no:6,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
 aa59baf5-ff80-4368-b705-256c2f48ca6b,Mirzade Konak Hotel,HOTEL,38.644306,34.830715,Fatih Sokak 7,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.981
@@ -654,6 +674,8 @@ e386b2b9-3366-4279-8caa-9cd17149bf82,Atak Hotel,HOTEL,38.643585,34.827316,Karş�
 056eaa32-6d97-49ab-ae01-5131fed08edb,Heybe Hotel,HOTEL,38.643188,34.826378,"Merkez Nevşehir TR, Uzundere Cad No:27",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 79ad0b9b-02f5-45a2-8175-f723b1fee505,Empire Cave Hotel,HOTEL,38.643147,34.825279,Aydınlı Sokak 44/2,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 f5f82555-84eb-411b-9452-5ce89526838a,Fat Boys Bar & Cafe,RESTAURANT,38.642986,34.829353,Turgut Ozal Meydani,Avanos,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.980
+3f6ec363-1f3a-45de-a37b-834894d44098,Национальный парк Гёреме,SIGHT,38.643055,34.828888,,Avanos,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.741
+e5be784e-52b9-405b-865a-c62ab16c752e,Göreme / Nevşehir,SIGHT,38.643055,34.828888,50180 - Goreme / Nevsehir,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.802
 7eb3042a-5d52-4565-abb8-7085af2c5d24,India Gate Indian Restaurant,RESTAURANT,38.643257,34.828644,Aydınlı orta mahallesi Uzun dere Cad. No:3 Göreme Belediyesi / Merkez,Avanos,CDLA-Permissive-2.0,Overture|meta,indian_restaurant,food_and_drink>restaurant>asian_restaurant>south_asian_restaurant>indian_restaurant,0.984
 dd6c255f-ee26-4499-b8f9-6e1386bcc77f,Panorama Terrace  Rest & Bar,RESTAURANT,38.643314,34.828655,UZUNDERE CAD MILLI SOK.,Avanos,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.892
 bf77150a-722c-4238-a9b4-8bc1d9d06988,One Way Cafe,CAFE,38.643269,34.829041,Belediye Cd.,Avanos,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.927
@@ -785,6 +807,7 @@ d70e399b-404e-4c06-8186-10e2255f441e,Kelebek Cave Hotel,HOTEL,38.641895,34.82586
 09d4b0ac-dd40-491c-b761-2acfb2644cd2,Uzundere Anatolian Restaurant,RESTAURANT,38.641998,34.824963,Uzundere Caddesi 1A,Avanos,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.936
 95d6c95b-bb1d-48a8-a445-eebd77dfcfdb,Elif Star Cave Hotel,HOTEL,38.641987,34.8251,,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.860
 c15a978c-3613-463e-86bb-ae5d44f8f1cf,Hera Cave Suites,HOTEL,38.642048,34.825043,Uzun Dere Cd. No: 37,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
+1f77aebb-328f-4527-99b2-f6a89a1916a6,Göreme Panorama,SIGHT,38.641682,34.818016,Uçhisar yolu üzeri 1.km Göreme,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.950
 fa679968-d0df-4f56-8b29-62a6a84eeaa7,O Ağacın Altı Panorama Restaurant,RESTAURANT,38.641129,34.8176,Uçhisar Yol 3 Km Göreme,Avanos,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.766
 da316605-a512-4937-a93c-e868f06495ee,Kandil House Butik Hotel,HOTEL,38.643719,34.812691,Tekeli Mah. Göreme Cad. No:54 Üçhisar Kapadokya Ürgüp,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.805
 fffdccc8-0a58-4e5b-bcc5-e5a8882e4d5d,Güvercinlik - Pigeon Valley,SIGHT,38.639378,34.82869,,Avanos,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.743
@@ -802,7 +825,6 @@ ecb5d886-5612-47c4-bbc9-09a1ba8eab2c,Explorer Cave Hotel,HOTEL,38.640717,34.8264
 6b31850b-e0a5-44fa-a198-f4d3a7a8151a,Aza Cave Hotel- Adult Only (+12),HOTEL,38.64048,34.825695,Çakmaklı Sk. No:14,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.991
 7716f8c3-65b7-4f49-9a2c-4573b27fbb10,Cafe Şafak,CAFE,38.640396,34.829273,İçeridere Sk. No:27,Avanos,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.789
 f312a2f5-cd85-4884-8212-415ee76dc730,Emit Sakura Cave Hotel,HOTEL,38.640602,34.827282,Aydınlı Sk. No:58,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
-fdbdfbd8-0916-424c-bb50-5d63ca2d533d,Roma Cave Suite Hotel,HOTEL,38.640675,34.828651,İçeridere Sk. No:30,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 39788362-6077-4932-80e0-90c25f5b43c4,Aren Cave Hotel,HOTEL,38.640598,34.829151,Isali Mah. Iceridere Sok. No :13,Avanos,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 2515ecfc-a353-49af-a055-607e4ccdb240,Oscar Steak House,RESTAURANT,38.640587,34.830376,"Avcılar Mahallesi, Aydın Kırağı Sk. no19/a",Avanos,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.974
 75fd622a-6893-431c-a874-5be045af82d7,Elegance Cave Suites,HOTEL,38.640598,34.83004,Aydın Kırağı Sk. No:10,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.946
@@ -839,10 +861,10 @@ b2178f79-857e-4a7b-a4b2-636f529ad919,Muzenin Kahvesi,CAFE,38.639931,34.845383,,A
 12d2c16f-1137-42a8-95cb-2734ce809965,Hotel Prokopi,HOTEL,38.640133,34.908039,Hoca Ahmet Yesevi Cd. No:13,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.915
 debe977e-db8f-4313-b586-39622c3165b1,Hotel Cappa,HOTEL,38.64016,34.908485,Ali Baran Numanoğlu Bulvarı 9,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.928
 c6be30be-1b94-4efe-b6b1-11971e30e51d,Taşkın Hotel,HOTEL,38.641167,34.909283,abn bulv,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.960
-ee6172fd-ca2e-473e-abbd-cf4f26a4f26a,Kebapcı Köşk,RESTAURANT,38.641922,34.903595,Kavaklıönü mahallesi ,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.753
 8717d140-97e3-4258-b51e-068a6a2e37eb,Sushicappadocia,RESTAURANT,38.64362,34.909126,35. Cadde 18,Ürgüp,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.940
 c50e7d5a-ef9e-4fab-a370-aec9e9326ef3,Göreme National Park,SIGHT,38.640774,34.844936,"Açık Hava Müzesi Otoparkı, Müze caddesi, üzeri",Avanos,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.983
 0ad51d46-3a55-4a38-b96e-07117429606c,Göreme Open Air Museum,SIGHT,38.641338,34.844162,,Avanos,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.874
+15bcef1c-34fc-4634-be37-a5c8d77d87d3,葛拉梅露天博物館,SIGHT,38.641472,34.843281,,Avanos,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.873
 16583c3c-97db-4e0b-bcdc-9c5375a7308c,Seyyah Han Restaurant & Cafe,RESTAURANT,38.642818,34.84066,Maltepe Sok.,Avanos,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.900
 259d8ccd-5cbc-4091-ba5c-ec9a59154e53,Tarihi Yeraltı Çarșısı Göreme,SIGHT,38.642887,34.840717,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.834
 c52368fc-7184-4e8d-9c25-cc02f0ae57e6,Peribacaları,SIGHT,38.643105,34.841152,,Avanos,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.751
@@ -883,6 +905,7 @@ aebda86e-9f33-4c0b-8f17-e268c06e9d04,Golden Cave Suites,HOTEL,38.63496,34.90374,
 06f8ff4f-f47b-4e58-99e0-e9618da2e4b4,Mihrerestaurant,RESTAURANT,38.6353,34.903744,"Zeydem Suites, Esbelli Sk. No:5",Ürgüp,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.819
 9f4dc086-7326-4ad4-b19d-3d1f64dfa7d5,Nostalji Cave Suit Hotel,HOTEL,38.635395,34.902824,"Esbelli, Dolay-2 Sk. No:12",Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 31457705-381f-4623-9a32-61e574a0097b,Crassus Cave Hotel,HOTEL,38.635319,34.902847,Dolay-2 Sk. No:6,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.988
+c93d979e-b47d-4b7b-8c16-53d6e725768f,ÜRGÜP Balloons,ACTIVITY,38.635971,34.902409,Dolay 2. Sokak 22,Ürgüp,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.989
 4814a45b-137c-4ffb-9f01-052eba1abc48,Acropolis Cave Suite,HOTEL,38.636051,34.902157,Dolay-2 Sk. No:22,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
 e42a303e-5441-4a7a-809c-ee5a863bd0cc,4 Room Cave Hotel,HOTEL,38.636021,34.903019,Esbelli Sk. No:46,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.965
 6bf915de-ead8-41b9-b77e-d708caec076e,4 Oda Hotel,HOTEL,38.636143,34.903011,Esbelli Mah. Esbelli Sok. No:46 Ürgüp,Ürgüp,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
@@ -893,6 +916,7 @@ e423f9a8-18ce-40dd-ad68-2e7e2ea0c4bc,Aynalı Kilise,SIGHT,38.635643,34.854435,,A
 fa386fee-0052-4733-ad93-8bad91113a40,Kizilcukur- Ortahisar,SIGHT,38.634361,34.863373,Ortahisar,Ürgüp,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.780
 3d6c145d-d72d-4690-b675-45a15799336d,Aynalı Kilise Cafe,CAFE,38.633976,34.855137,Göreme Caddesi,Ürgüp,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.936
 cf51816f-e257-4d6d-a7c8-f0415345cc1d,Zindan Tepesi,SIGHT,38.632896,34.858086,"Ortahisar,Nevşehir,Türkiye",Ürgüp,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.901
+01154046-1593-4c18-a62e-4d40fced723a,Ramada by Wyndham Cappadocia,HOTEL,38.632149,34.859093,"Karatas Mevkii, Nevşehir Cd. No:1",Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 3f9fd6fc-1c77-47c1-84b2-5181d4e34c1d,Hallach monastery,SIGHT,38.632191,34.870338,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.759
 94934cc9-7666-4a14-8403-a142a530901c,Taru Cave Suites,HOTEL,38.634579,34.904598,Aksakal Sk. No:9,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.982
 12d440fe-9053-4460-9cc8-338947f26790,Sushi cappadocia,RESTAURANT,38.634567,34.91106,Şht. Cem Bul Cd. No:35 D:1,Ürgüp,CDLA-Permissive-2.0,Overture|meta,japanese_restaurant,food_and_drink>restaurant>asian_restaurant>east_asian_restaurant>japanese_restaurant,0.950
@@ -992,6 +1016,7 @@ a4561591-11bd-42a9-af20-37005aecdea2,Ayazma Cave Hotel,HOTEL,38.629261,34.902699
 177480e3-808c-4c01-aba9-60817295ac4a,Park Cafe Ali’nin Yeri,CAFE,38.631176,34.856899,"Eski Mahalle Tepebaşı Meydanı No:23 Ortahisar, 50650 Ürgüp/Nevşehir",Ürgüp,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
 99d65d34-3560-4d9a-aaf6-569388c4be2d,Seten PİDe Cafe,CAFE,38.630798,34.857967,ORTAHİSAR ÜRGÜP,Ürgüp,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.787
 42d5a82e-9391-4e5d-9b4f-ab3bfd3c9ab8,Carna Cave Hotel,HOTEL,38.630619,34.858028,Eski Mah Küme Evler 19,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.978
+8bfe0a8e-db4b-42b7-a893-3d262f9869ac,Barceló Cappadocia,HOTEL,38.629005,34.855812,17 Nevşehir Cad,Ürgüp,CDLA-Permissive-2.0,Overture|Uberall,hotel,lodging>hotel,0.999
 823118ee-c1c2-4337-bc76-369d1332806d,Aydede Restaurant,RESTAURANT,38.627953,34.863911,Atatürk Cd. No:4,Ürgüp,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.988
 df42bc50-1928-44eb-9f26-af236e77d546,Kapadokya Kılıçlar Vadisi,SIGHT,38.626049,34.852631,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.793
 aa4a35aa-f453-4dac-b5dc-0ff3c5bbeadd,Zindan Tepesi,SIGHT,38.627289,34.863392,"Ortahisar,Nevşehir,Türkiye",Ürgüp,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.902
@@ -999,6 +1024,7 @@ a5b03397-e7be-4de8-836d-89aead06deea,Anka Restaurant,RESTAURANT,38.627251,34.864
 27663f3e-0bc6-4e61-91cd-3d94cbbf9453,ALATAV restaurant ve Köy Kahvaltisı,RESTAURANT,38.628757,34.901451,Karağandere Mahallesi İstiklal Caddesi No 99,Ürgüp,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.770
 2d96ee24-46d0-4829-b09a-aa7b175e84ca,Oread Cave Suites,HOTEL,38.628357,34.903732,Karağandere Sk.,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
 dff9dcdb-f0cf-48ab-a8ed-5877c97ba31e,Alfina Hotel Cappadocia,HOTEL,38.628857,34.903496,İstiklal Cd. No:89,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
+fad7160f-31a6-4cb1-8cf7-edbd9d71d555,Mazi Underground City,SIGHT,38.628838,34.904808,"Mazi Underground City, Nevsehir - Global",Ürgüp,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.955
 3d414f92-be47-469e-a7da-53a61b10dd97,Kardeşler Konağı (Pansiyon),HOTEL,38.628716,34.906494,"Nergis Sokak, Ürgüp",Ürgüp,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast,0.770
 7ffdf8f6-0067-417c-83e6-112891b7b068,Dedeli Konak Cave Hotel,HOTEL,38.628628,34.906971,"Dedeli Konak Cave Hotel, Barbaros-3. Sk.",Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.964
 ba2bd416-7a4c-4b05-a71d-bf85fa9fd4f4,Larissa Cave Hotel,HOTEL,38.628746,34.90892,Dutlucami Sk. No:7,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
@@ -1059,12 +1085,14 @@ a7473bb5-c355-499f-8946-9d361f69faab,Mersin Tantuni,RESTAURANT,38.631123,34.9134
 c50ec2bc-a005-4cc6-a796-3d507ea4bf96,Mübrem Breakfast&Coffee,CAFE,38.631432,34.913105,Tahsin Ağa Sokak 21,Ürgüp,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.799
 daa52feb-43d3-483f-abe0-1bc41f37a30c,Urgup Piknik Aile Cay Bahcesi,CAFE,38.63155,34.912598,Kayseri Cad Ürgüp,Ürgüp,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.848
 d2239525-344c-4da2-9bf7-80122ecc463a,Ürgüp Kapadokya,SIGHT,38.63155,34.914223,Cumhuriyet Mahallesi Atatürk Bulvarı ,Ürgüp,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.922
+d46bd820-5fbe-4f91-9591-4d2c3b517e65,Doubletree by Hilton Urgup,HOTEL,38.631794,34.914272,Atatürk Bulvarı 44,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.898
 15f66f5b-6a6e-473c-b699-5c4c32cb37e8,Otel CaveKonak Ürgüp,HOTEL,38.631569,34.916546,,Ürgüp,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.885
 eb4e89f7-8198-4b0f-9860-ab0acd0e5f11,Zirve Cafe,CAFE,38.671162,34.968533,Mevki,Ürgüp,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.809
 575bffe0-90b9-4df7-be5d-457784d2d38a,Cappa Villa Cave Hotel,HOTEL,38.669807,34.95615,,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.990
 860fc4c3-bc36-49cc-a566-e9558e49e636,Devrent Tepesi,SIGHT,38.671555,34.890015,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.866
 3ef56b30-9c49-4b6f-b55c-edde120636c6,Camel rock Mountain,SIGHT,38.6726,34.885822,devrent mevkii no:1,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.804
 3448b988-5a0f-490d-9a68-6cffb1a5d030,Underground Cave Suites Hotel,HOTEL,38.669506,34.841213,2. Küme No:22,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.950
+480a1434-1a10-46c1-9836-4ab83368c177,Çavuşin,SIGHT,38.669338,34.840591,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.709
 55071af9-a882-4756-9013-585422cc1545,Daphne Cave Hotel,HOTEL,38.668854,34.842239,"3.küme evler, Çavuşin Köyü Yolu no:4/2",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.926
 863d5e15-cb07-4ac1-b247-1711572cf9c9,Green Motel,HOTEL,38.668106,34.841373,Çavuşin Avanos Cappadocia,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.832
 b32d3acc-2b7d-4079-87c7-be71b773f6e1,Cafe Smoke Cappadocia,CAFE,38.667519,34.841839,"Vadiler Sk., 50500 Çavuşin",Avanos,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.991
@@ -1094,6 +1122,7 @@ f805f90f-b4e5-463e-b4a1-694079024798,The Coffee Cab Cappadocia,CAFE,38.651249,34
 fa708b61-8f30-46fa-b1f7-8012b22065a8,玫瑰谷rose Valley,SIGHT,38.652992,34.862915,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.788
 8f4bfb02-09a3-4397-8e1f-1ecc980511f8,Üçhisar Kalesi,SIGHT,38.660095,34.839882,,Avanos,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.840
 27cc2e73-abc1-436b-aa1f-823a770a04bf,Aşk vadisi salıncak cafe,CAFE,38.660072,34.819271,bağlıdere vadisi göreme,Avanos,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.980
+7e3847c0-9d2f-4241-b206-7c8559c4f13c,Rent a Horse Goreme,ACTIVITY,38.653755,34.837456,Rent a Horse Goreme,Avanos,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.708
 1c9865d9-eaa0-491e-b671-a7a991cf1cdf,Love Hill - Aşk Tepesi by Museum Hotel,HOTEL,38.651997,34.81945,"Aşk vadisi, Kayaönü mevkii ",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.798
 f7bc2870-2f91-4f45-a8a9-80e839ca4492,Tavacı Aynur Nevşehir Tava Pide Çiğneme Lahmacun Pita Bread Meat Pan Casserole Tile Meal Cappadocia Restaurant,RESTAURANT,38.65406,34.735638,"Aynur Abla Usta, Meşhur Nevsehir Tavaci, Vefa Küçük Cd. No:89",Nevşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.963
 da3c1b85-3eae-45f7-8cd9-76f62b9d2f0b,Lale Dondurma,CAFE,38.653732,34.73592,Vefa Küçük Cd. No:108,Nevşehir,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.777
@@ -1119,6 +1148,7 @@ cf8d5d7e-c9dd-4758-aceb-3ae93786c2c7,Bagildere Valley,SIGHT,38.662777,34.83086,,
 042c22c9-9d8f-4db8-a6af-d6ed98414b36,Parque Nacional de Göreme,SIGHT,38.666599,34.833298,,Avanos,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.816
 5f598c21-a3c2-45b1-bdf0-88d8b4e95eff,Göreme Tarihî Millî Parkı,SIGHT,38.666599,34.833298,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.831
 10f76753-d9a9-45d8-b9d6-90e59374bc5c,Zelve Monastery,SIGHT,38.66666,34.833332,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.818
+396656fa-a5de-4eb9-bbba-6b82a104b24e,Музей под открытым небом Зельве,SIGHT,38.66666,34.833332,,Avanos,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.780
 c99cd152-8c8d-4ad7-9eb2-c19d8a5c1f7e,Çavuşin Depe Restaurant,RESTAURANT,38.666943,34.840267,Mevkii No No:141,Avanos,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.981
 47e89494-82cb-4ea8-ac5f-829a008ac707,Prime Cappadocia Suites,HOTEL,38.667252,34.839905,2. Küme Mevkii Köy Sk. No: 165,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
 9889ba76-5626-4e20-9955-53c984f9bd26,JCS Suites,HOTEL,38.667728,34.840157,2 Küme Mevkii No:109/1,Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.798
@@ -1171,6 +1201,7 @@ c3ec39b1-9eb9-45f8-a54b-dbfa4cd02813,Varil Cafe,CAFE,38.668839,34.737614,34. Sok
 eb85be12-278b-4f56-ae1b-404bbb96c937,Kale Burger,RESTAURANT,38.669617,34.735031,37. Yol,Nevşehir,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.952
 5ef15405-7fb8-496f-8124-24c99c6ecfa0,Ciğerci Muhammet Nevşehir,RESTAURANT,38.669361,34.738823,"0384 215 4343 tel, 33. Sk. No:18",Nevşehir,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.961
 9f577db0-d918-4a3b-b882-ecaa845cc428,Neşve,CAFE,38.669277,34.739029,2000 Evler Mahallesi,Nevşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
+300e2723-1927-46a0-83c1-9d601fd02ef9,Nevşehir Huzur Apart&Rezidans,HOTEL,38.669334,34.738617,33. Sokak 19,Nevşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.746
 18558e06-e396-414c-a68e-d5c4ecaff49c,Cigerci Bahattin,RESTAURANT,38.669182,34.738998,Zübeyde Hanım Cd. No: 18/A,Nevşehir,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.963
 8b4af534-b306-404d-bb00-5b0ca30f8bba,Ada Tost Patso,CAFE,38.670292,34.738075,2000 Evler Mah Şehit Polis Murat Hamleci Sok,Nevşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.880
 96ba0ab6-fbdb-4855-a0e5-00d93a002ba5,Muhabbet Cafe,CAFE,38.67028,34.738461,2000 Evler ,Nevşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.954
@@ -1205,6 +1236,7 @@ efef6c4d-969c-48a9-a158-1092e0e1a340,Avrasya Hotel,HOTEL,38.71479,34.836143,Kız
 14347efa-84c6-4ff7-aaf2-aee07a7d86a8,DoubleTree by Hilton Hotel Avanos - Cappadocia,HOTEL,38.714661,34.830143,Kızılırmak Cd. No:1,Avanos,CDLA-Permissive-2.0,OpenTravel|Overture|meta,hotel,lodging>hotel,1.000
 c04f0add-6b14-4922-9202-ea1a3c28f274,Aygün Hotel,HOTEL,38.710846,34.847206,"No:48, Zelve Cd.",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
 d2f0595a-b3fe-4aba-9504-966ec5ea457a,Saruhan Kervansaray,SIGHT,38.712135,34.909576,Kayseri Cd. 6.Km,Avanos,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.985
+547639cb-7c4e-4642-857b-c68fbd903432,Özkonak Underground City,SIGHT,38.712334,34.847,"Ozkonak, Cappadocia - Global",Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.767
 0b7ed5cc-2c14-4966-9750-af3ac7eb1dbc,Ali Baba Seramic Pottery Workshop,SIGHT,38.713058,34.843407,Yukarı Mahalle Firin başı,Avanos,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.800
 41d48696-ae87-44c5-b4f3-0ba12c6a7cf4,Ekonomik Balık,RESTAURANT,38.713467,34.84436,Zelve Cd.,Avanos,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.997
 4f5e534a-60a8-4fa1-b7cb-e6e25bd86eb0,Avanos çorba,RESTAURANT,38.713814,34.844467,Zelve Cd. no:3,Avanos,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.892
@@ -1251,6 +1283,7 @@ d9af4f14-47cb-4aa1-8c0e-c4cbfd8ed1c4,Şerif Usta'nın Yeri,RESTAURANT,38.7187,34
 63a71483-cc98-4ffb-91c5-6d9127cd10e1,İkram Dondurma: Avanos - Nazmi Bolat,CAFE,38.718346,34.847664,Vatan Cd. No:14,Avanos,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.952
 6c02f55a-7fe4-431d-9d00-8aef2f49b349,Kiyi Cafe,CAFE,38.718304,34.848789,"Asma köprü yanı, Vatan Cd.",Avanos,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.891
 b2c4676a-9991-4b41-ac2c-231ea6063958,Osman Efendi Kahvecisi,CAFE,38.718185,34.84824,Vatan Cd.,Avanos,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.919
+d61f1912-c4e1-4cb4-b007-a9c869c77205,Kizilirmak Nehri,SIGHT,38.718258,34.848072,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.705
 b7389639-634a-4522-8582-56efa3401c68,Akdeniz Kebap Salonu,RESTAURANT,38.718136,34.84639,,Avanos,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.898
 3f246ce4-ad11-4011-855e-2cc0a841ae36,Avanos Sallanan Köprü,SIGHT,38.718002,34.847588,avanos,Avanos,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.803
 71566efb-1668-4616-9d55-7b4c276db84b,Akdeniz Kebap Avanos,RESTAURANT,38.719143,34.852676,Vatan Caddesi 33,Avanos,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.773
@@ -1285,6 +1318,7 @@ c2a1d894-399c-44f7-bb51-25d84154a9c2,Begam ButİK Otel,HOTEL,38.71986,34.850365,
 fdbcfb90-e62c-4bc5-b95f-7a96dff1d283,Otel Casablanca garden,HOTEL,38.703823,34.841125,"Cumhuriyet Mahallesi 521. Sokak No 4/1 Çevre yolu, 50500",Avanos,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.960
 ae3dc6d2-d8cf-45ee-8c2c-a3e222a725ef,Avanoss.Restorant,RESTAURANT,38.703629,34.84201,Kapadokya Caddesi 64,Avanos,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.947
 7e4d8e49-42dc-473a-bc64-cb566638e414,Kapadokya Sofrası,RESTAURANT,38.703548,34.842194,,Avanos,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.884
+1b42740e-f340-4ea6-9b35-6624957e4f17,果里美露天博物館,SIGHT,38.703087,34.842514,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.872
 ded942a9-f8b2-415f-ae68-9c734364d304,Avanos Restaurant,RESTAURANT,38.702549,34.840916,,Avanos,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.985
 6a9ff1fd-b667-4bb7-a19f-e03514c013c3,Han Restaurant,RESTAURANT,38.702503,34.840878,Göreme Yolu,Avanos,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 175ca2d6-505b-4a71-a303-161d82b3386a,Goreme Open Museum,SIGHT,38.701668,34.84314,,Avanos,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.729
@@ -1296,6 +1330,7 @@ ded942a9-f8b2-415f-ae68-9c734364d304,Avanos Restaurant,RESTAURANT,38.702549,34.8
 112d59c4-f633-4750-a288-7456857fc495,Özkonak Yeraltı Şehri,SIGHT,38.806637,34.84016,Özkonak Kasabası,Avanos,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.988
 3f8d0004-7df0-4496-924c-208b07c265ea,Özkonak Aile Çay Bahçesi,CAFE,38.806889,34.841263,,Avanos,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.776
 2e520eef-365d-46e8-96f8-61729df62980,Özkonak ineğin düştüğü kahve,CAFE,38.813148,34.839367,Özkonak çarşı merkezi,Avanos,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.778
+9cf1f687-496b-41f1-973a-bb69217742f1,Özkonak Underground City,SIGHT,38.813049,34.839443,,Avanos,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.826
 decf5b32-1549-445b-bf34-44ec8738c280,Ayhanlar Barajı,SIGHT,38.817707,34.723763,,Gülşehir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.767
 ec9feb75-7e03-41b3-93d6-75915d3ee721,Ayhanlar Barajı,SIGHT,38.813519,34.723148,,Gülşehir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.767
 e0cbde8d-da9d-4a4c-a4d4-3d1f68ed777b,Kızılırmak Tesisleri,RESTAURANT,39.006683,34.810516,,Kozaklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.834
@@ -1328,6 +1363,7 @@ e6934254-ea33-4542-9051-34345f592409,Komagene,RESTAURANT,39.216434,34.850861,Cum
 74c023c3-b8c9-4055-bdae-cbf85ef4e7d8,Ziyafet Cigkofte,RESTAURANT,39.216438,34.850971,Cumhuriyet Cd. No:4,Kozaklı,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.767
 0eb60049-9f78-437a-93cf-4021b4e2b0f5,Sarıaslan Cafe471,CAFE,39.204922,34.853062,235 sokak,Kozaklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.899
 8b4046a2-046e-4023-b17c-34951324523a,Balcıoğlu Termal Suite Hotel,HOTEL,39.205688,34.853695,Şehit Polis Recep Şahin Caddesi 32,Kozaklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.917
+e91d6a0d-9ee4-428d-8199-dc65def66708,Göreme,SIGHT,39.210167,34.857269,Nevşehir,Kozaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.723
 2eb9cd28-9309-4d31-9c87-238f08654d3c,Grand Termal Hotel,HOTEL,39.210144,34.857754,Kaplıca Cd. No:136,Kozaklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 f8526c02-8332-4206-986b-6f504fb4d085,Vuraltermal Kaplıcası Kozaklı - Nevsehir,SIGHT,39.20388,34.860199,"241, Sokak no 5/1",Kozaklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.990
 d82b7d21-36b7-42af-bbd4-d2161a368a3e,Nevsehir Roza Resort Otel,HOTEL,39.204723,34.859837,,Kozaklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.814

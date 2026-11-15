@@ -34,6 +34,7 @@ fdd511c5-2895-4de7-8603-79386495d1b4,Kölemenoğlu Haçkalı Hoca Baba Dinlenme 
 b016ec37-0e40-41d9-8069-be109190e259,Alnada Resort,HOTEL,40.831856,39.364883,KOZNEŞA KÜME EVLERİ NO:1,Düzköy,CDLA-Permissive-2.0,Overture|meta,resort,lodging>resort,0.847
 6cd15639-e73e-440c-92a2-c5b08f1013c2,Manzara Cafe,CAFE,40.8643,39.397758,Düzköy Tonya Yolu,Düzköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.924
 87698e0e-5142-4082-8a41-bb2149de6f77,Likovaşa & Hırsafa Yaylası,SIGHT,40.874611,39.394367,,Düzköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.716
+51a638a3-eb6e-4806-b660-f35107bf6e06,Villa Devor,HOTEL,40.871204,39.383553,,Düzköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.883
 30439213-9dce-48b7-a174-5d10147739ef,Acisu Cafe Konaklama,CAFE,40.868511,39.375439,Çal camili mah camili karfan mezrası küme evleri 37/a,Düzköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 6b7f577a-c773-43ef-b251-3aa7fd7f303a,Çal Mesire Alanı,SIGHT,40.869247,39.378201,Çalcamili Tabiat Parkı,Düzköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.822
 348d01a8-ed1e-4fa5-a1bb-89fb09abae87,Göktürk Restoran,RESTAURANT,40.865417,39.37962,şehit felatun caddesi no:2,Düzköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.803
@@ -72,8 +73,6 @@ a7cb24e0-87a1-48f2-b808-bc6135ba15cc,Seyirtepe Butik Otel & Restaurant,RESTAURAN
 d52982f8-3002-487a-a799-a85ce5f222b6,Cafe De La Yoroz,CAFE,41.105183,39.424942,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.792
 f4ea2766-b553-4cd2-8d87-d87fd5c5b00e,Yoroz Plajı,SIGHT,41.101364,39.429482,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.851
 075eb8fe-8b7a-4161-8b5f-da9202cc773d,Kardeşler Et ve Mangal,RESTAURANT,41.099709,39.403549,Kerem Caddesi No: 92/A,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.971
-d1805e42-8b50-427e-a623-7ccd8702365c,"Trabzon, Akcaabat, Mersin Plajı",SIGHT,41.088875,39.489197,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.801
-4564ed51-6acd-4b59-bd16-0b1504dce83f,Mersin Plajı,SIGHT,41.083241,39.497196,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.778
 bf5500c4-00fa-4514-8d28-cdb43c4f81b4,Trabzon Sahil,SIGHT,41.090023,39.389446,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.866
 3bc46444-4fea-4860-a216-82df60c83276,Cantina Cafe,CAFE,41.089951,39.389442,D010,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.883
 42f79e5f-cbba-42f5-8465-ad279898c483,Gülay hanım sahil tesisleri & Beach club,SIGHT,41.088631,39.388268,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.703
@@ -83,10 +82,10 @@ cfc8f591-0a52-4525-a6ff-ab702a0a7d99,Limon Cafe,CAFE,41.083569,39.379917,Muallim
 944cf73d-78ae-4366-b3b5-5fc2f2121aaf,Kerem Teşkilat,SIGHT,41.085979,39.404354,Kerem Gazinosu,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.821
 a06ec37c-7595-42b8-8661-0e46d6b6df3d,Eşref Usta Dondurma & Tatlı - Çarşıbaşı,CAFE,41.082748,39.382404,206. Sk. No:1,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.933
 02bd2189-9600-4a25-8a17-f5dd5c17f28a,Mikanos Balıkçısı,RESTAURANT,41.082771,39.38279,Avni Akkan Cad.Gazi İlkokulu Karşısı,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.909
+45b70352-3016-4399-97ba-8be31d04b5ba,Isci Restaurant,RESTAURANT,41.082584,39.379478,Şht. Muhammet Türk Sk. No:14,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.903
 56bef5dd-b9ef-4ec3-8307-6dc5c7d0536d,Çarşıbaşı Dostlar Pide Salonu,CAFE,41.08247,39.379517,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.785
 34c2d282-df3a-4bb5-86ca-622207966ae4,Taslugun Yeri Huzur Kofte Salonu,RESTAURANT,41.082146,39.379738,Avni Akkan Caddesi 62,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.909
 5d3b4f82-ab2f-47f9-a203-c49c0dfb0546,Dörtyol Çay Evi,CAFE,41.082138,39.379532,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.890
-688e425f-83dd-4586-8dba-f3f3b70b228b,Kesan kumaş,SIGHT,41.082096,39.376961,Cami Küme Evler 39,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.855
 ba782dbc-e9c8-4a11-a3be-57d4d51b8e54,Adı Yörem Çiğköfte Çarşıbaşı,RESTAURANT,41.082333,39.377556,Cumhuriyet Meydanı 2C,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.910
 8f29b60e-34a9-4d2c-9850-6801c223f2ae,Loya Pastanesi,CAFE,41.081875,39.377247,Avni Akkan Cd.,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.922
 36177660-7f6f-4221-92ce-0cad6542ae69,Meydan Parkı,SIGHT,41.081314,39.37566,,Çarşıbaşı,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.807
@@ -161,6 +160,7 @@ bf16f692-c6c8-4035-b894-19e066d48ade,Kamiloglu Balik,RESTAURANT,41.049519,39.272
 e07bd6bd-8b08-4178-8dc5-00cd63f1a456,Ekol Coffee Restaurant,CAFE,41.052513,39.233124,Okullar Cd. No:10,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.984
 0bd2edfd-857a-41e2-a669-df44efded83f,Peşko Pide,RESTAURANT,41.052299,39.23386,"Cumhuriyet mahallesi, Alpaslan Türkeş Cd. no21 b",Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.939
 19589e45-3055-4af3-9346-41d4f9066470,King Chefs Restaurant Beşikdüzü,RESTAURANT,41.052197,39.234138,Alpaslan Türkeş Cd. No:19A,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.943
+6940708d-39cf-4f92-8d04-0de0581f7c6b,Gezgin Internet Cafe,CAFE,41.051525,39.23209,Ahmet Yardim Cad,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.787
 5e3e3163-5490-4652-8b46-78846c0ab1cf,Moda Cafe,CAFE,41.052086,39.23336,Mimar Sinan Blv. No:5,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.862
 7f8f5606-9e3a-4546-ade5-cae22179a1f1,Meydan Köfte,RESTAURANT,41.052299,39.230507,Sabri Dilek Cd. 16/b,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.876
 138375df-26e4-4b53-b90f-e2fbcf81e67f,Beşikdüzü Sahili,SIGHT,41.052605,39.231907,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.901
@@ -178,7 +178,6 @@ c2800966-e96d-443b-ab2d-b155e1a06a8d,Taşdemir Pide Salonu,RESTAURANT,41.053162,
 a483e629-08ca-4743-bab8-5adb9fd4d1c2,Haniçoğlu Çay Evi,CAFE,41.053139,39.226986,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.802
 f49a13a1-90a0-4a15-a853-69df047e7bd4,Trabzon Besikduzu Bizim Corbacı,RESTAURANT,41.053379,39.230915,Beşikdüzü TRABZON,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant,0.935
 dcc19286-96ba-46d4-9a7d-1c0c10a9751e,Şehit Lieutenant Erdal Kurtoğlu Park,SIGHT,41.053505,39.231113,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
-3bbcb109-4903-4fba-ab81-69387d09e022,Tokullar Alışveriş Mağazaları,SHOPPING,41.053974,39.227821,Şehit Hüseyin Çatalbaş Caddesi 1A,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.801
 27751ed8-8dae-4b1f-9e6b-3c26baa2dfd0,Elize Pastanesi,CAFE,41.053658,39.225227,"Elize Pastanesi, Osman Dilek Cd. No:35",Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.877
 b3bdc653-91d0-47e9-b080-ee6dfc1c4195,Beşikdüzü Topaloğlu Restoran,RESTAURANT,41.055618,39.227486,"Fatih Mah, Alpaslan Türkeş Cd. No:302",Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.911
 55d9aac4-e351-4136-9642-630ea756b884,Cebeci Sahil Balık,RESTAURANT,41.055321,39.227398,Fatih Caddesi 8A,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.920
@@ -345,7 +344,7 @@ fa600fdb-6359-4d94-8363-c0e642d4cf21,Çakılgöl,SIGHT,40.836227,39.82645,Çorak
 e541a3b8-5ed0-41c0-b888-cae1a57105be,Kayalık Taş Fırın & Cafe,CAFE,40.958843,39.794415,Kavala Orta Küme Evler 13A,Yomra,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.940
 bf8d92d3-a15a-41a7-af25-1eebf2086bac,Uzungöl Trabzon,SIGHT,40.940479,39.795986,,Yomra,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.718
 8e537145-efcc-4388-834e-f2aff64ea7c2,Cosy Park Apartment,HOTEL,40.940895,39.813637,,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
-45021c92-0965-4b3f-81ea-e8f80f8d8313,EOC Real Estate & Invesment,SIGHT,40.959106,39.822552,Muratlı Caddesi 75C,Yomra,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.957
+a37470a0-8d6d-4bdc-8dc7-0d76734ab3f0,Residence Inn By Marriott Trazbzon,HOTEL,40.959278,39.823368,"KAŞÜSTÜ MAHALLESİ. MURATLI CADDESİ. A-BLOK NO:1 YOMRA/TRABZON, TÜRKİYE",Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.881
 cbbd2624-72d5-4c13-96b9-355b8bf612b3,Kanuni Çay Evi,CAFE,40.954685,39.821011,Kanuni Egitim ve Arastirma Hastanesi Karsisi,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.767
 c01db08b-2333-41c2-8cd8-1e0352ace652,Ebulim Pide,CAFE,40.954411,39.82048,Kaşüstü Belediyesi/,Yomra,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.788
 dd5831d6-9a9b-487d-ad1c-5bb6afe9c7e0,Kanuni KEBAB YEMEK Salonu,RESTAURANT,40.954201,39.820526,Kaşüstü Belediyesi/,Yomra,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.947
@@ -356,9 +355,11 @@ d38019bb-00ee-40f9-82ff-211f0ed64d9f,Kral Döner Yomra,RESTAURANT,40.948448,39.8
 fefbeaf7-5796-4285-b2a5-2ca38a57cdb5,Lidzo Villa Butik Otel,HOTEL,40.916527,39.869694,Kayabaşı Mahallesi Kayabaşı Dere Küme Evleri No 2/2 Yomra Trabzon,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.926
 d27d5d62-7e23-4305-b360-5f6df9b5ad14,İmran Cafe & Restaurant,RESTAURANT,40.939106,39.857449,Gürsel Yolu Cd. No:128,Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.787
 655fcc3f-c43b-4f42-be6d-cb8877efedd6,Harmanda Cafe,CAFE,40.947437,39.844952,Şht. Osman Bayrak Cd. No:27,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.808
+56cb697c-e624-4120-bfa3-7b88fe92a4be,Park Dedeman Trabzon,HOTEL,40.961472,39.843662,"Kaşüstü Mahallesi, Devlet Karayolu Cd No:49",Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
 28e2331f-6dc5-47ae-a825-9483c6a68bb4,Espressolab Trabzon,CAFE,40.961388,39.844013,Kaşüstü mah. Devlet Karayolu Cad. No:75,Yomra,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.990
 483eab91-6e67-423e-b894-29d9c3e90dac,Merhan Kitchen & Bar,RESTAURANT,40.959812,39.847561,Devlet Karayolu Caddesi No:63,Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.996
 b9fb50d5-8163-4eb8-9552-35755d2c9e11,Hero's Hotel,HOTEL,40.959824,39.847553,Sancak Mahallesi Trabzon Caddesi,Yomra,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
+56ee24d9-1983-4b27-bfd0-2cdfdaa6d92e,Holiday Inn Trabzon East,HOTEL,40.959858,39.84761,Devlet Karayolu Caddesi No63/A,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,1.000
 1c2277db-b6f4-471e-b07c-69b33c136d59,Kumsal restorant,RESTAURANT,40.958939,39.84853,Trabzon Caddesi 245,Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.910
 24686c7a-4556-4e70-b0f9-e8fdf372b564,Alo Balık,RESTAURANT,40.959343,39.848007,,Yomra,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.763
 82427dc8-7e68-4c52-9864-f4abcecb42dd,Elegant Blue Suites,HOTEL,40.95557,39.852688,arpalı küme evleri 3B/1,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.839
@@ -393,6 +394,7 @@ f21d4af6-2bb1-4920-b245-08c27e4d9d55,Sumela Monastery,SIGHT,40.954319,39.867424,
 56ff29eb-d00e-404a-b997-221ae4127fc5,Yemeli pide&kebap,CAFE,40.953758,39.868118,Hükümet Caddesi 49,Yomra,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.919
 d08da6ae-7b20-4272-b9ed-8d54dc55dc97,Özer Usta Et Köfte Mangal,RESTAURANT,40.95472,39.866028,Devlet Karayolu Caddesi 164,Yomra,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.899
 df809ab3-482b-4c85-9548-105acc9b9e62,ZiveradaKahvaltı,RESTAURANT,40.932747,39.879265,Camii Küme Evleri No:3,Yomra,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.984
+523e2ad9-8bd7-4256-b210-e44a99960af8,Villa Hill,HOTEL,40.945709,39.880947,Namıkkemal Mah.,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.768
 d5527c83-aa29-4046-948a-b44d4b8f5c4c,Özer Usta Et Köfte Mangal,RESTAURANT,40.953503,39.878834,Devlet Karayolu Caddesi 164,Yomra,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.902
 ddcf90c6-7dcf-4e9b-a29c-3ff06e26478a,Yomra Plajı,SIGHT,40.953136,39.883427,,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.880
 c8931cc1-9359-4def-af00-925df6c6916c,100. Yıl Balık Lokantası,RESTAURANT,40.953629,39.884167,100. Yil Balikci Barinagi,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
@@ -436,6 +438,7 @@ c7b693cf-7c3d-4173-919c-0937fbdb656a,Bigoşa Bungalov Trabzon,HOTEL,40.894337,39
 6031f782-5c0c-4439-9745-4ca231892648,Tuncay Usta Et Mangal,RESTAURANT,40.960926,39.979694,Yeşilyalı Köyü Yolu,Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.903
 9f492586-29d6-4442-b24b-ce95ac8ccfa2,Meşhur Adıyaman Çiğ Köftecisi,RESTAURANT,40.960602,39.982018,Yeşilyalı Mah. Vatan Cad. Yeşilyalı Merkez Kuran Kursu Karşısı,Yomra,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 6a848453-4b64-45eb-b759-ca761b2403da,Rimita Kafe & Pastane,CAFE,40.960373,39.982864,"Yeşilyalı mah, Yavuz Selim Cd. No: 112 B",Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.985
+d7a7c74c-c620-4ea6-8594-553a4fde2d28,Best Western Plus Trabzon,HOTEL,40.959003,39.999378,1208 Nolu Sk 7A Yanbolu,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.931
 af451a31-4238-4b12-b587-02ac30fb1019,Aylıya Tepesi,SIGHT,40.952679,40.004059,,Sürmene,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.904
 0e903730-a249-48e4-ad9f-67c186b0148f,Vatan Çay Dükkanı,CAFE,40.956314,40.011948,Trabzon Rize Yolu Yalıboyu Mahallesi Sahil Caddesi No:33 Yalıboyu,Sürmene,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.986
 7607a3a0-2226-4830-820b-7c0d01bc5247,ENVER USTA Ocakbaşi,RESTAURANT,40.957165,40.018612,"Yalıboyu Mahallesi, Sahil Sokak, No:58 ARAKLI",Sürmene,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.924
@@ -503,9 +506,11 @@ a8cc6e02-d9ab-4d48-8d80-12c1cf232954,Ada Restaurant & Bungalow,HOTEL,40.617905,4
 07aa0a93-4b78-4660-a6d9-40d1a9c004cb,Zeen Lounge Cafe,CAFE,40.618397,40.293217,Fevzi Çakmak Caddesi no:38,Çaykara,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,1.000
 69059283-ac78-471a-8fc7-aba8bc663dc1,Kahve Sarayım,CAFE,40.617702,40.293819,Uzungöl,Çaykara,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 7b8fd185-be81-4c6f-8531-47ce80894f3f,Kıyı Restaurant,RESTAURANT,40.620441,40.292873,"""Kırkpınar Sahil Yol No: 50, Adapazarı Merkez""",Çaykara,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.752
+7a0f9746-d0b2-4687-b0f1-405ae0f8bf89,أوزنغول,SIGHT,40.619164,40.294998,,Çaykara,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.780
 c3f13588-ae61-42b6-9f37-e06a18ddb910,فندق أوزنجول أميرال بارك Uzungöl Amiral Otel,HOTEL,40.617538,40.294563,Fevzi Çakmak Caddesi 40,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.906
 cad51189-46d3-486a-8f64-0d388247879b,Aygün Suite Otel Uzungöl,HOTEL,40.617115,40.293171,"Uzungöl Mah. Fevziçakmak Cad. No:46, D:1",Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.981
 f31e9a85-6091-42d5-bfd0-65265409f16d,Duyuf Hotel / Uzungöl,HOTEL,40.616417,40.293186,Faraksa Mevkii,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
+b521841e-737e-45b5-895c-faa467200622,Uzungöl DKMP Seyir Terası,SIGHT,40.617115,40.297459,Uzungöl Tabiat Parkı,Çaykara,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.946
 336e409c-016e-42e1-9792-637ce79a4ebd,Uzangol Lake,SIGHT,40.615894,40.297974,Uzangol ,Çaykara,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.726
 217f6ceb-7fcb-48f2-9dae-4b93b5129c5e,Kurtar Suites,HOTEL,40.619743,40.301247,,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.955
 347723e8-ba98-4e50-a668-18e9b0a855f2,Uzungöl Gokart,SIGHT,40.618935,40.30101,,Çaykara,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.775
@@ -544,6 +549,7 @@ adf0d906-0fdc-4b6c-a8bc-b0613bfecba1,Gül Pansiyon Uzungöl,HOTEL,40.621704,40.2
 09395374-430e-4407-be97-ee8da93d1192,Meric Hotel,HOTEL,40.622337,40.284664,yeni mahallesi atatürk caddesi no 1,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.964
 9dc48d4a-ee84-448f-a540-18d6aa355d5e,Uzungöl Şerah,SIGHT,40.621246,40.284805,Uzungöl ,Çaykara,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.971
 09c2412c-052e-4f43-9255-e37c94ef8818,Zeren Pension,HOTEL,40.620445,40.284676,Cami Sk No:34,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.940
+ee9964c2-ed54-44a6-83b2-da4556dff923,GRAND ÖZTÜRK Uzungöl,HOTEL,40.620029,40.285686,Apart Sokak No :25/ A,Çaykara,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.927
 804ea674-dbc0-492d-b054-77a9f90d308b,Paradise Lake Hotel,HOTEL,40.618767,40.285912,,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 5452fb14-be05-442c-82c0-691048212de4,Selman Apart,HOTEL,40.618603,40.286964,"40.618596, 40.287044",Çaykara,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.874
 c2fe54e1-7d8f-48f4-8000-3ea08e11a94a,Scala Hotel,HOTEL,40.618443,40.285988,"Uzungol, Yenimahalle, Cami Sokak. , Uzungol 61960",Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.948
@@ -825,7 +831,6 @@ e98bf538-88b2-420a-a69a-3c5fe00ee14f,Hirande Cafe&Bistro,RESTAURANT,40.618603,40
 b87c1028-0d00-4901-a06a-79d289a9fc8d,UzungÖL SezgİN Otel Ve Restaurant,HOTEL,40.617409,40.308666,Fatih Caddesi 16,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.831
 b06e986a-7c2c-4f8d-bb15-b42c7ea0b59e,Vadi Uzungöl Suite Otel,HOTEL,40.617439,40.308094,Fatih Cad.No: 65/1,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.977
 18406c4b-c7f6-4863-a5fe-fee97bdfeb79,Sultan Cafe&bungalow,CAFE,40.617054,40.30798,,Çaykara,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.915
-b0134f1f-97e8-4afb-b792-638a5555220d,Uzungöl Aydin Apart Motel,HOTEL,40.616577,40.308487,"Uzungöl, Çaykara, Trabzon, Türkiye",Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.873
 5f800ddf-07ce-4ee4-ba5d-501d2799a3ce,Kuzey Park Hotel,HOTEL,40.61718,40.307411,"Uzungöl Beldesi, Fatih Cad",Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 c19af144-63b3-41b4-83c4-4f0110409cdb,Mego Suite hotel,HOTEL,40.617184,40.307571,Fevzi çakmak cad No 238,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.864
 7e17ce1d-22bd-40fd-b3f4-ce0acc9a6b00,Yaren Otel,HOTEL,40.617538,40.307472,,Çaykara,CDLA-Permissive-2.0,Overture|meta,motel,lodging>hotel>motel,0.874
@@ -866,7 +871,6 @@ a354dcca-862a-4fd6-97e4-5449b4281a31,Kebapçım-TRABZON,RESTAURANT,40.977203,39.
 d6ef8204-5017-4366-838c-251d42a654ad,Magida Restaurant,RESTAURANT,40.972198,39.629887,"Akyazı Mahallesi, Akyazı Tepecik Sokak No:37",Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.889
 2c17789f-a1c6-47f5-93ac-0aee806723f4,Tutuncuoglu Dinlenme Tesisleri,RESTAURANT,40.970478,39.601501,'Derecik Demirtaş',Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.943
 ca30ffe7-32b6-4e46-9ea8-879de49a3e75,Kent Köfte Salonu,RESTAURANT,40.971134,39.60268,Akcaabat demirtas mh,Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.961
-f13c6b6e-d6b2-4c9c-ba4f-31498e2e1e13,Karaman Salih'in Kahvesi,CAFE,40.96611,39.601791,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.704
 6c4ef138-7414-4f7b-bf8e-8d504f567a44,Derecik Taş Fırın 61,CAFE,40.963612,39.601345,Derecik Karaman Akçaabat,Ortahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.883
 d5e32852-9686-45db-9399-87f7055e403e,Yaşar Ustanin YERİ,RESTAURANT,40.965752,39.62838,Ortahisat Beldesi Gürbulak mah.,Ortahisar,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.809
 97f9309d-f552-4fe9-8ed9-7075db61d50e,Anderhana Bungalov,HOTEL,40.964493,39.674202,cami küme evleri no:93,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin,0.849
@@ -897,6 +901,7 @@ c62a41c8-eabb-4ded-8787-7906fa1497a6,Çamlık Mangalbaşı,RESTAURANT,40.985596,
 a049da0d-47fe-4794-89f0-845175321df7,Terrace Art Cafe,CAFE,40.984928,39.692585,1405 nolu sokak 6h,Ortahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.962
 98f7f843-3fd1-4852-bd2e-a5f5492626bd,Mois Pasta ve Cafe,CAFE,40.98418,39.695332,"Soğuksu Mahallesi Vatan Caddesi Asya 2 Evleri 48, D:2",Ortahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.955
 264c9447-f040-4d5a-9e62-2fbddf5c263e,Ataturk Kosku,SIGHT,40.979721,39.697502,Soğuksu Mh.,Ortahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.991
+9d9699e8-4c7d-4cdd-b94a-6a26cad7d44a,قصر اتاتورك طرابزون,SIGHT,40.979832,39.698074,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.707
 27d79715-1e9b-4f18-a7bc-75e3ae2c7c42,Atatürk Pavilion,SIGHT,40.979691,39.697674,Ata Cd. No:1,Ortahisar,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.949
 9da1728f-969a-4670-8fad-b21baf0ae47f,Dünya Tatlısı,CAFE,40.977913,39.690624,Vatan Caddesi 100B,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.964
 e2772a6b-1b3a-415b-be13-2e9065d05a47,Bayramoglu Tesisleri,RESTAURANT,40.979073,39.683376,Balıklı Sk. no:57,Ortahisar,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.936
@@ -904,6 +909,7 @@ e2772a6b-1b3a-415b-be13-2e9065d05a47,Bayramoglu Tesisleri,RESTAURANT,40.979073,3
 7ba66501-ff99-4b82-9463-34b11e1d70dd,Sümela manastırı trabzon,SIGHT,40.992168,39.670078,Maçka Trabzon,Ortahisar,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.885
 f1aaadbe-09e2-4099-bf5d-b0ce0e339be7,Trabzon Sanat Galerisi,SIGHT,40.992886,39.676228,2 Nolu Başirli,Ortahisar,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.755
 d66499d1-a804-442f-acb9-1cc5590c3ca2,Müjgan Meze,RESTAURANT,40.992462,39.668571,"Köse Apartmanı, Ali Naci Peker Cd. No: 11B",Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.955
+04ad00f4-5377-4793-8b3d-30595e205087,Hilton Garden Inn Trabzon,HOTEL,40.994057,39.668762,Barvaros Hayettin Paşa,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.950
 92a30611-d1bf-4cb6-8814-b5575d2aeb18,Zeki Cafe,CAFE,40.99461,39.669262,2no.Beşirli Mah.,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.924
 85fc0360-fcbf-4904-be94-a910e352a163,Joli Jardin Cafe & Bistro,CAFE,40.994629,39.668827,2 Nolu Beşirli Mh. Devlet Sahil Yolu Cd.,Ortahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 f04eb620-b6d4-4802-9c29-6f16f242784b,Green House Cafe & Bistro,CAFE,40.994541,39.668835,"2 Nolu Beşirli, Devlet Sahil Yolu Cd., 61040 Ortahisar/Trabzon",Ortahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.930
@@ -961,7 +967,6 @@ f7838bf4-defb-4e9a-93d2-809a4b194cc5,Toprak Balık Evi,RESTAURANT,40.99538,39.68
 ce47b291-7ebf-4db7-a432-dde771b4fcb6,Adıyöremçiğköfte Aydınlıkevler,RESTAURANT,40.995972,39.691608,Birlik Sokak 6,Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.872
 8a2a45ff-12ca-462e-b714-fc829f221baa,Döngel cafe,CAFE,40.996212,39.690647,Hasanpaşa Cd.,Ortahisar,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.853
 95b8313a-3f46-4d07-96df-231a21219194,Trabzon Forum Avm,SHOPPING,40.997711,39.692078,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.705
-ebb59a57-8ffd-4847-968b-d2028145a1ee,Giresun Mavigöl,SIGHT,40.997414,39.687172,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.763
 83120396-295e-4c56-a832-7e54762854a9,İrem Lokantası,RESTAURANT,40.997154,39.682602,711. Sk. No:14,Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.885
 386d4904-575d-46e2-8504-e69987102ac7,Site Cay Ocagi,CAFE,40.997253,39.682617,711 Nolu Sok No 16/A,Ortahisar,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.859
 97270a99-7454-47cd-94e0-7584a046bbe2,Tirebolu Kalesi,SIGHT,40.997307,39.682655,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.871
@@ -980,6 +985,7 @@ cf75a269-0925-4551-90d1-54f6c155b52b,Poyraz Cafe,CAFE,40.99884,39.679188,,Ortahi
 78addf85-334b-41e7-8221-86e8962026c3,Cihangir Kebap Trabzon,RESTAURANT,40.999771,39.68531,Gürpınar Sk. 2/AA,Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.890
 23b296bb-9ed9-47d6-a7c7-f011d16baed1,Kalyera Balık Restoran,RESTAURANT,41.000031,39.686348,Devlet Sahil Yolu Cd. No:361,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
 411c2eb1-462d-40db-8bb0-a708eed01725,Pan Cafe Restaurant,RESTAURANT,41.000046,39.68639,Devlet Sahil Yolu Cd. No:391,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.965
+892abe4f-b6bb-4059-a8b8-881ba34e4d95,Panagia Premier Trabzon,HOTEL,41.000046,39.68618,Devlet Sahil Yolu Cd. No:391,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 f8c4f467-2664-4e96-8727-2fed9cde5d2a,Besirli Sahili Balık Ekmek,RESTAURANT,41.000916,39.685059,Beşirli 2 Cep Hanımeli Büfe,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.926
 47a66ff7-7abd-4519-9f41-cc1082ffb817,Aksular Otel,HOTEL,41.000851,39.688763,"Toklu mah. Uzunkum Mevkii, Devlet Sahil Yolu Cd. No: 371",Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 7d432e98-3f2b-43bc-b55a-a7028eec1477,Plaj Kıraathanesi,CAFE,41.000648,39.687866,Devlet Sahil Yolu Cd. No:379,Akçaabat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.782
@@ -1042,7 +1048,6 @@ e17f12ff-3508-4971-98d5-5581a2caacc9,Yemen Kahvesi Boztepe,CAFE,40.991589,39.728
 3840da53-2aa4-4c23-8634-107dfce81d51,Hekim Sofrası,RESTAURANT,40.988575,39.748993,İpekyolu Sanayi Sitesi No:1,Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.895
 f6c884b1-36e9-42e7-86e1-0e12db7273ca,Fatih Usta Pastanesi,CAFE,40.989719,39.748096,Erzurum Yolu Caddesi 2,Ortahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.942
 3ba15a9d-db25-43b7-8c62-318f26339801,White House Apart,HOTEL,40.990299,39.754002,"White House Apart - Apartment with Sea View, Şahin Sk. No:12",Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.868
-422188dd-6b1c-44e3-8ef1-6344acf82ea0,Berlin Suite Hotel Trabzon,HOTEL,40.989796,39.756466,Kayabaşı Sk. No:41,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.916
 66b29a0f-e7ab-4ff8-aa67-704b0ff15f31,Melissa Suite Otel,HOTEL,40.989357,39.753899,Şahin Sk. No:34,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.975
 364c06b1-2928-410e-b7e9-b8aa390c3419,Çavuşun Yeri,CAFE,40.991192,39.766731,Ktü Otoparkı,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.821
 d00ece58-4b88-43f8-ab98-c60387a5a51c,Nido Dondurma,CAFE,40.990116,39.760799,Zafanoz Cd. Samkur Sitesi No:39/A,Ortahisar,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.877
@@ -1201,7 +1206,6 @@ d65e3b67-a2cc-4a71-9224-a0ae3899254b,Kebapçı davut usta,RESTAURANT,40.998844,3
 67cde046-a6e1-4c73-aea7-558c954cbd93,Otel Grand RİO,HOTEL,40.999123,39.745438,Misafir Sokak 5,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.949
 1281227d-5040-416d-9cc7-6fe1b7ea49b5,Bordo Hotel,HOTEL,40.999264,39.744827,Devlet Karayolu Cd No:7,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.934
 7bc548ea-e4af-42ef-9cd0-00954a585838,Santa Bar Cafe Restoran,RESTAURANT,40.999336,39.745556,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.764
-8a64f8d2-ce70-4de1-a664-9d88d53a14ec,Saklıbahçe Çiçekçilik,SIGHT,41.000549,39.739841,Devlet Karayolu Cad Rize Yol,Akçaabat,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.780
 a3c2a1f3-7ae4-4da1-b180-2043cf80065b,Ayder Yaylası,SIGHT,40.99971,39.735519,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.799
 83735922-677b-4942-bae5-dbca03fe74eb,TS Gold Otel,HOTEL,41.000366,39.736275,"57, Yavuz Selim Blv.",Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
 50743b10-f6d5-404e-b862-336237614617,Bordo Mavı Balık,RESTAURANT,40.999653,39.729931,Evrendede Sokak 22,Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.823
@@ -1232,6 +1236,7 @@ b2a338d4-59f0-4dfd-9251-004823b1c7db,Kahverengim cafe,CAFE,41.001217,39.716686,G
 a8eddb7b-b3e3-4e48-a11f-1cbfe1ef54ee,SANTA  CANLI Alabalik Tesisleri,RESTAURANT,41.001217,39.716686,Yanbolu deresi,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.930
 39baa451-e416-4b82-850a-59711eceb65c,Bulutlar Köfte ve Restaurant,RESTAURANT,41.001217,39.716686,Anadolu Bulvarı 1,Akçaabat,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.848
 3e700def-fc23-46df-a34b-95423a72503c,Petek Pastanesi,CAFE,41.000313,39.711796,,Akçaabat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.780
+e486d9b3-bc4d-4c70-a29f-38f98aafca2f,Holiday Inn Trabzon-East,HOTEL,41.002693,39.716763,Sancak Mahallesi Devlet Karayolu Caddesi,Akçaabat,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
 eeb01095-e450-460b-a2a9-4be484030f11,Aya Sofya Müzesi,SIGHT,41.002705,39.716843,,Akçaabat,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.882
 5f03e50d-46f9-46cd-a077-57b3732e8c5d,Voice Hotel,HOTEL,41.001221,39.716675,Sümela,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.936
 fb4937e7-5401-4a5f-b268-28de5ea29aad,ADA CAFE,CAFE,41.001228,39.716675,"Maçka Haber, Gazi Sokak 15",Akçaabat,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.844
@@ -1273,9 +1278,11 @@ cd8b45d7-973c-493b-9748-46d2f5f1eb4e,MADO,CAFE,41.005508,39.71608,İnönü Cadde
 12f64850-2b41-45c8-b086-252f6ca91ada,Botanik Garden,SIGHT,41.00655,39.716049,İkisu köyü,Akçaabat,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.893
 d0ce33be-4099-41ca-b427-3f0ae9890e6e,Arakale Cafe&Restaurant,CAFE,41.00655,39.716034,Arakale Cafe & Restaurant ,Akçaabat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.978
 058dd33b-8f29-4e85-8d3a-ed05f3f39045,Hıdırnebi Yaylası,SIGHT,41.00655,39.716049,Hıdırnebi Yaylası Akçaabat,Akçaabat,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.905
+a0792d8b-c31e-4352-9c6e-46f15fd50184,المطعم اليمني الاصيل,RESTAURANT,41.00655,39.716049,Yomra kaşüstü يومرا ,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.778
 c8a5bab5-36f4-46da-a28e-1d07ae24afd4,İbo'nun Yeri,RESTAURANT,41.00655,39.716003,Kunduracılar Caddesi,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.841
 891023bf-ad0f-4d60-820a-df848b8b35a8,Furkan çayevi,CAFE,41.006763,39.713757,Kahramanmaraş Cd. No:166,Akçaabat,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.813
 4cb7aa48-9b84-4403-ae59-ccb1651c77e6,Pizza Tomato,RESTAURANT,41.006645,39.715244,Hızırbey Mah. Kahramanmaraş Cad. No: 146,Akçaabat,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.770
+a93a8631-e9fe-4e38-a945-c8740d1bb241,Zagnospasa Konaklari,HOTEL,41.006252,39.717873,Gölcük Cd. No:41,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 96230c9a-0948-462a-82bf-cda0a71e601a,Ahmet Usta Köfte & Balık,RESTAURANT,41.00658,39.71867,İnönü Cad. (Eski Belediye Sarayı Altı) Akçaabat,Akçaabat,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 498af398-8924-48b2-bd68-30d93666e96b,AsilBey Hamsiköy Sütlacı,RESTAURANT,41.007015,39.721649,İskenderpaşa Caddesi 3,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.870
 ba746cbf-74d0-4bae-b997-86ced3425009,Tarihi Taş Han,SIGHT,41.007244,39.723446,Moloz Mevkii,Akçaabat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.829
@@ -1312,7 +1319,6 @@ d7c9ab6f-15e3-49d1-a3a8-5bf92b84357d,The Corvus Cafe,CAFE,41.005325,39.724716,Cu
 b882b490-1d07-45ab-b6c2-1ddf962827b5,Masal Kafe,CAFE,41.005375,39.724094,Uzun Sk. No.76 Kat.2,Akçaabat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.866
 f181cb1e-3e42-4baa-bc0d-f950b268f787,Buzul Gölü,SIGHT,41.005524,39.724873,"Has Fırın, Eski İstanbul Caddesi 64",Akçaabat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.856
 81de9cc8-8638-484d-8b3a-dbc1a2131185,Sinope Mantı,RESTAURANT,41.005646,39.724915,"konak pasajı, Uzun Sk. no:68",Akçaabat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.839
-a0bc1337-e20e-4f5f-aca2-51e15ee31724,Turkuaz Sanatevi Görsel Sanatlar Eğitim Merkezi,SIGHT,41.005306,39.723167,Mısırlıoğlu Aralığı 2C,Akçaabat,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.965
 b90c97e3-8b4c-4de0-b4bf-309dbcb9f22c,Eroglu AVM,SHOPPING,41.005421,39.722878,Uzun Sk. No:94,Akçaabat,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.713
 e24167b7-58b0-4e14-b6d3-332c2a8cc5f2,Trabzon Basın Tarihi Müzesi,SIGHT,41.005455,39.7206,Çiftehamam Sk. No:4,Akçaabat,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.886
 bbf885a5-fbf9-4ac7-91c7-d5872e165312,Hogwarts Express,CAFE,41.004898,39.721237,Sarayatık Cami Sokak 4,Akçaabat,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.967
@@ -1370,7 +1376,6 @@ f143fcde-fc03-4906-a7c0-ef939f8cfd97,Sanitas Lounge,CAFE,41.004673,39.730881,Ata
 8898e201-36ca-46dd-b0c5-43e1bb789406,33 Mersin Tantuni Trabzon,RESTAURANT,41.004879,39.731457,Belediye Cd. No:21,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.930
 a681f8ad-6a8e-47cb-abfe-7d3451a727b3,İskenderpaşa Köfte Salonu,RESTAURANT,41.004765,39.73222,"İskenderpaşa Meydan Cami yanı, Atatürk Bulvarı 22B",Akçaabat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.939
 e5177e87-1cd0-4f7c-930d-5ac40eb865f6,Ertugrul Pide,CAFE,41.004635,39.731445,Limonlu Sk. No:1,Akçaabat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.974
-2364aa2f-31e2-4b4f-836a-21b6f314802c,Öz Diyarbakır Burma Kadayıfları,CAFE,41.004528,39.731544,"İskenderpaşa mah, Atatürk alanı",Akçaabat,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.874
 58112207-df8e-4362-b5f0-070365e339ec,Şişmanoğlu Baklava,CAFE,41.004669,39.732513,Ali Naki Efendi Sk. No:3,Akçaabat,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.851
 94a402fb-6d44-4a7e-a766-f28c01bcda5d,Hotel Nur,HOTEL,41.004772,39.732433,"İskenderpaşa Mahallesi, Doktor Kemal Dursun Sok. No:15",Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.939
 cc66e789-6f12-44a6-8d37-4b2d67bdef88,Midd Chantilly Mutfak,RESTAURANT,41.004993,39.732811,Atatürk Meydanı 17/B,Akçaabat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.848
@@ -1531,7 +1536,6 @@ d22e924a-cfcb-48f3-b85e-37848f536003,Can Pide,CAFE,41.007744,39.724815,Goloğlu 
 f0e8b93f-b7c0-410d-bf95-9723ace78339,Bedesten Cafe,CAFE,41.007938,39.723309,Bedesten Caddesi 16,Akçaabat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.864
 e430dc11-354c-4f15-b4cc-7b25755b62d9,Bedesten,SIGHT,41.007835,39.723728,,Akçaabat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.957
 1a83fc38-2fd1-4cf7-b2d6-16864a0182c8,Eminönü Balıkçısı,RESTAURANT,41.008327,39.72221,,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.805
-e2f10d91-d9a9-4406-8feb-af2befe4685c,Rize Green Otel,HOTEL,41.008446,39.720512,İstikbal Karsisi,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.852
 e717d9a6-0f49-4d4b-847f-c67e6726e754,Tarihi Kalkanoğlu Pilavı,RESTAURANT,41.008163,39.721115,Tophane Cami Sk. No:3,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.998
 9981cedb-8742-4b96-8e41-9213162cf0d8,Bulvar Palas Hotel,HOTEL,41.008324,39.721149,Tophane Cami Sk. 12/B,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.928
 faf9751c-3d1c-41c5-86a0-c01753d0a727,Yakamoz Pastanesi,CAFE,41.00806,39.721096,Kalkanoğlu Cd. No:8,Akçaabat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.938
@@ -1608,6 +1612,7 @@ ad109945-315d-4703-b289-acf391573a45,Burhan USTA KÖFTE BALIK,RESTAURANT,41.0121
 ef8e7a89-312f-471c-b1b3-c30a2871f5b6,Biliris Otel,HOTEL,41.012581,39.612526,Barbaros Hayrettin Paşa Cd. NO:17,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.952
 f58747ec-fab3-46f6-84f1-1ca0b9eb04c3,Karamıch Cafe&Restaurant,RESTAURANT,41.012611,39.612568,"SÖĞÜTLÜ MAHALLESİ, BARBAROS HAYRETTİN PAŞA CD. NO:17, 61300 SÖĞÜTLÜ",Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
 811b3059-c00f-47e0-80f5-c5245d382675,Tirvana Balık Restaurant,RESTAURANT,41.012478,39.612968,Barbaros Hayrettin Paşa Cd. No:21,Akçaabat,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.994
+a5b17dc7-8084-4423-8d25-40676b59715e,DoubleTree by Hilton Trabzon,HOTEL,41.011791,39.614933,Barbaros Hayrettin Pasa Sokak No 43,Akçaabat,CDLA-Permissive-2.0,OpenTravel|Overture,hotel,lodging>hotel,1.000
 a657ff78-ce4b-4dd0-ad47-b6dc47447d3c,Domino's Pizza,RESTAURANT,41.011681,39.614357,"Fatih Mah Çakır Apt, Adnan Kahveci Blv. No: 91/A",Akçaabat,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.980
 5d26e2a5-a9c6-4b52-a2ef-2f469b512f49,Uzungöl Yeşil Köşk Otel,HOTEL,41.011292,39.614407,,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.788
 66a96b3d-da6f-4270-b594-457b2b5d12ce,Sögütlü Plaj,SIGHT,41.01273,39.614502,Sogutlu,Akçaabat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.842
@@ -1679,6 +1684,7 @@ f5ea78a0-735d-45a8-bde6-f71b4378c449,Sera Lake Resort Hotel,HOTEL,40.992393,39.6
 dfe1f650-acf8-4663-855b-eab50bed1062,Akpınar Yıldızlı Restaurant,RESTAURANT,40.990417,39.608738,"Yıldızlı Toki Konutları Yanı, Sahil Yolu Cad",Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.997
 51c8957b-6378-4915-8453-ae5ecc79fd9c,Şato Köfte Sinan,RESTAURANT,40.990208,39.608444,"Yıldızlı-Merkez Mah Sahil Yolu Cad., yıldızlı TOKİ Konutları yanı 15/A",Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.893
 94e56d17-78df-42e7-b0ac-8da2f9fa935b,Balımcafe,CAFE,40.989155,39.603146,TOKİ Caddesi 27,Ortahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.878
+795d0599-0b5a-4042-8c2a-87a2b6997231,Villa Esentepe,HOTEL,40.997124,39.607414,Söğütlü orta mahalle çadır dağ no:96,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.874
 51828b3c-de6d-41aa-8c17-82dc7f9419b9,Akçatepe Restaurant,RESTAURANT,40.990955,39.537674,Helvacı No:24,Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.991
 a85c66f5-47cf-442d-a55e-03f743096397,AntikHouse Bungalow&Cafe,HOTEL,41.005966,39.523628,lazlar caddesi 382/1,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
 40a8a596-73bf-42d9-b0fd-550807525a4b,Seyrantepe Bahçe,RESTAURANT,41.002151,39.565125,Çamlık Sk. NO:61,Akçaabat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.977
@@ -1811,7 +1817,6 @@ f5a1f013-dc51-4264-89cc-6da11d5952aa,Lezzet Diyarı,RESTAURANT,41.058178,39.5283
 9cf33373-2d74-4491-be12-ee3173372b48,Pasha Resort & Beach Club,HOTEL,41.05933,39.527184,Salacık Mahallesi No:7,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
 cdf6a7fc-04ee-4b97-bdc4-aa0903a3e525,ROKA BALIK Akçaabat,RESTAURANT,41.060036,39.527145,salacık mahallesi salacık bulvarı no:58 akçaabat/trabzon,Akçaabat,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.909
 a6853783-170f-4d47-9404-344a7284550d,Nihat Usta Salacık,RESTAURANT,41.063572,39.520348,Salacık Köyü Yolu,Akçaabat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.926
-9318b236-2301-4afb-bd1e-a94b0bf9ac48,Dedeman Otel Rize,HOTEL,40.994797,39.779659,Ali Paşa Sokak,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.932
 5d571676-0621-4bef-b866-2eb7e0781b25,Havalimanı Cafe-Restaurant&Fast-Food,CAFE,40.994942,39.779873,Havalimani İç Hatlar Giden Yolcu Terminali,Ortahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 5e58ed90-06fd-46e2-926d-0c974aaa4029,Yalıncak Plajı,SIGHT,40.991894,39.792622,Yalıncak,Ortahisar,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.784
 c3251fb3-7488-4d3a-937f-f445a403f99e,Airport Cafe & Bar,RESTAURANT,40.994011,39.78215,Trabzon havalimani dış hatlar giden yolcu,Ortahisar,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.932
@@ -1857,6 +1862,7 @@ b116ba8e-a908-4f64-8f7f-4a93ff2c6038,Komagene,RESTAURANT,40.990997,39.780697,Kon
 0365b38c-0420-4332-93bb-fa7dc54dc88f,Hera Cafe Nargile,CAFE,40.991283,39.776974,Alper Sk. No:21,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.946
 736b5684-a2fe-4fba-b032-90357a73a777,Trabzon Apartlar,HOTEL,40.990681,39.777153,İstiklal Caddesi 38/1,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.839
 92b5d159-92c5-4690-bbb4-e8ff49e625ff,Lega Cafe,CAFE,40.990799,39.777035,KTÜ,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.915
+ba716f76-9041-43be-b950-de4ea53ee125,المطعم اليمني طرابزون ,RESTAURANT,40.990791,39.778564,Alper Sokak 1A,Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.777
 2107183a-6117-4ba7-875c-a1ae2eb3f402,Njoycakeburger&hookah,CAFE,40.990891,39.778656,Alper Sk.,Ortahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.900
 7ab87eeb-cb7b-48f4-8fa6-dada0bcf9faf,Lokma Tatlı Dünyası Cafe & Restaurant,CAFE,40.990841,39.778809,konaklar şehitasteğmen orhan sancar caddesi No: 35/1,Ortahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.770
 91067ff4-34ab-40dd-bdb3-aec0c4986e4e,Tufan Cafe & Bistro,CAFE,40.990868,39.778801,Konaklar Mahallesi,Ortahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
@@ -1896,7 +1902,9 @@ f08b5f39-63ce-40fc-92b2-b03ff08a0c6e,Movenpick Hotel TRABZON,HOTEL,40.985962,39.
 cb4f6a3d-81d8-4239-9e07-c2320d5fd602,Mövenpick Hotel Trabzon,HOTEL,40.985737,39.816608,"Yalincak Mahallesi, Rize Caddesi No 22E, 61080 TRABZON",Yomra,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
 39e98dfb-6420-4633-a784-bf2a44c4bb9f,Royal Axis Suites Hotel,HOTEL,40.985645,39.814182,Rize Cd.,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 ad586905-5f30-4357-a5d7-7e90e126b8c5,Zeen Lounge Premium,CAFE,40.985001,39.815071,İstiklal 1 nolu Sokak No:4B,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.933
+9ccfa891-f007-4c39-88d9-556e5d29254b,Ramada Plaza by Wyndham Trabzon,HOTEL,40.985477,39.817192,Rize Cd. No:23,Yomra,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.999
 a8be1ab2-9054-41b6-bf1f-09bed94f0ec1,Trabzon Yalıncak Gülyalı Plajı,SIGHT,40.985298,39.822872,Trabzon-rize Yolu,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.950
+2008b509-5892-430b-8fc0-cbb4570d2437,Dreams Inn Luxury Residences & Lifestyle,HOTEL,40.985241,39.823586,,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.829
 5039e679-f6e9-4e08-a292-d65745d0c8a8,Yalıncak Beach,SIGHT,40.985481,39.822983,,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.814
 a3f40754-2270-431c-8228-fead748e3af5,Yalıncak Gülyalı Plajı,SIGHT,40.986172,39.81826,,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.805
 41b6c3a4-4eef-48bd-80fb-8b0c1308cff3,Yosef Cafe Bistro,CAFE,40.986912,39.809364,Trabzon Çimenli Mahallesi Rize Caddesi No:80 Ortahisar  / Yıldız Life Otel,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.943
@@ -1921,6 +1929,7 @@ e79012cf-8286-4941-9ee2-a7f04f1c6af8,Trabzon Andalouse Group Hotels,HOTEL,40.986
 46eaeeec-0869-4559-979b-b5eda6dfcda7,Kaya Home Apart Otel,HOTEL,40.984371,39.778194,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.834
 b7b03c1f-e391-491b-8796-c2d1aba8a3c2,Parpalİ PİDe,RESTAURANT,40.982136,39.77618,Bayındır Cd. NO:82/A,Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.930
 df46af4a-4a75-4370-9d12-d6e5e932636a,Şahin Tepesi Apart Otel,HOTEL,40.981812,39.776268,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.980
+810c3db3-a5db-4d94-b948-255a93d8a5f1,Trabzon Holiday Villas,HOTEL,40.981773,39.784744,Yeşilköy mahallesi kumru sokak no:26 pelitli,Ortahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 0966d27f-7e61-4905-823b-003180266fb5,Villa Kent Apart Otel,HOTEL,40.983349,39.798149,Pelitli Kizilcik Sk 8A,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.838
 0a9ea2b6-07f1-4564-91e1-02d92b7ed8ef,bereket suıt,HOTEL,40.984341,39.801456,İl Özel İdare,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.841
 7dce85f0-f032-4247-bb58-af17cf16ba5f,Lustra Garden Suite,HOTEL,40.983105,39.807369,Trabzon-Çimenli Yalı Küme Evleri,Yomra,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
@@ -1928,9 +1937,11 @@ bea463d0-5c0c-4022-9441-21f5dc8d8c7f,Q Style Hotel,HOTEL,40.978806,39.799297,Şe
 c4fb0f4e-ad8f-425c-91b2-f3900b8d87e5,Seyiryeri Otel,HOTEL,40.97538,39.80975,,Yomra,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.806
 673906cf-76aa-4a6f-981d-c548aa651d12,Asya Residence Hotel,HOTEL,40.977932,39.814308,Yalıncak Yolu,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.982
 70f0897e-d1a8-4f98-b77a-88a01054bb25,Aklife Yalıncak,SIGHT,40.980137,39.817539,,Yomra,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.836
+0f27a529-3ce4-4fec-b097-40ff974d4911,DSİ Misafirhanesi Restorantı,RESTAURANT,40.979908,39.8325,,Yomra,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.876
 cbbf06c0-7e9e-4712-bcf1-685776876fc0,İl Bank Botanik Bahçe,SIGHT,40.980659,39.829422,,Yomra,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.774
 6ee7b61e-8bba-478c-a83d-58ef80945d9f,Absolut beach,SIGHT,40.976837,39.833191,,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.719
 895c9407-52d4-421a-a802-f703d3b4fad9,Cafe Joy - Tostos Park Trabzon,RESTAURANT,40.976746,39.831444,"Yalıncak Mahallesi, Rize Cad. A Blok, Apt. No: 160 AB",Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.964
+025b08b5-74e2-42a2-849a-bb7c895077cc,North Pearl International,HOTEL,40.974827,39.828991,Güngören Sk,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.982
 48adb433-56a8-440e-81cb-1e3eb7391b21,Yalincak Çakırkent,SIGHT,40.973751,39.82888,Defne Sk,Yomra,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.710
 1bb6c408-7875-4c59-9270-bf8a4869e13a,Karnivor Steakhouse,RESTAURANT,40.974255,39.83144,Rize Caddesi No: 108,Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.974
 f3726eee-05e7-4b81-b619-641558e58454,Saylamlar Hotel,HOTEL,40.970406,39.834614,"Saylamlar otel içi, Rize Caddesi devlet karayolu üzeri D:010",Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.869
@@ -1941,6 +1952,7 @@ b05bcaf0-9c8b-4ac4-91e9-d77a99f78172,Kaşüstü Beach Club,SIGHT,40.969391,39.84
 65c93868-1861-4661-b9ad-c06b66e9a198,Kasustu Restaurant & Cafe,CAFE,40.969303,39.840763,Kaşüstü Plaji Yomra,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.976
 78d41c69-27f1-4435-b541-bb4978b3106e,Jardin Cafe Trabzon,CAFE,40.968967,39.841347,Vali Adil Yazar Sokak 9/2,Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.877
 ca534fbf-63af-4730-a4a6-e30fdda53427,Trabzon Kaşüstü Sahil,SIGHT,40.969036,39.839672,,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.884
+23aabc8b-51c8-429e-bd60-12c73310f2e6,Novotel Trabzon,HOTEL,40.968964,39.839386,Dunya Ticaret Sokak No:9,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,1.000
 004b1107-5831-4136-9d31-eb4411af3ab0,The Black Sea,SIGHT,40.96891,39.839611,Turkey,Yomra,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.823
 541aaaa4-9405-45ee-8cfe-d2fd5e08dc8b,DoubleTree by Hilton Suites Trabzon Yomra,HOTEL,40.96891,39.83707,29 Fabrika Sokak Yomra,Yomra,CDLA-Permissive-2.0,OpenTravel|Overture,hotel,lodging>hotel,1.000
 718ab5c0-2b43-4219-b8db-704feb7bac9c,Inanlar City Hotel,HOTEL,40.968647,39.836376,Fabrika Sk. No:1,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
@@ -1992,6 +2004,7 @@ bb4e108d-f5bc-4efa-bb1d-f64788e5a8be,Git Gitchicken Kaşüstü Horon Köfte,REST
 21295fdc-30bb-4210-9e4a-b15f61b5d4c0,Starbucks,CAFE,40.964649,39.837357,Kasustu Mah Merkez 61250 Yomra Trabzon,Yomra,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.954
 bee21dcf-bd33-43af-9d0a-39f4945ff9cc,Colombia Coffee Kasustu,CAFE,40.96524,39.837032,"Keleşoğlu Ak Center, devlet karayolu caddesi no:22A",Yomra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.847
 6f8f16a4-f2b0-49c2-a264-607154cbfedb,Balıkçım Restaurant,RESTAURANT,40.965298,39.833618,"Kilpa market yanı, Kaşüstü Mahallesi Okullar Caddesi, Hastane Yolu üzeri No:6",Yomra,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.997
+9f8054f4-ea30-4680-9580-35cb23156137,Residence Inn by Marriott Trabzon,HOTEL,40.964256,39.829426,Muratlı Cd.,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.999
 5a5a64f7-0f7e-4b8f-9685-05f572aa184d,Zeynep Sultan Pilavı,RESTAURANT,40.96347,39.837025,"Kaşüstü Vali Recep Yazıcıoğlu Cad, 1357 Sk No:5/E",Yomra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.925
 8a9586d1-da2c-40fa-834d-8819e02f950f,Chef Ulubatlı Steak Enver Usta,RESTAURANT,40.963615,39.837875,Vali Recep Yazıcıoğlu Cd,Yomra,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.987
 2165b62b-1c8d-4cc5-a559-677277f2fd03,Sabırlar City Suites Hotel,HOTEL,40.962311,39.842205,Devlet Karayolu Cad No:45/1,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.909
@@ -2000,6 +2013,7 @@ b400ecaf-df75-453e-b513-ecddfb304cac,dyla cafe & restaurant,CAFE,40.962646,39.84
 8477ab02-4bc9-4e6b-90e7-759e2d7af556,Santana Resort Otel,HOTEL,40.962276,39.975742,Yeşilyalı Caddesi 70,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.999
 af36616a-59ab-478a-8c38-5f5ec7001528,Hamsiye balık,RESTAURANT,40.962391,39.989197,vatan koru 1 sokak 2/A,Yomra,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.781
 7540a74c-bafa-4580-a200-d23b5742a68d,Pehlivan Et&Balık Restaurant,RESTAURANT,40.962154,39.996582,Koru Mahallesi Yanbolu Rize Caddesi Yeşilyalı,Yomra,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.770
+160b10ae-d209-4873-abc2-ae0d907cfcdd,Themarinehotel,HOTEL,40.962624,39.995598,Devlet Karayolu Caddesi No:34/1,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
 dd5df6eb-a7c4-4196-a884-32b980c6caa1,Black Sea Hotel,HOTEL,40.963551,39.993565,,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.859
 e35c945d-c679-4a34-be46-8a56a18c5b87,Black Pearly Hotel,HOTEL,40.963375,39.994118,KUZGUNCUK MAH NO:44,Yomra,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.919
 46f8b550-5f44-4176-9287-02a6f076230f,Sahil Cay Bahcesi,CAFE,40.967297,40.304066,Rize Yol Uzeri Kiyicik,Of,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.895

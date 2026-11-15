@@ -8,7 +8,6 @@ sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,o
 21940f6b-8ced-413a-94c0-2da8f7aa2ede,Saray Otel,HOTEL,38.409462,41.921898,Ulucami Cad,Mutki,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.894
 8de7b17e-fad1-4887-8530-d82e67cc7518,Belis Cafe & Restaurant,CAFE,38.407921,41.924114,,Mutki,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.751
 366ac432-794d-4ea6-b5af-f575b92aea56,Mutki Beyaz Su,SIGHT,38.418724,41.905285,Feyzullah Ensari̇ Caddesi̇,Mutki,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.753
-eace32c1-5620-45ab-bbcc-29171991f571,Balcı Süleyman,RESTAURANT,38.577572,42.016922,Üzüm Veren Cd. No:1,Güroymak,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.958
 2f9b3e1a-265a-4b80-9b6d-ed30f1901ed3,Beyrut Cafe,CAFE,38.577744,42.018143,"Hükümet konağı yanı kat: 2 no:, D:1",Güroymak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.803
 be6e3b2f-962d-4fc8-86c9-2848ca0ce755,Beyaz Köşk Cafe,CAFE,38.597511,42.006779,,Güroymak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
 97e066ba-8bb4-40a6-b913-24e8a35f3d9d,"Sezğinler Alabalık , Güroymak",RESTAURANT,38.585175,42.021053,,Güroymak,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.761
@@ -20,7 +19,7 @@ d609a439-59b5-4757-9758-a67592192196,Grand Yüksel Otel,HOTEL,38.576649,42.01953
 faa85441-aa43-4c64-894a-bb109b18a729,Gölbaşı Kaplıcaları Güroymak,SIGHT,38.65332,42.024006,,Güroymak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.803
 ee702ac1-8575-4011-bb0c-c234fe9adcb4,Nemrut Gölü,SIGHT,38.619438,42.222221,,Güroymak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.825
 f9d9eefa-b68e-4fee-a138-5e55f4db0dff,Assorti Beach,SIGHT,38.554108,42.355709,Ahlat Yol Üzeri,Ahlat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.751
-b35bf4f9-fa73-40b5-aafe-1d82498d2084,Cennet Aile Piknik ve Kamp Alanı,CAFE,38.528812,42.314587,Kale Mah Ahlat Yolu Altı Toki Konutlari Karşısı,Güroymak,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.942
+b35bf4f9-fa73-40b5-aafe-1d82498d2084,Cennet Aile Piknik ve Kamp Alanı,HOTEL,38.528812,42.314587,Kale Mah Ahlat Yolu Altı Toki Konutlari Karşısı,Güroymak,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.942
 4dc704e8-96bb-47e3-b208-1814adb68b1c,Anadolu Sofrası Tatvan,RESTAURANT,38.532303,42.310951,"Süphan Dinlenme Tesisleri, Ahlat Yolu Cd. Üzeri",Güroymak,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.820
 9f8e48d5-f359-4a97-be35-c032f15566d1,Tatvan Gol Cay Bahcesi,CAFE,38.532192,42.310276,Toki Karşısı Sahil,Güroymak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.955
 853e68b8-d829-4542-aa42-8cd02adb59f6,Van Gölünde,SIGHT,38.540882,42.300907,,Güroymak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.731
@@ -31,14 +30,12 @@ d60fe810-b397-44c3-be82-f604df655bde,Nemrut Krater Gölü,SIGHT,38.523598,42.269
 5e588434-2290-422d-8204-6f9dfc31d001,Tatvan Halk Plajı,SIGHT,38.525757,42.302155,,Güroymak,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.790
 2ce6b60e-7472-42de-8136-777c0e5d8b7e,Tahtıvan Kahve Evi,CAFE,38.512409,42.290226,Bahçelievler Mah. Ahlat Yolu Cad.,Güroymak,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 46373aa1-1177-4459-841b-94d14261505a,Gürcüoğullari Et Ve Balik Restaurant,RESTAURANT,38.512348,42.290157,CUMHURİYET CADDESİ,Güroymak,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.785
-c53ca32f-769b-4760-a188-9788366bc298,Taht-ı Van,CAFE,38.512493,42.290047,,Güroymak,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.968
 b7faf506-7da3-4791-8ba6-79b1b33505b8,Vonal Coffee Shop - Feribot,CAFE,38.511086,42.288025,Cemal Taşar Caddesi Göl Apt No: 75F,Güroymak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.847
 c4903e1b-0c4f-4b9b-b691-29049ccc2b86,Harabeşehir Ahlat Bitlis,SIGHT,38.510052,42.281956,Bitlis Ahlat,Güroymak,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.799
 c063580a-0cd4-4460-9700-71e10b878903,Bayramefendi Osmanlı Kahvecisi,CAFE,38.508968,42.280334,"Aydınlar Mahallesi, Cumhuriyet Caddesi No:68",Güroymak,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 aed70637-a30a-4a9f-8587-b8a0247e947e,Sencer Efendi Kahveleri,CAFE,38.508595,42.280682,Hacı Mestan Caddesi 22,Güroymak,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.863
 7b7b0113-c154-4ca5-92ee-b942e710fc54,Van Gölünde,SIGHT,38.509045,42.278778,,Güroymak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.783
 bb7d36b1-228b-4b62-9500-ae551ebc9d73,Andalus Coffee and Roastery,CAFE,38.510822,42.278858,Mekineddin Aydın Cd no:4A,Güroymak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.955
-77c66ad4-e425-46b2-8e08-724b22b905f5,Hapifood Tatvan,CAFE,38.512665,42.278164,Cumhuriyet Cd. 89B,Güroymak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.946
 9ef87319-baa9-4506-9605-4089bbd22450,Adapark Maraşlıoğlu Restaurant Cafe,RESTAURANT,38.502243,42.281162,Kültür Mah. Cumhuriyet Bulvarı Adabağ AVM No:1,Güroymak,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.960
 9659cf47-f3f4-44e4-8617-be9012a441d8,Mostar Hotel,HOTEL,38.501793,42.281475,Tug. Mah. Cumhuriyet Cad. No:244 Tatvan,Güroymak,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 3b5f6cdd-663b-411a-8718-da4d579139dc,Laos Coffee Tatvan,CAFE,38.502094,42.281967,Cumhuriyet Cd. No:1,Güroymak,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.767
@@ -58,10 +55,8 @@ b027278a-d480-4bd5-a7ed-1e7a679f1ad8,Ustun Otel,HOTEL,38.495213,42.287594,SAHİL
 64d5f684-54b1-4c04-837b-4651b673fe34,TheBi Theater & Art Cafe,CAFE,38.495407,42.28772,Behiç Çelik Sk. 16/2,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.758
 47051c4c-d00d-4a84-8f91-737c61bb87d5,Helvacı yakub efendi tatvan,CAFE,38.493656,42.288826,Faki Hüseyin Sağnıç Caddesi No:127/1,Tatvan,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.930
 f22e13aa-842e-4652-9a1f-a33ec2fdb08a,Sütçü Kız Kahvaltı & Cafe,RESTAURANT,38.493561,42.287785,Cumhuriyet Cad Baran Center Kat:8,Tatvan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.770
-e5b96e6e-3283-415b-9642-aec60cda8033,keyfibalkon,CAFE,38.493706,42.287922,Bitlis Tatvan,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.794
 e234db55-f26b-42d1-bac5-53dc22bf20bd,Çınar Kebap,RESTAURANT,38.493469,42.28738,Cumhuriyet Cd. No:242/A,Tatvan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.894
 15650a2e-c22d-4ea6-b156-f1fad55c7c0c,Kasıbeyaz Restaurant,RESTAURANT,38.494183,42.287025,Çatal Sok No:19,Tatvan,CDLA-Permissive-2.0,Overture|meta,eastern_european_restaurant,food_and_drink>restaurant>european_restaurant>eastern_european_restaurant,0.915
-9b50a3e6-0a62-4f27-afe2-596e1b19a3d3,Tatvan Karaman Otel,HOTEL,38.494602,42.287193,Yeni Çarşı Cd. No:4,Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 ffdbd20b-7826-4221-b457-e468d41c1c6e,Tatvan Center Avm,SHOPPING,38.49461,42.287476,,Tatvan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.719
 43d98a51-cce8-4a6f-a005-a17bf1117dfe,Mavi Beyaz Restaurant,RESTAURANT,38.49456,42.28759,,Tatvan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.984
 071c22ef-9943-45a5-9790-d8215093916c,Cenkçi Çay Evi,CAFE,38.494289,42.2882,Hal Cd. No:94,Tatvan,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.854
@@ -107,13 +102,11 @@ b665a496-f0eb-4f49-b329-5d4a3e4fea60,Chicken Street Tatvan,RESTAURANT,38.500057,
 3fc91756-6e06-44de-8c46-b04d26d93362,Tatvan Reşadiye,SIGHT,38.493057,42.286568,,Tatvan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.703
 a2e29b4c-b0fa-4de0-94d8-a8db8419f603,Canımsın Meltem Buryan,RESTAURANT,38.492817,42.288361,Cumhuriyet Cad Büyük Camii Karşısı,Tatvan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.940
 b9272547-9288-4d5d-9bf4-11fa3c099c68,Meltem Büryan Salonu,RESTAURANT,38.492363,42.28857,Cumhuriyet Cd. No:197,Tatvan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.824
-793d5101-53da-4391-916e-5f5b240335ad,The Black End Coffe,RESTAURANT,38.491413,42.288857,,Tatvan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.823
 79c1966f-b920-49fb-a499-3d51b0c6f146,Mostar Hotel,HOTEL,38.48962,42.289803,"No:244, Cumhuriyet Cd. No:244",Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.803
 4176628d-457d-4b1a-8faf-e03720ea233b,Tasar Royal Hotel,HOTEL,38.489372,42.29084,Cumhuriyet Cd. No:333,Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 40d0f5cd-1f32-4ed2-b51c-42abb88885a9,Tatvan İşletme Oteli,HOTEL,38.489517,42.293854,"Tatvan İşletme Oteli, Göl Cd.",Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.920
 98d4172f-4925-4cfd-be12-4ad393f96b7e,Kahve Deryası Sahil,CAFE,38.489658,42.293728,İşletme Oteli,Tatvan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.867
 8b7deff8-2892-4fc3-b393-bfe5f6f4b0d9,Dodo Cafe and Restaurant,CAFE,38.489517,42.294353,Göl Cd. No:111 D:111,Tatvan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.936
-2da9393b-64c6-40a0-80eb-536b158674f4,Van Hacı Baba Corba,CAFE,38.486675,42.292969,Van Hacı Baba Çorba,Tatvan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.849
 ae954558-dcb7-4475-8f35-664e456576ae,Tatvan Grand İskender Hotel,HOTEL,38.486816,42.297367,Fuar Alanı İçi,Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 4448f6a3-404d-4134-902e-68bc7decb9ff,Guzelbahce Vera Cafe Kahvalti,RESTAURANT,38.492786,42.292919,İşletme Cd. No:14,Tatvan,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.839
 bfaea193-544b-48ff-8761-159e8d07e31b,Fa & Do Cafe,CAFE,38.492683,42.292667,Sahil Yol Üzeri,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.902
@@ -129,13 +122,11 @@ b6ef3d40-0417-4a5e-8e5a-18d0a911287a,Nomad Karavan Coffee,CAFE,38.493294,42.2914
 f952714e-9882-4639-aba2-9cb9fe28a30f,Vonal coffee shop,CAFE,38.493481,42.290089,Kazım Paşa Cd. no:122/1,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.948
 19151b21-ab29-40ec-9c91-46631d7c6c19,Fado dondurma,CAFE,38.493504,42.292164,,Tatvan,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.779
 4c290364-7d00-4c81-97ad-d6a4f6d654ad,Beyaz Köşk Hotel & Cafe,HOTEL,38.495461,42.290722,sahil mahallesi,Tatvan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-4d9bfa97-128d-4983-94e1-ed0e1e44c131,Tatvan Seyir Terası,CAFE,38.480434,42.31514,Yeşil Mezra Mahallesi Han Elmalı Yolu Caddesi Elmas sitesi üzeri,Tatvan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.987
 886d9b24-ef60-4659-8b86-ac298f7467c7,Tatvan Pirume patisserie,CAFE,38.485432,42.294453,Cumhuriyet Caddesi 70,Tatvan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.854
 b6a5f348-c8cc-496d-8f53-fc1bf6e567ac,Ustun Restaurant Dinlenme Tesisleri,RESTAURANT,38.488632,42.182743,mah ahmet eren Bulvarı No 457,Tatvan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.882
 8ba01efb-ce29-431a-8028-609a4be5e329,Gurme Kervansaray,RESTAURANT,38.488529,42.182949,,Tatvan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.781
 79a14029-ff43-4337-b539-d2aabf61bf6a,Adabağlı Kavurma,RESTAURANT,38.503483,42.220577,Bitlis Tatvan Yolu,Güroymak,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.913
 62252668-39c1-41d3-bf9c-5112b5e84f0a,Kıreç Ocağı Taşlı Tepe,SIGHT,38.505421,42.266727,,Güroymak,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.704
-70f34d8e-dc8b-45bb-b48a-5f259233338f,RAHVA BİMS,RESTAURANT,38.509544,42.231705,Rahva,Güroymak,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.821
 98178cde-3bcd-4160-9fce-1c55a1b7f2b0,Sanayi Lokantası,RESTAURANT,38.52203,42.267044,9. Sk. No:4,Güroymak,CDLA-Permissive-2.0,Overture|meta,mexican_restaurant,food_and_drink>restaurant>latin_american_restaurant>mexican_restaurant,0.935
 47433d99-8f99-472a-819f-9537ef5d15d2,Paşahan Cafe Restaurant,RESTAURANT,38.43047,42.130157,Hüsrevpaşa Hanı,Bitlis,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.996
 d4c2d9a7-6bb7-4eb6-a0d3-ba9f6172e25e,Üsküdar Parkı,SIGHT,38.431038,42.131191,Selahattin Eyyübi Cd. No:84,Bitlis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.822
@@ -144,11 +135,9 @@ cfb98a22-12e7-4391-84c0-75cb6fda0723,Küçük Ev Restaurant,RESTAURANT,38.471992
 4ed21912-fefc-4bcc-92c5-1b50f79b54e9,Fidan Patisserie,CAFE,38.479309,42.16745,"Otobüs Durağı, Bitlis TOKİ Konutları",Tatvan,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.920
 60eeedd3-75f2-4bb4-bd17-67f11f5b821a,Yesilirmak Merit Hotel,HOTEL,38.485813,42.175682,Ahmet Eren Bulvarı No:175,Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 c35912ac-33d9-4431-8e3c-370c255e1b0f,Burking Pizza,RESTAURANT,38.478184,42.165798,Beşminare Mah,Tatvan,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.857
-4fb35012-79ac-43dc-aa29-f5317886a979,Çapa Oyun Limanı,CAFE,38.478035,42.165737,,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.787
 bd0a610a-5228-4de2-a24d-18d373eae536,Zahara Chocolate Coffee,CAFE,38.470867,42.155888,Ahmet Eren Blv No:305,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.867
 8f5258a7-6b91-4a76-a5b4-7a58ec5853c0,BaŞHan Cafe & Kahvalti,CAFE,38.469841,42.155373,"Tarihi Başhan Hanı, No:1",Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.954
 36b44269-fa0c-498b-ad84-24604fb016dc,Çukur Cafe & Restaurant,CAFE,38.450314,42.145603,Bitlis Devlet Hastahanesi Karşısı,Tatvan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.820
-cba59a59-2e90-4402-8a5f-81e4675d0da0,Huqqa,CAFE,38.450363,42.14521,"Selahattin Eyyübi Cd. No:153, 13000",Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.949
 71686eb0-4329-48c1-939d-e744b7ef8e9e,Bitlis Beş Minare,SIGHT,38.44482,42.14222,,Tatvan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.702
 ae8aa2a9-0953-45e1-b650-4d982ce44a26,Yeşilirmak merit otel ve dugun salonu,HOTEL,38.442684,42.140877,Beşminare 38. Sokak 1,Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.769
 b0661f8a-50ab-4578-b925-b03a52a7d09c,Otantik Cafe,CAFE,38.443039,42.14217,,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.782
@@ -170,15 +159,14 @@ ccda30fb-b86b-43b8-8c8b-a5d98f8fe90d,Buryanci Azminin Yeri,RESTAURANT,38.399414,
 d9db55db-a00f-4c2c-85c1-183b6b809886,Büryancı vahit usta,RESTAURANT,38.400017,42.107746,Kazım Dirik Cd. No:101,Bitlis,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.939
 ca0fa55c-f377-41bf-af47-9becc071ac91,Büryanci Medeni Usta,RESTAURANT,38.400249,42.107376,Kazım Dirik Cd.,Bitlis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.920
 ce82f1f5-054e-4c35-8745-89d4779fd3b8,ŞATO CAFE,CAFE,38.399197,42.108189,Şato Kafe,Bitlis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.920
+bd0dafed-b6ea-4a46-b55e-4823942b107e,İPEK YOLU Dinlenme Tesisleri,RESTAURANT,38.399197,42.108189,Bitlis Caddesi 26,Bitlis,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.865
 57ca7f15-993a-4842-9be4-c12e917aa92f,Saray Pide Lahmacun & Izgara Salonu,RESTAURANT,38.400799,42.109699,Orduevi Caddesi 7,Bitlis,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.826
 6dea123b-9219-4d80-85fd-dbd7c449988c,Durak Lokantasi,RESTAURANT,38.401779,42.109196,"Tatvan Durağı Yanı Karslıoğlu, Nur Cd. Apt. 1.Kat No:30/1",Bitlis,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.777
 3f475537-6107-4df2-826c-5b9623e53af5,Durak Lokantasi,RESTAURANT,38.402039,42.108727,"Tatvan Durağı Yanı Karslıoğlu, Nur Cd. Apt. 1.Kat No:30/1",Bitlis,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.781
 a99cb46d-503c-47ac-8540-557720be6237,OTEL Hanedan ve Restaurant,HOTEL,38.40601,42.109524,Nur Caddesi 1,Bitlis,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.899
 40800f29-1e18-4e03-beca-1d76fad1d142,Vitamin Cafe,CAFE,38.410076,42.110607,Feyzullah Ensari Cd. No:74,Bitlis,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.896
-0d189d65-843d-4b4d-8d2e-a9a54c15e285,Baydeğirmenci,RESTAURANT,38.416374,42.122311,batarya kavşağı,Bitlis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.947
 71b9f105-8983-4b4d-ada8-565befb89e7a,BurKing Pizza,RESTAURANT,38.422741,42.125332,Selahattin Eyyübi Cd.,Bitlis,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.906
 9fb3ef4f-71a4-4b47-9dc0-2b3f2210d860,Sina Cafe,CAFE,38.422947,42.124931,,Bitlis,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.916
-cea18159-9df1-48ac-88b9-de0ef37eb0e1,Artukbey,CAFE,38.424862,42.126072,Husrevpasa Mah,Bitlis,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.802
 ef6992a1-35d3-41dc-9f6c-97c6fbf76f29,Sönmez Maraşlıoğlu Pastanesi Cafe Bistro,CAFE,38.424961,42.126167,çam sitesi mevkii,Bitlis,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.967
 e9e40fa8-6d4e-4ee3-b864-8904f0873e6a,Komagene,RESTAURANT,38.424961,42.126343,1203. Sk. No:3 İçkapı No:4,Bitlis,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.768
 a9da344e-a28a-474b-9f26-8bf4cd266b4b,Hapifood,RESTAURANT,38.426296,42.128731,Shell Petrol Karşısı HapiFood Coffee Restaurant,Bitlis,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.931
@@ -189,14 +177,12 @@ e0d84782-67ca-4d2f-a955-32cc0e8203df,Tantunim 33,RESTAURANT,38.426884,42.12809,1
 e35dee0e-5b42-4cec-9e92-91f62949f0d1,aygır gölü adilcevaz bitlis,SIGHT,38.424652,42.121017,,Bitlis,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.773
 8a77f511-f87d-48bf-a133-d2eeef4dd27b,Yığit Alabalık Tesisleri,RESTAURANT,38.413532,42.088943,Köseler Sk. No:147,Bitlis,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.885
 ff185710-bc49-45ea-89f8-2fa7cc4ee625,Şark Mermer Otel,HOTEL,38.36832,42.094421,Diyarbakır Yolu Üzeri Bitlis Yeni Sanayi Sitesi Yanı Arıcılık Mevkii No:79,Bitlis,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.776
-f52fdc54-5e79-4e4b-8fbf-de90f310bbff,Bitlis kultik tütüncülük,CAFE,38.346279,42.159794,aridag köyü,Bitlis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.977
 249bce64-c13d-4cf8-9827-1506b7f582b1,Van Gölü,SIGHT,38.766319,42.574482,,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.708
 a74fac0f-ca01-43c7-8053-209ac0ee9654,Ahlat Sahil,SIGHT,38.758591,42.542431,Bitlis,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.841
 81c6a128-40ff-4cea-8c1d-fba28ce4d696,Ahlat Aydoğdu Alabalık Tesisleri,RESTAURANT,38.758579,42.542381,,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.927
 fc3ff973-010a-4bd7-bd9e-755edcefcd55,Nemrut Gülsuhan Kaplıcaları Tatvan/BİTLİS,SIGHT,38.576847,42.379219,KIYIDÜZÜ KÖYÜ,Ahlat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.709
 42838854-8eb8-4642-9a9b-561d2955cad4,Ahlat Müzesi Karşılama Merkezi,SIGHT,38.739014,42.454441,"Ahlat/Bitlis, Türkiye İki Kubbe mah. İyiler mevkii Devlet bahçeli bulvarı Bitlis Yolu",Ahlat,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.964
 38fec48a-acae-4272-a479-a39cf219190d,Harabe Şehir,SIGHT,38.746464,42.455151,,Ahlat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.904
-241079a4-09d0-47cb-8e30-e2f7fa3e6dc6,Oz Babahan,RESTAURANT,38.747456,42.471199,Ahlat BİTLİS,Ahlat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.894
 4abc8732-7405-426f-ba72-6aa5f4b5d707,Eski İskele Dondurmacısı,CAFE,38.752312,42.49757,Devlet bahçeli bulvarı eski iskele dondurmacısı Çağrı bey iskelesi,Ahlat,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.890
 1ac32146-793b-4bdb-bc6e-38837a119a9f,Van Golu,SIGHT,38.751873,42.498714,,Ahlat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.703
 fe0e7d35-16e9-4c12-862d-0ef6af5743b5,Büyük Selcuklu Oteli Ahlat,HOTEL,38.752556,42.499817,,Ahlat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
@@ -209,13 +195,11 @@ ae3562a2-6a98-400f-81a7-aba2b6793228,Öyküm Cafe,CAFE,38.75428,42.500072,Koçak
 86f423ce-7a82-4837-8bda-8b77b66b5be5,Gezenler SİMİT Sarayi,RESTAURANT,38.753948,42.496624,Mazlum Yegül Caddesi 90,Ahlat,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.873
 98d09d73-145b-4d7c-a1be-4000b958d17e,Van Golu Restaurant,RESTAURANT,38.753956,42.494164,"Erkizan Mahallesi Mazlum Yegül Caddesi Kat: 2 No: 158/8 , 13400",Ahlat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.943
 046aaf62-ebfc-4fd7-989b-92eeb3e053d4,Habiboğlu restorant,RESTAURANT,38.755013,42.505569,Sanayi 1 Sk. No:34,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.903
-262a4595-b23d-43e7-8398-86066af94912,Santral İstanbul,RESTAURANT,38.754185,42.506012,Sahil Cd.,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.815
 19fc89e8-6b61-40cb-9367-f6f83ee3b70b,Kemer Grup Cafe Restaurant,RESTAURANT,38.759487,42.52504,Devlet Bahçeli Bulvarı 40,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.910
 ce6e00ec-7b8d-425d-bbde-7b440564cfbd,AHLAT Tatlısu Bungalov Otel,HOTEL,38.75771,42.521198,devlet Bahçeli bulvarı,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.909
 2b75b84f-35d3-4aaf-8fce-99c35131f1af,Abdurrahman Gazi Camii,SIGHT,38.765812,42.522625,,Adilcevaz,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.791
 8848d8a3-ad96-4973-97cd-f1a3fca823e9,Dodo Cafe & Restaurant,CAFE,38.753834,42.490738,Şehit Erdoğan Gökbulak Cad,Ahlat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.872
 d16ead37-27d8-4c50-908b-06b3b48bbf24,Hasbihal Cafe & Bilardo,CAFE,38.753876,42.491829,Erkizan Mah,Ahlat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.860
-3845b5e3-7c99-4f80-9d0e-3f46aebb1c2d,Aşşaqı Çar$I,CAFE,38.753929,42.492611,aşşağı çarşı ,Ahlat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.888
 b7c599a9-abfc-4b60-b2cc-8d1ac7862b3f,BETAV Yahya Eren Sosyal Tesisleri,RESTAURANT,38.75145,42.490807,Sahil Yolu Üzeri,Ahlat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.935
 1c46657d-3e86-4552-af47-f60e93bda701,Kahve Deryası Ahlat,CAFE,38.750862,42.4879,Devlet Bahçeli Bulvarı 113/2,Ahlat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.767
 6b177292-b472-4f43-b676-f3228fefc110,Ahlat Eski Iskele,SIGHT,38.749554,42.485416,,Ahlat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.782

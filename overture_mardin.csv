@@ -1,5 +1,4 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
-1a483645-e5cc-49aa-b800-1691abc8f561,Urfa - Mardin,SIGHT,37.214691,40.053211,,Derik,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.817
 95341ffe-23f8-4051-ac66-c04f89116a35,Mardin Museum,SIGHT,37.31361,40.068054,,Derik,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.706
 adee1dba-0664-46dc-a29b-cf97582a27ca,Kasr-ı Kanco,SIGHT,37.191517,40.143124,,Derik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.741
 001bef88-ba70-4622-8dd3-bfcb4fba4f6f,Ceylanpınar Alaca,SIGHT,37.036179,40.137619,,Derik,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.893
@@ -13,7 +12,6 @@ d3d90795-e47a-46d2-a520-5facf6049b28,Derik Berdin Kıraathanesi,CAFE,37.361259,4
 bb9163df-1250-4717-a027-2acb72933875,Cander Yemekcilik Limited Şirketi,RESTAURANT,37.363297,40.271099,ekttiren apartmanı altı Gözen petrol yanı cander yemekcilik ,Derik,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.796
 0cf5dd70-4186-4d26-aa52-2c2109faf33e,Kanun (Cemil Ğezzo) Çiftliği,SIGHT,37.127075,40.34005,Yumurcak Köyü Kızıltepe Mardin,Derik,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.790
 6239d364-97da-487a-8ddb-84ee7a999097,Tadim Ocakbası Dıkmen,RESTAURANT,37.091537,40.416183,Dikmen Mahallesi,Derik,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.904
-56b953b1-77ce-48eb-ae7f-dc9a9dff8e87,Diyarbakir Surları,SIGHT,37.32494,40.487843,,Mazıdağı,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.769
 3cfb82a2-af83-40a5-b360-bbfb01cd3537,Sando Restaurant,RESTAURANT,37.191025,40.538834,,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.995
 f28efadf-26e9-46af-83ab-5a8267ee2fc5,Oztopraklar Otel,HOTEL,37.189461,40.572552,İpek Yolu,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.913
 2af1fef3-602a-4dd9-9d2b-23d7babb44ff,Eski Mardin,SIGHT,37.191818,40.583042,,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.734
@@ -57,6 +55,7 @@ c3e2f901-f23f-4283-acb4-7606c1a6d761,Mova Park Deniz Cafe,CAFE,37.193287,40.5876
 8cf9b39e-1dd5-4e0b-b5d9-70c60278839c,Kızıltepe Simit Sarayı,RESTAURANT,37.193302,40.587685,tepebasi mah.urfa caddesi 454 kızıltepe mardin,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.875
 abe4333c-4c1f-4536-98fc-403efe6d6406,Şato Cafe,CAFE,37.19326,40.587448,,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.835
 d7f2b112-ad84-4b9a-860b-5e8ca9f83d1e,Baklavacı Sefa Kızıltepe,CAFE,37.193119,40.58744,Mardin Cd. No:6/6,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.881
+f0b29d72-c082-4d0e-920b-91e4c0ac0c67,Rest & More by Dedeman Mardin Kızıltepe,HOTEL,37.193104,40.58704,"Turgut Özal, Mardin Cad. No:304, Kızıltepe/Mardin",Kızıltepe,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
 e57715d6-465c-456d-ad7d-2b6cf1ba4471,Akvaryum Cafe,CAFE,37.193398,40.586967,Eski Maliye Yanı,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.750
 4b3f10cf-dbeb-488d-b801-c1d689781c9f,Almira Cafe,CAFE,37.194042,40.589958,"MENEKŞE APTARTMANI TEPEBAŞI MAHALLESİİ, Mardin Cd. NO:45/B",Kızıltepe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.905
 706dd3b7-d5a8-4bdd-a6c1-e1ab33718b67,Keyf-i Mersin Tantuni,RESTAURANT,37.193825,40.590195,"İÇ KAPI, TURGUT ÖZAL MAH. MARDİN CAD. MOVA AVM NO: 416, NO: 104",Kızıltepe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.846
@@ -110,7 +109,6 @@ caabd8c7-61d5-4442-8c71-a8f3cb85790e,Mado,CAFE,37.236774,40.637894,,Kızıltepe,
 193effba-c741-4f68-8859-47502ede80db,Movapark Alışveriş ve Yaşam Merkezi,SHOPPING,37.237209,40.637585,Mardin Havaalanı Çıkışı Yanı,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.989
 e1ac0a5a-f49e-4b2e-8563-373b2550106d,Sbarro,RESTAURANT,37.23711,40.637562,"Turgut Ozal Mah, Mardin CAD, Mova AVM No: 416 Kiziltepe",Kızıltepe,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 0d3d2667-0c5e-4d70-bdf1-fc03c8cfbdb8,Popeyes Louisiana Kitchen,RESTAURANT,37.236904,40.63768,Turgut özal Mahallesi Mardin Caddesi Havaalanı Yanı No: 30 Movapark Avm Kat: 1 No: 5/5 A,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.927
-75b322cf-298a-4585-9162-0c94d312f7df,Mova Park Voit Spor Ürünleri,SHOPPING,37.236664,40.637344,Mardin Havaalanı Yanı,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.703
 aab573a9-81bf-41d0-a399-e3084c54659e,Burger King,RESTAURANT,37.236267,40.636803,Kızıltepe Mardin Yolu Mardin Havaalanı Yanı Mardin Outlet Park Mağaza No: 4 Kat: 1,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.999
 73fbed03-c42e-4a44-8717-525e018e4d37,Mardin Airport Hotel,HOTEL,37.236069,40.637001,Mardin Havalimanı Yanı,Kızıltepe,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 b262d534-1ae3-458d-9f82-8c64806581ae,Usta Dönerci,RESTAURANT,37.235344,40.635246,Turgut Özal Mahallesi Mardin Caddesi MOVA AVM Kat 1 No: 106,Kızıltepe,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
@@ -169,6 +167,7 @@ a1f0b8b9-54f0-45d3-a475-23cccea73e98,Izala Buotiquie Hotel,HOTEL,37.331276,40.71
 2188c560-88b5-472f-9617-8169b6801a88,Robert's Coffee,CAFE,37.3316,40.710838,Mardin AVM,Mardin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 f02c07bc-9c83-485b-979c-726b13cbbeaa,Tedaş Parkı,SIGHT,37.332138,40.710262,,Mardin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.893
 8a3f3588-65cf-45b8-9b8c-db0ada9d6607,Ebrar Mahalli Yemekler,RESTAURANT,37.330624,40.711002,Dedaş Mardin il Müdürlugu karsisi,Mardin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.770
+43ffcc78-7309-4a74-bedd-03030f84cf8a,Hilton Garden Inn Mardin,HOTEL,37.318222,40.71389,Yenisehir Mahallesi Baris Caddesi29. Sokak No 34,Mardin,CDLA-Permissive-2.0,OpenTravel|Overture,hotel,lodging>hotel,0.999
 dadac35d-a464-4a7c-a6f3-99efd14cf489,Şantie Cafe & Restaurant,RESTAURANT,37.326477,40.711685,Konak Cd. 1. Sk. no1,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.800
 fcfbdd69-a78c-4ecc-8078-9c095d8321fd,Meşhur Kahvaltıcı Kadri Mardin,RESTAURANT,37.32906,40.711784,Mehmet Nurdağ Caddesi 12B,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.984
 1b09e8f9-e091-46e7-85af-8845eba52973,Hayat Paça Ciğer Salonu,RESTAURANT,37.32803,40.715355,"KARATAŞ SİTESİ, 13 MART MAHALLESİ MEHTAP CADDESİ, ALT KATI 30/B",Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
@@ -180,6 +179,7 @@ a4b1b157-6f9d-4c8c-a7c8-e90dcec6d32a,Dafne Restaurant,RESTAURANT,37.32597,40.716
 0bea94f9-4408-46b1-b7de-48fce4a3457c,Biyacık Restorant,RESTAURANT,37.32671,40.716072,Işık Cd. No:26,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.775
 3492eec0-544b-4ac7-bc83-0f01a21f6f7d,Usta Cağ Kebap,RESTAURANT,37.326534,40.715725,,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.848
 170c20cf-ecfc-4fba-bbcb-52a7913803d1,Maide Yöresel lezzetler,RESTAURANT,37.323692,40.716518,Maide yöresel lezzetler,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.974
+2273ac99-64f4-443f-bb2f-0ad9ca3e9d03,Hilton Garden Inn Mardin,HOTEL,37.318573,40.714092,Barış Cd. No:29,Mardin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 87368855-7837-40a3-8dc3-a498ae3f0ae9,Nusret Kebap,RESTAURANT,37.320965,40.716965,Yenişehir mah,Mardin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.770
 0830357f-f9e1-4d20-9695-ac30d1eb9a76,KÖZ DÖNER,RESTAURANT,37.32029,40.718948,Ravza Caddesi 73A,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.803
 b1271848-b74f-43b7-bc85-9ef245d897b2,Kahve Diyarı,CAFE,37.320263,40.719536,Yenişehir Mah. Akkent Sit. 4. Blok Altı No:8 Ravza Cad.,Mardin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
@@ -209,6 +209,7 @@ afa07c67-23ad-4c80-a423-6a07d001e8c3,Doğan Center,SHOPPING,37.325752,40.717083,
 da3008b0-1d04-4bb9-9b88-235dcdd18ff7,Saray börekçisi,CAFE,37.325844,40.718262,Işık Cd. No:14,Mardin,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.877
 d1b27228-b057-4c37-8da6-42598f90e4e9,Maradin Cafe & Restaurant,RESTAURANT,37.325279,40.718224,"Boost cafe üstü opet yanı, Vali Ozan Blv. can plaza no:80 Kapı no:1",Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.836
 c5303ed2-f52a-417f-9191-f431204c4ed9,Pasaport Pizza Artuklu,RESTAURANT,37.324596,40.718243,"Dış Kapı:23, Vali Ozan Blv. J İç No:1",Mardin,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.980
+5880003c-eebe-4ca3-83aa-f20cdaf831fb,MardianMall,SHOPPING,37.324146,40.71904,Vali Ozan Caddesi 51,Mardin,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.890
 c5f10007-bdcd-4351-92e0-2198932c6093,Yunus Döner,RESTAURANT,37.325298,40.719467,Işık Cd. No:3,Mardin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.898
 c148907b-94a7-4bf4-9653-670b25e9adc2,Dara Antik Kenti / Mardin,SIGHT,37.324749,40.719505,Dara Antik Kent,Mardin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.712
 bc54c6de-a5ae-4246-baf4-8e0c23558628,01 ADANA Ocakbası,RESTAURANT,37.325134,40.719749,9. Sokak 3,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.946
@@ -221,7 +222,6 @@ b7607bff-66f3-4f06-842a-6d548775f440,Mersin Tantuni,RESTAURANT,37.325806,40.7199
 59cc0e80-2c17-4ebf-bc53-90ba5269336d,Mardin Kaburga Sofrasi,RESTAURANT,37.326046,40.719646,,Mardin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.770
 d6ca55f6-fffe-4882-975f-509186a5a5e1,Irmak Et Lokantası,RESTAURANT,37.327511,40.719788,Zafer Cd. No:13,Mardin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
 1d5a0aa6-97b1-40b1-9f1c-eefedb38d00c,Şantie Cafe&Restoran,RESTAURANT,37.328209,40.722004,Emniyet Caddesi 1. Sokak 13,Artuklu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.838
-80ab2ddd-c992-4ecc-bbf7-2acd459896bd,Diyarbakır on Gözlü Köprü,SIGHT,37.328297,40.722137,,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.714
 f9ab2d4f-85f6-4e65-b61e-1f8498bcb7b5,Hazar Gölü,SIGHT,37.325806,40.722012,,Artuklu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.705
 502eaf1f-28be-44f7-92d0-6e03b6d6e538,Bi Gel cafe,CAFE,37.325798,40.721684,13 mart mahallesi 705 sok başak apt altı ,Artuklu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.772
 5d4309e7-a145-41de-ac27-49323e3bb362,Ebrar Mahalli Yemekler,RESTAURANT,37.325832,40.721539,Vali Ozan caddesi okumuşlar apt altı Artuklu mardin,Artuklu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.886
@@ -354,8 +354,9 @@ d389e807-8882-4830-98e8-4b1007cf86b2,Karin Restaurant,RESTAURANT,37.316067,40.75
 4fc89916-308e-4705-ad7c-7143b31abaf1,Bab-i Sor Cesmesi,SIGHT,37.315926,40.750202,Cumhuriyet Cd.,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.709
 db07f67f-d53e-4058-8480-91578045f6e7,Nostalji Hotels,HOTEL,37.316986,40.749477,Belen 2 Sokak No:7,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.897
 f12a890f-1402-41b9-8771-73449ac27431,Eski Mardin Çarşısı,SIGHT,37.315674,40.749866,1. Cadde 18,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.848
-97e40e62-c97f-40aa-85d4-f51cb1cc14d4,Artuklu Kervansarayı,SIGHT,37.3144,40.74831,1. Cadde no:70,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
+97e40e62-c97f-40aa-85d4-f51cb1cc14d4,Artuklu Kervansarayı,HOTEL,37.3144,40.74831,1. Cadde no:70,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 a4b84a3f-ac48-40cc-b65f-a968eb4bed88,Terrace Merdin Butik Otel,HOTEL,37.314384,40.748211,"ŞEHİDİYE Mahallesi, YENİ SK 20 Sokak Terrace Merdin Butik Otel",Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.817
+03b0db6c-6bee-41fc-942c-10ec3e91a5b8,Mardin Abbaralari,SIGHT,37.313953,40.747334,,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 4c3b96b2-de38-499d-9849-0a367f7326ee,Mardin Kültürler Müzesi,SIGHT,37.314266,40.74791,"Tarihi Emir Hamamı Karşısı,Medrese mahallesi 1. Cadde Nar Sokak 245 14/1",Artuklu,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.754
 f4325762-f18a-429e-80fa-e49c08a26277,Sıti Radviyye Hatuniye Medresesi,SIGHT,37.315269,40.747635,Şahinler Sk. No:1,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.934
 e8b0d830-70a2-4bb4-a0c7-3b25c256d390,Fairouz Otel,HOTEL,37.315975,40.747753,272 Ali Gedik Sok No.18,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.826
@@ -372,6 +373,7 @@ a517a870-f923-4604-a683-5e06dc2ba099,Marvel Hotel,HOTEL,37.3139,40.747086,36. Ba
 e69defdd-6ffd-40aa-9743-a2e3e8cdec37,Sincar Köşkü,SIGHT,37.312187,40.745869,,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.825
 c77f8c3f-58f6-437d-b206-aac60bbdefaa,Mezopotamya Otel,HOTEL,37.31226,40.740688,94. Sokak 5,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.897
 34f53601-61e0-4184-bfea-7b35f48325d9,Abbara Antik Cafe,CAFE,37.31213,40.741058,Eski Mardin Revaklı Carsi,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.888
+adc3af48-c528-4e95-8ff5-bb556b320ce8,Irmas cafe,CAFE,37.311855,40.742908,52. Sokak 4,Artuklu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.708
 a9744c31-4fdf-42da-8b45-9a475decfd28,Dêra metina,SIGHT,37.311123,40.742794,Mardin Mazıdağı Gümüşyuva köyü,Artuklu,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.863
 56c83f1a-172d-4806-9805-bb9676b330fe,DerİK Balik Evİ,RESTAURANT,37.3111,40.742794,Aydın ayaydın caddesi çözüm temel lisesi karşısı,Artuklu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.851
 56322f19-fa38-4c40-8fa7-a6e3f8830255,Kasr-i Abbas Hotel,HOTEL,37.312649,40.741917,Hasan Ammar Çarşısı Altı Sansal Camii Yanı Merkez,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.959
@@ -426,13 +428,15 @@ b8beb17f-8859-4805-9f27-032260795df3,Tarihi Mardin Kahvecisi,CAFE,37.313416,40.7
 58b9053a-5569-4e46-baff-90719d7089bd,Sultan Sofrası,RESTAURANT,37.313354,40.739864,1. Cadde,Artuklu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.954
 ca982c24-20e9-4657-9285-c0a331fef88a,Birçay Cafe ve Nargile Salonu,CAFE,37.313343,40.739872,1. Cadde No: 249/B,Artuklu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.889
 0d86a9ff-7061-4dd1-b40b-318d4bb2ea82,Hanzade,RESTAURANT,37.313396,40.739525,Teker Cadesi,Artuklu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.937
+1eb3a139-a9ed-4a4e-be0e-9ae9772655aa,47.Cadde Garden Cafe,CAFE,37.324421,40.744625,Yalım Mah. Ömerli Cad. Ninova Evleri Önü,Artuklu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.861
 454b4f00-72ed-4496-b21e-e807b29c30b5,Mavişehir Park Cafe & Restaurant,RESTAURANT,37.331562,40.755108,Midyat Yolu 3.Km. otogar Karşısı Mavişehir Konutları,Artuklu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.998
 f388672d-aaa3-434f-b593-e74570098239,Starbucks,CAFE,37.326183,40.753654,Erdoba Elegance Hotel,Artuklu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 60895a61-4279-4fbb-b5ca-6f7f7af86c1c,Erdoba Elegance Hotel & Convention Center,HOTEL,37.326694,40.753414,Midyat Yol 3 Km Yalimkoy Mevkii Merkez,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.934
+c4162a0e-fc2d-4f33-b048-2de1ff9b2deb,Ramada Plaza by Wyndham Mardin,HOTEL,37.32695,40.753624,Beldesi Omerli Caddesi No 31 3.km,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 4823b251-895b-46e8-ace2-58a6e9bb6986,Mardin Seyir Tepesi,SIGHT,37.318626,40.756027,,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.820
 50d9ff56-0d91-48c4-93d2-cecb8a18b46c,Mardin Piknik Alani Ve Spor Kompleksi,SIGHT,37.322552,40.757557,,Artuklu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
 ef4350c9-f8bf-4766-bb0f-d1ccd9985d81,Mesopotamia Garden Hotel,HOTEL,37.327782,40.756664,Ömerli Cad No: 29,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.991
-dc686323-9bbe-4c11-ab15-b26bd1745e24,Dedeman Diyarbakır Hotel,HOTEL,37.32732,40.758793,Elazığ Cad Büyükşehir Belediye Yani,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.868
+9e225330-14a4-4469-b9d0-143a2d72075a,Park Dedeman Mardin,HOTEL,37.327724,40.756588,Ömerli Cad No:29,Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 44252975-ec8b-461b-86f6-0a4e17dda499,midyat kent müzesi,SIGHT,37.306267,40.763718,,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.894
 4c8b873f-4720-426e-87f1-66ba3ce34588,Eskikale - Mardin - Qalit Mara,SIGHT,37.30238,40.767673,Qelitmera,Artuklu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.717
 71fd8eac-b2f2-48be-b362-c246bfd89b33,Büyük Mardin Otel,HOTEL,37.231789,40.788383,"Yeniyolcaddesi Metoroloji Yani,",Artuklu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.953
@@ -440,19 +444,22 @@ dc686323-9bbe-4c11-ab15-b26bd1745e24,Dedeman Diyarbakır Hotel,HOTEL,37.32732,40
 e97c0bb5-8b21-4149-8f13-8f71c27c4ffa,Ortaköy / Aldora Cafe & Pastane,CAFE,37.222004,40.783752,Nusaybin Yol,Artuklu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.806
 194d3f4d-9360-4112-91e8-40c8d84ad556,Mardin Ortaköy,SIGHT,37.220989,40.784164,Mardin Artuklu Ortaköy (Gülharrin),Artuklu,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.980
 668ab7a5-ac3c-48a7-99eb-f835b4f45273,Cigerci Aziz Usta,RESTAURANT,37.346283,40.827965,8f2c366e96e4a64,Yeşilli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.770
+44c0e38e-f25b-41d1-8509-6e59475c8fd5,dara zindanı,SIGHT,37.176891,40.952595,Dara Köyü Yolu,Yeşilli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.853
 09094298-555a-4d4f-87c7-edcacc076834,Zindan cafe,CAFE,37.176914,40.952675,Dara Köyü Yolu,Yeşilli,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.852
 89c40532-85a6-4498-9bdd-1c1789ea7d92,Dara Antik Kenti Dilek Taşı,SIGHT,37.176353,40.952984,,Yeşilli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.809
+06bce94f-b31b-4045-86cb-4324a8cb07aa,Batı Su Sarnıcı,SIGHT,37.178238,40.951218,,Yeşilli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.855
 e24b6227-cf35-4c98-8e7e-6c3e36eb10ad,Nekropol Area,SIGHT,37.177635,40.948925,,Yeşilli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.709
 99c4fed0-ec11-46bc-b9d6-57dfa614e9d8,Mardin Dara,SIGHT,37.17765,40.948742,Dara,Yeşilli,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.961
 fd98b664-20fa-437d-b854-ac4d6cb350a2,Dara Kafe,CAFE,37.177582,40.948898,,Yeşilli,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.805
 1cf608cc-1f67-4da1-9f20-62625bfde40e,Dara Ancient City,SIGHT,37.177891,40.947571,,Yeşilli,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.739
+83ce475a-c636-4e6c-90d2-61b04ab123c1,Dara (Mesopotamia),SIGHT,37.183327,40.933327,Dara Köyü / Mardin,Yeşilli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.818
+2d4f0a64-7d1e-4387-9ea8-ac2119d33da7,Dara-Anastasiupolis,SIGHT,37.183327,40.933327,Dara Köyü / Mardin,Yeşilli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.828
 208fdd74-4bbb-4794-8162-35d38448377f,Nusaybin Yavruköy,SIGHT,37.249554,41.070847,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.904
 77e3c227-f4de-4d2f-8b71-15d2c669f6fc,Şehit Kemal Turbesi,SIGHT,37.136818,41.079456,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.707
 ca2815c5-9391-4699-a071-c64633756c34,"Tandır-Sırêçkê,Artuklu/ Mardin",RESTAURANT,37.132607,41.073204,"Tandır Köyü, Mardin",Nusaybin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.918
 8c8c2266-69a4-48d9-97f4-5a2d4cf23988,Dallas Cafe,CAFE,37.116535,41.232147,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.831
-ba3b001f-3d4d-4815-996f-cb844dbc36aa,Baraj & Koşçu Restaurant,SIGHT,37.115612,41.230797,Dsi Barajı,Nusaybin,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.798
+ba3b001f-3d4d-4815-996f-cb844dbc36aa,Baraj & Koşçu Restaurant,RESTAURANT,37.115612,41.230797,Dsi Barajı,Nusaybin,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.798
 450bbafb-a398-413c-a277-6dded5b25e84,Nus Grand Hotel,HOTEL,37.093197,41.197926,İpek Yolu Caddesi 34,Nusaybin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.876
-f1bc761f-8af8-46e4-a8ee-ef2f12ae1847,Nusaybin Aydin Tesisleri,RESTAURANT,37.09248,41.20142,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.984
 f4efb26a-2533-47e0-8181-b0c1699bf973,Yahya Usta Nusaybin,RESTAURANT,37.091381,41.201286,İpekyolu Cd. No: 38,Nusaybin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.996
 3feec65e-1925-4049-95f7-8a12838d12b1,Avesis Hotel & Restaurant,HOTEL,37.092205,41.200645,"Şehir Girişi, İpekyolu Cd. D:No:45",Nusaybin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 8657031b-f4ee-4507-a8c8-1869bd6d72a1,Sadık Künefe,CAFE,37.091579,41.200279,,Nusaybin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.770
@@ -510,11 +517,9 @@ e03f1fce-e977-45e4-bf47-5536fd7ea856,Bayramefendi Osmanlı Kahvecisi,CAFE,37.069
 b1833748-b40d-42b7-a31c-0b3be62e2e1b,Pepuk Cafe & Nargile,CAFE,37.087681,41.2062,Nevruz Blv. No: 74,Nusaybin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.943
 96f24470-acb9-43c4-8c78-b007a9551f91,Pasaport Pizza Nusaybin,RESTAURANT,37.087952,41.203991,Nevruz Blv. no:87 B,Nusaybin,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.894
 422849bc-510f-4b8e-8c04-3a71dc77edcf,Nusaybin Kervan saray Restorant,RESTAURANT,37.085289,41.20377,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.763
-e86c793c-1191-4ae2-8ec4-f2332d7533af,Nusaybin Kocaeli Brotherhood Park,SIGHT,37.082436,41.202866,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.948
 0d82086b-071a-4da9-bc09-68741c161968,Med Cafe,CAFE,37.087132,41.19907,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.893
 faf3dae6-3504-4163-9d3a-bd92129ad67a,Mado,CAFE,37.076557,41.228546,,Nusaybin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 0f99060b-75e5-42b8-9378-4749ae40f5c5,Mado,CAFE,37.086452,41.288513,,Nusaybin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-80e9de97-90bf-4c79-9985-309edd55566f,diyarbakır surları,SIGHT,37.112217,41.342354,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 49fe236d-6098-43f3-8014-8a3c23e64400,Biçen Hotel,HOTEL,37.190308,41.28653,,Nusaybin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.825
 cefd48c6-c501-4a59-94ed-6b3c8af64e77,Ozisiklar Restaurant and Cafe Beyazsu,RESTAURANT,37.189182,41.29303,Midyat Yolu Caddesi,Nusaybin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.848
 bf0f6ec6-dda7-490a-b2ab-7e9f9e84b0ed,Akan Cafe Restaurant,RESTAURANT,37.191879,41.302151,"Akan Cafe, Midyat Yolu Cd.",Nusaybin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.857
@@ -565,6 +570,8 @@ f6134941-966c-4fd5-839e-4c7356c4603f,Dönerdere Ömerli,RESTAURANT,37.403114,40.
 ffb4ff7f-10ca-408a-bddf-54f7c5e568d0,Midyat Aşıklar Tepesi,SIGHT,37.402363,40.953976,,Ömerli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.827
 bd2cfa09-4fe5-4086-963e-4294d2fcc612,Kilinclar Lokantasi 1,RESTAURANT,37.40321,40.95475,Orta Sk.,Ömerli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.918
 5e547771-92d6-4311-9ac0-5ee59746b2ed,Şahin Pizza,RESTAURANT,37.403091,40.955238,Cumhuriyet Mah,Ömerli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.758
+baa755b2-fc91-4d1b-a525-a92ded476d66,Gelinkaya,SIGHT,37.41666,41.266666,,Midyat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.899
+65b7d2ad-0f0b-472f-bedf-d58c81a47907,Gelinkaya,SIGHT,37.418243,41.268829,,Midyat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.899
 06249dcc-77d3-4505-adfb-1a1da486bb4a,Şeyh Ales Piknik Alanı,SIGHT,37.440742,41.266483,,Midyat,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.802
 13f034d2-b449-4be5-96b6-248e3e0682c4,Akgüç Lezzetli Kebap Salonu,RESTAURANT,37.463127,41.188049,Mardin Batman Yolu üzeri No: 33,Midyat,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.882
 fd0e50d4-2138-4d69-81ee-df16051b946f,Kiraz Çay Bahcesi,CAFE,37.454536,41.037369,,Midyat,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.942
@@ -574,6 +581,7 @@ a17c0018-984e-406f-8162-dace66de4b28,Estel Hanı Halk Evi,SIGHT,37.425034,41.335
 56291bd6-d7f2-4c22-b603-49c7c19d0521,Hasankeyf Midyat,SIGHT,37.425049,41.339008,,Midyat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.728
 1b231757-e802-4eb8-90fc-24b9a5d4d1f1,Bahar Sofra Salonu,RESTAURANT,37.42506,41.339203,"Ulucami Mahallesi, Seyfettin Güneştan Caddesi No:17",Midyat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.946
 3cd2c1b6-710c-4d28-b069-5314bfad92a4,Estel otel,HOTEL,37.425037,41.339226,,Midyat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.903
+ab5e7cdc-cc1f-484a-b254-44f3fbed685a,Park Dedeman Midyat,HOTEL,37.424858,41.339264,"Yeni Mahalle, Seyfettin Güneştan Cad. No:2 Midyat/Mardin",Midyat,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.934
 4e13e544-97f6-4c3f-be10-03ec3c80caae,Murat Alabalik Restorant,RESTAURANT,37.424862,41.339325,Midyat,Midyat,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.853
 23144da0-f2b8-4f05-a97b-951af335d753,Evim Pastanesi,CAFE,37.424843,41.339336,Midyat,Midyat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.810
 19fb1c6a-0b14-449b-b8af-60ed6b7ed524,Grand Ideal Premium Hotel,HOTEL,37.42503,41.339245,Seyfettin Güneştan Caddesi 10,Midyat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.906
@@ -638,6 +646,7 @@ e1818ff0-a84a-44d0-9d5f-41ee425d819c,Hercai Konak Cafe & Restaurant,RESTAURANT,3
 a5dfee4a-f4c8-4917-9d6d-42d50e5bb64b,HivRoj Konak Kafe,CAFE,37.417591,41.376381,sokak No:133 no No:9,Midyat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.993
 ffe03e17-3e36-4632-bc2e-17ac91501e79,Midyat Konukevi,HOTEL,37.417618,41.376354,Cumhuriyet Caddesi 31,Midyat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.948
 aede9745-b887-44b6-be63-92abb2a35d3b,Hivroj Cafe,CAFE,37.417599,41.376389,,Midyat,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.833
+bdf76728-92f7-4a6d-9b90-381226730ab6,mardinpazari,SHOPPING,37.417034,41.373215,Atatürk Caddesi No:6,Midyat,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.859
 f46ade8a-0a26-4d9a-ace3-7c4552b8fdbe,Midyat Gap Otel,HOTEL,37.419235,41.372662,ATATÜRK BULVARI NO:46,Midyat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
 07552629-8b7a-4d61-b4bd-6c0615a8ceac,Rodi Gözleme,RESTAURANT,37.418449,41.372829,Batman yolu uğurservis yani,Midyat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.769
 8d261158-9e02-47f6-9a40-4a97c4d22a02,Midyat Ziyafet Et Lokantası,RESTAURANT,37.417919,41.373039,Batman Yolu Üzeri Kent Otel Yanı Ziyafet Et Lokantası 26/B,Midyat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.942
@@ -687,7 +696,6 @@ cf9898cc-9f2f-4105-8829-e93694082dcf,Mardin Kalesi,SIGHT,37.420033,41.339912,,Mi
 463623a6-6c87-4fe4-9fe7-32719ff29938,Estel Kösk Meydanı,SIGHT,37.423016,41.332527,,Midyat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.894
 4d09a2aa-44fe-4f7e-b379-5c9c902559d8,Mardin Dargeçit Ilısu Barajı,SIGHT,37.538734,41.822548,,Dargeçit,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.723
 e16c1e44-c6f6-4f99-b4d1-8bc01f7cf390,Ilısu Dam,SIGHT,37.566666,41.899994,,Dargeçit,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.807
-ff6730bc-43fd-4d3d-9853-c5d1281d3a58,"Belkısana Kaplıcası Ahmet Kaya Oteli, Şırnak",HOTEL,37.52108,41.84605,"belkısana kaplıcası ahmet kaya oteli,şırnak",Dargeçit,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.952
 f494dd53-8597-44c7-b704-4a72fceaa500,Belkısana Kaplıcaları,SIGHT,37.520939,41.844677,,Dargeçit,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.902
 22d1a352-29cb-476e-a920-95cf91846400,Otantik Cafe Dargeçit,CAFE,37.549053,41.71096,Barış Blv.,Dargeçit,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.938
 a7afcacd-88f4-4090-8b58-3fc499bd7f95,Marina Lokantası,RESTAURANT,37.54747,41.714798,Barış Blv. no:32/A,Dargeçit,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.830

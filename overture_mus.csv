@@ -1,47 +1,32 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
 91345caf-03c2-4952-9731-9c6b754dac08,Mercimekkale Höyüğü,SIGHT,39.056763,41.530594,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.701
-e1d1e175-f2f9-42e3-96ce-9ba4334af81d,Murat Nehri Alpaslan 2 Barajı,HOTEL,39.014462,41.537224,Dumlusu köyü,Muş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
+e1d1e175-f2f9-42e3-96ce-9ba4334af81d,Murat Nehri Alpaslan 2 Barajı,SIGHT,39.014462,41.537224,Dumlusu köyü,Muş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
 546d5d73-9e8d-4285-aac1-07e4cf1f57c4,Dipsiz Göl Apart Otel,HOTEL,39.185726,41.429958,,Varto,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.783
 07773571-9f9e-47b3-b0f8-08e3bebf7968,Onur Apart Otel,HOTEL,39.1735,41.443256,Çaylar Cd. No:87,Varto,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.808
 fa0127c6-d2e3-44e4-9362-deed6fe96c8a,Varto Avm,SHOPPING,39.173157,41.453533,,Varto,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.715
-3ea017dd-b4f3-46d5-9a77-8accb3bc6e97,Varto kıl Çadırı,RESTAURANT,39.17836,41.448853,,Varto,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.753
 b64662cb-e173-4133-ab8a-fcd8f5400a81,Faraşin Çay Bahçesi,CAFE,39.173183,41.455605,Sağlık Sokak 6,Varto,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.781
 dbc8a0b9-d6f4-4d43-82bb-5e38675079da,Varto Koğ Cafe,CAFE,39.173241,41.456089,,Varto,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.806
-0382fd11-9fe1-4f7a-85f3-4e64aa0ab39a,Varto Öğretmenevi,HOTEL,39.169174,41.455246,Muş Cd.,Varto,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.891
 dd95b9b1-64a6-49b8-8f64-1181d3102787,Varto Pastanesi,CAFE,39.170837,41.455303,Muş Cd.,Varto,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.919
 a017fbc3-e50d-47b3-9126-640a1bae038d,Pia Cafe & Restaurant - Okey & Bilardo Salonu,CAFE,39.170864,41.455383,42. Sk. Bina No:2,Varto,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.981
-1c226a14-67cd-4288-8c75-fd5f82219278,Vartomuz,SIGHT,39.172306,41.456039,gımgım,Varto,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.718
 451a0edd-804d-4db8-a898-d14163695194,Lokanta Paris,RESTAURANT,39.172371,41.455471,Muş Cd.,Varto,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.981
 d78bb363-e609-4aef-9583-d3c55653c8f0,Didem Lokantası,RESTAURANT,39.172508,41.454891,Cumhuriyet Cd.,Varto,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.920
 24456bc5-6c18-4bdd-92d5-b0c484a789e6,Raqoon Cafe & Otel,HOTEL,39.169094,41.45507,Muş Cd. No:97 Kapı No:Z01,Varto,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
-2c748cb8-1d14-4294-95a1-fdf1def470ca,Yeşildal Çorsan,HOTEL,39.168587,41.455009,varto,Varto,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.753
 a4164e46-2d50-4d9e-a187-7a2af0c5b4dc,Han Park Restaurant,RESTAURANT,39.181362,41.465832,Bahçelievler cad 40/1,Varto,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.949
-d185c2b5-41a6-4be9-833a-2a94fe40f4af,"Buzlugöze, Varto",HOTEL,39.126225,41.30793,,Varto,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.788
-96ab1d2a-d41a-43a4-9625-8efb4295199b,"Alaca, Kulp",SIGHT,38.606941,41.176941,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.806
-0eaf1340-6849-463e-8a66-667c26976d99,Kozme Dağı Kaniya Kewa,RESTAURANT,38.745781,41.215279,,Muş,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.771
-8b5410c4-e834-41d8-b833-edb642bf9926,"Kızılağaç, Muş",SIGHT,38.766666,41.316666,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.771
 692ac7b0-f87e-4d66-ab4f-950847ee82b9,Castle Park,SIGHT,38.729862,41.485729,128. Sk.,Muş,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.885
 d3236cd8-daeb-4be4-8710-43a2fd8b240d,Kale,SIGHT,38.729595,41.485844,1. Cadde,Muş,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
-8e3fb2aa-55ff-42dd-becc-105983a74768,Yıldızlı Han ,CAFE,38.728149,41.485184,Minare Mahallesi Hacı Şeref Camii Altı ,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.790
 ac8dbfa5-724c-4a8e-aec5-b281bbd840ca,Tarihi Meryem Ana Kilisesi,SIGHT,38.728764,41.48785,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.871
-16e855e9-5a90-4888-90ff-885879140746,Mus Seyirtepe,RESTAURANT,38.728374,41.494793,Muş Dere Mahallesi,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.961
-b8144c51-00d0-481a-babf-9b2ccaa20671,Kale Parkı,CAFE,38.730816,41.488239,Kandere Cd.,Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.945
+b8144c51-00d0-481a-babf-9b2ccaa20671,Kale Parkı,SIGHT,38.730816,41.488239,Kandere Cd.,Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.945
 f0ec4bb5-ffcf-4d5f-96aa-62fb141e40a8,Orkide Kahvaltı Salonu,RESTAURANT,38.731594,41.488689,Belediye Cd. No:12,Muş,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.923
 5ab82629-3a51-4030-ab5c-87729cf60ef4,Şark Kebap,RESTAURANT,38.731602,41.488632,Belediye Cd. No:14,Muş,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.950
-197b50db-a4a7-4bfe-99e7-c021d91b8f64,Dostlar av bayii,HOTEL,38.730717,41.489639,Belediye Arkası Muş,Muş,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.777
-aa7d3381-3606-48af-907c-52f95e2b0221,Muş Mongok Baqları,SIGHT,38.731766,41.489651,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.770
 631729e9-37b9-4720-9dde-55793f601f81,Sinan Kahvaltı Salonu,RESTAURANT,38.732216,41.489399,,Muş,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.863
 1a21d413-bee0-45fe-a3cd-7a95eec29d28,Doya et lokantası,RESTAURANT,38.732071,41.489971,,Muş,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.812
 3b9018ee-a86d-4e22-9b5e-b2995b9f1544,Park Lokantasi,RESTAURANT,38.732697,41.48983,Atatürk Blv. No:1,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.883
 0858eba0-e058-441f-b5ce-b4a4570f8cbf,Muş Park Pasta Ve Kahvalti Salonu,RESTAURANT,38.732845,41.489758,Belediye Caddesi 10,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.958
 7224d053-c21c-45b9-9a7f-676f8add885d,Şehir lokantası,RESTAURANT,38.731873,41.488895,"şehir lokantası, Minare mahallesi belediye arkası",Muş,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.852
 aa0963ab-1d25-4cca-9c5a-7b7938421b6d,Kaptan Közde Çay Keyfi̇,CAFE,38.734543,41.489666,138. Sk.,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.940
-9d2d29db-44b5-4849-ae21-00dc907af1ff,Sporsevenler oyun internet salonu,CAFE,38.735367,41.489716,eski tekel caddesi,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.925
 2b01d9bd-0096-47c7-8972-05e128ee8a6e,Yörem Kahvalti Salonu,RESTAURANT,38.735527,41.489937,Atatürk Cd.,Muş,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.850
 52ab3877-c9b1-44f5-968c-e2314b8b0040,muş kebap,RESTAURANT,38.734451,41.490009,"DİLAN MERT İŞ MERKEZİ, Atatürk Blv. 138.SOKAK",Muş,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.969
 a486ee72-93b3-49fb-93d5-5f51dfd7b20c,Baba Doner Mus,RESTAURANT,38.733829,41.49025,İstasyon Caddesi Atatürk Bulvarı (İş Bankası Karşısı) No: 3,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.949
-b34f4c76-be0a-407f-8398-8be584dccca2,Tarihi Murat Köprüsü Selçuklu Park,RESTAURANT,38.734028,41.489346,Atatürk Bulvarı 5,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.920
-b1409ebd-57a2-449a-ac58-0b1589b3e7c3,Cennet Bahçesi Muş,SIGHT,38.734325,41.491077,DERE MAHALLESİ DEĞİRMEN YOLU ÇAR ÇAYI MUŞ,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.759
 7f7b258b-7daa-4ee5-b130-7e49cdee3324,Halitoğulları Pastanesi,CAFE,38.734356,41.490711,Istasyon Caddesi,Muş,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.965
 746800ec-ee9b-4931-aa50-7fd7f2c3e1db,GÖRÜŞ BÜFE,RESTAURANT,38.734097,41.490555,Atatürk Bulvarı Garanti Bankası Yanı,Muş,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.756
 95382eac-39e9-444a-9f6e-4a0f9544e629,Şato Park Halisaha ve Cafe,CAFE,38.734207,41.490669,İst:cad.Tren Garı yanı Emniyet müd.arkası.No 1,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.803
@@ -56,7 +41,6 @@ c7a7895b-ce3f-4de2-a374-d60e472413b2,Caffe Latte,CAFE,38.735641,41.491718,"""Tur
 31205bcc-9ff2-439b-9219-bb1e19c4a9d6,Dede Pasta Salonu,CAFE,38.735195,41.491615,Atatürk Blv.,Muş,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.786
 2ac06243-31e0-4c93-bf69-af14042ae297,Muştak Baba Türbesi,SIGHT,38.73542,41.492188,,Muş,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.746
 efa845eb-c00b-4605-bcb7-e2eab2e38c8e,Mavera Kültür & Sanat Merkezi,SIGHT,38.734951,41.491943,Toplu İş Hanı 3. Kat,Muş,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.770
-b8605301-a038-467d-8644-33d1d7b9183f,Irsad Kitap Hac Malzemeleri,CAFE,38.732468,41.490784,MİNARE MAH. PTT CAD. ZÜMRÜT İŞ MERKEZİ ( ESKİ DİŞ HAST ALTI),Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.843
 e0de3ff2-6ff8-4596-bafb-e6e08e0a4296,Çağlayan ekmek & Unlu Mamulleri,CAFE,38.733768,41.496159,Hürriyet Caddesi 1A,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.799
 5769fd55-f762-4943-b9b1-fafff5595c1a,Antik Çağ Yer Altı Şehri Güneş Tepesi,SIGHT,38.735283,41.495655,Mongok Bağları Antik Çağ Yerleşkesi ,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.756
 c54f1c92-e673-4ac6-b3ac-f71427db8535,Eywan Cağ Kebap,RESTAURANT,38.735588,41.49242,75. Yıl Cd. No:3,Muş,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.993
@@ -73,63 +57,42 @@ acb2dbef-58b9-4079-b5fb-ddba6640db61,Öz Simit Sarayı Muş,CAFE,38.739288,41.49
 4338e1d5-c532-4836-8d11-59ba7a79fab2,Pera Center,SHOPPING,38.739983,41.495697,Atatürk Blv. No:210,Muş,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.968
 b7c13d41-8849-41e9-a400-fbd179b2a9d4,Pera'ca Cafe ve Bistro,CAFE,38.739914,41.495781,Atatürk Blv. No:110,Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.981
 5c0c1771-4d1d-4168-9069-ed45c112ad32,Muş Beyaz Saray Alışveriş Merkezi,SHOPPING,38.740391,41.496445,Atatürk Bulvarı 118,Muş,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.977
-bd2111c5-175b-4a2e-80f0-12073b3a4c02,Hayalperest Muş,CAFE,38.740482,41.496288,"İstasyon caddesi Beyaz Saray AVM, kat 6",Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.942
 9ad159a9-94bc-49be-a032-20938a572611,Ciğerci Hacı,RESTAURANT,38.74052,41.496277,Beyaz saray arkası (muş Vilayet karsisi beyaz saray arkasi,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.930
 c68d065b-37b5-4c12-b332-1ff7c1f2d250,Efendy Cafe ve Restoran,RESTAURANT,38.740227,41.49556,Kültür mahallesi Atatürk bulvarı zehra kopp.ato center iş merkezi no.120,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.980
 684094f1-aeda-4cb2-be93-170169cb789f,Sr Döner,RESTAURANT,38.73838,41.494072,,Muş,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.798
-7fb881eb-ae36-4e85-8d4a-7d2960d7b2e7,Gazi antep Kültür Sofrası,CAFE,38.738388,41.494007,ÖĞRETMEN EVİ KARŞISI ESKİ DEVLET HASTANESİ GİRİŞİ MUŞ,Muş,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.844
+7fb881eb-ae36-4e85-8d4a-7d2960d7b2e7,Gazi antep Kültür Sofrası,RESTAURANT,38.738388,41.494007,ÖĞRETMEN EVİ KARŞISI ESKİ DEVLET HASTANESİ GİRİŞİ MUŞ,Muş,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.844
 28f05318-313f-4588-b20e-a16da18a5599,Muş Öğretmen Cafe,CAFE,38.738354,41.493179,,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.848
-be27fc0b-c494-4960-a1af-3b37039432d3,Muş Askeri Gazino,HOTEL,38.738487,41.49297,,Muş,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.762
 fa696826-3571-4d02-964e-c4bd1919ffb1,Burger King,RESTAURANT,38.739216,41.49168,,Muş,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.770
-d737b910-2632-4475-add4-1613f409aa9b,Bin-if E spor Merkezi,CAFE,38.737381,41.491508,Vilayet Civarı (VALİLİK) Mugi Hipermarket Altı Rubil Market ÜSTÜ Eski Aksa Binası Kat:3,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.864
-de820e50-05e0-4ce9-b640-dabbe9141a90,Seydanlıoglu bag evi,HOTEL,38.725765,41.474442,Kale bağları,Muş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.885
-9b32771f-e5d3-48e4-9a42-538facd8c971,Muş Müştak Baba Yurdu,HOTEL,38.768394,41.435646,,Muş,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.757
 815f1ea4-1200-483a-acae-3cab3f021a67,Olcay suıtes hotel,HOTEL,38.746445,41.47266,"""kızılağaç yolu caddesi no:251, 49100 merkez/Muş 49100 merkez/Muş""",Muş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.981
 03285ee5-f9e3-4cd3-8d0e-4114528d0947,Hulusibey kahveleri,CAFE,38.742611,41.496376,156. Sk. no : 6,Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.845
-cbf8541c-3ba2-4c2d-bcf7-4fe53b29bece,The Forty Nine Co Muş,CAFE,38.745228,41.496246,"Park Vadi Evleri N Blok No:22, 49200",Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.850
-2e4f0f7a-c408-467f-8b60-51b027199722,Dêrik,SIGHT,38.976322,41.445137,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.838
 54f103cb-a7bc-42ab-9e7d-091973b97561,Murat Nehri ( Tarihi Murat Koprusu) MUŞ,SIGHT,38.863106,41.510769,,Hasköy,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.706
 9d43e616-c630-43dc-8e14-1ab3b1c070ac,Tarihi Murat Köprüsü,SIGHT,38.862476,41.512211,,Hasköy,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.943
-6995b349-b7ee-432a-bf47-5bf72e0cd8fb,Mus Ili Tarihi Murat Koprusu,RESTAURANT,38.863827,41.513523,Muş Bingöl yolu,Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.908
-e2b3f613-78da-40b2-b1c7-c67b0587baba,"Bağlar, Muş",SIGHT,38.766666,41.516666,,Hasköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.816
 5faafed7-2ae4-4bb2-a379-0aefee2968b9,Meşhur Adıyaman çiğ Köftecisi ömer aybak,RESTAURANT,38.751137,41.512222,"bim market çaprazı, Millet Cd.",Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.759
-d79fe06d-9887-45ad-ba47-800cf2f13ece,Mus saray kız yurdu,HOTEL,38.751842,41.507698,istasyon caddesi egitimciler sitesi yanı,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.844
 3419f22e-9adf-4662-baf8-e9e2734c86bd,Dagkapı Cigercisi,RESTAURANT,38.752636,41.505878,İstasyon Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.933
 e7fe6406-3104-448e-a79e-6144f20e66f0,Espressolab,CAFE,38.752666,41.505444,İstasyon Caddesi 7,Hasköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.837
 1a3c73cd-1d74-4df1-b58b-36b458c6b519,Saklı Bahçe,CAFE,38.758389,41.501953,Eski Hal Civarı Seven Gıda Et Mamülleri No: 34,Hasköy,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.903
 25213b3a-e086-44e0-9fa2-62dba1a1f62b,Global Hotel,HOTEL,38.75811,41.502018,Erzurum Caddesi 2,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.983
 75186800-d854-40e5-826f-b11e871894c9,Mekan cafe,CAFE,38.755035,41.499462,,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.941
 ea119868-3478-40c7-a978-5c42cdeed362,Gua Coffee Company-Muş,CAFE,38.753784,41.496586,Sunay mahallesi 275.sk d blok giriş kat merkez Muş,Muş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.921
-c83ea674-54d6-425d-8caf-d67f35096ec4,Zümra Yapı Evleri,SIGHT,38.751617,41.496773,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.786
 e9b030ee-c619-463d-aa62-5909b5ba402a,Woow Cafe,CAFE,38.751179,41.501163,Eski Erzurum Yolu,Hasköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.952
 9ad28e34-a2e9-44a3-b0e7-879eba390934,Namlı Kebap,RESTAURANT,38.751106,41.502361,Erzurum Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,afghani_restaurant,food_and_drink>restaurant>asian_restaurant>central_asian_restaurant>afghani_restaurant,0.894
 1ee134bc-0cdf-4ac8-b37b-4dcbc63a853e,Bahce Cafe Restorant Nargile,CAFE,38.756134,41.501106,,Hasköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.810
 a3cf3dbd-bbc7-43b0-a577-ed92164748ed,Millet Bahçesi,SIGHT,38.751991,41.503502,İstasyon Cd. No:15,Hasköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.954
 8e33b387-f4a2-46a2-80b5-fb8950486526,Muş Varto Hamurpet Gölleri,SIGHT,38.75037,41.504684,,Hasköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.758
 9201ef51-f87a-4599-9d00-07899d44e694,Muş Grand Oteli,HOTEL,38.750137,41.504456,"Istasyon Cad., Sehir Stadyumu Karsisi No:12, İstasyon Cd. No:10",Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.983
-b4ef016d-17a1-4525-8add-f27dfc97a366,Artukbey  Muş,CAFE,38.748966,41.503082,Atatürk Bulvarı 177B,Hasköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.886
-f0d30a03-0aff-4724-8b45-996dcf8d1004,Ottoman Muş,CAFE,38.748867,41.502876,İstasyon Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.974
-67c14a8c-5a84-4f7d-a8a9-d1770d09aa66,Hotel DİYar ParİS,HOTEL,38.74881,41.502918,İSTASYON CAD. ATATÜRK ÇOCUK PARKI KARŞISI ,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.874
 d7021fe7-544e-4ef2-90d3-9c8547837d1a,Enfıstık künefe ve katmer,CAFE,38.74873,41.502918,Atatürk Blv.,Hasköy,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.991
-a9228dfb-f385-43d3-907d-c1ef5936cb4e,Kelleci Baba,RESTAURANT,38.746914,41.502594,Kurtuluş Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.937
-16731ec0-0c03-40c7-9529-840235b65104,Sunay Mahlesi,HOTEL,38.745987,41.501945,Muş Sunay Mahlesi,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.825
 89a41937-15e1-42ec-b80f-63c3b951f2ee,DİYar KÜNefe,CAFE,38.747063,41.502052,Kurtuluş Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.961
 f694f1ac-dca2-4e54-ae59-1ddcb522b28d,Konak Çay Evi,CAFE,38.747021,41.501514,Atatürk Blv.,Hasköy,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.872
-558d6664-ff9d-48e7-bf92-913e63dd5a02,Muş Sunay Mah. Kurtuluş Cd,SIGHT,38.746822,41.501293,,Hasköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.704
 9d3c5c61-c115-4a36-b0ea-f3e2b9d68fbf,Tatlises Çiğ Köfte,RESTAURANT,38.746674,41.50124,"alti ovam 2, Ìstasyon cd YEDİ ULYA MARKET KARŞISI eski vali konaği, Kooperatif Cd. No:26",Hasköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.774
-f6cd8380-d51a-456c-823e-3429a4b18885,MADO Muş Merkez,RESTAURANT,38.748718,41.502674,Atatürk Blv. No:175A,Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.992
+f6cd8380-d51a-456c-823e-3429a4b18885,MADO Muş Merkez,CAFE,38.748718,41.502674,Atatürk Blv. No:175A,Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.992
 1b85ffcb-1434-4dbb-b862-a5149720216b,Otel Kayalı Su,HOTEL,38.75108,41.502365,Erzurum Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.920
 6b027945-785d-46db-9840-0025ba1e2fca,Chaplin Cafe,CAFE,38.749504,41.500423,Tedaş Arkası Örnek Kent Karşısı,Hasköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.857
 aa56e5f6-f1e7-4328-905e-c83bc53bf945,Grand Mangal,RESTAURANT,38.748596,41.496899,İstasyon Cad. Dede Parkı Karşısı,Muş,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.772
 f7f17d66-abe4-4518-b7c1-6283316c248c,Şefin Mutfağı Muş,RESTAURANT,38.745529,41.500557,istasyon cad ataturk parki karsisi,Hasköy,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.954
-253a8afd-b109-4c9a-ae1b-3e80100a49fe,Zümrüt TOWER,SHOPPING,38.744987,41.500317,İstasyon Caddesi Atatürk Çocuk Parkı Karşısı,Hasköy,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.899
-a288b799-ac32-46ad-95c2-12c2bb63c1d4,Diyar Paris Hotel,HOTEL,38.744549,41.500004,Sunay Cd. No:207,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
 7f917cd6-7b29-4e95-b843-46b63dd2638d,SANAT sokağı CAFE muş,CAFE,38.744328,41.499523,"Alparslan Üniversitesi Rektörlük, Atatürk Bulvarı 165",Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.785
 f0972489-32e0-46f7-963a-69223541f1b3,Coffee Life,CAFE,38.743835,41.498894,Coffee life,Muş,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 ed713ffe-7543-4a80-8bd1-9e07b2b5918a,Keyfi Sefa Çay Evi,CAFE,38.743778,41.498878,İstasyon Cad,Muş,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.910
-7c421fcc-63c2-4ce0-b875-018de00bc6dd,Serhat ÇAY Duraği,RESTAURANT,38.743401,41.498802,Bostan Manavi Karşısı,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.819
 9c48b66d-cb1c-4a8a-9c39-ee8fa7d7c911,Kimyon kokoreç ve dürüm,RESTAURANT,38.74474,41.498554,Alay Cd. No:3,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.878
-9e6714c4-84e7-4a64-825b-698375f0f4a8,Atatürk Çocuk Parkı,SIGHT,38.745663,41.499287,Şht. Akif Ağaoğlu Cd. No:50,Muş,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.963
 70d320e3-312a-40a8-a3dc-c1ee84733a4a,Coffee Kangoo Muş,CAFE,38.745636,41.497017,"Kafeler Cad, Lale Vadisi Parkı M Blok No: 22",Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.885
 5ab2dc2b-1d18-4690-a01d-220e3cedce2d,Divan Restaurant,RESTAURANT,38.743431,41.498402,Atatürk Blv. No:67,Muş,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.868
 8b7323b8-926b-44dc-b2c9-4611ce9abf5e,Kafe Nisantasi,CAFE,38.743504,41.498486,Atatürk Blv. No:67,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.912
@@ -145,16 +108,14 @@ ef553b7a-ea93-4e61-9e8b-40925aa01129,Mir Saray Hotel,HOTEL,38.741726,41.497272,"
 9fe2e7f7-b888-4bee-859c-9441f8549cf7,Espressolab,CAFE,38.743382,41.498684,"Kültür Mah, Istasyon Cd. Mus Merkez/Mus",Muş,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.800
 9a205c16-e957-4ec5-b72c-c4dd567f3b9d,Yeni Hatay Döner,RESTAURANT,38.743069,41.499546,Yeni Gazi Cd.,Muş,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.883
 cba5ce67-a6f7-4438-ab0e-d1eb31e1241b,Cafe Elit,CAFE,38.742046,41.500656,Gazi cad. Sağlık spor merkezi karşısı yıldız teknik apt.altı ,Hasköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.799
-e8d9b6dc-79d9-4e8f-812d-6b5c12cfe68b,Muş Kız Öğrenci Yurdu,HOTEL,38.741741,41.501213,Gazi Caddesi,Hasköy,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.956
 11bf2092-9a15-46dc-a97c-7a28b8c442d1,Lokanta Diyar Paris,RESTAURANT,38.74556,41.500683,Atatürk Blv. No:90,Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.838
 d6034279-11fe-477b-9717-67d988ce1c0f,Uygun Avm Muş,SHOPPING,38.743,41.503811,Cumhuriyet Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.964
 0b04244d-c0ec-4f9e-bf20-7e6136f4c98c,Ciğercim İbo Muş,RESTAURANT,38.741879,41.502819,Cumhuriyet Cd.,Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
 b2510094-77b5-4489-915f-a5d82f28423f,Göletli Park,SIGHT,38.748409,41.512939,,Hasköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.976
 7718dcd9-6fab-4137-98a4-5a514b183837,UUMA CAFE RESTORAN & UUMA KiDS,CAFE,38.744545,41.520824,"Devlet Hastanesi yanı Fırat Deneyim İnşaat altı, D300 Yolu, Muş-Bitlis Karayolu Üzeri",Hasköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.952
 b915d515-e9f2-4302-81d6-dfa31d35aa84,Irmak Cafe,CAFE,38.745621,41.519169,15 Temmuz Milli,Hasköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.832
-1a54ad8e-9595-4d45-af9b-e46d1c4178c0,Mongok Yeşil Cafe,RESTAURANT,38.725285,41.514629,,Hasköy,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafeteria,food_and_drink>restaurant>cafeteria,0.770
+1a54ad8e-9595-4d45-af9b-e46d1c4178c0,Mongok Yeşil Cafe,CAFE,38.725285,41.514629,,Hasköy,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafeteria,food_and_drink>restaurant>cafeteria,0.770
 ca9451ba-b4b1-432f-bbc7-485dca8bf696,Mongok çeşmesi,SIGHT,38.725269,41.513706,,Hasköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.737
-f7b3109e-7e4c-455a-9b36-2843efca40fc,İstanbul Evleri,HOTEL,38.74012,41.509457,,Hasköy,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.767
 2fa1cd14-4f3d-4b62-8d99-2aecdd405c5c,Kahve Kuşağı,CAFE,38.740803,41.496578,Atatürk Bulvarı 128,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.889
 617a8a74-86cd-4ac8-8366-94aa5ea2729d,Beyrut Cafe,CAFE,38.740768,41.496506,Atatürk Blv. No:50,Muş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.986
 b36304ae-ad39-46ff-bc74-9ca938242424,Grand Serhad Han Otel,HOTEL,38.738384,41.497471,kültür mahallesi belediye arkası 110 sokak,Muş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.946
@@ -163,12 +124,10 @@ acb329c4-460e-45ee-aa9c-2c571ee1168c,Merkez Cayevi,CAFE,38.736744,41.497547,Kül
 c1755524-c870-49de-aaf7-b40f6937bdf8,Babahancafe&restoran,RESTAURANT,38.720211,41.508614,Soğucak Bağları merkez / muş\n,Hasköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.934
 cf55c323-653e-4067-a466-b268505f627f,Muş Ahmedi Xani Parki,SIGHT,38.728794,41.577183,,Hasköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
 43bd0a91-c57a-40a3-8b67-d16735a7d5af,Hasköy Seyir Tepesi,SIGHT,38.6772,41.690346,,Hasköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.733
-c0bf2c8c-e5bc-4d58-8619-e43b4c9e76d5,Хаскёй,SIGHT,38.68222,41.689438,,Hasköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.802
 5ce7d70f-8cce-4d55-8be0-7f15d49bfd28,Has Cay Evi,CAFE,38.681969,41.687439,Sayanlar Mahallesi Çarşı İçi,Hasköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.902
 2875b511-a54d-4930-882d-d98db8b622a4,Has Cay Evi,CAFE,38.682167,41.688053,Sayanlar Mahallesi Çarşı İçi,Hasköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.896
 2d47218c-e2af-4608-a9ac-8c98d8f0e0c8,Best House Hotel,HOTEL,38.697567,41.672958,,Hasköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.962
 986a7efb-671e-4ef7-a4bf-10642c146036,Boğaziçi Restaurant,RESTAURANT,38.695446,41.677959,,Hasköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.778
-55d9c823-76da-42db-b5dc-7f7a93595419,"Sungu, Muş",SIGHT,38.75,41.633327,,Hasköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.809
 4c181c27-5b1c-44ee-ad32-164e4391861f,Hasköy Barajı,SIGHT,38.639694,41.830212,,Korkut,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.885
 56ebf1bf-7b00-44a5-b06a-bd291b792b85,Vedat Usta Cafe & Restaurant kale parkı,CAFE,39.146656,42.54493,"kale için, 127. Sk.",Malazgirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.837
 cfacb602-8079-44bd-9978-083a7608f89f,malazgirt otel,HOTEL,39.146679,42.54171,Atatürk Cd. No:1,Malazgirt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
@@ -176,13 +135,9 @@ cfacb602-8079-44bd-9978-083a7608f89f,malazgirt otel,HOTEL,39.146679,42.54171,Ata
 819ad7f5-9978-4bd4-ae06-7ed4800cbc67,Malazgirt Restaurant,RESTAURANT,39.14521,42.540817,Atatürk Cd. No:1,Malazgirt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.857
 61d10ddf-a754-45ae-bb45-1c17444b09f0,Ahlat Sahili,SIGHT,39.146652,42.550282,,Malazgirt,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.718
 bf40f185-7a96-4dcd-a8cc-d70fa92a4e05,Adalar Alabalık Tesisleri,RESTAURANT,39.128044,42.522121,,Malazgirt,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.828
-5e4658e2-dac4-4bf0-9d1f-65af77b52fae,"Gümüşpınar, Bulanık",SIGHT,39.066666,42.366665,,Bulanık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.796
 baab91fc-6e11-4eea-95ad-e7bf042f672e,Malazgirt Meydan Muharebesi Tarihi Milli Parkı,SIGHT,39.139458,42.510883,,Malazgirt,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.885
 935b90c7-a7d7-476d-b379-efebee9a3808,Hocanın Alabalık Tesisleri ve Balık Lokantası,RESTAURANT,39.128075,42.522121,1003. Sk.,Malazgirt,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.944
 b06bd411-4eff-44c7-8f94-81782e68a5f9,Malazgirt Ahmed-Ê Xani Kültür Parkı,SIGHT,39.145668,42.533203,Malazgirt,Malazgirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.854
-25dc0773-566f-413b-ab77-3711f76d2061,Malazgirt Ogretmenevi,HOTEL,39.14642,42.530277,"Aksungur Mahallesi Bulanık Yolu, Karyolları, 116 Şube Şefliği karşısı No:2",Malazgirt,CDLA-Permissive-2.0,Overture|meta,lodge,lodging>lodge,0.912
-982207ad-1bba-4d6b-96dc-ca4fcff317da,"Balotu, Bulanık",SIGHT,39.116665,42.130554,,Bulanık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.805
-291c0211-fe30-41f9-8548-2d7a0bde3fe8,"Cankurtaran, Bulanık",SIGHT,39.066666,42.083332,,Bulanık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.750
 30964a8a-971d-4fa6-abd1-db6c603dfea5,Erentepe Barajı,SIGHT,39.018864,42.055103,,Bulanık,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.707
 d93163e4-30b6-4c80-a9b2-eca9cdb70e69,Bulanık Çarşı,SHOPPING,39.095352,42.257965,,Bulanık,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.733
 d1ea0131-9953-4df2-bf60-664f1848d4df,Tatvan Sahil,SIGHT,39.092251,42.242535,,Bulanık,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.854
@@ -194,10 +149,7 @@ abcbfcd7-6974-4f7e-b7fd-87a1e40fce17,Bulanık Çarşı,SHOPPING,39.092602,42.271
 bb56fa89-3b4b-4930-aafa-784c5c5a77b1,Grand Serhadhan Otel,HOTEL,39.091717,42.271332,110. Sk. No:1,Bulanık,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.945
 ee8d79b9-42d1-43ae-b87d-ee0411b16c51,Dilek pastahanesi,CAFE,39.092308,42.271702,Mareşal Fevzi Çakmak Cd. No:225,Bulanık,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.933
 bd426c16-5361-4e6f-9757-a1f1f9128eb1,Temmuz Şehitler Parkı,SIGHT,39.092037,42.272633,,Bulanık,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.819
-b56f09e1-3e53-4f2d-8936-d87da398872b,Sultan Alparslan Otagi- Kil Cadir,CAFE,39.097935,42.276657,604. Sk.,Bulanık,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.918
 dd6078b4-d0b4-4a3e-9f5a-c0acc6e51e16,Şehittahir,SIGHT,39.09684,42.272377,,Bulanık,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.739
-78606fad-03c2-4965-ab8e-01db6833e5ec,Bulanik Mus ogretmen Evi,HOTEL,39.095856,42.2714,Bulanik Öğretmen Evi,Bulanık,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.926
 13cc8b72-d96a-4fbf-8cac-716b890d9263,Haçlı Gölü,SIGHT,39.020767,42.301159,,Bulanık,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.895
-8f1ab5ce-7b08-4b89-8b9a-b1206f2eac5f,"Gölyanı, Bulanık",SIGHT,39.0,42.283333,,Bulanık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.777
 2501b565-79a5-491b-b92b-6738cdf9dd73,Alpaslan-1 Barajı ve Hidroelektrik Santrali,SIGHT,39.046516,41.817604,,Muş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.804
 bd7db478-5e75-42b2-b982-7468a048c5f6,Akdoğan Gölü,SIGHT,39.139999,41.739994,,Muş,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.798

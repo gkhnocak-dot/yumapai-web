@@ -1,11 +1,8 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
-7fa4a361-135b-4449-a232-157af1273d0c,Çöp Hüseyin'in Yeri,RESTAURANT,40.153988,34.324654,,Sungurlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.752
 ce8b6fcb-06ce-4e0c-a8a8-7f94e11347ec,çorum sungurlu Evliyaoğlu dinlenme tesisleri,RESTAURANT,40.153919,34.324825,,Sungurlu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.908
-b54792b5-8e6e-4856-92a1-5ffb770af44c,Çöp Hüseyin'in Yeri,RESTAURANT,40.14238,34.278431,,Sungurlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.750
 77a56083-d64c-44e6-b7e9-3ec903006489,Arif Dede Turbesi Sungurlu,SIGHT,40.12925,34.188499,Akpınar Köyü,Sungurlu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.976
 a14e5a4d-4ea0-41bb-acb8-7b441b353479,Barrage d'Alaca,SIGHT,40.107841,34.838364,,Alaca,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.801
 c93e085e-8d8b-400e-a0f8-cd1a526771d1,Ocaklı Dinlenme Tesisleri,RESTAURANT,40.154846,34.337482,,Sungurlu,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.793
-410dbad7-c5a6-4d31-afdb-f19953e9ba84,Meşhur Çorum Leblebicisi,RESTAURANT,40.158249,34.364159,Çorum Kırıkkale Yol,Sungurlu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.885
 9601aa1d-5a8c-48d9-a464-c23af39e1f7d,Tavuk Dünyası Sungurlu,RESTAURANT,40.158199,34.363899,Örnekevler Mahallesi Ankara Samsun Caddesi No:19300,Sungurlu,CDLA-Permissive-2.0,Microsoft|Overture,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.999
 1b66be50-7c4c-4b0d-8341-ebcb0c7851d5,Sungurlu Tandır Cafe&Restaurant,RESTAURANT,40.158264,34.367168,Ankara Samsun caddesi no:88,Sungurlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.909
 4003455e-9259-4ada-ad04-64aefed2c31e,Sungurlu Ocaklı Dinlenme,RESTAURANT,40.157967,34.364063,Çorum-ki̇ri̇kkale Yolu,Sungurlu,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.931
@@ -18,7 +15,6 @@ c19be386-ea58-4b7a-8fc4-e97f6d17dc3f,Anadolu Tandır Kebap Lokantası,RESTAURANT
 0f5406c2-1c81-4517-8ecb-118b0b9330de,Sungurlu Şehir Parkı,SIGHT,40.162724,34.377804,,Sungurlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.821
 da071f91-caf7-4d25-9ffe-ee364d0091c2,Güneş Et Lokantası,RESTAURANT,40.162918,34.373894,Recep Tayyip Erdoğan Cad. No.7/6 halkbankası karşısı saat kulesi karşısı,Sungurlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.970
 8c43f6c5-b2a6-4ed6-a784-b1d0cf6b90b8,Sungurlu Saat Kulesi,SIGHT,40.163094,34.374813,Osmancık Cad Sungurlu Merkez,Sungurlu,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.940
-92cbb76b-183e-482e-a2e2-19832846d937,Sungurlu Ogretmenevi,RESTAURANT,40.163002,34.373291,"Öğretmenevi ve ASO Müdürlüğü, 28. Sokak No:29",Sungurlu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.951
 aa80dfbb-166f-4934-b075-02ef7174c87e,Nostalji Restaurant,RESTAURANT,40.162418,34.375038,"Sunguroğlu İlköğretim Okulu, Sunguroğlu Mahallesi, Atatürk Meydanı, Karşısı Çuhacılar İş Merkezi Altı",Sungurlu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.977
 9f37a720-15b0-43dd-97ca-2e66e0d5eb0c,Sungurlu Kebap-Dünyası,RESTAURANT,40.162464,34.374763,Sunguroğlu Mah,Sungurlu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.935
 d6e990f9-4d31-42b1-a45a-1b860dfb764f,Sungurlu  Sevdalıları,SIGHT,40.162128,34.377666,sunguroğlu mahallesi,Sungurlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.870
@@ -26,7 +22,6 @@ d6e990f9-4d31-42b1-a45a-1b860dfb764f,Sungurlu  Sevdalıları,SIGHT,40.162128,34.
 11453afa-e0fa-4cfd-906c-074aae88ee5b,Cafe Kristal,CAFE,40.161671,34.374237,Alparslan Türkeş Caddesi 14,Sungurlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.801
 fed5dbcd-42c8-4f56-b210-c8ce907f84dc,Mesire Kafe,CAFE,40.161297,34.374157,sungurlu,Sungurlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.947
 97316ac0-2e9d-4a60-b8bb-f45c17978ff8,Akifogulları Et Ve Tavuk Urunler,RESTAURANT,40.163723,34.3699,Recep Tayyip Erdoğan Caddesi 58/1,Sungurlu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.785
-1f880b23-3102-4ace-98eb-c673149396b6,Huzur Unlu Mamulleri,RESTAURANT,40.163837,34.369675,Recep Tayyip Erdoğan Cd No:55,Sungurlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
 b6b05ffc-3fbb-4445-9aba-06a1d95b0c29,Dağhan Apart,HOTEL,40.163723,34.378544,15. Sok No:15 19300,Sungurlu,CDLA-Permissive-2.0,Overture|meta,hostel,lodging>hostel,0.940
 01781797-32f6-406f-a9e8-493947ccd220,Elit Tatli & Dondurma,CAFE,40.164566,34.378189,Çorum Cd. No:71,Sungurlu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.811
 92cd54b4-9853-4a85-9130-252adf90940c,Buhara avm,SHOPPING,40.1646,34.375313,5001.sokak no:2 19300,Sungurlu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.924
@@ -79,46 +74,39 @@ ce9aee25-51fd-4988-8ebd-c07cc2f4c46b,Nazar Pastanesi,CAFE,40.755669,34.701962,Ev
 9ad0617d-26c1-4d05-b617-5b40969e0064,Bedri Rahmi Eyuboglu Surekli Sergi Salonu,SIGHT,40.73069,34.470264,Tosya Cd.,İskilip,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.785
 4434b86b-2a6a-406e-a7aa-60f78299c80d,İskilipgücü AİLE ÇAY Bahçesi,CAFE,40.731758,34.47287,Sakarya Caddesi 8,İskilip,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.830
 2e77b35a-ba0b-4463-895b-e80adfcf0eb2,Tat Kebap Salonu,RESTAURANT,40.731647,34.474186,Hasırcı Sk. No:1,İskilip,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.894
-77b27860-48a7-4b44-a3ce-1fa9c8443565,Nasip Pide Salonu,RESTAURANT,40.730965,34.474495,Çorum Cd.,İskilip,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.845
+77b27860-48a7-4b44-a3ce-1fa9c8443565,Nasip Pide Salonu,CAFE,40.730965,34.474495,Çorum Cd.,İskilip,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.845
+71aaeb90-9c42-4f01-84f0-9803fb93b788,Gözde Düğün Salonu & Restoran,RESTAURANT,40.731258,34.474426,Çorum Caddesi 5,İskilip,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.822
 563f802c-fecb-45ee-957f-a1911aa9f54d,İskilip Seyirtepe Sosyal Tesisleri,RESTAURANT,40.731377,34.474258,BAHABEY MAHALLESİ KANARA MEVKİİ İSKİLİP/ÇORUM,İskilip,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.948
 13b74b8d-ba2a-4b52-a371-2251c3322cbf,Hakan Pide Salonu,RESTAURANT,40.732265,34.4743,Hasırcı Sk. No:11,İskilip,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.858
 63749e88-6f83-45dd-867e-0c058d37dcef,Şahin Kebap Salonu,RESTAURANT,40.731876,34.474194,Hasırcı Sk. No:5,İskilip,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.978
 91fcafab-a2b1-4990-805c-57506cef2ddb,Laçin yeşil göl,SIGHT,40.731873,34.473408,,İskilip,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.760
-aaf5703b-b895-4da0-ad68-e0924917bc8d,Havuzlu Çarşı,CAFE,40.732765,34.472843,,İskilip,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.873
 b0248036-f453-4699-8551-fa56f02ebea8,Seyrani Dürüm Cafe,RESTAURANT,40.73275,34.47382,"Kaleboğazı, Zübeyde Hanım Cd. No:4",İskilip,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.821
 a70001c4-2612-4500-9b36-408081cf90fa,Tadim Kebap Salonu,RESTAURANT,40.732784,34.4739,Zübeyde Hanım Cd. no:11/A,İskilip,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.966
-139771e4-12d6-4a50-b4b5-1b395a60b4ca,Bizim Pide Salonu,RESTAURANT,40.732853,34.473907,Zübeyde Hanım Cd. No:11,İskilip,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.964
-725aaa43-f636-4682-87e7-4ff072229fb0,Seyırtepe,CAFE,40.73317,34.472702,Eski Kadınlar Pazarı Sokağı,İskilip,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.816
+139771e4-12d6-4a50-b4b5-1b395a60b4ca,Bizim Pide Salonu,CAFE,40.732853,34.473907,Zübeyde Hanım Cd. No:11,İskilip,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.964
 307272ee-ad7b-4c73-a3a6-fa7260f72c36,Antik Dekor El Sanatları Galerisi,SIGHT,40.733414,34.471741,Demirciler Sokak 52,İskilip,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.737
 ddc4090a-47af-4f8f-b861-2f013d572065,İskilipli Alimler Müzesi,SIGHT,40.734303,34.472584,Eski Kadınlar Pazarı Sk.,İskilip,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.942
 9676642d-13b7-40c5-8d2e-a8dd7ba24e1a,Gözde Restaurant & Cafe & Sosyal Tesis,RESTAURANT,40.72971,34.475567,Çorum Caddesi 5,İskilip,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
 89851f07-450c-4ed8-92cc-4f6970d7941a,Kapı Önü Teras CAFE,CAFE,40.729725,34.475613,Çorum Caddesi 50,İskilip,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.819
 47b4c53a-8120-465a-9135-c6553a9fec92,Hacıoğlu Kebap Salonu,RESTAURANT,40.728291,34.478184,Dabakhane Cd. No:6,İskilip,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.913
 b35c11f5-f174-4630-a11a-ddccdfbd6019,Anbar Cafe&Bistro,CAFE,40.728062,34.479012,,İskilip,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.791
-a49e3d65-fb18-4724-af19-7388775f383e,Iskilip Ulaştepe,RESTAURANT,40.738449,34.475052,,İskilip,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.840
 b6b57431-c93d-40ad-81e5-32a36451449e,Catalkara Kultur Ve Sanat Evi,SIGHT,40.734921,34.471539,Ekizcioğlu Cd. No:31,İskilip,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.933
 872b9e29-7be6-49f4-bdbc-3488d2cc0344,Çatalkara Restoran,RESTAURANT,40.734882,34.471485,Kale Sk. No:1,İskilip,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.953
 898097eb-1175-408e-8dd5-e17449221588,İskilip Aygaz Parkı,SIGHT,40.734818,34.470612,,İskilip,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.925
 f441d35b-dc3c-45e1-9c0b-b49c12a899e4,İskilip Kalesi,SIGHT,40.736176,34.473652,,İskilip,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.717
-f9343af2-5d07-4262-aec1-f1877782e009,Iskilip Ulaştepe,RESTAURANT,40.73735,34.476006,,İskilip,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.844
-6b19f3ac-51e3-4cff-bae4-051e3d0b22aa,Kayabaşı Aile Çay Bahçesi,SIGHT,40.857639,34.811165,Dodurga,Dodurga,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.766
+6b19f3ac-51e3-4cff-bae4-051e3d0b22aa,Kayabaşı Aile Çay Bahçesi,CAFE,40.857639,34.811165,Dodurga,Dodurga,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.766
 492b8a34-d4a9-4f88-8973-3fd340ca211d,Üçgürgen Yaylasi,SIGHT,40.889324,34.225849,ahmetoğluköyü Tosya Kastamonu,Bayat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.978
 8e3e1b24-a867-4a0e-aa52-757fab692182,Çukurhan Şelalesi,SIGHT,40.940323,34.215961,,İskilip,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.758
 ce8c55ac-1ce0-4e3c-b247-2d269082eb3b,Asil Beyzade Park,SIGHT,40.999233,34.043938,Bardakoğlu Caddesi 40,Bayat,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.840
 46b0bfb6-bad3-46a3-8495-86ef5edd04e0,Miray Otel ve Restaurant,HOTEL,40.997971,34.053349,Bahcelievler Mah,Bayat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.944
 ff845d2b-5163-446f-bd44-f27957b85e40,Tosya Devrez Apart,HOTEL,40.990326,34.041553,BAHÇELİ EVLER MAHALLESİ,Bayat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.938
 89404a44-babb-4205-be03-24b338033b60,Çiçek park cafe restorant,CAFE,40.987679,34.039383,üç değirmen sokak NO:81,Bayat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.943
-62a24005-baba-4275-92de-bdfa16f603f4,Tosya Bag Evi,RESTAURANT,40.998055,34.016182,cumhuriyet mah.saka sokak no:1,Bayat,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 2349bd10-bdf0-493c-bf1e-e44a4e2678d7,Tosya Kavurmaci,RESTAURANT,40.98225,34.006054,,Bayat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.795
 eead0eee-e23a-4d01-a57f-8e389a4354ff,Mola Park Restaurant,RESTAURANT,40.982059,34.005928,,Bayat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.843
 b3f42ab6-fd69-411f-948a-d983d2de04ef,Onur Park Plus Tesıslerı(TOSYA),RESTAURANT,40.979462,34.001987,Karşıyaka Mah Atatürk cad.no:222,Bayat,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.990
-d39e674b-5ca6-4483-8669-2e2367ed8529,Sinop Tarihi Ceza Evi,SIGHT,41.020081,34.459148,,Kargı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.733
 30c553de-3462-419f-a393-ebb1ac07e995,Ali Osman Ulusoy Park Ganita,SIGHT,41.055431,34.543137,,Osmancık,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.905
 bc2e8787-0bb0-4d1b-933e-380ea1462b5b,Akbaba Dinlenme Tesisleri,RESTAURANT,41.073376,34.45396,,Kargı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.759
 97cfe72b-0bf6-4508-915f-09a9a295bd50,Hacıbaba Et Mangal,RESTAURANT,41.074413,34.452564,İstanbul yolu üzeri No/6/Kargı Çorum TR,Kargı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.883
-31d60565-e207-4d1f-97cf-1dbfc89e864e,Hacıhamza Kale Mah.,SIGHT,41.075611,34.448376,,Kargı,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.880
 caa0bcaf-2577-4696-9afc-a2d7f772904b,Tarihi Sinan Paşa Camii,SIGHT,41.076748,34.448738,,Kargı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.930
-e10daf02-7064-4a75-ba69-df678c547a0e,Bi'mola Çorum,CAFE,41.094131,34.349445,Beygircioğlu Köyü Yolu 68,Kargı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.959
 021ec1c1-20d2-4f56-822b-5967f280f214,Osmancık Haspark Tesisleri,RESTAURANT,40.981106,34.717621,,Dodurga,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.776
 e8adda4f-210d-47c3-8c39-c0a734400efe,Beyoğlu Kebap Lahmacun,RESTAURANT,40.973156,34.799046,Ulumezarlık Sk 15a,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.964
 733bf8f5-9867-4bf9-98c6-7b98cf54b21a,Guven Et Lokantasi,RESTAURANT,40.972908,34.798809,,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.952
@@ -136,17 +124,13 @@ bfb79618-0471-45ca-bc70-34fd3774c017,Kale Otel Restoran,RESTAURANT,40.974491,34.
 e33b0c33-9219-4156-8da3-be0f619810a2,Oses Çiğ Köfte,RESTAURANT,40.974422,34.799232,Org. Ahmet Çörekçi Cd. No:42,Dodurga,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.814
 bd5e204f-aa84-44d5-a10d-b4948e1cd7c2,Ersoy Et Lokantası,RESTAURANT,40.97443,34.799084,Org. Ahmet Çörekçi Cd. No:42,Dodurga,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.896
 e3f45d6b-b785-4aa5-ac00-ddae460bb05b,Merkez Kale Otel,HOTEL,40.974388,34.799053,Alparslan türkeş caddesi no : 53,Dodurga,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.977
-f87fc65d-76a9-41da-91e7-2818ff2076dd,Istanbul Kahveevi Osmancik,CAFE,40.974403,34.798851,Atatürk Orta Okulu Karşısı,Dodurga,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.789
 fe1f227f-fa27-4d7a-b3f1-eac61e163591,Mehtap Pastanesi,CAFE,40.974228,34.799446,M. Akif Ersoy Caddesi 14,Dodurga,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.833
 0e360f14-44f0-452f-b31b-5355e45242e4,Saklı bahçe kafe,CAFE,40.974976,34.802681,Mehmet Akif Ersoy Cd. No:62,Dodurga,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.894
-c0db8345-1213-4d15-baa8-6480b7b27fef,osmancık,RESTAURANT,40.974678,34.800602,Mehmet Akif Ersoy Cd.,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.981
 51767827-2f2e-4845-a625-d5eb58c8a88f,Erdek Oteller,HOTEL,40.975269,34.802937,Atatürk Caddesi 31,Dodurga,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.815
 76b743b1-dfec-4b97-a0b2-7940630ccf5e,eRa Döner Köfte,RESTAURANT,40.975418,34.803177,,Dodurga,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.901
 0b7bb1ca-9ce5-4b18-a8f0-c67e307927fd,E-Dürüm Osmancık,RESTAURANT,40.975735,34.800053,Atatürk Caddesi 3,Dodurga,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.858
-314e9a9f-7735-4434-ae49-564a75236b72,Alp Metal Ahşap Dizayn,CAFE,40.975765,34.797703,İstanbul Yolu Küme Evler 19,Dodurga,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.915
 7f68e18f-e227-48b0-a1b4-425ba4ef2f28,Istanbul Pastanesi,CAFE,40.975327,34.799129,Org. Ahmet Çörekçi Caddesi 68,Dodurga,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.932
 497368ba-deb9-478f-a94b-f4c2aeb6a451,Cigkofteci Omer Usta,RESTAURANT,40.975033,34.799084,Org. Ahmet Çörekçi Cd. 75a D:75a,Dodurga,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.799
-20cc8a4c-1bba-461e-a0fa-dae6de612716,Tabldot Dünyası,RESTAURANT,40.976501,34.797779,yeni mah.zerat zeytinli caddesi.Arçelik bayi karşısı,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.776
 34c8b71d-f6b4-47cd-b475-e9e9ee4dab77,Damla Dondurma,CAFE,40.97625,34.798492,"Yeni mahalle Zerrat Zeytinli caddesi, Yasemin Sk. apartman2/2",Dodurga,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.841
 d1ad8be9-40cb-43f7-960c-65904f3474a3,Em-Joy Kafe,CAFE,40.976097,34.802326,"Yeni Mahalle Namık Kemal Caddesi Boyvat Apt.12, D:13",Dodurga,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.802
 5346e002-2e58-4b74-a75d-abf81b5befaf,Topçuğlu Çarşı,SHOPPING,40.976799,34.799843,"Yeni, Namık Kemal Cd.",Dodurga,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.911
@@ -154,14 +138,11 @@ f71b87bb-e9f1-4e78-bf2d-bf4e5d998d09,Saffet Dürüm,RESTAURANT,40.976891,34.8009
 83902f21-702d-4c8a-bbf0-6a5d5aa4ec59,Alparslan Türkeş Parkı,SIGHT,40.978157,34.799305,Yeni Cami Sk. 11a,Dodurga,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.983
 112dee58-09cd-4da4-a863-6a47893a49ce,Park,SIGHT,40.979286,34.79599,,Dodurga,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.867
 f3ead292-fc38-43b4-b61d-361cfdbbabe8,Osmancık Emir Park Kuruyemiş,SIGHT,40.97924,34.792648,Ömer Derindere Bulvarı 52,Dodurga,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.844
-aef2a2d0-7029-4c59-b9d1-5708f19fcb97,Samsun Sahil Yolu,SIGHT,40.979191,34.792812,,Dodurga,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.817
-41832839-4c97-4b48-b93b-93cdffa1bb0a,Amasya Alikaya,RESTAURANT,40.979065,34.790012,,Dodurga,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.802
 2847cbf0-5800-483e-b463-bcbc6c836b9e,Koyunbaba Aile Sofrası Adem Usta'nin Yeri,RESTAURANT,40.978851,34.790237,"Cafe İstanbul, Hıdırlık Sokak 5",Dodurga,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.901
 736f635f-e8bd-441f-abdf-a76561c1dd2b,Osmancik Hanedan Sirik Kebab,RESTAURANT,40.978931,34.789921,"""İstanbul Yol 5 Km., Osmancık Merkez, Osmancık, Çorum""",Dodurga,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.982
 6bb429fe-d6f4-4ee0-9b89-fa9991567fbd,Grand Dost Hotel,HOTEL,40.979332,34.790577,Ömer Derindere Blv. No:25,Dodurga,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 c83834b3-dee9-4e21-88ed-14a11cef91b9,Ipekyolu Restorant Ve Leblebi,RESTAURANT,40.97813,34.785332,Ömer Derindere Bulvarı 12,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.942
 13d01631-7d4d-4e8c-ad85-8c392cf240e0,Asya Tesisleri,RESTAURANT,40.976948,34.772369,Uzun kavak mevkii No:28,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.993
-05a119b5-a820-4624-b133-c9f7de2fe917,Çorum Osmancık Leblebicisi,RESTAURANT,40.977032,34.772232,,Dodurga,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.780
 240c0420-3851-42a4-8383-5cccb49dc2e5,Era doğa restaurant,RESTAURANT,40.981327,34.793724,Koyunbaba mahallesi. Şehit öğretmen Şenay Aybüke yalçın parkı,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.771
 dd67ba43-ccd7-43c0-9776-3c38697f0df1,Çorum Osmancık,SIGHT,40.979538,34.798218,,Dodurga,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.960
 90fff1aa-cdbd-4673-90d8-5db6fa65fbcd,Kerim Kaplan Sanat Merkezi,SIGHT,40.981014,34.798531,Koyunbaba Caddesi 15A,Dodurga,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.895
@@ -173,15 +154,12 @@ b98a0274-7208-4f38-b4ea-112ce106befd,Odabaşı Pide Salonu,RESTAURANT,40.978477,
 662e23f0-4317-4d26-8de2-1b1a0f8c2fef,UMUT Leblebi & KÖFTE,RESTAURANT,40.97617,34.811665,Ömer Derindere Bulvarı 143,Dodurga,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.776
 241bcd07-f3ef-4177-af80-69549da0b5af,Beyaz Pide Lahmacun,RESTAURANT,40.976433,34.812294,Eymir D100 Kızıltepe,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.768
 8b115996-38f8-472c-943a-c9df18217aab,Seda Pide,RESTAURANT,40.976498,34.81245,,Dodurga,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.896
-4c6ef7b0-3d53-4040-928d-38828996a9cd,Çağlayan Pide,RESTAURANT,40.976749,34.811905,Ömer Derindere Blv. No:147,Dodurga,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.968
-1f825023-b966-4c79-9f4b-04e52a0a281e,Başak Leblebi Osmancık,CAFE,40.975033,34.81583,Ömer Derindere Bulvarı 183A,Dodurga,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.948
+4c6ef7b0-3d53-4040-928d-38828996a9cd,Çağlayan Pide,CAFE,40.976749,34.811905,Ömer Derindere Blv. No:147,Dodurga,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.968
 a11b0231-095d-445a-9bb8-736768e9621d,Kerim Kaplan Sanat Merkezi,SIGHT,40.974911,34.804813,,Dodurga,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.913
 06d60bf8-cd20-4b77-a14a-8737abf560fa,Acar Park Osmancık,SIGHT,40.97271,34.821331,İstanbul Yolu Küme Evler 1,Dodurga,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.856
 9785fdc9-5ad2-4d0a-b228-eb0533e48725,Osmancık Kent Park,SIGHT,40.970444,34.803894,Osmancık Kent Park,Dodurga,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.977
-e6d10676-e441-4eae-8df4-6b6c524e9b6f,Osmancık Şehir Klubü,RESTAURANT,40.971497,34.800045,,Dodurga,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.818
 712b2920-85f1-4041-bc48-876f73e73233,Kahveland,CAFE,40.97147,34.800133,Adnan Menderes Cd. No:7,Dodurga,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.945
 fce49033-9cb3-49ef-a4f0-ce54449572fb,Muhsin Yazıcıoğlu Parkı,SIGHT,40.97142,34.799953,Adnan Menderes Cd. No:16,Dodurga,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.847
-95375e4c-32a7-48c7-a264-51ed8c0c61d4,Şehir Kulübü,RESTAURANT,40.9715,34.799961,Adnan Menderes Cd. 08a,Dodurga,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.877
 cee89ba6-80a7-4842-8127-ee1fb7231c6d,Cafe Piraye,CAFE,40.971718,34.799751,"Adnan Menderes Cd. No:16, 19500",Dodurga,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.942
 f74acbfa-880c-48ea-8fc0-6a160d6abd62,Kahveden cafe bistro,CAFE,40.971581,34.798248,4. Sahil Çk. No:2,Dodurga,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.965
 0b7d6e81-3d39-4160-9062-4fcae5c60ea3,Nevizade Cafe&Bistro,CAFE,40.971111,34.798542,"Osmancık, Çorum, Türkiye",Dodurga,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.872
@@ -203,30 +181,23 @@ cf26efdf-ce1f-4bf9-8368-f51cc9f887bf,Hanedan Otel,HOTEL,40.970177,34.851501,"""N
 d51f8822-63d7-40cd-b266-3285eab724ce,Haneden Restaurant Hop-Stop,RESTAURANT,40.970173,34.851429,,Dodurga,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.780
 c7d8f0e7-dac6-4343-ba75-6217c0d8a664,Küçükali Dinlenme Tesisleri,RESTAURANT,40.970245,34.851494,,Dodurga,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.917
 60c47c3f-a6c7-4210-9deb-f31b35b96417,Gökbel Sırık Kebap,RESTAURANT,40.969788,34.862419,İstanbul Samsun Yolu göğbel,Dodurga,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.903
-7d4f3159-9d94-4aeb-8662-b3017ecfabe4,Efe Park Yoresel Urunler Pazarı,RESTAURANT,40.970222,34.863422,Ömer Derindere Bul No:367,Dodurga,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.934
 aaed5f02-fdc6-4ff7-9c32-5aab6afff147,Doğa Park Cafe Restaurant,RESTAURANT,40.969978,34.839153,Ömer Derindere Blv.,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.922
-372a00be-9d95-4dd4-862d-00c7ee646752,ÇöpŞiş Park,RESTAURANT,40.971195,34.850414,İstanbul Samsun Yolu 311/1çorum,Dodurga,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.958
 d18c0574-85f3-40ee-b80c-b24b1580139a,Derindereler Dinlenme Tesisi,RESTAURANT,40.970749,34.839127,,Dodurga,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.874
 74a6a76b-ced0-411b-a4f2-d1cb89c52a01,Saray Park,RESTAURANT,40.970978,34.836971,,Dodurga,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.824
-336f6077-e4c9-4f98-8d05-954ab2f3d644,Has Park,RESTAURANT,40.970921,34.837738,Ömer Derindere Blv.,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.955
 acac8211-7514-40a4-870e-0a637c9dfc6c,Osmancık Han Park,SIGHT,40.970741,34.835278,Çiftlikler Mahallesi Gökbel Bağları Mevkii,Dodurga,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.918
 9195e367-0bb0-439c-ba91-c9bb8a17bb90,Rotabim Teras Tatlı Bir Mola,CAFE,40.973274,34.910805,Samsun - İstanbul Karayolu,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.929
 e08ed382-2aa7-4b3c-9071-6179f6ed88fb,Köy Park Yöresel Kahvaltı,RESTAURANT,40.973244,34.907822,,Dodurga,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.771
 ea3a906b-3843-4c94-91d9-5fc151f62813,Koç Park,SIGHT,40.975319,34.913219,Ömer Derindere Blv No:503,Dodurga,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.848
 9f1233a4-28c9-4ad5-b715-ef6abd3b8ade,Köy Park Yöresel Kahvaltı,RESTAURANT,40.975254,34.913059,,Dodurga,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.771
-625ba7c9-d4bd-4718-9feb-b9b98efbac8d,Çakallı Park,RESTAURANT,40.977615,34.919487,Samsun-Osmancık Yolu Yeni,Dodurga,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.936
 fca67ed0-1b85-49bc-b6c3-e33057cedfb0,Kırkdilim Kapılı Kaya,SIGHT,40.756405,34.910473,Kirkdilim,Laçin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.853
-efdb49ae-9978-4ff3-8bfb-9cd6fb79645c,MOLA Kırkdilim DAĞ Tesisleri,CAFE,40.719734,34.900589,ÇORUM KIRKDİLİM köyü,Laçin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.969
 f88c02f5-5514-46e6-807f-7a9b3fd36a05,Eymir Gölü,SIGHT,40.704964,34.906433,Eymir Köyü Corum Merkez,Laçin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.825
 4aa3a12f-2eec-4306-9280-cc57f86bc31a,Eymir Gölü,SIGHT,40.704041,34.902092,Eymir Köyü Corum Merkez,Laçin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.825
 7796acf1-32a2-494d-a826-1fa2b893dedf,Figani Göleti,SIGHT,40.583618,35.380646,Figani Köyü,Mecitözü,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.772
 dde8aa95-5825-42ec-89bc-24e4f7d64561,Hıdırlık Göleti,SIGHT,40.516567,35.283379,,Mecitözü,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.719
 84a84e90-3556-4c9f-8aa1-014954841205,Mecitozu Koc,RESTAURANT,40.520981,35.295628,Menekşe Sokak 1,Mecitözü,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.921
 4ed3b510-d0db-41ab-b5c7-a87c2b7d398a,Mecitözü Ocakbaşı Restorant,RESTAURANT,40.523651,35.298042,,Mecitözü,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.789
+71a5e56a-aad1-4433-b7ed-663e32f8f9d7,terracotahotel50,HOTEL,40.446945,35.156227,505. Sokak 7,Ortaköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.856
 0f75c984-aac4-4573-a68d-70a98e7a80d8,Çiğköfteci ömer usta-Osmancık,RESTAURANT,40.4431,34.866863,HIDIRLIK MAH. ORG. AHMET ÇÖREKCI CAD. NO : 57 / A CIGKOFTECI ÖMER USTA,Alaca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.932
-b8e5b507-eca3-4ab1-aa98-f84f8181bb41,55 Samsun Leblebi Tesisi,RESTAURANT,40.472427,34.88076,SAMSUN YOLU ÜZERİ,Alaca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.985
-359d8ad1-2029-45d9-ae39-00bb245c9b37,Huseyin ınci silikon heykel atolyesi,SIGHT,40.534843,34.977039,Ata 20. Sokak 10,Çorum,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.838
-e156028e-52f4-43f9-b5dc-6c7de923d7fa,Coraklık Bagları,RESTAURANT,40.53693,34.985435,Çorum,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.925
 90f8d677-83f1-4f60-81b1-0f8120146029,Çelikler Pastanesi,CAFE,40.539337,34.972542,"Seçilay Apt, Bahabey Cd. No:138/A",Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.942
 ea72c504-5881-4b79-ad6f-53a6c4889cc8,Komagene Yavruturna Bahabey Caddesi,RESTAURANT,40.538296,34.973251,Bahabey Cd. No:144/D,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.945
 51ea008c-abcc-4c95-aa9e-1196f8a972af,Uğur Böceği Pastanesi,CAFE,40.537006,34.973,Ata Cd. no:152/C,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.934
@@ -236,7 +207,6 @@ baa658fd-4dcf-4cc6-a190-6ec78b3fe4d6,Eminler Pide Salonu,RESTAURANT,40.539574,34
 a3676f27-3f83-4fa0-8881-92aac9ab8301,Huzur Çay Evi,CAFE,40.539455,34.953121,Cemilbey Cd. No:6,Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.872
 b2fbaa25-52a7-465c-bf1b-4886db4aa9a5,Çorum Meydan Döner,RESTAURANT,40.539635,34.953308,Cemilbey Cd. 73/B,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.945
 40f54916-0534-4b1c-8363-896687b57302,Hastane ÇAy Evİ,CAFE,40.539043,34.952923,Cemilbey Cd. 12/A,Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.926
-fb5fe00a-7e71-40b6-9672-49aee685f283,Baharat Dünyası,SHOPPING,40.538265,34.952957,,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.795
 312807b2-4262-46fb-b9a9-4e1171fe15b8,Bayramefendi Osmanlı Kahvecisi,CAFE,40.5373,34.949093,Fevzi Çakmak Cd. No:39,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 010b048d-ef3c-42f4-97b6-81340790a959,Melodi Pastanesi,CAFE,40.534035,34.959324,Ata Cd. 67A,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.953
 a53f90d9-cec1-431e-8cb9-4a64800078b7,Meşhur Bizim Köfteci,RESTAURANT,40.533768,34.961597,Ata Cd. No:83,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.784
@@ -245,7 +215,6 @@ ef0d211b-8a5d-477b-824d-5c9c253e883c,Kaymak Cafe Pasta,CAFE,40.533676,34.961575,
 46c4e99d-99b3-4245-bf75-5d97a86854bb,Şehri Aşiyan Pastanesi,CAFE,40.533741,34.947079,Fevzi Çakmak 1. Cd. No:22,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.976
 8d2f0ae0-4bdb-4df7-aef9-f2813a024613,Rüstem Eren Parkı,SIGHT,40.534527,34.951393,Cemilbey Cd. No:48,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.977
 e5ca97bc-9e38-4385-8e10-6b0adf885244,Öz Adıyaman Çiğköfte,RESTAURANT,40.535076,34.950405,Fevzi Çakmak Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.793
-ce534fc3-286b-4cd5-8d76-d705c13499b2,Karaoğlan,RESTAURANT,40.535137,34.950008,,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.845
 99d7bf73-cd9e-40a6-827c-891499c06c41,AsliGul Cake and Coffee,CAFE,40.535839,34.933014,"Çepni mahallesi fen lisesi 1, Cadde No:23 D:E",Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.900
 bef84e2a-eb13-4d58-91e3-ecf5a6f07649,Quqa Coffee Lounge,CAFE,40.536007,34.933399,Fen Lisesi 1. Cadde 23A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.900
 da80ab81-66a8-421c-a55e-250fa63fec16,Meşhur İskilip Dolmacısı,RESTAURANT,40.53574,34.933739,Fen Lisesi 1. Cadde,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.862
@@ -254,19 +223,16 @@ da80ab81-66a8-421c-a55e-250fa63fec16,Meşhur İskilip Dolmacısı,RESTAURANT,40.
 261a4358-e62d-478a-8f25-24cad3300df7,Serdivan Avm,SHOPPING,40.53479,34.915161,,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.837
 b33eb041-812b-4f05-b5fc-dbe2b7311a40,Güneş Restaurant & Cafe,RESTAURANT,40.535686,34.920681,Gimat 5. Sokak 1A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.922
 2f2bdb2f-cb59-4668-a134-780f91b82a8d,Mado,CAFE,40.531361,34.929153,,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.928
-510e17d8-1fa3-4edb-81c1-8cbab68ebd1f,ZaRa AuTo,RESTAURANT,40.528873,34.925381,Çorum Sanayi Sitesi 66 Caddesi 5,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.948
 158404da-afcb-4b6b-902d-1a2c1c60f23a,Mimarsinan Parkı,SIGHT,40.531204,34.944714,,Çorum,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.853
 77618c65-34b0-412a-86ad-a7b54e886c44,Mimoza Pastanesi,CAFE,40.529503,34.952927,Cemilbey Cd. No:74/A,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.933
 0754c744-8235-4bc0-a75e-40d433489d03,Yıldız Pide Salonu,RESTAURANT,40.530811,34.952927,Cemilbey Cd. No: 141 /E,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.899
 75e37ca6-1964-468b-afc0-0262844a6e9d,Adıyörem Çiftköfte,RESTAURANT,40.532524,34.951626,Cemilbey Cd. No:54 D:C,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.850
 0553bf65-9da0-4991-ac76-da25d1989888,Komagene Bağcılar Çorum,RESTAURANT,40.529518,34.955578,Bağcılar Caddesi 9/d,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.924
 d45c9917-9983-497d-a88b-d83f0deb194d,Deniz Çay Evi,CAFE,40.52932,34.957394,"Merkez, Bağcılar 1. Cd. 1/A",Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.964
-597b77f1-ac47-4dfb-97f5-a34ed42d7826,Karaman Yemek&Sanayi,RESTAURANT,40.528553,34.960247,Bağcılar 4. Cadde 30,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
-9befe916-b82a-4a88-93e8-af4d9707674d,Berat Pide Yemek Salonu,RESTAURANT,40.523907,34.945778,Küçük Sanayi 2. Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.837
+9befe916-b82a-4a88-93e8-af4d9707674d,Berat Pide Yemek Salonu,CAFE,40.523907,34.945778,Küçük Sanayi 2. Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.837
 89c994fa-bc16-4e6d-a8ab-e17306bd2d41,Fevziye Abla'Nın Yeri,RESTAURANT,40.522907,34.93779,"""Opet Mimar Sinan Mahallesi, Fevzi Çakmak 1. Cadde 17""",Çorum,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.782
 e27ea197-3dd6-4d9f-9a10-2738c85d8ce9,Damak Lokantası,RESTAURANT,40.521015,34.940228,Küçük Sanayi 15. Cd. No:7,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.956
 61516450-732d-4e59-af63-ee8a66c476df,Site Lokantası,RESTAURANT,40.52129,34.936485,Küçük Sanayi 91. Sk.,Çorum,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.873
-2c96f142-6ecd-4584-90ab-bdcebe856045,Hamdi Bey Fırın,RESTAURANT,40.51931,34.93911,Küçük Sanayi 11. Cadde 9,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.770
 6c9c0c0d-13d4-4883-b838-57564761891a,Durak Hotel,HOTEL,40.514591,34.91333,Ankara Yolu Bulvarı 35,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.967
 3daa3a13-79f1-4e8f-b222-4ed026b0bc3f,Kaleli Park Tesisleri,RESTAURANT,40.514511,34.91227,Çorum-Ankara Yol,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.915
 228e428d-ff47-40eb-b521-4d6c669a0adb,Coffee Kangoo,CAFE,40.51424,34.91227,"best petrol içi, Çevre Yolu Blv. 5.km",Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855
@@ -274,7 +240,6 @@ c10a49a3-ff4d-4462-a49c-b1d817393a7c,KAHVELAND,CAFE,40.517071,34.914013,"Green O
 1556ff57-50b1-4d90-b40f-d5340592ca0d,Meşhur ASPAVA MUHAMMED,RESTAURANT,40.54631,34.927826,Çevre Yolu Blv. no:213/1,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.890
 92725bd5-6f6b-4d12-9fa4-ecf5f1f949e1,Çorum Özbeyler Döner,RESTAURANT,40.543938,34.926941,,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.767
 ece94aab-0d30-416d-8e96-9ca9ab452b93,Özbeyler Park İskender,RESTAURANT,40.54398,34.927086,"Shell Akaryakıt istasyonu içi, Çevre Yolu Blv. no:219",Çorum,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.957
-e2e1ca7c-8e4a-4f47-8d93-7ec3e2636ab1,ÇöpŞiş Park ● Çorum,RESTAURANT,40.541344,34.931839,Öğretmen Lisesi 4. Sk 23/A,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
 707f7b0b-cd43-4848-ac62-0689a22f22b6,With You Coffee House,CAFE,40.542488,34.944916,Leblebiciler Sitesi no:3/b,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.954
 ae9d95d5-a16c-44dc-b42e-07776cddb32b,Yusuf Köfte Salonu,RESTAURANT,40.541096,34.945507,Aşağı sanayi sitesi kışla karşısı,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.937
 07ab3f9e-8b00-474b-a9e6-cde9413f55d6,Çorum Simitci Dünyası,CAFE,40.539909,34.952938,Cemilbey Cad,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.867
@@ -286,9 +251,7 @@ f7dc10d7-f3a9-4768-bcc4-dae347ec4a1b,Çorum Anitta Otel,HOTEL,40.542625,34.94860
 2f4576b7-870c-4eb8-a8bc-a826a563ee2d,The Suits Restaurant,RESTAURANT,40.542629,34.948551,"İnönü Cd. No:80, 19040",Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.898
 f41e3b49-1430-45a2-b6e6-f73befe49954,Yunus19 AVM,SHOPPING,40.543324,34.946171,Akşemseddin Cd. No:4,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.713
 36840a18-a019-4610-a7ae-bda00c2bca7e,AHL Park AVM,SHOPPING,40.543365,34.946632,Çepni Mahallesi Kerebigazi 1 Caddesi AHL Park Kat: 2 No: 203,Çorum,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
-baf15a16-03df-4ec2-af88-270c313dbfe0,Sayrem,RESTAURANT,40.543846,34.947403,Kerebi Gazi 1. Sk. No:77,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.900
 66dddb2c-33f2-442c-8c84-35987835b57c,Bayramefendi Osmanlı Kahvecisi,CAFE,40.543755,34.94788,Köprübaşı 1. Cadde 7,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.968
-a4b7c7fa-7403-4236-9e21-9c9df9ccc4f9,Ahl Alaçatı Muhallebicisi,RESTAURANT,40.544323,34.948601,Kerebigazi 1.Sokak No:7 D:253,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.835
 06fd8c38-ef13-49ca-8671-cd0a682f772b,Özbeyler park İskender,RESTAURANT,40.544239,34.94812,Özbeyler İskender AHL Park AVM,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.889
 b4f5df1f-5fd7-405c-bb1b-fddadbea30c0,Oncu Durum,RESTAURANT,40.544254,34.947987,Sel Sokak 1,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.888
 69d0d8c6-85c7-43e8-a603-9b3d7ff587b7,Pide By Pide,RESTAURANT,40.544273,34.948235,Ahl Park,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.776
@@ -313,17 +276,17 @@ af177099-2199-48e4-b1bc-8f62237df9de,Feyzan Hotel,HOTEL,40.545147,34.950878,İn�
 37e2c56e-844a-4db9-9952-04d1ad57894a,Grand Park Hotel,HOTEL,40.545078,34.950573,İnönü Cd. No:60,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 a70fd335-032b-454d-b274-72cbd9c2c7d5,Çorum Marmaris Döner,RESTAURANT,40.544407,34.952168,İnkılap Sk. No:37,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.954
 e19297d8-c0ed-466c-823c-85d0d85604ce,Kolağası Otel,HOTEL,40.543751,34.950016,İnönü Cd. No:97,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.981
-6fac2462-2091-4ead-bad1-26d19bcea251,Mazi Yeni Nesil Eğlence,RESTAURANT,40.543686,34.950039,İnönü Cd. No:97,Çorum,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.860
 06a7ada1-b682-4644-8827-f9ddaccd63af,Çorum Kalesi,SIGHT,40.546204,34.956829,,Çorum,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.870
 cf20fa07-8039-4ba6-b7ef-b2eb5fc825b2,Hakverdi Pastaneleri,CAFE,40.546654,34.951809,İnönü Cd. No:57,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.994
 50bbabc7-66d6-4627-80f4-616a22fdf4b7,Sultan Sofrasi Döner Iskender,RESTAURANT,40.546268,34.95129,İnönü Cd. No:36,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.969
 608ae476-d629-43b8-9f10-262736b11380,Çorbacı Ali Usta,RESTAURANT,40.546394,34.951412,Cepni Mah,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.780
 7db0e001-97b0-4557-ab38-501ade1dca3d,Birtat Pastanesi,CAFE,40.546474,34.953606,Kubbeli Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.865
+c7d1e3b9-460e-4373-b8ac-3d3852121903,Yurttaşlar Pide Salonu,RESTAURANT,40.546341,34.953491,Kubbeli 2. Sk. 2 A,Çorum,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.919
 bf2b6004-900f-48cf-94d2-6c5be134d952,Pithana Hotel,HOTEL,40.545902,34.953217,Nurettin Bey Cd. No:1,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
 c3fe4381-e23f-4023-99d0-76b6794b39ec,Hattuşirin Otel,HOTEL,40.545818,34.953453,Harmanlar 1. Sk. No:9,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 1b3a53a0-6b96-453f-ad6c-94381b767edd,Karaca Tandir Kebap Adem Usta,RESTAURANT,40.545815,34.95174,"Sobacılar arastası, İnkılap Sk. No:11",Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.901
 dcf6f10f-8adc-405e-b6b2-fe2455ca6865,Şirin Otel,HOTEL,40.545914,34.951359,İnönü Cd. No:71 D:1,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
-efa5f62f-301b-4924-b9c8-2d19f22508aa,KahveciHacıbaba,SIGHT,40.545982,34.951206,,Çorum,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.810
+efa5f62f-301b-4924-b9c8-2d19f22508aa,KahveciHacıbaba,CAFE,40.545982,34.951206,,Çorum,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.810
 cadbbb1f-1ef3-41d3-be01-e9c2cde6c46a,Babacan Yeni Nesil Çiğköfte,RESTAURANT,40.546078,34.951752,Kubbeli 2. Sk. No:47,Çorum,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.867
 d00d55fd-8553-482c-bcde-8fbb4577a8a5,BigChefs,CAFE,40.545563,34.949875,Cepni Mah. Kerebi Gazi 1. Cad. AHL PARK AVM No:257,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.946
 264b32bc-cd20-4bb0-b907-2c09916be8ed,Yakamoz Coffee,CAFE,40.545429,34.940197,"Çepni mah. Öğretmen lisesi 3. Cad, Millet bahçesi No:5",Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.901
@@ -335,30 +298,24 @@ ee2d5d78-3a79-46c9-9b84-a66f226b2113,Çorum Millet Bahçesi,SIGHT,40.544525,34.9
 a23ccf04-e6ea-4d6e-8950-0035033edb2a,Baydöner,RESTAURANT,40.547939,34.944611,Çepni Mahallesi Kerebi Gazi 1 Sokak No:7 2.kat 2K/20 19040 Merkez,Çorum,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 81b4b332-d092-42ce-942e-efd5777ecb5c,Gizz Burger Pizza Mexican Food,RESTAURANT,40.548653,34.949383,Çepni Sokak 5,Çorum,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.944
 80d9184e-dd3a-445b-82e1-a6b595518a82,Öncü Döner,RESTAURANT,40.548832,34.953224,İnönü Cd. No:13,Çorum,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.914
-3b519894-6818-4e7b-aaf5-578521b9c232,Çorum Shiska,CAFE,40.548161,34.952953,,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.752
 9be99e53-5187-47ab-bee1-72f5e1c4c944,Zafer Çarşısı AVM,SHOPPING,40.548157,34.953697,Kubbeli Cd. No:15,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.982
 6175f79f-fcdc-48f1-8c79-96d1c9e7c3be,Ferhat Hamamı Çorum,SIGHT,40.547932,34.953808,Veli Paşa 1. Sokak 4,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.956
 e9d9cd89-5839-4405-853e-4cb75f7b8d74,Soylu AVM,SHOPPING,40.547813,34.953476,Kubbeli Cd. No:22,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.818
 758a2e11-1140-44a2-b26c-2c3f6015d0ab,Bahçeli Döner,RESTAURANT,40.547684,34.953526,Kubbeli Cd. No:28,Çorum,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.825
-609889c8-bd4f-4f76-8d0e-a2c39dba0e56,İstanbul Avm,SHOPPING,40.547562,34.953625,Kubbeli Cd. NO:19,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.957
 a163e335-aa61-44f1-a8b0-c37297e2826a,Anadolu Apart Otel,HOTEL,40.547611,34.952202,İnönü Cd. No:22,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.911
 e7d08055-fbf5-4510-84a8-d9823ce5a8d1,Hacibey,RESTAURANT,40.54771,34.952225,"Yapıkredi bankası yanı, İnönü Cd.",Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.953
 72190b33-15f0-49e8-8780-f43232346244,Confident Alışveriş Merkezleri,SHOPPING,40.547794,34.952579,İnönü Cd. No:27,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.779
 d186d7a8-bc82-46c4-8397-e8ea18f7a95f,Kayra Otel,HOTEL,40.547134,34.952263,İnönü Cd. No:43/A,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.980
 cc743ad8-59cb-43b8-b177-441f96615a5e,Veli Paşa Konağı,SIGHT,40.547493,34.954937,Veli Paşa Sokak 25,Çorum,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.990
-88a02b2f-bb17-4a2f-bf1a-661cacae53db,Güngörmüşler Konağı,CAFE,40.547565,34.954929,Şeyh Eyüp Sk. No:37,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.875
 fee8e2e9-8794-4642-bd0f-b36678eb4c5e,Lezzet Sarayı,RESTAURANT,40.548897,34.954437,Gülabibey Mh. Uğur Mumcu Cd.,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 cd81328f-8ba1-4f24-9f91-fcf2056edc33,Yeni Hamam Çorum,SIGHT,40.549717,34.953907,,Çorum,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.783
 4fa61a12-7338-4d21-a649-3c2f3863a7aa,Baraka Cafe,CAFE,40.549736,34.955662,Sel Sokak 21,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.841
 8d6494c8-5d73-44f3-b529-16e9e8a5735b,Mangal Evi,RESTAURANT,40.54953,34.959042,Kulaksız Sk. No 21 A,Çorum,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.927
 32b673a5-7bae-42e0-8581-37cfc77606c6,Köfte Hot Çorum,RESTAURANT,40.550034,34.95916,Kulaksız 1. Sokak 6,Çorum,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.797
-b04a7a00-d990-47ec-b23a-33094b3b3afb,Ayşeli Hingal Evi,RESTAURANT,40.549797,34.95892,"15, Kulaksız Sk.",Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.918
-ab094baa-0fdf-4969-bb48-b559533d6dd3,İkinci Bahar,RESTAURANT,40.550652,34.958668,Kulaksız Sk. 5/A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.995
 11b80878-4bf5-4bd2-b704-1b1702ee664b,Komagene Corum Kulaksiz,RESTAURANT,40.550652,34.958401,Kulaksız Sk. No: 8/C,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.852
 8a631929-b637-404d-a32b-0cd57bb33b1d,Sultan Lahmacun,RESTAURANT,40.550629,34.956554,Gazi Cd. 22/B,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.960
 e2afdf2b-3402-4c22-9ec5-844e7defc508,Osmanlı çay evi,CAFE,40.550144,34.957047,Sel Sk. 51 C,Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.929
 6617a701-42b4-4f05-979d-1b4a52dcae49,Bahar Dondurma,CAFE,40.55024,34.955719,Gazi Cd. No:8,Çorum,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.865
-87b4fd81-0c3f-4c23-84f9-6463544808ed,Mova City,RESTAURANT,40.55024,34.955711,Gazi 12. Sokak 9/a,Çorum,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.974
 f684fadf-ee57-4611-abb3-dd7b0a4678e5,Hürriyet Parkı,SIGHT,40.550228,34.953911,,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.961
 7e836915-e882-456a-87be-fb75e0368612,Pilavistan,RESTAURANT,40.550396,34.954662,"Saraç Alaeddin Usta İş Merkezi, Gazi 1. Sk. No:5",Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.994
 8124beb8-600c-4b9b-a302-4026c2cce1a8,Hanzade Çiğ Köfte,RESTAURANT,40.550282,34.955475,Gazi Caddesi,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafeteria,food_and_drink>restaurant>cafeteria,0.770
@@ -366,7 +323,7 @@ f684fadf-ee57-4611-abb3-dd7b0a4678e5,Hürriyet Parkı,SIGHT,40.550228,34.953911,
 573d4794-6960-46f3-99ea-8a29e6235a19,Paşa İskender Kebap Salonu,RESTAURANT,40.550396,34.955521,Gazi Cd. No:15,Çorum,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant,0.989
 67d75b16-cc86-4c9e-94d6-32040d606b82,Komagene,RESTAURANT,40.550419,34.955009,Gazi Caddesi 7A,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.986
 40215d4c-0d23-48eb-87f9-ffee7c8beb1e,Havuzbaşı Cafe & Restaurant,RESTAURANT,40.550529,34.955193,Gazi 5. Sokak 4,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.900
-aac687d6-fb99-4a7d-801a-855c71e574b3,Merkez Pide Simit Fırını,RESTAURANT,40.550594,34.952957,Osmancık Cd. 7 C,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.926
+aac687d6-fb99-4a7d-801a-855c71e574b3,Merkez Pide Simit Fırını,CAFE,40.550594,34.952957,Osmancık Cd. 7 C,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.926
 af843c4d-020a-43a1-bfad-b14df0c989c2,Kebapcı Zade Nurettin Usta,RESTAURANT,40.550293,34.951893,Taşhan Cd. No:19,Çorum,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.991
 2f52cb9f-b3f7-49e0-91fd-7a7d7200724b,Cadde Döner 10,RESTAURANT,40.550251,34.951794,"Çorum, Türkiye",Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.858
 31049b9d-b0b0-4d7c-ad17-350ad7ccdba8,Çorum Şehir Müzesi,SIGHT,40.549633,34.952957,Hürriyet 4. Sk. 33-35,Çorum,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.936
@@ -380,7 +337,6 @@ f01dff50-04df-445d-b2d3-2acaa807d2ec,Asiyan Cay Evi,CAFE,40.550743,34.947807,İs
 12c194a2-8534-4ad9-a255-9cae8d3aa560,Sehir Pastanesi,CAFE,40.551762,34.952824,Osmancık Cd. No:16,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.997
 8a921144-b735-45ed-85c9-4efc281a1d24,İzmir Lokantası,RESTAURANT,40.551361,34.953281,Camikebir Sk. No:3,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.962
 296a2885-8429-4801-83f1-163b3ad97b8f,Dünyanın En Dar Arastası,SIGHT,40.551033,34.953327,Eskiciler Sk.,Çorum,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.835
-9509a63e-a4b8-46ee-8272-57db663fb647,Altın Kepçe,RESTAURANT,40.550758,34.954132,"Azap Ahmet Sk. No:3, 19200",Çorum,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.933
 bc6da7ba-03bd-4d3e-a0e0-ae0905ccda49,Japon Pazarı,SHOPPING,40.550774,34.954456,Azap Ahmet Sk. No:7,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.972
 d71f9292-a7c9-417a-8473-82f39101a7c6,Bizimkiler Lokantası,RESTAURANT,40.550812,34.955456,Gazi 3. Sk.,Çorum,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.995
 ae92b78f-5487-4c1e-b853-ea5b1a291294,Umay Otel,HOTEL,40.550831,34.955318,Azap Ahmet Sk. No:18,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.875
@@ -398,14 +354,12 @@ b0a9718b-6c11-427c-9c21-0ae148706d31,Simit Sarayı,CAFE,40.550896,34.956825,Gazi
 f3f74b33-e8f0-4449-8b5e-194ab292c48d,Eylül Tantuni Çorum,RESTAURANT,40.550789,34.956013,Gazi 5. Sk. No:4,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.917
 c55660d8-35a6-4b84-916c-6bd52ca9b5e9,pilavingo,RESTAURANT,40.550858,34.960007,Kavukçu Sk.,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.931
 ed21a3a5-4431-4630-93a5-e321b317e2b1,Kütükhanecafe,CAFE,40.550739,34.960506,"Yavruturna mahallesi kulaksız çıkmazı, 2.sok no:5",Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.885
-657e6911-2eb8-44ec-8c40-7e8504e2f3a6,Antiqa Sanat,CAFE,40.550919,34.961086,Kulaksız 2. Sk. No: 6,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.841
 d131e701-22cc-4d00-b6c7-df35479b5673,Cafe Meydan,CAFE,40.551579,34.961533,Tekel 3. Sokak 7A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.873
 36ea7f36-cbe3-4513-b49d-5a734bac2d79,Fatih Çay Evi,CAFE,40.551506,34.959877,Maliye 3. Sokak 2,Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.804
 4b94fb2a-bfed-4210-abd0-78bffae0bd15,Bilge Suite Hotel,HOTEL,40.551575,34.959347,Gazi Cd. No:56,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.981
 b2d42e0e-d5f4-4205-9fee-4050934a776c,Şellale Bistro Café,CAFE,40.551464,34.959633,Gazi Cad.,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 5b43b521-3f51-4712-ac53-7bdf75d66764,Gelyan Nargile Cafe,CAFE,40.551212,34.95929,"Yavruturna Mahallesi, Maliye 1. Kavukçu 1. Sokak Kat:3",Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.989
 6e0e43dd-2a64-4716-97a1-06ecef8bb94d,Antik Cafe ve Bistro,CAFE,40.551167,34.958935,Maliye 1. Sk. No:8/A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.951
-23aea1e7-df65-433c-9584-bbe084949bf5,Freedom Cook,CAFE,40.551174,34.95895,Maliye 1. Sk. no 8/b,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.911
 9ec5abf9-1b8b-48e7-aa87-ccf962a241f8,Helvacı Ali Çorum,CAFE,40.551491,34.958771,Gazi Cd. No:52/A,Çorum,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.942
 ccdc0b99-3858-46c5-8ceb-fbf6e0549ff6,Burger King - Çorum Gazi Caddesi,RESTAURANT,40.55159,34.958485,Gazi Cd. No: 39,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.996
 bab9835d-06f2-46c9-9c38-e77e3651cc24,Kültür Cafe,CAFE,40.551743,34.957886,Kültür Sokak 2E,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.895
@@ -414,14 +368,12 @@ a0790088-994f-48a7-ba1b-6e7b84977a11,Hatay Künefe,CAFE,40.551918,34.959064,Gazi
 8419994c-a629-4a3e-83e2-f9dcb006b85a,Bülent Börekçilik,RESTAURANT,40.551765,34.95937,Gazi Caddesi,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 aa3f1df4-b497-4cbf-a215-6e2681c3efb3,Çorum simitci dünyası,RESTAURANT,40.551773,34.959515,Gazi Cd. 58 C,Çorum,CDLA-Permissive-2.0,Overture|meta,,,0.995
 a75fde6d-cb50-4a03-acae-d930ae264082,Begonvil Butik Cafe,CAFE,40.551693,34.959579,Maliye 2. Sokak 1,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.922
-274a59cc-651e-495f-8987-335db8d7589d,Bahane,CAFE,40.55164,34.961658,Kadeş 2. Sk. No:7,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.963
 cd424209-3fb0-4247-bc38-737ab6f13be5,PizzaKing,RESTAURANT,40.551872,34.959885,Gazi Cd. No:62,Çorum,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.887
 e93d6b2f-ebf6-42ea-a524-d24fc454cff4,Avlu İşkembe Garip Usta,RESTAURANT,40.552082,34.961811,Kadeş 1. Sk No:2,Çorum,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.925
 2486df67-af98-47d3-9933-3dbddb5c9e79,Vilayet Parkı,SIGHT,40.552471,34.960579,Gazi Cd. No:63,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
 70f5d82e-b60b-4311-8a7c-cbc6bdc1f418,Karasu Çay Evi,CAFE,40.552185,34.958557,Albayrak 5. Sk. 3 E,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.875
 f39c7bf8-2e8d-46d7-a6c1-a37e97945c40,Kahvealtı Cafe & Bistro,CAFE,40.552193,34.958504,Albayrak 5. Sk. No:3/D,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.905
 39289889-373c-463b-a11d-beeb69731c22,Corum Beyaz Otel,HOTEL,40.552055,34.958469,Albayrak 5. Sk. NO:4,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
-f5e1e1a8-3add-44b9-9a3f-a28f1a357c3a,Bimezze,RESTAURANT,40.552063,34.958405,Karakeçili mahallesi Albayrak 5. sokak  2/C,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.770
 9033ffa0-867d-42b0-871a-e248ab70d52a,Narcil Nargile Cafe and Bistro,CAFE,40.551975,34.956146,Karakeçili 1. Sk. No:19,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.978
 eafe880c-6f13-4877-b986-b267bc2dfb3f,Sakura Cafe,CAFE,40.551998,34.956055,Karakeçili Sokak 19,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.935
 cdf2f1ef-0866-4931-8d3a-c8ffc1a44d98,Bekiroğlu Konağı Çorum Cafe Bistro,CAFE,40.551952,34.954479,Karakeçili Mah.,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.950
@@ -432,9 +384,7 @@ da99c136-4c77-435c-bf6b-a52418bc3f4b,Yeni Yuvam Apart Kizyurdu,HOTEL,40.553345,3
 f3f2c19e-7474-4945-aa38-b7c4f711967f,Domino's Pizza Çorum,RESTAURANT,40.552998,34.961372,"Merkez Gazi Cad Çamlık Karşısi D:67, D:C",Çorum,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.983
 48fdc6a2-e233-418f-bc34-00fb01d7eca8,Samsat Çiğköfte,RESTAURANT,40.553993,34.960407,Bahçelievler 2. Cadde 1,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.759
 bb77311c-3310-4cec-8ade-ce876dfe1ed9,Çorum Atatürk Anıtı,SIGHT,40.553619,34.956028,,Çorum,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.749
-b9fe043d-0d46-419a-94b9-c765f3cc2836,Expresso Çorum,RESTAURANT,40.554028,34.952095,Fatih 1. Sokak 2,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.879
 b1298562-80fd-4a20-8baf-46ae6677d74f,Kervan avm ÇORUM,SHOPPING,40.553471,34.951973,Osmancık Cd. No:49 D:A,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.814
-9eb4e22f-a7f8-4d0b-969b-ad92eca3f9ec,Ölçerler Tarım Park - Machine Showroom,SHOPPING,40.551159,34.944481,,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.823
 98bab171-4259-4a2c-a8c8-3dfd48c98c6c,Bİ ÇOrba Bİ Tava,RESTAURANT,40.548306,34.92794,,Çorum,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.904
 ed07d5e1-4fdb-48cf-9ad1-96eab9f6d09b,Köfteci Yusuf,RESTAURANT,40.555984,34.922115,Akkent Mahallesi Çevre Yolu Bulvari No:184-2,Çorum,CDLA-Permissive-2.0,Microsoft|Overture,restaurant,food_and_drink>restaurant,0.850
 cf60c155-949b-4af9-bb9b-3acc1dd558e0,Çorum Namazgah Parkı,SIGHT,40.555962,34.946011,,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.961
@@ -447,8 +397,6 @@ b78ac484-50aa-4999-a11d-e2479d7f2115,Yildiz Dürüm,RESTAURANT,40.555729,34.9506
 9db40595-a5c2-4801-98e9-1efdb4e87bfb,Emek lokantası,RESTAURANT,40.55592,34.952637,Fatih Cd. No:5,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.992
 a2d5db6e-0bd5-4c1c-bbf6-1f92ccddb572,Osmanlı Çay Evi,CAFE,40.555256,34.952606,Fatih Caddesi 5,Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.798
 f69cb974-447a-40ff-85d1-56f7fc7ac36e,Menzil köfte,RESTAURANT,40.554676,34.95211,Fatih 2. Sk. No:17/B,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.765
-1b5605c1-3a99-47b3-a2af-5bb687d277bb,Smooq-In,CAFE,40.554398,34.961552,Stad Sk. 13 A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.788
-266a8ca4-02f5-4487-8046-8ad9f89fba45,Sherlock Holmes,CAFE,40.554543,34.96122,Karakeçili mahalle gazi caddesi 83/A,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 3c061ab2-7fde-499f-be87-8d1c906e7824,Ilıca Kafe Cay Evi,CAFE,40.555355,34.960438,Üçturlar Mah,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.786
 708e2910-0f71-4f07-b14f-5ed2838b9f32,Adıyamanlı Çiğ Köfteci Erkan Usta,RESTAURANT,40.555939,34.960415,Ilıca Cd. No:34/c,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.776
 dbb30f29-bfae-40d0-b0c1-16c0f1e2ae23,Adalet fast food,RESTAURANT,40.555847,34.954582,Fatih Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.839
@@ -457,33 +405,26 @@ a60a5b15-3099-4c69-8f02-c4276585c330,Semaver Kafe Çorum,CAFE,40.557083,34.96099
 919a1459-e4f7-49dd-b3ce-8ba2f4d3bc83,Hilal Pide,RESTAURANT,40.557671,34.950954,,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.796
 fdb2699a-d24d-462e-9c8e-23d6d7389881,Atalımlar çay evi,CAFE,40.556461,34.951118,Osmancık Cd. 95.b,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.937
 987031ac-713f-4424-acb9-42b4d6a35d6c,Tatlıcı By Tombik Dondurmam Gaymak,CAFE,40.558163,34.953171,Mavral Sok,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.762
-3f14ec83-0ea2-4c01-9e58-3fe918810403,Mavral Sokak,CAFE,40.558033,34.953182,,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.752
 8f425bf2-fa2a-4ec8-a784-d9327aceafa7,Keyif Pastanesi,CAFE,40.560947,34.953571,Mavral Sk. No:62/B,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.897
 c2ce0fc8-2279-4060-a954-15db4d537f49,Defne Lokantası,RESTAURANT,40.56065,34.948807,Çiftlik Cd. 3 A,Çorum,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.890
 90546693-8e82-4fc1-b65f-74456aefbbdb,Baskent Pasta Cafe,CAFE,40.561417,34.949471,Ulukavak Metropol Yanı,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.816
-b4e946b6-30db-4fbd-b844-9f2accecc05e,Karşıyaka Çörekçisi,CAFE,40.558769,34.944668,Çiftlik Cd. 45/a,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.984
 4f2f31ec-f424-49ab-9eec-8bc007ce3c93,Iskilip Dolma Evi,RESTAURANT,40.562149,34.945324,Söğütlüevler Cd. 1/A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.982
 e69edd9f-4c2e-4176-8688-24bec7b8ac9c,Bİ ÇOrba Bİ Tava,RESTAURANT,40.562061,34.945141,,Çorum,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.898
 280e6508-84b8-460d-92d0-65848bf7e902,Simitci Duragi Kahvalti Cafe,CAFE,40.562279,34.946384,Cevre Yol Bul,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.857
 91ce29c0-ba86-42a9-a8a9-eb62a2b5e731,Komagene,RESTAURANT,40.562401,34.961632,Eşref Hoca Caddesi 47,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.931
 f355fff9-775b-45df-bf41-21eeac336337,Oses Çiğköfte ÇORUM,RESTAURANT,40.562675,34.96172,Eşref Hoca Caddesi 40A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.840
 6fe067b7-ed6a-4cd1-b82d-dbfc39334ccc,Lila Pasta Börek,RESTAURANT,40.562828,34.961674,Ulukavak Mah. Eşref Hoca Cad. No:42/A,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
-7ee056a2-718e-42e6-81d4-ff781c012266,Corum Samsunlunun Yeri Leblebicisi,CAFE,40.564522,34.955284,Çorum,Çorum,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.901
 550e08ec-df35-4af2-862c-06c150cca0ff,Domino's Pizza,RESTAURANT,40.564793,34.954346,Çevre Yolu Blv. Nur Apt No : 92/B,Çorum,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.987
 61e8b27a-5023-432e-ab0d-583ead0449e2,Köfteci Bahri Usta,RESTAURANT,40.564919,34.955326,,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.863
-bca95ee7-4a2c-4746-aae5-5e6ba4254b47,Kamanlar Pide Salonu,RESTAURANT,40.565083,34.954556,Tek Ceviz 2. Sk. No:2,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.911
+bca95ee7-4a2c-4746-aae5-5e6ba4254b47,Kamanlar Pide Salonu,CAFE,40.565083,34.954556,Tek Ceviz 2. Sk. No:2,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.911
 46fa4125-ddc6-4510-9fb1-ba833d28fb9c,Salimin Yeri Pide Salonu,RESTAURANT,40.565041,34.954639,Tek Ceviz 2. Sk. No:2 D:e,Çorum,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.971
-93db9db7-5b3a-4bf1-8753-eecc0bb508e7,AYAZ Teknik,CAFE,40.5653,34.955219,Tek Ceviz 6. Sokak 15,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.972
 c34e9dd3-881c-4699-96d1-eab49e5ac224,Adnan Menderes Parkı,SIGHT,40.56583,34.954636,Tek Ceviz 2. Sk.,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.852
 23d24bc5-d2c8-4551-93bc-f96173cb0ec5,Chef Pastanesi,CAFE,40.567749,34.948433,"No:, Selçuk 2. Cd. No:34",Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.975
 77c2907e-eb49-4813-af70-fb7b33fc1579,Liman Pasta and Cafe,CAFE,40.568638,34.942432,Köprübaşı 33. Sk. No:2,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.984
-c19575df-4171-4dc8-8084-5687507597ec,Yusuf Usta,CAFE,40.567848,34.93877,Adnan Özejder Cd. No:13/B,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.894
 c383b1ec-4b89-40c6-8755-5379ff0d05f2,Bereket Yemek,RESTAURANT,40.566971,34.943405,"Köroğlu camii karşısı, Osmancık Cd.",Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.916
-551d1f5d-d50c-452c-962e-31fbe670177d,Milat Pide Fırını,RESTAURANT,40.567165,34.943405,Osmancık Caddesi 259B,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.847
+551d1f5d-d50c-452c-962e-31fbe670177d,Milat Pide Fırını,CAFE,40.567165,34.943405,Osmancık Caddesi 259B,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.847
 bd6a10c0-9f5b-4086-a3cc-0f1ab6dea3c3,osmancık caddesi Yaya üst Geçidi,SIGHT,40.566803,34.94405,Osmancık caddesi,Çorum,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.755
 92684eed-3e13-4619-8e45-e6190e1bf5b3,Kaburgaci ÖMer,RESTAURANT,40.56543,34.945263,Osmancık Cd. 16 SOK,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.857
-156f02cd-2907-40be-a6a9-51fe35b5c519,Oz Karadeniz Ekmek Firini,RESTAURANT,40.566154,34.93845,Çiftlik Çayırı 14. Sk.,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.868
-97bd259d-f6e0-4398-ba36-c78482c493cc,Turkuaz Bahar,CAFE,40.569286,34.941929,Köprübaşı 30. Sokak 4,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.790
 918198e7-677f-4a17-934e-518220c98cb5,Fatih Çay Evi,CAFE,40.569874,34.94051,Osmancık Cd. No:285/A,Çorum,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.782
 5ee3a1d7-8a3b-4a87-b1ac-14e2e769396f,Feyzullah Kıyıklık Parkı,SIGHT,40.575268,34.954269,"Çorum, Buhara Evler 10 Sok, Buhara Evleri",Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
 e7f22508-3071-44b4-9ac6-920bb5dce7e3,Corum Turizm Otelcilik Uygulama Oteli,HOTEL,40.572407,34.955139,,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
@@ -494,7 +435,6 @@ c072f6cb-d4ce-486a-a5ca-0be96454e519,Karaoglan Balikcilik Buhara,RESTAURANT,40.5
 20af5c72-dc20-4fb8-b580-de6dfc9f10a4,Hitit Baklava ve Börek,RESTAURANT,40.570461,34.948532,Dr. Sadık Ahmet Cd. No:50/B,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.885
 3b785a36-560f-4022-8c1d-6f52a7f31a72,Doga dondurma kafe,CAFE,40.570129,34.95414,Dr. Sadık Ahmet Cd. No:33,Çorum,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.789
 ab04b588-f982-4de0-aec6-644872e6159a,Corum Arabica Coffee House,CAFE,40.569118,34.963631,Dr. İlhan Gürel Cd. No:14,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.979
-b3d7dde4-30a2-4044-85b3-b2bdfc3c3959,Lila Plus,CAFE,40.569515,34.963612,Dr. İlhan Gürel Cd. No:18/A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.969
 bdc4ac38-0e25-4714-8245-a4f8603ec94c,Quqa • Coffee | Nuts,CAFE,40.569698,34.963753,Buharaevler,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 8abdf6b6-d639-4331-8dbf-1022a3822de9,Kahveland Buhara Premium,CAFE,40.570347,34.963554,Dr. İlhan Gürel Cd. No:20-b,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.995
 e09ba67f-0edd-458f-b37e-b2913ca6615b,Has Baklava Börek,CAFE,40.570942,34.962864,Dr. İlhan Gürel Cd. No:25,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.939
@@ -509,7 +449,6 @@ a0a04c24-e77c-422c-b201-c5659d9577c9,Elitzade et lokantası,RESTAURANT,40.57172,
 7f104ad2-7d36-47e8-a9e7-d785eaf3d589,7/8 Hasanpaşa Kahvecisi,CAFE,40.571861,34.991673,Üçtutlar mah. Samsunyolu bulvarı no:9,Çorum,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 55116370-1580-46da-9992-e62d114ee333,Armina Otel,HOTEL,40.569717,34.989307,,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.990
 8be1b1cb-73ca-498f-8025-153eb52206de,Anvatar Termal Gelin Hamamı,SIGHT,40.56966,34.989147,Samsun Yolu Bulvarı 3,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
-6f8d7691-ce23-4fdf-8f01-99415dff7a17,Corum Vadi Resteurant,RESTAURANT,40.57185,34.995113,D-795,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.919
 11c08f51-8e55-47bf-a1b8-362fe9cec1d7,Güleryüz Restaurant,RESTAURANT,40.576813,35.018295,Samsun - Çorum Yolu 5. Km,Mecitözü,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.770
 dd5fe8a1-4db8-4724-817f-32e17f45191f,Guleryuz Turistik Tesisleri,RESTAURANT,40.576698,35.018677,Çevre Yolu Blv. No:5,Mecitözü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.983
 027dd5a5-a5d9-445e-9ccd-b31d1a18b1c3,Kah've Orman,CAFE,40.576714,35.025055,Samsun Çorum Yolu,Mecitözü,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.991
@@ -521,20 +460,16 @@ d886a27f-1e27-4042-aa66-f87c678702a6,Hasan Zahir Et Lokantası,RESTAURANT,40.582
 266b6ea1-1c50-404f-8180-dbc8a59ac0be,Şahhane Sofra,RESTAURANT,40.568695,34.963608,Dr. İlhan Gürel Cd. 12/c,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.935
 0333db3e-a292-440d-88ce-43edc1c5efd6,Shiba Coffee Çorum,CAFE,40.568661,34.96352,Dr. İlhan Gürel Caddesi 12A,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.954
 24135908-c3b3-4569-87e2-1aebc177c639,CİĞEr-İ ÂLÂ,RESTAURANT,40.568531,34.963581,Dr. İlhan Gürel Caddesi 12A,Çorum,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.879
-638553f7-82c0-46cf-8e44-a004aed24ea0,Bolu Dagı Mangal Evi,RESTAURANT,40.568455,34.963612,Dr. İlhan Gürel Caddesi 13,Çorum,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.911
 d1d9d704-ea21-48c8-ba22-55262caf16b0,Hacı Baba Kofte,RESTAURANT,40.568459,34.963604,Dr. İlhan Gürel Caddesi 12A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.751
 2354f397-7891-40db-b79c-bf25cbeefb15,Chili Burger,RESTAURANT,40.568237,34.963333,Dr. İlhan Gürel Cd. no10/c,Çorum,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.903
 e1055a6e-025e-4bb4-b31d-698ba3321363,Carmen Pastanesi Buhara,CAFE,40.568184,34.96331,Dr. İlhan Gürel Cd. No:10B,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.917
 e96ae3d0-7947-4be0-8770-384ca14807fa,Mackbear Coffee Çorum,CAFE,40.568157,34.963428,Dr. İlhan Gürel Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.934
 af547d5b-624e-41b2-b228-c8cacd958ec9,Kahvelen,CAFE,40.567154,34.963234,Dr. İlhan Gürel Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.985
 7cc29e52-c7ed-44e9-856a-a74ad4e341c3,Rota Avm,SHOPPING,40.565784,34.961872,,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.755
-925f4161-00a1-4749-b458-9a0930b56068,Cappello Rosso,CAFE,40.565407,34.962624,Kerebi Gazi Erkek Öğrenci Yurdu Altı,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.953
-e9dc27ed-4bcc-4251-88f6-b0d5079f46e7,Sarıcalar Süt ve Unlu Mamüller,RESTAURANT,40.562702,34.961834,Eşref Hoca Cd. 42 A,Çorum,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.819
 377b00e6-a84a-4f36-9a20-1efea984a62e,Çorum İtfaiye Parkı,SIGHT,40.561802,34.973896,Çorum Itfaiye Parkı,Çorum,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.903
 34dcea87-cfe0-4b55-943a-0e415dea4b50,Çorum Atatürk Anıtı,SIGHT,40.560848,34.969223,,Çorum,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.749
 997389f3-4a4e-41f7-86de-ef3b7c1f0dcc,Piano Pastanesi,CAFE,40.558113,34.965466,Fatih Cd. 92/B,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.985
 1a5e51bc-c313-41e2-8787-d12cba2d7b72,Bahabey Çamlığı,SIGHT,40.557762,34.975216,Çamlık Cad,Çorum,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.862
-466b7c64-d221-45dc-ad34-9002b64b8248,Mor Salkım,RESTAURANT,40.557854,34.971165,Gazi Cad Jandarma Karşısı,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.769
 71c81448-cb38-432c-99a4-741d7c39589d,1991 Tarihi Ortaköy Kumpircisi,CAFE,40.557323,34.962128,Fatih Cd. No:66/b,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.886
 8be355e0-0355-4af0-8496-f65988ad5ac8,Çorum Çomar Barajı,SIGHT,40.55682,34.962189,Mürsel Bağları Yolu,Çorum,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.851
 e715b3c7-8f71-49b0-8312-6ab8108e2715,Beylerbeyi Cafe & Davet,CAFE,40.55545,34.969589,Çamlık Cd. No:36,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.859
@@ -552,16 +487,13 @@ a8f52349-2bbe-442e-81c9-0873e9b8d572,Cafe'Dar,CAFE,40.553894,34.969379,Yeşilyur
 86ec0c12-7e73-4cf1-bc3c-a60c5e2cbadd,Garaj Cafe,CAFE,40.553413,34.963219,Gazi Cd. No:83,Çorum,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.927
 3b1e8a88-ff8a-41a1-9bf1-43dd5673d558,Kahveland,CAFE,40.55357,34.964497,Gazi Caddesi 78A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.951
 8b6cb934-8f0a-415f-ac86-91553457b370,Coffeworks Çorum,CAFE,40.553627,34.964432,Gazi Cd. No:78,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.932
-1fabc187-c85e-4b62-a2de-f158ce04f1d4,Sokak Kültür,RESTAURANT,40.553368,34.96439,Gazi Cad.,Çorum,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.978
 02ac7c42-3a40-4e44-815d-bbc381aa9dc8,Hacivat Kafe,CAFE,40.553368,34.962753,Gazi Cd. No:81,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.904
 b3f33f2b-eabf-4be0-a1ef-f0b7fc27e9a0,Ikram Dondurma,CAFE,40.553242,34.962234,Gazi Cd. 75/C,Çorum,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.801
 a3c134c1-8e91-4fed-9182-965c7932a9c4,Sanat Sokağı,SIGHT,40.552601,34.962708,,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.900
-c1a9dc89-dc02-4237-826c-96a8c29cc82f,Epsil10 Events & Maker Lab,CAFE,40.552727,34.967403,Yeşilyurt Sokak 9A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
 bb5240b9-ccde-4b60-8100-c8235babf2f5,Epsil10 Cafe Atolye&Kidstreet,CAFE,40.552872,34.967354,Bahçelievler 2. Sokak 23A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.920
 94dd566d-3e3f-45e5-878c-4f42d981515a,Lila Pasta ve Borek,CAFE,40.55291,34.966728,Bahçelievler 1. Cd. No:7,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.999
 d5f6daba-0708-4a89-b5fe-63fc57d45144,Perla Cafe & Kitchen,CAFE,40.552738,34.966408,Bahçelievler 1. Cd. 6/A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.926
 bf816793-10db-469f-80f4-304c430acd4b,Cafe Tura,CAFE,40.553043,34.966415,Bahçelievler 1. Cd.,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.868
-a773e1f4-16d7-4b41-b0cd-654751114f03,Pir Baba Çamlığı,CAFE,40.552242,34.96244,Sanatçılar Sk. 2 A,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.915
 235bd549-cb15-419e-8229-d8d1ca26a3f0,best of dürüm,RESTAURANT,40.552269,34.961918,Bahabey Cd. 6 A,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.968
 c42d3ba4-101e-4f11-aef7-c8ab6b5808e0,Nohutlu Pilav,RESTAURANT,40.552025,34.962208,Bahabey Cd. 10/C,Çorum,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.927
 a81e47e9-4b91-499e-9931-9283bfa1a83b,2in1tantuniburger,RESTAURANT,40.551872,34.96204,Kadeş 2. Sk. No:2/e,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.809
@@ -572,9 +504,7 @@ a8dad073-ab81-45f1-87b7-a86e6e0e8e39,Café Modjo,CAFE,40.55138,34.963413,,Çorum
 f90da58c-8b14-46a8-8c0b-80a2b89ca592,Coffee Kangoo Bahabey,CAFE,40.551414,34.963207,Bahabey Cd. No:20 D:16,Çorum,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.954
 ab4ef60e-7867-4f42-94b5-0a6315a8e956,Detay Pastanesi,CAFE,40.551003,34.967831,Şenyurt Caddesi 1,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.793
 e5e682e0-a938-4023-9fed-a92581fe6c93,Çorum Çomar Barajı,SIGHT,40.552315,34.974323,Mürsel Bağları Yolu,Çorum,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.851
-a47b1171-eced-415e-85f0-323c54e5e5be,Pervane,RESTAURANT,40.550049,34.966022,Şenyurt 2. Sokak 3,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.762
 3f8acaec-d345-4f28-b605-dd7d3db1da1d,HİTİT Otel ÇOrum,HOTEL,40.550396,34.964489,Bahabey Cd. No:17,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.968
-29a8a805-266d-4af8-a649-c1bbfbbf83f5,London Pub,RESTAURANT,40.550526,34.964428,Bahabey Caddesi 15,Çorum,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.928
 be48db46-a6c5-4e29-884e-579cbaba72f2,Hotel Dalgiclar,HOTEL,40.550636,34.964329,Bahabey Cd. No:15,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 bae5eb30-0f2d-4c6f-9612-0b3e6a615b6d,Basilico,RESTAURANT,40.550667,34.964409,Bahabey Cd. No:15,Çorum,CDLA-Permissive-2.0,Overture|meta,italian_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant,0.936
 cbc95d65-2c1c-4add-9fc4-39a457cc0be9,New York Restaurant,RESTAURANT,40.550636,34.964283,"Dalgıçlar Otel, Bahabey Caddesi 15",Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.994
@@ -582,7 +512,6 @@ edd2be7b-98bd-485a-9aa7-3d4ca2efb282,Carmen Pastanesi,CAFE,40.549976,34.964794,B
 32927eb8-b855-4957-9af4-cff7c8be2f3a,Bahabey Çay Evi,CAFE,40.549206,34.965439,Bahabey Cd. No:29,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.904
 01112f41-f324-4391-ba4a-ee335a9a22f3,Hitit Restoran,RESTAURANT,40.548199,34.966145,Bahabey Cd. no:35/B,Çorum,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.986
 c9b0e10f-33d3-4be8-92c8-09db0bdc82d3,Çorum Özdoğan Apart,HOTEL,40.54863,34.966721,Şenyurt 2. Sokak 24,Çorum,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.915
-5de93675-9ef3-4cdf-b239-6e12383d32f7,Kayfem,RESTAURANT,40.548512,34.966492,Bahçelievler Mah,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.766
 b466b3e2-7921-4d5c-9fb3-67d3189b317c,Beyazhan Hotel,HOTEL,40.54847,34.966602,Şenyurt 2. Sk. No:24,Çorum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.916
 998638c1-4b50-4082-b3f5-02c743241f60,Gür Dayıoğlu Lokantası,RESTAURANT,40.548302,34.965481,Cengiz Topel Cd. 2/A,Çorum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.929
 b706dc08-1280-4fa2-aaee-541d76188544,Komagene,RESTAURANT,40.548103,34.965446,Cengiz Topel Cd. No:5/A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.895
@@ -605,9 +534,7 @@ c4f75cd3-456b-4da7-a758-47a550cac648,BeyoĞLu Kebap,RESTAURANT,40.545052,34.9686
 94767f5e-18e0-4d17-a37b-d47c9983ee7b,Mekan Bar,RESTAURANT,40.544491,34.968884,Bahabey Caddesi 75A,Çorum,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.781
 822d2f2e-5303-4d5c-9a38-68ec6ac0626f,Adiyamanli Cigkofteci Hamit Usta,RESTAURANT,40.543953,34.968933,Bahabey Cd. No: 84/A,Çorum,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.840
 811b7c0d-92c7-471e-8a6b-5ab1e65e07e6,Anatolia Pastanesi,CAFE,40.542751,34.970036,Bahabey Cd. 104 A,Çorum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.945
-9c2ea4a6-b937-4283-828c-6554fce7288d,Keyf-i Ala Unlu Mamuller,CAFE,40.542957,34.970387,Bahabey Caddesi 93/a,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.768
 8c8a4e76-09a9-4fa8-98e7-84ed41aedd27,Melinda Cafe,CAFE,40.543087,34.971256,Karşıyaka Sk. NO:10 A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.829
-2fac5eac-9b5a-46de-b92b-d92917c5f9e8,Öz Zümrüt Halı,SHOPPING,40.543217,34.969883,,Çorum,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.818
 d58fb835-3abb-478e-80eb-5028f53eccc1,CorumAsiklar tepesi,SIGHT,40.540623,34.962826,Hüyük Caddesi,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.917
 e84b008b-6611-4434-9d39-b38d25b15f9d,Corum Bahabey,SIGHT,40.539959,34.97234,Bahabey Caddesi 142B,Çorum,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.968
 37e62163-e442-4a5f-a491-5b85e9bbb181,Tadim Dondurma,CAFE,40.540138,34.972271,Bahabey Cd. 123A,Çorum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.902
@@ -615,7 +542,6 @@ e84b008b-6611-4434-9d39-b38d25b15f9d,Corum Bahabey,SIGHT,40.539959,34.97234,Baha
 e1d06d56-cd57-42d1-8f6a-5bba0da89ece,Elvançelebi Türbesi,SIGHT,40.566414,35.16399,,Mecitözü,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.851
 fb5c68ab-e9b0-446c-b65c-ff2280627c88,Elvançelebi Türbesi,SIGHT,40.5667,35.183296,,Mecitözü,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.851
 61c3eab0-f20e-4058-b2d2-a816a710659e,Yıldırım dinlenme tesisi,RESTAURANT,40.613972,35.121567,Samsun Çorum Yolu,Mecitözü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.907
-735f42fe-ae12-4106-be89-082f877cc307,Amasya Mecitozu Yolcatinda,RESTAURANT,40.613602,35.121971,Merzi̇fon-çorum Yolu,Mecitözü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.961
 1ecf6e0b-090a-4e5a-8c3c-f29d24868763,Seydim Barajı,SIGHT,40.568939,34.763893,,Çorum,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.933
 b253064a-6673-4433-ade1-b94dec6881a4,Seydim Gölet,SIGHT,40.560207,34.766788,,Çorum,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.736
 5ea9cd1c-72f0-48c0-bf9d-192d408a4f4d,Seydim Gölet,SIGHT,40.56337,34.759785,,Çorum,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.736
@@ -638,8 +564,6 @@ c74c9cf2-49af-4ba3-b55e-702032bb143d,Alaca Golü,SIGHT,40.229641,34.797718,Yozga
 750a2d1f-5246-4e33-bb4d-35637d745d53,AlacaHöyük,SIGHT,40.23407,34.697388,Alacahöyük,Alaca,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.915
 54a952c6-bf5e-4c02-8264-2aaf548811c0,Şapinuva Ören Yeri,SIGHT,40.255039,35.236488,,Ortaköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.803
 a3c84055-cb4c-4421-bee8-901015c008e6,Ortaköy Saat Kulesi,SIGHT,40.27198,35.249886,Öncül Sok,Ortaköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.905
-fb1d7fb3-5640-41f3-9ae5-dcd8f816f32c,Emirbağ,RESTAURANT,40.409008,35.272842,Mecitözü,Ortaköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.859
-447d0297-a36d-4819-a1f5-03bd83872e05,Emirbağ,RESTAURANT,40.411633,35.27219,Mecitözü,Ortaköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.859
 51c220af-f4c9-434e-8483-e1b455241b18,Yeşilköy Aile Çay Bahçesi,CAFE,41.123615,34.416256,,Kargı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.924
 ffa5095f-3023-4ab1-a727-b4d9e040a529,Ali Yüksel Kavuştu Parkı,SIGHT,41.132004,34.498074,,Kargı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.868
 8fbf0a4b-e275-4fc3-90cd-e978c5794fa1,Kargı şelale cafe,CAFE,41.132683,34.491119,Cumhuriyet Cd. No:42,Kargı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.959
@@ -655,4 +579,3 @@ f84017ab-8f0b-4d92-9f4e-025b890d688f,ÖZGE CAFE,CAFE,41.136021,34.491322,kargı,
 e2d6706c-8898-4026-8ee2-474a4158573a,Seyir Cafe,CAFE,41.135395,34.484276,Atatürk Cd. No:48,Kargı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.876
 1d9448bc-c550-4c03-8b27-17b718b3b0c1,Cinaralti Corba Kofte,RESTAURANT,41.134766,34.483566,Sanayi Cd. No:69,Kargı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.854
 4ca5a160-3880-4b45-b9fb-2cb4c49fa0af,Özlem Kuzu Çevirme Kır Lokantası,RESTAURANT,41.173199,34.5401,Uzunyurt Köyü,Osmancık,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.814
-2589550a-7d9c-4384-9d60-2d51a78825bd,Çorum kargı gökçedoğan,CAFE,41.147377,34.693203,,Osmancık,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.863
