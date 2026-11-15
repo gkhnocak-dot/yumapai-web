@@ -1,6 +1,13 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u2890806/public_html/app-test/
-    - /bin/mkdir -p $DEPLOYPATH
-    - /bin/cp -R site/. $DEPLOYPATH
+    - export D=/home/u2890806/public_html
+    - export B=/home/u2890806/public_html/_eski_site_20261115
+    - /bin/mkdir -p $B
+    - /bin/sh -c '[ -f "$B/index.html" ] || /bin/cp -p "$D/index.html" "$B/index.html" 2>/dev/null || true'
+    - /bin/sh -c '[ -f "$B/htaccess.txt" ] || /bin/cp -p "$D/.htaccess" "$B/htaccess.txt" 2>/dev/null || true'
+    - /bin/sh -c '[ -f "$B/404.html" ] || /bin/cp -p "$D/404.html" "$B/404.html" 2>/dev/null || true'
+    - /bin/mkdir -p $D/tanitim
+    - /bin/sh -c '[ -f "$D/tanitim/index.html" ] || /bin/cp -p "$B/index.html" "$D/tanitim/index.html" 2>/dev/null || true'
+    - /bin/cp -R site/. $D/
+    - /bin/rm -rf $D/app-test
