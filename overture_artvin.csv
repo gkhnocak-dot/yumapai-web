@@ -1,596 +1,596 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets
-f881809d-cb06-4e55-abe9-eb0fa400e255,"Sırakonak, İspir",SIGHT,40.732498,41.195889,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-dc582d64-6f74-49b7-b4ba-3ebe7ad883ec,Hevek,SIGHT,40.868999,41.272194,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-72550f3e-3518-4842-b41c-64baa085aef9,Yaylalar Çamyuva Pansiyon,HOTEL,40.869774,41.272339,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-5a61cdbb-befe-481e-864e-7cb971c4b3d5,Kaçkar Pansiyon,HOTEL,40.859596,41.242226,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-21127df1-afb8-4c1f-96d4-21159909c8a0,Arkun Dam,HOTEL,40.676182,41.289192,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-f6f3b543-b642-4d4e-8594-3d390ba4e3a3,Oşnak Merkez kahve,CAFE,40.685997,41.359383,çarşı mah no 12/b,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-981c7b8b-d216-45c8-9209-070ff1d02f36,Arkun Barajı,SIGHT,40.700863,41.385071,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-81c01461-c6e0-4337-a1bc-61bf2be63259,Bayram oğlu Kurt dinlenme tesisleri,RESTAURANT,40.713955,41.483059,erzurum yolu üstünde ,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-a7a770c9-38dd-4285-afad-095495b7c9eb,Mavisu dinlenme tesisleri,HOTEL,40.713684,41.481323,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-d73a2fdb-ce0c-4f75-9370-0df991dfb244,Bol Kepçe Çorbacısı,RESTAURANT,40.713848,41.481327,"Yusufeli, Artvin, Türkiye",Yusufeli,CDLA-Permissive-2.0,Overture|meta
-5a0da9d2-cbd6-47f0-b802-4baa1e4891dc,Yusufeli Mantı Atölyesi,CAFE,40.802174,41.515228,Artvin Caddesi 2,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-fbadc7d5-3897-44eb-b180-1397e22cb316,Yüzüncü Yıl Avm,SHOPPING,40.817871,41.545628,İnenü cad. Keleşgilgida Apt. NO:76,Yusufeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-c9c4397e-da04-472f-8e2e-8be72071cde8,Çağlayan Fırını,CAFE,40.817039,41.546059,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-11a59b85-28a0-458b-ad85-617286520816,Sanatkar,CAFE,40.814209,41.547886,Sanayi Mah,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-46b32373-d6ad-43a5-8c1c-ea6970b7eed5,Saklı Cennet Yusufeli,SIGHT,40.8167,41.549999,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-a7759015-41fe-42d1-8d3a-420d4be508e3,Nar Cafe,CAFE,40.816368,41.547615,Yusufeli Merkez,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-e8b24ceb-a296-459b-8da7-18b479b720d8,Nisa Cafe & FastFood,CAFE,40.816742,41.546661,Merkez Mah.Lise CAD. Yusufeli Fakültesi Yanı,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-c0d8a2e3-1722-4ff4-aa25-888aa7194a91,Alkan pide ve pastacilik,RESTAURANT,40.817062,41.546944,Alkan pide ve pastacilik,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-3fd4384f-1c64-435d-923b-a039138f4125,Lamazi Cafe-Bar-Restaurant,CAFE,40.824593,41.542225,Arıklı Küme Evler 77,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-724ac80f-d025-470f-9846-ea61c4077ec9,Canet mangal,RESTAURANT,40.818954,41.545109,Can Et Mangal,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-dae3569c-b791-4f1c-b112-0da2510adbf0,Agata Otel,HOTEL,40.819149,41.54557,Yusufeli Küme Evler 12,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-9b328177-330c-4f38-893e-a31dd7b91dbf,Doğan Kıraathanesi,RESTAURANT,40.819504,41.544315,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-5895ef53-336c-4c7e-bbb6-11c220782750,Saklı Cennet Yusufeli,SIGHT,40.819748,41.544132,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-791bdabf-48ed-4b7e-bfab-4f102582c82d,Bereket restaurant &cafe,RESTAURANT,40.820683,41.542877,Otel balalan ,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-92e407ad-46d2-49c7-bdc2-b39430e59e82,Gazi Bayram Yıldırım Parkı Aile Çay Bahçesi,CAFE,40.82159,41.54266,Sarigöl Cad. Barhal Çayi Kiyisi Yusufeli̇ Artvi̇n,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-b313ebfc-2f6d-4b64-a86c-6b55736b5802,"Küplüce, Yusufeli",SIGHT,40.916599,41.511993,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-f78d2d71-605c-4654-baba-57eac45bd463,Eliya Otel Restoran,HOTEL,40.934879,41.50909,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-b496ed20-93d2-4728-aa82-cf88bad13e79,Sarıgöl Nahiyesi - Yusufeli/Artvin,HOTEL,40.954742,41.497364,Sarıgöl,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-e5e8a241-188a-4f0d-a076-377d8ab8e798,Yusufeli Ihtiyaroğlu Balik Çiftliğ,RESTAURANT,40.923248,41.513641,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-fcbebd39-4b5d-4ac3-9ac3-1170fccb0592,Agara Otel,HOTEL,40.923508,41.513634,Artvin TR,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-d8cfd8a6-df5e-4be5-9c20-ce505ae093b2,"Esendal, Yusufeli",SIGHT,40.933327,41.583332,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-5771d972-9b99-48d4-a8c8-8296233fffed,selant yaylası büyük göl,SIGHT,40.783619,41.511177,artvin yusufeli tekkale köyü selant yaylasi büyük göl,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-8f6141bc-9b95-4bc4-874d-d8d2984aa379,Kireclik Taksimat,CAFE,41.295437,41.320217,Kireçlik,Arhavi,CDLA-Permissive-2.0,Overture|meta
-a9e68704-4efa-4b99-a7b0-7ddb7d46327c,Ocambre Petra Park,SIGHT,41.295998,41.289959,Yolgeçen Köyü Dağ Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta
-dfe2c7bd-b1fd-4302-921b-ebd18d47b4cd,Özyurt çay ve gıda sanayi,CAFE,41.294178,41.290783,yolgeçen köyü merkez mahallesi 271/1,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c0dd49b6-e40b-4867-bc5a-6b9bbf8372a4,BÜHRE Restoran,RESTAURANT,41.289902,41.293987,YOLGEÇEN KÖYÜ DAĞ YOLU NO:283/1,Arhavi,CDLA-Permissive-2.0,Overture|meta
-e9850dcf-ec90-4328-975d-217379bdd1fa,Pınar Alabalık Tesisi,RESTAURANT,41.311558,41.296356,Kavak Köyü. Kavak Köyü,Arhavi,CDLA-Permissive-2.0,Overture|meta
-9d5095aa-b396-47b0-838d-6131634ed469,Berona Köy Evi,HOTEL,41.306179,41.323914,Dereüstü Köyü No:20 Arhavi,Arhavi,CDLA-Permissive-2.0,Overture|meta
-d0c3a86c-223e-4751-9347-4b3fc1d5f5ef,Noğa Çay,CAFE,41.30682,41.330566,Dereüstü Mevkii,Arhavi,CDLA-Permissive-2.0,Overture|meta
-6b376586-bf51-421c-8a54-6c4b7f888c7f,Okobale Dağ Evi,HOTEL,41.302464,41.343338,"güneşli köyü, obakale mevki, 08200",Arhavi,CDLA-Permissive-2.0,Overture|meta
-311a22b3-cce1-4162-91cc-8b50720a9b6d,Mençuna Şelalesi,SIGHT,41.315372,41.309597,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-d1012c9c-e6d1-4323-986e-7c8572f002d6,Kavak Kurdoğlu Ekmek Fırını,CAFE,41.315308,41.307457,Arhavi Ortacalar Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta
-fcff0ffb-f33b-4fd4-9d36-dc5d62d6ad3b,Pinar Kir Evİ,HOTEL,41.315643,41.305759,Köroğlu büyüklü mevkii kavak köyü Arhavi/Artvin,Arhavi,CDLA-Permissive-2.0,Overture|meta
-644b1020-22d8-46f6-8342-985d2b9d5a71,Umca Alabalık,RESTAURANT,41.321251,41.360371,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-e6074d2a-38ec-457d-8cee-fc474264dfa0,"Kıyıcık Limanı, Fındıklı, Rize, Turkey",SIGHT,41.321819,41.244995,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-89c4769b-6c66-4feb-9fc9-5f22eb5db8a8,Fener Restaurant,RESTAURANT,41.372574,41.34396,Karadeniz Sahil Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta
-f0d68c96-c12a-4155-a3e6-b92bae48b4ff,Kurdoğlu Restaurant/Arhavi,RESTAURANT,41.372562,41.344521,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c4232987-ec9a-44e7-9cd9-eba86bc44653,Fener Pub,RESTAURANT,41.372368,41.343513,"Karadeniz Sahil Yolu, 08690 Çamlı",Arhavi,CDLA-Permissive-2.0,Overture|meta
-87c3d880-0e6c-40ea-9022-232dc910244b,Rakani Kafe,CAFE,41.358673,41.316586,"Arhavi hopa Tünel Üstü, Bilinmeyen Sokak No:5",Arhavi,CDLA-Permissive-2.0,Overture|meta
-eb949f58-6163-4710-aa0c-7c873ec92d57,Otel Kurdoğlu,HOTEL,41.358429,41.317657,Sahil Caddesi 25,Arhavi,CDLA-Permissive-2.0,Overture|meta
-8aba18a6-4f7a-4b62-9f69-d7997ccbb40c,FALEZ Cafe&Restaurant&Pansiyon -Arhavi-,CAFE,41.35928,41.31741,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-90f24490-b7a9-45ea-ab03-059e6353110a,LongAction Arhavi,RESTAURANT,41.353149,41.308571,Atatürk Blv. no:10,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c7645045-6dda-4b22-8f17-87d9fb23aada,Sultan köfte,RESTAURANT,41.353561,41.31015,Arhavi ışıklar,Arhavi,CDLA-Permissive-2.0,Overture|meta
-1edd96a3-416f-4060-95ae-f3260bf093d4,Cadde Cafe & Bistro,CAFE,41.353733,41.309731,,Arhavi,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-54b80b0d-9b5f-4fc8-ac83-4dd947cf2351,Artvin Borçka Karagöl,SIGHT,41.353813,41.309845,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-e1a86ee9-add6-4b76-94f5-6182d3483aad,Loca Restaurant & Cafe,RESTAURANT,41.353748,41.309811,"Kaymakamlık Karşısı, Sahil Caddesi No: D:1",Arhavi,CDLA-Permissive-2.0,Overture|meta
-558e2959-544b-4738-99b5-07018a6c6b0f,Arhavi Tavşanlı park,SIGHT,41.353958,41.310963,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-fc06cd9c-7c02-40dc-a7a1-6c561ed853ae,Keyff Pizza Cafe,RESTAURANT,41.354408,41.312019,Sahil Caddesi,Arhavi,CDLA-Permissive-2.0,Overture|meta
-e2f49f74-c9ba-45d1-8de4-123494b7211f,Loresima Cafe&Bistro,CAFE,41.353806,41.310852,Atatürk Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-0ef41da1-9b91-4e2e-9813-6ea9fd9203f5,Nido Dondurma,CAFE,41.353603,41.310596,Atatürk Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-e217c6d9-466e-4d10-bff9-404720ecc615,Arhavi Üzülmez Konutlar,HOTEL,41.347996,41.299774,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-2d04176c-3ce4-4c81-a9c1-b1c117a9c278,Dikyamaç yaşam tarzı Müzesi,SIGHT,41.349064,41.302959,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-47323dde-de60-44fe-89d2-d89542c2d18e,Efsane yufka ve kafe,RESTAURANT,41.349449,41.302963,ETİ CADDESİ,Arhavi,CDLA-Permissive-2.0,Overture|meta
-aa97b8ec-1e50-4def-8693-6347fb1deb22,Öz Ciha Pide Lahmacun,RESTAURANT,41.349438,41.304672,Nurettin Çarmıklı Cd. No:21,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c1530f88-542c-41d9-bb3a-7fddfef0db57,Öz Bekiroğlu Lokantası,RESTAURANT,41.349445,41.304676,Nurettin Çarmıklı Cd. No:21,Arhavi,CDLA-Permissive-2.0,Overture|meta
-685abc38-044d-4704-a30e-4dfe871d533e,Melis Unlu Mamülleri,CAFE,41.348579,41.303265,Dr. C. Kazancıoğlu Cd. No:2,Arhavi,CDLA-Permissive-2.0,Overture|meta
-1ade3913-d695-4d9b-a0fa-0dc3925a80a5,Resort Hotel,HOTEL,41.348488,41.309486,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-fb89c750-250e-4a54-b726-ecff41113b3d,Dikyamaç yaşam tarzı Müzesi,SIGHT,41.349194,41.306896,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-cd43bda5-2ca4-41fd-85ed-fbb957eed0ec,Tadal Cafe,CAFE,41.349171,41.306801,musazade mahallesi mithatpaşa caddesi TADAL,Arhavi,CDLA-Permissive-2.0,Overture|meta
-2837f0dd-9ae3-48e8-a1b4-126610207a2a,Arhavi Kemer Köprü,SIGHT,41.349243,41.311543,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-fc154210-668b-4e77-a625-bb4c37702fd8,Bitat Ekmek Fırını,CAFE,41.346916,41.30917,Şht. Asteğmen Mehmet Altanlar Cad.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-1951f734-4f40-4e91-acae-92bbb953520d,Liberta Cafe,RESTAURANT,41.352715,41.310371,Erol Çarmıklı Caddesi 11,Arhavi,CDLA-Permissive-2.0,Overture|meta
-cad56177-d141-46fd-8564-74ca8819451b,Keyf-e Değer künefe katmer baklava pide lahmacun,RESTAURANT,41.352463,41.308334,"tuzcuoglu, şehityükselyılmaz cad No:8 D:1",Arhavi,CDLA-Permissive-2.0,Overture|meta
-01833c3b-7b04-4f4f-808d-39ff3ea5c832,Seyir Cafe Restaurant,CAFE,41.352459,41.308281,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-ebe45c5b-c3be-4672-bdc2-06dd32c481f1,Lale Pastanesi,CAFE,41.352242,41.308319,Belediye Blokları,Arhavi,CDLA-Permissive-2.0,Overture|meta
-6ca26a37-5f24-4bfd-a2bc-491a4e1f7296,Kumsal Cafe & Bar Arhavi,RESTAURANT,41.35252,41.309376,Musazade Mah,Arhavi,CDLA-Permissive-2.0,Overture|meta
-b53a52d3-14ab-4947-a237-ea26787be62c,Sıfır Sekiz Kır Pidesi,RESTAURANT,41.352005,41.309643,Şht. Asteğmen Mehmet Altanlar Cad.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-6396cb5b-0874-4d0b-9204-7920f0d7eba1,Taraça Restaurant,RESTAURANT,41.352009,41.308716,İnönü Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-11242758-065b-4082-b6ef-45a7ed6668ae,06 Lokantası,RESTAURANT,41.3522,41.307365,Atatürk Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-d6d886a7-46c3-40ba-aa92-01473ba6fbc6,BİLbİLan Kuzu DÖNer Sadece Arhavİ'DeyİZ Baska SubemİZ Yoktur,RESTAURANT,41.351784,41.308029,"Yazıcı Döviz Bürosu Yanı, İnönü Blv.",Arhavi,CDLA-Permissive-2.0,Overture|meta
-addb0e60-d91c-47a1-8d8e-ef7ec477cbb8,Hot Döner,RESTAURANT,41.351601,41.308342,İnönü Blv. No:97,Arhavi,CDLA-Permissive-2.0,Overture|meta
-93d7b717-df68-45f1-bd6a-38e31dad4bc6,Jin Cafe & Pub,RESTAURANT,41.351753,41.307598,"Molla İş Hanı, Kat:6",Arhavi,CDLA-Permissive-2.0,Overture|meta
-a7960316-2989-4099-990a-6f5a3f0938fc,Ambar kuruyemiş & şarküteri,SHOPPING,41.351505,41.307629,"İnönü Blv. No:32, 08200",Arhavi,CDLA-Permissive-2.0,Overture|meta
-ee1b8516-1e9d-448a-8432-37ae0e5fc98d,Beyzade Ev Yemekleri,RESTAURANT,41.351589,41.3083,İnönü Blv. No:97,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c448308f-3043-4152-a3b7-e09a9e1cc47c,Gresta Pide,RESTAURANT,41.3517,41.308815,İnönü Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-4b72e27d-8bcb-4135-8c57-d2f18f814e35,Kapi̇stona Kapistona Cay Ocaği,CAFE,41.351704,41.309204,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-33dd4ebf-3124-4cc0-ab44-7f7c77174d4d,Lu Cafe&PatİSserİE,RESTAURANT,41.349766,41.307281,Kazım Karabekir Cd. no:17,Arhavi,CDLA-Permissive-2.0,Overture|meta
-a207971e-f0cc-4a99-b92a-48a01ddf5cc0,Arhavi TAS FIRIN,CAFE,41.350761,41.306618,Muszade mahallesi mellet caddesi köy durakları arkası arhavi tas fırın,Arhavi,CDLA-Permissive-2.0,Overture|meta
-d2b87490-57aa-423f-a89c-ae52335d0aaa,Teke Tek Efes Pub,RESTAURANT,41.350971,41.307659,Fevzi Çakmak Cd. No:34,Arhavi,CDLA-Permissive-2.0,Overture|meta
-3a412c62-0778-488f-83f8-009d3ad6a8e3,Homula Cafe & Bistro,CAFE,41.351208,41.307713,musazade mahallesi şehit er mürsel özdemek pasajı no: 3a,Arhavi,CDLA-Permissive-2.0,Overture|meta
-910f3910-d918-4d46-b760-5b198bca5c35,Arhavi Dergah Pastahanesi,CAFE,41.351093,41.306652,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-babc1581-de1e-44d2-835e-cef32494590e,Sarı Siyah Balık,RESTAURANT,41.3512,41.303623,Nurettin Çarmıklı Cd. a1,Arhavi,CDLA-Permissive-2.0,Overture|meta
-d6cd4fb9-5acc-427d-8193-ba263e6965f1,Rafet'in Yeri Balık Lokantası,RESTAURANT,41.351025,41.303867,Nurettin Çarmıklı Cd.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-01b5ea28-3aab-42c7-bdef-fa6cc3316786,Akyüz Balık Lokantası,RESTAURANT,41.350964,41.303875,Nurettin Çarmıklı Cd.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-788d816d-f900-4b3e-b5ea-52a7bb823947,Çitir Pi̇de - Lahmacun & Kebap Salonu,RESTAURANT,41.350815,41.304222,İnönü Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-b96ebed8-bec7-4541-81b1-47d9450cbb73,Bizum Pide&Akçaabat Köfte,RESTAURANT,41.350761,41.303558,Arhavi Şehirlerarası Otobüs Terminali no:4,Arhavi,CDLA-Permissive-2.0,Overture|meta
-934a8cdf-7385-4d5e-98e6-0d04afc07168,Arhavi spor otel restaurant,HOTEL,41.350742,41.304253,salih caddesi sağlık ocağı yanı,Arhavi,CDLA-Permissive-2.0,Overture|meta
-efb8ba8d-a404-4439-9c7a-088b5eac0882,Kardeşler Lokantasi Arhavi,RESTAURANT,41.350712,41.304245,Musazade Mah. Yeni Camii yanı otogar karşısı,Arhavi,CDLA-Permissive-2.0,Overture|meta
-f4709a25-6f46-4812-bfc5-4017a78eaa2e,İkizdere,SIGHT,41.350723,41.304474,İkizdere,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c747ab87-a106-4222-823b-1c3210ded706,Aytun DaĞ Evİ,HOTEL,41.350727,41.30447,"Arhavi, Artvin, Türkiye",Arhavi,CDLA-Permissive-2.0,Overture|meta
-92ed51a9-36fc-4a45-9d43-7873715f6f80,Umca Alabalık Tesisleri.,RESTAURANT,41.350746,41.304302,A . Şahinler,Arhavi,CDLA-Permissive-2.0,Overture|meta
-731661d1-4e14-4c01-a22f-c9bfa554598c,mençuna restaurant,RESTAURANT,41.350819,41.304417,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-f1f344d4-151f-4756-9154-680bb4429abb,Komagene Arhavi,RESTAURANT,41.350132,41.302387,Eti Cd. No:3A,Arhavi,CDLA-Permissive-2.0,Overture|meta
-8f8134ba-3328-4d5a-a1cc-1307145d2fdf,Tuna Cafe,CAFE,41.350281,41.302265,"Boğaziçi mahallesi,etiler caddesi, bizum fırın karşısı",Arhavi,CDLA-Permissive-2.0,Overture|meta
-7c975bd5-fd8c-4596-9bab-42327556d0b9,Umut Cafe Fast-Food,RESTAURANT,41.350178,41.301754,boğaziçi mh eti cd. atalay apt. no:8,Arhavi,CDLA-Permissive-2.0,Overture|meta
-5d7d3bd8-d4f0-456c-a6e9-474ac7a5bfdb,Gönül Çay Evi,CAFE,41.350834,41.300915,6. Sk.,Arhavi,CDLA-Permissive-2.0,Overture|meta
-86b54f55-b41f-4f27-aece-e05afdb75c26,Kiyicik Plaji,SIGHT,41.332138,41.254566,Arhavi,Arhavi,CDLA-Permissive-2.0,Overture|meta
-9fcb8592-9f05-4ba1-8aed-837e9a3ff02a,Pagen Bungalow,HOTEL,41.355762,41.429489,,Hopa,CDLA-Permissive-2.0,Overture|meta
-56ecaa2c-3cec-40d5-8e52-f7863c35a233,Kazım Koyuncu Anıt Mezarı,SIGHT,41.362442,41.402088,,Hopa,CDLA-Permissive-2.0,Overture|meta
-eab6cd66-3401-4752-b90f-234a6f8de4ce,Hopa Sahıl,SIGHT,41.376678,41.392097,,Hopa,CDLA-Permissive-2.0,Overture|meta
-f989f049-bf03-4a1c-81da-586937743d19,�UĞUr’Lu KokoreÇ�,RESTAURANT,41.371326,41.431599,Sundura mah. Viyadük karşısı,Hopa,CDLA-Permissive-2.0,Overture|meta
-11866b26-38c8-4435-8712-c02f8f56fe88,"Hendek, Hopa",SIGHT,41.365993,41.4487,,Hopa,CDLA-Permissive-2.0,Overture|meta
-e225b96f-9773-49f2-8d88-ff12f9ecd8bc,Kameni Alabalık Tesisi,RESTAURANT,41.378326,41.560898,,Borçka,CDLA-Permissive-2.0,Overture|meta
-9938de32-be0f-4768-a5c4-0950a07a2c19,Kamelya Alabalık,RESTAURANT,41.374668,41.558941,Kameni mevkii 1. km,Borçka,CDLA-Permissive-2.0,Overture|meta
-cb5f3637-9a61-45dd-852b-62df1c1a0491,Jileni Napşit,SIGHT,41.325554,41.369164,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-ff7b68ef-7cb7-44b5-a9c0-bd14f2e4ddae,Pilarget kır evi,HOTEL,41.317726,41.393166,Artvin Arhavi,Arhavi,CDLA-Permissive-2.0,Overture|meta
-9e817d7d-5811-4c24-a4db-c49059ed7b4c,Mini Lui Bungalov,HOTEL,41.319996,41.368778,Mevkii No:21,Arhavi,CDLA-Permissive-2.0,Overture|meta
-f9fd211d-a0d5-4376-bfd4-98ac87e5d58f,Orci Bulutlara Komşu Caffe,CAFE,41.303978,41.387451,Üçler Köyü,Arhavi,CDLA-Permissive-2.0,Overture|meta
-56858f15-a087-4444-b04c-25f794513dc5,"Ortaköy, Arhavi",SIGHT,41.284161,41.384716,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-24ce5701-5472-41e9-9fd0-e0ba81f2c39c,Çifte Kemer Köprüsü Arhavi,SIGHT,41.277302,41.364525,,Arhavi,CDLA-Permissive-2.0,Overture|meta
-2b00c2bb-7f58-4b58-b96f-f891faf8c113,Çifte Köprü Restaurant,RESTAURANT,41.276108,41.375702,Arhavi Ortacalar Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c504df8e-c771-48ce-84b4-5adbc6a9cedc,Çiçek Patisserie,CAFE,41.277729,41.560989,Damar Caddesi 35,Murgul,CDLA-Permissive-2.0,Overture|meta
-d45505cc-8e95-40b4-b993-7f35f00432fd,Göktaş Ekmek Fırını,CAFE,41.278381,41.562206,Cumhuriyet Cd.,Murgul,CDLA-Permissive-2.0,Overture|meta
-a44015af-cf5d-4f16-8207-f079f7f435e2,GONCA Restaurant,RESTAURANT,41.278305,41.562084,CUMHURİYET CAD KÖPRÜBAŞI MEVKİİ,Murgul,CDLA-Permissive-2.0,Overture|meta
-0792fb4f-e265-4fdd-a34e-d8be8d5f5430,Femor cafe ve pastane,CAFE,41.278519,41.562176,,Murgul,CDLA-Permissive-2.0,Overture|meta
-3ecb17e8-b881-4f2a-95a1-573301e8f6f6,Efkar Tepesi,SIGHT,41.279728,41.56126,,Murgul,CDLA-Permissive-2.0,Overture|meta
-19f41883-9d73-4a60-9d38-bc739341cc62,Efkar Tepesi,SIGHT,41.280281,41.561382,,Murgul,CDLA-Permissive-2.0,Overture|meta
-79885188-d873-4f4c-9f28-76646796f9dc,Deliklikaya Alabalık Çiftliği ve Restoran,RESTAURANT,41.283989,41.516529,,Murgul,CDLA-Permissive-2.0,Overture|meta
-372ee548-c547-4e3f-bfb4-cf6cae581fd2,Murgul Başköy,HOTEL,41.297668,41.526222,,Murgul,CDLA-Permissive-2.0,Overture|meta
-30b444de-6b55-45ed-abc6-2ee36221a91c,Murgul manzara tepesi,CAFE,41.289585,41.566326,manzara tepesi,Murgul,CDLA-Permissive-2.0,Overture|meta
-d6433c59-7958-432a-a657-8494bf485ac9,Kokolet Vadisi - Murgul,SIGHT,41.291679,41.579063,,Murgul,CDLA-Permissive-2.0,Overture|meta
-241c1d04-5013-45e4-9217-845950c6170b,Dostlar Lokantası,RESTAURANT,41.278419,41.563057,Cumhuriyet Cd.,Murgul,CDLA-Permissive-2.0,Overture|meta
-f041135b-8bd5-4284-b5bf-dfa7a9b7d777,Ayka Restoran Murgul,RESTAURANT,41.2784,41.563011,Ayka Pide Ve Izgara Salonu,Murgul,CDLA-Permissive-2.0,Overture|meta
-24b9eaaa-eed0-4de2-b328-acce578283dc,Eva Cafe,CAFE,41.27845,41.567669,,Murgul,CDLA-Permissive-2.0,Overture|meta
-3eaac60a-5e88-4d3f-8fdb-00d8a88ad54b,Delikli Kaya Şelalesi,SIGHT,41.274288,41.500488,,Murgul,CDLA-Permissive-2.0,Overture|meta
-6cf541a9-0a69-4a12-90b6-fd62c3ea4a8d,Mençuna Konakları,HOTEL,41.267807,41.370819,Kamilet Vadisi Mençuna şelalesi mevkii,Arhavi,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-4ddb5275-1cda-4235-80c0-86a7b33e4e9e,Vadi Restoran ve Konaklama,RESTAURANT,41.258179,41.359348,Kamilet Vadisi No:1 Arhavi/Artvin,Arhavi,CDLA-Permissive-2.0,Overture|meta
-c6c5c757-d4db-4b84-a1a2-35df23c7e9d4,Kamilet otel ve restoran ,HOTEL,41.252041,41.354832,Kamilet Köyü İç Yolu\n08290 Arhavi Artvin\nTürkiye,Arhavi,CDLA-Permissive-2.0,Overture|meta
-4f0ef1ab-c508-4d94-ab6b-7d8d223fabab,Mençuna Konakları,HOTEL,41.240189,41.351593,Kamilet Vadisi Mencuna Şelalesi Mevkii,Arhavi,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-c49f0952-3028-4b35-b498-aad5b338e4c9,Gevul Dağı Yaylası,SIGHT,41.132832,41.558701,"4H54+8MQ Taşlıca, Artvin Merkez/Artvin",Murgul,CDLA-Permissive-2.0,Overture|meta
-d8760009-f8ee-4a10-ba78-7b03e1a9efc4,"Karahan Pension Barhal, Artvin-Turkey",HOTEL,40.970119,41.382908,"Barhal Kilisesi, Altıparmak Köyü",Yusufeli,CDLA-Permissive-2.0,Overture|meta
-4a813411-c899-4357-9c4c-1995f9f19169,Karahan pansiyon,HOTEL,40.970119,41.382908,"Altıparmak(Barhal) Köyü Yusufeli Artvin, Karahan Pansiyon",Yusufeli,CDLA-Permissive-2.0,Overture|meta
-188716c9-b2b0-41ea-bd03-af97390bb4fa,Barhal Manastırı,SIGHT,40.970314,41.383472,Altıparmak Köyü,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-a39d1fb8-1ec6-4134-8313-21460e146e04,Barhal,SIGHT,40.967552,41.397106,"Barhal,Altıparmak Köyü",Yusufeli,CDLA-Permissive-2.0,Overture|meta
-a1558081-9b60-4439-a1a1-196a6c60c1b8,Tepe Restorant,RESTAURANT,41.379791,41.398857,D010,Hopa,CDLA-Permissive-2.0,Overture|meta
-d244748b-384a-4ab0-acdf-3f2a152d944a,Terzioğlu Otel,HOTEL,41.388203,41.413197,Sundura Mah. Rize Cad Sundura Çay Fabrikası Yanı No:27,Hopa,CDLA-Permissive-2.0,Overture|meta
-9c41743c-9709-4a33-b4dc-b1d6b626a674,Terzioğlu Cafe & Bar,CAFE,41.388798,41.413872,Rize Yol Üzeri Terzioğlu Otel Alti,Hopa,CDLA-Permissive-2.0,Overture|meta
-825fac58-9e9b-44c6-88e6-10e8a8c3f42e,Hopa Sahıl,SIGHT,41.387547,41.417622,,Hopa,CDLA-Permissive-2.0,Overture|meta
-ca0a1a89-efa0-4c57-947e-4c22f6bcf3b4,Paleni cafe,CAFE,41.388126,41.417812,Trafo Cd. No:15,Hopa,CDLA-Permissive-2.0,Overture|meta
-4dd10e79-b7e8-42bb-875a-1950da2f7fa3,Hopa Örnek Ekmek Fırını,CAFE,41.388885,41.418289,Lise Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-b75969dc-6932-4aa5-a825-d3bff8ec64d9,Yeğenoğlu Market tekel Şarkuteri,SHOPPING,41.390144,41.416248,,Hopa,CDLA-Permissive-2.0,Overture|meta
-1ce8c806-c12e-4815-b979-3741e9ce474e,�UĞUr’Lu KokoreÇ�,RESTAURANT,41.391724,41.417583,Sundura mah. Viyadük karşısı,Hopa,CDLA-Permissive-2.0,Overture|meta
-d20e3af8-1c92-44cf-aa81-a3dc24b54dad,Memo CaĞ DÖNer,RESTAURANT,41.392689,41.418812,Kars Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-50003fd2-d445-43f2-9546-1ec6f29168f9,Yakutoğlu Pastanesi,CAFE,41.392994,41.41869,Dumlupınar Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-2d6f131e-ac33-43e1-9f9d-26386dbb146d,Cig Kofteci AHMET USTA,CAFE,41.393185,41.418537,Hopa,Hopa,CDLA-Permissive-2.0,Overture|meta
-03370939-68a0-4b94-9f9c-c7970a77d07f,Artvin Cağ Döner Hopa,RESTAURANT,41.393089,41.418545,"sahil caddesi no42, 08600",Hopa,CDLA-Permissive-2.0,Overture|meta
-7e43858e-709d-420a-aa18-d754e8b0b7f5,yazıcıoğlu deniz ürünleri,RESTAURANT,41.392715,41.418453,Kars Cd. Belediye Balıkhaneleri,Hopa,CDLA-Permissive-2.0,Overture|meta
-aa42c0c0-6bfb-45f0-9834-c8459fbac278,Otel Istanbul,HOTEL,41.392662,41.418331,Kars Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-8bb4878d-68ad-44ac-8504-14a7fea25a3d,Hopa Heyamo Hotel,HOTEL,41.393074,41.418316,Sahil Cad No:48,Hopa,CDLA-Permissive-2.0,Overture|meta
-6a65f22f-eadf-4ffb-b3c7-899505d1027b,YALI Restorant,RESTAURANT,41.393818,41.41785,Karadeniz Sahil Yolu,Hopa,CDLA-Permissive-2.0,Overture|meta
-d4fe0a65-6893-4f25-8645-113f99e16399,Nüans Cafe Pub,RESTAURANT,41.393272,41.418655,"Nuans Tekel, Sahil Caddesi 46",Hopa,CDLA-Permissive-2.0,Overture|meta
-dc2e362a-116e-4381-9c1b-1422900fec9f,Baklove'A Cafe & Tatlıcılık,CAFE,41.401638,41.427162,Turgay Ciner Caddesi 86B,Hopa,CDLA-Permissive-2.0,Overture|meta
-abc2c425-ac43-4945-bbc8-659a9f3ebc82,Ortahopa Etibank Yani,SIGHT,41.401257,41.426815,Turgay Ciner Caddesi 90,Hopa,CDLA-Permissive-2.0,Overture|meta
-a431b509-0407-4b35-8a5b-fbc028eb8397,Hopa Kyk Kiz Yurdu,HOTEL,41.398926,41.425838,Hopa,Hopa,CDLA-Permissive-2.0,Overture|meta
-4b59c361-7437-444e-b2b6-23e5f27cce51,Kuzine kebap evi Restoran,RESTAURANT,41.398308,41.423908,Turgay Ciner Cd. Pk:08600,Hopa,CDLA-Permissive-2.0,Overture|meta
-5c9e4660-f85a-45a2-bcd3-184cd8f2eac9,Dios Resim Müzik Sanat Akademi,SIGHT,41.398441,41.424896,Turgay Ciner Caddesi 90C,Hopa,CDLA-Permissive-2.0,Overture|meta
-f1f2505e-d1a6-4e5f-af2e-c8189c41677c,Hotel Peronti,HOTEL,41.399227,41.424824,Turgay Ciner Cd. ،,Hopa,CDLA-Permissive-2.0,Overture|meta
-81c37f12-6568-494d-8b4f-f8b9d5776914,Cihangir Lahmacun / Pide / Kebap Hopa Şubesi,RESTAURANT,41.399609,41.424847,Turgay Ciner Caddesi 41,Hopa,CDLA-Permissive-2.0,Overture|meta
-ba31f4f8-28d6-4d9f-93dc-2d43092993ef,Nana Hotel,HOTEL,41.399681,41.424892,Turgay Ciner Cd. No:46,Hopa,CDLA-Permissive-2.0,Overture|meta
-107f9be0-33d1-4f5d-8203-639960feeb22,Artelye Kahvecisi,CAFE,41.400116,41.425331,,Hopa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-de1e9395-41ca-48d9-9e11-389c16695298,PAP CAFE,CAFE,41.400646,41.425694,Turgay Ciner Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-e831b574-badd-4fbd-8b7a-a95f22db37fd,Artvin Hopa Papila Otel,HOTEL,41.398083,41.423347,Sahil Caddesi 96,Hopa,CDLA-Permissive-2.0,Overture|meta
-7797d14b-e1bc-49fd-8678-00fe1290375c,Hocanın Yeri Akçaabat Köfte,RESTAURANT,41.397446,41.422646,Turgay Ciner Cd. No:29,Hopa,CDLA-Permissive-2.0,Overture|meta
-2d88ea14-8507-4186-90ae-6ed6927ef6f6,Borçka-Karagöl,SIGHT,41.397896,41.422672,,Hopa,CDLA-Permissive-2.0,Overture|meta
-649ecfea-8d4b-4b7a-8531-f9005193754a,Pizza Bakkal,RESTAURANT,41.396881,41.422203,Turgay Ciner Cd. No: 17/A,Hopa,CDLA-Permissive-2.0,Overture|meta
-00bfdbe0-7782-4eb3-8e36-e70250435d37,Mini Pizza Burger,RESTAURANT,41.396809,41.422123,İnönü caddesi,Hopa,CDLA-Permissive-2.0,Overture|meta
-ce69d50b-081b-4a66-b6dc-a6fa478fef49,Hanımeli Kafe,CAFE,41.396149,41.421822,Turgay Ciner Cd. No:12,Hopa,CDLA-Permissive-2.0,Overture|meta
-6e046ddc-9100-4bcf-bc51-0691486b5683,Hopa Hot Döner,RESTAURANT,41.396511,41.421825,Merkez Kuledibi Mah. Maliye Binası Altı,Hopa,CDLA-Permissive-2.0,Overture|meta
-b3864b80-83b2-41e9-98d3-c64b62bdae0f,Cihan Hotel,HOTEL,41.396687,41.421761,Sahil Caddesi 74A,Hopa,CDLA-Permissive-2.0,Overture|meta
-1f1ab135-01a6-46de-880d-c4ca7f6e6408,Garage Cafe Bistro,CAFE,41.397472,41.421631,Sahil Cad No:11,Hopa,CDLA-Permissive-2.0,Overture|meta
-9bbd6f2b-f492-4503-949a-56a3f6fb5977,Kazim Koyuncu Aniti,SIGHT,41.397346,41.42152,,Hopa,CDLA-Permissive-2.0,Overture|meta
-d70008c4-4ef1-463c-a7aa-51f83ae5ba15,Rengin Cafe,CAFE,41.397247,41.421516,,Hopa,CDLA-Permissive-2.0,Overture|meta
-fba4648f-ea56-40b7-846c-9905e465d433,Cennet Pastanesi,CAFE,41.396252,41.421524,Turgay Ciner Cd. No:12,Hopa,CDLA-Permissive-2.0,Overture|meta
-63eb21e7-2a24-4446-a616-5822e2268cf6,Atapark Depur,CAFE,41.396343,41.420372,Sahil caddesi No:11,Hopa,CDLA-Permissive-2.0,Overture|meta
-94ca7c23-97bf-40c2-901e-c6ebc0d9f81c,İstasyon Cafe,CAFE,41.396584,41.420876,"Kuledibi Mahallesi, Sahil Caddesi No:7",Hopa,CDLA-Permissive-2.0,Overture|meta
-354ffd54-bdf1-4d01-8a73-2bd0c0506c26,Green Garden Cafe & Kebap Salonu,CAFE,41.395817,41.421089,Kaymakanlık Önü,Hopa,CDLA-Permissive-2.0,Overture|meta
-5862a9f9-0892-4aee-b93a-be078016f2d2,Hopa Titanik Eglence Merkezi,CAFE,41.395241,41.420597,Hopa İş Merkezi 4 Kat,Hopa,CDLA-Permissive-2.0,Overture|meta
-b80b12f7-dbc1-4bcf-a651-13a67e03c7a1,Titanic Restoran,RESTAURANT,41.395359,41.420971,Turgay Ciner Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-8564e4e3-0755-4102-a759-52c30de7a82a,Hopa Ogretmen Evi,HOTEL,41.393814,41.420673,Cumhuriyet Meydanı,Hopa,CDLA-Permissive-2.0,Overture|meta
-0ce8a083-bbfc-43ba-a752-9343a08f9dc4,Karabulut Butik Otel,HOTEL,41.394611,41.420326,MAH.CUMHURİYET MEYDANI NO:6,Hopa,CDLA-Permissive-2.0,Overture|meta
-4ce35f8a-c7f3-47d7-bc6f-939937c369b9,Mekan Pançuni,RESTAURANT,41.394127,41.420025,Metin Lokumcu Meydani,Hopa,CDLA-Permissive-2.0,Overture|meta
-86e21df3-8c75-47e7-8d74-7484e52fcdf3,Pançuni Et Mangal,RESTAURANT,41.394196,41.420063,,Hopa,CDLA-Permissive-2.0,Overture|meta
-01056817-ead2-4a32-ac80-ae4da7a28f0b,Kani Usta Döner,RESTAURANT,41.394554,41.420261,Cumhuriyet Caddesi 32,Hopa,CDLA-Permissive-2.0,Overture|meta
-3fb11bbb-3aa5-499e-b34c-d9ca46f5e616,Kral Restorant,RESTAURANT,41.394489,41.42009,Sahil Caddesi 9/b,Hopa,CDLA-Permissive-2.0,Overture|meta
-75b0d81d-445d-4fa8-b117-117142b8d08b,Salaş Cafe,CAFE,41.394764,41.420128,"AL-TO İş Merkezi Üstü, Cumhuriyet Meydanı",Hopa,CDLA-Permissive-2.0,Overture|meta
-a99f347a-cdb8-46a2-92d5-7c385be91650,Katık Döner Hopa,RESTAURANT,41.395016,41.420368,Merkez kuledibi mahallesi Cumhuriyet Meydanı 12:D ,Hopa,CDLA-Permissive-2.0,Overture|meta
-338669ba-412f-4b9f-b3d2-052ff339ff91,Beyaz Saray Hotel,HOTEL,41.394711,41.420395,Turgay Ciner Cd. No:7,Hopa,CDLA-Permissive-2.0,Overture|meta
-a26d7b02-41ee-46d6-b64e-b393e4936f41,Nanna Pastahanesi,CAFE,41.394787,41.420464,,Hopa,CDLA-Permissive-2.0,Overture|meta
-8a22b361-02d7-46ae-880a-154dc8e0f34f,Cafe Vista,CAFE,41.394756,41.420483,Turgay Ciner Cd. No:110 Kat:5,Hopa,CDLA-Permissive-2.0,Overture|meta
-6b40a0a1-7579-4c07-8e2d-7b921c81689c,Beslen Lokantası,RESTAURANT,41.395306,41.420532,Eski Hopa Artvin Yolu,Hopa,CDLA-Permissive-2.0,Overture|meta
-9d18b656-508a-4643-8f68-10828059fe3f,Murtezz Kebap & Pide Sarayı,RESTAURANT,41.395271,41.419613,,Hopa,CDLA-Permissive-2.0,Overture|meta
-abcd50b2-d5b1-4780-8f36-df1eaf593a0c,Waffle Evi'mm,CAFE,41.395832,41.419441,"Parkı, 14 Mart Cd.",Hopa,CDLA-Permissive-2.0,Overture|meta
-5bdda159-2483-4716-aedd-c1ed0038b294,Oziden pide,RESTAURANT,41.39518,41.41885,Sahil Caddesi 7,Hopa,CDLA-Permissive-2.0,Overture|meta
-1ffa032c-3faa-4d49-8130-1f217249e933,Rize Sahil,SIGHT,41.394978,41.418907,Rize Sahil,Hopa,CDLA-Permissive-2.0,Overture|meta
-56956602-4c80-4fd7-83ca-06a4566a9376,Sönmez Kafe,CAFE,41.395367,41.419392,sahil cd no:5,Hopa,CDLA-Permissive-2.0,Overture|meta
-5db7a864-87ea-425c-bd68-5abcd84136d9,Huzur Otel,HOTEL,41.393658,41.419071,"Akbank yanı, Sahil Caddesi No: 56",Hopa,CDLA-Permissive-2.0,Overture|meta
-cf2d8feb-5eec-4e70-a424-ac0e31077aab,Ustabaş Otel,HOTEL,41.39344,41.418892,Dumlupınar Cd. No:56,Hopa,CDLA-Permissive-2.0,Overture|meta
-46a8e058-084d-45b8-8918-827945658eb3,Aspirin Pide ve Kebap Salonu,RESTAURANT,41.393372,41.418991,Dumlupınar Cd. No:21,Hopa,CDLA-Permissive-2.0,Overture|meta
-6cafa2ef-0e14-4374-90f0-1c1b01076faa,Mavi Ay Birahanesi,RESTAURANT,41.39357,41.419254,Dumlupınar Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-9759263a-2668-4f8d-bad5-aafee7549712,Hopa Gülcihan Park Otel,HOTEL,41.39386,41.4193,,Hopa,CDLA-Permissive-2.0,Overture|meta
-a624022d-9502-4161-9a00-0e9e93d52511,Manolya Pastanesi,CAFE,41.393906,41.41938,MERKEZ KULEDİBİ MAHALLESİ SAHİL CADDESİ AKBANK YANİ NO:58,Hopa,CDLA-Permissive-2.0,Overture|meta
-5c9e5693-6258-4541-922c-9496062a719a,Garci Cay Evi,CAFE,41.393951,41.419579,,Hopa,CDLA-Permissive-2.0,Overture|meta
-93333924-1c27-48d9-84ac-5160ba8d98c9,HOPA SARAY Pastanesi,CAFE,41.394009,41.419521,Sahil cad. Gazioğlu İşhanı Altı,Hopa,CDLA-Permissive-2.0,Overture|meta
-b3d59e92-0fcb-4acf-9a44-00c87de88857,Çarkçı Lokantası,RESTAURANT,41.394051,41.419521,Dumlupınar Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-688bacae-52c5-495d-8c9a-6815325fc673,Hopa Anl Otel,HOTEL,41.394287,41.419907,CUMHURİYET MEYDANI,Hopa,CDLA-Permissive-2.0,Overture|meta
-89cf76a8-6d4d-4ef2-b835-5f0042875b05,Kristal Pide,RESTAURANT,41.392776,41.419853,,Hopa,CDLA-Permissive-2.0,Overture|meta
-8eda374d-1bed-43d0-9b8f-160f88a781ca,Koliba,RESTAURANT,41.392696,41.419426,1. Cadde 1A,Hopa,CDLA-Permissive-2.0,Overture|meta
-2b34a5cf-4ed5-497d-ac13-796735d5b98c,Örnek Simit Unlu Mamülleri,CAFE,41.392712,41.419628,Eski Kars Cad,Hopa,CDLA-Permissive-2.0,Overture|meta
-53327ed5-ccc7-4fe9-8663-9c20035702ba,Chicker's,RESTAURANT,41.39278,41.419353,,Hopa,CDLA-Permissive-2.0,Overture|meta
-902fc35e-3cba-4b4c-9432-f5a5b6f22f0d,KÜÇÜK EV,CAFE,41.393066,41.419167,Cami meydanı HOPA / ARTVİN,Hopa,CDLA-Permissive-2.0,Overture|meta
-70364670-1be0-414d-a903-bfd9bd4629ab,Hotel Flash,HOTEL,41.391403,41.419872,Artvin Cd. No:20,Hopa,CDLA-Permissive-2.0,Overture|meta
-4d6d99a4-41ff-44d9-aa4b-0e7b326e058e,Hopa Tan Elektrik,SHOPPING,41.392399,41.420784,Kars Caddesi Turan Altıntaş İş Merkezi,Hopa,CDLA-Permissive-2.0,Overture|meta
-e7748dea-65a5-4512-85ac-cc25008bc0a1,Hızır Dayı Pide,RESTAURANT,41.392464,41.421146,Kars Cd. No:71,Hopa,CDLA-Permissive-2.0,Overture|meta
-80ae0cd5-1661-4f75-9d10-4cd30af68ff2,Garden Kebap,RESTAURANT,41.395817,41.421356,Turgay Ciner Caddesi 5,Hopa,CDLA-Permissive-2.0,Overture|meta
-61dfbdae-5aed-4752-bebf-3d5d68c47149,Art Cafe,CAFE,41.395676,41.421555,,Hopa,CDLA-Permissive-2.0,Overture|meta
-965e144a-b58c-49b3-aa62-1f72ad0f4551,Paluri Hotel,HOTEL,41.390591,41.423107,Artvin Cd. No: 28,Hopa,CDLA-Permissive-2.0,Overture|meta
-5e51bac4-aa72-406e-820f-2b1a1eae3ce9,Gazi Lokantası,RESTAURANT,41.386822,41.422852,"Sundura Mahallesi, Dumlupınar Cad., 08600 Hopa/Artvin",Hopa,CDLA-Permissive-2.0,Overture|meta
-276f8486-878d-4c6f-8408-edbafee1abd5,Özel Ümit Yüksek Öğrenim Erkek Öğrenci Yurdu,HOTEL,41.387012,41.421246,Lise Caddesi 62,Hopa,CDLA-Permissive-2.0,Overture|meta
-3ca78a38-8549-42ec-b1ec-2ea41ed47cf5,Karslı Ticaret  Hopa Arhavi Fındıklı Ardeşen,SHOPPING,41.390209,41.421558,3. Cadde,Hopa,CDLA-Permissive-2.0,Overture|meta
-9681fe44-a91c-42fa-941f-c14bfb346d20,Hopa Sundura Mh,HOTEL,41.388874,41.420918,"Emek Tuhafıye, 3. Cadde 23",Hopa,CDLA-Permissive-2.0,Overture|meta
-a79a75ca-c3b8-4081-b93f-b68db6d80439,Dido Pasta & Cafe,CAFE,41.388229,41.425011,Lise Cd. No:46,Hopa,CDLA-Permissive-2.0,Overture|meta
-5bc66649-883e-4736-962e-776253bac7ff,Taşköprü,SIGHT,41.385818,41.430328,Sundura Mah,Hopa,CDLA-Permissive-2.0,Overture|meta
-a90b7d7b-bb9a-4a81-934c-38b809a69971,Hopa Sundura Mh,HOTEL,41.386818,41.429802,"Emek Tuhafıye, 3. Cadde 23",Hopa,CDLA-Permissive-2.0,Overture|meta
-de34d21f-b199-400a-bfeb-a59614496086,Hopa Ata Park Restoran,RESTAURANT,41.385906,41.429462,,Hopa,CDLA-Permissive-2.0,Overture|meta
-b759a327-f902-491f-a216-9d113b56aa98,Pasalı Dayı'Nın Yeri,RESTAURANT,41.387272,41.444691,Yeni Artvin Yol Üzeri,Hopa,CDLA-Permissive-2.0,Overture|meta
-089edc94-543f-459a-a174-3a825e947669,Queens Cafe,CAFE,41.387859,41.444702,,Hopa,CDLA-Permissive-2.0,Overture|meta
-da38924a-b6be-4d94-a51d-80a7ae528f08,Hopa Müzesi Ve Kültür Evi,SIGHT,41.405895,41.432869,,Hopa,CDLA-Permissive-2.0,Overture|meta
-06f0897a-e2e5-414b-9d53-9fe7ea329dba,Hopa Dergah Pastanesi,CAFE,41.405045,41.429379,"Lıman Bufe Enez, Sahil Caddesi 170",Hopa,CDLA-Permissive-2.0,Overture|meta
-987ecbc9-f7bc-4bb0-a57a-0ea271ff065e,Ayyıldız Park Avm,SIGHT,41.405273,41.429958,Ortahopa mah. Sahil cad. No:244/35,Hopa,CDLA-Permissive-2.0,Overture|meta
-41f281a8-ded2-472d-9f56-a6f20c7841c4,Muppa Coffee bakery,CAFE,41.403183,41.429386,Turgay Ciner Cd. 100/A,Hopa,CDLA-Permissive-2.0,Overture|meta
-445b9d4c-4976-48ca-83fe-4f1e1af96bbb,Lalezar,CAFE,41.403442,41.429348,Turgay Ciner Cd. No:103,Hopa,CDLA-Permissive-2.0,Overture|meta
-7ca5c97c-f892-46b3-962d-9307736a839e,The Burger House Coffee&Grill,RESTAURANT,41.403446,41.429665,Turgay Ciner Caddesi,Hopa,CDLA-Permissive-2.0,Overture|meta
-c7d31c46-a88a-4b01-b0fe-e238baf5154c,Ayvalik Tost Evi,CAFE,41.403694,41.429722,Turgay Ciner Cd. No:107,Hopa,CDLA-Permissive-2.0,Overture|meta
-d2f80671-10b9-4b43-9fa9-bd91cbffd400,"Orion Coffee / Pide, Lahmacun & Pizza",CAFE,41.402782,41.428894,Turgay Ciner Cd. 96AB,Hopa,CDLA-Permissive-2.0,Overture|meta
-0c715b19-f926-4699-ad76-b9652c30f6b4,Elit Tower,SIGHT,41.402588,41.428711,Orta Hopa Mah,Hopa,CDLA-Permissive-2.0,Overture|meta
-ad72ebac-ccad-4715-96de-4ff908d6abd8,Semazen Kafe,CAFE,41.402611,41.428196,Turgay Ciner Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta
-fc982bb1-5f92-4cfd-b5a2-4feb9530696e,Batum Plaj,SIGHT,41.46027,41.473915,,Hopa,CDLA-Permissive-2.0,Overture|meta
-c91f9a34-91f6-432f-896f-bf22271a407f,Çiftlik Restoran,RESTAURANT,41.460014,41.477615,Plaj Üstü,Hopa,CDLA-Permissive-2.0,Overture|meta
-800fbeaa-e6ca-458e-a98d-e362cc7e36f6,Kopmuş Plajı,SIGHT,41.454746,41.472004,,Hopa,CDLA-Permissive-2.0,Overture|meta
-b19a990c-7cfb-4dee-802c-811d88780b9b,Kopmuş cafe restaurant,RESTAURANT,41.454597,41.472012,E70,Hopa,CDLA-Permissive-2.0,Overture|meta
-51a4721f-ef54-4678-9b58-7f6e8469c3e5,Mukem Kafe,CAFE,41.458134,41.472755,,Hopa,CDLA-Permissive-2.0,Overture|meta
-0f248c95-11a3-45fe-8a18-b50f46965205,Esenkıyı Tır Parkı,SIGHT,41.439407,41.455292,,Hopa,CDLA-Permissive-2.0,Overture|meta
-8eb0158e-6fdb-4058-be17-b21174248677,"Esenkıyı (Azlaga, Abuislah)",HOTEL,41.440857,41.456753,,Hopa,CDLA-Permissive-2.0,Overture|meta
-fa9eb853-e21a-4f21-bd3a-05e531799cff,Esenkıyı Aile Çay Bahçesi,CAFE,41.441139,41.456657,"Hopa Artvin TR, Karadeniz Sahil Yolu",Hopa,CDLA-Permissive-2.0,Overture|meta
-c00a603c-2654-43ce-b27e-d6f834bb165f,Toprak Saha Tır Parkı,RESTAURANT,41.43969,41.45591,,Hopa,CDLA-Permissive-2.0,Overture|meta
-2baf111d-4410-4c88-9118-08d060394a20,Esenkıyı Sahili,SIGHT,41.440643,41.455853,,Hopa,CDLA-Permissive-2.0,Overture|meta
-dc589449-c1d0-4a79-a903-2f46759a4ff9,"Esenkıyı, Hopa",SIGHT,41.439693,41.463394,,Hopa,CDLA-Permissive-2.0,Overture|meta
-f70ae3e4-c405-48cc-aea2-478f7558f909,"Başköy, Hopa",SIGHT,41.415997,41.462494,,Hopa,CDLA-Permissive-2.0,Overture|meta
-c6189eae-ee45-4b12-b49f-0dc549bb5825,Aden Konutları Hopa/ARTVİN,SIGHT,41.401943,41.452229,Merkez Kuledibi Mah. 18. Sokak No:6,Hopa,CDLA-Permissive-2.0,Overture|meta
-d166f4ea-9267-4ec8-9e10-b3185331b56c,"Liman, Kemalpaşa",SIGHT,41.466999,41.492393,,Hopa,CDLA-Permissive-2.0,Overture|meta
-b118251f-381b-4e78-8fdb-f926ce5b9f3e,Subaşı Viyadüğü-Hopa/Artvin,SIGHT,41.384697,41.505718,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-92b1dd1b-829a-4170-a94b-e6273d1dafcc,Mem-Et Doğa Restaurant,RESTAURANT,41.400902,41.516048,Hopa Artvin Yolu No:53,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-10dac890-c66a-4f87-9f8c-1b82522339bb,Odun Ateşinde Çay,CAFE,41.386845,41.553295,Çifteköprü Köyü Yolu,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-d32717cb-ae51-4f7b-9dfc-e9d4cab89f19,Makriyal Ekmek Fırını,CAFE,41.481056,41.527363,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-966b00cc-9922-4383-a51e-38c794909819,Karadeniz aile çay bahçesi,CAFE,41.481087,41.526714,"Karadeniz aile çay bahçesi, İnönü cad no.4",Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-256f9609-4593-41a8-84d0-9e0a4f78c259,Katık Döner Kemalpasa,RESTAURANT,41.481529,41.525467,Gazeteci Uğur Mumcu Caddesi 12,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-905e5401-8d9f-480e-aed4-98026fc1f161,Enerji Dolu Aktif Yaşam Merkezi,CAFE,41.483936,41.525097,Atatürk Bulvarı 14,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-c399f45c-c86d-4ff6-9805-6848415ab0c0,Bageni pide salonu,RESTAURANT,41.482533,41.525913,Sağlık ocağı cad. Kemalpaşa,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-04408bbc-7ee3-4e65-9c2c-f70a67d44b05,Şelala pide salonu,RESTAURANT,41.481415,41.525692,Atatürk Bulvarı 18,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-bcf97406-c55d-4869-9edd-d892fcdb53ae,Dergah Pastanesi kemalpaşa,CAFE,41.481342,41.526367,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-7a54fdcf-6361-4082-b503-cc2a3d34e120,Kemalpaşa Sahil,SIGHT,41.48119,41.52684,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-7070565a-6c32-4dca-80a1-8a5a535aa23f,Karaşahlar,SHOPPING,41.482014,41.527699,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-6e90c80e-8751-4833-a351-794f175258dc,Bena Socks Iç Giyim,SHOPPING,41.486233,41.527504,Hopa,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-22ead29f-e18d-452e-8585-54f7c0ac72bf,Zero Cafe,CAFE,41.488678,41.526695,Makriyal Kilisesi,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-d175cdec-a753-48f5-9f5e-d55503e07c4a,Deniz Sofrasi,RESTAURANT,41.482613,41.523209,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-7c20aff1-68f4-4857-b486-6707974ff356,Kemalpaşa Polis Merkezi,SIGHT,41.483257,41.523418,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-c817ad65-fbc5-406a-9cba-6c7a01b8deff,Miss Ocakbaşı,RESTAURANT,41.482498,41.522942,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-0b5de238-7df2-4f7b-b0c7-c5f538b16de5,Loca Bistro & Pub,RESTAURANT,41.482216,41.522507,Barınak mevkii Küme Evleri 12/1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-af57918b-f5bf-411a-b605-5f4fe964852f,Kasaba MePub,RESTAURANT,41.482117,41.52216,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-66e0d8ab-72ab-4108-ae31-00f2c61aaac4,Göçebe,CAFE,41.483006,41.521534,Barınak Mevki,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-22faebf5-0d7a-4ace-a6d2-0b0a97bada6c,Şevket Baba Balık Restaurant,RESTAURANT,41.481956,41.522015,Kemalpaşa-Sarp Sahil Yolu Üzeri Tünel Çıkışı,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-9c319965-9868-42fc-a4c8-0f4b53cc288f,Çakıl Restorant,RESTAURANT,41.496082,41.531075,Atatürk Bulvarı No:95,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-6a34233a-39e1-44e9-a378-bd63c190decf,Artvin Hopa Kemalpaşa Sahil,SIGHT,41.495426,41.530788,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-b7560dd6-1b73-4286-8272-f3b84ad5fa6f,Risus Country Serender Park,RESTAURANT,41.495285,41.531101,Atatürk Bulvarı No:91,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-e95dd49c-fd1d-481a-91e6-0a22108ffc80,Akasya Balık Restaurant,RESTAURANT,41.494629,41.53043,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-c2c46853-a7cb-4a93-b17e-1162167726cb,Akasya Cafe,RESTAURANT,41.494473,41.530266,Kemalpaşa Sahil,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-18b5a652-3420-4bbe-b282-b64f606f1c12,Akasya Restorant,RESTAURANT,41.494431,41.531601,Atatürk Bulvarı No:87/1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-288ee3d5-0ab4-4dac-8c70-765185546b31,Kulüp,RESTAURANT,41.497761,41.531525,Atatürk Bulvarı 95D,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-0acfa812-3e60-4b95-ad82-fe1b6d449d4b,Tünel Kavşağı Kemalpaşa Sarp,SIGHT,41.502747,41.533695,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-c443f598-b85b-481b-88d6-6f5a38d65b8c,Garvela Bungalow,HOTEL,41.500908,41.535267,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-896f2cdc-9937-4452-a85c-97e78ae4c0f3,Loidevilla,HOTEL,41.492901,41.536037,uzunyalı mah. Dr. Alper temur cad. Karadağ sok. No:1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-55115108-60ba-4257-8a9d-fa70cc04bdea,Cezve Kahve,CAFE,41.492241,41.533737,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-ad798089-802b-4e33-b3e6-3a602b248ad9,Hapito's,RESTAURANT,41.492237,41.533199,İstanbulbazzar Awm,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-ec15d8a4-5f54-455f-ab47-4f1cd5e0f0f4,İStanbulbazaar Avm,SHOPPING,41.492191,41.532894,Dr.Alper Temur Cad,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-aa78ad23-9b24-4ba1-b29a-7a0536d9e0b0,Burger King,RESTAURANT,41.492355,41.532597,Uzunyali Mahallesi Ataturk Bulvari Yesildere Caddesi Istanbul Bazaar AVM No: 55-56 Kemalpaşa,Kemalpaşa,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
-93bcfc09-3118-42a8-a20d-b3205d24f3c3,Sarp Otel / Artvin-hopa,HOTEL,41.491245,41.530136,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-d8f0ea5a-b663-4b2d-94fb-7e837eefbcb0,Sarp Hotel,HOTEL,41.491215,41.530258,Atatürk Bulvarı No: 65/1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-99d232e8-58ae-4f3f-88eb-f4a8f5885366,Ayder Natura Lodge,HOTEL,41.487675,41.529438,Ayder Yaylasi,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-d0a5ee2a-5d20-487d-a6c2-77ce8c855896,Ecevit Tesisleri,RESTAURANT,41.488125,41.529533,Uzunyalı Mah,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-e5de7ca4-7f21-4cbd-b677-b28d8a23a629,Lila Cafe,CAFE,41.485378,41.529556,Lila Düğün Salonu Altı,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-89e18c9e-9f04-42a7-80e9-011c815760d5,Batum Gürcistan Sheraton Otel,HOTEL,41.517372,41.546131,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-ddd6fd57-95b7-4477-b1c1-4493cd107603,Sarpi Beach,SIGHT,41.522568,41.547867,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-8961220e-a495-4684-af13-6beb59abe81b,რესტორანი ანაკლია სარფი • Restaurant Anaklia Sarpi,RESTAURANT,41.52314,41.548923,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-6ac3ba74-cb66-4cfb-a7b7-c1f5e86b8b28,Kvari Hotel,HOTEL,41.521301,41.548573,"Pervi pereulok Ioana Lazi, 33",Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-8e50ca40-348a-4d6c-ae70-9bfac0dc4d06,Sarp Sahil,RESTAURANT,41.473774,41.505753,Kara Deniz Sahil Yolu,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-21840f2e-5ebc-4f55-95e4-cf33f7f22d47,Selimiye Tunnel,SIGHT,41.472221,41.504166,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-c20de731-d283-4577-916b-45886f8cb84e,Armut Duzu,HOTEL,41.476208,41.560425,Kemalpaşa,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-0520be33-8569-4356-b540-078fbf851a7b,Gohula Soğuksu,HOTEL,41.45879,41.572506,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta
-5d24b66f-71da-4a38-8160-07335aa94e20,Mavi Ay Alabalik Uretim Ve Dinlenme Tesisleri,RESTAURANT,41.383343,41.57061,,Borçka,CDLA-Permissive-2.0,Overture|meta
-f31f1ca5-28e0-448d-8e64-8024838dee96,Yedigöller,SIGHT,40.683205,41.670624,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-be53b409-62a7-4ff0-bc68-c5551243395f,"Darıca, Yusufeli",SIGHT,40.737293,41.797394,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-d55a83a2-50ea-4b60-90fe-eb248052960e,Yusufeli Baraji,HOTEL,40.811184,41.640636,yusufeli Limak baraji,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-d6d1dd4a-79d2-4729-8002-7adef448e29a,Yusufeli Barajı Seyir Terası,SIGHT,40.821182,41.658146,Yusufeli Barajı,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-437b59d8-1ab0-4757-a910-24b2cd433355,Yusufeli Baraji,HOTEL,40.821644,41.66293,yusufeli Limak baraji,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-bda74b03-84d2-4535-bd2c-01b4595b7a07,Artvin Yusufeli Barajı,SIGHT,40.82164,41.662567,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-6a0ee943-db4a-4853-98af-ce6320a99fb5,Haran Yaylası (Artvin),SIGHT,40.832207,41.665859,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-e992053b-0a75-45db-86bb-f88c576f5287,Khakhuli Monastery,SIGHT,40.862221,41.760277,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-7fd8800a-4cd0-42ca-806c-09e2cef9a0cd,Malakes,HOTEL,40.853283,41.889534,Olur,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-ce0a2b1e-bc16-4d0f-9db0-805ab8255238,"Aşağımaden, Artvin",SIGHT,40.98333,41.833332,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-d765473b-8ae8-43eb-a0c7-718da63ae094,Artvin Dam,HOTEL,40.93491,41.768658,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-d2fb38b3-4e5c-4e39-827f-a4f14439d49d,"Tarakçılar, Yusufeli",SIGHT,40.933327,41.73333,,Yusufeli,CDLA-Permissive-2.0,Overture|meta
-2ad57088-ce97-455e-904a-c9d72d676325,Hatila Vadisi Millî Parkı,SIGHT,41.185833,41.733883,,Artvin,CDLA-Permissive-2.0,Overture|meta
-ca0ec9f5-e9b7-42af-aca7-cbb428911faf,Avcala Gastro Fikir Sanat,HOTEL,41.202797,41.791939,Yukarı Küme Evler 25A,Artvin,CDLA-Permissive-2.0,Overture|meta
-3aa4fb0e-d476-4266-8979-080d4989f81a,Koru Butik Otel,HOTEL,41.193111,41.81181,"Koru Butik Otel, Yeni Mahalle,Orman Yolu,1. Sok No.2",Artvin,CDLA-Permissive-2.0,Overture|meta
-f1092b1f-9b0e-46e8-b2fd-6ba10c091e4c,Villa Da Butik and Otel,HOTEL,41.188293,41.826427,Kazım Karabekir Cd. No:101,Artvin,CDLA-Permissive-2.0,Overture|meta
-26a5eefe-84db-4cc1-ba97-f40cdfb14ea8,Artvinkoruotel,HOTEL,41.187328,41.817123,yeni mahalle orman yolu sokak:Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta
-643f0077-736e-4bb1-b2e9-2f56d5ba280d,Artrium Shopping Center,SHOPPING,41.186119,41.819649,Sanayi Sk. No :03,Artvin,CDLA-Permissive-2.0,Overture|meta
-2050e6b0-2501-46ff-adc3-f8ab36f52442,Simit Sokağı,CAFE,41.186131,41.819641,Sanayi Sk.,Artvin,CDLA-Permissive-2.0,Overture|meta
-29637301-99f4-46bc-9f65-8956f9819f5e,Şahzade lahmacun,RESTAURANT,41.185364,41.819908,Çarşı,Artvin,CDLA-Permissive-2.0,Overture|meta
-fba7ab08-e522-47ec-b56a-475aab3fa7b7,Artvinim AVM - artvinimavm.com,SHOPPING,41.185505,41.819866,Hastane caddesi,Artvin,CDLA-Permissive-2.0,Overture|meta
-8d975149-cdc5-4db2-b003-b645d5653c6d,Kolorta,SIGHT,41.183784,41.81757,Çarşı Mah,Artvin,CDLA-Permissive-2.0,Overture|meta
-be60c658-4322-4fe4-83e1-000e009d4aab,No1KahveEvi,CAFE,41.183212,41.821064,Miralay Şükrü Bey Cd. No:3,Artvin,CDLA-Permissive-2.0,Overture|meta
-41d5b81f-3419-41b2-8fa0-d5b4fa03fd70,Kaçkar Taş Firini ve Unlu Mamülleri,CAFE,41.182896,41.822472,demircioğlu sok,Artvin,CDLA-Permissive-2.0,Overture|meta
-d1b976d2-060f-479d-9e02-c193aa75ffd7,Numune Ekmek ve Unlu Mamulleri,CAFE,41.182808,41.822853,Miralay Şükrü Bey Cd.,Artvin,CDLA-Permissive-2.0,Overture|meta
-6d1365c8-e917-40aa-a3bc-9093066f37fd,Artbull CAFE,CAFE,41.182682,41.826294,Sakıp Sabancı Sk. No:1,Artvin,CDLA-Permissive-2.0,Overture|meta
-d5f511aa-d242-4ddf-8ce6-98022b33553a,Narlıbahçe Konakları,SIGHT,41.181591,41.826656,,Artvin,CDLA-Permissive-2.0,Overture|meta
-7d8b7530-2cd1-47c2-bd6f-bade82395d16,Gözde pide,RESTAURANT,41.182274,41.820801,Carsi mah selimiye sok merkez cami arkasi,Artvin,CDLA-Permissive-2.0,Overture|meta
-0e902c37-5fd1-4ba8-ae28-703a4db00e44,Çap Çay Evi,CAFE,41.181622,41.821445,Cami Sokak 8,Artvin,CDLA-Permissive-2.0,Overture|meta
-997482b2-0e07-493d-9584-3ba1645514a0,Borcka,HOTEL,41.181835,41.821014,Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta
-ecba671f-d3ca-44f9-a29f-5f8f8fae08a4,Meşhur Kuzu Döner,RESTAURANT,41.181374,41.820648,Çağal Sk. No:2,Artvin,CDLA-Permissive-2.0,Overture|meta
-e18da1c4-4818-49f1-aa36-ae7dc6aac5cc,Çoruh Pide Salonu,RESTAURANT,41.181271,41.82122,,Artvin,CDLA-Permissive-2.0,Overture|meta
-0a99f53e-659b-4517-8e9f-7f525042aa96,Komagene Etsiz Çiğ Köfte,RESTAURANT,41.181122,41.821224,İnönü Cd. No:23,Artvin,CDLA-Permissive-2.0,Overture|meta
-984271fb-c2a1-4b39-a6d6-903bb1b4ca71,Tamara Odaları,HOTEL,41.18129,41.821449,Şavşat,Artvin,CDLA-Permissive-2.0,Overture|meta
-821e53c8-c96e-4a5d-bf67-5bd582e5c094,Mavi Yeşil Restaurant,RESTAURANT,41.181297,41.821445,Hopa Sarp yolu Kopmuş mevkii,Artvin,CDLA-Permissive-2.0,Overture|meta
-932effb3-dec6-4337-90c7-a8cf33de7d68,Akpınar İnternet Cafe,CAFE,41.18132,41.821461,Cumhuriyet Caddesi 3,Artvin,CDLA-Permissive-2.0,Overture|meta
-4eb49da6-f1f1-42cb-99d7-be5799d13f84,Gölge Çay Evi,CAFE,41.181477,41.821533,,Artvin,CDLA-Permissive-2.0,Overture|meta
-fa495746-17a5-42e8-9b87-41d443bc90df,Artvin Cağ Kebap Evi,RESTAURANT,41.181389,41.821754,İnönü Cd. No:11,Artvin,CDLA-Permissive-2.0,Overture|meta
-630452c4-f29a-41c7-b536-38f4f0531db5,Efkar Restoran,RESTAURANT,41.181702,41.822098,Miralay Şükrü Bey Cd. No:2,Artvin,CDLA-Permissive-2.0,Overture|meta
-a5a27785-2161-40f8-95a0-ff2a7d4ca720,Mersivan Otel,HOTEL,41.181068,41.820988,İnönü Caddesi,Artvin,CDLA-Permissive-2.0,Overture|meta
-63c6e5f7-27d4-4c17-87f6-a3bbf22fd9e1,Kafkasör Dağ Evleri,CAFE,41.181023,41.820816,Kafkasör Mevki,Artvin,CDLA-Permissive-2.0,Overture|meta
-7a9c672b-e811-42c1-91b9-339cc0ed4839,Sönmez Çağ Kebab Artvin Merkez,RESTAURANT,41.181,41.820797,,Artvin,CDLA-Permissive-2.0,Overture|meta
-7124feda-ac32-4517-82fa-9cfa461f079a,Artvin Marina Otel ve Restoran,HOTEL,41.180798,41.820843,Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta
-826ec398-66fe-4dfc-bc5d-e9f233b6e5bd,Emin Usta,RESTAURANT,41.179581,41.818321,Öğretmen Taliha Genç Sk.,Artvin,CDLA-Permissive-2.0,Overture|meta
-ee792d93-942e-4232-a78b-5ec51f2bc6d9,2. Cadde Cafe Bar,RESTAURANT,41.179485,41.818119,"3 Gülpaşaoğlu apt 23 08000 Merkez Artvin Merkez Artvin TR, Cumhuriyet Cd.",Artvin,CDLA-Permissive-2.0,Overture|meta
-2ae7284f-1017-4464-8ef1-72c7a92d18cb,Öztürkler Lokantası,RESTAURANT,41.179535,41.817593,çarşı mahallesi kültür sokak girişi öğretmenler evi karşısı,Artvin,CDLA-Permissive-2.0,Overture|meta
-26196966-1864-4d92-b3e4-c08b0f086469,Teras Resto & Bar,RESTAURANT,41.179489,41.817825,7 Sok,Artvin,CDLA-Permissive-2.0,Overture|meta
-f2a1fec6-0cba-4c2d-877e-4c8616f2dfff,360 Cafe & Bistro,CAFE,41.179482,41.81781,Cumhuriyet Caddesi 25,Artvin,CDLA-Permissive-2.0,Overture|meta
-8f3d37cb-ae2e-4abb-83de-8fe6aba0215d,Mersin Tantuni,RESTAURANT,41.17923,41.817825,Çarşi Mah,Artvin,CDLA-Permissive-2.0,Overture|meta
-2335cae1-bf09-4602-8644-71557e993faa,Karizma Çay Evi,CAFE,41.179119,41.817623,,Artvin,CDLA-Permissive-2.0,Overture|meta
-cf24ce02-2490-4e62-a511-70951e872264,Karaşahlar Alışveriş Merkezi,SHOPPING,41.178936,41.817741,inönü cad.,Artvin,CDLA-Permissive-2.0,Overture|meta
-517ef357-4526-4097-b1ce-9a8957d29cb0,Yüzüncüyil AVM,SHOPPING,41.178852,41.817883,İnönü Caddesi 29E,Artvin,CDLA-Permissive-2.0,Overture|meta
-728d0ff8-bcee-43b0-92c9-8517990a8e29,Kıymetli Bahçe,CAFE,41.17812,41.820004,,Artvin,CDLA-Permissive-2.0,Overture|meta
-88fd64c2-b4c2-4c32-8261-902ab9930f5e,Seyır Cafe,CAFE,41.178726,41.817039,Yurttaş Saraç Caddesi,Artvin,CDLA-Permissive-2.0,Overture|meta
-c5f1899b-8ca9-4e5d-b29f-ef7f4302f21d,Cafee Time Bistro,CAFE,41.178921,41.817009,Halkevi Cd. No:1,Artvin,CDLA-Permissive-2.0,Overture|meta
-dc3c787b-41ca-42af-96dd-baf0e9a10b12,Yaman Restoran,RESTAURANT,41.179028,41.817417,Halkevi Cd. No:4,Artvin,CDLA-Permissive-2.0,Overture|meta
-8f80c607-af91-4d8c-9c22-10f2dca20150,Artvin express tavuk cafe & restorant,RESTAURANT,41.179211,41.817379,Cumhuriyet Cd. No:40 D:E,Artvin,CDLA-Permissive-2.0,Overture|meta
-7f8b2562-08e7-4962-b534-46bf03175803,Cadı Kazanı,RESTAURANT,41.179226,41.817333,Cumhuriyet Cd. no 46,Artvin,CDLA-Permissive-2.0,Overture|meta
-fba76ce1-c778-49aa-8e09-10c8ef0c3bda,Şelale Çay Bahçesi,CAFE,41.179272,41.817436,Halkevi Cd. No:8,Artvin,CDLA-Permissive-2.0,Overture|meta
-8787af21-19d5-4666-a9bd-c40e743a1a70,Oktoo coffee,CAFE,41.179337,41.817238,Halkevi Cd. No:7,Artvin,CDLA-Permissive-2.0,Overture|meta
-3abe1904-fc64-4e5b-a446-901eb5b9a141,Patika Kitabevi,CAFE,41.179924,41.816826,Adliye Sk. No:7,Artvin,CDLA-Permissive-2.0,Overture|meta
-d40c3030-3fbd-4457-8fff-1d294d23b453,Limit Pub,RESTAURANT,41.179642,41.818085,Öğretmen Taliha Genç Sk. No:36,Artvin,CDLA-Permissive-2.0,Overture|meta
-b97e3b77-3e87-4abd-9c82-2093d76896d1,Gazihan Hamburger,RESTAURANT,41.180073,41.817787,Halk Evi Caddesi 15,Artvin,CDLA-Permissive-2.0,Overture|meta
-f6dd6194-3a9c-4be3-81f7-b319cef715d5,Cigkofteci Omer Usta,RESTAURANT,41.180286,41.818424,"Çarşı Mahallesi, Sabit Osman Avcı Caddesi. Gözde Apt. No:16/A",Artvin,CDLA-Permissive-2.0,Overture|meta
-81b3721e-0778-4520-9785-24a0cd84d632,İlhan Usta Ardanuç Kuzu Döner,RESTAURANT,41.180004,41.818733,Cumhuriyet Cd. No 27/C,Artvin,CDLA-Permissive-2.0,Overture|meta
-5bd74457-9323-4407-917b-099b870b3e1c,Yiğit Döner Yemek,RESTAURANT,41.179817,41.819073,İnönü Cd. 67f,Artvin,CDLA-Permissive-2.0,Overture|meta
-e74c475c-30f9-493c-a376-8fa05734650e,Lion Cafe Bar,RESTAURANT,41.180164,41.819416,İnönü Cd. 34/1,Artvin,CDLA-Permissive-2.0,Overture|meta
-d3f16213-0357-4a6b-a227-e9acb9f620ab,Nevizade Cafe,CAFE,41.180054,41.819355,İnönü Cd. No:42,Artvin,CDLA-Permissive-2.0,Overture|meta
-4ce3b42e-7d30-48b2-a903-fca4fed0be32,O SeS Çiğköfte Artvin,RESTAURANT,41.180614,41.819637,Cumhuriyet Caddesi 3/d,Artvin,CDLA-Permissive-2.0,Overture|meta
-130e403d-7eec-4468-9ef2-e3ac6267b97b,Artvin Atatürk Heykeli,SIGHT,41.18071,41.820045,,Artvin,CDLA-Permissive-2.0,Overture|meta
-fcc55b8d-3021-4ac1-804b-63addbdf1d11,Takinti,SHOPPING,41.181393,41.818748,Halk Evi Caddesi 27,Artvin,CDLA-Permissive-2.0,Overture|meta
-dd1347f1-8a42-4dcd-ae9c-710492f9981b,Artvin Otel Sadıkoğlu,HOTEL,41.181137,41.820084,"Çarşı Mahallesi Cumhuriyet Caddesi no:8 Merkez, Cumhuriyet Cd.",Artvin,CDLA-Permissive-2.0,Overture|meta
-5e96b7d9-33ed-40f7-a95d-a352a43e6d4f,Livane Pide,RESTAURANT,41.182579,41.819607,Halkevi Cd. No:52,Artvin,CDLA-Permissive-2.0,Overture|meta
-75068000-05af-41a7-8d34-b54603a293db,Şentürk Çay Evi,CAFE,41.182243,41.819424,Atanoğlu Köyü ,Artvin,CDLA-Permissive-2.0,Overture|meta
-ef48a1a0-57f1-4942-9b8d-504108dce8d6,S.S.Artvin Kadın Girişimciler Turizm Geliştirme ve İşletme Kooperatifi,CAFE,41.181332,41.814449,Hastane Caddesi 46B,Artvin,CDLA-Permissive-2.0,Overture|meta
-fd654a9a-74d5-4ee2-97e1-d14c584c4f36,Orköy,HOTEL,41.181122,41.812298,,Artvin,CDLA-Permissive-2.0,Overture|meta
-4612497b-b764-4b41-a1c3-917def3a5bf9,Gogalay Bungalov Hotel,HOTEL,41.182636,41.810631,Atanoğlu Sokak 2,Artvin,CDLA-Permissive-2.0,Overture|meta
-3b62d106-ab6b-47db-a93b-49a6e2db6d28,Güvenler Unlu Mamulleri Pastahane ve Cafeterya,CAFE,41.187553,41.809067,19 Mayıs Caddesi 62,Artvin,CDLA-Permissive-2.0,Overture|meta
-cc9f29bb-9462-4af2-b17c-9b9c46f46f37,Dolunay Pide Lahmacun Cafe,CAFE,41.188217,41.806343,Edip Dinç Sokak 26,Artvin,CDLA-Permissive-2.0,Overture|meta
-95b7d602-b942-459e-800f-a8bb499ed2e4,Artvin Polisevi,HOTEL,41.187775,41.80653,Edip Dinç Sokak 1,Artvin,CDLA-Permissive-2.0,Overture|meta
-957aaf2b-37ff-42e7-8a8b-6049a85c71ee,Koliva Otel,HOTEL,41.171341,41.794033,"KAFKASÖR (MEZRA) MEVKİİ, Ziyaret Sk.",Artvin,CDLA-Permissive-2.0,Overture|meta
-c68632b2-2b1b-4474-80a4-3911f963bd38,Katrevant Restaurant,RESTAURANT,41.174343,41.812767,Artvin Merkez,Artvin,CDLA-Permissive-2.0,Overture|meta
-e1f8e9cf-5fee-4ddd-99fd-15f3981d844b,Artvin Dayı Restoran,RESTAURANT,41.173298,41.812809,"DAYI restoran, Çamlık mahallesi Kafkasör Sokak, Kafkasör Yolu üzeri",Artvin,CDLA-Permissive-2.0,Overture|meta
-b1de12f1-7304-4b38-91a6-58d756bf8c1c,Dereboyu Alabalık Restoran,RESTAURANT,41.172535,41.823051,Yurttaş Saraç Cd. No:100,Artvin,CDLA-Permissive-2.0,Overture|meta
-0671e7c9-02d2-4ce7-b8b4-d8cbe09e003d,Mars Otel Artvin,HOTEL,41.167072,41.814617,Çiftlik Sk. No:49,Artvin,CDLA-Permissive-2.0,Overture|meta
-116f54be-9cfd-46f3-adec-e1429cae9ab4,Villa Art Hotel,HOTEL,41.16695,41.814732,Çiftlik Sokak 17B,Artvin,CDLA-Permissive-2.0,Overture|meta
-9977d96d-1662-4717-839e-a0bfe716aac9,Beykonağı Kafe & Restaurant,CAFE,41.153587,41.770882,Mersivan Mevki Atabarı Kayak Merkezi ,Artvin,CDLA-Permissive-2.0,Overture|meta
-21ad3862-7a40-416b-8d4b-256284149771,Deriner Barajı ve Hidroelektrik Santrali,SIGHT,41.169716,41.870277,,Artvin,CDLA-Permissive-2.0,Overture|meta
-f7853b72-53e6-4f73-8744-3f3e3d8858f0,Deriner Barajı,SIGHT,41.179619,41.863789,Salkımlı Köyü,Artvin,CDLA-Permissive-2.0,Overture|meta
-eaed4b17-0cbe-46ae-96b6-e27c783d71b7,Mado Cafe,CAFE,41.185432,41.856098,,Artvin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-5deae50f-4201-492d-8dfc-d26b330c647e,Yusufeli Çağ Döner Salonu,RESTAURANT,41.178143,41.843597,,Artvin,CDLA-Permissive-2.0,Overture|meta
-62da5912-9ca7-4bc2-b8f6-30c5e233cb08,Sanayi Pide Pizza Lahmacun,RESTAURANT,41.177963,41.843987,Borçka küçük sanayi sitesi.   BORÇKA/ARTVİN,Artvin,CDLA-Permissive-2.0,Overture|meta
-b2055fee-ace7-4ba6-ba8f-44ee6ef4335f,Anka Cafe,CAFE,41.17712,41.839119,Aşağı Şehitlik Köyü Asma Köprü Yanı,Artvin,CDLA-Permissive-2.0,Overture|meta
-11a68a22-c07b-4fcd-a20a-0465db60717c,Brother's Milkbar,CAFE,41.182392,41.83374,Çayağzı mahallesi Fevzi çakmak CAD no:13,Artvin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-5346fe2e-8329-4c33-b38f-53e11d76a973,Jollysgcoffee,CAFE,41.18206,41.833755,Fevzi Çakmak Caddesi 13,Artvin,CDLA-Permissive-2.0,Overture|meta
-238325b8-f165-4490-8829-1631c78e8318,Bilbilan Yayla Yolu,SIGHT,41.181198,41.834965,,Artvin,CDLA-Permissive-2.0,Overture|meta
-84e1e41f-8147-4239-8fa3-ddfb8106f267,Bombaci Burhan,RESTAURANT,41.181057,41.835278,Fevzi Çakmak Cd. No:68,Artvin,CDLA-Permissive-2.0,Overture|meta
-ec048dc5-abc5-41ef-99cf-90791f7b9c4f,Fabriꓘka,RESTAURANT,41.180626,41.835819,Hasan Çıtak Sok,Artvin,CDLA-Permissive-2.0,Overture|meta
-286f9c64-4787-4d96-86d2-962f90e9b66a,Bayramefendi Osmanli Kahvecisi,CAFE,41.181526,41.830593,Fevzi Çakmak Cd. 13/1 D:2,Artvin,CDLA-Permissive-2.0,Overture|meta
-68f87ecc-b922-4315-90ad-70d2328f3101,Ciğerim Ocakbaşı,RESTAURANT,41.181541,41.830597,Fevzi Çakmak Cd. No: 13/1-2,Artvin,CDLA-Permissive-2.0,Overture|meta
-347d073a-9c3c-4e02-a443-f9810e3aeb16,Hacıalioğlu Çiğ Köfte,RESTAURANT,41.182049,41.830921,Fevzi Çakmak Cd. NO:22-2,Artvin,CDLA-Permissive-2.0,Overture|meta
-f0b231d3-6591-4867-8ec1-4f0a0a3052cf,Şehzadeler Müzesi,SIGHT,41.182583,41.829079,,Artvin,CDLA-Permissive-2.0,Overture|meta
-6bda1ae9-67e6-47f7-b489-dba15ab94d0e,Komagene Üniversite Artvin,RESTAURANT,41.183605,41.832085,Çayağzı Küme Evler 5,Artvin,CDLA-Permissive-2.0,Overture|meta
-ca5e880d-13c8-45ba-b92c-c8c704642c65,D S I 1 Cayagzı,CAFE,41.18388,41.830624,Çayağzı Mah,Artvin,CDLA-Permissive-2.0,Overture|meta
-93ddc176-edf4-49e8-9bf5-047b752b7144,Toro Coffee,CAFE,41.182919,41.833054,Fevzi Çakmak Cd.,Artvin,CDLA-Permissive-2.0,Overture|meta
-6fcd0ef0-db77-4ce5-87ca-dfdbcad73ab8,Artvin Özel Nedime Lütfiye Günal Kız Ögrenci Yurdu,HOTEL,41.182995,41.832958,Fevzi Çakmak Caddesi 15,Artvin,CDLA-Permissive-2.0,Overture|meta
-9775cce6-1021-4e19-a42a-603dfd0a3211,Foresta Cafe & Bistro,CAFE,41.183514,41.833015,Kültür Sk. No:3,Artvin,CDLA-Permissive-2.0,Overture|meta
-688d8be0-a5fd-453c-bcae-2bc41ab83915,Korzul,SIGHT,41.183453,41.833004,,Artvin,CDLA-Permissive-2.0,Overture|meta
-0f359365-daeb-4f35-a750-fdecf6ae3a92,Artvin Apart Otel,HOTEL,41.185032,41.838741,Seyitler Köyü Aydoğan Mahallesi Bakır Sitesi A Blok 4/1,Artvin,CDLA-Permissive-2.0,Overture|meta
-e0572606-a7a7-46c6-aa72-30a1a2ed6d55,JOKER ÇoruhPark,RESTAURANT,41.186859,41.833374,Çoruh Park,Artvin,CDLA-Permissive-2.0,Overture|meta
-b770c12a-8c50-46c6-9ba6-9afa8e8f9139,Artvin Çoruh Park,SIGHT,41.186516,41.832413,Çayağzı mah. Erzurum Cad. Artvin merkez,Artvin,CDLA-Permissive-2.0,Overture|meta
-2b3dde3f-d081-4143-bdb7-fcecc605f407,Manifesto,CAFE,41.186005,41.832207,Erzurum Cad No:71,Artvin,CDLA-Permissive-2.0,Overture|meta
-dca202e3-db6e-4894-8c5f-c37d899d5ccf,Karagöl - Artvin,SIGHT,41.188519,41.826694,,Artvin,CDLA-Permissive-2.0,Overture|meta
-5615a8f8-6311-4fb9-8046-53e17a2e336c,Halkım'ın Yeri,RESTAURANT,41.203003,41.858345,Seyitler Köyü,Artvin,CDLA-Permissive-2.0,Overture|meta
-c9a4635d-6847-4c3b-accf-831183902d5c,Deriner Barajı,SIGHT,41.192368,41.86293,,Artvin,CDLA-Permissive-2.0,Overture|meta
-c6bee5da-59ee-4190-913d-149e4c71be78,Varyant Restorant,RESTAURANT,41.194309,41.876442,,Artvin,CDLA-Permissive-2.0,Overture|meta
-10f5b5ea-bf23-4151-95d7-cd919274e45f,Varyant Aydin Usta'Nin Yerİ,RESTAURANT,41.175499,41.893036,"ARTVİN Ardahan yolu, mevki üzeri",Artvin,CDLA-Permissive-2.0,Overture|meta
-43d89138-28d5-4244-805d-7abe7f9b9b8a,Fatih Mesire Yeri,SIGHT,41.174625,41.877483,ArtvinŞavşat Karayolu 10,Artvin,CDLA-Permissive-2.0,Overture|meta
-2e8677f3-44af-4408-8e46-4c84af731bc1,Artvin Seyirtepe,SIGHT,41.174599,41.877365,,Artvin,CDLA-Permissive-2.0,Overture|meta
-39a6cea9-99b9-471c-a018-f0649a3a290f,Artvin Deriner Barajı,SIGHT,41.174561,41.877323,Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta
-9204359c-c9f3-4233-bb88-46becb74636e,"Gümüşhane, Ardanuç",SIGHT,41.121799,41.949799,,Artvin,CDLA-Permissive-2.0,Overture|meta
-b2ce635d-1def-433a-a1f2-e59fc6ac2bed,"Bereket, Ardanuç",SIGHT,41.0742,41.979198,,Artvin,CDLA-Permissive-2.0,Overture|meta
-aeb00516-4743-4770-8cea-d4c776ead7ba,"Bereket, Ardanuç",SIGHT,41.067192,41.95401,,Artvin,CDLA-Permissive-2.0,Overture|meta
-53fb034f-861e-41bb-8db6-4f5cbd754276,Yeni Rabat,SIGHT,41.074444,42.166111,,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-c8bf8395-53b5-436d-9406-73afd1fac51f,"Güleş, Ardanuç",SIGHT,41.049999,42.199993,,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-e0a6c90e-e00a-4382-bfd8-ba39bb4fb432,Düzenli Koyü (Soporo),HOTEL,41.209705,42.374794,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-f83462ef-f167-4d35-8ae5-232bec87ad30,"Aşağıırmaklar-bucak mer., Ardanuç",SIGHT,41.184444,42.177216,,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-ca35c27d-4869-42b6-b46c-6d3a6964828e,Kanyon Otel,HOTEL,41.125717,42.061722,Esenkent Caddesi 23,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-f08e519e-d09c-4ecd-9775-ff38710bacb3,Mavi 8 Cafe,CAFE,41.124283,42.066338,Hürriyet Cd.,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-93e817a0-9134-45f4-9221-7872f405e670,Kardelen Restoran,RESTAURANT,41.121975,42.06675,Hükümet Cd. No: 27/A,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-c7887725-6e64-4a8c-a624-6aae670a6177,Ardanuc Dede Kebap,RESTAURANT,41.121426,42.066929,Ardanuç,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-e229eb73-dde4-476c-b87b-cb373ecda98a,Artvin Ardanuc Ugurmumcu Parki,SIGHT,41.11805,42.067123,merkez,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-589502a8-c2c1-4bff-b81e-d5a888936c76,Ardanuc Cehennem Kanyonu,SIGHT,41.11874,42.067924,,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-7ce9f2df-9bc8-4f3d-9894-494efc6943f1,Yildiz Restoran,RESTAURANT,41.119476,42.066948,Durmus Gül İsh Kat: 1,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-1996a6e9-06ed-4311-8e60-567f2ff8db40,Ardanuç Evi,RESTAURANT,41.120628,42.062855,"7 Mart Cd. No:21, 08300",Ardanuç,CDLA-Permissive-2.0,Overture|meta
-a0e5cefe-6c72-429c-9931-087be5f115dc,Yiğit Restoran,RESTAURANT,41.121174,42.066532,Ömer Ertek Sok NO:15/A,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-d7e4861f-637e-472d-8e0d-81edebbe2098,Gevhernik Otel,HOTEL,41.121605,42.066223,ömer ertek sokak no: 1/A,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-4881dd31-9b50-4670-8ea9-7cea84c0c21c,ŞAFAK DÖNER Ferman USTA ÇAĞ KEBAP Artvin/ Ardanuç,RESTAURANT,41.12207,42.065254, ŞAFAK DÖNER VE IZGARA   eski Belediye işhanı Cansel eeczanesini yani Ardanuç Merkez ilçe Camii Arkası,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-53a3de9d-193e-47d0-b8c8-c7fbe7eefaef,Beylikdüzü Kardeşlik Parkı Ardanuc,ACTIVITY,41.122463,42.06535,"Ardanuç Belediyesi, Hükümet Caddesi 17",Ardanuç,CDLA-Permissive-2.0,Overture|meta
-48e3f2d1-cdb5-4105-81ca-b75cdb60d54d,Ademoğlu pasta & kafe,CAFE,41.122478,42.064701,hükümet caddesi,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-68b54113-7be6-4270-9fed-e66c4eca906d,Adakale,SIGHT,41.127316,42.058098,,Ardanuç,CDLA-Permissive-2.0,Overture|meta
-3b827cff-698b-4328-a2f4-4f8a7e8a029c,Yavuzköy Seyir Yeri,SIGHT,41.224426,42.388351,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-c716293e-9717-49a7-94bb-462a6a82423d,Black Forest Hotel Şavşat Artvin,HOTEL,41.235455,42.414394,"Şavşat Ardahan Kara yolu üzeri 8.Km, Sulanat Mevkii",Şavşat,CDLA-Permissive-2.0,Overture|meta
-7b5f0218-7a4a-4cda-b357-c5b753acd29f,Karagöl Artvin Şavşat,SIGHT,41.231705,42.395943,Karagöl-Sahara Milli Parkı,Şavşat,CDLA-Permissive-2.0,Overture|meta
-33fb93cd-2d82-488b-a7a5-b0ed398771a7,Savsat Bungalov,HOTEL,41.229618,42.375023,Şavşat Bungalov,Şavşat,CDLA-Permissive-2.0,Overture|meta
-b875b620-aae5-4b6a-88fd-c32e0556e9be,Green Valley Şavşat Hotel & Restoran,HOTEL,41.225357,42.377827,Ardahan Yolu Caddesi 4,Şavşat,CDLA-Permissive-2.0,Overture|meta
-e373b1f0-6eaa-42d9-acd1-82d5cda6737b,Atonun Yeri Yesil Vadi Oteli,HOTEL,41.226116,42.377827,Ardahan Yolu Caddesi 4,Şavşat,CDLA-Permissive-2.0,Overture|meta
-f0923fcf-5136-49bf-90f8-f9e958242b97,Şavşat Otel,HOTEL,41.244804,42.372166,"Düz Mahalle, Yavuzköy",Şavşat,CDLA-Permissive-2.0,Overture|meta
-ca6581fd-31d4-4eb9-b0b3-590eadb1502c,Şavşat Efkar Tepesi İşletmesi,CAFE,41.257088,42.346905,Yeniköy Mah. Efkar Tepe Cad.,Şavşat,CDLA-Permissive-2.0,Overture|meta
-eb886453-34e7-4aa0-915f-5d02bfb1b0aa,Savsat Kara Orman Restorant Cafe,CAFE,41.255085,42.3484,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-e23c1bd0-7b1f-4a4f-9172-8ce2bc4d2155,Avcı Köşkü Şavşat,SIGHT,41.256462,42.355343,Yeniköy Mah. Çiçek nene Cad. No:3 Artvin/Şavşat,Şavşat,CDLA-Permissive-2.0,Overture|meta
-0f0ad2ce-9597-400d-9471-5747e1915877,Cumhuriyet Caddesi,CAFE,41.253063,42.353111,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-7e25a89c-7566-4f3a-9e6e-c713374b5832,Hanımeli Cafe&Lounge,CAFE,41.254448,42.352356,Ülkü Ulusoy Caddesi No:19A,Şavşat,CDLA-Permissive-2.0,Overture|meta
-b25d91c5-b008-47b1-8330-a3db88cf6e28,Güneş Pastanesi,CAFE,41.251602,42.358349,Cumhuriyet Cd. No:166,Şavşat,CDLA-Permissive-2.0,Overture|meta
-30151f12-df5b-4eb5-a5eb-3fb75037a30c,Şavşat Merkez Lokantasi,RESTAURANT,41.252083,42.356945,Artvin Ardahan Yolu,Şavşat,CDLA-Permissive-2.0,Overture|meta
-3697ab4e-16e7-4fa6-bf5a-40e7dcabcab6,Harman Sofrası,RESTAURANT,41.252178,42.356701,Ali Aydın Cd. No:87,Şavşat,CDLA-Permissive-2.0,Overture|meta
-bcdc4a59-a3ab-4ce8-99aa-12f8a7c900d4,Beykonaği Otel,HOTEL,41.252239,42.3573,Ali Aydın Cd.,Şavşat,CDLA-Permissive-2.0,Overture|meta
-21dcd91b-ae93-4654-8412-22667f9769fc,"Lezizhan Çiğ Köfte, Kahvaltı",RESTAURANT,41.251881,42.357555,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-d672288d-4693-4f00-82e8-ebfedd8c3379,Cafe in,CAFE,41.251648,42.358231,Artvin-Şavşat Yolu 08790 Þavþat Artvin Türkiye,Şavşat,CDLA-Permissive-2.0,Overture|meta
-3dbd3ecd-4964-4077-9285-611d908d39ef,Türkü Cafe Restaurant,RESTAURANT,41.251839,42.35865,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-24cee098-8190-4961-b32c-5c49989c492e,Lezzet Pide Lahmacun,RESTAURANT,41.252167,42.357971,Ali Aydın Cd. No:93,Şavşat,CDLA-Permissive-2.0,Overture|meta
-7e8a400e-0ac0-427b-a1bc-bc2361b76bda,Cafe Nego,CAFE,41.252583,42.357738,Yeni Cd. No:46,Şavşat,CDLA-Permissive-2.0,Overture|meta
-9c0d8fee-4057-4e44-bf5e-702335d00ac8,Komagene,RESTAURANT,41.252506,42.355892,Cumhuriyet Cd. No:108,Şavşat,CDLA-Permissive-2.0,Overture|meta
-a8297714-d4a9-48b0-bbe7-88bc66ee1c22,Bacım cafe,CAFE,41.253151,42.356598,Veli Köy Caddesi 44A,Şavşat,CDLA-Permissive-2.0,Overture|meta
-2484c97b-a8cf-4cab-9f8e-ca6b9899dda6,Etobüs,RESTAURANT,41.25386,42.356571,Konya Yol,Şavşat,CDLA-Permissive-2.0,Overture|meta
-1a5a1b2f-6c34-4a36-bdf0-2c19e7572249,Pileki ekmek fırını,CAFE,41.253407,42.359241,Atatürk Caddesi 10,Şavşat,CDLA-Permissive-2.0,Overture|meta
-dbecd842-002e-428b-915a-4a8867de2ade,Dr. Israfil Kisla Millet Bahcesi,SIGHT,41.252567,42.359627,Cumhuriyet Cd. No:166,Şavşat,CDLA-Permissive-2.0,Overture|meta
-30ee5d7d-2c62-450f-84b7-5d325eb14f26,Şavşat Satlel Kalesi,SIGHT,41.259102,42.326672,şavşat ardahan karayolu üzeri,Şavşat,CDLA-Permissive-2.0,Overture|meta
-8d6b9fa4-49f9-4523-b87a-f25d18ca8b20,Çaycı Hüseyin'in Yeri!,CAFE,41.283745,42.231998,Meydancık Yol Ayrımı,Şavşat,CDLA-Permissive-2.0,Overture|meta
-189c600b-c43d-4603-810d-ef9ea593e6bc,Sartul Kahve,CAFE,41.283779,42.231998,Sartul Meydancık,Şavşat,CDLA-Permissive-2.0,Overture|meta
-c31da71e-27c9-4db8-9621-a993bdb83fb2,Sartul Kahve,CAFE,41.287601,42.233864,Sartul Meydancık,Şavşat,CDLA-Permissive-2.0,Overture|meta
-499fcd88-a4a0-4a18-98c8-058d35e3d742,"Saylıca, Şavşat",SIGHT,41.330898,42.331493,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-f046d87f-abdf-4090-a9de-ba2f3af4e31e,Şenköy savta,HOTEL,41.37352,42.376194,artvın savsat şenköy köyü,Şavşat,CDLA-Permissive-2.0,Overture|meta
-50a1b0fb-500d-45ca-8cc5-b236cd37eb19,Gverda Kafe - გვერდა კაფე,HOTEL,41.400154,42.169689,ÇAĞLIYAN KÖYÜ BELTİYET MEVKİİ BELTİYET KÜME EVLERİ    ŞAVŞAT / ARTVİN,Şavşat,CDLA-Permissive-2.0,Overture|meta
-f0c62000-c201-4dd4-9568-cfc52162637f,Napurnev Yaylasi,HOTEL,41.367237,42.150337,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-ff1ef778-4377-46e0-af06-adea17441a36,Napurnev Yaylasi,HOTEL,41.367344,42.154793,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-7c68ffa7-ff1e-450c-92d2-4d9b82e2c144,Satibe Yayla Evi - Konaklama,HOTEL,41.387226,41.854031,Klaskur yaylasi Borçka #karagöl,Borçka,CDLA-Permissive-2.0,Overture|meta
-8c3695f1-9432-4c38-8f5c-f6cb2e88d2d8,Heba Yaylaevi,HOTEL,41.376366,41.886143,,Borçka,CDLA-Permissive-2.0,Overture|meta
-b05570c8-d186-4143-8f25-f7be10854047,"Ortaköy, Artvin",CAFE,41.25,41.98333,,Artvin,CDLA-Permissive-2.0,Overture|meta
-d3bf14d1-038f-401e-bfb9-f305af16d01c,Parechi,SIGHT,41.251938,41.989994,,Artvin,CDLA-Permissive-2.0,Overture|meta
-41dce569-5762-4dcb-ae6d-432fb505fdcb,Gültekin Alabalık Çiftliği,RESTAURANT,41.223652,41.874557,Varlık Köyü,Artvin,CDLA-Permissive-2.0,Overture|meta
-1ddea47f-7b02-4797-ace5-18f31c07a6e3,Fatma Bacı Ocakbaşı Restoran,RESTAURANT,41.240726,41.779865,Hopa Artvin Yolu,Artvin,CDLA-Permissive-2.0,Overture|meta
-9817246f-83b1-4132-a089-bbe0a83f6cf9,Artvin Sofrasi Marina Konaklama Tesisi,HOTEL,41.239609,41.780899,Urzuma Mevkii 26. Sok,Artvin,CDLA-Permissive-2.0,Overture|meta
-3de60708-be96-4fd0-8fef-15516f4be4fd,"Korucular, Murgul",HOTEL,41.300827,41.644165,,Borçka,CDLA-Permissive-2.0,Overture|meta
-22adc8c2-8441-4837-a264-14d9106c12d4,Taraklı mezre ,HOTEL,41.320759,41.678043,Taraklı mezre\nhttps://maps.app.goo.gl/MyFiSyTW9tSX2irQ8,Borçka,CDLA-Permissive-2.0,Overture|meta
-6f15de2c-bb19-4252-a888-42ce98dbe360,İsimsiz Cafe,CAFE,41.35603,41.677681,,Borçka,CDLA-Permissive-2.0,Overture|meta
-93d56abb-ae4d-4c78-9566-45b359a0fe7f,Atapark Cafe,RESTAURANT,41.35582,41.67757,Artvin Yol Üzeri Sanayi Karşısı,Borçka,CDLA-Permissive-2.0,Overture|meta
-6c5076b1-2e26-4632-8ba3-3ff511256906,Artvin Borçka Çoruh Nehri,SIGHT,41.339252,41.701324,Borçka,Borçka,CDLA-Permissive-2.0,Overture|meta
-9e3f2e99-9d11-43f1-a950-3554d08ecd74,Golbası Restaurant,RESTAURANT,41.339203,41.701294,Borçka Artvin Karayolu 3 Km,Borçka,CDLA-Permissive-2.0,Overture|meta
-520d9dba-d2ba-440b-afca-5d05416fc332,Borçka Baraj Gölü,SIGHT,41.350586,41.682281,Hopa - Artvin Yol,Borçka,CDLA-Permissive-2.0,Overture|meta
-5da3fafa-6d00-43a9-89e7-ff84ab864907,Borçka Barajı ve Hidroelektrik Santrali,SIGHT,41.352028,41.682545,,Borçka,CDLA-Permissive-2.0,Overture|meta
-9272da56-5c19-4f6a-b3e3-eae25f57da12,Borçka Barajı,SIGHT,41.352318,41.688251,,Borçka,CDLA-Permissive-2.0,Overture|meta
-ff3cfc64-ae44-4de7-96f7-8d2dcdb474fa,Borçka Barajı,SIGHT,41.351971,41.68755,,Borçka,CDLA-Permissive-2.0,Overture|meta
-0fc14682-acf9-4a51-a3da-ccf9ad38c6e0,Yol Cafe and Restaurant,CAFE,41.323723,41.726444,Borçka-Artvin 6.km ibrikli,Borçka,CDLA-Permissive-2.0,Overture|meta
-4da080dd-a733-40aa-8ed4-d42fc8776f4b,Çoruh Nehri,SIGHT,41.310226,41.732937,,Borçka,CDLA-Permissive-2.0,Overture|meta
-48bcea0c-3350-498e-8a35-724e789fef4d,"Adagül, Borçka",SIGHT,41.316666,41.75,,Borçka,CDLA-Permissive-2.0,Overture|meta
-f430111f-e15b-46e4-8741-ecad4de8f905,Dsi Borçka Baraj Gölü,SIGHT,41.322094,41.731255,,Borçka,CDLA-Permissive-2.0,Overture|meta
-732572e8-eceb-4835-b021-69101dcb6350,Borçka Baraj Gölü,SIGHT,41.322144,41.731373,,Borçka,CDLA-Permissive-2.0,Overture|meta
-f90dda86-be40-4f37-8a36-9cdfbe054561,"Atanoğlu, Borçka",SIGHT,41.399994,41.766666,,Borçka,CDLA-Permissive-2.0,Overture|meta
-cf858ca2-1500-470d-a370-6a3762e9f8c3,Dere Pansiyon / Restoran,HOTEL,41.3955,41.760693,Atanoğlu Köyü Karagöl yolu 12. Km.,Borçka,CDLA-Permissive-2.0,Overture|meta
-b71444a9-90ed-451d-95cf-9c8c3382a4d7,Borcka Lapera Pansiyon,HOTEL,41.397243,41.731583,Klaskur (Aralık Köyü) Borçka/Artvin,Borçka,CDLA-Permissive-2.0,Overture|meta
-c06ffe22-d806-4655-a308-b3646a77c5e6,Nalia Cafe&Restaurant,RESTAURANT,41.398552,41.733559,"Nalia Restaurant,Aralık Köyü",Borçka,CDLA-Permissive-2.0,Overture|meta
-d457b24c-ac1d-4fb0-bb87-732a3334f1a8,Klaskur Adaş Dağ Evi,HOTEL,41.398628,41.735577,"Borçka, aralık köyü, köprübaşı hes karşısı",Borçka,CDLA-Permissive-2.0,Overture|meta
-b1440f59-c554-4463-b616-8258e1cc0fae,Nigozmeri Pansiyon,RESTAURANT,41.397781,41.743065,Artvin/Borçka Karagöl yolu / Aralık Köyü,Borçka,CDLA-Permissive-2.0,Overture|meta
-5f83a6fa-4df7-41c3-897f-6d952c9ffdda,Meroli Ev Pansiyonu ve Yöresel Tatlar,RESTAURANT,41.399712,41.74115,Aralık köyü merkez mahalle,Borçka,CDLA-Permissive-2.0,Overture|meta
-ef12b278-de1a-490a-8ae9-28264c31c464,Kartvelebisa bungalov evi,HOTEL,41.401192,41.738895,Aralık köyü Artvin Borçka Karagöl yol üstü,Borçka,CDLA-Permissive-2.0,Overture|meta
-b99c36cc-b61e-4912-a3b9-678301b165eb,Lapera,HOTEL,41.400002,41.736847,Aralık Köyü No: 19,Borçka,CDLA-Permissive-2.0,Overture|meta
-ebbd5405-e191-49dc-8b24-315a094381ba,Saklı bahçe pansiyon,HOTEL,41.402889,41.718887,Borçka Aralık köyü No 3/1,Borçka,CDLA-Permissive-2.0,Overture|meta
-8c895596-784e-49f2-82b2-76f7c52cac2b,Ruzgar cafe,CAFE,41.357304,41.679459,Sigorta Caddesi 8E,Borçka,CDLA-Permissive-2.0,Overture|meta
-b8232b04-9cc4-4638-95aa-6ee0fa9d0253,Sıla Nargile Cafe,CAFE,41.358212,41.679123,Sigorta Cad,Borçka,CDLA-Permissive-2.0,Overture|meta
-260d908c-20e7-4943-a02d-21263cbf5695,Borçka Aksu,HOTEL,41.360291,41.679691,,Borçka,CDLA-Permissive-2.0,Overture|meta
-ca99bdba-3bb4-4855-9589-f9992b03afad,bocka.komagene,RESTAURANT,41.360851,41.679489,Vehbi Alparslan Caddesi 57,Borçka,CDLA-Permissive-2.0,Overture|meta
-b7b68902-a3ea-4ecf-9b99-5966bab90aaa,Borçka Karagöl Doğa Parkı,SIGHT,41.363609,41.679165,,Borçka,CDLA-Permissive-2.0,Overture|meta
-2f53f286-4e6d-45c3-b745-8e703aa0e307,Macahel İremit Pansiyon,HOTEL,41.364239,41.679089,"Maral Köyü , İremit Mahallesi , Camili ( Macahel )",Borçka,CDLA-Permissive-2.0,Overture|meta
-324aebce-8032-4b9b-9014-5452b2d81260,Nabeglaw,HOTEL,41.364239,41.679089,klaskur vadisi arlık köyü düz mah. No 65 karagöl yolu üzeri 9. Km nabeğlaw konoklama,Borçka,CDLA-Permissive-2.0,Overture|meta
-74f07cfa-6adc-4db7-be08-deb71414912f,Yoyo Cafe,CAFE,41.364555,41.679661,Güzide Sk.,Borçka,CDLA-Permissive-2.0,Overture|meta
-11602f3a-f35c-410c-89e5-a22b9f4d06ba,İsmet Acar Turizm Ve Sosyal Tesisleri,RESTAURANT,41.366436,41.682579,,Borçka,CDLA-Permissive-2.0,Overture|meta
-375020ec-dba6-4a1a-94d2-950a43fcaeb2,Huzur Tepe Aile Cay Bahcesi Mangal Ve Kahvaltı Salonu,RESTAURANT,41.369854,41.66975,Huzur Tepe Ai̇le Çay Bahçesi̇ Mangal Ve Kahvalti Salonu,Borçka,CDLA-Permissive-2.0,Overture|meta
-c3d8fa2b-d3ad-488c-a9f7-6856933c9639,Nalia Cafe,CAFE,41.366726,41.678692,Çoruh Cd. No:30,Borçka,CDLA-Permissive-2.0,Overture|meta
-446d1d67-27f6-4647-a0a6-3b646049a72b,Ada Restoran,RESTAURANT,41.365654,41.674026,15. Köprü,Borçka,CDLA-Permissive-2.0,Overture|meta
-5115aaf5-e9bf-4c93-a914-29f673ead17a,"Karagöl,Borcka ARTVIN",SIGHT,41.364738,41.675423,,Borçka,CDLA-Permissive-2.0,Overture|meta
-23f4a59f-e277-4977-861e-a1ff20503336,asma köprü,SIGHT,41.365135,41.677917,Yeşil Sk.,Borçka,CDLA-Permissive-2.0,Overture|meta
-1c290b1a-a7ef-4e4d-8415-2afda4d57034,Maradit Caddesi,SIGHT,41.363777,41.678734,,Borçka,CDLA-Permissive-2.0,Overture|meta
-239f44ed-6a16-42f9-9b40-a74a728781a4,Asma Altı Çay Pahçesi,CAFE,41.363632,41.677769,,Borçka,CDLA-Permissive-2.0,Overture|meta
-9aff3763-9768-408e-bd51-c18134c7c454,Sosslu Durum ve Mevlana Etli Ekmek,RESTAURANT,41.363655,41.67712,Sahil Cd. No:13,Borçka,CDLA-Permissive-2.0,Overture|meta
-5e4c72c7-6a25-4222-860a-8fa87ca2b2ec,Artvin Borçka Çoruh Nehri,SIGHT,41.36327,41.676846,Borçka,Borçka,CDLA-Permissive-2.0,Overture|meta
-0dde554c-9967-4307-b008-c86ed1ae4feb,Başak Pide,RESTAURANT,41.363285,41.677063,"başak pide salonu, Bankalar Cd.",Borçka,CDLA-Permissive-2.0,Overture|meta
-8b546e3c-5b93-4725-9527-ed279360ebec,Ocakbaşı Uğur Et,RESTAURANT,41.362976,41.677433,PTT Cd. No:11/A,Borçka,CDLA-Permissive-2.0,Overture|meta
-aab9a828-1af8-41a6-8594-e311d8080865,Dilan Pide ve Lahmacun Salonu,RESTAURANT,41.362823,41.677349,PTT Cd. No: 10,Borçka,CDLA-Permissive-2.0,Overture|meta
-b819f226-8570-48b1-9a7a-58e48888990c,Keyfî Ziyafet Restaurant,CAFE,41.362736,41.677368,Meydan,Borçka,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-5dde7217-f0aa-4e4a-89c0-c172f7324878,Seyri sefa restaurant,RESTAURANT,41.362858,41.677586,Cumhuriyet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta
-d09d21f9-4e9a-4782-b174-816f70b76456,PTT Caddesi,SIGHT,41.363037,41.677616,,Borçka,CDLA-Permissive-2.0,Overture|meta
-43d91f8b-162a-4eef-8e8b-f2d85ceb0a09,Durmazlar Avm,SHOPPING,41.363129,41.677818,,Borçka,CDLA-Permissive-2.0,Overture|meta
-304a2e06-d2c4-4e85-a87a-a53ccfc93488,Neba Lokantası,RESTAURANT,41.363422,41.678234,"Bim Karsisi, Muratlı Cd. No:44",Borçka,CDLA-Permissive-2.0,Overture|meta
-5baee6b0-f686-429b-abca-4027644c9974,Limon cafe,CAFE,41.362083,41.676422,Cumhuriyet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta
-c8f72519-f9ab-45c4-a244-a5cfbdc2324d,Enpa Pastanesi,CAFE,41.362396,41.676926,"15temmuz şehitler meydanı, Cumhuriyet Cd.",Borçka,CDLA-Permissive-2.0,Overture|meta
-66f2e11a-e8e8-45c0-bdbb-151af5c807e9,Meydan Çayevi̇,CAFE,41.362648,41.677071,Cumhuriyet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta
-c0418c88-0f53-4746-b642-e232cfd7f423,Borçka KYK Kız Yurdu,HOTEL,41.362324,41.675892,Cami Caddesi 16,Borçka,CDLA-Permissive-2.0,Overture|meta
-5c5996ba-8b9a-48f7-8802-c9064168d434,HokkaBistro Cafe,RESTAURANT,41.361446,41.67477,Emniyet Cd. No:1,Borçka,CDLA-Permissive-2.0,Overture|meta
-7c099f50-70db-4cbd-a033-bb5854f84e2c,Bİ YER Cafe & Kahvaltı salonu,CAFE,41.360367,41.674412,Gündoğdu Mahallesi Borcka/Artvin,Borçka,CDLA-Permissive-2.0,Overture|meta
-52ac7960-292a-4016-9fe8-f0c384a44da1,Artvin Borçka Öğretmenevi,HOTEL,41.36039,41.675198,,Borçka,CDLA-Permissive-2.0,Overture|meta
-61c428c2-0958-425e-b003-99bd680b0875,Chef's Ev Yemekleri,CAFE,41.359055,41.675503,Hükümet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta
-ea0d3842-f6f7-40e5-81d3-73e95ab28168,Taraklı Kamorcika,HOTEL,41.481533,41.707939,"Akpınar, Gündoğdu Mahallesi, Akpinar köyü/Borçka/Artvin",Borçka,CDLA-Permissive-2.0,Overture|meta
-ece9e6f3-23d8-4171-be8a-5537fc4024fe,Çaykur Muratlı Çay Fabrikasi,CAFE,41.457615,41.711731,,Borçka,CDLA-Permissive-2.0,Overture|meta
-ea2c1e1b-c32f-4275-9fad-5c69c44c59a8,Aymer Butik Otel,HOTEL,41.406265,41.792622,"Borçka Karagöl (Macahel) Yolu 16.Km, 158/1, 08490",Borçka,CDLA-Permissive-2.0,Overture|meta
-b8c5a02c-92b9-4486-be74-930b25e25cb2,Borcka Karagöl,SIGHT,41.406418,41.793304,,Borçka,CDLA-Permissive-2.0,Overture|meta
-d68866a1-00f2-4ac5-84e5-4a159b40eaf3,Bostana Dere Aile Çay Bahçesi,RESTAURANT,41.406937,41.793892,Borçka Camili Yolu,Borçka,CDLA-Permissive-2.0,Overture|meta
-dd13b742-d3d1-4793-9699-5f15b6be5e70,Zezemere Lokanta,RESTAURANT,41.406013,41.799129,,Borçka,CDLA-Permissive-2.0,Overture|meta
-858d464a-24a8-434f-9f14-c990bd24fdd8,Şentürk Çay Evi,RESTAURANT,41.40741,41.806503,Atanoğlu Köyü Karagöl Yol,Borçka,CDLA-Permissive-2.0,Overture|meta
-545e09fb-cd00-4898-bda5-dbc6cb222b79,Zirvede Keyf,RESTAURANT,41.410378,41.826164,"Macahel Geçidi , Borçka ",Borçka,CDLA-Permissive-2.0,Overture|meta
-97387b3f-9645-458e-99f4-09db40fcaf78,Bardnala Şelalesi,SIGHT,41.409523,41.833237,,Borçka,CDLA-Permissive-2.0,Overture|meta
-5b1e5f2d-ad9a-44e6-b67c-6db742fd2b3b,Borçka-Karagöl,SIGHT,41.405174,41.843971,,Borçka,CDLA-Permissive-2.0,Overture|meta
-51473d20-96c2-434e-98fa-33b4ab434181,Bumbulay Pansiyon,HOTEL,41.431431,41.955647,Efeler Köyü Artvin,Borçka,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
-fb52984f-799d-4cf0-8fdd-d78910e9a65e,Dedaena,HOTEL,41.450745,41.92535,"Borcka Macahel Vadisi, Camili, Efeler Koyu",Borçka,CDLA-Permissive-2.0,Overture|meta
-5a375d2a-c59a-4638-bd09-2bbbbe4a80e4,Macahel Köy Evi,HOTEL,41.459579,41.925522,38/2,Borçka,CDLA-Permissive-2.0,Overture|meta
-489e7344-3eb2-4336-bcb2-173b9e1e62dc,Maral Şelalesi,SIGHT,41.5,41.949993,,Borçka,CDLA-Permissive-2.0,Overture|meta
-b0554fc2-1493-47d2-b55e-51ef24000906,Katamize Pansiyon,HOTEL,41.480564,41.960644,Unnamed Road,Borçka,CDLA-Permissive-2.0,Overture|meta
-c73f6545-24cb-4455-8a77-d0fa1d337a8c,Macahelhanotel,HOTEL,41.48143,41.952808,Artvin borçka camili maral köyü,Borçka,CDLA-Permissive-2.0,Overture|meta
-d429a75f-19ad-4d86-bf89-376a3af3e827,Macahel Greenroof Otel,HOTEL,41.4865,41.940487,"MARAL, esençay mahallesi no:57",Borçka,CDLA-Permissive-2.0,Overture|meta
-4ed79dfd-eaeb-4d47-8538-2e5fe4d16fd6,Macahel Maral Otel and Restaurant,HOTEL,41.479946,41.933758,No:27,Borçka,CDLA-Permissive-2.0,Overture|meta
-a1890cbc-7d4d-4e96-b0de-1c565f60602f,Tema Vakfi A. Nihat Gokyigit Konuk Evi,HOTEL,41.477642,41.899597,,Borçka,CDLA-Permissive-2.0,Overture|meta
-fc3fe61d-15cc-4900-80cb-857a7a2e96f2,Macahel Dağ Evi,HOTEL,41.477779,41.89904,Küme Evleri No:67,Borçka,CDLA-Permissive-2.0,Overture|meta
-5963840e-0f8a-45c4-8314-dbae3fc84942,"Macahel, Camili, Borçka, Artvin",HOTEL,41.478069,41.899616,Artvin/Borçka/Camili/Macahel,Borçka,CDLA-Permissive-2.0,Overture|meta
-7261d00d-30b0-454d-aaf3-1975e989ee33,Macahel İremit Pansiyon,HOTEL,41.482811,41.918247,Maral köyü İremit Mahallesi No4 Borçka/Artvin,Borçka,CDLA-Permissive-2.0,Overture|meta
-0f0eb250-6384-4f5d-8201-617500550814,Iremit Pension Macahel Camili Artvin,HOTEL,41.48267,41.918575,Camili,Borçka,CDLA-Permissive-2.0,Overture|meta
-a0b47f65-598a-46e3-b242-4c3cc1792719,"Düzenli, Borçka",SIGHT,41.462597,41.8946,,Borçka,CDLA-Permissive-2.0,Overture|meta
-ea52bcaa-c1e7-4cb8-a0c8-4951ebf54d68,Seyri Macahel Bungalov,HOTEL,41.474297,41.896656,Macahel Camili Köyü,Borçka,CDLA-Permissive-2.0,Overture|meta
-b841eb73-847b-4370-9f5f-268c4186d51d,Maral Şelalesi,SIGHT,41.50201,41.957672,,Borçka,CDLA-Permissive-2.0,Overture|meta
-f9398fcb-d185-48f2-acfd-5bb4a5e94b18,"Demirkapı, Şavşat",SIGHT,41.424,42.431232,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-cc8a27ff-0f56-488e-b92f-04c257218f72,"Demirkapı, Şavşat",SIGHT,41.426399,42.439098,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-d73e4d83-b8f8-40b1-8305-41c683941626,Pınarlı otantik kır lokantası,RESTAURANT,41.354069,42.462109,"Pınarlı, Şavşat, Artvin, Türkiye",Şavşat,CDLA-Permissive-2.0,Overture|meta
-6e254a6f-8236-4795-945e-6596fb3db1de,"Meşeli, Şavşat",SIGHT,41.313099,42.466999,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-cc4e6294-ca22-4460-843c-56861e755523,Şavşat Karagöl,HOTEL,41.313869,42.468468,Meşeli köyü ,Şavşat,CDLA-Permissive-2.0,Overture|meta
-e47b902d-692e-4fca-b4ae-b7752c4e379d,Karagöl Sahara Savsat,SIGHT,41.308968,42.482754,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-6b84dcea-7b80-408d-830f-eb6b1a70d3ee,Lezizhan Çiğköfte Ve Kahvaltı Salonu Şavşat,RESTAURANT,41.325039,42.49646,Lezizhan çiğköfte ve kahvaltı salonu ,Şavşat,CDLA-Permissive-2.0,Overture|meta
-d8efe8c5-f594-489e-95fc-9db3190b7b7f,Tuğra Butik Otel,HOTEL,41.299469,42.473175,Karagöl-Sahara Milli Parkı Karagöl bölümü,Şavşat,CDLA-Permissive-2.0,Overture|meta
-0624fe75-1fa3-47e2-ad73-b60e3f21e50c,Resmorant,RESTAURANT,41.304447,42.466789,"Artvin Şavşat Meşeli Köyü Çayırlar Mah No 3/1A, Karagöl yolu üzeri",Şavşat,CDLA-Permissive-2.0,Overture|meta
-34c05f15-88b4-4d4f-bebd-748b9b4b8302,Veliköy Han Konakları,HOTEL,41.302734,42.435307,Karagöl yolu üzeri,Şavşat,CDLA-Permissive-2.0,Overture|meta
-d29a571a-71c5-4dfa-8225-0c78b88f2399,Peribacaları Şavşat,SIGHT,41.28447,42.457832,Meşeli Köyü,Şavşat,CDLA-Permissive-2.0,Overture|meta
-aad337d7-2424-4adf-9901-f97abf5828e2,Karagöl-Sahara National Park,SIGHT,41.228394,42.446098,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-a919282b-0e43-4fdf-9cfc-34e1644b189f,sahara dağı milli parkı,SIGHT,41.230778,42.449272,Şavşat,Şavşat,CDLA-Permissive-2.0,Overture|meta
-e2f3a8e5-c5d8-4698-b0a2-1479cf98296e,Şavşat Laşet Balik Lokantasi,RESTAURANT,41.232212,42.429798,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-556e04f0-782d-443d-b17c-701671997811,"Laset Alabalik Tesisleri,Artvin Yolu",CAFE,41.232208,42.429787,,Şavşat,CDLA-Permissive-2.0,Overture|meta
-bbe425b6-21da-4d16-b132-c4a0a97714a8,Laset Motel,RESTAURANT,41.232235,42.429642,"Kocabey Köyü, Şavşat-Ardahan 9. km",Şavşat,CDLA-Permissive-2.0,Overture|meta
-d970d2b9-4f5e-4336-89f1-d742999f4f0a,Artvin Savsat Laset,RESTAURANT,41.232124,42.429573,Ardahan-Artvin'in Yolu,Şavşat,CDLA-Permissive-2.0,Overture|meta
-4f7e2dbd-59a8-4933-9a16-4abb27e8cb29,Yalnızçam Otel,HOTEL,41.049835,42.497978,Yalnızçam Kayak Tesisleri,Şavşat,CDLA-Permissive-2.0,Overture|meta
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy
+f881809d-cb06-4e55-abe9-eb0fa400e255,"Sırakonak, İspir",SIGHT,40.732498,41.195889,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+dc582d64-6f74-49b7-b4ba-3ebe7ad883ec,Hevek,SIGHT,40.868999,41.272194,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+72550f3e-3518-4842-b41c-64baa085aef9,Yaylalar Çamyuva Pansiyon,HOTEL,40.869774,41.272339,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+5a61cdbb-befe-481e-864e-7cb971c4b3d5,Kaçkar Pansiyon,HOTEL,40.859596,41.242226,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+21127df1-afb8-4c1f-96d4-21159909c8a0,Arkun Dam,HOTEL,40.676182,41.289192,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+f6f3b543-b642-4d4e-8594-3d390ba4e3a3,Oşnak Merkez kahve,CAFE,40.685997,41.359383,çarşı mah no 12/b,Yusufeli,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+981c7b8b-d216-45c8-9209-070ff1d02f36,Arkun Barajı,SIGHT,40.700863,41.385071,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+81c01461-c6e0-4337-a1bc-61bf2be63259,Bayram oğlu Kurt dinlenme tesisleri,RESTAURANT,40.713955,41.483059,erzurum yolu üstünde ,Yusufeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+a7a770c9-38dd-4285-afad-095495b7c9eb,Mavisu dinlenme tesisleri,HOTEL,40.713684,41.481323,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+d73a2fdb-ce0c-4f75-9370-0df991dfb244,Bol Kepçe Çorbacısı,RESTAURANT,40.713848,41.481327,"Yusufeli, Artvin, Türkiye",Yusufeli,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant
+5a0da9d2-cbd6-47f0-b802-4baa1e4891dc,Yusufeli Mantı Atölyesi,CAFE,40.802174,41.515228,Artvin Caddesi 2,Yusufeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+fbadc7d5-3897-44eb-b180-1397e22cb316,Yüzüncü Yıl Avm,SHOPPING,40.817871,41.545628,İnenü cad. Keleşgilgida Apt. NO:76,Yusufeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,shopping_mall,shopping>shopping_mall
+c9c4397e-da04-472f-8e2e-8be72071cde8,Çağlayan Fırını,CAFE,40.817039,41.546059,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+11a59b85-28a0-458b-ad85-617286520816,Sanatkar,CAFE,40.814209,41.547886,Sanayi Mah,Yusufeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+46b32373-d6ad-43a5-8c1c-ea6970b7eed5,Saklı Cennet Yusufeli,SIGHT,40.8167,41.549999,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+a7759015-41fe-42d1-8d3a-420d4be508e3,Nar Cafe,CAFE,40.816368,41.547615,Yusufeli Merkez,Yusufeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+e8b24ceb-a296-459b-8da7-18b479b720d8,Nisa Cafe & FastFood,CAFE,40.816742,41.546661,Merkez Mah.Lise CAD. Yusufeli Fakültesi Yanı,Yusufeli,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+c0d8a2e3-1722-4ff4-aa25-888aa7194a91,Alkan pide ve pastacilik,RESTAURANT,40.817062,41.546944,Alkan pide ve pastacilik,Yusufeli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+3fd4384f-1c64-435d-923b-a039138f4125,Lamazi Cafe-Bar-Restaurant,CAFE,40.824593,41.542225,Arıklı Küme Evler 77,Yusufeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+724ac80f-d025-470f-9846-ea61c4077ec9,Canet mangal,RESTAURANT,40.818954,41.545109,Can Et Mangal,Yusufeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+dae3569c-b791-4f1c-b112-0da2510adbf0,Agata Otel,HOTEL,40.819149,41.54557,Yusufeli Küme Evler 12,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+9b328177-330c-4f38-893e-a31dd7b91dbf,Doğan Kıraathanesi,RESTAURANT,40.819504,41.544315,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+5895ef53-336c-4c7e-bbb6-11c220782750,Saklı Cennet Yusufeli,SIGHT,40.819748,41.544132,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+791bdabf-48ed-4b7e-bfab-4f102582c82d,Bereket restaurant &cafe,RESTAURANT,40.820683,41.542877,Otel balalan ,Yusufeli,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
+92e407ad-46d2-49c7-bdc2-b39430e59e82,Gazi Bayram Yıldırım Parkı Aile Çay Bahçesi,CAFE,40.82159,41.54266,Sarigöl Cad. Barhal Çayi Kiyisi Yusufeli̇ Artvi̇n,Yusufeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+b313ebfc-2f6d-4b64-a86c-6b55736b5802,"Küplüce, Yusufeli",SIGHT,40.916599,41.511993,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+f78d2d71-605c-4654-baba-57eac45bd463,Eliya Otel Restoran,HOTEL,40.934879,41.50909,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b496ed20-93d2-4728-aa82-cf88bad13e79,Sarıgöl Nahiyesi - Yusufeli/Artvin,HOTEL,40.954742,41.497364,Sarıgöl,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+e5e8a241-188a-4f0d-a076-377d8ab8e798,Yusufeli Ihtiyaroğlu Balik Çiftliğ,RESTAURANT,40.923248,41.513641,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+fcbebd39-4b5d-4ac3-9ac3-1170fccb0592,Agara Otel,HOTEL,40.923508,41.513634,Artvin TR,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d8cfd8a6-df5e-4be5-9c20-ce505ae093b2,"Esendal, Yusufeli",SIGHT,40.933327,41.583332,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+5771d972-9b99-48d4-a8c8-8296233fffed,selant yaylası büyük göl,SIGHT,40.783619,41.511177,artvin yusufeli tekkale köyü selant yaylasi büyük göl,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+8f6141bc-9b95-4bc4-874d-d8d2984aa379,Kireclik Taksimat,CAFE,41.295437,41.320217,Kireçlik,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+a9e68704-4efa-4b99-a7b0-7ddb7d46327c,Ocambre Petra Park,SIGHT,41.295998,41.289959,Yolgeçen Köyü Dağ Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+dfe2c7bd-b1fd-4302-921b-ebd18d47b4cd,Özyurt çay ve gıda sanayi,CAFE,41.294178,41.290783,yolgeçen köyü merkez mahallesi 271/1,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c0dd49b6-e40b-4867-bc5a-6b9bbf8372a4,BÜHRE Restoran,RESTAURANT,41.289902,41.293987,YOLGEÇEN KÖYÜ DAĞ YOLU NO:283/1,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+e9850dcf-ec90-4328-975d-217379bdd1fa,Pınar Alabalık Tesisi,RESTAURANT,41.311558,41.296356,Kavak Köyü. Kavak Köyü,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+9d5095aa-b396-47b0-838d-6131634ed469,Berona Köy Evi,HOTEL,41.306179,41.323914,Dereüstü Köyü No:20 Arhavi,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d0c3a86c-223e-4751-9347-4b3fc1d5f5ef,Noğa Çay,CAFE,41.30682,41.330566,Dereüstü Mevkii,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+6b376586-bf51-421c-8a54-6c4b7f888c7f,Okobale Dağ Evi,HOTEL,41.302464,41.343338,"güneşli köyü, obakale mevki, 08200",Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+311a22b3-cce1-4162-91cc-8b50720a9b6d,Mençuna Şelalesi,SIGHT,41.315372,41.309597,,Arhavi,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall
+d1012c9c-e6d1-4323-986e-7c8572f002d6,Kavak Kurdoğlu Ekmek Fırını,CAFE,41.315308,41.307457,Arhavi Ortacalar Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+fcff0ffb-f33b-4fd4-9d36-dc5d62d6ad3b,Pinar Kir Evİ,HOTEL,41.315643,41.305759,Köroğlu büyüklü mevkii kavak köyü Arhavi/Artvin,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+644b1020-22d8-46f6-8342-985d2b9d5a71,Umca Alabalık,RESTAURANT,41.321251,41.360371,,Arhavi,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant
+e6074d2a-38ec-457d-8cee-fc474264dfa0,"Kıyıcık Limanı, Fındıklı, Rize, Turkey",SIGHT,41.321819,41.244995,,Arhavi,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+89c4769b-6c66-4feb-9fc9-5f22eb5db8a8,Fener Restaurant,RESTAURANT,41.372574,41.34396,Karadeniz Sahil Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+f0d68c96-c12a-4155-a3e6-b92bae48b4ff,Kurdoğlu Restaurant/Arhavi,RESTAURANT,41.372562,41.344521,,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c4232987-ec9a-44e7-9cd9-eba86bc44653,Fener Pub,RESTAURANT,41.372368,41.343513,"Karadeniz Sahil Yolu, 08690 Çamlı",Arhavi,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+87c3d880-0e6c-40ea-9022-232dc910244b,Rakani Kafe,CAFE,41.358673,41.316586,"Arhavi hopa Tünel Üstü, Bilinmeyen Sokak No:5",Arhavi,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+eb949f58-6163-4710-aa0c-7c873ec92d57,Otel Kurdoğlu,HOTEL,41.358429,41.317657,Sahil Caddesi 25,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+8aba18a6-4f7a-4b62-9f69-d7997ccbb40c,FALEZ Cafe&Restaurant&Pansiyon -Arhavi-,CAFE,41.35928,41.31741,,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+90f24490-b7a9-45ea-ab03-059e6353110a,LongAction Arhavi,RESTAURANT,41.353149,41.308571,Atatürk Blv. no:10,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c7645045-6dda-4b22-8f17-87d9fb23aada,Sultan köfte,RESTAURANT,41.353561,41.31015,Arhavi ışıklar,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+1edd96a3-416f-4060-95ae-f3260bf093d4,Cadde Cafe & Bistro,CAFE,41.353733,41.309731,,Arhavi,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
+54b80b0d-9b5f-4fc8-ac83-4dd947cf2351,Artvin Borçka Karagöl,SIGHT,41.353813,41.309845,,Arhavi,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+e1a86ee9-add6-4b76-94f5-6182d3483aad,Loca Restaurant & Cafe,RESTAURANT,41.353748,41.309811,"Kaymakamlık Karşısı, Sahil Caddesi No: D:1",Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+558e2959-544b-4738-99b5-07018a6c6b0f,Arhavi Tavşanlı park,SIGHT,41.353958,41.310963,,Arhavi,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+fc06cd9c-7c02-40dc-a7a1-6c561ed853ae,Keyff Pizza Cafe,RESTAURANT,41.354408,41.312019,Sahil Caddesi,Arhavi,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
+e2f49f74-c9ba-45d1-8de4-123494b7211f,Loresima Cafe&Bistro,CAFE,41.353806,41.310852,Atatürk Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+0ef41da1-9b91-4e2e-9813-6ea9fd9203f5,Nido Dondurma,CAFE,41.353603,41.310596,Atatürk Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop
+e217c6d9-466e-4d10-bff9-404720ecc615,Arhavi Üzülmez Konutlar,HOTEL,41.347996,41.299774,,Arhavi,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+2d04176c-3ce4-4c81-a9c1-b1c117a9c278,Dikyamaç yaşam tarzı Müzesi,SIGHT,41.349064,41.302959,,Arhavi,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum
+47323dde-de60-44fe-89d2-d89542c2d18e,Efsane yufka ve kafe,RESTAURANT,41.349449,41.302963,ETİ CADDESİ,Arhavi,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant
+aa97b8ec-1e50-4def-8693-6347fb1deb22,Öz Ciha Pide Lahmacun,RESTAURANT,41.349438,41.304672,Nurettin Çarmıklı Cd. No:21,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+c1530f88-542c-41d9-bb3a-7fddfef0db57,Öz Bekiroğlu Lokantası,RESTAURANT,41.349445,41.304676,Nurettin Çarmıklı Cd. No:21,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+685abc38-044d-4704-a30e-4dfe871d533e,Melis Unlu Mamülleri,CAFE,41.348579,41.303265,Dr. C. Kazancıoğlu Cd. No:2,Arhavi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+1ade3913-d695-4d9b-a0fa-0dc3925a80a5,Resort Hotel,HOTEL,41.348488,41.309486,,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+fb89c750-250e-4a54-b726-ecff41113b3d,Dikyamaç yaşam tarzı Müzesi,SIGHT,41.349194,41.306896,,Arhavi,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum
+cd43bda5-2ca4-41fd-85ed-fbb957eed0ec,Tadal Cafe,CAFE,41.349171,41.306801,musazade mahallesi mithatpaşa caddesi TADAL,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+2837f0dd-9ae3-48e8-a1b4-126610207a2a,Arhavi Kemer Köprü,SIGHT,41.349243,41.311543,,Arhavi,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+fc154210-668b-4e77-a625-bb4c37702fd8,Bitat Ekmek Fırını,CAFE,41.346916,41.30917,Şht. Asteğmen Mehmet Altanlar Cad.,Arhavi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+1951f734-4f40-4e91-acae-92bbb953520d,Liberta Cafe,RESTAURANT,41.352715,41.310371,Erol Çarmıklı Caddesi 11,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+cad56177-d141-46fd-8564-74ca8819451b,Keyf-e Değer künefe katmer baklava pide lahmacun,RESTAURANT,41.352463,41.308334,"tuzcuoglu, şehityükselyılmaz cad No:8 D:1",Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+01833c3b-7b04-4f4f-808d-39ff3ea5c832,Seyir Cafe Restaurant,CAFE,41.352459,41.308281,,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+ebe45c5b-c3be-4672-bdc2-06dd32c481f1,Lale Pastanesi,CAFE,41.352242,41.308319,Belediye Blokları,Arhavi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+6ca26a37-5f24-4bfd-a2bc-491a4e1f7296,Kumsal Cafe & Bar Arhavi,RESTAURANT,41.35252,41.309376,Musazade Mah,Arhavi,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+b53a52d3-14ab-4947-a237-ea26787be62c,Sıfır Sekiz Kır Pidesi,RESTAURANT,41.352005,41.309643,Şht. Asteğmen Mehmet Altanlar Cad.,Arhavi,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant
+6396cb5b-0874-4d0b-9204-7920f0d7eba1,Taraça Restaurant,RESTAURANT,41.352009,41.308716,İnönü Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+11242758-065b-4082-b6ef-45a7ed6668ae,06 Lokantası,RESTAURANT,41.3522,41.307365,Atatürk Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+d6d886a7-46c3-40ba-aa92-01473ba6fbc6,BİLbİLan Kuzu DÖNer Sadece Arhavİ'DeyİZ Baska SubemİZ Yoktur,RESTAURANT,41.351784,41.308029,"Yazıcı Döviz Bürosu Yanı, İnönü Blv.",Arhavi,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+addb0e60-d91c-47a1-8d8e-ef7ec477cbb8,Hot Döner,RESTAURANT,41.351601,41.308342,İnönü Blv. No:97,Arhavi,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant
+93d7b717-df68-45f1-bd6a-38e31dad4bc6,Jin Cafe & Pub,RESTAURANT,41.351753,41.307598,"Molla İş Hanı, Kat:6",Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+a7960316-2989-4099-990a-6f5a3f0938fc,Ambar kuruyemiş & şarküteri,SHOPPING,41.351505,41.307629,"İnönü Blv. No:32, 08200",Arhavi,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+ee1b8516-1e9d-448a-8432-37ae0e5fc98d,Beyzade Ev Yemekleri,RESTAURANT,41.351589,41.3083,İnönü Blv. No:97,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c448308f-3043-4152-a3b7-e09a9e1cc47c,Gresta Pide,RESTAURANT,41.3517,41.308815,İnönü Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+4b72e27d-8bcb-4135-8c57-d2f18f814e35,Kapi̇stona Kapistona Cay Ocaği,CAFE,41.351704,41.309204,,Arhavi,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+33dd4ebf-3124-4cc0-ab44-7f7c77174d4d,Lu Cafe&PatİSserİE,RESTAURANT,41.349766,41.307281,Kazım Karabekir Cd. no:17,Arhavi,CDLA-Permissive-2.0,Overture|meta,italian_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant
+a207971e-f0cc-4a99-b92a-48a01ddf5cc0,Arhavi TAS FIRIN,CAFE,41.350761,41.306618,Muszade mahallesi mellet caddesi köy durakları arkası arhavi tas fırın,Arhavi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+d2b87490-57aa-423f-a89c-ae52335d0aaa,Teke Tek Efes Pub,RESTAURANT,41.350971,41.307659,Fevzi Çakmak Cd. No:34,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+3a412c62-0778-488f-83f8-009d3ad6a8e3,Homula Cafe & Bistro,CAFE,41.351208,41.307713,musazade mahallesi şehit er mürsel özdemek pasajı no: 3a,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+910f3910-d918-4d46-b760-5b198bca5c35,Arhavi Dergah Pastahanesi,CAFE,41.351093,41.306652,,Arhavi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+babc1581-de1e-44d2-835e-cef32494590e,Sarı Siyah Balık,RESTAURANT,41.3512,41.303623,Nurettin Çarmıklı Cd. a1,Arhavi,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+d6cd4fb9-5acc-427d-8193-ba263e6965f1,Rafet'in Yeri Balık Lokantası,RESTAURANT,41.351025,41.303867,Nurettin Çarmıklı Cd.,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+01b5ea28-3aab-42c7-bdef-fa6cc3316786,Akyüz Balık Lokantası,RESTAURANT,41.350964,41.303875,Nurettin Çarmıklı Cd.,Arhavi,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+788d816d-f900-4b3e-b5ea-52a7bb823947,Çitir Pi̇de - Lahmacun & Kebap Salonu,RESTAURANT,41.350815,41.304222,İnönü Blv.,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+b96ebed8-bec7-4541-81b1-47d9450cbb73,Bizum Pide&Akçaabat Köfte,RESTAURANT,41.350761,41.303558,Arhavi Şehirlerarası Otobüs Terminali no:4,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+934a8cdf-7385-4d5e-98e6-0d04afc07168,Arhavi spor otel restaurant,HOTEL,41.350742,41.304253,salih caddesi sağlık ocağı yanı,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+efb8ba8d-a404-4439-9c7a-088b5eac0882,Kardeşler Lokantasi Arhavi,RESTAURANT,41.350712,41.304245,Musazade Mah. Yeni Camii yanı otogar karşısı,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+f4709a25-6f46-4812-bfc5-4017a78eaa2e,İkizdere,SIGHT,41.350723,41.304474,İkizdere,Arhavi,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c747ab87-a106-4222-823b-1c3210ded706,Aytun DaĞ Evİ,HOTEL,41.350727,41.30447,"Arhavi, Artvin, Türkiye",Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+92ed51a9-36fc-4a45-9d43-7873715f6f80,Umca Alabalık Tesisleri.,RESTAURANT,41.350746,41.304302,A . Şahinler,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+731661d1-4e14-4c01-a22f-c9bfa554598c,mençuna restaurant,RESTAURANT,41.350819,41.304417,,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+f1f344d4-151f-4756-9154-680bb4429abb,Komagene Arhavi,RESTAURANT,41.350132,41.302387,Eti Cd. No:3A,Arhavi,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+8f8134ba-3328-4d5a-a1cc-1307145d2fdf,Tuna Cafe,CAFE,41.350281,41.302265,"Boğaziçi mahallesi,etiler caddesi, bizum fırın karşısı",Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+7c975bd5-fd8c-4596-9bab-42327556d0b9,Umut Cafe Fast-Food,RESTAURANT,41.350178,41.301754,boğaziçi mh eti cd. atalay apt. no:8,Arhavi,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+5d7d3bd8-d4f0-456c-a6e9-474ac7a5bfdb,Gönül Çay Evi,CAFE,41.350834,41.300915,6. Sk.,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+86b54f55-b41f-4f27-aece-e05afdb75c26,Kiyicik Plaji,SIGHT,41.332138,41.254566,Arhavi,Arhavi,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+9fcb8592-9f05-4ba1-8aed-837e9a3ff02a,Pagen Bungalow,HOTEL,41.355762,41.429489,,Hopa,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin
+56ecaa2c-3cec-40d5-8e52-f7863c35a233,Kazım Koyuncu Anıt Mezarı,SIGHT,41.362442,41.402088,,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+eab6cd66-3401-4752-b90f-234a6f8de4ce,Hopa Sahıl,SIGHT,41.376678,41.392097,,Hopa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+f989f049-bf03-4a1c-81da-586937743d19,�UĞUr’Lu KokoreÇ�,RESTAURANT,41.371326,41.431599,Sundura mah. Viyadük karşısı,Hopa,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant
+11866b26-38c8-4435-8712-c02f8f56fe88,"Hendek, Hopa",SIGHT,41.365993,41.4487,,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+e225b96f-9773-49f2-8d88-ff12f9ecd8bc,Kameni Alabalık Tesisi,RESTAURANT,41.378326,41.560898,,Borçka,CDLA-Permissive-2.0,Overture|meta,spanish_restaurant,food_and_drink>restaurant>european_restaurant>iberian_restaurant>spanish_restaurant
+9938de32-be0f-4768-a5c4-0950a07a2c19,Kamelya Alabalık,RESTAURANT,41.374668,41.558941,Kameni mevkii 1. km,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+cb5f3637-9a61-45dd-852b-62df1c1a0491,Jileni Napşit,SIGHT,41.325554,41.369164,,Arhavi,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+ff7b68ef-7cb7-44b5-a9c0-bd14f2e4ddae,Pilarget kır evi,HOTEL,41.317726,41.393166,Artvin Arhavi,Arhavi,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin
+9e817d7d-5811-4c24-a4db-c49059ed7b4c,Mini Lui Bungalov,HOTEL,41.319996,41.368778,Mevkii No:21,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+f9fd211d-a0d5-4376-bfd4-98ac87e5d58f,Orci Bulutlara Komşu Caffe,CAFE,41.303978,41.387451,Üçler Köyü,Arhavi,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+56858f15-a087-4444-b04c-25f794513dc5,"Ortaköy, Arhavi",SIGHT,41.284161,41.384716,,Arhavi,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+24ce5701-5472-41e9-9fd0-e0ba81f2c39c,Çifte Kemer Köprüsü Arhavi,SIGHT,41.277302,41.364525,,Arhavi,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+2b00c2bb-7f58-4b58-b96f-f891faf8c113,Çifte Köprü Restaurant,RESTAURANT,41.276108,41.375702,Arhavi Ortacalar Yolu,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c504df8e-c771-48ce-84b4-5adbc6a9cedc,Çiçek Patisserie,CAFE,41.277729,41.560989,Damar Caddesi 35,Murgul,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+d45505cc-8e95-40b4-b993-7f35f00432fd,Göktaş Ekmek Fırını,CAFE,41.278381,41.562206,Cumhuriyet Cd.,Murgul,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+a44015af-cf5d-4f16-8207-f079f7f435e2,GONCA Restaurant,RESTAURANT,41.278305,41.562084,CUMHURİYET CAD KÖPRÜBAŞI MEVKİİ,Murgul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+0792fb4f-e265-4fdd-a34e-d8be8d5f5430,Femor cafe ve pastane,CAFE,41.278519,41.562176,,Murgul,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+3ecb17e8-b881-4f2a-95a1-573301e8f6f6,Efkar Tepesi,SIGHT,41.279728,41.56126,,Murgul,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+19f41883-9d73-4a60-9d38-bc739341cc62,Efkar Tepesi,SIGHT,41.280281,41.561382,,Murgul,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+79885188-d873-4f4c-9f28-76646796f9dc,Deliklikaya Alabalık Çiftliği ve Restoran,RESTAURANT,41.283989,41.516529,,Murgul,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+372ee548-c547-4e3f-bfb4-cf6cae581fd2,Murgul Başköy,HOTEL,41.297668,41.526222,,Murgul,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+30b444de-6b55-45ed-abc6-2ee36221a91c,Murgul manzara tepesi,CAFE,41.289585,41.566326,manzara tepesi,Murgul,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+d6433c59-7958-432a-a657-8494bf485ac9,Kokolet Vadisi - Murgul,SIGHT,41.291679,41.579063,,Murgul,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+241c1d04-5013-45e4-9217-845950c6170b,Dostlar Lokantası,RESTAURANT,41.278419,41.563057,Cumhuriyet Cd.,Murgul,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+f041135b-8bd5-4284-b5bf-dfa7a9b7d777,Ayka Restoran Murgul,RESTAURANT,41.2784,41.563011,Ayka Pide Ve Izgara Salonu,Murgul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+24b9eaaa-eed0-4de2-b328-acce578283dc,Eva Cafe,CAFE,41.27845,41.567669,,Murgul,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+3eaac60a-5e88-4d3f-8fdb-00d8a88ad54b,Delikli Kaya Şelalesi,SIGHT,41.274288,41.500488,,Murgul,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall
+6cf541a9-0a69-4a12-90b6-fd62c3ea4a8d,Mençuna Konakları,HOTEL,41.267807,41.370819,Kamilet Vadisi Mençuna şelalesi mevkii,Arhavi,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast
+4ddb5275-1cda-4235-80c0-86a7b33e4e9e,Vadi Restoran ve Konaklama,RESTAURANT,41.258179,41.359348,Kamilet Vadisi No:1 Arhavi/Artvin,Arhavi,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c6c5c757-d4db-4b84-a1a2-35df23c7e9d4,Kamilet otel ve restoran ,HOTEL,41.252041,41.354832,Kamilet Köyü İç Yolu\n08290 Arhavi Artvin\nTürkiye,Arhavi,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4f0ef1ab-c508-4d94-ab6b-7d8d223fabab,Mençuna Konakları,HOTEL,41.240189,41.351593,Kamilet Vadisi Mencuna Şelalesi Mevkii,Arhavi,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast
+c49f0952-3028-4b35-b498-aad5b338e4c9,Gevul Dağı Yaylası,SIGHT,41.132832,41.558701,"4H54+8MQ Taşlıca, Artvin Merkez/Artvin",Murgul,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+d8760009-f8ee-4a10-ba78-7b03e1a9efc4,"Karahan Pension Barhal, Artvin-Turkey",HOTEL,40.970119,41.382908,"Barhal Kilisesi, Altıparmak Köyü",Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4a813411-c899-4357-9c4c-1995f9f19169,Karahan pansiyon,HOTEL,40.970119,41.382908,"Altıparmak(Barhal) Köyü Yusufeli Artvin, Karahan Pansiyon",Yusufeli,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+188716c9-b2b0-41ea-bd03-af97390bb4fa,Barhal Manastırı,SIGHT,40.970314,41.383472,Altıparmak Köyü,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+a39d1fb8-1ec6-4134-8313-21460e146e04,Barhal,SIGHT,40.967552,41.397106,"Barhal,Altıparmak Köyü",Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+a1558081-9b60-4439-a1a1-196a6c60c1b8,Tepe Restorant,RESTAURANT,41.379791,41.398857,D010,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+d244748b-384a-4ab0-acdf-3f2a152d944a,Terzioğlu Otel,HOTEL,41.388203,41.413197,Sundura Mah. Rize Cad Sundura Çay Fabrikası Yanı No:27,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+9c41743c-9709-4a33-b4dc-b1d6b626a674,Terzioğlu Cafe & Bar,CAFE,41.388798,41.413872,Rize Yol Üzeri Terzioğlu Otel Alti,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+825fac58-9e9b-44c6-88e6-10e8a8c3f42e,Hopa Sahıl,SIGHT,41.387547,41.417622,,Hopa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+ca0a1a89-efa0-4c57-947e-4c22f6bcf3b4,Paleni cafe,CAFE,41.388126,41.417812,Trafo Cd. No:15,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+4dd10e79-b7e8-42bb-875a-1950da2f7fa3,Hopa Örnek Ekmek Fırını,CAFE,41.388885,41.418289,Lise Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+b75969dc-6932-4aa5-a825-d3bff8ec64d9,Yeğenoğlu Market tekel Şarkuteri,SHOPPING,41.390144,41.416248,,Hopa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+1ce8c806-c12e-4815-b979-3741e9ce474e,�UĞUr’Lu KokoreÇ�,RESTAURANT,41.391724,41.417583,Sundura mah. Viyadük karşısı,Hopa,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant
+d20e3af8-1c92-44cf-aa81-a3dc24b54dad,Memo CaĞ DÖNer,RESTAURANT,41.392689,41.418812,Kars Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+50003fd2-d445-43f2-9546-1ec6f29168f9,Yakutoğlu Pastanesi,CAFE,41.392994,41.41869,Dumlupınar Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+2d6f131e-ac33-43e1-9f9d-26386dbb146d,Cig Kofteci AHMET USTA,CAFE,41.393185,41.418537,Hopa,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+03370939-68a0-4b94-9f9c-c7970a77d07f,Artvin Cağ Döner Hopa,RESTAURANT,41.393089,41.418545,"sahil caddesi no42, 08600",Hopa,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
+7e43858e-709d-420a-aa18-d754e8b0b7f5,yazıcıoğlu deniz ürünleri,RESTAURANT,41.392715,41.418453,Kars Cd. Belediye Balıkhaneleri,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+aa42c0c0-6bfb-45f0-9834-c8459fbac278,Otel Istanbul,HOTEL,41.392662,41.418331,Kars Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+8bb4878d-68ad-44ac-8504-14a7fea25a3d,Hopa Heyamo Hotel,HOTEL,41.393074,41.418316,Sahil Cad No:48,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+6a65f22f-eadf-4ffb-b3c7-899505d1027b,YALI Restorant,RESTAURANT,41.393818,41.41785,Karadeniz Sahil Yolu,Hopa,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+d4fe0a65-6893-4f25-8645-113f99e16399,Nüans Cafe Pub,RESTAURANT,41.393272,41.418655,"Nuans Tekel, Sahil Caddesi 46",Hopa,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+dc2e362a-116e-4381-9c1b-1422900fec9f,Baklove'A Cafe & Tatlıcılık,CAFE,41.401638,41.427162,Turgay Ciner Caddesi 86B,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+abc2c425-ac43-4945-bbc8-659a9f3ebc82,Ortahopa Etibank Yani,SIGHT,41.401257,41.426815,Turgay Ciner Caddesi 90,Hopa,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument
+a431b509-0407-4b35-8a5b-fbc028eb8397,Hopa Kyk Kiz Yurdu,HOTEL,41.398926,41.425838,Hopa,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4b59c361-7437-444e-b2b6-23e5f27cce51,Kuzine kebap evi Restoran,RESTAURANT,41.398308,41.423908,Turgay Ciner Cd. Pk:08600,Hopa,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+5c9e4660-f85a-45a2-bcd3-184cd8f2eac9,Dios Resim Müzik Sanat Akademi,SIGHT,41.398441,41.424896,Turgay Ciner Caddesi 90C,Hopa,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery
+f1f2505e-d1a6-4e5f-af2e-c8189c41677c,Hotel Peronti,HOTEL,41.399227,41.424824,Turgay Ciner Cd. ،,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+81c37f12-6568-494d-8b4f-f8b9d5776914,Cihangir Lahmacun / Pide / Kebap Hopa Şubesi,RESTAURANT,41.399609,41.424847,Turgay Ciner Caddesi 41,Hopa,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
+ba31f4f8-28d6-4d9f-93dc-2d43092993ef,Nana Hotel,HOTEL,41.399681,41.424892,Turgay Ciner Cd. No:46,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+107f9be0-33d1-4f5d-8203-639960feeb22,Artelye Kahvecisi,CAFE,41.400116,41.425331,,Hopa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+de1e9395-41ca-48d9-9e11-389c16695298,PAP CAFE,CAFE,41.400646,41.425694,Turgay Ciner Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+e831b574-badd-4fbd-8b7a-a95f22db37fd,Artvin Hopa Papila Otel,HOTEL,41.398083,41.423347,Sahil Caddesi 96,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+7797d14b-e1bc-49fd-8678-00fe1290375c,Hocanın Yeri Akçaabat Köfte,RESTAURANT,41.397446,41.422646,Turgay Ciner Cd. No:29,Hopa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+2d88ea14-8507-4186-90ae-6ed6927ef6f6,Borçka-Karagöl,SIGHT,41.397896,41.422672,,Hopa,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+649ecfea-8d4b-4b7a-8531-f9005193754a,Pizza Bakkal,RESTAURANT,41.396881,41.422203,Turgay Ciner Cd. No: 17/A,Hopa,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
+00bfdbe0-7782-4eb3-8e36-e70250435d37,Mini Pizza Burger,RESTAURANT,41.396809,41.422123,İnönü caddesi,Hopa,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant
+ce69d50b-081b-4a66-b6dc-a6fa478fef49,Hanımeli Kafe,CAFE,41.396149,41.421822,Turgay Ciner Cd. No:12,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+6e046ddc-9100-4bcf-bc51-0691486b5683,Hopa Hot Döner,RESTAURANT,41.396511,41.421825,Merkez Kuledibi Mah. Maliye Binası Altı,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+b3864b80-83b2-41e9-98d3-c64b62bdae0f,Cihan Hotel,HOTEL,41.396687,41.421761,Sahil Caddesi 74A,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+1f1ab135-01a6-46de-880d-c4ca7f6e6408,Garage Cafe Bistro,CAFE,41.397472,41.421631,Sahil Cad No:11,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+9bbd6f2b-f492-4503-949a-56a3f6fb5977,Kazim Koyuncu Aniti,SIGHT,41.397346,41.42152,,Hopa,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum
+d70008c4-4ef1-463c-a7aa-51f83ae5ba15,Rengin Cafe,CAFE,41.397247,41.421516,,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+fba4648f-ea56-40b7-846c-9905e465d433,Cennet Pastanesi,CAFE,41.396252,41.421524,Turgay Ciner Cd. No:12,Hopa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+63eb21e7-2a24-4446-a616-5822e2268cf6,Atapark Depur,CAFE,41.396343,41.420372,Sahil caddesi No:11,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+94ca7c23-97bf-40c2-901e-c6ebc0d9f81c,İstasyon Cafe,CAFE,41.396584,41.420876,"Kuledibi Mahallesi, Sahil Caddesi No:7",Hopa,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+354ffd54-bdf1-4d01-8a73-2bd0c0506c26,Green Garden Cafe & Kebap Salonu,CAFE,41.395817,41.421089,Kaymakanlık Önü,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+5862a9f9-0892-4aee-b93a-be078016f2d2,Hopa Titanik Eglence Merkezi,CAFE,41.395241,41.420597,Hopa İş Merkezi 4 Kat,Hopa,CDLA-Permissive-2.0,Overture|meta,,
+b80b12f7-dbc1-4bcf-a651-13a67e03c7a1,Titanic Restoran,RESTAURANT,41.395359,41.420971,Turgay Ciner Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+8564e4e3-0755-4102-a759-52c30de7a82a,Hopa Ogretmen Evi,HOTEL,41.393814,41.420673,Cumhuriyet Meydanı,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+0ce8a083-bbfc-43ba-a752-9343a08f9dc4,Karabulut Butik Otel,HOTEL,41.394611,41.420326,MAH.CUMHURİYET MEYDANI NO:6,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4ce35f8a-c7f3-47d7-bc6f-939937c369b9,Mekan Pançuni,RESTAURANT,41.394127,41.420025,Metin Lokumcu Meydani,Hopa,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+86e21df3-8c75-47e7-8d74-7484e52fcdf3,Pançuni Et Mangal,RESTAURANT,41.394196,41.420063,,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+01056817-ead2-4a32-ac80-ae4da7a28f0b,Kani Usta Döner,RESTAURANT,41.394554,41.420261,Cumhuriyet Caddesi 32,Hopa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+3fb11bbb-3aa5-499e-b34c-d9ca46f5e616,Kral Restorant,RESTAURANT,41.394489,41.42009,Sahil Caddesi 9/b,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+75b0d81d-445d-4fa8-b117-117142b8d08b,Salaş Cafe,CAFE,41.394764,41.420128,"AL-TO İş Merkezi Üstü, Cumhuriyet Meydanı",Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+a99f347a-cdb8-46a2-92d5-7c385be91650,Katık Döner Hopa,RESTAURANT,41.395016,41.420368,Merkez kuledibi mahallesi Cumhuriyet Meydanı 12:D ,Hopa,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant
+338669ba-412f-4b9f-b3d2-052ff339ff91,Beyaz Saray Hotel,HOTEL,41.394711,41.420395,Turgay Ciner Cd. No:7,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+a26d7b02-41ee-46d6-b64e-b393e4936f41,Nanna Pastahanesi,CAFE,41.394787,41.420464,,Hopa,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
+8a22b361-02d7-46ae-880a-154dc8e0f34f,Cafe Vista,CAFE,41.394756,41.420483,Turgay Ciner Cd. No:110 Kat:5,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+6b40a0a1-7579-4c07-8e2d-7b921c81689c,Beslen Lokantası,RESTAURANT,41.395306,41.420532,Eski Hopa Artvin Yolu,Hopa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+9d18b656-508a-4643-8f68-10828059fe3f,Murtezz Kebap & Pide Sarayı,RESTAURANT,41.395271,41.419613,,Hopa,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+abcd50b2-d5b1-4780-8f36-df1eaf593a0c,Waffle Evi'mm,CAFE,41.395832,41.419441,"Parkı, 14 Mart Cd.",Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+5bdda159-2483-4716-aedd-c1ed0038b294,Oziden pide,RESTAURANT,41.39518,41.41885,Sahil Caddesi 7,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+1ffa032c-3faa-4d49-8130-1f217249e933,Rize Sahil,SIGHT,41.394978,41.418907,Rize Sahil,Hopa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+56956602-4c80-4fd7-83ca-06a4566a9376,Sönmez Kafe,CAFE,41.395367,41.419392,sahil cd no:5,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+5db7a864-87ea-425c-bd68-5abcd84136d9,Huzur Otel,HOTEL,41.393658,41.419071,"Akbank yanı, Sahil Caddesi No: 56",Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+cf2d8feb-5eec-4e70-a424-ac0e31077aab,Ustabaş Otel,HOTEL,41.39344,41.418892,Dumlupınar Cd. No:56,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+46a8e058-084d-45b8-8918-827945658eb3,Aspirin Pide ve Kebap Salonu,RESTAURANT,41.393372,41.418991,Dumlupınar Cd. No:21,Hopa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+6cafa2ef-0e14-4374-90f0-1c1b01076faa,Mavi Ay Birahanesi,RESTAURANT,41.39357,41.419254,Dumlupınar Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+9759263a-2668-4f8d-bad5-aafee7549712,Hopa Gülcihan Park Otel,HOTEL,41.39386,41.4193,,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+a624022d-9502-4161-9a00-0e9e93d52511,Manolya Pastanesi,CAFE,41.393906,41.41938,MERKEZ KULEDİBİ MAHALLESİ SAHİL CADDESİ AKBANK YANİ NO:58,Hopa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+5c9e5693-6258-4541-922c-9496062a719a,Garci Cay Evi,CAFE,41.393951,41.419579,,Hopa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+93333924-1c27-48d9-84ac-5160ba8d98c9,HOPA SARAY Pastanesi,CAFE,41.394009,41.419521,Sahil cad. Gazioğlu İşhanı Altı,Hopa,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+b3d59e92-0fcb-4acf-9a44-00c87de88857,Çarkçı Lokantası,RESTAURANT,41.394051,41.419521,Dumlupınar Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+688bacae-52c5-495d-8c9a-6815325fc673,Hopa Anl Otel,HOTEL,41.394287,41.419907,CUMHURİYET MEYDANI,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+89cf76a8-6d4d-4ef2-b835-5f0042875b05,Kristal Pide,RESTAURANT,41.392776,41.419853,,Hopa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+8eda374d-1bed-43d0-9b8f-160f88a781ca,Koliba,RESTAURANT,41.392696,41.419426,1. Cadde 1A,Hopa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+2b34a5cf-4ed5-497d-ac13-796735d5b98c,Örnek Simit Unlu Mamülleri,CAFE,41.392712,41.419628,Eski Kars Cad,Hopa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+53327ed5-ccc7-4fe9-8663-9c20035702ba,Chicker's,RESTAURANT,41.39278,41.419353,,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+902fc35e-3cba-4b4c-9432-f5a5b6f22f0d,KÜÇÜK EV,CAFE,41.393066,41.419167,Cami meydanı HOPA / ARTVİN,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+70364670-1be0-414d-a903-bfd9bd4629ab,Hotel Flash,HOTEL,41.391403,41.419872,Artvin Cd. No:20,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4d6d99a4-41ff-44d9-aa4b-0e7b326e058e,Hopa Tan Elektrik,SHOPPING,41.392399,41.420784,Kars Caddesi Turan Altıntaş İş Merkezi,Hopa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+e7748dea-65a5-4512-85ac-cc25008bc0a1,Hızır Dayı Pide,RESTAURANT,41.392464,41.421146,Kars Cd. No:71,Hopa,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant
+80ae0cd5-1661-4f75-9d10-4cd30af68ff2,Garden Kebap,RESTAURANT,41.395817,41.421356,Turgay Ciner Caddesi 5,Hopa,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+61dfbdae-5aed-4752-bebf-3d5d68c47149,Art Cafe,CAFE,41.395676,41.421555,,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+965e144a-b58c-49b3-aa62-1f72ad0f4551,Paluri Hotel,HOTEL,41.390591,41.423107,Artvin Cd. No: 28,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+5e51bac4-aa72-406e-820f-2b1a1eae3ce9,Gazi Lokantası,RESTAURANT,41.386822,41.422852,"Sundura Mahallesi, Dumlupınar Cad., 08600 Hopa/Artvin",Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+276f8486-878d-4c6f-8408-edbafee1abd5,Özel Ümit Yüksek Öğrenim Erkek Öğrenci Yurdu,HOTEL,41.387012,41.421246,Lise Caddesi 62,Hopa,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+3ca78a38-8549-42ec-b1ec-2ea41ed47cf5,Karslı Ticaret  Hopa Arhavi Fındıklı Ardeşen,SHOPPING,41.390209,41.421558,3. Cadde,Hopa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+9681fe44-a91c-42fa-941f-c14bfb346d20,Hopa Sundura Mh,HOTEL,41.388874,41.420918,"Emek Tuhafıye, 3. Cadde 23",Hopa,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+a79a75ca-c3b8-4081-b93f-b68db6d80439,Dido Pasta & Cafe,CAFE,41.388229,41.425011,Lise Cd. No:46,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+5bc66649-883e-4736-962e-776253bac7ff,Taşköprü,SIGHT,41.385818,41.430328,Sundura Mah,Hopa,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+a90b7d7b-bb9a-4a81-934c-38b809a69971,Hopa Sundura Mh,HOTEL,41.386818,41.429802,"Emek Tuhafıye, 3. Cadde 23",Hopa,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+de34d21f-b199-400a-bfeb-a59614496086,Hopa Ata Park Restoran,RESTAURANT,41.385906,41.429462,,Hopa,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant
+b759a327-f902-491f-a216-9d113b56aa98,Pasalı Dayı'Nın Yeri,RESTAURANT,41.387272,41.444691,Yeni Artvin Yol Üzeri,Hopa,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+089edc94-543f-459a-a174-3a825e947669,Queens Cafe,CAFE,41.387859,41.444702,,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+da38924a-b6be-4d94-a51d-80a7ae528f08,Hopa Müzesi Ve Kültür Evi,SIGHT,41.405895,41.432869,,Hopa,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum
+06f0897a-e2e5-414b-9d53-9fe7ea329dba,Hopa Dergah Pastanesi,CAFE,41.405045,41.429379,"Lıman Bufe Enez, Sahil Caddesi 170",Hopa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+987ecbc9-f7bc-4bb0-a57a-0ea271ff065e,Ayyıldız Park Avm,SIGHT,41.405273,41.429958,Ortahopa mah. Sahil cad. No:244/35,Hopa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+41f281a8-ded2-472d-9f56-a6f20c7841c4,Muppa Coffee bakery,CAFE,41.403183,41.429386,Turgay Ciner Cd. 100/A,Hopa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+445b9d4c-4976-48ca-83fe-4f1e1af96bbb,Lalezar,CAFE,41.403442,41.429348,Turgay Ciner Cd. No:103,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+7ca5c97c-f892-46b3-962d-9307736a839e,The Burger House Coffee&Grill,RESTAURANT,41.403446,41.429665,Turgay Ciner Caddesi,Hopa,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant
+c7d31c46-a88a-4b01-b0fe-e238baf5154c,Ayvalik Tost Evi,CAFE,41.403694,41.429722,Turgay Ciner Cd. No:107,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+d2f80671-10b9-4b43-9fa9-bd91cbffd400,"Orion Coffee / Pide, Lahmacun & Pizza",CAFE,41.402782,41.428894,Turgay Ciner Cd. 96AB,Hopa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+0c715b19-f926-4699-ad76-b9652c30f6b4,Elit Tower,SIGHT,41.402588,41.428711,Orta Hopa Mah,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+ad72ebac-ccad-4715-96de-4ff908d6abd8,Semazen Kafe,CAFE,41.402611,41.428196,Turgay Ciner Cd.,Hopa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+fc982bb1-5f92-4cfd-b5a2-4feb9530696e,Batum Plaj,SIGHT,41.46027,41.473915,,Hopa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+c91f9a34-91f6-432f-896f-bf22271a407f,Çiftlik Restoran,RESTAURANT,41.460014,41.477615,Plaj Üstü,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+800fbeaa-e6ca-458e-a98d-e362cc7e36f6,Kopmuş Plajı,SIGHT,41.454746,41.472004,,Hopa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+b19a990c-7cfb-4dee-802c-811d88780b9b,Kopmuş cafe restaurant,RESTAURANT,41.454597,41.472012,E70,Hopa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+51a4721f-ef54-4678-9b58-7f6e8469c3e5,Mukem Kafe,CAFE,41.458134,41.472755,,Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+0f248c95-11a3-45fe-8a18-b50f46965205,Esenkıyı Tır Parkı,SIGHT,41.439407,41.455292,,Hopa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+8eb0158e-6fdb-4058-be17-b21174248677,"Esenkıyı (Azlaga, Abuislah)",HOTEL,41.440857,41.456753,,Hopa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+fa9eb853-e21a-4f21-bd3a-05e531799cff,Esenkıyı Aile Çay Bahçesi,CAFE,41.441139,41.456657,"Hopa Artvin TR, Karadeniz Sahil Yolu",Hopa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c00a603c-2654-43ce-b27e-d6f834bb165f,Toprak Saha Tır Parkı,RESTAURANT,41.43969,41.45591,,Hopa,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant
+2baf111d-4410-4c88-9118-08d060394a20,Esenkıyı Sahili,SIGHT,41.440643,41.455853,,Hopa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+dc589449-c1d0-4a79-a903-2f46759a4ff9,"Esenkıyı, Hopa",SIGHT,41.439693,41.463394,,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+f70ae3e4-c405-48cc-aea2-478f7558f909,"Başköy, Hopa",SIGHT,41.415997,41.462494,,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c6189eae-ee45-4b12-b49f-0dc549bb5825,Aden Konutları Hopa/ARTVİN,SIGHT,41.401943,41.452229,Merkez Kuledibi Mah. 18. Sokak No:6,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+d166f4ea-9267-4ec8-9e10-b3185331b56c,"Liman, Kemalpaşa",SIGHT,41.466999,41.492393,,Hopa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+b118251f-381b-4e78-8fdb-f926ce5b9f3e,Subaşı Viyadüğü-Hopa/Artvin,SIGHT,41.384697,41.505718,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+92b1dd1b-829a-4170-a94b-e6273d1dafcc,Mem-Et Doğa Restaurant,RESTAURANT,41.400902,41.516048,Hopa Artvin Yolu No:53,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+10dac890-c66a-4f87-9f8c-1b82522339bb,Odun Ateşinde Çay,CAFE,41.386845,41.553295,Çifteköprü Köyü Yolu,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+d32717cb-ae51-4f7b-9dfc-e9d4cab89f19,Makriyal Ekmek Fırını,CAFE,41.481056,41.527363,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+966b00cc-9922-4383-a51e-38c794909819,Karadeniz aile çay bahçesi,CAFE,41.481087,41.526714,"Karadeniz aile çay bahçesi, İnönü cad no.4",Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+256f9609-4593-41a8-84d0-9e0a4f78c259,Katık Döner Kemalpasa,RESTAURANT,41.481529,41.525467,Gazeteci Uğur Mumcu Caddesi 12,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+905e5401-8d9f-480e-aed4-98026fc1f161,Enerji Dolu Aktif Yaşam Merkezi,CAFE,41.483936,41.525097,Atatürk Bulvarı 14,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c399f45c-c86d-4ff6-9805-6848415ab0c0,Bageni pide salonu,RESTAURANT,41.482533,41.525913,Sağlık ocağı cad. Kemalpaşa,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+04408bbc-7ee3-4e65-9c2c-f70a67d44b05,Şelala pide salonu,RESTAURANT,41.481415,41.525692,Atatürk Bulvarı 18,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+bcf97406-c55d-4869-9edd-d892fcdb53ae,Dergah Pastanesi kemalpaşa,CAFE,41.481342,41.526367,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+7a54fdcf-6361-4082-b503-cc2a3d34e120,Kemalpaşa Sahil,SIGHT,41.48119,41.52684,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+7070565a-6c32-4dca-80a1-8a5a535aa23f,Karaşahlar,SHOPPING,41.482014,41.527699,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+6e90c80e-8751-4833-a351-794f175258dc,Bena Socks Iç Giyim,SHOPPING,41.486233,41.527504,Hopa,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+22ead29f-e18d-452e-8585-54f7c0ac72bf,Zero Cafe,CAFE,41.488678,41.526695,Makriyal Kilisesi,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+d175cdec-a753-48f5-9f5e-d55503e07c4a,Deniz Sofrasi,RESTAURANT,41.482613,41.523209,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+7c20aff1-68f4-4857-b486-6707974ff356,Kemalpaşa Polis Merkezi,SIGHT,41.483257,41.523418,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c817ad65-fbc5-406a-9cba-6c7a01b8deff,Miss Ocakbaşı,RESTAURANT,41.482498,41.522942,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+0b5de238-7df2-4f7b-b0c7-c5f538b16de5,Loca Bistro & Pub,RESTAURANT,41.482216,41.522507,Barınak mevkii Küme Evleri 12/1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+af57918b-f5bf-411a-b605-5f4fe964852f,Kasaba MePub,RESTAURANT,41.482117,41.52216,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+66e0d8ab-72ab-4108-ae31-00f2c61aaac4,Göçebe,CAFE,41.483006,41.521534,Barınak Mevki,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+22faebf5-0d7a-4ace-a6d2-0b0a97bada6c,Şevket Baba Balık Restaurant,RESTAURANT,41.481956,41.522015,Kemalpaşa-Sarp Sahil Yolu Üzeri Tünel Çıkışı,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+9c319965-9868-42fc-a4c8-0f4b53cc288f,Çakıl Restorant,RESTAURANT,41.496082,41.531075,Atatürk Bulvarı No:95,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+6a34233a-39e1-44e9-a378-bd63c190decf,Artvin Hopa Kemalpaşa Sahil,SIGHT,41.495426,41.530788,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+b7560dd6-1b73-4286-8272-f3b84ad5fa6f,Risus Country Serender Park,RESTAURANT,41.495285,41.531101,Atatürk Bulvarı No:91,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+e95dd49c-fd1d-481a-91e6-0a22108ffc80,Akasya Balık Restaurant,RESTAURANT,41.494629,41.53043,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c2c46853-a7cb-4a93-b17e-1162167726cb,Akasya Cafe,RESTAURANT,41.494473,41.530266,Kemalpaşa Sahil,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+18b5a652-3420-4bbe-b282-b64f606f1c12,Akasya Restorant,RESTAURANT,41.494431,41.531601,Atatürk Bulvarı No:87/1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+288ee3d5-0ab4-4dac-8c70-765185546b31,Kulüp,RESTAURANT,41.497761,41.531525,Atatürk Bulvarı 95D,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+0acfa812-3e60-4b95-ad82-fe1b6d449d4b,Tünel Kavşağı Kemalpaşa Sarp,SIGHT,41.502747,41.533695,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c443f598-b85b-481b-88d6-6f5a38d65b8c,Garvela Bungalow,HOTEL,41.500908,41.535267,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+896f2cdc-9937-4452-a85c-97e78ae4c0f3,Loidevilla,HOTEL,41.492901,41.536037,uzunyalı mah. Dr. Alper temur cad. Karadağ sok. No:1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+55115108-60ba-4257-8a9d-fa70cc04bdea,Cezve Kahve,CAFE,41.492241,41.533737,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+ad798089-802b-4e33-b3e6-3a602b248ad9,Hapito's,RESTAURANT,41.492237,41.533199,İstanbulbazzar Awm,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
+ec15d8a4-5f54-455f-ab47-4f1cd5e0f0f4,İStanbulbazaar Avm,SHOPPING,41.492191,41.532894,Dr.Alper Temur Cad,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+aa78ad23-9b24-4ba1-b29a-7a0536d9e0b0,Burger King,RESTAURANT,41.492355,41.532597,Uzunyali Mahallesi Ataturk Bulvari Yesildere Caddesi Istanbul Bazaar AVM No: 55-56 Kemalpaşa,Kemalpaşa,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+93bcfc09-3118-42a8-a20d-b3205d24f3c3,Sarp Otel / Artvin-hopa,HOTEL,41.491245,41.530136,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d8f0ea5a-b663-4b2d-94fb-7e837eefbcb0,Sarp Hotel,HOTEL,41.491215,41.530258,Atatürk Bulvarı No: 65/1,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+99d232e8-58ae-4f3f-88eb-f4a8f5885366,Ayder Natura Lodge,HOTEL,41.487675,41.529438,Ayder Yaylasi,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d0a5ee2a-5d20-487d-a6c2-77ce8c855896,Ecevit Tesisleri,RESTAURANT,41.488125,41.529533,Uzunyalı Mah,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+e5de7ca4-7f21-4cbd-b677-b28d8a23a629,Lila Cafe,CAFE,41.485378,41.529556,Lila Düğün Salonu Altı,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+89e18c9e-9f04-42a7-80e9-011c815760d5,Batum Gürcistan Sheraton Otel,HOTEL,41.517372,41.546131,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ddd6fd57-95b7-4477-b1c1-4493cd107603,Sarpi Beach,SIGHT,41.522568,41.547867,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
+8961220e-a495-4684-af13-6beb59abe81b,რესტორანი ანაკლია სარფი • Restaurant Anaklia Sarpi,RESTAURANT,41.52314,41.548923,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+6ac3ba74-cb66-4cfb-a7b7-c1f5e86b8b28,Kvari Hotel,HOTEL,41.521301,41.548573,"Pervi pereulok Ioana Lazi, 33",Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+8e50ca40-348a-4d6c-ae70-9bfac0dc4d06,Sarp Sahil,RESTAURANT,41.473774,41.505753,Kara Deniz Sahil Yolu,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+21840f2e-5ebc-4f55-95e4-cf33f7f22d47,Selimiye Tunnel,SIGHT,41.472221,41.504166,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c20de731-d283-4577-916b-45886f8cb84e,Armut Duzu,HOTEL,41.476208,41.560425,Kemalpaşa,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+0520be33-8569-4356-b540-078fbf851a7b,Gohula Soğuksu,HOTEL,41.45879,41.572506,,Kemalpaşa,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+5d24b66f-71da-4a38-8160-07335aa94e20,Mavi Ay Alabalik Uretim Ve Dinlenme Tesisleri,RESTAURANT,41.383343,41.57061,,Borçka,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+f31f1ca5-28e0-448d-8e64-8024838dee96,Yedigöller,SIGHT,40.683205,41.670624,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+be53b409-62a7-4ff0-bc68-c5551243395f,"Darıca, Yusufeli",SIGHT,40.737293,41.797394,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+d55a83a2-50ea-4b60-90fe-eb248052960e,Yusufeli Baraji,HOTEL,40.811184,41.640636,yusufeli Limak baraji,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d6d1dd4a-79d2-4729-8002-7adef448e29a,Yusufeli Barajı Seyir Terası,SIGHT,40.821182,41.658146,Yusufeli Barajı,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+437b59d8-1ab0-4757-a910-24b2cd433355,Yusufeli Baraji,HOTEL,40.821644,41.66293,yusufeli Limak baraji,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+bda74b03-84d2-4535-bd2c-01b4595b7a07,Artvin Yusufeli Barajı,SIGHT,40.82164,41.662567,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+6a0ee943-db4a-4853-98af-ce6320a99fb5,Haran Yaylası (Artvin),SIGHT,40.832207,41.665859,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+e992053b-0a75-45db-86bb-f88c576f5287,Khakhuli Monastery,SIGHT,40.862221,41.760277,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+7fd8800a-4cd0-42ca-806c-09e2cef9a0cd,Malakes,HOTEL,40.853283,41.889534,Olur,Yusufeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ce0a2b1e-bc16-4d0f-9db0-805ab8255238,"Aşağımaden, Artvin",SIGHT,40.98333,41.833332,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+d765473b-8ae8-43eb-a0c7-718da63ae094,Artvin Dam,HOTEL,40.93491,41.768658,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+d2fb38b3-4e5c-4e39-827f-a4f14439d49d,"Tarakçılar, Yusufeli",SIGHT,40.933327,41.73333,,Yusufeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+2ad57088-ce97-455e-904a-c9d72d676325,Hatila Vadisi Millî Parkı,SIGHT,41.185833,41.733883,,Artvin,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+ca0ec9f5-e9b7-42af-aca7-cbb428911faf,Avcala Gastro Fikir Sanat,HOTEL,41.202797,41.791939,Yukarı Küme Evler 25A,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+3aa4fb0e-d476-4266-8979-080d4989f81a,Koru Butik Otel,HOTEL,41.193111,41.81181,"Koru Butik Otel, Yeni Mahalle,Orman Yolu,1. Sok No.2",Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+f1092b1f-9b0e-46e8-b2fd-6ba10c091e4c,Villa Da Butik and Otel,HOTEL,41.188293,41.826427,Kazım Karabekir Cd. No:101,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+26a5eefe-84db-4cc1-ba97-f40cdfb14ea8,Artvinkoruotel,HOTEL,41.187328,41.817123,yeni mahalle orman yolu sokak:Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+643f0077-736e-4bb1-b2e9-2f56d5ba280d,Artrium Shopping Center,SHOPPING,41.186119,41.819649,Sanayi Sk. No :03,Artvin,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+2050e6b0-2501-46ff-adc3-f8ab36f52442,Simit Sokağı,CAFE,41.186131,41.819641,Sanayi Sk.,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+29637301-99f4-46bc-9f65-8956f9819f5e,Şahzade lahmacun,RESTAURANT,41.185364,41.819908,Çarşı,Artvin,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant
+fba7ab08-e522-47ec-b56a-475aab3fa7b7,Artvinim AVM - artvinimavm.com,SHOPPING,41.185505,41.819866,Hastane caddesi,Artvin,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+8d975149-cdc5-4db2-b003-b645d5653c6d,Kolorta,SIGHT,41.183784,41.81757,Çarşı Mah,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+be60c658-4322-4fe4-83e1-000e009d4aab,No1KahveEvi,CAFE,41.183212,41.821064,Miralay Şükrü Bey Cd. No:3,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+41d5b81f-3419-41b2-8fa0-d5b4fa03fd70,Kaçkar Taş Firini ve Unlu Mamülleri,CAFE,41.182896,41.822472,demircioğlu sok,Artvin,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+d1b976d2-060f-479d-9e02-c193aa75ffd7,Numune Ekmek ve Unlu Mamulleri,CAFE,41.182808,41.822853,Miralay Şükrü Bey Cd.,Artvin,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+6d1365c8-e917-40aa-a3bc-9093066f37fd,Artbull CAFE,CAFE,41.182682,41.826294,Sakıp Sabancı Sk. No:1,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+d5f511aa-d242-4ddf-8ce6-98022b33553a,Narlıbahçe Konakları,SIGHT,41.181591,41.826656,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+7d8b7530-2cd1-47c2-bd6f-bade82395d16,Gözde pide,RESTAURANT,41.182274,41.820801,Carsi mah selimiye sok merkez cami arkasi,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+0e902c37-5fd1-4ba8-ae28-703a4db00e44,Çap Çay Evi,CAFE,41.181622,41.821445,Cami Sokak 8,Artvin,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+997482b2-0e07-493d-9584-3ba1645514a0,Borcka,HOTEL,41.181835,41.821014,Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ecba671f-d3ca-44f9-a29f-5f8f8fae08a4,Meşhur Kuzu Döner,RESTAURANT,41.181374,41.820648,Çağal Sk. No:2,Artvin,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+e18da1c4-4818-49f1-aa36-ae7dc6aac5cc,Çoruh Pide Salonu,RESTAURANT,41.181271,41.82122,,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+0a99f53e-659b-4517-8e9f-7f525042aa96,Komagene Etsiz Çiğ Köfte,RESTAURANT,41.181122,41.821224,İnönü Cd. No:23,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+984271fb-c2a1-4b39-a6d6-903bb1b4ca71,Tamara Odaları,HOTEL,41.18129,41.821449,Şavşat,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+821e53c8-c96e-4a5d-bf67-5bd582e5c094,Mavi Yeşil Restaurant,RESTAURANT,41.181297,41.821445,Hopa Sarp yolu Kopmuş mevkii,Artvin,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+932effb3-dec6-4337-90c7-a8cf33de7d68,Akpınar İnternet Cafe,CAFE,41.18132,41.821461,Cumhuriyet Caddesi 3,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+4eb49da6-f1f1-42cb-99d7-be5799d13f84,Gölge Çay Evi,CAFE,41.181477,41.821533,,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+fa495746-17a5-42e8-9b87-41d443bc90df,Artvin Cağ Kebap Evi,RESTAURANT,41.181389,41.821754,İnönü Cd. No:11,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+630452c4-f29a-41c7-b536-38f4f0531db5,Efkar Restoran,RESTAURANT,41.181702,41.822098,Miralay Şükrü Bey Cd. No:2,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+a5a27785-2161-40f8-95a0-ff2a7d4ca720,Mersivan Otel,HOTEL,41.181068,41.820988,İnönü Caddesi,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+63c6e5f7-27d4-4c17-87f6-a3bbf22fd9e1,Kafkasör Dağ Evleri,CAFE,41.181023,41.820816,Kafkasör Mevki,Artvin,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+7a9c672b-e811-42c1-91b9-339cc0ed4839,Sönmez Çağ Kebab Artvin Merkez,RESTAURANT,41.181,41.820797,,Artvin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+7124feda-ac32-4517-82fa-9cfa461f079a,Artvin Marina Otel ve Restoran,HOTEL,41.180798,41.820843,Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+826ec398-66fe-4dfc-bc5d-e9f233b6e5bd,Emin Usta,RESTAURANT,41.179581,41.818321,Öğretmen Taliha Genç Sk.,Artvin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+ee792d93-942e-4232-a78b-5ec51f2bc6d9,2. Cadde Cafe Bar,RESTAURANT,41.179485,41.818119,"3 Gülpaşaoğlu apt 23 08000 Merkez Artvin Merkez Artvin TR, Cumhuriyet Cd.",Artvin,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+2ae7284f-1017-4464-8ef1-72c7a92d18cb,Öztürkler Lokantası,RESTAURANT,41.179535,41.817593,çarşı mahallesi kültür sokak girişi öğretmenler evi karşısı,Artvin,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant
+26196966-1864-4d92-b3e4-c08b0f086469,Teras Resto & Bar,RESTAURANT,41.179489,41.817825,7 Sok,Artvin,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+f2a1fec6-0cba-4c2d-877e-4c8616f2dfff,360 Cafe & Bistro,CAFE,41.179482,41.81781,Cumhuriyet Caddesi 25,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+8f3d37cb-ae2e-4abb-83de-8fe6aba0215d,Mersin Tantuni,RESTAURANT,41.17923,41.817825,Çarşi Mah,Artvin,CDLA-Permissive-2.0,Overture|meta,greek_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>greek_restaurant
+2335cae1-bf09-4602-8644-71557e993faa,Karizma Çay Evi,CAFE,41.179119,41.817623,,Artvin,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+cf24ce02-2490-4e62-a511-70951e872264,Karaşahlar Alışveriş Merkezi,SHOPPING,41.178936,41.817741,inönü cad.,Artvin,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+517ef357-4526-4097-b1ce-9a8957d29cb0,Yüzüncüyil AVM,SHOPPING,41.178852,41.817883,İnönü Caddesi 29E,Artvin,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+728d0ff8-bcee-43b0-92c9-8517990a8e29,Kıymetli Bahçe,CAFE,41.17812,41.820004,,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+88fd64c2-b4c2-4c32-8261-902ab9930f5e,Seyır Cafe,CAFE,41.178726,41.817039,Yurttaş Saraç Caddesi,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c5f1899b-8ca9-4e5d-b29f-ef7f4302f21d,Cafee Time Bistro,CAFE,41.178921,41.817009,Halkevi Cd. No:1,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+dc3c787b-41ca-42af-96dd-baf0e9a10b12,Yaman Restoran,RESTAURANT,41.179028,41.817417,Halkevi Cd. No:4,Artvin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+8f80c607-af91-4d8c-9c22-10f2dca20150,Artvin express tavuk cafe & restorant,RESTAURANT,41.179211,41.817379,Cumhuriyet Cd. No:40 D:E,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+7f8b2562-08e7-4962-b534-46bf03175803,Cadı Kazanı,RESTAURANT,41.179226,41.817333,Cumhuriyet Cd. no 46,Artvin,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant
+fba76ce1-c778-49aa-8e09-10c8ef0c3bda,Şelale Çay Bahçesi,CAFE,41.179272,41.817436,Halkevi Cd. No:8,Artvin,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+8787af21-19d5-4666-a9bd-c40e743a1a70,Oktoo coffee,CAFE,41.179337,41.817238,Halkevi Cd. No:7,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+3abe1904-fc64-4e5b-a446-901eb5b9a141,Patika Kitabevi,CAFE,41.179924,41.816826,Adliye Sk. No:7,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+d40c3030-3fbd-4457-8fff-1d294d23b453,Limit Pub,RESTAURANT,41.179642,41.818085,Öğretmen Taliha Genç Sk. No:36,Artvin,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+b97e3b77-3e87-4abd-9c82-2093d76896d1,Gazihan Hamburger,RESTAURANT,41.180073,41.817787,Halk Evi Caddesi 15,Artvin,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant
+f6dd6194-3a9c-4be3-81f7-b319cef715d5,Cigkofteci Omer Usta,RESTAURANT,41.180286,41.818424,"Çarşı Mahallesi, Sabit Osman Avcı Caddesi. Gözde Apt. No:16/A",Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+81b3721e-0778-4520-9785-24a0cd84d632,İlhan Usta Ardanuç Kuzu Döner,RESTAURANT,41.180004,41.818733,Cumhuriyet Cd. No 27/C,Artvin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+5bd74457-9323-4407-917b-099b870b3e1c,Yiğit Döner Yemek,RESTAURANT,41.179817,41.819073,İnönü Cd. 67f,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+e74c475c-30f9-493c-a376-8fa05734650e,Lion Cafe Bar,RESTAURANT,41.180164,41.819416,İnönü Cd. 34/1,Artvin,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+d3f16213-0357-4a6b-a227-e9acb9f620ab,Nevizade Cafe,CAFE,41.180054,41.819355,İnönü Cd. No:42,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+4ce3b42e-7d30-48b2-a903-fca4fed0be32,O SeS Çiğköfte Artvin,RESTAURANT,41.180614,41.819637,Cumhuriyet Caddesi 3/d,Artvin,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant
+130e403d-7eec-4468-9ef2-e3ac6267b97b,Artvin Atatürk Heykeli,SIGHT,41.18071,41.820045,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+fcc55b8d-3021-4ac1-804b-63addbdf1d11,Takinti,SHOPPING,41.181393,41.818748,Halk Evi Caddesi 27,Artvin,CDLA-Permissive-2.0,Overture|meta,flea_market,shopping>second_hand_store>flea_market
+dd1347f1-8a42-4dcd-ae9c-710492f9981b,Artvin Otel Sadıkoğlu,HOTEL,41.181137,41.820084,"Çarşı Mahallesi Cumhuriyet Caddesi no:8 Merkez, Cumhuriyet Cd.",Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+5e96b7d9-33ed-40f7-a95d-a352a43e6d4f,Livane Pide,RESTAURANT,41.182579,41.819607,Halkevi Cd. No:52,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+75068000-05af-41a7-8d34-b54603a293db,Şentürk Çay Evi,CAFE,41.182243,41.819424,Atanoğlu Köyü ,Artvin,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+ef48a1a0-57f1-4942-9b8d-504108dce8d6,S.S.Artvin Kadın Girişimciler Turizm Geliştirme ve İşletme Kooperatifi,CAFE,41.181332,41.814449,Hastane Caddesi 46B,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+fd654a9a-74d5-4ee2-97e1-d14c584c4f36,Orköy,HOTEL,41.181122,41.812298,,Artvin,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+4612497b-b764-4b41-a1c3-917def3a5bf9,Gogalay Bungalov Hotel,HOTEL,41.182636,41.810631,Atanoğlu Sokak 2,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+3b62d106-ab6b-47db-a93b-49a6e2db6d28,Güvenler Unlu Mamulleri Pastahane ve Cafeterya,CAFE,41.187553,41.809067,19 Mayıs Caddesi 62,Artvin,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+cc9f29bb-9462-4af2-b17c-9b9c46f46f37,Dolunay Pide Lahmacun Cafe,CAFE,41.188217,41.806343,Edip Dinç Sokak 26,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+95b7d602-b942-459e-800f-a8bb499ed2e4,Artvin Polisevi,HOTEL,41.187775,41.80653,Edip Dinç Sokak 1,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+957aaf2b-37ff-42e7-8a8b-6049a85c71ee,Koliva Otel,HOTEL,41.171341,41.794033,"KAFKASÖR (MEZRA) MEVKİİ, Ziyaret Sk.",Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+c68632b2-2b1b-4474-80a4-3911f963bd38,Katrevant Restaurant,RESTAURANT,41.174343,41.812767,Artvin Merkez,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+e1f8e9cf-5fee-4ddd-99fd-15f3981d844b,Artvin Dayı Restoran,RESTAURANT,41.173298,41.812809,"DAYI restoran, Çamlık mahallesi Kafkasör Sokak, Kafkasör Yolu üzeri",Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+b1de12f1-7304-4b38-91a6-58d756bf8c1c,Dereboyu Alabalık Restoran,RESTAURANT,41.172535,41.823051,Yurttaş Saraç Cd. No:100,Artvin,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+0671e7c9-02d2-4ce7-b8b4-d8cbe09e003d,Mars Otel Artvin,HOTEL,41.167072,41.814617,Çiftlik Sk. No:49,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+116f54be-9cfd-46f3-adec-e1429cae9ab4,Villa Art Hotel,HOTEL,41.16695,41.814732,Çiftlik Sokak 17B,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+9977d96d-1662-4717-839e-a0bfe716aac9,Beykonağı Kafe & Restaurant,CAFE,41.153587,41.770882,Mersivan Mevki Atabarı Kayak Merkezi ,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+21ad3862-7a40-416b-8d4b-256284149771,Deriner Barajı ve Hidroelektrik Santrali,SIGHT,41.169716,41.870277,,Artvin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+f7853b72-53e6-4f73-8744-3f3e3d8858f0,Deriner Barajı,SIGHT,41.179619,41.863789,Salkımlı Köyü,Artvin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+eaed4b17-0cbe-46ae-96b6-e27c783d71b7,Mado Cafe,CAFE,41.185432,41.856098,,Artvin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
+5deae50f-4201-492d-8dfc-d26b330c647e,Yusufeli Çağ Döner Salonu,RESTAURANT,41.178143,41.843597,,Artvin,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
+62da5912-9ca7-4bc2-b8f6-30c5e233cb08,Sanayi Pide Pizza Lahmacun,RESTAURANT,41.177963,41.843987,Borçka küçük sanayi sitesi.   BORÇKA/ARTVİN,Artvin,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+b2055fee-ace7-4ba6-ba8f-44ee6ef4335f,Anka Cafe,CAFE,41.17712,41.839119,Aşağı Şehitlik Köyü Asma Köprü Yanı,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+11a68a22-c07b-4fcd-a20a-0465db60717c,Brother's Milkbar,CAFE,41.182392,41.83374,Çayağzı mahallesi Fevzi çakmak CAD no:13,Artvin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
+5346fe2e-8329-4c33-b38f-53e11d76a973,Jollysgcoffee,CAFE,41.18206,41.833755,Fevzi Çakmak Caddesi 13,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+238325b8-f165-4490-8829-1631c78e8318,Bilbilan Yayla Yolu,SIGHT,41.181198,41.834965,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+84e1e41f-8147-4239-8fa3-ddfb8106f267,Bombaci Burhan,RESTAURANT,41.181057,41.835278,Fevzi Çakmak Cd. No:68,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+ec048dc5-abc5-41ef-99cf-90791f7b9c4f,Fabriꓘka,RESTAURANT,41.180626,41.835819,Hasan Çıtak Sok,Artvin,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
+286f9c64-4787-4d96-86d2-962f90e9b66a,Bayramefendi Osmanli Kahvecisi,CAFE,41.181526,41.830593,Fevzi Çakmak Cd. 13/1 D:2,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+68f87ecc-b922-4315-90ad-70d2328f3101,Ciğerim Ocakbaşı,RESTAURANT,41.181541,41.830597,Fevzi Çakmak Cd. No: 13/1-2,Artvin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+347d073a-9c3c-4e02-a443-f9810e3aeb16,Hacıalioğlu Çiğ Köfte,RESTAURANT,41.182049,41.830921,Fevzi Çakmak Cd. NO:22-2,Artvin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+f0b231d3-6591-4867-8ec1-4f0a0a3052cf,Şehzadeler Müzesi,SIGHT,41.182583,41.829079,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+6bda1ae9-67e6-47f7-b489-dba15ab94d0e,Komagene Üniversite Artvin,RESTAURANT,41.183605,41.832085,Çayağzı Küme Evler 5,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+ca5e880d-13c8-45ba-b92c-c8c704642c65,D S I 1 Cayagzı,CAFE,41.18388,41.830624,Çayağzı Mah,Artvin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+93ddc176-edf4-49e8-9bf5-047b752b7144,Toro Coffee,CAFE,41.182919,41.833054,Fevzi Çakmak Cd.,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+6fcd0ef0-db77-4ce5-87ca-dfdbcad73ab8,Artvin Özel Nedime Lütfiye Günal Kız Ögrenci Yurdu,HOTEL,41.182995,41.832958,Fevzi Çakmak Caddesi 15,Artvin,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+9775cce6-1021-4e19-a42a-603dfd0a3211,Foresta Cafe & Bistro,CAFE,41.183514,41.833015,Kültür Sk. No:3,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+688d8be0-a5fd-453c-bcae-2bc41ab83915,Korzul,SIGHT,41.183453,41.833004,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+0f359365-daeb-4f35-a750-fdecf6ae3a92,Artvin Apart Otel,HOTEL,41.185032,41.838741,Seyitler Köyü Aydoğan Mahallesi Bakır Sitesi A Blok 4/1,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+e0572606-a7a7-46c6-aa72-30a1a2ed6d55,JOKER ÇoruhPark,RESTAURANT,41.186859,41.833374,Çoruh Park,Artvin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+b770c12a-8c50-46c6-9ba6-9afa8e8f9139,Artvin Çoruh Park,SIGHT,41.186516,41.832413,Çayağzı mah. Erzurum Cad. Artvin merkez,Artvin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+2b3dde3f-d081-4143-bdb7-fcecc605f407,Manifesto,CAFE,41.186005,41.832207,Erzurum Cad No:71,Artvin,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+dca202e3-db6e-4894-8c5f-c37d899d5ccf,Karagöl - Artvin,SIGHT,41.188519,41.826694,,Artvin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+5615a8f8-6311-4fb9-8046-53e17a2e336c,Halkım'ın Yeri,RESTAURANT,41.203003,41.858345,Seyitler Köyü,Artvin,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+c9a4635d-6847-4c3b-accf-831183902d5c,Deriner Barajı,SIGHT,41.192368,41.86293,,Artvin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+c6bee5da-59ee-4190-913d-149e4c71be78,Varyant Restorant,RESTAURANT,41.194309,41.876442,,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+10f5b5ea-bf23-4151-95d7-cd919274e45f,Varyant Aydin Usta'Nin Yerİ,RESTAURANT,41.175499,41.893036,"ARTVİN Ardahan yolu, mevki üzeri",Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+43d89138-28d5-4244-805d-7abe7f9b9b8a,Fatih Mesire Yeri,SIGHT,41.174625,41.877483,ArtvinŞavşat Karayolu 10,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+2e8677f3-44af-4408-8e46-4c84af731bc1,Artvin Seyirtepe,SIGHT,41.174599,41.877365,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+39a6cea9-99b9-471c-a018-f0649a3a290f,Artvin Deriner Barajı,SIGHT,41.174561,41.877323,Artvin,Artvin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+9204359c-c9f3-4233-bb88-46becb74636e,"Gümüşhane, Ardanuç",SIGHT,41.121799,41.949799,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+b2ce635d-1def-433a-a1f2-e59fc6ac2bed,"Bereket, Ardanuç",SIGHT,41.0742,41.979198,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+aeb00516-4743-4770-8cea-d4c776ead7ba,"Bereket, Ardanuç",SIGHT,41.067192,41.95401,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+53fb034f-861e-41bb-8db6-4f5cbd754276,Yeni Rabat,SIGHT,41.074444,42.166111,,Ardanuç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c8bf8395-53b5-436d-9406-73afd1fac51f,"Güleş, Ardanuç",SIGHT,41.049999,42.199993,,Ardanuç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+e0a6c90e-e00a-4382-bfd8-ba39bb4fb432,Düzenli Koyü (Soporo),HOTEL,41.209705,42.374794,,Şavşat,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+f83462ef-f167-4d35-8ae5-232bec87ad30,"Aşağıırmaklar-bucak mer., Ardanuç",SIGHT,41.184444,42.177216,,Ardanuç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+ca35c27d-4869-42b6-b46c-6d3a6964828e,Kanyon Otel,HOTEL,41.125717,42.061722,Esenkent Caddesi 23,Ardanuç,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+f08e519e-d09c-4ecd-9775-ff38710bacb3,Mavi 8 Cafe,CAFE,41.124283,42.066338,Hürriyet Cd.,Ardanuç,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+93e817a0-9134-45f4-9221-7872f405e670,Kardelen Restoran,RESTAURANT,41.121975,42.06675,Hükümet Cd. No: 27/A,Ardanuç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+c7887725-6e64-4a8c-a624-6aae670a6177,Ardanuc Dede Kebap,RESTAURANT,41.121426,42.066929,Ardanuç,Ardanuç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+e229eb73-dde4-476c-b87b-cb373ecda98a,Artvin Ardanuc Ugurmumcu Parki,SIGHT,41.11805,42.067123,merkez,Ardanuç,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+589502a8-c2c1-4bff-b81e-d5a888936c76,Ardanuc Cehennem Kanyonu,SIGHT,41.11874,42.067924,,Ardanuç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+7ce9f2df-9bc8-4f3d-9894-494efc6943f1,Yildiz Restoran,RESTAURANT,41.119476,42.066948,Durmus Gül İsh Kat: 1,Ardanuç,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant
+1996a6e9-06ed-4311-8e60-567f2ff8db40,Ardanuç Evi,RESTAURANT,41.120628,42.062855,"7 Mart Cd. No:21, 08300",Ardanuç,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+a0e5cefe-6c72-429c-9931-087be5f115dc,Yiğit Restoran,RESTAURANT,41.121174,42.066532,Ömer Ertek Sok NO:15/A,Ardanuç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+d7e4861f-637e-472d-8e0d-81edebbe2098,Gevhernik Otel,HOTEL,41.121605,42.066223,ömer ertek sokak no: 1/A,Ardanuç,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4881dd31-9b50-4670-8ea9-7cea84c0c21c,ŞAFAK DÖNER Ferman USTA ÇAĞ KEBAP Artvin/ Ardanuç,RESTAURANT,41.12207,42.065254, ŞAFAK DÖNER VE IZGARA   eski Belediye işhanı Cansel eeczanesini yani Ardanuç Merkez ilçe Camii Arkası,Ardanuç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+53a3de9d-193e-47d0-b8c8-c7fbe7eefaef,Beylikdüzü Kardeşlik Parkı Ardanuc,ACTIVITY,41.122463,42.06535,"Ardanuç Belediyesi, Hükümet Caddesi 17",Ardanuç,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park
+48e3f2d1-cdb5-4105-81ca-b75cdb60d54d,Ademoğlu pasta & kafe,CAFE,41.122478,42.064701,hükümet caddesi,Ardanuç,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+68b54113-7be6-4270-9fed-e66c4eca906d,Adakale,SIGHT,41.127316,42.058098,,Ardanuç,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+3b827cff-698b-4328-a2f4-4f8a7e8a029c,Yavuzköy Seyir Yeri,SIGHT,41.224426,42.388351,,Şavşat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c716293e-9717-49a7-94bb-462a6a82423d,Black Forest Hotel Şavşat Artvin,HOTEL,41.235455,42.414394,"Şavşat Ardahan Kara yolu üzeri 8.Km, Sulanat Mevkii",Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+7b5f0218-7a4a-4cda-b357-c5b753acd29f,Karagöl Artvin Şavşat,SIGHT,41.231705,42.395943,Karagöl-Sahara Milli Parkı,Şavşat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+33fb93cd-2d82-488b-a7a5-b0ed398771a7,Savsat Bungalov,HOTEL,41.229618,42.375023,Şavşat Bungalov,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b875b620-aae5-4b6a-88fd-c32e0556e9be,Green Valley Şavşat Hotel & Restoran,HOTEL,41.225357,42.377827,Ardahan Yolu Caddesi 4,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+e373b1f0-6eaa-42d9-acd1-82d5cda6737b,Atonun Yeri Yesil Vadi Oteli,HOTEL,41.226116,42.377827,Ardahan Yolu Caddesi 4,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+f0923fcf-5136-49bf-90f8-f9e958242b97,Şavşat Otel,HOTEL,41.244804,42.372166,"Düz Mahalle, Yavuzköy",Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ca6581fd-31d4-4eb9-b0b3-590eadb1502c,Şavşat Efkar Tepesi İşletmesi,CAFE,41.257088,42.346905,Yeniköy Mah. Efkar Tepe Cad.,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+eb886453-34e7-4aa0-915f-5d02bfb1b0aa,Savsat Kara Orman Restorant Cafe,CAFE,41.255085,42.3484,,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+e23c1bd0-7b1f-4a4f-9172-8ce2bc4d2155,Avcı Köşkü Şavşat,SIGHT,41.256462,42.355343,Yeniköy Mah. Çiçek nene Cad. No:3 Artvin/Şavşat,Şavşat,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+0f0ad2ce-9597-400d-9471-5747e1915877,Cumhuriyet Caddesi,CAFE,41.253063,42.353111,,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+7e25a89c-7566-4f3a-9e6e-c713374b5832,Hanımeli Cafe&Lounge,CAFE,41.254448,42.352356,Ülkü Ulusoy Caddesi No:19A,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+b25d91c5-b008-47b1-8330-a3db88cf6e28,Güneş Pastanesi,CAFE,41.251602,42.358349,Cumhuriyet Cd. No:166,Şavşat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+30151f12-df5b-4eb5-a5eb-3fb75037a30c,Şavşat Merkez Lokantasi,RESTAURANT,41.252083,42.356945,Artvin Ardahan Yolu,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+3697ab4e-16e7-4fa6-bf5a-40e7dcabcab6,Harman Sofrası,RESTAURANT,41.252178,42.356701,Ali Aydın Cd. No:87,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+bcdc4a59-a3ab-4ce8-99aa-12f8a7c900d4,Beykonaği Otel,HOTEL,41.252239,42.3573,Ali Aydın Cd.,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+21dcd91b-ae93-4654-8412-22667f9769fc,"Lezizhan Çiğ Köfte, Kahvaltı",RESTAURANT,41.251881,42.357555,,Şavşat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+d672288d-4693-4f00-82e8-ebfedd8c3379,Cafe in,CAFE,41.251648,42.358231,Artvin-Şavşat Yolu 08790 Þavþat Artvin Türkiye,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+3dbd3ecd-4964-4077-9285-611d908d39ef,Türkü Cafe Restaurant,RESTAURANT,41.251839,42.35865,,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+24cee098-8190-4961-b32c-5c49989c492e,Lezzet Pide Lahmacun,RESTAURANT,41.252167,42.357971,Ali Aydın Cd. No:93,Şavşat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+7e8a400e-0ac0-427b-a1bc-bc2361b76bda,Cafe Nego,CAFE,41.252583,42.357738,Yeni Cd. No:46,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+9c0d8fee-4057-4e44-bf5e-702335d00ac8,Komagene,RESTAURANT,41.252506,42.355892,Cumhuriyet Cd. No:108,Şavşat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+a8297714-d4a9-48b0-bbe7-88bc66ee1c22,Bacım cafe,CAFE,41.253151,42.356598,Veli Köy Caddesi 44A,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+2484c97b-a8cf-4cab-9f8e-ca6b9899dda6,Etobüs,RESTAURANT,41.25386,42.356571,Konya Yol,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+1a5a1b2f-6c34-4a36-bdf0-2c19e7572249,Pileki ekmek fırını,CAFE,41.253407,42.359241,Atatürk Caddesi 10,Şavşat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+dbecd842-002e-428b-915a-4a8867de2ade,Dr. Israfil Kisla Millet Bahcesi,SIGHT,41.252567,42.359627,Cumhuriyet Cd. No:166,Şavşat,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+30ee5d7d-2c62-450f-84b7-5d325eb14f26,Şavşat Satlel Kalesi,SIGHT,41.259102,42.326672,şavşat ardahan karayolu üzeri,Şavşat,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle
+8d6b9fa4-49f9-4523-b87a-f25d18ca8b20,Çaycı Hüseyin'in Yeri!,CAFE,41.283745,42.231998,Meydancık Yol Ayrımı,Şavşat,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+189c600b-c43d-4603-810d-ef9ea593e6bc,Sartul Kahve,CAFE,41.283779,42.231998,Sartul Meydancık,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c31da71e-27c9-4db8-9621-a993bdb83fb2,Sartul Kahve,CAFE,41.287601,42.233864,Sartul Meydancık,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+499fcd88-a4a0-4a18-98c8-058d35e3d742,"Saylıca, Şavşat",SIGHT,41.330898,42.331493,,Şavşat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+f046d87f-abdf-4090-a9de-ba2f3af4e31e,Şenköy savta,HOTEL,41.37352,42.376194,artvın savsat şenköy köyü,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+50a1b0fb-500d-45ca-8cc5-b236cd37eb19,Gverda Kafe - გვერდა კაფე,HOTEL,41.400154,42.169689,ÇAĞLIYAN KÖYÜ BELTİYET MEVKİİ BELTİYET KÜME EVLERİ    ŞAVŞAT / ARTVİN,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+f0c62000-c201-4dd4-9568-cfc52162637f,Napurnev Yaylasi,HOTEL,41.367237,42.150337,,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ff1ef778-4377-46e0-af06-adea17441a36,Napurnev Yaylasi,HOTEL,41.367344,42.154793,,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+7c68ffa7-ff1e-450c-92d2-4d9b82e2c144,Satibe Yayla Evi - Konaklama,HOTEL,41.387226,41.854031,Klaskur yaylasi Borçka #karagöl,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+8c3695f1-9432-4c38-8f5c-f6cb2e88d2d8,Heba Yaylaevi,HOTEL,41.376366,41.886143,,Borçka,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+b05570c8-d186-4143-8f25-f7be10854047,"Ortaköy, Artvin",CAFE,41.25,41.98333,,Artvin,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+d3bf14d1-038f-401e-bfb9-f305af16d01c,Parechi,SIGHT,41.251938,41.989994,,Artvin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+41dce569-5762-4dcb-ae6d-432fb505fdcb,Gültekin Alabalık Çiftliği,RESTAURANT,41.223652,41.874557,Varlık Köyü,Artvin,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+1ddea47f-7b02-4797-ace5-18f31c07a6e3,Fatma Bacı Ocakbaşı Restoran,RESTAURANT,41.240726,41.779865,Hopa Artvin Yolu,Artvin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+9817246f-83b1-4132-a089-bbe0a83f6cf9,Artvin Sofrasi Marina Konaklama Tesisi,HOTEL,41.239609,41.780899,Urzuma Mevkii 26. Sok,Artvin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+3de60708-be96-4fd0-8fef-15516f4be4fd,"Korucular, Murgul",HOTEL,41.300827,41.644165,,Borçka,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+22adc8c2-8441-4837-a264-14d9106c12d4,Taraklı mezre ,HOTEL,41.320759,41.678043,Taraklı mezre\nhttps://maps.app.goo.gl/MyFiSyTW9tSX2irQ8,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+6f15de2c-bb19-4252-a888-42ce98dbe360,İsimsiz Cafe,CAFE,41.35603,41.677681,,Borçka,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+93d56abb-ae4d-4c78-9566-45b359a0fe7f,Atapark Cafe,RESTAURANT,41.35582,41.67757,Artvin Yol Üzeri Sanayi Karşısı,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+6c5076b1-2e26-4632-8ba3-3ff511256906,Artvin Borçka Çoruh Nehri,SIGHT,41.339252,41.701324,Borçka,Borçka,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+9e3f2e99-9d11-43f1-a950-3554d08ecd74,Golbası Restaurant,RESTAURANT,41.339203,41.701294,Borçka Artvin Karayolu 3 Km,Borçka,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+520d9dba-d2ba-440b-afca-5d05416fc332,Borçka Baraj Gölü,SIGHT,41.350586,41.682281,Hopa - Artvin Yol,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+5da3fafa-6d00-43a9-89e7-ff84ab864907,Borçka Barajı ve Hidroelektrik Santrali,SIGHT,41.352028,41.682545,,Borçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+9272da56-5c19-4f6a-b3e3-eae25f57da12,Borçka Barajı,SIGHT,41.352318,41.688251,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+ff3cfc64-ae44-4de7-96f7-8d2dcdb474fa,Borçka Barajı,SIGHT,41.351971,41.68755,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+0fc14682-acf9-4a51-a3da-ccf9ad38c6e0,Yol Cafe and Restaurant,CAFE,41.323723,41.726444,Borçka-Artvin 6.km ibrikli,Borçka,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+4da080dd-a733-40aa-8ed4-d42fc8776f4b,Çoruh Nehri,SIGHT,41.310226,41.732937,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+48bcea0c-3350-498e-8a35-724e789fef4d,"Adagül, Borçka",SIGHT,41.316666,41.75,,Borçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+f430111f-e15b-46e4-8741-ecad4de8f905,Dsi Borçka Baraj Gölü,SIGHT,41.322094,41.731255,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+732572e8-eceb-4835-b021-69101dcb6350,Borçka Baraj Gölü,SIGHT,41.322144,41.731373,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+f90dda86-be40-4f37-8a36-9cdfbe054561,"Atanoğlu, Borçka",SIGHT,41.399994,41.766666,,Borçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+cf858ca2-1500-470d-a370-6a3762e9f8c3,Dere Pansiyon / Restoran,HOTEL,41.3955,41.760693,Atanoğlu Köyü Karagöl yolu 12. Km.,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b71444a9-90ed-451d-95cf-9c8c3382a4d7,Borcka Lapera Pansiyon,HOTEL,41.397243,41.731583,Klaskur (Aralık Köyü) Borçka/Artvin,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+c06ffe22-d806-4655-a308-b3646a77c5e6,Nalia Cafe&Restaurant,RESTAURANT,41.398552,41.733559,"Nalia Restaurant,Aralık Köyü",Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+d457b24c-ac1d-4fb0-bb87-732a3334f1a8,Klaskur Adaş Dağ Evi,HOTEL,41.398628,41.735577,"Borçka, aralık köyü, köprübaşı hes karşısı",Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b1440f59-c554-4463-b616-8258e1cc0fae,Nigozmeri Pansiyon,RESTAURANT,41.397781,41.743065,Artvin/Borçka Karagöl yolu / Aralık Köyü,Borçka,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant
+5f83a6fa-4df7-41c3-897f-6d952c9ffdda,Meroli Ev Pansiyonu ve Yöresel Tatlar,RESTAURANT,41.399712,41.74115,Aralık köyü merkez mahalle,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+ef12b278-de1a-490a-8ae9-28264c31c464,Kartvelebisa bungalov evi,HOTEL,41.401192,41.738895,Aralık köyü Artvin Borçka Karagöl yol üstü,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b99c36cc-b61e-4912-a3b9-678301b165eb,Lapera,HOTEL,41.400002,41.736847,Aralık Köyü No: 19,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ebbd5405-e191-49dc-8b24-315a094381ba,Saklı bahçe pansiyon,HOTEL,41.402889,41.718887,Borçka Aralık köyü No 3/1,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+8c895596-784e-49f2-82b2-76f7c52cac2b,Ruzgar cafe,CAFE,41.357304,41.679459,Sigorta Caddesi 8E,Borçka,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+b8232b04-9cc4-4638-95aa-6ee0fa9d0253,Sıla Nargile Cafe,CAFE,41.358212,41.679123,Sigorta Cad,Borçka,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+260d908c-20e7-4943-a02d-21263cbf5695,Borçka Aksu,HOTEL,41.360291,41.679691,,Borçka,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+ca99bdba-3bb4-4855-9589-f9992b03afad,bocka.komagene,RESTAURANT,41.360851,41.679489,Vehbi Alparslan Caddesi 57,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+b7b68902-a3ea-4ecf-9b99-5966bab90aaa,Borçka Karagöl Doğa Parkı,SIGHT,41.363609,41.679165,,Borçka,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+2f53f286-4e6d-45c3-b745-8e703aa0e307,Macahel İremit Pansiyon,HOTEL,41.364239,41.679089,"Maral Köyü , İremit Mahallesi , Camili ( Macahel )",Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+324aebce-8032-4b9b-9014-5452b2d81260,Nabeglaw,HOTEL,41.364239,41.679089,klaskur vadisi arlık köyü düz mah. No 65 karagöl yolu üzeri 9. Km nabeğlaw konoklama,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+74f07cfa-6adc-4db7-be08-deb71414912f,Yoyo Cafe,CAFE,41.364555,41.679661,Güzide Sk.,Borçka,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+11602f3a-f35c-410c-89e5-a22b9f4d06ba,İsmet Acar Turizm Ve Sosyal Tesisleri,RESTAURANT,41.366436,41.682579,,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+375020ec-dba6-4a1a-94d2-950a43fcaeb2,Huzur Tepe Aile Cay Bahcesi Mangal Ve Kahvaltı Salonu,RESTAURANT,41.369854,41.66975,Huzur Tepe Ai̇le Çay Bahçesi̇ Mangal Ve Kahvalti Salonu,Borçka,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
+c3d8fa2b-d3ad-488c-a9f7-6856933c9639,Nalia Cafe,CAFE,41.366726,41.678692,Çoruh Cd. No:30,Borçka,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+446d1d67-27f6-4647-a0a6-3b646049a72b,Ada Restoran,RESTAURANT,41.365654,41.674026,15. Köprü,Borçka,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant
+5115aaf5-e9bf-4c93-a914-29f673ead17a,"Karagöl,Borcka ARTVIN",SIGHT,41.364738,41.675423,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+23f4a59f-e277-4977-861e-a1ff20503336,asma köprü,SIGHT,41.365135,41.677917,Yeşil Sk.,Borçka,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+1c290b1a-a7ef-4e4d-8415-2afda4d57034,Maradit Caddesi,SIGHT,41.363777,41.678734,,Borçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+239f44ed-6a16-42f9-9b40-a74a728781a4,Asma Altı Çay Pahçesi,CAFE,41.363632,41.677769,,Borçka,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+9aff3763-9768-408e-bd51-c18134c7c454,Sosslu Durum ve Mevlana Etli Ekmek,RESTAURANT,41.363655,41.67712,Sahil Cd. No:13,Borçka,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+5e4c72c7-6a25-4222-860a-8fa87ca2b2ec,Artvin Borçka Çoruh Nehri,SIGHT,41.36327,41.676846,Borçka,Borçka,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+0dde554c-9967-4307-b008-c86ed1ae4feb,Başak Pide,RESTAURANT,41.363285,41.677063,"başak pide salonu, Bankalar Cd.",Borçka,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant
+8b546e3c-5b93-4725-9527-ed279360ebec,Ocakbaşı Uğur Et,RESTAURANT,41.362976,41.677433,PTT Cd. No:11/A,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+aab9a828-1af8-41a6-8594-e311d8080865,Dilan Pide ve Lahmacun Salonu,RESTAURANT,41.362823,41.677349,PTT Cd. No: 10,Borçka,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+b819f226-8570-48b1-9a7a-58e48888990c,Keyfî Ziyafet Restaurant,CAFE,41.362736,41.677368,Meydan,Borçka,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
+5dde7217-f0aa-4e4a-89c0-c172f7324878,Seyri sefa restaurant,RESTAURANT,41.362858,41.677586,Cumhuriyet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+d09d21f9-4e9a-4782-b174-816f70b76456,PTT Caddesi,SIGHT,41.363037,41.677616,,Borçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+43d91f8b-162a-4eef-8e8b-f2d85ceb0a09,Durmazlar Avm,SHOPPING,41.363129,41.677818,,Borçka,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+304a2e06-d2c4-4e85-a87a-a53ccfc93488,Neba Lokantası,RESTAURANT,41.363422,41.678234,"Bim Karsisi, Muratlı Cd. No:44",Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+5baee6b0-f686-429b-abca-4027644c9974,Limon cafe,CAFE,41.362083,41.676422,Cumhuriyet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c8f72519-f9ab-45c4-a244-a5cfbdc2324d,Enpa Pastanesi,CAFE,41.362396,41.676926,"15temmuz şehitler meydanı, Cumhuriyet Cd.",Borçka,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+66f2e11a-e8e8-45c0-bdbb-151af5c807e9,Meydan Çayevi̇,CAFE,41.362648,41.677071,Cumhuriyet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c0418c88-0f53-4746-b642-e232cfd7f423,Borçka KYK Kız Yurdu,HOTEL,41.362324,41.675892,Cami Caddesi 16,Borçka,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+5c5996ba-8b9a-48f7-8802-c9064168d434,HokkaBistro Cafe,RESTAURANT,41.361446,41.67477,Emniyet Cd. No:1,Borçka,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+7c099f50-70db-4cbd-a033-bb5854f84e2c,Bİ YER Cafe & Kahvaltı salonu,CAFE,41.360367,41.674412,Gündoğdu Mahallesi Borcka/Artvin,Borçka,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+52ac7960-292a-4016-9fe8-f0c384a44da1,Artvin Borçka Öğretmenevi,HOTEL,41.36039,41.675198,,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+61c428c2-0958-425e-b003-99bd680b0875,Chef's Ev Yemekleri,CAFE,41.359055,41.675503,Hükümet Cd.,Borçka,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+ea0d3842-f6f7-40e5-81d3-73e95ab28168,Taraklı Kamorcika,HOTEL,41.481533,41.707939,"Akpınar, Gündoğdu Mahallesi, Akpinar köyü/Borçka/Artvin",Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ece9e6f3-23d8-4171-be8a-5537fc4024fe,Çaykur Muratlı Çay Fabrikasi,CAFE,41.457615,41.711731,,Borçka,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+ea2c1e1b-c32f-4275-9fad-5c69c44c59a8,Aymer Butik Otel,HOTEL,41.406265,41.792622,"Borçka Karagöl (Macahel) Yolu 16.Km, 158/1, 08490",Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b8c5a02c-92b9-4486-be74-930b25e25cb2,Borcka Karagöl,SIGHT,41.406418,41.793304,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+d68866a1-00f2-4ac5-84e5-4a159b40eaf3,Bostana Dere Aile Çay Bahçesi,RESTAURANT,41.406937,41.793892,Borçka Camili Yolu,Borçka,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant
+dd13b742-d3d1-4793-9699-5f15b6be5e70,Zezemere Lokanta,RESTAURANT,41.406013,41.799129,,Borçka,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+858d464a-24a8-434f-9f14-c990bd24fdd8,Şentürk Çay Evi,RESTAURANT,41.40741,41.806503,Atanoğlu Köyü Karagöl Yol,Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+545e09fb-cd00-4898-bda5-dbc6cb222b79,Zirvede Keyf,RESTAURANT,41.410378,41.826164,"Macahel Geçidi , Borçka ",Borçka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+97387b3f-9645-458e-99f4-09db40fcaf78,Bardnala Şelalesi,SIGHT,41.409523,41.833237,,Borçka,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall
+5b1e5f2d-ad9a-44e6-b67c-6db742fd2b3b,Borçka-Karagöl,SIGHT,41.405174,41.843971,,Borçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+51473d20-96c2-434e-98fa-33b4ab434181,Bumbulay Pansiyon,HOTEL,41.431431,41.955647,Efeler Köyü Artvin,Borçka,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast
+fb52984f-799d-4cf0-8fdd-d78910e9a65e,Dedaena,HOTEL,41.450745,41.92535,"Borcka Macahel Vadisi, Camili, Efeler Koyu",Borçka,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+5a375d2a-c59a-4638-bd09-2bbbbe4a80e4,Macahel Köy Evi,HOTEL,41.459579,41.925522,38/2,Borçka,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+489e7344-3eb2-4336-bcb2-173b9e1e62dc,Maral Şelalesi,SIGHT,41.5,41.949993,,Borçka,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall
+b0554fc2-1493-47d2-b55e-51ef24000906,Katamize Pansiyon,HOTEL,41.480564,41.960644,Unnamed Road,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+c73f6545-24cb-4455-8a77-d0fa1d337a8c,Macahelhanotel,HOTEL,41.48143,41.952808,Artvin borçka camili maral köyü,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d429a75f-19ad-4d86-bf89-376a3af3e827,Macahel Greenroof Otel,HOTEL,41.4865,41.940487,"MARAL, esençay mahallesi no:57",Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4ed79dfd-eaeb-4d47-8538-2e5fe4d16fd6,Macahel Maral Otel and Restaurant,HOTEL,41.479946,41.933758,No:27,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+a1890cbc-7d4d-4e96-b0de-1c565f60602f,Tema Vakfi A. Nihat Gokyigit Konuk Evi,HOTEL,41.477642,41.899597,,Borçka,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+fc3fe61d-15cc-4900-80cb-857a7a2e96f2,Macahel Dağ Evi,HOTEL,41.477779,41.89904,Küme Evleri No:67,Borçka,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+5963840e-0f8a-45c4-8314-dbae3fc84942,"Macahel, Camili, Borçka, Artvin",HOTEL,41.478069,41.899616,Artvin/Borçka/Camili/Macahel,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+7261d00d-30b0-454d-aaf3-1975e989ee33,Macahel İremit Pansiyon,HOTEL,41.482811,41.918247,Maral köyü İremit Mahallesi No4 Borçka/Artvin,Borçka,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
+0f0eb250-6384-4f5d-8201-617500550814,Iremit Pension Macahel Camili Artvin,HOTEL,41.48267,41.918575,Camili,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+a0b47f65-598a-46e3-b242-4c3cc1792719,"Düzenli, Borçka",SIGHT,41.462597,41.8946,,Borçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+ea52bcaa-c1e7-4cb8-a0c8-4951ebf54d68,Seyri Macahel Bungalov,HOTEL,41.474297,41.896656,Macahel Camili Köyü,Borçka,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+b841eb73-847b-4370-9f5f-268c4186d51d,Maral Şelalesi,SIGHT,41.50201,41.957672,,Borçka,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall
+f9398fcb-d185-48f2-acfd-5bb4a5e94b18,"Demirkapı, Şavşat",SIGHT,41.424,42.431232,,Şavşat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+cc8a27ff-0f56-488e-b92f-04c257218f72,"Demirkapı, Şavşat",SIGHT,41.426399,42.439098,,Şavşat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+d73e4d83-b8f8-40b1-8305-41c683941626,Pınarlı otantik kır lokantası,RESTAURANT,41.354069,42.462109,"Pınarlı, Şavşat, Artvin, Türkiye",Şavşat,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+6e254a6f-8236-4795-945e-6596fb3db1de,"Meşeli, Şavşat",SIGHT,41.313099,42.466999,,Şavşat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+cc4e6294-ca22-4460-843c-56861e755523,Şavşat Karagöl,HOTEL,41.313869,42.468468,Meşeli köyü ,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+e47b902d-692e-4fca-b4ae-b7752c4e379d,Karagöl Sahara Savsat,SIGHT,41.308968,42.482754,,Şavşat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+6b84dcea-7b80-408d-830f-eb6b1a70d3ee,Lezizhan Çiğköfte Ve Kahvaltı Salonu Şavşat,RESTAURANT,41.325039,42.49646,Lezizhan çiğköfte ve kahvaltı salonu ,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+d8efe8c5-f594-489e-95fc-9db3190b7b7f,Tuğra Butik Otel,HOTEL,41.299469,42.473175,Karagöl-Sahara Milli Parkı Karagöl bölümü,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+0624fe75-1fa3-47e2-ad73-b60e3f21e50c,Resmorant,RESTAURANT,41.304447,42.466789,"Artvin Şavşat Meşeli Köyü Çayırlar Mah No 3/1A, Karagöl yolu üzeri",Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+34c05f15-88b4-4d4f-bebd-748b9b4b8302,Veliköy Han Konakları,HOTEL,41.302734,42.435307,Karagöl yolu üzeri,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d29a571a-71c5-4dfa-8225-0c78b88f2399,Peribacaları Şavşat,SIGHT,41.28447,42.457832,Meşeli Köyü,Şavşat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+aad337d7-2424-4adf-9901-f97abf5828e2,Karagöl-Sahara National Park,SIGHT,41.228394,42.446098,,Şavşat,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+a919282b-0e43-4fdf-9cfc-34e1644b189f,sahara dağı milli parkı,SIGHT,41.230778,42.449272,Şavşat,Şavşat,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+e2f3a8e5-c5d8-4698-b0a2-1479cf98296e,Şavşat Laşet Balik Lokantasi,RESTAURANT,41.232212,42.429798,,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+556e04f0-782d-443d-b17c-701671997811,"Laset Alabalik Tesisleri,Artvin Yolu",CAFE,41.232208,42.429787,,Şavşat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+bbe425b6-21da-4d16-b132-c4a0a97714a8,Laset Motel,RESTAURANT,41.232235,42.429642,"Kocabey Köyü, Şavşat-Ardahan 9. km",Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+d970d2b9-4f5e-4336-89f1-d742999f4f0a,Artvin Savsat Laset,RESTAURANT,41.232124,42.429573,Ardahan-Artvin'in Yolu,Şavşat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+4f7e2dbd-59a8-4933-9a16-4abb27e8cb29,Yalnızçam Otel,HOTEL,41.049835,42.497978,Yalnızçam Kayak Tesisleri,Şavşat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel

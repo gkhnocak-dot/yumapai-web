@@ -1,132 +1,132 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets
-b5e590dc-efd7-449e-a295-18765a6aa786,Selim Bayburt Baraj Gölü,SIGHT,40.543961,42.798481,,Göle,CDLA-Permissive-2.0,Overture|meta
-c109e2dd-b5a3-46fc-b30d-cf8eec82611f,Bayburt Dam,SIGHT,40.523018,42.80901,,Göle,CDLA-Permissive-2.0,Overture|meta
-c003078f-604f-4d77-bdbb-c61f59a09530,Toprak Avm,SHOPPING,40.792603,42.611595,Kars 3. Sk.,Göle,CDLA-Permissive-2.0,Overture|meta
-55f171ac-7f20-4fce-97ee-6518dbbbd4b4,Otel AkÇAy GÖLe,HOTEL,40.792633,42.608257,Cami Sokak 11,Göle,CDLA-Permissive-2.0,Overture|meta
-251cde6e-b20b-44d9-abf3-cff1abf3d31e,Yeşil Göle Pastanesi,CAFE,40.792976,42.60833,Oltu Cd. 2. Sk.,Göle,CDLA-Permissive-2.0,Overture|meta
-14562fd7-49bb-41d8-8906-3a3c44477db6,Sancakoglu Cay Evi,CAFE,40.793388,42.6082,Oltu Cd. 2. Sk.,Göle,CDLA-Permissive-2.0,Overture|meta
-bcd44869-93c5-46d1-994e-c843fe3182fc,Göle Çapan Süt,RESTAURANT,40.793327,42.608818,Oltu Caddesi 8A,Göle,CDLA-Permissive-2.0,Overture|meta
-f59ea9b4-a088-4f1d-b419-48eab79b7aee,Gönül Sofrası,RESTAURANT,40.793411,42.609459,Oltu Caddesi No:5,Göle,CDLA-Permissive-2.0,Overture|meta
-48578939-5710-46b8-97c0-7b39291d134f,Ardahan Göle Kalecik,SIGHT,40.793865,42.609329,,Göle,CDLA-Permissive-2.0,Overture|meta
-07c12d22-09b7-43b6-b4d0-32be39d6d77e,Huzur Lokantasi,RESTAURANT,40.793072,42.607574,Oltu Cad. No:4,Göle,CDLA-Permissive-2.0,Overture|meta
-85ce1c42-24d3-49b6-b3c2-971f4c624835,Merdinik Köz Çay Evi,CAFE,40.79285,42.60741,,Göle,CDLA-Permissive-2.0,Overture|meta
-6a200151-3cba-463d-a0a5-a1b11bb745cc,Gözde Pide & Simit Sarayi,CAFE,40.792606,42.60741,OLTU CADDESİ SALİM BEY MAHALLESİ,Göle,CDLA-Permissive-2.0,Overture|meta
-c19e9014-8d30-4065-9f89-610ce8c8f160,Gole Sekki Vilayeti,RESTAURANT,40.792881,42.607216,Ardahan Göle,Göle,CDLA-Permissive-2.0,Overture|meta
-49813bdd-3ca3-4139-ab87-f7921ff73642,Gole Uygulama Oteli,HOTEL,40.781185,42.601532,Gole Ardahan,Göle,CDLA-Permissive-2.0,Overture|meta
-14b742ea-f0d7-47d3-99ed-c5ccce1e37fa,Cafee Heykel,CAFE,40.792065,42.606518,No:61,Göle,CDLA-Permissive-2.0,Overture|meta
-dc99cc7c-2444-4929-a909-d7c6f5303d15,Acar Süt Fabrika,SHOPPING,40.803326,42.615215,,Göle,CDLA-Permissive-2.0,Overture|meta
-fb8ff2c9-9853-4d4d-a1b9-3ff383f87f34,"Senemoğlu, Göle",SIGHT,40.783333,42.66666,,Göle,CDLA-Permissive-2.0,Overture|meta
-22d9407d-2099-4c4a-b20e-6c8cc0114956,"Kuytuca, Göle",SIGHT,40.766666,42.75,,Göle,CDLA-Permissive-2.0,Overture|meta
-e6e2446d-bd4f-45f7-a2d6-e95bb600d763,Fortress of Queli,SIGHT,41.441963,42.623859,,Damal,CDLA-Permissive-2.0,Overture|meta
-9f9baa2c-2884-4f16-99e4-6f02d2c97aee,AKYÜZ Garden cafe&nargile,CAFE,41.505386,42.727695,Posof Merkez,Posof,CDLA-Permissive-2.0,Overture|meta
-b95fd4dd-bd19-4a64-bedf-7e9490298555,Ateş Otel Merve Lokantası,HOTEL,41.509598,42.727634,Alparslan Cd. NO:4,Posof,CDLA-Permissive-2.0,Overture|meta
-f0fc76d3-a919-4db8-ac65-8f8ff3404dc3,Buket Pastanesi,CAFE,41.509724,42.727791,Türkgözü Cd. No:86,Posof,CDLA-Permissive-2.0,Overture|meta
-18cb3d1c-7f46-49f3-9efb-121c2a3d8255,Sevimin Mutfağı,RESTAURANT,41.50808,42.728279,Ardahan Cd. no 60/3,Posof,CDLA-Permissive-2.0,Overture|meta
-3ac78a95-a637-4c50-abb4-e1068c1c9ee6,Savahil OTEL,HOTEL,41.510574,42.729168,Tükgözü Caddesi 3,Posof,CDLA-Permissive-2.0,Overture|meta
-033cbe8f-2bb7-4347-ac61-be96b39eda7e,Saydan Memleket Sofrasi,CAFE,41.509804,42.727924,Ardahan Cd. No:100,Posof,CDLA-Permissive-2.0,Overture|meta
-50c40ea5-3438-41ec-a247-42ed99d133c9,Savahil Otel & Restaurant,HOTEL,41.514893,42.759155,Türkgözü Sınır Kapısı Yol 3 Km,Posof,CDLA-Permissive-2.0,Overture|meta
-988116ea-eebd-4c99-bed5-c5544e3b4771,"Balgöze, Posof",SIGHT,41.44817,42.907318,,Damal,CDLA-Permissive-2.0,Overture|meta
-8788a33b-5de4-4cf8-964a-aea9520caa2d,"Arıkonak, Hanak",SIGHT,41.237347,42.955791,,Hanak,CDLA-Permissive-2.0,Overture|meta
-d714154f-1ac7-40a0-8dae-06c9bf036d90,Ardahan Hanak,RESTAURANT,41.236084,42.845749,,Hanak,CDLA-Permissive-2.0,Overture|meta
-d0f4665c-a938-43ef-b7a1-4701d384a665,Yeşil Artvin Pasta&Cafe,CAFE,41.235481,42.84631,"Yeşil Artvin Pasta&Cafe, Atatürk Cd. No:42/A",Hanak,CDLA-Permissive-2.0,Overture|meta
-acd731a7-f432-4f96-a114-0f787c3159d2,Kaymakamlik Hanak,HOTEL,41.234661,42.846722,Ardahan Terminal,Hanak,CDLA-Permissive-2.0,Overture|meta
-bcdbc39c-1c80-475b-8d87-724f6fb08a17,Beşlioğlu Alabalık Tesisleri,RESTAURANT,41.352898,42.722656,,Damal,CDLA-Permissive-2.0,Overture|meta
-20599a35-ad44-44e9-818a-d51cdc11a334,Arsianis K'edi,SIGHT,41.39138,42.519981,,Damal,CDLA-Permissive-2.0,Overture|meta
-6239aa15-6c1d-4c28-87ab-fa31a075bb41,Küçük Şirata Gölü,SIGHT,41.375916,42.501076,Pınarlı Köyü,Damal,CDLA-Permissive-2.0,Overture|meta
-3aaec649-acd5-43b4-98b4-bd334e499a55,Balık Gölü Artvin/şavşat,SIGHT,41.364952,42.504189,,Damal,CDLA-Permissive-2.0,Overture|meta
-d26d0415-efeb-4561-8a44-9ad24f4caff7,Sıla Bungalov,HOTEL,41.30928,42.500927,Meşeli köyü Çakıllı Mahallesi.No.6,Damal,CDLA-Permissive-2.0,Overture|meta
-04c1b015-ede5-4d21-9f56-ee1a7068c3f1,Agara Balık Restaurant,RESTAURANT,41.310825,42.503941,,Damal,CDLA-Permissive-2.0,Overture|meta
-86ac3058-0653-4016-a342-a929b864dc9a,Agara Balık Restaurant,RESTAURANT,41.310917,42.503799,,Damal,CDLA-Permissive-2.0,Overture|meta
-959bb079-1360-4520-882b-c52b546b95dd,Rutav Gölü,SIGHT,41.291908,42.515862,,Damal,CDLA-Permissive-2.0,Overture|meta
-bb97162a-c3c8-41cb-887b-25caa3692dc6,"Koyunpınar, Hanak",SIGHT,41.25,42.783333,,Hanak,CDLA-Permissive-2.0,Overture|meta
-6faed4d8-8c46-4ba1-9cfa-e104bd926926,Ensar Öğüt Konağı,HOTEL,41.118015,42.707214,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-9b16dcbd-2825-44f4-91a8-1326570d3d25,Agara Doğal & Yöresel Lezzetler,RESTAURANT,41.118416,42.70475,Kahramanlar Caddesi 38,Ardahan,CDLA-Permissive-2.0,Overture|meta
-747f8784-c857-4a32-8893-4c9e725268e6,Ardahan Kalesi,SIGHT,41.117783,42.704746,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-5805d037-35e2-48c0-ada4-edda6f012723,Temmuz Demokrasi Parkı,SIGHT,41.117287,42.700642,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-eb8d08aa-03ce-40ff-8217-42ca0bfc4646,Çıldır Gölü Ardahan,SIGHT,41.116745,42.70002,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-033a698f-62f0-4aa2-a5df-d6ec1805b605,Lezzet-i Kur,RESTAURANT,41.117813,42.698627,D010 32-38 75000,Ardahan,CDLA-Permissive-2.0,Overture|meta
-63e90dab-e2f6-40a1-9e5c-aaf0bcb5a10f,Tarık Usta Caffe Restaurant,RESTAURANT,41.065331,42.506947,Tarık Usta Caffe Restaurant ,Ardahan,CDLA-Permissive-2.0,Overture|meta
-8552f238-29c7-4d31-a782-d98e35789fc3,Yalnizcam Oteli,HOTEL,41.045704,42.519676,Yalnizcam Kayak Tesisleri,Ardahan,CDLA-Permissive-2.0,Overture|meta
-e0a7fe4b-20e2-4bd0-af39-40d9a0a97de6,Yalnizcam Oteli,HOTEL,41.046726,42.52132,Yalnizcam Kayak Tesisleri,Ardahan,CDLA-Permissive-2.0,Overture|meta
-afbd54eb-30cb-4a29-b5bb-bb0f81b01067,Ardahan Aydemirler Kaz Çiftliği,SHOPPING,41.09766,42.629719,Ağzıpek,Ardahan,CDLA-Permissive-2.0,Overture|meta
-d0712f9f-b17a-4753-bfc4-90e6e6a2a139,Bahar Evleri,HOTEL,41.095421,42.668236,"İnönü Mahallesi, Sağlık1 Caddesi. Merkez",Ardahan,CDLA-Permissive-2.0,Overture|meta
-bebbd6a5-70ea-4cf6-a2ef-144bab4a39e5,Kuzey Yıldızı Butik Otel,HOTEL,41.097736,42.669205,"Ardahan Göle Yolu, Kongre Caddesi No 297",Ardahan,CDLA-Permissive-2.0,Overture|meta
-d485a772-6736-4904-84b8-69e5be2ae529,Bülbülhan Yaylası,ACTIVITY,41.10622,42.688637,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-a786d86f-341e-41ca-997e-56fe9aceb918,Yıldız Hayvancılık Ardahan,ACTIVITY,41.106277,42.689411,Ardahan,Ardahan,CDLA-Permissive-2.0,Overture|meta
-95d76452-cdc0-45f6-bea0-8f0bdf28c4d4,Özge Mantı evi,RESTAURANT,41.108685,42.696976,Koca Mustafa Paşa Cd. No:57,Ardahan,CDLA-Permissive-2.0,Overture|meta
-f09e2530-8bb8-4295-836e-22e7b67cb4de,Magussa Cafe Ardahan,CAFE,41.110355,42.698544,Mareşal Fevzi Çakmak Caddesi 41,Ardahan,CDLA-Permissive-2.0,Overture|meta
-1a147f45-1cea-49e1-9d78-8e882fbf5093,Ardahan Konya Etliekmek,RESTAURANT,41.110497,42.697914,Kongre Cd. No:50,Ardahan,CDLA-Permissive-2.0,Overture|meta
-982c8b45-b8c4-4476-baf2-4840dc021e68,Çağrı Otel,HOTEL,41.110542,42.697796,D010 58-48,Ardahan,CDLA-Permissive-2.0,Overture|meta
-4065fca4-46b9-4181-b899-2d2cf3864ca5,Kuzey Yıldızı Boutıque Otel,HOTEL,41.110474,42.697338,Kongre Caddesi,Ardahan,CDLA-Permissive-2.0,Overture|meta
-d4738d20-d5de-4a8c-9328-3abae94c85b5,Kura Parkı,SIGHT,41.114452,42.699444,Halil,Ardahan,CDLA-Permissive-2.0,Overture|meta
-5c6b4c9d-7248-45a7-a2e4-f1c98200db73,Neşve Ardahan,CAFE,41.113998,42.699776,Ardahan Avm Giriş Katı,Ardahan,CDLA-Permissive-2.0,Overture|meta
-5737e68d-eabf-4dec-9121-ebb13840cdd8,Diamond Ardahan,CAFE,41.113873,42.700108,Hamam Caddesi 18,Ardahan,CDLA-Permissive-2.0,Overture|meta
-beacb822-31c2-487b-b36b-fe7b113fe52a,Damla Otel,HOTEL,41.113434,42.700336,Meydan Cd. No:2,Ardahan,CDLA-Permissive-2.0,Overture|meta
-9cf17c02-282a-4e83-b15a-9cbea2bd7402,Ardahan Kongre Ve Kent Muzesi,SIGHT,41.110756,42.697189,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-541394eb-14ab-4cf3-b7a4-cb5be5009cc7,otel Huzur,HOTEL,41.110596,42.69775,Kongre Caddesi 56,Ardahan,CDLA-Permissive-2.0,Overture|meta
-ea2cf660-aa8f-4ce8-9bbd-f917cf5ab616,La’Mira ,CAFE,41.111855,42.700871,İskan Sokak 5,Ardahan,CDLA-Permissive-2.0,Overture|meta
-7106f4be-0210-4c49-8be0-c50604b60168,Tarihi Hasır Ocakbaşı,RESTAURANT,41.112045,42.703335,Mareşal Fevzi Çakmak Cd. No:43,Ardahan,CDLA-Permissive-2.0,Overture|meta
-796fe34a-5f8f-41ac-b5f2-3fa0fd65b5cf,Özgürler Avm,SHOPPING,41.111286,42.703026,Atatürk Cd. No:42,Ardahan,CDLA-Permissive-2.0,Overture|meta
-9ecf25b8-4bee-4862-a2c6-5e99d53b6d99,Otel Başak,HOTEL,41.111286,42.703976,İnönü Cd. No:37,Ardahan,CDLA-Permissive-2.0,Overture|meta
-2d71ccec-3ba0-4e5d-b2a4-337e2aa07eaf,Ardana Doner,RESTAURANT,41.111588,42.703938,İnönü Cd. no:26/B,Ardahan,CDLA-Permissive-2.0,Overture|meta
-7bd7e732-3d2c-4745-8db2-b244bb2a5c13,Butik Ardana Hotel,HOTEL,41.111549,42.703945,İnönü Cd. No:26/A,Ardahan,CDLA-Permissive-2.0,Overture|meta
-d1827149-686f-4a94-8668-282566f66c09,Hira Közde Dürüm,RESTAURANT,41.111759,42.704033,İnönü Cd. No:25,Ardahan,CDLA-Permissive-2.0,Overture|meta
-aa467f47-d98c-4cc9-81d0-6353353f7c3e,Otantik CAFE,RESTAURANT,41.112152,42.703571,Kaptanpaşa mah. No 5,Ardahan,CDLA-Permissive-2.0,Overture|meta
-fdf95121-2f44-427b-ac2e-1d67b6b712ab,Bingol Lokantasi,RESTAURANT,41.112404,42.703789,İnönü Cd. No:35,Ardahan,CDLA-Permissive-2.0,Overture|meta
-818c874a-3ca0-45a7-af63-ca876765a5d9,Ardahan kılıçoğlu,RESTAURANT,41.112595,42.703625,Kaptanpaşa mahallesi İnönü caddesi Kızılay şubesi yanı PTT karşısı,Ardahan,CDLA-Permissive-2.0,Overture|meta
-ab168d33-1ee7-430b-b1bf-d35211ee298b,Jüpiter Kitap Cafe,CAFE,41.113003,42.703701,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-f99d33aa-3c47-4169-8c7f-2a24b21576d4,SEMA pastane & cafe,CAFE,41.113159,42.702164,ataturk cad.is bankasi alti.merkez /Ardahan,Ardahan,CDLA-Permissive-2.0,Overture|meta
-87e2ff52-a2bd-4a7d-b4b4-5b7addee0a8d,Karadeniz Sofrası,RESTAURANT,41.113159,42.702042,Atatürk Cd. No:20,Ardahan,CDLA-Permissive-2.0,Overture|meta
-aa82a7a7-be52-40df-b576-7bf96a1baa21,Otantik Cafe,CAFE,41.112564,42.702522,Otantik Cafe Belediye Parkı,Ardahan,CDLA-Permissive-2.0,Overture|meta
-b53d7894-d81d-492a-a69b-48ff09add018,Sırda Pizza,RESTAURANT,41.112732,42.701839,Kongre Cd. No:15,Ardahan,CDLA-Permissive-2.0,Overture|meta
-9098b3f1-bf6e-4a5e-b3ed-a9936e944c1d,Ardahan Antepli Ethem Usta,RESTAURANT,41.112125,42.701374,Hamam Cd. No:14,Ardahan,CDLA-Permissive-2.0,Overture|meta
-bf6f52d7-a1fe-43c2-9227-4c6ca0d0c58e,DOİS Döner,RESTAURANT,41.11211,42.701191,"Hamam Cd. No:19, 75000",Ardahan,CDLA-Permissive-2.0,Overture|meta
-66a83954-0c08-45f0-bb98-977ffb32d900,Alasara Cafe Restaurant,RESTAURANT,41.112434,42.701176,Kongre Cd. No:47,Ardahan,CDLA-Permissive-2.0,Overture|meta
-99ded31c-5273-4c73-b2f8-e0009ba03a3c,Çıldır Gölü,SIGHT,41.112316,42.701054,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-74ed0a12-a350-462a-b8fb-f3c6aed59040,Yörem Cağ Kebap,RESTAURANT,41.112198,42.700497,Kongre Caddesi 92A/1,Ardahan,CDLA-Permissive-2.0,Overture|meta
-55caf11f-0085-491c-97f9-d44bc507b054,Ardahan Bingöl Kadayıf Ve Künefe Salonu,CAFE,41.112347,42.700718,Kongre Caddesi 60,Ardahan,CDLA-Permissive-2.0,Overture|meta
-da5f3535-edff-4bb7-8967-383dc182ff56,Şehzade,RESTAURANT,41.112484,42.700844,Kongre Cd. No:52,Ardahan,CDLA-Permissive-2.0,Overture|meta
-af24bf68-2f0c-4808-be63-6e735532aeaa,Yeşilçam Çay Evi,CAFE,41.112553,42.701031,D010,Ardahan,CDLA-Permissive-2.0,Overture|meta
-3afea522-887e-4076-b53f-b452d96a1eab,Bohemia,CAFE,41.113125,42.700527,Hamam Cd. no11,Ardahan,CDLA-Permissive-2.0,Overture|meta
-9b505670-9693-4609-a59b-e4f3e8000b0b,Kura restorant,RESTAURANT,41.112972,42.701237,Daracık Sokak 2,Ardahan,CDLA-Permissive-2.0,Overture|meta
-176c5a39-9a9c-4c31-b95a-5f21bbc8ce73,Şölen Cafe,CAFE,41.112835,42.701622,Kongre Cd. No:16,Ardahan,CDLA-Permissive-2.0,Overture|meta
-217ac675-2f4e-4d04-b2ed-9f2c19e7bc07,Ardahan AVM,SHOPPING,41.113583,42.700657,Ümit Kaptancıoğlu Caddesi,Ardahan,CDLA-Permissive-2.0,Overture|meta
-8fe6ca3f-ac59-4eff-a649-ba8ed3ac0282,Yemen Kahvesi Ardahan Şubesi,CAFE,41.114025,42.700722,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-ad96bb7e-9809-44ad-863d-d5b7b9d6c6e0,Telve Kahve Dükkanı,CAFE,41.113911,42.702549,Ordu Cd. No:13,Ardahan,CDLA-Permissive-2.0,Overture|meta
-857fcdcc-db5e-4d51-a52b-48dc7003d3bd,Ardahan Öğretmenevi,HOTEL,41.113758,42.70293,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-a3c2b979-173e-4049-a3b9-f1885713ff1d,Bendensin,RESTAURANT,41.114525,42.701496,Atatürk Cd. No:18,Ardahan,CDLA-Permissive-2.0,Overture|meta
-e42b489b-9ed3-4920-99c9-265d8d788740,Ardahan Şehiriçi Köprüsü,SIGHT,41.115398,42.700996,Piyade Sk. No:2,Ardahan,CDLA-Permissive-2.0,Overture|meta
-8d3204de-4338-416c-a714-996ee38d4d2e,Ardahan Otel Pansiyon,HOTEL,41.114025,42.703529,İnönü Cd. No:1,Ardahan,CDLA-Permissive-2.0,Overture|meta
-fa8f6f07-9c57-4834-a99f-ff67bb16b963,Aktaş Et Mangal,RESTAURANT,41.109871,42.705463,Aşık Şenlik Cd. No:1,Ardahan,CDLA-Permissive-2.0,Overture|meta
-b6043292-c26b-4d96-acff-f85e96bcd475,Kafkas Ari Hotel,HOTEL,41.109184,42.705513,Cumhuriyet Cd. No:87,Ardahan,CDLA-Permissive-2.0,Overture|meta
-de72f946-887e-41b2-b94a-06a2c499eab5,Bilgin Arıcılık,HOTEL,41.110569,42.701187,Ardahan çataldere köyü,Ardahan,CDLA-Permissive-2.0,Overture|meta
-ca63d85e-e09f-46ca-8ab8-88e59e8722fa,Bizim Cafe Ardahan,CAFE,41.108875,42.702862,Kazım Karabekir Cd. No:23,Ardahan,CDLA-Permissive-2.0,Overture|meta
-4612c732-a5fa-4f60-9ff3-515a69199e6e,Ez Ekiz Konutları,SIGHT,41.108337,42.702991,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-ac456d85-338c-4f18-970d-1358c2a4d23a,Kahve Molası,CAFE,41.108006,42.703045,Kazım Karabekir Caddesi 19,Ardahan,CDLA-Permissive-2.0,Overture|meta
-efd339a8-4cac-413c-8617-4fb09941e087,Ardahan İpekyolu OTEL,HOTEL,41.108181,42.705204,Kaptanpasa mah,Ardahan,CDLA-Permissive-2.0,Overture|meta
-620bd765-9e61-4d56-8159-94fa541552e3,Anatolıa Hotel,HOTEL,41.107422,42.705509,Cumhuriyet Caddesi 109,Ardahan,CDLA-Permissive-2.0,Overture|meta
-45630873-1c30-4514-a5b9-8115cc8ce1d3,Sampiyon Kokorec,RESTAURANT,41.105278,42.718006,Kars Cad,Ardahan,CDLA-Permissive-2.0,Overture|meta
-f3f9bd14-01e6-4873-b794-ec84179bdf36,Yeni Kaşgarlı Mahmut Erkek Öğrenci Yurdu,HOTEL,41.108219,42.735474,Ardahan - Kars yolu (Ardahan Üniversitesi yolu üzeri),Ardahan,CDLA-Permissive-2.0,Overture|meta
-8e3263dd-0923-49dc-99c8-0020314cc22a,"Güzelyurt, Ardahan",SIGHT,41.101398,42.863899,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-38e2ca0d-a5ab-4dc1-b056-6e436f47cf6a,Ardahan Ziyaret Tepesi,SIGHT,41.121964,42.819363,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-3c4a7218-3ff9-42b8-bea4-6b48906070e4,"Bağdaşan, Ardahan",SIGHT,41.128433,42.832935,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-a85f26c9-1c79-40df-9a38-24670bf15e17,"Yalnızçam, Ardahan",SIGHT,41.128433,42.832935,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-c210cbb6-0f39-4f83-b6ce-46ce2b9e9a70,"Ölçek, Ardahan",SIGHT,41.134094,42.852955,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-5347c3d2-82af-43ea-8cba-a3297015581d,"Yenibeyrehatun, Çıldır",HOTEL,41.133327,42.966663,,Ardahan,CDLA-Permissive-2.0,Overture|meta
-9904bec6-0462-4b2b-bb23-7abcb7e8dc8c,Aktaş Gölü,SIGHT,41.162094,43.146515,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-04eab50b-a0c2-4ba4-bf77-1f6da6d155c9,Şeytan Castle,SIGHT,41.154217,43.130997,Yıldırımtepe Köyü Yolu,Çıldır,CDLA-Permissive-2.0,Overture|meta
-cf94e9e6-04c4-4fc2-b089-1c735f621951,Çıldır Şeytan Kalesi,SIGHT,41.140614,43.12661,Çıldır Yıldırım tepe Köyü,Çıldır,CDLA-Permissive-2.0,Overture|meta
-9b2dda76-ef36-455a-b2d6-7b55bad63049,Yilmazoglu Apart and Otel,HOTEL,41.121021,43.133759,Yeni Mahallesi,Çıldır,CDLA-Permissive-2.0,Overture|meta
-11e92a00-be7d-4f88-b482-e49861262cbb,Çıldır Sancağı,SIGHT,41.127838,43.134495,Yenimahale Aşık Şenlik Cad.,Çıldır,CDLA-Permissive-2.0,Overture|meta
-69c501a5-4ea0-4303-906b-b426f2836343,Çıldır Lake (Ardahan),SIGHT,41.085777,43.175755,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-980fc22e-9dff-49ad-acdc-fa030dcc5fb5,Atalay'ın Yeri Restoran,RESTAURANT,41.086067,43.17535,"ÇILDIR GÖLÜ KENARI, KARS YOLU ÜZERİ",Çıldır,CDLA-Permissive-2.0,Overture|meta
-3e1c6fd0-a021-4259-95a7-937736e65125,Gölbaşı Kılçadırı,RESTAURANT,41.08057,43.139915,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-15517347-932e-4fc9-981e-d85d2eae596a,Sirinler Mola Restaurant,RESTAURANT,41.112534,43.137901,Çıldır 3,Çıldır,CDLA-Permissive-2.0,Overture|meta
-8fc22236-c3b5-4711-a327-b6c0b869e209,Çıldır Gölü Konağı,HOTEL,41.106319,43.117626,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-0506aa7d-b8a9-4c5e-a1aa-bd47ca191488,Taş Konak Çıldır Gölü,HOTEL,41.105766,43.113789,"Sazlısu Köyü İç Yolu, Sazlısu Köyü Çıldır, Ardahan, Türkiye",Çıldır,CDLA-Permissive-2.0,Overture|meta
-c49554ce-f058-4674-9186-d40751073a4f,Çıldır Lake,SIGHT,41.0425,43.255272,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-7725ae52-e545-4b71-bdc7-a571e36638eb,Çıldır Kuzey Yıldızı,HOTEL,41.141109,43.211334,Suhara Mah. Yeni Küme Evler Mevkii 77/1,Çıldır,CDLA-Permissive-2.0,Overture|meta
-d8ac4fd5-4dc3-472d-829e-096f046b1a74,Lake Khosapin,SIGHT,41.208611,43.217777,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-ea96c269-dbe8-4f7c-a387-fde18d5efa07,Arpaçay Kütük ev,RESTAURANT,41.015888,43.303967,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-b1d50ddc-35da-421a-a7f6-7035fb4c785f,Kars - Çıldır Gölü,SIGHT,41.016769,43.30407,,Çıldır,CDLA-Permissive-2.0,Overture|meta
-e4899555-d7b6-44a2-bcd5-f43a30ef7568,Günay Restaurant,RESTAURANT,41.000561,43.299244,,Çıldır,CDLA-Permissive-2.0,Overture|meta
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy
+b5e590dc-efd7-449e-a295-18765a6aa786,Selim Bayburt Baraj Gölü,SIGHT,40.543961,42.798481,,Göle,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+c109e2dd-b5a3-46fc-b30d-cf8eec82611f,Bayburt Dam,SIGHT,40.523018,42.80901,,Göle,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c003078f-604f-4d77-bdbb-c61f59a09530,Toprak Avm,SHOPPING,40.792603,42.611595,Kars 3. Sk.,Göle,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+55f171ac-7f20-4fce-97ee-6518dbbbd4b4,Otel AkÇAy GÖLe,HOTEL,40.792633,42.608257,Cami Sokak 11,Göle,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+251cde6e-b20b-44d9-abf3-cff1abf3d31e,Yeşil Göle Pastanesi,CAFE,40.792976,42.60833,Oltu Cd. 2. Sk.,Göle,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+14562fd7-49bb-41d8-8906-3a3c44477db6,Sancakoglu Cay Evi,CAFE,40.793388,42.6082,Oltu Cd. 2. Sk.,Göle,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+bcd44869-93c5-46d1-994e-c843fe3182fc,Göle Çapan Süt,RESTAURANT,40.793327,42.608818,Oltu Caddesi 8A,Göle,CDLA-Permissive-2.0,Overture|meta,cambodian_restaurant,food_and_drink>restaurant>asian_restaurant>southeast_asian_restaurant>cambodian_restaurant
+f59ea9b4-a088-4f1d-b419-48eab79b7aee,Gönül Sofrası,RESTAURANT,40.793411,42.609459,Oltu Caddesi No:5,Göle,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+48578939-5710-46b8-97c0-7b39291d134f,Ardahan Göle Kalecik,SIGHT,40.793865,42.609329,,Göle,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
+07c12d22-09b7-43b6-b4d0-32be39d6d77e,Huzur Lokantasi,RESTAURANT,40.793072,42.607574,Oltu Cad. No:4,Göle,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+85ce1c42-24d3-49b6-b3c2-971f4c624835,Merdinik Köz Çay Evi,CAFE,40.79285,42.60741,,Göle,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+6a200151-3cba-463d-a0a5-a1b11bb745cc,Gözde Pide & Simit Sarayi,CAFE,40.792606,42.60741,OLTU CADDESİ SALİM BEY MAHALLESİ,Göle,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+c19e9014-8d30-4065-9f89-610ce8c8f160,Gole Sekki Vilayeti,RESTAURANT,40.792881,42.607216,Ardahan Göle,Göle,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+49813bdd-3ca3-4139-ab87-f7921ff73642,Gole Uygulama Oteli,HOTEL,40.781185,42.601532,Gole Ardahan,Göle,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+14b742ea-f0d7-47d3-99ed-c5ccce1e37fa,Cafee Heykel,CAFE,40.792065,42.606518,No:61,Göle,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+dc99cc7c-2444-4929-a909-d7c6f5303d15,Acar Süt Fabrika,SHOPPING,40.803326,42.615215,,Göle,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+fb8ff2c9-9853-4d4d-a1b9-3ff383f87f34,"Senemoğlu, Göle",SIGHT,40.783333,42.66666,,Göle,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+22d9407d-2099-4c4a-b20e-6c8cc0114956,"Kuytuca, Göle",SIGHT,40.766666,42.75,,Göle,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+e6e2446d-bd4f-45f7-a2d6-e95bb600d763,Fortress of Queli,SIGHT,41.441963,42.623859,,Damal,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+9f9baa2c-2884-4f16-99e4-6f02d2c97aee,AKYÜZ Garden cafe&nargile,CAFE,41.505386,42.727695,Posof Merkez,Posof,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+b95fd4dd-bd19-4a64-bedf-7e9490298555,Ateş Otel Merve Lokantası,HOTEL,41.509598,42.727634,Alparslan Cd. NO:4,Posof,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+f0fc76d3-a919-4db8-ac65-8f8ff3404dc3,Buket Pastanesi,CAFE,41.509724,42.727791,Türkgözü Cd. No:86,Posof,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+18cb3d1c-7f46-49f3-9efb-121c2a3d8255,Sevimin Mutfağı,RESTAURANT,41.50808,42.728279,Ardahan Cd. no 60/3,Posof,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant
+3ac78a95-a637-4c50-abb4-e1068c1c9ee6,Savahil OTEL,HOTEL,41.510574,42.729168,Tükgözü Caddesi 3,Posof,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+033cbe8f-2bb7-4347-ac61-be96b39eda7e,Saydan Memleket Sofrasi,CAFE,41.509804,42.727924,Ardahan Cd. No:100,Posof,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+50c40ea5-3438-41ec-a247-42ed99d133c9,Savahil Otel & Restaurant,HOTEL,41.514893,42.759155,Türkgözü Sınır Kapısı Yol 3 Km,Posof,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+988116ea-eebd-4c99-bed5-c5544e3b4771,"Balgöze, Posof",SIGHT,41.44817,42.907318,,Damal,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+8788a33b-5de4-4cf8-964a-aea9520caa2d,"Arıkonak, Hanak",SIGHT,41.237347,42.955791,,Hanak,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+d714154f-1ac7-40a0-8dae-06c9bf036d90,Ardahan Hanak,RESTAURANT,41.236084,42.845749,,Hanak,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+d0f4665c-a938-43ef-b7a1-4701d384a665,Yeşil Artvin Pasta&Cafe,CAFE,41.235481,42.84631,"Yeşil Artvin Pasta&Cafe, Atatürk Cd. No:42/A",Hanak,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+acd731a7-f432-4f96-a114-0f787c3159d2,Kaymakamlik Hanak,HOTEL,41.234661,42.846722,Ardahan Terminal,Hanak,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+bcdbc39c-1c80-475b-8d87-724f6fb08a17,Beşlioğlu Alabalık Tesisleri,RESTAURANT,41.352898,42.722656,,Damal,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+20599a35-ad44-44e9-818a-d51cdc11a334,Arsianis K'edi,SIGHT,41.39138,42.519981,,Damal,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+6239aa15-6c1d-4c28-87ab-fa31a075bb41,Küçük Şirata Gölü,SIGHT,41.375916,42.501076,Pınarlı Köyü,Damal,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+3aaec649-acd5-43b4-98b4-bd334e499a55,Balık Gölü Artvin/şavşat,SIGHT,41.364952,42.504189,,Damal,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+d26d0415-efeb-4561-8a44-9ad24f4caff7,Sıla Bungalov,HOTEL,41.30928,42.500927,Meşeli köyü Çakıllı Mahallesi.No.6,Damal,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin
+04c1b015-ede5-4d21-9f56-ee1a7068c3f1,Agara Balık Restaurant,RESTAURANT,41.310825,42.503941,,Damal,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant
+86ac3058-0653-4016-a342-a929b864dc9a,Agara Balık Restaurant,RESTAURANT,41.310917,42.503799,,Damal,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant
+959bb079-1360-4520-882b-c52b546b95dd,Rutav Gölü,SIGHT,41.291908,42.515862,,Damal,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+bb97162a-c3c8-41cb-887b-25caa3692dc6,"Koyunpınar, Hanak",SIGHT,41.25,42.783333,,Hanak,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+6faed4d8-8c46-4ba1-9cfa-e104bd926926,Ensar Öğüt Konağı,HOTEL,41.118015,42.707214,,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+9b16dcbd-2825-44f4-91a8-1326570d3d25,Agara Doğal & Yöresel Lezzetler,RESTAURANT,41.118416,42.70475,Kahramanlar Caddesi 38,Ardahan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+747f8784-c857-4a32-8893-4c9e725268e6,Ardahan Kalesi,SIGHT,41.117783,42.704746,,Ardahan,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle
+5805d037-35e2-48c0-ada4-edda6f012723,Temmuz Demokrasi Parkı,SIGHT,41.117287,42.700642,,Ardahan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+eb8d08aa-03ce-40ff-8217-42ca0bfc4646,Çıldır Gölü Ardahan,SIGHT,41.116745,42.70002,,Ardahan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+033a698f-62f0-4aa2-a5df-d6ec1805b605,Lezzet-i Kur,RESTAURANT,41.117813,42.698627,D010 32-38 75000,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+63e90dab-e2f6-40a1-9e5c-aaf0bcb5a10f,Tarık Usta Caffe Restaurant,RESTAURANT,41.065331,42.506947,Tarık Usta Caffe Restaurant ,Ardahan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+8552f238-29c7-4d31-a782-d98e35789fc3,Yalnizcam Oteli,HOTEL,41.045704,42.519676,Yalnizcam Kayak Tesisleri,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+e0a7fe4b-20e2-4bd0-af39-40d9a0a97de6,Yalnizcam Oteli,HOTEL,41.046726,42.52132,Yalnizcam Kayak Tesisleri,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+afbd54eb-30cb-4a29-b5bb-bb0f81b01067,Ardahan Aydemirler Kaz Çiftliği,SHOPPING,41.09766,42.629719,Ağzıpek,Ardahan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+d0712f9f-b17a-4753-bfc4-90e6e6a2a139,Bahar Evleri,HOTEL,41.095421,42.668236,"İnönü Mahallesi, Sağlık1 Caddesi. Merkez",Ardahan,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+bebbd6a5-70ea-4cf6-a2ef-144bab4a39e5,Kuzey Yıldızı Butik Otel,HOTEL,41.097736,42.669205,"Ardahan Göle Yolu, Kongre Caddesi No 297",Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d485a772-6736-4904-84b8-69e5be2ae529,Bülbülhan Yaylası,ACTIVITY,41.10622,42.688637,,Ardahan,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park
+a786d86f-341e-41ca-997e-56fe9aceb918,Yıldız Hayvancılık Ardahan,ACTIVITY,41.106277,42.689411,Ardahan,Ardahan,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park
+95d76452-cdc0-45f6-bea0-8f0bdf28c4d4,Özge Mantı evi,RESTAURANT,41.108685,42.696976,Koca Mustafa Paşa Cd. No:57,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+f09e2530-8bb8-4295-836e-22e7b67cb4de,Magussa Cafe Ardahan,CAFE,41.110355,42.698544,Mareşal Fevzi Çakmak Caddesi 41,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+1a147f45-1cea-49e1-9d78-8e882fbf5093,Ardahan Konya Etliekmek,RESTAURANT,41.110497,42.697914,Kongre Cd. No:50,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+982c8b45-b8c4-4476-baf2-4840dc021e68,Çağrı Otel,HOTEL,41.110542,42.697796,D010 58-48,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+4065fca4-46b9-4181-b899-2d2cf3864ca5,Kuzey Yıldızı Boutıque Otel,HOTEL,41.110474,42.697338,Kongre Caddesi,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d4738d20-d5de-4a8c-9328-3abae94c85b5,Kura Parkı,SIGHT,41.114452,42.699444,Halil,Ardahan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
+5c6b4c9d-7248-45a7-a2e4-f1c98200db73,Neşve Ardahan,CAFE,41.113998,42.699776,Ardahan Avm Giriş Katı,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+5737e68d-eabf-4dec-9121-ebb13840cdd8,Diamond Ardahan,CAFE,41.113873,42.700108,Hamam Caddesi 18,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+beacb822-31c2-487b-b36b-fe7b113fe52a,Damla Otel,HOTEL,41.113434,42.700336,Meydan Cd. No:2,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+9cf17c02-282a-4e83-b15a-9cbea2bd7402,Ardahan Kongre Ve Kent Muzesi,SIGHT,41.110756,42.697189,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+541394eb-14ab-4cf3-b7a4-cb5be5009cc7,otel Huzur,HOTEL,41.110596,42.69775,Kongre Caddesi 56,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ea2cf660-aa8f-4ce8-9bbd-f917cf5ab616,La’Mira ,CAFE,41.111855,42.700871,İskan Sokak 5,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+7106f4be-0210-4c49-8be0-c50604b60168,Tarihi Hasır Ocakbaşı,RESTAURANT,41.112045,42.703335,Mareşal Fevzi Çakmak Cd. No:43,Ardahan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+796fe34a-5f8f-41ac-b5f2-3fa0fd65b5cf,Özgürler Avm,SHOPPING,41.111286,42.703026,Atatürk Cd. No:42,Ardahan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+9ecf25b8-4bee-4862-a2c6-5e99d53b6d99,Otel Başak,HOTEL,41.111286,42.703976,İnönü Cd. No:37,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+2d71ccec-3ba0-4e5d-b2a4-337e2aa07eaf,Ardana Doner,RESTAURANT,41.111588,42.703938,İnönü Cd. no:26/B,Ardahan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+7bd7e732-3d2c-4745-8db2-b244bb2a5c13,Butik Ardana Hotel,HOTEL,41.111549,42.703945,İnönü Cd. No:26/A,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+d1827149-686f-4a94-8668-282566f66c09,Hira Közde Dürüm,RESTAURANT,41.111759,42.704033,İnönü Cd. No:25,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+aa467f47-d98c-4cc9-81d0-6353353f7c3e,Otantik CAFE,RESTAURANT,41.112152,42.703571,Kaptanpaşa mah. No 5,Ardahan,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+fdf95121-2f44-427b-ac2e-1d67b6b712ab,Bingol Lokantasi,RESTAURANT,41.112404,42.703789,İnönü Cd. No:35,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+818c874a-3ca0-45a7-af63-ca876765a5d9,Ardahan kılıçoğlu,RESTAURANT,41.112595,42.703625,Kaptanpaşa mahallesi İnönü caddesi Kızılay şubesi yanı PTT karşısı,Ardahan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+ab168d33-1ee7-430b-b1bf-d35211ee298b,Jüpiter Kitap Cafe,CAFE,41.113003,42.703701,,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+f99d33aa-3c47-4169-8c7f-2a24b21576d4,SEMA pastane & cafe,CAFE,41.113159,42.702164,ataturk cad.is bankasi alti.merkez /Ardahan,Ardahan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+87e2ff52-a2bd-4a7d-b4b4-5b7addee0a8d,Karadeniz Sofrası,RESTAURANT,41.113159,42.702042,Atatürk Cd. No:20,Ardahan,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant
+aa82a7a7-be52-40df-b576-7bf96a1baa21,Otantik Cafe,CAFE,41.112564,42.702522,Otantik Cafe Belediye Parkı,Ardahan,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
+b53d7894-d81d-492a-a69b-48ff09add018,Sırda Pizza,RESTAURANT,41.112732,42.701839,Kongre Cd. No:15,Ardahan,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
+9098b3f1-bf6e-4a5e-b3ed-a9936e944c1d,Ardahan Antepli Ethem Usta,RESTAURANT,41.112125,42.701374,Hamam Cd. No:14,Ardahan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+bf6f52d7-a1fe-43c2-9227-4c6ca0d0c58e,DOİS Döner,RESTAURANT,41.11211,42.701191,"Hamam Cd. No:19, 75000",Ardahan,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+66a83954-0c08-45f0-bb98-977ffb32d900,Alasara Cafe Restaurant,RESTAURANT,41.112434,42.701176,Kongre Cd. No:47,Ardahan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+99ded31c-5273-4c73-b2f8-e0009ba03a3c,Çıldır Gölü,SIGHT,41.112316,42.701054,,Ardahan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+74ed0a12-a350-462a-b8fb-f3c6aed59040,Yörem Cağ Kebap,RESTAURANT,41.112198,42.700497,Kongre Caddesi 92A/1,Ardahan,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
+55caf11f-0085-491c-97f9-d44bc507b054,Ardahan Bingöl Kadayıf Ve Künefe Salonu,CAFE,41.112347,42.700718,Kongre Caddesi 60,Ardahan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
+da5f3535-edff-4bb7-8967-383dc182ff56,Şehzade,RESTAURANT,41.112484,42.700844,Kongre Cd. No:52,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+af24bf68-2f0c-4808-be63-6e735532aeaa,Yeşilçam Çay Evi,CAFE,41.112553,42.701031,D010,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+3afea522-887e-4076-b53f-b452d96a1eab,Bohemia,CAFE,41.113125,42.700527,Hamam Cd. no11,Ardahan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+9b505670-9693-4609-a59b-e4f3e8000b0b,Kura restorant,RESTAURANT,41.112972,42.701237,Daracık Sokak 2,Ardahan,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
+176c5a39-9a9c-4c31-b95a-5f21bbc8ce73,Şölen Cafe,CAFE,41.112835,42.701622,Kongre Cd. No:16,Ardahan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+217ac675-2f4e-4d04-b2ed-9f2c19e7bc07,Ardahan AVM,SHOPPING,41.113583,42.700657,Ümit Kaptancıoğlu Caddesi,Ardahan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
+8fe6ca3f-ac59-4eff-a649-ba8ed3ac0282,Yemen Kahvesi Ardahan Şubesi,CAFE,41.114025,42.700722,,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+ad96bb7e-9809-44ad-863d-d5b7b9d6c6e0,Telve Kahve Dükkanı,CAFE,41.113911,42.702549,Ordu Cd. No:13,Ardahan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+857fcdcc-db5e-4d51-a52b-48dc7003d3bd,Ardahan Öğretmenevi,HOTEL,41.113758,42.70293,,Ardahan,CDLA-Permissive-2.0,Overture|meta,hostel,lodging>hostel
+a3c2b979-173e-4049-a3b9-f1885713ff1d,Bendensin,RESTAURANT,41.114525,42.701496,Atatürk Cd. No:18,Ardahan,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
+e42b489b-9ed3-4920-99c9-265d8d788740,Ardahan Şehiriçi Köprüsü,SIGHT,41.115398,42.700996,Piyade Sk. No:2,Ardahan,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
+8d3204de-4338-416c-a714-996ee38d4d2e,Ardahan Otel Pansiyon,HOTEL,41.114025,42.703529,İnönü Cd. No:1,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+fa8f6f07-9c57-4834-a99f-ff67bb16b963,Aktaş Et Mangal,RESTAURANT,41.109871,42.705463,Aşık Şenlik Cd. No:1,Ardahan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
+b6043292-c26b-4d96-acff-f85e96bcd475,Kafkas Ari Hotel,HOTEL,41.109184,42.705513,Cumhuriyet Cd. No:87,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+de72f946-887e-41b2-b94a-06a2c499eab5,Bilgin Arıcılık,HOTEL,41.110569,42.701187,Ardahan çataldere köyü,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+ca63d85e-e09f-46ca-8ab8-88e59e8722fa,Bizim Cafe Ardahan,CAFE,41.108875,42.702862,Kazım Karabekir Cd. No:23,Ardahan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
+4612c732-a5fa-4f60-9ff3-515a69199e6e,Ez Ekiz Konutları,SIGHT,41.108337,42.702991,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+ac456d85-338c-4f18-970d-1358c2a4d23a,Kahve Molası,CAFE,41.108006,42.703045,Kazım Karabekir Caddesi 19,Ardahan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
+efd339a8-4cac-413c-8617-4fb09941e087,Ardahan İpekyolu OTEL,HOTEL,41.108181,42.705204,Kaptanpasa mah,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+620bd765-9e61-4d56-8159-94fa541552e3,Anatolıa Hotel,HOTEL,41.107422,42.705509,Cumhuriyet Caddesi 109,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+45630873-1c30-4514-a5b9-8115cc8ce1d3,Sampiyon Kokorec,RESTAURANT,41.105278,42.718006,Kars Cad,Ardahan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
+f3f9bd14-01e6-4873-b794-ec84179bdf36,Yeni Kaşgarlı Mahmut Erkek Öğrenci Yurdu,HOTEL,41.108219,42.735474,Ardahan - Kars yolu (Ardahan Üniversitesi yolu üzeri),Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+8e3263dd-0923-49dc-99c8-0020314cc22a,"Güzelyurt, Ardahan",SIGHT,41.101398,42.863899,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+38e2ca0d-a5ab-4dc1-b056-6e436f47cf6a,Ardahan Ziyaret Tepesi,SIGHT,41.121964,42.819363,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+3c4a7218-3ff9-42b8-bea4-6b48906070e4,"Bağdaşan, Ardahan",SIGHT,41.128433,42.832935,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+a85f26c9-1c79-40df-9a38-24670bf15e17,"Yalnızçam, Ardahan",SIGHT,41.128433,42.832935,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+c210cbb6-0f39-4f83-b6ce-46ce2b9e9a70,"Ölçek, Ardahan",SIGHT,41.134094,42.852955,,Ardahan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+5347c3d2-82af-43ea-8cba-a3297015581d,"Yenibeyrehatun, Çıldır",HOTEL,41.133327,42.966663,,Ardahan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+9904bec6-0462-4b2b-bb23-7abcb7e8dc8c,Aktaş Gölü,SIGHT,41.162094,43.146515,,Çıldır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+04eab50b-a0c2-4ba4-bf77-1f6da6d155c9,Şeytan Castle,SIGHT,41.154217,43.130997,Yıldırımtepe Köyü Yolu,Çıldır,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle
+cf94e9e6-04c4-4fc2-b089-1c735f621951,Çıldır Şeytan Kalesi,SIGHT,41.140614,43.12661,Çıldır Yıldırım tepe Köyü,Çıldır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+9b2dda76-ef36-455a-b2d6-7b55bad63049,Yilmazoglu Apart and Otel,HOTEL,41.121021,43.133759,Yeni Mahallesi,Çıldır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+11e92a00-be7d-4f88-b482-e49861262cbb,Çıldır Sancağı,SIGHT,41.127838,43.134495,Yenimahale Aşık Şenlik Cad.,Çıldır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+69c501a5-4ea0-4303-906b-b426f2836343,Çıldır Lake (Ardahan),SIGHT,41.085777,43.175755,,Çıldır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+980fc22e-9dff-49ad-acdc-fa030dcc5fb5,Atalay'ın Yeri Restoran,RESTAURANT,41.086067,43.17535,"ÇILDIR GÖLÜ KENARI, KARS YOLU ÜZERİ",Çıldır,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
+3e1c6fd0-a021-4259-95a7-937736e65125,Gölbaşı Kılçadırı,RESTAURANT,41.08057,43.139915,,Çıldır,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant
+15517347-932e-4fc9-981e-d85d2eae596a,Sirinler Mola Restaurant,RESTAURANT,41.112534,43.137901,Çıldır 3,Çıldır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+8fc22236-c3b5-4711-a327-b6c0b869e209,Çıldır Gölü Konağı,HOTEL,41.106319,43.117626,,Çıldır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
+0506aa7d-b8a9-4c5e-a1aa-bd47ca191488,Taş Konak Çıldır Gölü,HOTEL,41.105766,43.113789,"Sazlısu Köyü İç Yolu, Sazlısu Köyü Çıldır, Ardahan, Türkiye",Çıldır,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+c49554ce-f058-4674-9186-d40751073a4f,Çıldır Lake,SIGHT,41.0425,43.255272,,Çıldır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+7725ae52-e545-4b71-bdc7-a571e36638eb,Çıldır Kuzey Yıldızı,HOTEL,41.141109,43.211334,Suhara Mah. Yeni Küme Evler Mevkii 77/1,Çıldır,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
+d8ac4fd5-4dc3-472d-829e-096f046b1a74,Lake Khosapin,SIGHT,41.208611,43.217777,,Çıldır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+ea96c269-dbe8-4f7c-a387-fde18d5efa07,Arpaçay Kütük ev,RESTAURANT,41.015888,43.303967,,Çıldır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
+b1d50ddc-35da-421a-a7f6-7035fb4c785f,Kars - Çıldır Gölü,SIGHT,41.016769,43.30407,,Çıldır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
+e4899555-d7b6-44a2-bcd5-f43a30ef7568,Günay Restaurant,RESTAURANT,41.000561,43.299244,,Çıldır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
