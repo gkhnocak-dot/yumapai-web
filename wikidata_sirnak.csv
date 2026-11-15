@@ -1,0 +1,39 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q6804769,Dağaltı,SIGHT,37.588333,43.164722,,,CC0-1.0,8,Dağaltı,"Dağaltı, Beytüşşebap",,köy | kale
+Q65088734,Bezabde,SIGHT,37.402222,42.066667,,,CC0-1.0,6,Bezabde,,kale_sur | arkeolojik_sit | anıt_heykel,castrum | Antik Roma binası | arkeolojik sit
+Q6970952,Cizre Kalesi,SIGHT,37.328910,42.192780,,,CC0-1.0,5,Cizre Castle,,kale_sur,kale | iç kale | kale
+Q1417206,Finik,SIGHT,37.408040,42.075748,,,CC0-1.0,5,"Pinaka, Corduene",,arkeolojik_sit,arkeolojik sit
+Q31190485,Küpeli Dağı,SIGHT,37.536111,42.106944,,,CC0-1.0,5,Mount Küpeli,Gabar Dağı | Kürelidağ,,dağ | sıradağ
+Q107652034,"Nuh Türbesi (Cizre, Türkiye)",SIGHT,37.324055,42.188258,,,CC0-1.0,5,"Noah's Mausoleum (Cizre, Turkey)",,mezar | külliye_medrese_türbe | anıt_heykel,türbe
+Q61072477,Cizre Ulu Camii,SIGHT,37.321556,42.191250,,,CC0-1.0,3,Grand Mosque of Cizre,,cami,cami | tarihî bina
+Q31505395,Tanin Tanin Dağları,SIGHT,37.437222,43.027778,,,CC0-1.0,3,Tanin Tanin Mountains,,,sıradağ
+Q49319114,Damlacık Mağarası,ACTIVITY,37.263889,41.689444,,,CC0-1.0,1,Damlacık Cave,,doğa,mağara
+Q49319212,Göçermağaraları,ACTIVITY,37.618889,41.946944,,,CC0-1.0,1,Göçermağaraları,,doğa,mağara
+Q49319255,Hevindi Mağaraları,ACTIVITY,37.242222,41.740556,,,CC0-1.0,1,Hevindi Caves,,doğa,mağara
+Q131902275,Kasrik Kalesi,SIGHT,37.395367,42.177620,,,CC0-1.0,1,Kasrik Castle,,kale_sur,kale
+Q49342959,Kasrık Boğazı,ACTIVITY,37.395000,42.176944,,,CC0-1.0,1,Kasrık Straits,,doğa,defile
+Q49342965,Kayık Geçidi,ACTIVITY,37.385000,42.126389,,,CC0-1.0,1,Kayık Pass,,doğa,defile
+Q49319343,Kegi Mağaraları,ACTIVITY,37.607778,41.930000,,,CC0-1.0,1,Kegi Caves,,doğa,mağara
+Q49319346,Keçimağaraları,ACTIVITY,37.611389,41.939722,,,CC0-1.0,1,Keçi Caves,,doğa,mağara
+Q49343185,Refanka Boğazı,ACTIVITY,37.443611,42.823889,,,CC0-1.0,1,Refanka Straits,,doğa,defile
+Q49319892,Zivingega Mağaraları,ACTIVITY,37.262778,41.631389,,,CC0-1.0,1,Zivingega Caves,,doğa,mağara
+Q49319939,Şehitağa Mağaraları,ACTIVITY,37.277778,41.725833,,,CC0-1.0,1,Şehitağa Caves,,doğa,mağara
+Q139423220,Basret Dergâhı,SIGHT,37.595201,42.111209,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135582854,Cudi Dağı Manastırı,SIGHT,37.377331,42.450878,,,CC0-1.0,0,,,manastır_sinagog,manastır | tapınak
+Q131902063,Finik Kalesi,SIGHT,37.408489,42.074593,,,CC0-1.0,0,Finik Castle,,kale_sur,kale
+Q131390949,Hz. Nuh Makamı,SIGHT,37.324116,42.188221,,,CC0-1.0,0,Hz. Noah Mode,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139422085,Kavuncu Han,SIGHT,37.475624,42.219386,,,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q134960897,Kütnüs Höyük,SIGHT,37.261768,42.345711,,,CC0-1.0,0,Kütnüs Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q132182879,Küçük Kozluca Höyüğü,SIGHT,37.145817,41.706078,,,CC0-1.0,0,Küçük Kozluca Höyüğü,Gıre Xanıka,arkeolojik_sit | anıt_heykel,höyük
+Q131390524,Mem-u Zin Türbesi,SIGHT,37.321925,42.186498,,,CC0-1.0,0,Mem-u Zin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131523801,Mor Aho Manastırı,SIGHT,37.398266,42.134857,,,CC0-1.0,0,,Yukarı Dera Manastırı,manastır_sinagog,manastır
+Q131523717,Mor Barsavmo Manastırı,SIGHT,37.305542,41.628552,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q134960896,Sarıköy Höyüğü,SIGHT,37.287186,41.622611,,,CC0-1.0,0,Sarıköy Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q134960898,Tepeli Höyüğü,SIGHT,37.321841,41.797715,,,CC0-1.0,0,Tepeli Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q134960563,Tireras Höyük,SIGHT,37.149661,41.737555,,,CC0-1.0,0,Tireras Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182840,Yeşiltepe Höyüğü,SIGHT,37.248127,42.471310,,,CC0-1.0,0,Yeşiltepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132682087,İsmail Ebul-iz El Cezeri Müzesi,SIGHT,37.332126,42.185589,,,CC0-1.0,0,,,müze,müze
+Q131391293,Şeyh Ahmet El-Cezeri Türbesi,SIGHT,37.324978,42.188099,,,CC0-1.0,0,Tomb of Sheikh Ahmed Al-Jazari,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391665,Şeyh Mala Abdullah Türbesi,SIGHT,37.450527,42.837292,,,CC0-1.0,0,Tomb of Sheikh Mala Abdullah,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391835,Şeyh Muhammed Kesikbaş Türbesi,SIGHT,37.324333,42.187843,,,CC0-1.0,0,Tomb of Sheikh Muhammed Kesikbaş,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139420311,Şeyh Yusuf Türbesi (Silopi),SIGHT,37.218622,42.623377,,Silopi ilçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

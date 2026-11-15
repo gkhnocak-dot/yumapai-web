@@ -1,0 +1,54 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q127634844,Behramşah Camii,SIGHT,40.311619,38.469913,,Şebinkarahisar,CC0-1.0,5,Behramşah Mosque,,cami,cami
+Q6041896,Giresun Kalesi,SIGHT,40.921458,38.391831,,,CC0-1.0,5,Giresun Castle,,kale_sur | anıt_heykel,kale | tarihi mekân | kale
+Q6074022,Şebinkarahisar Atatürk Evi Müzesi,SIGHT,40.288710,38.422930,,Şebinkarahisar,CC0-1.0,5,Şebinkarahisar Atatürk House and Museum,,ev_konak | müze,müze | müze ev
+Q6091475,Şebinkarahisar Kalesi,SIGHT,40.288339,38.423611,,Şebinkarahisar,CC0-1.0,4,Castle of Şebinkarahisar,,kale_sur,kale
+Q65043760,Argyria (Pontus),SIGHT,41.005623,38.869903,,,CC0-1.0,3,Argyria,,arkeolojik_sit,antik kent
+Q28136105,Giresun Müzesi,SIGHT,40.919444,38.393889,,,CC0-1.0,3,Giresun Museum,Giresun Müzesi,müze,müze | arkeoloji müzesi
+Q6367919,Karagöl (Giresun),ACTIVITY,40.525000,38.152778,,,CC0-1.0,3,"Karagöl, Giresun",,göl,göl
+Q6035004,Tirebolu Kalesi,SIGHT,41.007440,38.821170,,,CC0-1.0,3,Tirebolu Castle,,kale_sur,bina | kale
+Q108228131,Ağaçbaşı Tabiat Parkı,ACTIVITY,40.692510,38.321379,,,CC0-1.0,2,Ağaçbaşı Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
+Q118946782,Giresun Metamorfoz Kilisesi,SIGHT,40.922750,38.387833,,,CC0-1.0,2,Giresun Metamorphosis Church,,kilise,kilise
+Q65048861,Ischopolis,SIGHT,40.937989,38.195035,,,CC0-1.0,2,Ischopolis,,arkeolojik_sit,antik kent
+Q12810831,Meryem Ana Manastırı,SIGHT,40.276188,38.506348,,Şebinkarahisar,CC0-1.0,2,Virgin Mary Monastery,Meryem ana manastırı,kilise | arkeolojik_sit,kilise | arkeolojik sit
+Q65048869,Philocaleia,SIGHT,41.034353,38.984957,,,CC0-1.0,2,Philocaleia,,arkeolojik_sit,antik kent
+Q6026433,Taşhanlar (yapı),SIGHT,40.285782,38.425250,,Şebinkarahisar,CC0-1.0,2,Taşhanlar,Taşhanlar,çarşı_pazar | han_hamam_çarşı,bedesten | Han
+Q127788174,Şeyh Keramettin Camii,SIGHT,40.917038,38.386416,,Giresun (ilçe),CC0-1.0,2,Şeyh Keramettin Mosque,,cami,cami
+Q6049094,Bedrama Kalesi,SIGHT,40.953423,38.869801,,,CC0-1.0,1,Bedrama Castle,,kale_sur,kale
+Q126472925,Hacı Abdullah Halife Külliyesi,SIGHT,40.756917,38.619083,,,CC0-1.0,1,,,külliye_medrese_türbe,külliye
+Q21526811,Paşaca Şelalesi,ACTIVITY,40.921640,39.098330,,,CC0-1.0,1,Paşaca Falls,,doğa,şelale
+Q16327541,Prassareos Manastırı,SIGHT,40.750806,38.400528,,,CC0-1.0,1,Monastery of Prassareos,,manastır_sinagog,manastır
+Q130640532,Tirebolu Hamamı,SIGHT,41.006889,38.815222,,,CC0-1.0,1,Tirebolu Baths,,han_hamam_çarşı,hamam | hamam
+Q65044321,Zephyrium,SIGHT,40.964700,38.652400,,,CC0-1.0,1,Zephyrium,,arkeolojik_sit,antik kent
+Q131738721,"Şifa Hamamı, Giresun",SIGHT,40.916511,38.395579,,,CC0-1.0,1,"Şifa Hammam, Giresun",,han_hamam_çarşı,hamam
+Q131901892,Andoz Kalesi,SIGHT,40.939209,38.692067,,,CC0-1.0,0,Andoz Castle,,kale_sur,kale
+Q131902071,Avarak Kalesi,SIGHT,40.135735,38.665909,,,CC0-1.0,0,Avarak Castle,,kale_sur,kale
+Q131902122,Bendehor Kalesi,SIGHT,40.936352,38.112083,,,CC0-1.0,0,Bendehor Castle,Mendehorya Kalesi,kale_sur,kale
+Q131901900,Eynesil Kalesi,SIGHT,41.078251,39.163470,,,CC0-1.0,0,Eynesil Castle,,kale_sur,kale
+Q139422484,Fındıklıbel Höyük,SIGHT,40.258300,38.894701,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132681836,Görele Kemençe Müzesi,SIGHT,41.036766,38.999611,,,CC0-1.0,0,,,müze,müze
+Q131391313,Hacı Abdullah Türbesi,SIGHT,40.759884,38.630566,,,CC0-1.0,0,Haji Abdullah Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391320,Hacı Hasan Efendi Türbesi,SIGHT,40.270764,38.897432,,,CC0-1.0,0,Hacı Hasan Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391314,Hacı Mustafa Türbesi,SIGHT,40.573795,38.274876,,,CC0-1.0,0,Tomb of Hacı Mustafa,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738720,Havuzlu Hamam,SIGHT,40.916708,38.390029,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q133236518,Kaledere Kalesi,SIGHT,40.161690,38.817371,,,CC0-1.0,0,Kaledere Castle,,kale_sur,kale
+Q131902083,"Kaledibi Köyü Kalesi, Çanakçı",SIGHT,40.939876,39.008044,,Çanakçı ilçesi,CC0-1.0,0,,,kale_sur,kale
+Q134728095,Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı,SIGHT,40.922745,38.387882,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q139419839,Kaya Mezarları (Görele),SIGHT,41.013601,39.069241,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q132681943,Kuvvay-i  Milliye Ve Osman Ağa Müzesi,SIGHT,40.917513,38.384448,,,CC0-1.0,0,,,müze,müze
+Q139419890,Kuşluhan Kalesi,SIGHT,40.723345,38.465612,,,CC0-1.0,0,,,kale_sur,kale
+Q132752852,"Köprülü Han, Giresun",SIGHT,40.917661,38.385274,,,CC0-1.0,0,Köprülü Han (Giresun),,han_hamam_çarşı,kervansaray
+Q131391794,Pir Aziz Türbesi,SIGHT,40.921131,38.120556,,,CC0-1.0,0,Tomb of Pir Aziz,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391322,Seyit Vakkas Türbesi,SIGHT,40.917930,38.387922,,,CC0-1.0,0,Tomb of Seyit Vakkas,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135582715,Seyyid Ahmed Cağırgan Veli Türbesi,SIGHT,40.399310,38.847210,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391321,Seyyid Mahmut Çağırgan Baba Türbesi,SIGHT,40.372562,38.902334,,,CC0-1.0,0,Tomb of Seyyid Mahmut Çağırgan Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738718,Tamzara Hamamı,SIGHT,40.326984,38.435387,,Şebinkarahisar,CC0-1.0,0,Tamzara Baths,,han_hamam_çarşı,hamam
+Q139432223,Tirebolu,SIGHT,41.006081,38.820366,,,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q131738719,Topal Mehmet Paşa Hamamı,SIGHT,40.283374,38.423923,,Şebinkarahisar,CC0-1.0,0,Topal Mehmet Paşa Baths,,han_hamam_çarşı,hamam
+Q139419779,Yakup Halife Türbesi,SIGHT,40.813282,38.482179,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902082,Öksün Kalesi,SIGHT,40.928551,38.249191,,,CC0-1.0,0,Öksün Castle,,kale_sur,kale
+Q134728403,"İkiztepe Tümülüsü, Alucra",SIGHT,40.318370,38.782729,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
+Q133236601,Şaban Kalesi,SIGHT,40.872574,38.846981,,,CC0-1.0,0,Şaban Castle,,kale_sur,kale
+Q139420061,Şeyh Gülami Yakup Türbesi,SIGHT,40.288451,38.835273,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391323,Şeyh Keramettin Türbesi,SIGHT,40.888572,38.301170,,,CC0-1.0,0,Sheikh Keramettin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391795,Şeyh İdris Türbesi,SIGHT,40.903419,38.100132,,,CC0-1.0,0,Tomb of Sheikh Idris,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

@@ -1,0 +1,156 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q1340632,Hallan Çemi Höyüğü,SIGHT,38.224167,41.241667,,,CC0-1.0,11,Hallan Çemi,,arkeolojik_sit,arkeolojik sit
+Q959497,Körtik Tepe,SIGHT,37.813993,40.989504,,,CC0-1.0,6,Körtik Tepe,,arkeolojik_sit,arkeolojik sit
+Q31192398,Zeynel Bey Türbesi,SIGHT,37.724972,41.422694,,,CC0-1.0,6,Zeynel Bey Tomb,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q55605010,Batman Müzesi,SIGHT,37.898600,41.141100,,,CC0-1.0,5,Batman Museum,,müze,arkeoloji müzesi | müze
+Q18209534,Eski Köprü (Hasankeyf),SIGHT,37.714400,41.411100,,,CC0-1.0,4,"Old Bridge, Hasankeyf",,köprü,köprü
+Q21524202,Batman Saat Kulesi,SIGHT,37.887806,41.125806,,,CC0-1.0,2,Batman Clock Tower,,kule | kule_saat,saat kulesi
+Q38251676,Zilek Köprüsü,SIGHT,37.829100,40.997300,,,CC0-1.0,2,Zilek Bridge,,köprü,köprü
+Q49319030,Aksu Mağaraları,ACTIVITY,37.740000,41.569167,,,CC0-1.0,1,Aksu Caves,,doğa,mağara
+Q49319047,Aşağıkarha Mağarası,ACTIVITY,37.735000,41.495000,,,CC0-1.0,1,Aşağıkarha Cave,,doğa,mağara
+Q49319061,Belekan Mağaraları,ACTIVITY,37.794444,41.347778,,,CC0-1.0,1,Belekan Caves,,doğa,mağara
+Q49319069,Berzaneka Mağaraları,ACTIVITY,37.788889,41.397222,,,CC0-1.0,1,Berzaneka Caves,,doğa,mağara
+Q49319075,Bida Mağarası,ACTIVITY,37.751667,41.173611,,,CC0-1.0,1,Bida Cave,,doğa,mağara
+Q49319119,Dedevın Mağarası,ACTIVITY,37.901111,41.414444,,,CC0-1.0,1,Dedevın Cave,,doğa,mağara
+Q49319120,Dercin Mağarası,ACTIVITY,37.766111,41.075556,,,CC0-1.0,1,Dercin Cave,,doğa,mağara
+Q49319122,Derindatga Mağarası,ACTIVITY,37.725278,41.325278,,,CC0-1.0,1,Derindatga Cave,,doğa,mağara
+Q49319128,Dirhan Mağarası,ACTIVITY,37.727222,41.146667,,,CC0-1.0,1,Dirhan Cave,,doğa,mağara
+Q49319138,Düşah Mağarası,ACTIVITY,37.820000,41.477500,,,CC0-1.0,1,Düşah Cave,,doğa,mağara
+Q49319153,Ezrakı Mağarası,ACTIVITY,37.761111,41.147778,,,CC0-1.0,1,Ezrakı Cave,,doğa,mağara
+Q49319156,Fasa Mağarası,ACTIVITY,37.790000,41.084167,,,CC0-1.0,1,Fasa Cave,,doğa,mağara
+Q49319175,Gelika Mağarası,ACTIVITY,37.816944,41.148889,,,CC0-1.0,1,Gelika Cave,,doğa,mağara
+Q49319176,Gesuna Mağarası,ACTIVITY,37.766944,41.453333,,,CC0-1.0,1,Gesuna Cave,,doğa,mağara
+Q49319178,Gevina Mağarası,ACTIVITY,37.766944,41.137222,,,CC0-1.0,1,Gevina Cave,,doğa,mağara
+Q49319217,Gündor Mağarası,ACTIVITY,37.865556,41.482778,,,CC0-1.0,1,Gündor Cave,,doğa,mağara
+Q49319229,Hanik Mağarası,ACTIVITY,37.718333,41.394722,,,CC0-1.0,1,Hanik Cave,,doğa,mağara
+Q49319231,Harato Mağarası,ACTIVITY,37.790000,41.088333,,,CC0-1.0,1,Harato Cave,,doğa,mağara
+Q49319232,Harbi Mağara,ACTIVITY,37.787778,41.091111,,,CC0-1.0,1,Harbi Cave,,doğa,mağara
+Q49319234,Harip Mağaraları,ACTIVITY,37.793611,41.296667,,,CC0-1.0,1,Harip Caves,,doğa,mağara
+Q49319238,Haruni Mağaraları,ACTIVITY,37.771667,41.061111,,,CC0-1.0,1,Haruni Caves,,doğa,mağara
+Q49319240,Hasene Mağarası,ACTIVITY,37.721667,41.106944,,,CC0-1.0,1,Hasene Cave,,doğa,mağara
+Q49319244,Haveyna Mağarası,ACTIVITY,37.780278,41.108333,,,CC0-1.0,1,Haveyna Cave,,doğa,mağara
+Q49319245,Havşişan Mağaraları,ACTIVITY,37.794722,41.434444,,,CC0-1.0,1,Havşişan Caves,,doğa,mağara
+Q49319305,Kalekiran Mağaraları,ACTIVITY,37.741667,41.571111,,,CC0-1.0,1,Kalekiran Caves,,doğa,mağara
+Q49319307,Kalo Mağaraları,ACTIVITY,37.792500,41.382778,,,CC0-1.0,1,Kalo Caves,,doğa,mağara
+Q49319315,Kapıcık Mağaraları,ACTIVITY,37.785278,41.394444,,,CC0-1.0,1,Kapıcık Caves,,doğa,mağara
+Q49319332,Karaçı Mağarası,ACTIVITY,37.773889,41.425556,,,CC0-1.0,1,Karaçı Cave,,doğa,mağara
+Q49319333,Kareş Mağarası,ACTIVITY,37.785556,41.041389,,,CC0-1.0,1,Kareş Cave,,doğa,mağara
+Q49319336,Karoka Mağarası,ACTIVITY,37.738333,41.318889,,,CC0-1.0,1,Karoka Cave,,doğa,mağara
+Q49319345,Keveko Mağarası,ACTIVITY,37.788056,41.077222,,,CC0-1.0,1,Keveko Cave,,doğa,mağara
+Q49319389,Kulagerm Mağarası,ACTIVITY,37.763333,41.096389,,,CC0-1.0,1,,,doğa,mağara
+Q6095727,Kuriki Höyük,SIGHT,37.791260,41.012756,,,CC0-1.0,1,Kuriki Höyük,,arkeolojik_sit,arkeolojik sit
+Q49319420,Madırga Mağaraları,ACTIVITY,37.741111,41.265833,,,CC0-1.0,1,Madırga Caves,,doğa,mağara
+Q49319529,Malabinimağaraları,ACTIVITY,37.820000,41.450000,,,CC0-1.0,1,Malabini Caves,,doğa,mağara
+Q49319547,Mehenası Mağarası,ACTIVITY,37.784722,41.461389,,,CC0-1.0,1,Mehenası Cave,,doğa,mağara
+Q49343030,Meymuni Boğazı,ACTIVITY,37.777222,41.243889,,,CC0-1.0,1,Meymuni Straits,,doğa,defile
+Q49319553,Meşti Mağaraları,ACTIVITY,37.699444,41.383056,,,CC0-1.0,1,Meşti Caves,,doğa,mağara
+Q49319554,Mirze Mağarası,ACTIVITY,37.823333,41.211111,,,CC0-1.0,1,Mirze Cave,,doğa,mağara
+Q49319606,Müri Mağaraları,ACTIVITY,37.728333,41.415556,,,CC0-1.0,1,Müri Caves,,doğa,mağara
+Q49319707,Rami Mağarası,ACTIVITY,37.778611,41.186944,,,CC0-1.0,1,Rami Cave,,doğa,mağara
+Q49319708,Recepağa Mağaraları,ACTIVITY,37.782778,41.337222,,,CC0-1.0,1,Recepağa Caves,,doğa,mağara
+Q49319709,Recepağa Mağarası,ACTIVITY,37.822778,41.193889,,,CC0-1.0,1,Recepağa Cave,,doğa,mağara
+Q49319713,Resulimegno Mağarası,ACTIVITY,37.784722,41.076944,,,CC0-1.0,1,Resulimegno Cave,,doğa,mağara
+Q49319714,Reşkini Mağarası,ACTIVITY,37.781944,41.095278,,,CC0-1.0,1,Reşkini Cave,,doğa,mağara
+Q49319750,Serkevir Mağarası,ACTIVITY,37.760000,41.156944,,,CC0-1.0,1,Serkevir Cave,,doğa,mağara
+Q49319752,Sertaniko Mağarası,ACTIVITY,37.763056,41.113611,,,CC0-1.0,1,Sertaniko Cave,,doğa,mağara
+Q49319754,Seyir Mağarası,ACTIVITY,37.774167,41.403611,,,CC0-1.0,1,Seyir Cave,,doğa,mağara
+Q49319764,Sihor Mağarası,ACTIVITY,37.755556,41.103889,,,CC0-1.0,1,Sihor Cave,,doğa,mağara
+Q49319766,Sinora Mağaraları,ACTIVITY,37.785556,41.407500,,,CC0-1.0,1,Sinora Caves,,doğa,mağara
+Q49319682,Sivingasibi Mağarası,ACTIVITY,37.754167,41.056667,,,CC0-1.0,1,Sivingasibi Cave,,doğa,mağara
+Q6083245,Sumaki Höyük,SIGHT,37.917110,41.304199,,,CC0-1.0,1,Sumaki Höyük,,arkeolojik_sit,arkeolojik sit
+Q49319864,Tuhupe Mağarası,ACTIVITY,37.740833,41.418333,,,CC0-1.0,1,Tuhupe Cave,,doğa,mağara
+Q49319882,Yukarıbedal Mağarası,ACTIVITY,37.803889,41.240556,,,CC0-1.0,1,Yukarıbedal Cave,,doğa,mağara
+Q49319884,Yukarıkarha Mağarası,ACTIVITY,37.738056,41.483333,,,CC0-1.0,1,Yukarıkarha Cave,,doğa,mağara
+Q49319891,Zivinga Mağaraları,ACTIVITY,37.767222,41.418889,,,CC0-1.0,1,Zivinga Caves,,doğa,mağara
+Q49319894,Zivink Mağarası,ACTIVITY,37.824167,41.198333,,,CC0-1.0,1,Zivink Cave,,doğa,mağara
+Q49319905,Çayır Mağara,ACTIVITY,37.740000,41.426667,,,CC0-1.0,1,Çayır Cave,,doğa,mağara
+Q49319943,Şeyhabdullah Mağarası,ACTIVITY,37.776944,41.083333,,,CC0-1.0,1,Şeyhabdullah Cave,,doğa,mağara
+Q49319945,Şikeftaniömer Mağaraları,ACTIVITY,37.753889,41.520833,,,CC0-1.0,1,Şikeftaniömer Caves,,doğa,mağara
+Q139422438,1 Nolu Kaya Mezarı (Kozluk),SIGHT,38.195153,41.489822,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q139422436,2 Nolu Kaya Mezarı (Kozluk),SIGHT,38.195733,41.489758,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q139422866,Abdullah Yukanna Türbesi,SIGHT,37.715627,41.409860,,Hasankeyf,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391351,Abuzer Gaffari Türbesi,SIGHT,37.757580,41.163120,,,CC0-1.0,0,Abuzer Gaffari Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182698,"Akça Höyük, Batman",SIGHT,37.854717,41.183529,,,CC0-1.0,0,Akça Höyük (Batman),Tılmız Höyük,arkeolojik_sit | anıt_heykel,höyük
+Q139422401,Arcosoliumlu Kaya Mezarı (Gercüş),SIGHT,37.563053,41.382816,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q134728188,"Arcosoliumlu Kaya Mezarı, Sason",SIGHT,38.316139,41.312710,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q131738455,Artuklu Hamamı,SIGHT,37.714555,41.408243,,,CC0-1.0,0,Artuklu Baths,,han_hamam_çarşı,hamam
+Q139422869,Aslan Baba Türbesi,SIGHT,37.711296,41.406370,,Hasankeyf,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423337,Asmadere Höyük,SIGHT,37.910023,41.367192,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131902101,Atlıhan Kalesi,SIGHT,37.722317,41.225758,,,CC0-1.0,0,Atlıhan Castle,,kale_sur,kale
+Q132182701,"Balpınar Höyük, Batman",SIGHT,37.865627,41.052998,,,CC0-1.0,0,Balpınar Höyük (Batman),,arkeolojik_sit | anıt_heykel,höyük
+Q131901970,"Bekse Kalesi, Sason",SIGHT,38.367131,41.352380,,,CC0-1.0,0,Bekse Castle,Şahinli Kalesi,kale_sur,kale
+Q139423327,Besnarin Höyük,SIGHT,37.820316,41.579335,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423332,Beşiri Köprü Höyük,SIGHT,37.956534,41.324186,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182699,"Binatlı Höyük, Batman",SIGHT,37.848385,41.211762,,,CC0-1.0,0,Binatlı Höyük (Batman),Bleyder Höyük,arkeolojik_sit | anıt_heykel,höyük
+Q131901965,"Bozıkan Kalesi, Sason",SIGHT,38.470647,41.454444,,,CC0-1.0,0,Bozıkan Castle (Sason),Sason Kalesi,kale_sur,kale
+Q139423309,Danali Höyük,SIGHT,37.879704,41.238696,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182885,Della Höyük,SIGHT,37.928238,41.336060,,,CC0-1.0,0,Della Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131902098,Dezgetepe Kalesi,SIGHT,37.762836,41.137116,,,CC0-1.0,0,Dezgetepe Castle,,kale_sur,kale
+Q131901969,Erde Kalesi,SIGHT,37.540886,41.466272,,,CC0-1.0,0,Erde Castle,,kale_sur,kale
+Q139423194,Eymir Han,SIGHT,37.704485,41.068057,,,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q131901971,Gavur Kalesi,SIGHT,37.699280,41.417722,,,CC0-1.0,0,Gavur Castle,,kale_sur,kale
+Q139423307,Girhavik Höyük,SIGHT,38.218844,41.240425,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q134960903,Gre Amer Höyüğü,SIGHT,37.875455,41.433136,,,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,höyük
+Q139423305,Gre Hanik 1 Höyük,SIGHT,37.879398,41.054795,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423303,Gre Hanik 2 Höyük,SIGHT,37.881913,41.056347,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423302,Gre Keleke Höyük,SIGHT,37.888573,41.376777,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423299,Gre Mare Höyük,SIGHT,37.916852,41.331159,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182702,"Gre Migro Höyük, Batman",SIGHT,37.991310,41.157169,,,CC0-1.0,0,Gre Migro Höyük (Batman),,arkeolojik_sit | anıt_heykel,höyük
+Q139423298,Gre Şavo Höyük,SIGHT,37.879266,41.407744,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423296,Gundik Höyük,SIGHT,37.754373,41.578335,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423294,Gündüzlü Höyük,SIGHT,38.183386,41.412192,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131738750,"Hamam, Kozluk",SIGHT,38.189999,41.486278,,,CC0-1.0,0,,Kubıko Hamamı,han_hamam_çarşı,hamam
+Q139437038,Hasankeyf Büyük Saray,SIGHT,37.711788,41.408108,,Hasankeyf,CC0-1.0,0,,,ev_konak | saray_köşk,saray
+Q132182710,Hasankeyf Höyük,SIGHT,37.718670,41.429241,,,CC0-1.0,0,Hasankeyf Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131901864,Hasankeyf Kalesi,SIGHT,37.711979,41.410094,,,CC0-1.0,0,Hasankeyf Castle,,kale_sur,kale
+Q139437037,Hasankeyf Küçük Saray,SIGHT,37.708088,41.407391,,Hasankeyf,CC0-1.0,0,,,ev_konak | saray_köşk,saray
+Q109520909,Hasankeyf Müzesi,SIGHT,37.726741,41.428649,,,CC0-1.0,0,Hasankeyf Museum,,müze,müze
+Q139423289,Iluh Höyük,SIGHT,37.877394,41.112656,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182703,"Kale Arno Höyük, Batman",SIGHT,37.785027,41.029469,,,CC0-1.0,0,Kale Arno Höyük (Batman),,arkeolojik_sit | anıt_heykel,höyük
+Q131902100,"Kandil Kalesi, Kozluk",SIGHT,38.218944,41.419422,,,CC0-1.0,0,Kandil Castle (Kozluk),,kale_sur,kale
+Q139423287,Kani Mara Höyük,SIGHT,37.897692,41.369360,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423286,Karşıyaka Höyük,SIGHT,38.140712,41.559363,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132752831,"Kervansaray, Kozluk",SIGHT,38.187824,41.476219,,,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q131901967,Kozluk Kalesi,SIGHT,38.195450,41.489544,,,CC0-1.0,0,Kozluk Castle,Hazo Kalesi,kale_sur,kale
+Q134960959,Lilabadi Höyük,SIGHT,37.581917,41.354004,,,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,höyük
+Q139422847,Mardinike Külliyesi,SIGHT,37.713781,41.419608,,Hasankeyf,CC0-1.0,0,,,külliye_medrese_türbe,külliye
+Q131901968,Mirdese Kalesi,SIGHT,37.728906,41.249165,,,CC0-1.0,0,Mirdese Castle,Kumluca Kalesi,kale_sur,kale
+Q131523728,Mor Aho Manastırı,SIGHT,37.704014,41.467312,,,CC0-1.0,0,Monastery of Mor Aho (Hasankeyf),Üçyol Köyü Kilisesi,manastır_sinagog,manastır
+Q131523797,Mor Aho Manastırı,SIGHT,37.516857,41.438446,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139437040,Mor Aho Manastırı (Hasankeyf),SIGHT,37.724339,41.468037,,Hasankeyf,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139423255,Mor Barsuma Manastırı,SIGHT,37.512857,41.441215,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139436737,Mor Kuryakos Manastırı,SIGHT,37.881226,41.281242,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139423687,Nurlu Köyü Manastırı (1 Nolu Kilise),SIGHT,37.536837,41.536155,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139423690,Nurlu Köyü Manastırı (2 Nolu Kilise),SIGHT,37.536847,41.536150,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139423284,Ortaalan Höyük,SIGHT,37.838521,41.534816,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139422403,Oymataş Köyü Ali Bey Türbesi,SIGHT,37.797186,41.018511,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q133236628,Pertükan Kalesi,SIGHT,38.309818,41.398968,,,CC0-1.0,0,Pertükan Castle,Pirtukan Kalesi | Mıle Kellê,kale_sur,kale
+Q131902099,"Rabat Kalesi, Kozluk",SIGHT,38.247604,41.302319,,,CC0-1.0,0,Rabat Castle (Kozluk),,kale_sur,kale
+Q139423283,Rıdvan Höyük,SIGHT,37.802693,41.543828,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131523727,Saint Pierre Manastırı,SIGHT,38.391060,41.553390,,,CC0-1.0,0,Monastery of St Peter,Komk Manastırı | Havari Petrus Ermeni Manastırı,manastır_sinagog,manastır
+Q135582876,"Seyid Bilal Türbesi, Batman",SIGHT,37.605080,41.566620,,,CC0-1.0,0,Seyid Bilal Türbesi (Batman),,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391350,Seyit Hasan Türbesi,SIGHT,37.771996,41.296940,,,CC0-1.0,0,Tomb of Seyit Hasan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752832,"Suçeken Hanı, Batman",SIGHT,37.737454,41.298122,,,CC0-1.0,0,Suçeken Hanı (Batman),,han_hamam_çarşı,kervansaray
+Q139423270,Tileyli Höyük,SIGHT,37.588570,41.211744,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423252,Türbe Mevkii Kale Yerleşimi,SIGHT,37.933618,41.358856,,,CC0-1.0,0,,,kale_sur,kale
+Q139422084,Vazde Han,SIGHT,37.856980,41.572244,,,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q139423692,Yalınkavak Köyü Manastırı,SIGHT,37.841840,41.359971,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139423207,Yamaç Külliyesi,SIGHT,37.709553,41.416063,,Hasankeyf,CC0-1.0,0,,,külliye_medrese_türbe,külliye
+Q139423275,Yenipınar Höyük,SIGHT,37.842588,41.301291,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139423273,Yıldızlı Höyük,SIGHT,38.081261,41.492560,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131901966,Zercel Kalesi,SIGHT,38.077339,41.485111,,,CC0-1.0,0,Zercel Castle,Şeyhbaç Kalesi | Kale-i Anuşirvan | Aphumon,kale_sur,kale
+Q139422844,Zeynel Bey Külliyesi,SIGHT,37.715618,41.405927,,Hasankeyf,CC0-1.0,0,,,külliye_medrese_türbe,külliye
+Q139423292,İkiköprü Höyük,SIGHT,37.964419,41.346476,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139422408,Şemdin Ağa Türbesi,SIGHT,38.191594,41.490346,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423281,Şevland Tepe Höyük,SIGHT,37.836969,41.469366,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139422411,Şeyh Abdullah Türbesi (Kozluk),SIGHT,38.195085,41.413128,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139422405,Şeyh Halil Türbesi (Kozluk),SIGHT,38.121873,41.394922,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139422413,Şeyh Mahmut Türbesi (Kozluk),SIGHT,38.216156,41.380178,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390693,Şeyh Muhammed Halid-i Zilan Türbesi,SIGHT,37.903012,41.247774,,,CC0-1.0,0,Tomb of Sheikh Muhammed Halid-i Zilan,Şeyh Muhammed Halendi Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391352,Şeyh Muhammed Zilan Türbesi,SIGHT,38.147167,41.235413,,,CC0-1.0,0,Sheikh Muhammad Zilan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391353,Şeyh Muhiyettin Türbesi,SIGHT,37.711289,41.408768,,,CC0-1.0,0,Sheikh Muhiyettin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423406,Şeyh Nasreddin Türbe,SIGHT,38.327695,41.402154,,Sason İlçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391354,Şeyh Şeref Türbesi,SIGHT,37.711483,41.408226,,,CC0-1.0,0,Sheikh Seref Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423695,Şeyhbal Türbesi,SIGHT,38.293532,41.303493,,Sason İlçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423277,Şeyhosel Höyük,SIGHT,37.750811,41.594930,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182700,"Şeyhçoban Höyük, Batman",SIGHT,37.833012,41.033485,,,CC0-1.0,0,Şeyhçoban Höyük (Batman),Gresira Höyük,arkeolojik_sit | anıt_heykel,höyük

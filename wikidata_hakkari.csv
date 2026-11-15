@@ -1,0 +1,12 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q1091987,Cilo Dağı,SIGHT,37.485730,44.004160,,,CC0-1.0,16,Mount Cilo,Buzul Dağı,,dağ
+Q99647256,Hakkâri Cilo ve Sat Dağları Millî Parkı,ACTIVITY,37.498611,43.959722,,,CC0-1.0,6,Hakkâri Cilo and Sat Mountains National Park,,milli_park_tabiat,millî park (Türkiye)
+Q31520434,İkiyaka Dağları,SIGHT,37.346667,44.212500,,,CC0-1.0,3,İkiyaka Mountains,,,sıradağ
+Q34869920,Yüksekova,SIGHT,37.463333,44.362778,,,CC0-1.0,1,Yüksekova Plain,,,ova
+Q139421369,Dez Kalesi,SIGHT,37.615468,43.857777,,,CC0-1.0,0,,,kale_sur,kale
+Q131391650,Emir Şaban Türbesi,SIGHT,37.246410,43.612438,,,CC0-1.0,0,Emir Şaban Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131901848,Hakkari Kalesi,SIGHT,37.569548,43.739256,,,CC0-1.0,0,Hakkari Castle,,kale_sur,kale
+Q132681850,Hakkari Kilim Müzesi,SIGHT,37.577709,43.736691,,,CC0-1.0,0,Hakkari Carpet Museum,,müze,müze
+Q139421368,Orite Gözetleme Kulesi,SIGHT,37.719651,43.799829,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
+Q132682086,Travma Müzesi,SIGHT,37.577815,43.735928,,,CC0-1.0,0,,,müze,müze
+Q133236179,Çukurca Kalesi,SIGHT,37.251053,43.614422,,,CC0-1.0,0,Çukurca Castle,,kale_sur,kale

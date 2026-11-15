@@ -1,0 +1,97 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q369923,Beyşehir Gölü,ACTIVITY,37.782000,31.507600,,,CC0-1.0,35,Lake Beyşehir,,göl,göl
+Q1334148,Eğirdir Gölü,ACTIVITY,37.993600,30.888400,,,CC0-1.0,35,Lake Eğirdir,Hoyran Gölü,göl,göl
+Q579468,Antiokheia (Pisidya),SIGHT,38.306111,31.189167,,,CC0-1.0,30,Antioch of Pisidia,"Antioch in Pisidia | Antiochia in Pisidia | Pisidian Antioch | Αντιόχεια της Πισιδίας | Antiochia Caesareia | Antiochia Caesaria | Antiochia in Phrygia | Antiocheia in psidia | Antiocheia In Psidia | Antiocheia in Psidia | Antiocheia, Pisidya",arkeolojik_sit,arkeolojik sit | antik kent
+Q1010475,Burdur Gölü,ACTIVITY,37.733700,30.178100,,,CC0-1.0,26,Lake Burdur,,göl,göl
+Q33056658,Pınargözü Mağarası,ACTIVITY,37.695556,31.309167,,,CC0-1.0,15,Pınargözü Cave,,doğa,mağara
+Q6029085,Kovada Gölü Millî Parkı,ACTIVITY,37.619386,30.870761,,,CC0-1.0,9,Lake Kovada National Park,Kovada Gölü Milli Park,milli_park_tabiat,millî park (Türkiye)
+Q14395861,Gölcük Gölü,ACTIVITY,37.731000,30.494240,,,CC0-1.0,7,Lake Gölcük,,göl,göl
+Q6037673,Kızıldağ Millî Parkı,ACTIVITY,38.026389,31.358889,,,CC0-1.0,7,Kızıldağ National Park,Kızıldağ Milli Park,milli_park_tabiat,millî park (Türkiye)
+Q6014101,Yazılı Kanyon,ACTIVITY,37.463749,31.300000,,,CC0-1.0,6,Yazılı Canyon Nature Park,Yazılı Kanyon Tabiat Parkı,milli_park_tabiat | doğa,kanyon | tabiat parkı (Türkiye)
+Q48837020,Ferruhşah Camii,SIGHT,38.355278,31.407778,,,CC0-1.0,5,Ferruhşah Mosque,,cami,cami
+Q28221091,Isparta Müzesi,SIGHT,37.770833,30.558333,,,CC0-1.0,5,Isparta Museum,,müze,arkeoloji müzesi | müze
+Q1785613,Kovada Gölü,ACTIVITY,37.629722,30.883889,,,CC0-1.0,5,Lake Kovada,Kovada gölü,göl,göl
+Q346649,Adada,SIGHT,37.575161,30.985311,,,CC0-1.0,4,Adada,,arkeolojik_sit,antik kent | arkeolojik sit
+Q66686334,Eğirdir Kalesi,SIGHT,37.875833,30.853333,,,CC0-1.0,4,Eğirdir Castle,,kale_sur,kale
+Q47463359,Eğirdir Hanı,SIGHT,37.850616,30.855549,,,CC0-1.0,3,Eğirdir-Han,Gıyaseddin Keyhüsrev Hanı | Pınarbaşı Hanı | Pınarpazarı Hanı,han_hamam_çarşı,kervansaray
+Q2052839,Parlais,SIGHT,38.016667,30.783333,,,CC0-1.0,3,Parlais,,arkeolojik_sit,arkeolojik sit
+Q7447932,Seleukia Sidera,SIGHT,37.900000,30.617900,,,CC0-1.0,3,Seleucia Sidera,,arkeolojik_sit,antik kent
+Q56479502,Yalvaç Müzesi,SIGHT,38.298041,31.178224,,,CC0-1.0,3,Yalvaç Müzesi,,müze,müze
+Q65122567,Agrae (Pisidya),SIGHT,37.951412,30.642907,,,CC0-1.0,2,Agrae,,arkeolojik_sit,antik kent
+Q85741445,Anabura (Pisidya),SIGHT,37.990797,31.285104,,,CC0-1.0,2,Anabura,,arkeolojik_sit,antik kent
+Q85743509,Atenia (Pisidya),SIGHT,37.922465,31.536028,,,CC0-1.0,2,Atenia,,arkeolojik_sit,antik kent
+Q126113846,Aya Stefanos Kilisesi,SIGHT,37.884038,30.868803,,,CC0-1.0,2,"Aya Stefanos Kilisesi, Eğirdir",Yeşilada Kilisesi,kilise,Greek Orthodox Church building | kilise
+Q65122572,Baris (Pisidya),SIGHT,37.857450,30.339530,,,CC0-1.0,2,Baris,,arkeolojik_sit,antik kent | arkeolojik sit
+Q48780846,Başpınar Tabiat Parkı,ACTIVITY,37.833333,31.108611,,,CC0-1.0,2,Başpınar Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
+Q65122579,Bindaios,SIGHT,37.865893,30.721302,,,CC0-1.0,2,Bindaios,,arkeolojik_sit | anıt_heykel,antik kent | höyük
+Q50250179,Ertokuş Hanı,SIGHT,37.992778,30.970833,,,CC0-1.0,2,Ertokuş Han,Gelendost Hanı | Selçuk Han | Dadil Hanı | Kudret Hanı,anıt_heykel | han_hamam_çarşı,kervansaray | tarihi mekân
+Q97947293,Hızır Bey Camisi,SIGHT,37.874639,30.850889,,,CC0-1.0,2,Hızır Bey Camii,Hızır Bey Camii,cami,cami
+Q97947300,Kutlu Bey Camii,SIGHT,37.763524,30.556830,,,CC0-1.0,2,Kutlu Bey Mosque,Isparta Ulu Camii | Isparta Ulu Cami | Kutlubey  Camii,cami,cami
+Q29654974,Limenia (Pisidya),SIGHT,38.260161,30.886581,,,CC0-1.0,2,Limnae in Pisidia,Limnae | Limne | Limenia Adası Yerleşimi,kale_sur | arkeolojik_sit,antik kent | kale
+Q85783517,Malus (Pisidya),SIGHT,37.701309,30.942251,,,CC0-1.0,2,Malus,Malos | Mallus | Mallos,arkeolojik_sit,antik kent
+Q16327515,Themisonion,SIGHT,38.350273,31.519775,,,CC0-1.0,2,Themisonion,,arkeolojik_sit,arkeolojik sit
+Q2434483,Timbrias,SIGHT,37.820000,31.020000,,,CC0-1.0,2,Timbrias,,arkeolojik_sit,arkeolojik sit | antik kent
+Q85811341,Tynada,SIGHT,37.755497,31.160715,,,CC0-1.0,2,Tynada,,arkeolojik_sit,antik kent
+Q135582483,Antiokheia Antik Tiyatrosu,SIGHT,38.304850,31.188280,,,CC0-1.0,1,Antiochia Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q137761641,Antiokheia Augustus Tapınağı,SIGHT,38.303928,31.191827,,,CC0-1.0,1,Temple of Augustus in Antioch in Pisidia,,arkeolojik_sit,tapınak | arkeolojik sit
+Q137767083,Antiokheia Batı Kapısı,SIGHT,38.304488,31.186166,,,CC0-1.0,1,Antioch in Pisidia Western Gate,,kale_sur,şehir kapısı
+Q137767044,Antiokheia Nymphaeum,SIGHT,38.307128,31.191812,,,CC0-1.0,1,Antioch in Pisidia Nymphaeum,,arkeolojik_sit,arkeolojik sit | nymphaeum
+Q137767061,Antiokheia Roma Hamamı,SIGHT,38.308364,31.189472,,,CC0-1.0,1,Antioch in Pisidia Roman Bath,,arkeolojik_sit,arkeolojik sit | Roma hamamı
+Q49319079,Bozanönü Mağarası,ACTIVITY,37.871389,30.556667,,,CC0-1.0,1,Bozanönü Cave,,doğa,mağara
+Q131738485,Dalboyunoğlu Hamamı,SIGHT,37.763193,30.555989,,,CC0-1.0,1,Dalboyunoğlu Baths,,han_hamam_çarşı,hamam
+Q25476229,Ertokuş Medresesi,SIGHT,37.951263,30.645111,,,CC0-1.0,1,Ertokuş Medresesi,,külliye_medrese_türbe,medrese | külliye
+Q49319313,Kapalıin Mağarası,ACTIVITY,37.906944,30.559444,,,CC0-1.0,1,Kapalıin Cave,,doğa,mağara
+Q61073675,Kıreli kervansarayı,SIGHT,38.003889,31.471944,,,CC0-1.0,1,Kireli,Kireli Hanı | Kıreli Hanı,han_hamam_çarşı,kervansaray
+Q65122584,Prostanna,SIGHT,37.874140,30.849050,,,CC0-1.0,1,Prostanna,,arkeolojik_sit,antik kent | arkeolojik sit
+Q65122823,Sandalion,SIGHT,37.652140,30.757180,,,CC0-1.0,1,Sandalium,,arkeolojik_sit,antik kent | arkeolojik sit
+Q85809845,Tityassus,SIGHT,37.700415,31.401349,,,CC0-1.0,1,Tityassus,,arkeolojik_sit,antik kent
+Q30096972,Zarzela,SIGHT,37.451382,31.202972,,,CC0-1.0,1,Zarzela,Zarzela | Asar Tepe,arkeolojik_sit,antik kent
+Q61076964,Zindan Mağarası,SIGHT,37.811765,31.084988,,,CC0-1.0,1,Zindan cave,,doğa | arkeolojik_sit,mağara | arkeolojik sit | kutsal alan
+Q135582484,Adada Antik Tiyatrosu,SIGHT,37.577614,30.983894,,,CC0-1.0,0,Adada Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q139433482,Agria,SIGHT,37.953438,30.637436,,,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q132182574,Akmescit,SIGHT,38.053017,30.964200,,,CC0-1.0,0,Akmescit,,arkeolojik_sit | anıt_heykel,höyük
+Q133236514,Anaboura Kalesi,SIGHT,38.012032,31.276306,,,CC0-1.0,0,Anaboura Castle,,kale_sur,kale
+Q133236011,"Apollonia, Ulurborlu",SIGHT,38.072708,30.468725,,,CC0-1.0,0,Apollonia (Ulurborlu),,kale_sur | arkeolojik_sit,kale | antik kent | arkeolojik sit
+Q132182567,Arak Höyük,SIGHT,38.062939,31.410520,,,CC0-1.0,0,Arak Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q137183449,"Augusteum, Antioch in Pisidia",SIGHT,38.304095,31.191350,,,CC0-1.0,0,"Augusteum, Antioch in Pisidia",,arkeolojik_sit,arkeolojik sit | Augusteum
+Q139427072,Aydoğmuş Beldesi Arkeolojik Sit Alanı,SIGHT,37.950485,30.230528,,Keçiborlu (ilçe),CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q132182575,Ayvalı Maşat Höyük,SIGHT,38.413369,31.064392,,,CC0-1.0,0,Ayvalı Maşat Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132182573,"Ağıl Höyük, Yalvaç",SIGHT,38.292583,30.921600,,,CC0-1.0,0,Ağıl Höyük (Yalvaç),,arkeolojik_sit | anıt_heykel,höyük
+Q135582632,Baba Sultan Türbesi,SIGHT,37.874062,30.842083,,,CC0-1.0,0,Baba Sultan Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738486,Bey Hamamı,SIGHT,37.763846,30.557360,,,CC0-1.0,0,Bey Baths,,han_hamam_çarşı,hamam
+Q132182566,Dörtyol Höyük,SIGHT,38.190623,31.241794,,,CC0-1.0,0,Dörtyol Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131738767,Dündar Bey Hamamı,SIGHT,37.875145,30.849373,,,CC0-1.0,0,Dündar Bey Baths,,han_hamam_çarşı,hamam
+Q131391254,Ertokuş Türbesi,SIGHT,37.951252,30.644896,,,CC0-1.0,0,Ertokuş Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q133245693,Esir Mahmut Hamamı,SIGHT,38.079600,31.365889,,,CC0-1.0,0,Esir Mahmut Baths,,han_hamam_çarşı,hamam
+Q132182565,Eğirdir Höyük,SIGHT,37.889583,30.819083,,,CC0-1.0,0,Eğirdir Höyük,Eğridir Höyük,arkeolojik_sit | anıt_heykel,höyük
+Q132182571,Findos Höyük,SIGHT,37.877517,30.709350,,,CC0-1.0,0,Findos Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139437071,Firdevs Bey Bedesteni,SIGHT,37.763710,30.555619,,,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q132182570,Gelendost Höyük,SIGHT,38.103908,31.013850,,,CC0-1.0,0,Gelendost Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182572,Göndürle Höyük,SIGHT,37.903983,30.715200,,,CC0-1.0,0,Göndürle Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131739137,Gönen Eski Hamam,SIGHT,37.955391,30.514023,,,CC0-1.0,0,,Selçuklu Hamamı,han_hamam_çarşı,hamam
+Q139427079,Hasantaş Sırtı Kaya Mezarı,SIGHT,38.117669,30.414240,,Uluborlu (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q139428331,Hoyran Kaya Mezarları,SIGHT,38.222015,30.873624,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q134960855,Hozat Höyüğü,SIGHT,37.943797,31.318671,,,CC0-1.0,0,Hozat Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q133484294,Isparta Devlet Hastanesi,SIGHT,37.758755,30.549170,,,CC0-1.0,0,Isparta State Hospital,,,eski hastane
+Q131739139,Karabey Hamamı,SIGHT,38.070606,30.468018,,,CC0-1.0,0,Karabey Baths,,han_hamam_çarşı,hamam
+Q139426951,Karyağdı Tepesi’ndeki kalıntı,SIGHT,37.396900,31.065300,,Sütçüler (ilçe),CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139433465,Krozos,SIGHT,37.876591,30.853664,,Eğirdir ilçesi,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q133236312,Madenli Kalesi,SIGHT,38.187996,31.104076,,,CC0-1.0,0,Madenli Castle,,kale_sur,kale
+Q131390830,Piri Halife Sultan Türbesi,SIGHT,37.872700,30.835500,,,CC0-1.0,0,Piri Caliph Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132682085,Prof. Dr. Turan Yazgan Etnografya Müzesi,SIGHT,37.755049,30.550891,,,CC0-1.0,0,,,müze,müze
+Q139426950,Sanlı Yaylası’ndaki kalıntı,SIGHT,37.383100,31.065800,,Sütçüler (ilçe),CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q133236342,Sağır Kalesi,SIGHT,38.439613,31.013385,,,CC0-1.0,0,Sağır Castle,,kale_sur,kale
+Q135582486,Seleukia Sidera Antik Tiyatrosu,SIGHT,37.899030,30.621775,,,CC0-1.0,0,Seleukia Sidera Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q135582627,Seyfullah Dede Türbesi,SIGHT,37.871507,30.848660,,,CC0-1.0,0,Seyfullah Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132682083,Süleyman Demirel Demokrasi ve Kalkınma Müzesi,SIGHT,37.926007,30.658522,,,CC0-1.0,0,,,müze,müze
+Q131902311,Sığırlık-I Kalesi,SIGHT,37.520504,30.851873,,,CC0-1.0,0,,,kale_sur,kale
+Q131902312,Sığırlık-II Kalesi,SIGHT,37.501843,30.891192,,,CC0-1.0,0,,,kale_sur,kale
+Q131901874,Uluborlu Kalesi,SIGHT,38.072690,30.469841,,,CC0-1.0,0,Uluborlu Castle,,kale_sur,kale
+Q139419098,Yazısöğüt Kaya Mezarı,SIGHT,37.781474,30.617134,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q133236317,Yukarı Tırtar Kalesi,SIGHT,38.259010,30.944960,,,CC0-1.0,0,Yukarı Tırtar Castle,,kale_sur,kale
+Q131390457,Yunus Emre ve Taptuk Emre Türbesi,SIGHT,37.968232,30.534381,,,CC0-1.0,0,Tomb of Yunus Emre and Taptuk Emre,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
+Q133236314,Çaltı Kalesi,SIGHT,38.209729,30.992507,,,CC0-1.0,0,Çaltı Castle,,kale_sur,kale
+Q132182568,Ördekçi Höyük,SIGHT,38.068266,31.263067,,,CC0-1.0,0,Ördekçi Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182569,İskele Höyük,SIGHT,38.046517,30.950833,,,CC0-1.0,0,İskele Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q135582631,Şeyh Muslihittin Türbesi,SIGHT,37.883800,30.867516,,,CC0-1.0,0,Şeyh Muslihittin Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390829,Şeyh Veli Efendi Türbesi,SIGHT,37.951315,30.649689,,,CC0-1.0,0,Tomb of Sheikh Veli Efendi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

@@ -1,0 +1,106 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q279191,Sagalassos,SIGHT,37.678056,30.519444,,,CC0-1.0,23,Sagalassos,,arkeolojik_sit,insan yerleşimi | arkeolojik sit | antik kent
+Q3234128,Salda Gölü,ACTIVITY,37.550800,29.683300,,,CC0-1.0,22,Lake Salda,,göl,göl
+Q1643467,Kibira,SIGHT,37.160128,29.489214,,,CC0-1.0,12,Kibyra,Kibyra | Kibira,arkeolojik_sit,insan yerleşimi | antik kent | arkeolojik sit
+Q20475022,Yarışlı Gölü,ACTIVITY,37.566500,29.966100,,,CC0-1.0,8,Lake Yarışlı,,göl,kapalı havza göl
+Q20988323,Burdur Müzesi,SIGHT,37.719500,30.286000,,,CC0-1.0,7,Burdur Archaeological Museum,,müze,arkeoloji müzesi | müze | Etnografya müzesi
+Q6004690,Karataş Gölü,ACTIVITY,37.385960,29.971740,,,CC0-1.0,7,Lake Karataş,,göl,göl
+Q917259,Kremna,SIGHT,37.500140,30.691100,,,CC0-1.0,7,Cremna,,arkeolojik_sit,arkeolojik sit | antik kent
+Q63197586,Simena,SIGHT,36.190556,29.861472,,,CC0-1.0,7,Simena,,arkeolojik_sit,arkeolojik sit
+Q804692,Balbura,SIGHT,36.952361,29.579139,,,CC0-1.0,5,Balbura,,arkeolojik_sit,antik kent | arkeolojik sit
+Q6063544,İnsuyu mağarası,SIGHT,37.659444,30.374167,,,CC0-1.0,5,İnsuyu Cave,,cazibe_unesco | doğa,turistik mağara
+Q415943,Akarassus,SIGHT,36.734861,29.921523,,,CC0-1.0,4,Akarassos,,arkeolojik_sit,antik kent
+Q1673973,Isinda (Pisidya),SIGHT,37.067500,30.161900,,,CC0-1.0,4,Isinda,,arkeolojik_sit,arkeolojik sit | antik kent
+Q6080493,Antoninler Çeşmesi,SIGHT,37.677389,30.517778,,,CC0-1.0,3,Antonine Fountain,Sagalassos Antoninler Çeşmesi,anıt_heykel,çeşme
+Q65044513,Ceretapa,SIGHT,37.493664,29.926031,,,CC0-1.0,3,Ceretapa,,arkeolojik_sit,arkeolojik sit | antik kent
+Q35704578,Gölhisar Gölü,ACTIVITY,37.114722,29.599722,,,CC0-1.0,3,Gölhisar Lake,,göl,göl | karstik göl
+Q65044296,Hadrianopolis (Pisidia),SIGHT,37.506828,30.043330,,,CC0-1.0,3,Hadrianopolis,,arkeolojik_sit,antik kent
+Q65122836,Kretopolis,SIGHT,37.374984,30.321707,,,CC0-1.0,3,Cretopolis,,arkeolojik_sit,tarihi yer | antik kent
+Q1744316,Lysinia,SIGHT,37.700000,30.066667,,,CC0-1.0,3,Lysinia,Lysinoe,arkeolojik_sit,arkeolojik sit | antik kent
+Q31193276,Akgöl,ACTIVITY,37.678333,29.770278,,,CC0-1.0,2,Akgöl,Çorak Göl,göl,göl
+Q30527331,Andriake Sinagogu,SIGHT,36.229611,29.958500,,,CC0-1.0,2,Synagogue of Andreaka,,manastır_sinagog,sinagog
+Q65060460,Arnabanda,SIGHT,36.328420,29.901960,,,CC0-1.0,2,Arnabanda,,arkeolojik_sit,antik kent
+Q21524555,Burdur Saat Kulesi,SIGHT,37.717620,30.286270,,,CC0-1.0,2,Burdur Clock Tower,,kule | kule_saat,saat kulesi
+Q61072532,Burdur Ulu Camii,SIGHT,37.717417,30.286333,,,CC0-1.0,2,Burdur Grand Mosque,,cami,cami
+Q65060450,Damasei,SIGHT,36.298730,29.983386,,,CC0-1.0,2,Damasei,,arkeolojik_sit,antik kent
+Q65067937,Elbessos,SIGHT,36.689489,29.641536,,,CC0-1.0,2,Elbessos,,arkeolojik_sit,antik kent
+Q141133181,Fethiye-Kaş Deniz Millî Parkı,ACTIVITY,36.046389,29.791389,,,CC0-1.0,2,Fethiye-Kaş Marine National Park,,milli_park_tabiat,millî park (Türkiye) | deniz millî parkı
+Q65122844,Hyia,SIGHT,37.415414,30.561826,,Bucak,CC0-1.0,2,Hyia,,arkeolojik_sit,antik kent
+Q65064498,Karkabo,SIGHT,36.329150,30.002210,,,CC0-1.0,2,Karkabo,,arkeolojik_sit,antik kent
+Q65060459,Kendema,SIGHT,36.283230,29.982829,,,CC0-1.0,2,Kendema,,arkeolojik_sit,antik kent
+Q65122827,Keraia (Pisidya),SIGHT,37.514564,30.603879,,Bucak,CC0-1.0,2,Keraia,,arkeolojik_sit,antik kent
+Q25824102,Koca Katran,ACTIVITY,36.502338,29.774273,,,CC0-1.0,2,Koca Katran,Kocakatran Lübnan sediri,milli_park_tabiat,anıt ağaç | tabiat anıtı (Türkiye)
+Q65122835,Kodroula,SIGHT,37.436975,30.351609,,,CC0-1.0,2,Kodroula,,arkeolojik_sit,antik kent
+Q65122250,Kolbasa,SIGHT,37.463255,30.410715,,Bucak,CC0-1.0,2,Kolbasa,Colbasa,arkeolojik_sit,antik kent
+Q1269403,Kuruçay Höyüğü,SIGHT,37.634400,30.167000,,,CC0-1.0,2,Kuruçay Höyük,,arkeolojik_sit,arkeolojik sit
+Q96386747,Lagbe,SIGHT,37.142961,29.924947,,,CC0-1.0,2,Lagbe,,arkeolojik_sit,antik kent
+Q65122578,Legeita,SIGHT,37.682053,30.356445,,,CC0-1.0,2,Legeita,,arkeolojik_sit,antik kent
+Q65122577,Magastara,SIGHT,37.716197,30.388773,,,CC0-1.0,2,Magastara,,arkeolojik_sit,antik kent
+Q65122831,Moatra,SIGHT,37.548665,30.285973,,,CC0-1.0,2,Moatra,,arkeolojik_sit,antik kent
+Q65053537,Olbasa (Pisidya),SIGHT,37.304550,29.995732,,Kemer,CC0-1.0,2,Olbasa,,arkeolojik_sit,antik kent
+Q65060447,Placoma,SIGHT,36.383422,29.965110,,,CC0-1.0,2,Placoma,,arkeolojik_sit,antik kent
+Q1458167,Pogla,SIGHT,37.290300,30.248000,,,CC0-1.0,2,Pogla,,arkeolojik_sit,arkeolojik sit | antik kent
+Q54935453,Susuz Han,SIGHT,37.378444,30.540444,,Bucak,CC0-1.0,2,Susuz Han,Susuz Hanı,han_hamam_çarşı,kervansaray
+Q85810183,Toriaion,SIGHT,36.951111,29.919444,,,CC0-1.0,2,Toriaeum,,arkeolojik_sit,antik kent
+Q76408845,İncir Han,SIGHT,37.478583,30.533444,,Bucak,CC0-1.0,2,Incir Han,İncir Hanı,han_hamam_çarşı,kervansaray
+Q65067820,Kastabara,SIGHT,36.623400,29.556600,,,CC0-1.0,1,Kastabara,,arkeolojik_sit,antik kent
+Q134405694,Keraitae,SIGHT,37.514444,30.602778,,Bucak,CC0-1.0,1,Keraitae,Keraitai,arkeolojik_sit,arkeolojik sit | antik kent
+Q129917971,Macellum (Sagalassos),SIGHT,37.676779,30.518453,,,CC0-1.0,1,Macellum in Sagalassos,,çarşı_pazar | arkeolojik_sit,macellum
+Q65073531,Mylios,SIGHT,37.303356,30.754391,,Bucak,CC0-1.0,1,Mylios,Milyos (Milias),arkeolojik_sit,antik kent | arkeolojik sit
+Q65122846,Perminunda,SIGHT,37.327588,30.446562,,,CC0-1.0,1,Perminounda,,arkeolojik_sit,antik kent
+Q65060449,Sabandos,SIGHT,36.302265,29.994451,,,CC0-1.0,1,Sabandus,,arkeolojik_sit,antik kent
+Q85799713,Saraganda,SIGHT,37.258957,29.869768,,,CC0-1.0,1,Saraganda,,arkeolojik_sit,antik kent
+Q65122570,Sia (Pisidya),SIGHT,37.262066,30.602180,,Bucak,CC0-1.0,1,Sia,,arkeolojik_sit,antik kent | arkeolojik sit
+Q65122850,Sibidunda,SIGHT,37.224609,30.299121,,,CC0-1.0,1,Sibidounda,,arkeolojik_sit,antik kent
+Q20988516,Sinda (Pisidya),SIGHT,37.120499,29.604500,,Gölhisar (ilçe),CC0-1.0,1,Sinda,,arkeolojik_sit,antik kent | arkeolojik sit
+Q96407689,Takina,SIGHT,37.596278,29.934150,,,CC0-1.0,1,Takina,,arkeolojik_sit,antik kent
+Q65058719,Tragalassus,SIGHT,36.324961,29.961582,,,CC0-1.0,1,Tragalassus,,arkeolojik_sit,antik kent
+Q49319932,İnsuyu Mağarası,ACTIVITY,37.677778,30.400000,,,CC0-1.0,1,İnsuyu Cave,,doğa,mağara
+Q131391801,Anonim Türbe,SIGHT,37.498371,29.557259,,,CC0-1.0,0,Anonymous Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132128918,Avşar Tepesi,SIGHT,36.230600,29.786500,,,CC0-1.0,0,Avşar Tepesi,,arkeolojik_sit,arkeolojik sit | ören yeri
+Q139428958,Ağlasun Hanı,SIGHT,37.650024,30.534546,,Ağlasun (ilçe),CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q139428563,Balama Kalesi,SIGHT,37.343378,30.884340,,Bucak (ilçe),CC0-1.0,0,,,kale_sur,kale
+Q135582494,Balboura Aşağı Antik Tiyatro,SIGHT,36.951099,29.583397,,,CC0-1.0,0,,,arkeolojik_sit,Yunan tiyatrosu
+Q135582493,Balboura Yukarı Antik Tiyatro,SIGHT,36.954113,29.581461,,,CC0-1.0,0,,,arkeolojik_sit,Yunan tiyatrosu
+Q135582492,Boubon Antik Tiyatrosu,SIGHT,36.968363,29.407325,,,CC0-1.0,0,Boubon Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q109518867,Burdur Doğa Tarihi Müzesi,SIGHT,37.714027,30.281113,,,CC0-1.0,0,Burdur Natural History Museum,,müze,müze
+Q131422686,Cyaneae Theatre,SIGHT,36.246021,29.815094,,,CC0-1.0,0,Cyaneae Theatre,,arkeolojik_sit,Antik Roma tiyatrosu
+Q133236005,Deynus Kalesi,SIGHT,37.535435,29.724411,,,CC0-1.0,0,Deynus Castle,Kayadibi Kalesi,kale_sur | arkeolojik_sit,kale | antik kent
+Q135582635,"Dörtayak Türbesi, Burdur",SIGHT,37.729246,30.290970,,,CC0-1.0,0,Dörtayak Türbesi (Burdur),,külliye_medrese_türbe | anıt_heykel | mezar,kümbet | türbe
+Q139422815,Eski Yeni Hamamı (Burdur),SIGHT,37.715241,30.286052,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131390721,Hacı Rahmi Sultan Türbesi,SIGHT,37.712907,30.282166,,,CC0-1.0,0,Hacı Rahmi Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131739213,Hocabali Hamamı,SIGHT,37.714127,30.283920,,,CC0-1.0,0,Hocabali Baths,Hoca Bali Hamamı,han_hamam_çarşı,hamam
+Q134960536,Karaaliler Höyüğü,SIGHT,37.359591,30.481378,,Bucak,CC0-1.0,0,Karaaliler Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q135582490,Kibyra Antik Tiyatrosu,SIGHT,37.160555,29.488914,,,CC0-1.0,0,Kibyra Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q139426815,Kibyra Arkeolojik Sit Alanı,SIGHT,37.154195,29.500230,,Gölhisar (ilçe),CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139435666,Kibyra Stadyumu,SIGHT,37.158470,29.496532,,Gölhisar (ilçe),CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,antik stadyum
+Q137170041,Komama,SIGHT,37.320000,30.312000,,Bucak,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
+Q127430525,Kormasa,SIGHT,37.505345,30.119404,,,CC0-1.0,0,Kormasa,,arkeolojik_sit,antik kent
+Q132182578,Kozluca Höyük,SIGHT,37.495700,30.066667,,,CC0-1.0,0,Kozluca Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q135582489,Kremna Antik Tiyatrosu,SIGHT,37.498184,30.689014,,Bucak,CC0-1.0,0,Kremna Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q135582488,Kremna Doğu Tiyatrosu,SIGHT,37.498566,30.694080,,Bucak,CC0-1.0,0,Kremna Eastern Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q139421914,Kremna Kilise Tepe Arkeolojik Sit Alanı,SIGHT,37.496511,30.671646,,Bucak (ilçe),CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139426840,Kumar Tepe Mevkii Antik Yerleşimi,SIGHT,37.576587,29.924022,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q133521896,Madamprum,SIGHT,37.121570,29.853600,,,CC0-1.0,0,Madamprum,,arkeolojik_sit,antik kent
+Q135582487,Milias Antik Tiyatrosu,SIGHT,37.308909,30.750059,,Bucak,CC0-1.0,0,Milias Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q135582634,"Niyazi Baba Kümbeti, Burdur",SIGHT,37.472759,29.730505,,,CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel | mezar,kümbet | türbe
+Q135582500,Sagalassos Antik Tiyatrosu,SIGHT,37.678272,30.521832,,,CC0-1.0,0,Sagalassos Theater,,arkeolojik_sit,Antik Roma tiyatrosu
+Q139436235,Sagalassos Batı ve Kuzey Nekropol,SIGHT,37.677704,30.515881,,Ağlasun (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q131738829,Sagalassos Hamamı,SIGHT,37.675827,30.518833,,,CC0-1.0,0,Sagalassos Baths,,han_hamam_çarşı,hamam
+Q139436438,Sagalassos Heroon,SIGHT,37.677376,30.517313,,Ağlasun (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,Heroön
+Q139436435,Sagalassos Macellum,SIGHT,37.676792,30.518427,,Ağlasun (ilçe),CC0-1.0,0,,,çarşı_pazar | arkeolojik_sit,macellum
+Q139436436,Sagalassos Severuslar Çeşmesi,SIGHT,37.675995,30.518089,,Ağlasun (ilçe),CC0-1.0,0,,,arkeolojik_sit,nymphaeum
+Q139436430,Sagalassos Stadium,SIGHT,37.677616,30.513430,,Ağlasun (ilçe),CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,antik stadyum
+Q134728638,Sagalassos Tiberian Kapısı,SIGHT,37.675331,30.518116,,,CC0-1.0,0,Sagalassos Tiberian Gate,,kale_sur,anıtsal kapı | şehir kapısı
+Q139436427,Sagalassos Çeşme,SIGHT,37.678169,30.519859,,Ağlasun (ilçe),CC0-1.0,0,,,arkeolojik_sit,nymphaeum
+Q139428947,Selçuklu Hamamı (Ağlasun),SIGHT,37.650109,30.534234,,Ağlasun (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q135582485,Sia Antik Tiyatrosu,SIGHT,37.264967,30.599637,,Bucak,CC0-1.0,0,Sia Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q131739216,Tabak Hamamı,SIGHT,37.719048,30.287090,,,CC0-1.0,0,Tabak Baths,Taksi Hamamı,han_hamam_çarşı,hamam
+Q131391205,Veli Dede Türbesi,SIGHT,37.653666,29.929110,,,CC0-1.0,0,Veli Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182764,Yakalar Höyük,SIGHT,37.325199,30.003300,,Kemer,CC0-1.0,0,Yakalar Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139422783,Yenice Mahalle Hamamı,SIGHT,37.718280,30.292716,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q134960634,Çamur Höyük,SIGHT,37.339456,29.850019,,Karamanlı İlçesi,CC0-1.0,0,Çamur Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182576,Çavdır Höyük,SIGHT,37.146767,29.657450,,,CC0-1.0,0,Çavdır Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960643,Çeş Tepesi,SIGHT,37.261870,29.761397,,Tefenni (ilçe),CC0-1.0,0,Çeş Hill,,arkeolojik_sit | anıt_heykel,höyük
+Q133236711,"Örentepe, Bucak",SIGHT,37.265653,30.486346,,Bucak,CC0-1.0,0,Örentepe (Bucak),,kale_sur | arkeolojik_sit,kale | arkeolojik sit
+Q131738769,İncir Hamamı ve Çeşmesi,SIGHT,37.477238,30.534782,,Bucak,CC0-1.0,0,,,han_hamam_çarşı,hamam

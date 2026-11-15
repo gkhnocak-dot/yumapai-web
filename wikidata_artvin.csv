@@ -1,0 +1,106 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q1337971,Tortum Şelalesi,ACTIVITY,40.660700,41.668700,,,CC0-1.0,13,Tortum Waterfall,,doğa,şelale
+Q1642544,Opiza Manastırı,SIGHT,41.223611,42.035278,,,CC0-1.0,10,Opiza,,kilise,kilise
+Q6079009,Hatila Vadisi Millî Parkı,ACTIVITY,41.185833,41.733889,,,CC0-1.0,9,Hatila Valley National Park,Hatila Vadisi Milli Park,milli_park_tabiat,millî park (Türkiye)
+Q6367923,Karagöl Sahara Millî Parkı,ACTIVITY,41.228400,42.446100,,,CC0-1.0,9,Karagöl-Sahara National Park,Karagol-Sahara,milli_park_tabiat,millî park (Türkiye)
+Q1271496,Othta Eklesia,SIGHT,40.814167,41.471111,,,CC0-1.0,9,Otkhta Eklesia,Othta Eklesia Manastırı | Tekkale Manastırı,manastır_sinagog,manastır
+Q3653191,İşhani Manastırı,SIGHT,40.785650,41.746980,,,CC0-1.0,9,Ishkhani,İşhan Kilisesi,manastır_sinagog,manastır
+Q2052134,Parehi Manastırı,SIGHT,41.251944,41.990000,,Artvin İlçesi,CC0-1.0,8,Parekhi,,kale_sur | manastır_sinagog,eastern orthodox monastery | kale
+Q4752590,Ança Manastırı,SIGHT,41.192222,42.109667,,,CC0-1.0,7,Ancha monastery,,manastır_sinagog,manastır
+Q1061822,Handzta Manastırı,SIGHT,41.246389,42.070833,,,CC0-1.0,7,Khandzta,Hantsta Manastırı | Porta Manastırı | Pırnallı Manastırı,kilise,kilise
+Q61076554,Deniz Gölü,ACTIVITY,40.817778,41.160556,,,CC0-1.0,6,Deniz Gölü,Peshevit | Büyük Deniz Gölü,göl,göl
+Q607675,Parhali Manastırı,SIGHT,40.970000,41.383000,,,CC0-1.0,6,Parkhali,Barhal Manastırı,manastır_sinagog,manastır
+Q111825,Tbeti Manastırı,SIGHT,41.304444,42.389167,,,CC0-1.0,6,Tbeti Monastery,Tbeti Kilisesi,manastır_sinagog | kilise,harabe | manastır | kilise
+Q4992264,Berta Manastırı,SIGHT,41.248894,41.983320,,,CC0-1.0,5,Berta monastery,,manastır_sinagog,manastır
+Q65285170,Peterek Kalesi,SIGHT,40.746005,41.480952,,,CC0-1.0,5,Peterek Castle,Çevreli Kalesi,kale_sur,kale
+Q65285189,Satleli,SIGHT,41.259293,42.327324,,,CC0-1.0,5,Şavşat Castle,Satlel Kalesi | Şavşat Kalesi,kale_sur | arkeolojik_sit,kale | arkeolojik sit | miras
+Q39048711,Çifte Köprü,SIGHT,41.276530,41.375980,,Arhavi ilçesi,CC0-1.0,5,Çifte Bridge,"Çifteköprü, Arhavi",köprü,köprü | tarihî bina
+Q1507787,Ahaldaba Kilisesi,SIGHT,41.074444,42.166111,,,CC0-1.0,4,Yeni Rabat Church,Yeni Rabat Kilisesi | Longothevi Manastırı,manastır_sinagog,manastır
+Q12862263,Ahiza Kalesi,SIGHT,41.143139,42.011139,,,CC0-1.0,4,Akhiza Castle,Harbe Kalesi | Ferhatlı Kalesi,kale_sur,kale
+Q16365061,Ardanuç Kalesi,SIGHT,41.126700,42.054600,,,CC0-1.0,4,Ardanuç Castle,Gevhernik Kalesi,kale_sur,kale
+Q49097008,Cehennem Deresi Kanyonu,ACTIVITY,41.161111,41.976667,,,CC0-1.0,4,Cehennem Deresi Canyon,Cehennem Deresi Kanyonu Tabiat Parkı,doğa | milli_park_tabiat,kanyon | tabiat parkı (Türkiye)
+Q6091684,Karçal Dağları,SIGHT,41.340950,41.989690,,,CC0-1.0,4,Karçal Dağları,,,sıradağ
+Q16370856,Kavkasidzeler Kalesi,SIGHT,40.788472,41.510611,,,CC0-1.0,4,Kavkasidzeler Castle,Kavkasidzeler Kalesi,kale_sur,kale
+Q60789660,Makriyali Kilisesi,SIGHT,41.488533,41.528103,,,CC0-1.0,4,Makriali Church,Noğedi Kilisesi,kilise,kilise
+Q6026104,Mençuna Şelalesi,ACTIVITY,41.254658,41.351987,,Arhavi ilçesi,CC0-1.0,4,Mençuna Waterfall,,doğa,doğa koruma alanı | şelale
+Q60789663,Pironiti Kilisesi,SIGHT,41.376056,41.392917,,Hopa,CC0-1.0,4,Pironity Church,Pironiti Kilisesi,kilise,kilise
+Q65286988,Sveti Kilisesi,SIGHT,41.206306,41.855417,,,CC0-1.0,4,Sveti Church,Kilise Kapısı Kilisesi,kilise,kilise
+Q114772594,Artvin Kalesi,SIGHT,41.188295,41.826506,,,CC0-1.0,3,Artvin Castle,,kale_sur,kale
+Q135583324,Artvin Köprüsü,SIGHT,41.181630,41.836079,,,CC0-1.0,3,Artvin Bridge,,köprü,köprü
+Q30624412,Dikyamaç Köyü ve Çevresi Yaşam Tarzı Müzesi,SIGHT,41.289167,41.370833,,Arhavi ilçesi,CC0-1.0,3,Dikyamaç Museum,,müze,Etnografya müzesi | müze
+Q31355003,Esbeki Manastırı,SIGHT,40.723700,41.798900,,,CC0-1.0,3,Esbeki monastery,,kilise,kilise
+Q117439148,Hamzeti kilisesi,SIGHT,40.812611,41.548083,,,CC0-1.0,3,Hamzeti church,Hamzeti şapeli | Hamzet Kilisesi,kilise,kilise | harabe
+Q110301861,Kemalpaşa Osmaniye Köprüsü,SIGHT,41.481258,41.526580,,,CC0-1.0,3,Kemalpaşa Osmaniye Bridge,,köprü,köprü | tarihî bina
+Q119421413,Kisporeti Kalesi,SIGHT,40.853054,41.537568,,,CC0-1.0,3,Kisporeti Castle,Vejangeti Kalesi | Bahçeli Köyü Kalesi,kale_sur,kale
+Q65049086,Kissa,SIGHT,41.386719,41.424809,,Hopa,CC0-1.0,3,Kissa,Cissa,arkeolojik_sit,antik kent
+Q16371936,Mamatzminda Kilisesi,SIGHT,41.333269,41.717469,,,CC0-1.0,3,,Ebrika Kilisesi | İbrikli Kilisesi | Mamatsminda Kilisesi,kilise,kilise
+Q118957674,Nihahi Kalesi,SIGHT,40.685567,41.344094,,,CC0-1.0,3,Nihahi Castle,,kale_sur,kale
+Q12869854,Panaskert,SIGHT,40.836194,42.236611,,,CC0-1.0,3,Panaskert,,kale_sur,kale
+Q117464898,Çala Kilisesi,SIGHT,40.804972,41.541417,,,CC0-1.0,3,Çala Church (Yusufeli),,kilise,kilise
+Q4992344,Şatberdi Manastırı,SIGHT,41.095028,41.919861,,,CC0-1.0,3,Shatberdi,,manastır_sinagog,manastır
+Q65285055,Ahaldaba Kalesi,SIGHT,41.074516,42.165651,,,CC0-1.0,2,Ahaldaba Castle,,kale_sur,kale
+Q83019225,Artvin Atatürk Heykeli,SIGHT,41.170833,41.829056,,,CC0-1.0,2,Atatürk Monument,,anıt_heykel,anıt
+Q131402775,Başoba Köyü Köprüsü,SIGHT,41.414344,41.489444,,Hopa,CC0-1.0,2,Başoba Village Bridge,,köprü,köprü
+Q122425724,Bice Kalesi,SIGHT,41.162389,42.114000,,Ardanuç İlçesi,CC0-1.0,2,Bice Castle,Bica Kalesi,kale_sur,kale
+Q118867727,Camili Köyü Camii,SIGHT,41.478944,41.898667,,,CC0-1.0,2,Camili Mosque,,cami,cami
+Q61076536,Ciha Kalesi,SIGHT,41.359718,41.343407,,Arhavi ilçesi,CC0-1.0,2,Ciha Castle,,kale_sur,kale
+Q31355007,Cmerki Manastırı,SIGHT,41.193389,41.969833,,,CC0-1.0,2,,,kilise,kilise
+Q97207580,Demirciler Köprüsü,SIGHT,41.433010,42.219639,,,CC0-1.0,2,Makreti bridge,,köprü,köprü
+Q110885689,Esenkıyı Köprüsü,SIGHT,41.438222,41.459889,,Hopa,CC0-1.0,2,Esenkıyı Bridge,,köprü,köprü
+Q121539362,Goraşeti Kalesi,SIGHT,41.217278,42.200806,,Ardanuç İlçesi,CC0-1.0,2,,,kale_sur,kale
+Q31188243,Karagöl,ACTIVITY,41.308230,42.483860,,,CC0-1.0,2,Karagöl,,göl,göl
+Q6100677,Karagöl,ACTIVITY,41.385570,41.853940,,,CC0-1.0,2,Karagöl,,göl,göl
+Q123945722,Kiskimi Kalesi,SIGHT,40.686906,41.396172,,,CC0-1.0,2,Kiskimi Castle,,kale_sur,kale
+Q123945732,Kiskimi Şapeli,SIGHT,40.692450,41.403800,,,CC0-1.0,2,,Kansasi Şapeli | Kansasi Kilisesi,kilise,şapel
+Q64214968,Klarceti Kalesi,SIGHT,41.075317,41.964436,,Ardanuç İlçesi,CC0-1.0,2,,Bereket Kalesi,kale_sur,kale
+Q120176523,Kvatetrisi Kalesi,SIGHT,41.204444,42.328917,,,CC0-1.0,2,Kvatetrisi Castle,,kale_sur,kale
+Q110885492,Köprücü Köprüsü,SIGHT,41.473731,41.548719,,Hopa,CC0-1.0,2,Köprücü Village Bridge,Köprücü Köyü Köprüsü,köprü,köprü
+Q131902006,"Kılıçkaya Kalesi, Yusufeli",SIGHT,40.663132,41.481949,,,CC0-1.0,2,Kilickaya Castle,Ersis Kalesi,kale_sur,kale | kale harabesi
+Q31189446,Maral Şelalesi,ACTIVITY,41.502320,41.957840,,,CC0-1.0,2,Maral Waterfall,,doğa,şelale
+Q120861828,Melo Kalesi,SIGHT,41.074639,41.762528,,,CC0-1.0,2,Melo Castle,Sarıbudak Köyü Kalesi,kale_sur,kale
+Q118956572,Muratlı Köyü Camisi,SIGHT,41.478380,41.710350,,,CC0-1.0,2,Muratlı Mosque,,cami,cami
+Q123945649,Nihahi Kilisesi,SIGHT,40.684611,41.335733,,,CC0-1.0,2,Nihahi Church,,kilise,kilise
+Q12867731,Nuka Kilisesi,SIGHT,41.256667,42.088222,,,CC0-1.0,2,Nuka Church,Nuka Sakdari,kilise,kilise
+Q31355020,Satle Kilisesi,SIGHT,41.259278,42.331167,,,CC0-1.0,2,,Söğütlü Mahallesi Kilisesi | Söğütlü Mahallesi Camii,kilise,kilise
+Q12869560,Suhbeçi Kilisesi,SIGHT,40.824806,41.757889,,,CC0-1.0,2,Suhbeçi Church,,kilise,kilise
+Q123223837,Tanzot Ermeni Kilisesi,SIGHT,41.042778,42.095028,,,CC0-1.0,2,Tanzot Armenian Church,Tanzot Kilisesi,kilise,kilise
+Q118958306,İremeti Camii,SIGHT,41.483167,41.926639,,,CC0-1.0,2,,İremit Camii,cami,cami
+Q124024458,Adakale Hamamı,SIGHT,41.127861,42.057833,,,CC0-1.0,1,Adakale Baths,,han_hamam_çarşı,hamam | hamam
+Q90177665,Akhiza Manastırı,SIGHT,41.132583,42.004375,,,CC0-1.0,1,Akhiza Monastery,,manastır_sinagog,eastern orthodox monastery
+Q97207135,Aralık Köprüsü,SIGHT,41.398785,41.732548,,,CC0-1.0,1,Aralık Village Bridge,Aralık Köyü Köprüsü,köprü,köprü
+Q119167446,Artvin İskender Paşa Camisi,SIGHT,41.127972,42.058111,,,CC0-1.0,1,,,cami | külliye_medrese_türbe,cami | külliye
+Q97207469,Ciro Şelalesi,ACTIVITY,41.035090,41.364380,,,CC0-1.0,1,Ciro Falls,,doğa,şelale
+Q118929638,Cuğo Kalesi,SIGHT,41.161417,42.031444,,,CC0-1.0,1,Cugo Castle,,kale_sur,kale
+Q85970210,Esbeki Kalesi,SIGHT,40.722556,41.798139,,,CC0-1.0,1,Esbeki Castle,,kale_sur,kale
+Q122818981,Heviskari Kalesi,SIGHT,41.003472,41.701028,,,CC0-1.0,1,,Nigzevan Kalesi,kale_sur,kale
+Q136520824,Horketi Kalesi,SIGHT,40.941944,42.083536,,,CC0-1.0,1,Horketi Castle,,kale_sur,hisar
+Q49509110,Kafkasör Ormaniçi Dinlenme Yeri,ACTIVITY,41.152500,41.772222,,,CC0-1.0,1,Kafkasör,Kafkasör,milli_park_tabiat,tabiat parkı | yayla
+Q118956219,Kvamçereti Kalesi,SIGHT,41.305056,41.582639,,Murgul ilçesi,CC0-1.0,1,,Kvamçireti Kalesi,kale_sur,kale
+Q125222930,Kvartshana Kalesi,SIGHT,41.235236,41.806133,,,CC0-1.0,1,,Kvartshana Kalesi | Sümbüllü Kalesi,kale_sur,kale
+Q120123137,Mamanelisi Kalesi,SIGHT,41.215250,42.391389,,,CC0-1.0,1,,,kale_sur,kale
+Q129900008,Mindieti Kalesi,SIGHT,41.491181,41.911081,,Borçka ilçesi,CC0-1.0,1,Mindieti Castle,,kale_sur,kale
+Q120322895,Murgul Kalesi,SIGHT,41.266361,41.558083,,Murgul ilçesi,CC0-1.0,1,Murgul Castle,Gurbin Kalesi,kale_sur,kale
+Q123101966,Parehi Kalesi,SIGHT,41.426833,42.235472,,,CC0-1.0,1,Parehi Castle,İphreuli Kalesi | Parih Kalesi,kale_sur,kale
+Q118929636,Suagara Kalesi,SIGHT,41.160222,41.991528,,Ardanuç İlçesi,CC0-1.0,1,Suagara Castle,Eklevana Kalesi,kale_sur,kale
+Q136520830,Svekari Kalesi,SIGHT,40.780706,42.049303,,,CC0-1.0,1,Svekari Castle,,kale_sur,hisar
+Q126489861,Sveti Kalesi,SIGHT,41.321908,42.368011,,,CC0-1.0,1,Sveti Castle,,kale_sur,kale
+Q120325043,Thilazori Kalesi,SIGHT,41.297722,41.718694,,Borçka ilçesi,CC0-1.0,1,Thilazori Castle,,kale_sur,kale
+Q124370589,Tzepta Kalesi,SIGHT,41.292467,42.190600,,,CC0-1.0,1,,Ustamisi Kalesi | Ustami Kalesi | Eskikale,kale_sur,kale
+Q120861484,Tzoibari Kalesi,SIGHT,40.963861,41.566917,,,CC0-1.0,1,,Zoybar Kalesi,kale_sur,kale
+Q120860217,Utavi Kalesi,SIGHT,40.944833,41.501167,,,CC0-1.0,1,,Ahalta Kalesi,kale_sur,kale
+Q120861636,İtlieti Kalesi,SIGHT,41.162306,41.739583,,,CC0-1.0,1,,,kale_sur,kale
+Q120492024,Şubani Kalesi,SIGHT,41.443111,41.711528,,,CC0-1.0,1,Shubani Castle,,kale_sur,kale
+Q131391308,Ali Paşa Türbesi,SIGHT,41.127968,42.057850,,,CC0-1.0,0,Ali Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902076,Aydın Köyü Kaledibi Mevkii Kales,SIGHT,41.047586,42.075911,,,CC0-1.0,0,,,kale_sur,kale
+Q126823912,Aşpişen Kalesi,SIGHT,40.763594,41.681478,,,CC0-1.0,0,Aşpişen Castle,,kale_sur,kale | kale
+Q131902077,Fındıklı Köyü Kalesi,SIGHT,41.380532,41.611897,,,CC0-1.0,0,Fındıklı Köyü Castle,,kale_sur,kale
+Q131901962,Germencik Kalesi,SIGHT,40.945889,42.359562,,,CC0-1.0,0,Germencik Castle,,kale_sur,kale
+Q131391315,Hatice Hanım Türbesi,SIGHT,41.128005,42.057975,,,CC0-1.0,0,Tomb of Hatice Hanım,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135582718,"Mustafa Bey Türbesi Kalıntısı, Şavşat",SIGHT,41.268700,42.444500,,,CC0-1.0,0,,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
+Q131902008,"Pamukçular Kalesi, Yusufeli",SIGHT,40.784939,41.839577,,,CC0-1.0,0,,,kale_sur,kale
+Q139419305,Penekli Kalesi,SIGHT,41.151299,42.019609,,Ardanuç İlçesi,CC0-1.0,0,,,kale_sur,kale
+Q131391316,Süleyman Paşa Türbesi,SIGHT,41.128005,42.057975,,,CC0-1.0,0,Suleyman Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391317,Zeytinlik Köyü Aşağı Türbe,SIGHT,41.118799,41.854110,,,CC0-1.0,0,Zeytinlik Village Lower Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391318,Zeytinlik Köyü Yukarı Türbe,SIGHT,41.118799,41.854110,,,CC0-1.0,0,Zeytinlik Village Upper Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139419225,Çarşı Hamamı (Artvin),SIGHT,41.180415,41.820432,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131902078,Çevreli Köyü Kalesi,SIGHT,40.741550,41.477518,,,CC0-1.0,0,,,kale_sur,kale

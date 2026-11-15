@@ -1,0 +1,52 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q207917,Nemrut Dağı,SIGHT,37.980739,38.740831,,,CC0-1.0,61,Mount Nemrut,Nemrut Dağ,arkeolojik_sit,dağ | arkeolojik sit | kutsal alan
+Q1026347,Samosata,SIGHT,37.579550,38.481317,,,CC0-1.0,28,Samosata,Samsat,arkeolojik_sit,antik kent | arkeolojik sit
+Q1058264,Cendere Köprüsü,SIGHT,37.932920,38.608490,,,CC0-1.0,15,Severan Bridge,Cendere köprüsü | Septimius Severus Köprüsü,arkeolojik_sit | köprü,güverte kemer köprüsü | taş köprü | köprü (Antik Roma)
+Q1728921,Karakuş Tümülüsü,SIGHT,37.869389,38.588000,,Kahta (ilçe),CC0-1.0,13,Karakuş,Karakuş Höyüğü | Karakuş Tepesi | Karakuş | Kraliçeler Mezarlığı | Kadınlar Mezarlığı | Tokalaşma Steli,anıt_heykel | külliye_medrese_türbe | arkeolojik_sit,Hiyerotesyon | cenaze töreni için yapı | anıt mezar
+Q636876,Adıyaman Müzesi,SIGHT,37.762778,38.278056,,,CC0-1.0,10,Adıyaman Archaeological Museum,,müze,arkeoloji müzesi | müze
+Q704167,Arsameia,SIGHT,37.942778,38.656944,,Kahta (ilçe),CC0-1.0,10,Arsameia,Nymphaios Arsameia'sı,kale_sur | arkeolojik_sit,kale harabesi | arkeolojik sit
+Q1765238,Lidar Höyük,SIGHT,37.562283,38.600333,,,CC0-1.0,5,Lidar Höyük,,arkeolojik_sit,arkeolojik sit | köy
+Q1587735,Perre,SIGHT,37.791667,38.301111,,,CC0-1.0,5,Perrhe,Pörön Antik Kenti | Pirin Antik Kenti,arkeolojik_sit,antik kent
+Q20473427,Gerger Kalesi,SIGHT,37.957209,39.016335,,Gerger,CC0-1.0,3,Gerger Castle,,kale_sur,kale
+Q6096173,Tille Höyük,SIGHT,37.733300,38.883300,,,CC0-1.0,3,Tille Höyük,,arkeolojik_sit,arkeolojik sit | insan yerleşimi | miras
+Q4401500,Zeugma'daki Seleucia,SIGHT,37.442200,38.094500,,,CC0-1.0,3,Seleucia at the Zeugma,,arkeolojik_sit,antik kent
+Q61072484,Adıyaman Ulu Camii,SIGHT,37.759500,38.277389,,,CC0-1.0,2,Adıyaman Grand Mosque,,cami,cami
+Q116943418,Alman Köprüsü,SIGHT,37.845000,37.671111,,,CC0-1.0,2,German Bridge,Göksu Viyadüğü,köprü,kemerli köprü | demir yolu köprüsü | viyadük
+Q24758251,Ancoz,SIGHT,37.686273,38.766838,,,CC0-1.0,2,Ancoz,,arkeolojik_sit,insan yerleşimi | arkeolojik sit
+Q131739220,Bekir Bey Hamamı,SIGHT,37.674801,37.865177,,,CC0-1.0,2,Bekir Bey Baths,,han_hamam_çarşı,hamam
+Q126823917,Kahta Kalesi,SIGHT,37.947987,38.653320,,Kahta (ilçe),CC0-1.0,2,Kahta Castle,Yeni Kale,kale_sur,kale
+Q6098962,Kurban Höyük,SIGHT,37.504341,38.517864,,,CC0-1.0,2,Kurban Höyük,,arkeolojik_sit,arkeolojik sit
+Q131901842,Adıyaman Kalesi,SIGHT,37.759574,38.275303,,,CC0-1.0,1,Adıyaman Castle,Hısn-ı Mansur Kalesi,kale_sur,kale
+Q131901865,Besni Kalesi,SIGHT,37.672974,37.863834,,,CC0-1.0,1,Besni Castle,,kale_sur,kale
+Q6095813,Gritille,SIGHT,37.574465,38.579479,,,CC0-1.0,1,Gritille,,arkeolojik_sit,arkeolojik sit
+Q94578308,Gölbaşı Gölleri Tabiat Parkı,ACTIVITY,37.741667,37.536111,,,CC0-1.0,1,Gölbaşı Lakes Nature Park,Gölbaşi Gölleri,milli_park_tabiat,tabiat parkı | korunan alan
+Q6100874,Hayaz Höyük,SIGHT,37.519529,38.494377,,,CC0-1.0,1,Hayaz Höyük,,arkeolojik_sit,arkeolojik sit
+Q6095128,Levzin Höyük,SIGHT,37.581997,37.922401,,,CC0-1.0,1,Levzin Höyük,,arkeolojik_sit,arkeolojik sit
+Q49319698,Pirin Mağaraları,ACTIVITY,37.794722,38.297778,,,CC0-1.0,1,Pirin Caves,,doğa,mağara
+Q25389006,Sesönk Höyüğü,SIGHT,37.485141,38.067895,,,CC0-1.0,1,Sesönk,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
+Q49319887,Zey Mağaraları,ACTIVITY,37.812500,38.257222,,,CC0-1.0,1,Zey Caves,,doğa,mağara
+Q131390542,Abuzer Gaffari Türbesi,SIGHT,37.768862,38.341388,,,CC0-1.0,0,Abuzer Gaffari Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139422251,Adıyaman Höyük,SIGHT,37.759133,38.275574,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q137945122,Arsameia on the Euphrates,SIGHT,37.957600,39.015330,,Gerger,CC0-1.0,0,Arsameia on the Euphrates,,arkeolojik_sit,antik kent
+Q134960651,Battalhöyük,SIGHT,37.626945,38.186141,,,CC0-1.0,0,Battalhöyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139422249,Damlacık Kervansarayı,SIGHT,37.907506,38.617325,,Kahta (ilçe),CC0-1.0,0,Damlacik caravansarai,,han_hamam_çarşı,kervansaray
+Q139422259,Fırlaz Höyük,SIGHT,37.577760,38.131995,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182704,Karahöyük,SIGHT,37.726639,38.404842,,,CC0-1.0,0,Karahöyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139422254,Karapınar Höyük (Adıyaman),SIGHT,37.758610,38.223058,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139431814,Keysun Kalesi,SIGHT,37.560546,37.855859,,Besni,CC0-1.0,0,,,kale_sur,kale
+Q139422261,Külaf Höyük,SIGHT,37.624574,38.101431,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131390538,Mahmud Ensari Türbesi Adıyaman,SIGHT,37.756078,38.355505,,,CC0-1.0,0,Mahmud Ensari Tomb Adıyaman,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391728,Mansur Bin Cavena Türbesi,SIGHT,37.761288,38.277767,,,CC0-1.0,0,Tomb of Mansur Bin Cavena,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q140421903,Mount Nemrut Dağı,SIGHT,37.982786,38.744595,,,CC0-1.0,0,Mount Nemrut Dağı,,arkeolojik_sit,mithraeum
+Q131390541,Safvan Bin Muattal Türbesi,SIGHT,37.639058,38.517381,,,CC0-1.0,0,Safvan Bin Muattal Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q109521521,Sofraz Anıt Mezarı,SIGHT,37.626671,37.983376,,,CC0-1.0,0,Sofraz Mausoleum,,mezar | anıt_heykel | arkeolojik_sit | müze | külliye_medrese_türbe,antik kent | müze | arkeolojik sit
+Q137646376,Tarsa,SIGHT,37.506300,38.226300,,,CC0-1.0,0,Tarsa,,arkeolojik_sit,antik kent
+Q132752651,Taşkale Hanı,SIGHT,38.029614,38.717308,,,CC0-1.0,0,Taşkale Hanı,Taşkale Hanı,han_hamam_çarşı,kervansaray
+Q139422004,Taşkale Hanı 2,SIGHT,38.032502,38.719688,,Sincik İlçesi,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q139432672,Tharsa,SIGHT,37.506310,38.226456,,,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q139432687,Turuş Kaya Mezarları,SIGHT,37.487988,38.227612,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q132752785,"Tuz Hanı, Adıyaman",SIGHT,37.758949,38.278854,,,CC0-1.0,0,Tuz Hanı (Adıyaman),,han_hamam_çarşı,kervansaray
+Q139426969,Uzeyr Peygamber Türbesi,SIGHT,37.925493,38.812566,,Gerger,CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q134960327,Zerban Höyük,SIGHT,38.027335,38.180032,,Çelikhan ilçesi,CC0-1.0,0,Zerban Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131390540,Öksüz İbrahim Baba Türbesi,SIGHT,37.760260,38.275387,,,CC0-1.0,0,Öksüz İbrahim Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391710,Şeyh Abdurrahman Erzincani Türbesi,SIGHT,37.806183,38.248875,,,CC0-1.0,0,Sheikh Abdurrahman Erzincani Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

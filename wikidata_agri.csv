@@ -1,0 +1,37 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q72303,Ağrı Dağı,SIGHT,39.701944,44.298333,,,CC0-1.0,112,Mount Ararat,Ararat Dağı | Kuh-i Nuh | Ağrı Dagı | Ararat | Büyük Ağrı | Cebel ül Haris | Büyük Ağrı Dağı | Agri Dagi,,dağ | yanardağ | stratovolkan
+Q509324,Patnos,SIGHT,39.233611,42.863611,,,CC0-1.0,41,Patnos,,,büyük şehir (100+) | kasaba
+Q1501534,İshak Paşa Sarayı,SIGHT,39.520595,44.128926,,,CC0-1.0,23,Ishak Pasha Palace,İshak Paşa Palace,ev_konak | saray_köşk,saray
+Q3675845,Balık Gölü,ACTIVITY,39.773889,43.567222,,,CC0-1.0,14,Lake Balık,,göl,göl
+Q123166081,Atar Gölü,ACTIVITY,39.404536,43.385234,,,CC0-1.0,5,Lake Atar,,göl,göl
+Q13052346,Aziz Yuhanna Katedrali (Bagawan),SIGHT,39.611940,43.517220,,,CC0-1.0,3,St. John's Cathedral (Bagawan),,kilise,kilise | eski kilise
+Q18868213,Ağrı Dağı Millî Parkı,ACTIVITY,39.632684,44.420337,,,CC0-1.0,3,Mount Ağrı National Park,Ağrı Dağı Milli Park,milli_park_tabiat,millî park (Türkiye)
+Q112845176,Doğubayazıt Kalesi,SIGHT,39.521611,44.132944,,,CC0-1.0,3,Doğubayazıt Castle,Doğubayazıt Kalesi,kale_sur,kale
+Q6082546,Ağrı Ovası,SIGHT,39.680000,43.012778,,,CC0-1.0,1,Ağrı Plain,,,ova
+Q49319640,Palu Mağarası,ACTIVITY,39.539167,42.492778,,,CC0-1.0,1,Palu Cave,,doğa,mağara
+Q133236386,Abdurrahman Kalesi,SIGHT,39.488789,43.575401,,,CC0-1.0,0,Abdurrahman Castle,,kale_sur,kale
+Q131390482,Ahmed-i Hani Türbesi,SIGHT,39.520200,44.134700,,,CC0-1.0,0,Tomb of Ahmed-i Hani,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q133236384,Altınkilit Kalesi,SIGHT,39.483536,43.600040,,,CC0-1.0,0,Altınkilit Castle,,kale_sur,kale
+Q132182783,Aznavurtepe,SIGHT,39.249627,42.834333,,,CC0-1.0,0,Aznavurtepe,Anzavurtepe,arkeolojik_sit | anıt_heykel,höyük
+Q139437005,Ağrı Dağı Milli Parkı (Ağrı),ACTIVITY,39.624808,44.423135,,,CC0-1.0,0,,,milli_park_tabiat,millî park
+Q134960940,Ballıbostan Höyüğü,SIGHT,39.676224,43.188366,,,CC0-1.0,0,Ballıbostan Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q131901861,Diyadin Kalesi,SIGHT,39.529549,43.673315,,,CC0-1.0,0,Diyadin Castle,,kale_sur,kale
+Q131901945,Hamur Kalesi,SIGHT,39.613111,42.988193,,,CC0-1.0,0,Hamur Castle,,kale_sur,kale
+Q135582841,Hamur Kümbeti,SIGHT,39.610631,42.993142,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q133236709,Hasandolu Kalesi ve Nekropolü,SIGHT,39.146294,43.046486,,,CC0-1.0,0,,,arkeolojik_sit | kale_sur,kale | Nekropol
+Q133236381,Kalebızın Kalesi,SIGHT,39.216084,42.913502,,,CC0-1.0,0,Kalebızın Castle,Keçi Kalesi,kale_sur,kale
+Q131902230,Kancıklı Kalesi,SIGHT,39.219357,43.006279,,,CC0-1.0,0,Kancıklı Castle,,kale_sur,kale
+Q139433272,Köseler Köyü Kümbeti,SIGHT,39.029518,42.862266,,,CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel,kümbet
+Q139433628,Meya Mağaraları,ACTIVITY,39.483601,43.551842,,,CC0-1.0,0,,,doğa,mağara
+Q139422397,Pirabat Höyüğü,SIGHT,39.752776,42.583973,,Eleşkirt İlçesi,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q134960944,Pirömer Köyü Höyüğü,SIGHT,39.126991,42.985001,,,CC0-1.0,0,Pirömer Köyü Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q133236388,Pirömer Köyü Kalesi,SIGHT,39.127583,42.993336,,,CC0-1.0,0,Pirömer Köyü Castle,,kale_sur,kale
+Q131902061,Toklucak Kalesi,SIGHT,39.516102,43.532299,,,CC0-1.0,0,Toklucak Castle,,kale_sur,kale
+Q133236567,Toprakkale Köyü Kalesi,SIGHT,39.851376,42.816215,,,CC0-1.0,0,Toprakkale Castle,,kale_sur,kale
+Q133236545,Tutumlu Kalesi,SIGHT,39.697536,43.785809,,,CC0-1.0,0,Tutumlu Castle,,kale_sur,kale
+Q133236565,Yukarı Küpkıran Kalesi,SIGHT,39.725597,43.250484,,,CC0-1.0,0,Yukarı Küpkıran Castle,Pazı Kalesi,kale_sur,kale
+Q133236563,Yukarı Çökmez Kalesi,SIGHT,39.306602,42.915890,,,CC0-1.0,0,Yukarı Çökmez Castle,Zomik Kalesi,kale_sur,kale
+Q134960938,Zali Höyüğü,SIGHT,39.173504,43.041046,,,CC0-1.0,0,Zali Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q134728229,Çetenli Köyü Kurganı,SIGHT,39.459751,44.012672,,,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | kurgan
+Q134960981,Özdemir Köyü Höyük ve Yerleşimi,SIGHT,39.038361,42.724686,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131901867,Şoşik Kalesi,SIGHT,39.528027,43.177214,,,CC0-1.0,0,,,kale_sur,kale

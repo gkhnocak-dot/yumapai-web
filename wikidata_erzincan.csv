@@ -1,0 +1,51 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q447212,Altıntepe,SIGHT,39.696542,39.646625,,,CC0-1.0,17,Altıntepe,,arkeolojik_sit,arkeolojik sit | insan yerleşimi | miras
+Q5627140,Gürlevik Şelalesi,ACTIVITY,39.585940,39.730870,,,CC0-1.0,8,Gürlevik Waterfalls,,doğa,şelale
+Q120985825,Aprank Manastırı,SIGHT,39.661389,40.288889,,,CC0-1.0,5,Aprank monastery,,manastır_sinagog,manastır
+Q61077683,Karanlık Kanyon,ACTIVITY,39.270000,38.497611,,,CC0-1.0,4,Karanlık Canyon,,doğa,kanyon
+Q18110310,Otlukbeli Muharebesi Şehitleri Anıtı,SIGHT,40.018700,39.979800,,,CC0-1.0,4,Battle of Otlukbeli Martyrs' Monument,,anıt_heykel,savaş anıtı
+Q28221511,Ali Demirsoy Doğal Tarih Müzesi,SIGHT,39.260833,38.497500,,,CC0-1.0,3,Ali Demirsoy Natural History Museum,,müze,müze | doğa tarihi müzesi
+Q123694567,Karagöl Gölü,ACTIVITY,39.424320,39.112360,,,CC0-1.0,3,Lake Karagöl,,göl,yanardağ krater gölü
+Q65043584,Ekşisu Piknik Alanı,SIGHT,39.719722,39.619722,,,CC0-1.0,2,Ekşisu Picnic Area,,,bataklık
+Q6098580,Kemah Kalesi,SIGHT,39.603333,39.039167,,,CC0-1.0,2,Kemah Castle,,kale_sur,tahkimat | kale
+Q4069724,Kemaliye Ermeni Kilisesi,SIGHT,39.260000,38.498200,,,CC0-1.0,2,Kemaliye Armenian Church,,kilise,kilise
+Q123174056,Surp Hreştagabet Manastırı,SIGHT,39.611111,39.030556,,,CC0-1.0,2,,,manastır_sinagog,manastır
+Q131744435,Erzincan Müzesi,SIGHT,39.752744,39.488636,,,CC0-1.0,1,Erzincan Museum,,müze,müze | sergi
+Q49319394,Köroğlu Mağarası,ACTIVITY,39.938500,38.729600,,,CC0-1.0,1,Köroğlu Mağarası,,doğa,mağara
+Q132752956,"Mama Hatun Kervansarayı, Tercan",SIGHT,39.777400,40.385571,,,CC0-1.0,1,Mama Hatun Caravanserai (Tercan),Mama Hatun Hanı,han_hamam_çarşı,kervansaray
+Q97254764,Zimara,SIGHT,39.412810,38.375930,,,CC0-1.0,1,Zimara,,arkeolojik_sit,antik kent
+Q131523705,Abrank Surp Tavit Manastırı,SIGHT,39.661596,40.288798,,,CC0-1.0,0,Monastery of Abrank Surp Tavit,Abrenk Kilisesi,manastır_sinagog,manastır
+Q132681887,Ahmet Kutsi Tecer Kültür Evi,SIGHT,39.240528,38.503723,,,CC0-1.0,0,,,müze,müze
+Q131391370,Behramşah Türbesi,SIGHT,39.608219,39.032856,,,CC0-1.0,0,Bahramshah Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q133236698,Cengerli Kalesi,SIGHT,39.806057,38.871441,,,CC0-1.0,0,Cengerli Castle,Cengerli Kalesi ve Kaya Mezarı,kale_sur | mezar | anıt_heykel | arkeolojik_sit,kale | kaya mezarı
+Q131391656,Dede Paşa Türbesi,SIGHT,39.717072,39.499603,,,CC0-1.0,0,Dede Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902278,Erzincan Kalesi,SIGHT,39.720581,39.493683,,,CC0-1.0,0,Erzincan Castle,,kale_sur,kale
+Q109520231,Erzincan Müzesi,SIGHT,39.749442,39.495577,,,CC0-1.0,0,Erzincan Museum,,müze,müze
+Q135582810,"Gözcü Baba Türbesi, Kemah",SIGHT,39.606995,39.033653,,,CC0-1.0,0,Gözcü Baba Türbesi (Kemah,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q131902281,"Kalecik Kalesi, Erzincan",SIGHT,39.566872,39.736702,,,CC0-1.0,0,Erzincan Kalecik Castle,,kale_sur,kale
+Q132182998,"Küçük Höyük, Çavuş",SIGHT,39.971890,38.653660,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131391655,Kırk Örüklü Bacı Türbesi,SIGHT,39.717220,39.499184,,,CC0-1.0,0,Kırk Öruklü Bacı Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902252,"Kızlar Kalesi, Erzincan",SIGHT,39.786949,39.586002,,,CC0-1.0,0,Kızlar Castle (Erzincan),Köşküngar,kale_sur,kale
+Q131738673,Mama Hatun Hamamı,SIGHT,39.777637,40.386051,,,CC0-1.0,0,Mama Hatun Baths,,han_hamam_çarşı,hamam
+Q135582833,"Mama Hatun Türbesi, Tercan",SIGHT,39.777762,40.386641,,,CC0-1.0,0,Mama Hatun Türbesi (Tercan),,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q135582834,Melik Mengücek Gazi Kümbeti,SIGHT,39.608418,39.032730,,,CC0-1.0,0,Melik Mengücek Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q131391654,Muhammed Beşir Türbesi,SIGHT,39.717072,39.499390,,,CC0-1.0,0,Tomb of Muhammad Bashir,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131739007,Nafiz Paşa Hamamı,SIGHT,39.721569,39.493107,,,CC0-1.0,0,Nafiz Paşa Baths,Paşa Hamamı,han_hamam_çarşı,hamam
+Q139429340,Nisipli Surp Hagop Manastırı,SIGHT,39.709987,39.325455,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q132682029,"Ocak Köyü Özel Müzesi, Kemaliye",SIGHT,39.147667,38.594158,,,CC0-1.0,0,,Ali Gürer Müzesi,müze,müze
+Q131902009,"Ozanlı Kalesi, Çayırlı",SIGHT,39.815208,39.923061,,,CC0-1.0,0,Ozanlı Castle (Çayırlı),,kale_sur,kale
+Q139433818,Pekeriç,SIGHT,39.844054,40.225595,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
+Q131391653,Piri Sami Türbesi,SIGHT,39.727276,39.492474,,,CC0-1.0,0,Piri Sami Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139431570,Surp Hıreşdagabed Manastırı,SIGHT,39.611103,39.030560,,Kemah,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139429314,Surp Nigoğayos Manastırı,SIGHT,39.703637,39.735399,,Üzümlü,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139429537,Surp Tateos Arakyal Manastırı,SIGHT,39.681522,39.250936,,Kemah,CC0-1.0,0,,,manastır_sinagog,manastır
+Q131901998,Sırataşlar Kalesi,SIGHT,39.849407,40.083935,,,CC0-1.0,0,Sırataşlar Castle (Çayırlı),,kale_sur,kale
+Q131902185,Taşbulak Kalesi,SIGHT,39.641228,38.939571,,,CC0-1.0,0,Taşbulak Castle,,kale_sur,kale
+Q131739004,Taşçı Hamamı,SIGHT,39.723289,39.481709,,,CC0-1.0,0,Taşçı Baths,,han_hamam_çarşı,hamam
+Q131390803,Terzi Baba Türbesi,SIGHT,39.717022,39.499279,,,CC0-1.0,0,Tailor Baba Tomb,Hayyat Muhammed Vehbi Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182997,"Toprakkale Höyük, Çavuş",SIGHT,39.972523,38.665409,,,CC0-1.0,0,Toprakkale Höyük (Çavuş),,arkeolojik_sit | anıt_heykel,höyük
+Q139429457,Tümülüs (Piri Sami),SIGHT,39.700410,39.671110,,Üzümlü,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q131739005,Çadırcı Hamamı,SIGHT,39.723099,39.490601,,,CC0-1.0,0,Çadırcı Baths,Hacı Ahmed Bey Hamamı | Çadırcı Şeyh Ahmed Hamamı,han_hamam_çarşı,hamam
+Q131523803,Çarçaranits Manastırı,SIGHT,39.583328,39.696930,,,CC0-1.0,0,Monastery of Çarçaranits,,manastır_sinagog,manastır
+Q133235969,Şirinlikale,SIGHT,39.619529,40.532429,,,CC0-1.0,0,Şirinlikale,,kale_sur,kale
+Q131902246,Şırzı Kalesi,SIGHT,39.282143,38.507912,,,CC0-1.0,0,Şırzı Castle,,kale_sur,kale

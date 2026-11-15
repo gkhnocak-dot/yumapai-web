@@ -1,0 +1,133 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q6095201,Küre Dağları Millî Parkı,ACTIVITY,41.667750,33.141444,,,CC0-1.0,11,Küre Mountains National Park,,milli_park_tabiat,millî park (Türkiye)
+Q322910,Abonuteikhos,SIGHT,41.974026,33.766047,,,CC0-1.0,10,Abonuteichos,Abaş Tepesi Ören Yeri,arkeolojik_sit,antik kent
+Q15256839,Ilgaz Dağı Millî Parkı,ACTIVITY,41.073333,33.806944,,,CC0-1.0,10,Mount Ilgaz National Park,,milli_park_tabiat,millî park (Türkiye)
+Q21526534,Mahmut Bey Cami,SIGHT,41.480531,33.688017,,,CC0-1.0,9,Mahmut Bey Mosque,Mahmud Bey Camii | Mahmutbey Cami | Kasabaköy Camii | Kasaba Köyü Camii,cami,cami
+Q6016199,Küre Dağları,SIGHT,41.731100,32.875700,,,CC0-1.0,8,Küre Mountains,,,sıradağ
+Q15261077,Nasrullah Camii,SIGHT,41.377222,33.775278,,,CC0-1.0,8,Nasrullah Mosque,Nasrullah Kadı Camii,külliye_medrese_türbe | cami,cami | külliye
+Q1899754,Pompeiopolis,SIGHT,41.978056,33.761389,,,CC0-1.0,8,Pompeiopolis,Taşköprü | Sebaste | Zımbıllı Tepesi Höyüğü,arkeolojik_sit,şehir | arkeolojik sit | insan yerleşimi
+Q5201382,Gideros,SIGHT,41.859420,32.858030,,Cide (ilçe),CC0-1.0,7,Cytorus,"Gideros, Cide",arkeolojik_sit,antik kent | polis | köy
+Q17625252,Cinolis,SIGHT,41.961269,34.178403,,,CC0-1.0,5,Cinolis,,arkeolojik_sit,antik kent
+Q20472016,Kastamonu Hükûmet Konağı,SIGHT,41.375883,33.778753,,,CC0-1.0,4,Kastamonu Governor's Office,,müze,müze | kamu yönetimi binası | tarihî bina
+Q27698017,Atatürk ve Şerife Bacı Anıtı,SIGHT,41.376333,33.777667,,,CC0-1.0,3,Atatürk and Şerife Bacı Monument,Kastamonu Türk Kadınları Anıtı | Atatürk ve Şehit Şerife Bacı Anıtı,anıt_heykel,anıt
+Q1397859,Fasıllar Anıtı,SIGHT,37.658333,31.895833,,Beyşehir,CC0-1.0,3,Fasıllar monument,,arkeolojik_sit | anıt_heykel,heykel | arkeolojik sit | anıt
+Q6075775,Kastamonu Arkeoloji Müzesi,SIGHT,41.373700,33.775762,,,CC0-1.0,3,Kastamonu Archaeology Museum,,müze,arkeoloji müzesi | müze
+Q28221136,Livapaşa Konağı Etnografya Müzesi,SIGHT,41.375064,33.775506,,,CC0-1.0,3,Kastamonu Ethnography Museum,Kastamonu Etnografya Müzesi,müze,müze | Etnografya müzesi
+Q28219967,Nasrullah Köprüsü,SIGHT,41.377600,33.776430,,,CC0-1.0,3,Nasrullah Bridge,Kambur Köprü,köprü,kemerli köprü
+Q65047065,Aiginetes,SIGHT,41.979567,34.044074,,,CC0-1.0,2,Aiginetes,,arkeolojik_sit,antik kent
+Q64821739,Anticinolis,SIGHT,41.954756,34.173004,,,CC0-1.0,2,Anticinolis,,arkeolojik_sit,antik kent
+Q126020944,Araba Pazarı Hamamı,SIGHT,41.378361,33.772000,,,CC0-1.0,2,Araba Pazarı Hammam,Arabapazarı Hamamı,han_hamam_çarşı,hamam
+Q65046837,Callistratia,SIGHT,42.002968,33.405624,,,CC0-1.0,2,Callistratia,,arkeolojik_sit,antik kent | polis
+Q85755941,Dağlı Kuylucu Mağarası,ACTIVITY,41.808290,33.099960,,Cide (ilçe),CC0-1.0,2,Dağlı Kuylucu Cave,,doğa,mağara
+Q21526366,Kastamonu Saat Kulesi,SIGHT,41.374721,33.778735,,,CC0-1.0,2,Kastamonu Clock Tower,Sürgün Kule,kule | kule_saat,saat kulesi
+Q97947297,Kastamonu Ulu Camii,SIGHT,41.375667,33.771194,,,CC0-1.0,2,Great Mosque of Kastamonu,Kırk Direkli Camii | Atabey Gazi Camii,cami,cami
+Q6001249,Taşköprü,SIGHT,41.513550,34.211360,,,CC0-1.0,2,Taşköprü,,köprü,taş kemerli köprü | köprü | tarihî bina
+Q20474544,Valla kanyonu,ACTIVITY,41.749009,33.045182,,,CC0-1.0,2,Valla Canyon,,doğa,kanyon
+Q131739219,Daday Hamamı,SIGHT,41.477383,33.469650,,Daday,CC0-1.0,1,Daday Baths,,han_hamam_çarşı,hamam
+Q108788128,Kahin Tepe,SIGHT,41.230100,33.391900,,,CC0-1.0,1,Kahin Tepe,Kahintepe,arkeolojik_sit,arkeolojik sit
+Q49342953,Karakaya Boğazı,ACTIVITY,40.970278,34.074722,,,CC0-1.0,1,Karakaya Straits,,doğa,defile
+Q65046826,Thymena,SIGHT,41.958253,33.189074,,,CC0-1.0,1,Thymena,,arkeolojik_sit,antik kent
+Q65046830,Timolaeum,SIGHT,41.997734,33.316820,,,CC0-1.0,1,Timolaeum,,arkeolojik_sit,antik kent
+Q132134402,Yılanlı Külliyesi,SIGHT,41.376785,33.774735,,,CC0-1.0,1,Yılanlı Külliye,Yılanlı Camii,cami | külliye_medrese_türbe,cami | külliye | Darüşşifa
+Q85817124,Ziporea,SIGHT,41.571526,33.119180,,,CC0-1.0,1,Ziporea,,arkeolojik_sit,antik kent
+Q132682122,"75. Yıl Cumhuriyet Müzesi, Kastamonu",SIGHT,41.365822,33.764305,,,CC0-1.0,0,,Kastamonu Silah Müzesi | Silah Müzesi,müze,müze
+Q132681944,75.Yıl Cumhuriyet Evi,SIGHT,41.374852,33.773536,,,CC0-1.0,0,75. Yıl Cumhuriyet House,,müze,müze
+Q131739241,Abana Eski Hamam,SIGHT,41.978004,34.008549,,,CC0-1.0,0,Abana Baths,,han_hamam_çarşı,hamam
+Q132682133,Abana Kent Müzesi,SIGHT,41.977795,34.007309,,,CC0-1.0,0,Abana City Museum,,müze,müze | mimari yapı
+Q135582712,Abdülfettah Veli Türbesi,SIGHT,41.376695,33.774740,,,CC0-1.0,0,Abdülfettah Veli Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391292,Adil Bey Türbesi,SIGHT,41.226177,33.811497,,,CC0-1.0,0,Adil Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391768,Ahi Şorba Türbesi,SIGHT,41.371208,33.773033,,,CC0-1.0,0,Ahi Şorba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390856,Alaaddin Efendi Türbesi,SIGHT,41.381144,33.773815,,,CC0-1.0,0,Tomb of Alaaddin Efendi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139425086,Alisaray Köyü Arkeolojik Sit Alanı,SIGHT,41.453714,34.262026,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q131902288,Araç Kalesi,SIGHT,41.240173,33.323032,,,CC0-1.0,0,Araç Castle,,kale_sur,kale
+Q131391506,Atabey Gazi Türbesi,SIGHT,41.375439,33.771370,,,CC0-1.0,0,Atabey Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752731,Atabey Hanı,SIGHT,41.300480,33.929966,,,CC0-1.0,0,Atabey Hanı,,han_hamam_çarşı,kervansaray
+Q139418905,Ağacık Hamamı,SIGHT,41.018164,34.037976,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131902369,Ağlı Kalesi,SIGHT,41.681770,33.526539,,Ağlı,CC0-1.0,0,Ağlı Castle,,kale_sur,kale
+Q132752935,"Aşir Efendi Hanı, Kastamonu",SIGHT,41.377355,33.774443,,,CC0-1.0,0,Aşir Efendi Hanı (Kastamonu),Urgan Hanı,han_hamam_çarşı,kervansaray
+Q131390855,Aşıklı Sultan Türbesi,SIGHT,41.379712,33.773312,,,CC0-1.0,0,Asikli Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391829,Bayramgazi Türbesi,SIGHT,41.926689,34.039303,,,CC0-1.0,0,Bayramgazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418904,Belediye Hamamı (Tosya),SIGHT,41.018112,34.039102,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131738500,Bey Hamamı,SIGHT,41.377178,33.778300,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q133236437,Boyran Kalesi Kalıntısı,SIGHT,41.976040,33.756428,,,CC0-1.0,0,Boyran Kalesi Kalıntısı,Abraş Kalesi,kale_sur,kale
+Q139418903,Büyük Şifa Hamamı,SIGHT,41.018227,34.037675,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139437231,Cem Sultan Bedesteni,SIGHT,41.377972,33.773849,,,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q134734794,Cemalettin Efendi Türbesi,SIGHT,41.374054,33.766293,,,CC0-1.0,0,Cemalettin Efendi Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418970,Dai Sultan Türbesi,SIGHT,41.379789,33.771412,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132681825,Dantel Müzesi,SIGHT,41.366276,33.764511,,,CC0-1.0,0,,,müze,müze
+Q131738501,Dede Sultan Hamamı,SIGHT,41.371916,33.776045,,,CC0-1.0,0,Dede Sultan Baths,,han_hamam_çarşı,hamam
+Q131391764,Dede Sultan Türbesi,SIGHT,41.371830,33.776165,,,CC0-1.0,0,Tomb of Dede Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139426709,Deretepe Tümülüsü,SIGHT,41.245800,33.149600,,Araç (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q132752927,"Deve Hanı, Kastamonu",SIGHT,41.384319,33.777287,,,CC0-1.0,0,Deve Hanı (Kastamonu),Deva Hanı,han_hamam_çarşı,kervansaray
+Q131391422,Deveci Sultan Türbesi,SIGHT,41.379265,33.781555,,,CC0-1.0,0,Tomb of Deveci Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139419002,Dr. İsmail Hakkı Bey Anıtı,SIGHT,41.973711,33.762580,,İnebolu ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q131739000,Eski Hamam,SIGHT,41.804550,33.710308,,,CC0-1.0,0,Eski Hamam (Küre),,han_hamam_çarşı,hamam
+Q134728176,"Ev Kaya Mezarları, Kastamonu",SIGHT,41.369972,33.769817,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q131738817,Ferhat Paşa Hamamı,SIGHT,41.379597,33.780708,,,CC0-1.0,0,Ferhat Paşa Baths,,han_hamam_çarşı,hamam
+Q131738633,Frenkşah Hamamı,SIGHT,41.377994,33.774735,,,CC0-1.0,0,Frenkşah Baths,,han_hamam_çarşı,hamam
+Q133236434,Geriş Tepesi Kale Kalıntısı,SIGHT,41.962910,33.769588,,,CC0-1.0,0,,,kale_sur,kale
+Q139430449,Geriş Tepesi Manastır Kalıntısı,SIGHT,41.964912,33.769459,,İnebolu ilçesi,CC0-1.0,0,,,manastır_sinagog,manastır
+Q137170056,Geriş Tepesi Ören Yeri,SIGHT,41.963799,33.766163,,,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
+Q131901944,Ginolu Kalesi,SIGHT,41.965573,34.165592,,,CC0-1.0,0,Ginolu Castle,Kinolis,kale_sur,kale
+Q132752926,"Gökçeağaç Hanı, Hanönü",SIGHT,41.625130,34.462345,,,CC0-1.0,0,Gökçeağaç Hanı (Hanönü,,han_hamam_çarşı,kervansaray
+Q131391769,Hacı Dede Türbesi,SIGHT,41.370789,33.773144,,,CC0-1.0,0,Hacı Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391424,Hacı Hamza Efendi Türbesi,SIGHT,41.375050,33.765514,,,CC0-1.0,0,Hacı Hamza Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391770,Halife Sultan Hazretleri Türbesi,SIGHT,41.380215,33.775028,,,CC0-1.0,0,Tomb of His Majesty Caliph Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139419001,Hamam (İnebolu),SIGHT,41.978097,33.761736,,İnebolu ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q134728094,Hamidiye Köyü Şehitlik Anıtı,SIGHT,41.924042,34.182930,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q139418932,Harmankaşı Türbesi,SIGHT,41.385377,33.776130,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391360,Hatun Sultan Türbesi,SIGHT,41.378063,33.781425,,,CC0-1.0,0,Hatun Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390534,Hepkebirler Türbesi,SIGHT,41.374836,33.773025,,,CC0-1.0,0,Hepkebirler Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738818,Honsalar Hamamı,SIGHT,41.380077,33.770580,,,CC0-1.0,0,Honsalar Baths,,han_hamam_çarşı,hamam
+Q139425084,Kabaderesi Tümülüsü,SIGHT,41.501051,34.224519,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
+Q134728192,Kalekapı Kaya Mezarı,SIGHT,41.565571,34.090492,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q139418917,Kara Mustafa Paşa Türbesi (Kastamonu),SIGHT,41.378938,33.775207,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390533,Karanlık Evliya Türbesi,SIGHT,41.374521,33.772248,,,CC0-1.0,0,Tomb of the Dark Saint,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132681973,Kastamonu Kent Tarihi Müzesi,SIGHT,41.376091,33.778912,,,CC0-1.0,0,Kastamonu City Museum,,müze,müze
+Q132681862,Kastamonu Şapka Müzesi,SIGHT,41.366020,33.764633,,,CC0-1.0,0,,,müze,müze
+Q139418928,Kaya Mezarı 1 (Kastamonu),SIGHT,41.372787,33.770412,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q135959831,Kayı Köyü Tümülüsü,SIGHT,41.422329,33.200913,,Daday,CC0-1.0,0,Kayı Village Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q135582716,"Kesikbaş Türbesi, Kastamonu",SIGHT,41.379250,33.771011,,,CC0-1.0,0,Kesikbaş Türbesi (Kastamonu),,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391760,Kurt Şeyh Dede Türbesi,SIGHT,41.603569,33.847412,,,CC0-1.0,0,Tomb of Kurt Sheikh Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752934,"Kurşunlu Han, Kastamonu",SIGHT,41.377802,33.774352,,,CC0-1.0,0,Kurşunlu Han (Kastamonu),İsmail Bey Hanı,han_hamam_çarşı,kervansaray
+Q134960881,Kınık Höyük,SIGHT,41.640495,33.930278,,,CC0-1.0,0,Kınık Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q139418926,Kırk Kızlar Türbesi (Kastamonu),SIGHT,41.375114,33.770139,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391382,Maden Dede Türbesi,SIGHT,41.377022,33.771587,,,CC0-1.0,0,Maden Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418913,Muzaffereddin Gazi Hamamı,SIGHT,41.510643,34.216357,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132752925,"Penbe Han, Kastamonu",SIGHT,41.377769,33.773785,,,CC0-1.0,0,Penbe Han (Kastamonu),Pamuk Hanı | Balkapanı Hanı,han_hamam_çarşı,kervansaray
+Q133245850,"Saray Hamamı, Kastamonu",SIGHT,41.375397,33.778095,,,CC0-1.0,0,Saray Baths (Kastamonu),,han_hamam_çarşı,hamam
+Q139432642,Sarpualınca Mağarası,ACTIVITY,41.741901,33.816368,,Devrekani (ilçe),CC0-1.0,0,,,doğa,mağara
+Q132752671,Sarının Hanı,SIGHT,41.155395,34.062107,,,CC0-1.0,0,Sarının Hanı,Sarının Hanı,han_hamam_çarşı,kervansaray
+Q131390535,Saçayaklı Sultan Türbesi,SIGHT,41.381018,33.776315,,,CC0-1.0,0,Saçayaklı Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134734800,Seyyid Zülfikar Türbesi,SIGHT,41.617683,33.717808,,,CC0-1.0,0,Seyyid Zülfikar Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418923,Seyyid Şeyh Mustafa Efendi Türbesi,SIGHT,41.377576,33.780993,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139424876,Sipahiler Köyü Arkeolojik Sit Alanı,SIGHT,41.700354,33.732660,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q131739050,"Tarihi Hamam, Araç",SIGHT,41.239822,33.321083,,,CC0-1.0,0,,Araç Belediyesi Vakıflar Hamamı,han_hamam_çarşı,hamam
+Q131738497,Tarihi Vakıf Hamamı,SIGHT,41.373182,33.771376,,,CC0-1.0,0,Tarihi Vakıf Baths,,han_hamam_çarşı,hamam
+Q132681778,Taşköprü Kent Tarihi Müzesi,SIGHT,41.508923,34.220108,,,CC0-1.0,0,Taşköprü City Museum,Redif Taburu Binası,müze,müze | tarihî bina
+Q131391761,Taşköprüzade Hayrettin Halil Bin Kasım Türbesi,SIGHT,41.804386,33.710609,,,CC0-1.0,0,Taşköprüzade Hayrettin Halil Bin Kasım Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738502,Tekke Hamamı,SIGHT,41.023927,34.030188,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139422835,Tepe Arkası Mevkii Tümülüsü,SIGHT,41.523779,33.991041,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q139418935,Türbe (Kastamonu),SIGHT,41.379873,33.774390,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139421333,Tınartepe Tümülüsü,SIGHT,41.508186,33.964641,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
+Q132134401,"Yakup Ağa Camii, Kastamonu",SIGHT,41.376697,33.772308,,,CC0-1.0,0,Yakup Ağa Mosque (Kastamonu),,cami | külliye_medrese_türbe,cami | külliye
+Q132752936,"Yanık Hanı / Kendir Hanı, Kastamonu",SIGHT,41.378465,33.773095,,,CC0-1.0,0,Yanık Hanı (Kastamonu),Kendir Hanı | Kendir Kapanı | Yanık Hanı,han_hamam_çarşı,kervansaray
+Q131738495,Yeni Hamam,SIGHT,41.378936,33.775022,,,CC0-1.0,0,Yeni Hamam (Kastamonu),,han_hamam_çarşı,hamam
+Q134960907,Zımbıllı Tepesi Höyüğü,SIGHT,41.518206,34.214062,,,CC0-1.0,0,Zımbıllı Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q131738977,Çatalzeytin Hamamı,SIGHT,41.953953,34.212776,,,CC0-1.0,0,Çatalzeytin Baths,,han_hamam_çarşı,hamam
+Q139423567,Çayiçi Mevkii Arkeolojik Sit Alanı,SIGHT,41.227798,33.858147,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q131738498,Çifte Hamam,SIGHT,41.375762,33.773521,,,CC0-1.0,0,Çifte Baths (Kastamonu),,han_hamam_çarşı,hamam
+Q131902120,"Çoban Kalesi, Cide",SIGHT,41.979290,33.212978,,,CC0-1.0,0,Çoban Castle (Cide),,kale_sur,kale
+Q131391763,İsa Dede Türbesi,SIGHT,41.375881,33.771221,,,CC0-1.0,0,Tomb of Isa Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q127786834,İsmail Bey Camii,SIGHT,41.602940,33.833900,,,CC0-1.0,0,İsmail Bey Mosque,,cami | külliye_medrese_türbe,cami | külliye
+Q132134399,"İsmail Bey Camii, Kastamonu",SIGHT,41.383743,33.777592,,,CC0-1.0,0,İsmail Bey Mosque (Kastamonu),,cami | külliye_medrese_türbe,cami | külliye
+Q131738819,İsmail Bey Hamamı,SIGHT,41.384232,33.776661,,,CC0-1.0,0,Baths of İsmail Bey,,han_hamam_çarşı,hamam
+Q131739183,İsmail Bey Hamamı,SIGHT,41.602982,33.833645,,,CC0-1.0,0,Baths of İsmail Bey,,han_hamam_çarşı,hamam
+Q131739184,İsmail Bey Hamamı,SIGHT,41.806751,33.710728,,,CC0-1.0,0,İsmail Bey Baths,,han_hamam_çarşı,hamam
+Q131391221,İsmail Bey Türbesi,SIGHT,41.383964,33.777302,,,CC0-1.0,0,Ismail Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132682124,Şaban-ı Veli Vakıf Müzesi,SIGHT,41.374691,33.764278,,,CC0-1.0,0,Şeyh Şaban-ı Veli Museum,Şeyh Şaban-ı Veli Külliyesi Dergah Evleri,müze | külliye_medrese_türbe,müze | külliye
+Q134728178,Şehinşah Kaya Mezarı,SIGHT,41.383507,33.778099,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q132681843,Şehit Şerife Bacı Kültür Evi,SIGHT,41.617470,33.718311,,,CC0-1.0,0,,,müze,müze
+Q139418919,Şeyh Ahmet Siyahî Türbesi,SIGHT,41.377185,33.781537,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132134400,Şeyh Şaban-ı Veli Camii (Kastamonu),SIGHT,41.374580,33.764187,,,CC0-1.0,0,"Şeyh Şaban-ı Veli Mosque, Kastamonu",Şâbân-ı Velî Tekkesi | Hazreti Pir Şeyh Şâbân-ı Velî Camii,cami | külliye_medrese_türbe,cami | külliye
+Q131391222,Şeyh Şaban-ı Veli Türbesi,SIGHT,41.374519,33.764629,,,CC0-1.0,0,Tomb of Sheikh Şaban-ı Veli,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

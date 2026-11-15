@@ -1,0 +1,100 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q126307,Van Gölü,ACTIVITY,38.633333,42.816667,,,CC0-1.0,90,Lake Van,,göl,tuz gölü | sodalı göl | tektonik göl
+Q1281985,Akdamar Kilisesi,SIGHT,38.341667,43.035278,,Gevaş,CC0-1.0,23,Armenian Cathedral of the Holy Cross,Ahtamar Kilisesi | Kutsal Haç Katedrali | Surp Haç Kilisesi,kilise | manastır_sinagog,manastır | katedral
+Q3187042,Van Kalesi,SIGHT,38.502500,43.340000,,,CC0-1.0,22,Van Fortress,,kale_sur | arkeolojik_sit,kale harabesi | arkeolojik sit
+Q2632366,Şirakavan,SIGHT,40.715707,43.721908,,,CC0-1.0,18,Shirakavan,,arkeolojik_sit,arkeolojik sit | insan yerleşimi
+Q1366366,Erçek Gölü,ACTIVITY,38.671700,43.578300,,,CC0-1.0,17,Lake Erçek,,göl,göl
+Q3119451,Gıduts Manastırı,SIGHT,38.609622,43.084985,,,CC0-1.0,16,Ktuts monastery,Gduts Anabad Manastırı | Çarpanak Kilisesi | Giduts Manastırı | Ktuts Manastırı,manastır_sinagog | anıt_heykel,manastır | harabe | tarihi mekân
+Q291045,Yedi Kilise,SIGHT,38.449636,43.460825,,,CC0-1.0,14,Varagavank,Varagavank Manastırı | Yedi Kilise,manastır_sinagog,manastır | harabe
+Q3119445,Aziz Bartalmay Manastırı,SIGHT,38.145036,44.210071,,Başkale,CC0-1.0,13,Saint Bartholomew Monastery,Albayrak Kilisesi | Surp Partuğimeos Manastırı,manastır_sinagog | kilise,manastır | harabe | kilise
+Q272699,Çavuştepe,SIGHT,38.352972,43.461111,,,CC0-1.0,13,Çavuştepe,Çavuştepe kalesi | Sardurihinili,kale_sur | arkeolojik_sit,insan yerleşimi | tahkimat | arkeolojik sit
+Q1420248,Hoşap Kalesi,SIGHT,38.316944,43.801667,,Gürpınar,CC0-1.0,12,Hoşap Castle,Mahmudi Kalesi | Narin Kale,kale_sur | arkeolojik_sit,kale | arkeolojik sit
+Q4103428,Van Müzesi,SIGHT,38.504722,43.341111,,,CC0-1.0,12,Van Museum,,müze,müze
+Q54571,Ayanis Kalesi,SIGHT,38.708270,43.211180,,,CC0-1.0,9,Fortress of Ayanis,Agartı Kalesi | Ayanıs | Eiduru Dağı Rusahinili,kale_sur | arkeolojik_sit,tahkimat | arkeolojik sit
+Q13050916,Aparank Manastırı,SIGHT,37.966670,42.750000,,,CC0-1.0,8,Aparank Monastery,Abarank Manastırı | Aparank Kutsal Haç Manastırı,manastır_sinagog,manastır
+Q3193521,Garmravank,SIGHT,38.372315,42.904281,,,CC0-1.0,8,Karmravank,,manastır_sinagog,manastır | harabe
+Q1740373,Keşiş Gölü,ACTIVITY,38.470000,43.607900,,,CC0-1.0,7,Lake Turna,Turna Gölü | Rusa | Turna,göl,göl | yapay göl
+Q20517611,Lim Manastırı,SIGHT,38.864877,43.352000,,,CC0-1.0,6,Lim Monastery,,manastır_sinagog,manastır
+Q65040501,Surp Tovmas Manastırı (Van),SIGHT,38.416797,42.874162,,Gevaş,CC0-1.0,6,"St. Thomas Monastery, Van",Altınsaç Kilisesi | St. Thomas Manastırı | Kantzag Surp Tovmas Manastırı | Gevaş Altınsaç Kilisesi,kilise,kilise
+Q5117901,Yanal Kilisesi,SIGHT,38.262965,44.252333,,Başkale,CC0-1.0,6,Church of the Holy Cross at Soradir,Sorader Surp Eçmiyadzin Manastırı | Kızıl Kilise | Ağpag Surp Khaç Manastırı,kilise,kilise
+Q21695023,Akgöl,ACTIVITY,38.490000,43.924444,,,CC0-1.0,5,Akgöl,,göl,göl
+Q10965583,Hogots Manastırı,SIGHT,38.099417,43.404250,,Gürpınar,CC0-1.0,4,Hogots Monastery,,manastır_sinagog,manastır
+Q1917233,Mher Kapısı,SIGHT,38.516659,43.390203,,,CC0-1.0,4,Door of Mher,,anıt_heykel | mezar | arkeolojik_sit,dolmen
+Q31190849,Muradiye Şelalesi,ACTIVITY,39.056820,43.756700,,,CC0-1.0,4,Muradiye Waterfall,Muradiye şelalesi,doğa,şelale
+Q7646524,Surp Marinos Manastırı,SIGHT,38.345608,43.356671,,,CC0-1.0,4,Surp Marinos Monastery,,manastır_sinagog,manastır | harabe
+Q13050800,Amardolu Manastırı,SIGHT,38.400000,42.116667,,,CC0-1.0,3,Amardolu Monastery,,manastır_sinagog,manastır
+Q472521,Amiuk,SIGHT,39.106408,43.132767,,,CC0-1.0,3,Amiuk,,kale_sur,bina | kale | harabe
+Q1529378,Gövelek Gölü,ACTIVITY,38.551455,43.620186,,,CC0-1.0,3,Gövelek Lake,,göl,göl
+Q49312867,Süphan Gölü,ACTIVITY,38.964444,43.868889,,,CC0-1.0,3,Lake Süphan,,göl,göl
+Q97947323,Van Ulu Camii,SIGHT,38.500854,43.338944,,,CC0-1.0,3,Great Mosque of Van,,cami,cami
+Q13050665,Abrahamavank Manastırı,SIGHT,38.346120,43.488842,,,CC0-1.0,2,Monastery of Abrahamavank,,manastır_sinagog,manastır
+Q131993397,Artsvaber Manastırı,SIGHT,39.048056,43.434167,,Erciş (ilçe),CC0-1.0,2,Monastery of Artsvaber,,kilise,kilise
+Q24234673,Aşağımollahasan Höyüğü,SIGHT,38.653729,43.897011,,Özalp,CC0-1.0,2,Aşağımollahasan höyük,,arkeolojik_sit,arkeolojik sit
+Q109386249,Halime Hatun Kümbeti,SIGHT,38.310639,43.117250,,Gevaş,CC0-1.0,2,Halime Hatun Kümbeti,,anıt_heykel,mezar
+Q6101780,Karagündüz Höyük,SIGHT,38.695904,43.644562,,,CC0-1.0,2,Karagündüz Höyük,,arkeolojik_sit,arkeolojik sit
+Q125193441,Ktchavavank Manastırı,SIGHT,38.048889,42.783889,,,CC0-1.0,2,,,kilise,kilise | yıkık kilise
+Q131987565,Surp Amenapırgiç Manastırı (Moks),SIGHT,38.114337,42.834427,,Bahçesaray ilçesi,CC0-1.0,2,Surb P'rkich Monastery,Amenapırgiç Manastırı,kilise | manastır_sinagog,kilise | manastır
+Q61104786,Surp Astvatsatsin Manastırı (Metzopavank),SIGHT,39.178889,43.183889,,,CC0-1.0,2,,,manastır_sinagog,manastır
+Q71066205,Van Kutsal Havariler Kilisesi,SIGHT,38.499444,43.341667,,,CC0-1.0,2,Church of the Holy Apostles (Van),,kilise,kilise
+Q49319025,Abuzet Mağarası,ACTIVITY,38.327778,43.660000,,,CC0-1.0,1,Abuzet Cave,,doğa,mağara
+Q6100842,Dilkaya Höyüğü,SIGHT,38.359711,43.141380,,,CC0-1.0,1,Dilkaya Mound,,arkeolojik_sit,arkeolojik sit
+Q64706856,Eski Van şehri,SIGHT,38.503000,43.339000,,,CC0-1.0,1,Old city of Van,,arkeolojik_sit,arkeolojik sit
+Q131391788,Muhammed Teyyar Türbesi,SIGHT,38.142128,43.174179,,Çatak,CC0-1.0,1,Tomb of Muhammad Tayyar,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q6097378,Tilkitepe Höyüğü,SIGHT,38.467724,43.335419,,,CC0-1.0,1,Tilkitepe Höyüğü,Şamramaltı,arkeolojik_sit,arkeolojik sit
+Q139432081,Zernaki Tepe,SIGHT,39.053452,43.353336,,Erciş (ilçe),CC0-1.0,1,,,arkeolojik_sit,antik kent
+Q34870064,Çaldıran Ovası,SIGHT,39.124651,43.932195,,,CC0-1.0,1,Çaldıran Plain,,,ova
+Q49319925,İkigöz Mağarası,ACTIVITY,38.338333,42.789167,,,CC0-1.0,1,İkigöz Cave,,doğa,mağara
+Q49319930,İnek Mağarası,ACTIVITY,38.441111,42.771389,,,CC0-1.0,1,İnek Cave,,doğa,mağara
+Q133235963,Alaköy Kalesi,SIGHT,38.690918,43.239216,,,CC0-1.0,0,Alaköy Castle,Garibin Tepe,kale_sur,kale
+Q131902190,Aliler Kalesi,SIGHT,38.854545,43.486572,,,CC0-1.0,0,Aliler Castle,,kale_sur,kale
+Q131902058,"Amik Kalesi, Tuşba",SIGHT,38.807201,43.292400,,,CC0-1.0,0,Amik Castle,,kale_sur,kale
+Q139420705,Anmeşat Kaya Mezarları,SIGHT,38.628065,43.149150,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q139423917,Arap Zengi Kalesi,SIGHT,39.244392,44.023195,,Çaldıran İlçesi,CC0-1.0,0,,,kale_sur,kale
+Q131523804,Ardzvaper Manastırı,SIGHT,39.048233,43.434536,,,CC0-1.0,0,Monastery of Ardzvaper,Surp Asdvadzadzin Manastırı,manastır_sinagog,manastır
+Q131901893,Aşağı Anzaf Kalesi,SIGHT,38.567965,43.464532,,,CC0-1.0,0,Aşağı Anzaf Castle,,kale_sur,kale
+Q139430152,Aşağı Turgalı Mahallesi Kümbeti,SIGHT,38.780640,44.221752,,Özalp,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,kümbet
+Q139420706,Dağönü Gözetleme Kalesi,SIGHT,38.732880,43.275092,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
+Q131902186,Deliçay Kalesi,SIGHT,39.000814,43.472196,,,CC0-1.0,0,Deliçay Castle,,kale_sur,kale
+Q131902347,Edremit Kalesi,SIGHT,38.420250,43.265469,,,CC0-1.0,0,Edremit Castle,Edremit Kız Kalesi,kale_sur,kale
+Q131902057,Erciş Kalesi,SIGHT,38.966599,43.333199,,,CC0-1.0,0,Erciş Castle,,kale_sur,kale
+Q133236310,Erek Kalesi,SIGHT,38.483439,43.444342,,,CC0-1.0,0,Erek Castle,,kale_sur,kale
+Q139433817,Ernis Nekropolü,SIGHT,38.971859,43.594353,,Erciş (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q135582818,"Evliya Bey Medresesi, Gürpınar",SIGHT,38.314888,43.801167,,,CC0-1.0,0,Evliya Bey Medresesi (Gürpınar),,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q131391817,Galip Paşa Kümbeti,SIGHT,38.502266,43.344631,,,CC0-1.0,0,Galip Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139421393,Görentaş Hanı,SIGHT,38.107852,43.138221,,Çatak,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q135582817,"Hasan Bey Türbesi, Gürpınar",SIGHT,38.317497,43.797211,,,CC0-1.0,0,Hasan Bey Türbesi (Gürpınar),,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q71551726,Haykaberd - Aspeşîn‎- Çavuştepe,SIGHT,38.354252,43.465412,,,CC0-1.0,0,Haykaberd - Aspeşîn‎- Çavuştepe,,kale_sur,tahkimat
+Q131523712,Hokots Vank Ermeni Manastırı,SIGHT,38.099411,43.404281,,,CC0-1.0,0,,,manastır_sinagog,manastır
+Q132752778,Hüsrev Paşa Hanı,SIGHT,38.497871,43.339661,,,CC0-1.0,0,Hüsrev Paşa Hanı,,han_hamam_çarşı,kervansaray
+Q131391263,Hüsrev Paşa Türbesi,SIGHT,38.498062,43.338833,,,CC0-1.0,0,Husrev Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135582809,"Kadem Paşa Hatun Türbesi, Erciş",SIGHT,39.017510,43.385525,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q131902315,Kandahar Kalesi,SIGHT,38.994743,43.763187,,Muradiye,CC0-1.0,0,Kandahar Castle,Kala-i Bargiri | Muradiye Kalesi | Kal'a-ı Bârgîrî,kale_sur,kale
+Q131523703,Karmrakvank Manastırı,SIGHT,38.372315,42.904281,,Gevaş,CC0-1.0,0,Monastery of Karmrakvank,Miyantzın Anabad | Garmir Agın Manastırı | Garmravank Manastırı,manastır_sinagog,manastır
+Q131902188,Keçikıran,SIGHT,38.974400,43.613598,,Muradiye,CC0-1.0,0,Keçikıran,,kale_sur,kale
+Q133236759,Körzüt Kalesi,SIGHT,38.912857,43.744926,,Muradiye,CC0-1.0,0,Körzüt Castle,,kale_sur,kale
+Q139420693,Kırkgeçit Kalesi,SIGHT,38.137675,43.488163,,Gürpınar,CC0-1.0,0,,,kale_sur,kale
+Q139431595,Metsopavank Ermeni Manastırı,SIGHT,39.157726,43.198860,,Erciş (ilçe),CC0-1.0,0,,,manastır_sinagog,manastır
+Q134960941,Mezarlık Tepesi Höyüğü,SIGHT,38.662212,44.169479,,,CC0-1.0,0,Mezarlık Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q139426597,Orta Kapı (Van),SIGHT,38.497665,43.338841,,,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q131902189,Panz,SIGHT,38.911665,43.543400,,,CC0-1.0,0,Panz,,kale_sur,kale
+Q131901934,Pizan Kalesi,SIGHT,37.952116,43.949346,,Başkale,CC0-1.0,0,Pizan Castle,,kale_sur,kale
+Q139426610,Saray Kapısı (Van),SIGHT,38.497847,43.343129,,,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q139433341,Satmanis Kalesi,SIGHT,38.473395,44.167637,,,CC0-1.0,0,,,kale_sur,kale
+Q131523735,Surp Khaç Manastırı,SIGHT,38.112270,42.774509,,,CC0-1.0,0,Monastery of Holy Cross,Moks Surp Ganants Manastırı,manastır_sinagog,manastır
+Q135582820,"Süleyman Bey Kümbeti, Gürpınar",SIGHT,38.314648,43.801174,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q131523733,Sırkh Surp Marinos Manastırı,SIGHT,38.345745,43.356602,,,CC0-1.0,0,Monastery of St Marina,Sırkhuvank Manastırı,manastır_sinagog,manastır
+Q139426612,Tebriz Kapısı (Van),SIGHT,38.500366,43.345919,,,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q139426598,Van Dış Surları,SIGHT,38.500951,43.346247,,,CC0-1.0,0,,,kale_sur,sur
+Q141237054,Van Gölü Deveboynu Yarımadası Millî Parkı,ACTIVITY,38.501944,42.859722,,Gevaş,CC0-1.0,0,Lake Van Deveboynu Peninsula National Park,,milli_park_tabiat,millî park (Türkiye)
+Q134960547,Van Kalesi Höyüğü,SIGHT,38.505744,43.334238,,,CC0-1.0,0,Van Castle Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139424755,Van İç Surları,SIGHT,38.497764,43.345639,,,CC0-1.0,0,,,kale_sur,sur
+Q132182784,Yoncatepe Yerleşimi,SIGHT,38.436401,43.450825,,,CC0-1.0,0,Yoncatepe,,arkeolojik_sit | anıt_heykel,höyük
+Q133236008,Yukarı Anzaf,SIGHT,38.559828,43.469660,,,CC0-1.0,0,,,kale_sur | arkeolojik_sit,kale | antik kent
+Q126915858,Zernek Kalesi,SIGHT,38.345661,43.628900,,,CC0-1.0,0,Zernek Castle,Hamurkesen Kalesi,kale_sur,kale | kale
+Q131902187,Zivistan Kalesi,SIGHT,38.398750,43.311130,,,CC0-1.0,0,Zivistan Castle,,kale_sur,kale
+Q135582830,"Zortul Kümbeti, Erciş",SIGHT,39.068097,43.288154,,,CC0-1.0,0,Zortul Kümbeti (Erciş),,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q134960927,Çelebibağı Höyüğü,SIGHT,38.975234,43.322163,,,CC0-1.0,0,Çelebibağı Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q131738888,Çifte Hamam,SIGHT,38.499516,43.341892,,,CC0-1.0,0,Çifte Baths (İpekyolu),Hüsrev Paşa Külliyesi Hamamı,han_hamam_çarşı,hamam
+Q139426588,İkinci İskele Kapısı,SIGHT,38.503823,43.331320,,,CC0-1.0,0,,Bâb-ı İskele-i Sânî,kale_sur,şehir kapısı
+Q135582816,"İkiz Kümbetler, Van",SIGHT,38.496963,43.340057,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
+Q131390521,Şeyh Abdurahman Gazi Türbesi,SIGHT,38.502233,43.344696,,,CC0-1.0,0,Tomb of Sheikh Abdurahman Gazi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

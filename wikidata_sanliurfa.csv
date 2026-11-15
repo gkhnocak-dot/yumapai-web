@@ -1,0 +1,134 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q1190403,Edessa,SIGHT,37.150000,38.782500,,,CC0-1.0,43,Edessa,,arkeolojik_sit,antik kent | arkeolojik sit | polis
+Q917838,Ceylanpınar,SIGHT,36.846111,40.048889,,,CC0-1.0,37,Ceylanpınar district,,,sınır kasabası | kasaba | ilçe
+Q187946,Karaca Dağ,SIGHT,37.711420,39.829040,,,CC0-1.0,21,Karaca Dağ,,,Kalkan volkan
+Q5996986,Karahantepe,SIGHT,37.091600,39.302700,,,CC0-1.0,21,Karahan Tepe,Karahan Tepe,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit
+Q4775050,Mezopotamya Antakyası,SIGHT,37.229021,39.755832,,,CC0-1.0,12,Antiochia in Mesopotamia,,arkeolojik_sit,antik kent
+Q1347916,Sultantepe Höyüğü,SIGHT,37.050278,38.906111,,,CC0-1.0,11,Sultantepe,,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit
+Q617520,Apameia,SIGHT,37.066667,37.883611,,,CC0-1.0,9,Apamea on the Euphrates,,arkeolojik_sit,Antik Yunan sit alanı | antik kent
+Q805908,Balıklıgöl,SIGHT,37.147778,38.784444,,,CC0-1.0,9,Balıklıgöl,Balıklıgöl ve Hz. İbrahim Makamı | Balıklı Göl | Aynzeliha Gölü | Halil-ür Rahman Gölü | Aynzeliha ve Halil-Ür Rahman Gölleri | Balıklı göl,göl | külliye_medrese_türbe | anıt_heykel | mezar,göl | türbe
+Q20472362,Tek Tek Dağları Millî Parkı,ACTIVITY,36.834050,39.279044,,,CC0-1.0,8,Tek Tek Mountains National Park,Tek Tek Dağları Milli Park | Tek Tek Dağ Milli Park,milli_park_tabiat,millî park (Türkiye)
+Q17017335,Nissibi Köprüsü,SIGHT,37.898889,38.974444,,Gerger,CC0-1.0,7,Nissibi Bridge,,köprü,Gergin eğik askılı köprü | karayol köprüsü
+Q28136210,Şanlıurfa Arkeoloji ve Mozaik Müzesi,SIGHT,37.153611,38.781667,,,CC0-1.0,7,Şanlıurfa Archaeology and Mosaic Museum,,müze,müze | arkeoloji müzesi
+Q98091640,Şanlıurfa Ulu Camii,SIGHT,37.151347,38.790132,,,CC0-1.0,7,Ulu Camii,Kızıl Mabet | Kızıl Kilise | St.Stephon Kilisesi,cami,cami
+Q14544632,Şanlıurfa Kalesi,SIGHT,37.145400,38.784000,,,CC0-1.0,6,Şanlıurfa Castle,Urfa Kalesi,kale_sur | arkeolojik_sit,rocca | arkeolojik sit
+Q637126,Şanlıurfa Müzesi,SIGHT,37.160556,38.788056,,,CC0-1.0,6,Şanlıurfa Archaeological Museum,,müze,arkeoloji müzesi | müze
+Q1117607,Gürcütepe,SIGHT,37.119865,38.845928,,,CC0-1.0,5,Gürcütepe,,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit
+Q1496350,Hacınebi Höyüğü,SIGHT,37.059638,37.975026,,Birecik,CC0-1.0,5,Hacınebi mound,,arkeolojik_sit | anıt_heykel,höyük
+Q109393443,Birecik Kalesi,SIGHT,37.031778,37.979389,,Birecik,CC0-1.0,4,Birecik Kalesi,,kale_sur,kale
+Q4916180,Birecik Köprüsü,SIGHT,37.026120,37.974260,,Birecik,CC0-1.0,4,Birecik Bridge,,köprü,köprü
+Q3660711,Haran,SIGHT,36.850000,39.216700,,,CC0-1.0,4,Carrhae,,arkeolojik_sit,arkeolojik sit | antik kent
+Q416103,Akarçay Tepe Höyük,SIGHT,36.919135,38.027694,,Birecik,CC0-1.0,3,Akarcay Tepe,Akarçay Höyük,arkeolojik_sit | anıt_heykel,arkeolojik sit | höyük
+Q132182828,Ayanlar,SIGHT,37.185310,38.560734,,,CC0-1.0,3,Ayanlar Höyük,Gre Hut | Ayanlar Höyük,arkeolojik_sit | anıt_heykel,höyük
+Q108784502,Harbetsuvan Tepesi,SIGHT,37.048700,39.252500,,,CC0-1.0,3,Harbetsuvan Tepesi,,arkeolojik_sit,arkeolojik sit
+Q6096515,Hassek Höyük,SIGHT,38.922778,37.748333,,,CC0-1.0,3,Hassek Höyük,,arkeolojik_sit,arkeolojik sit
+Q6097573,Kazane Höyük,SIGHT,37.119457,38.846851,,,CC0-1.0,3,Kazane Höyük,,arkeolojik_sit,insan yerleşimi | arkeolojik sit
+Q115679382,Sayburç Ören Yeri,SIGHT,37.111239,38.620698,,,CC0-1.0,3,Sayburç site,,arkeolojik_sit,arkeolojik sit
+Q118133735,Sefertepe,SIGHT,37.186432,39.489822,,,CC0-1.0,3,Sefer Tepe,Sefer Tepe,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit
+Q98091568,Birecik Ulu Camii,SIGHT,37.029500,37.977472,,Birecik,CC0-1.0,2,Great Mosque of Birecik,,cami,Ulu Cami
+Q1003208,Buk û Zava,ACTIVITY,37.423889,37.972778,,,CC0-1.0,2,Buk û Zava,,doğa,mağara
+Q55030033,Germuş Kilisesi,SIGHT,37.201520,38.850960,,,CC0-1.0,2,Germuş Church,Surp Asdvadzadzin Kilisesi,kilise,kilise | harabe
+Q109520896,Haleplibahçe Mozaik Müzesi,SIGHT,37.151020,38.782997,,,CC0-1.0,2,Haleplibahçe Mosaic Museum,,müze,müze
+Q109393616,Harran Kalesi,SIGHT,36.859611,39.035278,,Harran,CC0-1.0,2,Harran Castle,,kale_sur,kale
+Q1492821,Mezraa - Teleilat Höyüğü,SIGHT,36.977500,37.986253,,Birecik,CC0-1.0,2,Mezraa-Teleilat,,arkeolojik_sit,arkeolojik sit
+Q6100053,Titriş Höyük,SIGHT,37.476301,38.677288,,,CC0-1.0,2,Titriş Höyük,,arkeolojik_sit | anıt_heykel,arkeolojik sit | höyük
+Q119166486,Çakmaktepe,SIGHT,37.086342,38.630180,,,CC0-1.0,2,Çakmaktepe,,arkeolojik_sit | anıt_heykel,höyük
+Q132682091,Şanlıurfa Geleneksel El Sanatları Müzesi,SIGHT,37.148487,38.783691,,,CC0-1.0,2,Şanlıurfa Museum of Traditional Handicrafts,Şanlıurfa Geleneksel El Sanatları Eğitim ve Araştırma Merkezi,müze,müze
+Q21528431,Şanlıurfa Saat Kulesi,SIGHT,37.151306,38.790194,,,CC0-1.0,2,Şanlıurfa Watch Tower,,kule | kule_saat,saat kulesi
+Q135035017,"Alaburç Mescidi, Birecik",SIGHT,37.026764,37.976795,,Birecik,CC0-1.0,1,Alaburç Mescidi (Birecik),,kale_sur,sur | tarihî bina
+Q49319071,Beşmağralar,ACTIVITY,36.992500,39.641111,,,CC0-1.0,1,Beşmağralar,,doğa,mağara
+Q6102818,Gre Virike Höyüğü,SIGHT,36.922745,38.015400,,,CC0-1.0,1,,,arkeolojik_sit,arkeolojik sit
+Q132752923,"Han-el Barur Kervansarayı, Harran",SIGHT,36.825386,39.290173,,Harran,CC0-1.0,1,,,han_hamam_çarşı,kervansaray
+Q119167492,Kurttepesi,SIGHT,37.234856,39.241390,,,CC0-1.0,1,Kurttepesi,,arkeolojik_sit | anıt_heykel,höyük
+Q49319525,Mahbura Mağarası,ACTIVITY,36.964167,39.228889,,,CC0-1.0,1,Mahbura Cave,,doğa,mağara
+Q6099159,Mezraa Höyük,SIGHT,36.970438,37.997709,,Birecik,CC0-1.0,1,Mezraa Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q49319638,Oyma Mağara,ACTIVITY,36.838889,39.227222,,,CC0-1.0,1,Oyma Cave,,doğa,mağara
+Q119167992,Taşlıtepe,SIGHT,37.368895,39.280457,,,CC0-1.0,1,Taşlıtepe,Taşlı Tepe,arkeolojik_sit | anıt_heykel,höyük
+Q6094088,Tiladir Tepe Höyüğü,SIGHT,36.865442,38.037965,,Birecik,CC0-1.0,1,Tiladir Tepe,,arkeolojik_sit | anıt_heykel,höyük
+Q6096768,Zeytinlibahçe Höyüğü,SIGHT,36.995607,37.977790,,Birecik,CC0-1.0,1,Zeytinlibahçe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q131739205,Abdal Ağa Hamamı,SIGHT,37.754246,39.317722,,,CC0-1.0,0,Abdal Ağa Baths,,han_hamam_çarşı,hamam
+Q131390485,Abdulkadir Erbili Türbesi,SIGHT,37.149949,38.793245,,,CC0-1.0,0,Abdulkadir Erbili Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960913,Akarçay Höyük,SIGHT,36.917330,38.017239,,Birecik,CC0-1.0,0,Akarçay Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q131738901,Arasa Hamamı,SIGHT,37.149162,38.789066,,,CC0-1.0,0,Arasa Baths,,han_hamam_çarşı,hamam
+Q132182772,Aşağı Beğdeş Höyüğü,SIGHT,36.814678,38.920208,,,CC0-1.0,0,Aşağı Beğdeş Höyüğü,Aşağı Telfidan Höyüğü,arkeolojik_sit | anıt_heykel,höyük
+Q132182773,Aşağıderen Höyüğü,SIGHT,36.765892,39.021198,,,CC0-1.0,0,Aşağıderen Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960830,Bahçe Höyük,SIGHT,36.999230,37.965185,,Birecik,CC0-1.0,0,Bahçe Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q131390945,Baltacı Baba Türbesi,SIGHT,37.156895,38.785834,,,CC0-1.0,0,Tomb of Baltacı Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752756,"Barutçu Hanı, Şanlıurfa",SIGHT,37.147575,38.789345,,,CC0-1.0,0,Barutçu Hanı (Şanlıurfa),Urfa Barutçu Hanı | Yahudi Hanı,han_hamam_çarşı,kervansaray
+Q134960610,Bellitaş Höyüğü,SIGHT,36.916702,39.124865,,Harran,CC0-1.0,0,Bellitaş Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132752694,"Bican Ağa Hanı, Şanlıurfa",SIGHT,37.157429,38.790608,,,CC0-1.0,0,Bican Ağa Hanı (Şanlıurfa),,han_hamam_çarşı,kervansaray
+Q134960614,Büyücek Höyüğü,SIGHT,36.782403,38.991288,,,CC0-1.0,0,Büyücek Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139420218,Cerrah Baba Türbesi,SIGHT,37.761165,39.314827,,Siverek (ilçe),CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752688,Cudi Paşa Hanı,SIGHT,37.750317,39.319199,,,CC0-1.0,0,Cudi Paşa Hanı,,han_hamam_çarşı,kervansaray
+Q131738902,Cıncıklı Hamam,SIGHT,37.146645,38.792499,,,CC0-1.0,0,Cıncıklı Baths,,han_hamam_çarşı,hamam
+Q131391807,Deh Kubbe Türbesi,SIGHT,37.035522,37.967377,,Birecik,CC0-1.0,0,Deh Dome Tomb,Deh Kubbe,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131523706,Deyr Yakup Manastırı,SIGHT,37.121330,38.774834,,,CC0-1.0,0,Monastery of Deyr Yakup,Nemrut'un Tahtı | Cin Değirmeni,manastır_sinagog,manastır
+Q134960909,Değirmen Höyük,SIGHT,36.870917,38.049083,,Birecik,CC0-1.0,0,Değirmen Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q131390947,Eyyup Nebi Türbesi,SIGHT,37.132737,38.796781,,,CC0-1.0,0,Tomb of Eyyup Nebi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139420251,Eyüp Peygamber Türbesi,SIGHT,37.359762,39.642220,,Viranşehir,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960657,Eyüpnebi Höyüğü,SIGHT,37.361087,39.643233,,,CC0-1.0,0,Eyüpnebi Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132134484,Fırfırlı Camii,SIGHT,37.152630,38.786060,,,CC0-1.0,0,Fırfırlı Mosque,Fırfırlı Kilise | İyad bin Ganem Camii | On İki Havari Kilisesi,kilise | cami | manastır_sinagog,cami | kilise | manastır
+Q134960652,Günebakan Höyüğü,SIGHT,36.925581,38.302922,,,CC0-1.0,0,Günebakan Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132752755,Hacı Kamil Hanı,SIGHT,37.148403,38.789967,,,CC0-1.0,0,Hacı Kamil Hanı,,han_hamam_çarşı,kervansaray
+Q134960980,Hamzan Tepe,SIGHT,37.082775,38.801498,,,CC0-1.0,0,Hamzan Hill,,arkeolojik_sit | anıt_heykel,höyük
+Q139431593,Harran Kapı (Şanlıurfa),SIGHT,37.144253,38.792923,,,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q64735024,Harran and Şanlıurfa,SIGHT,36.877500,39.033889,,,CC0-1.0,0,Harran and Şanlıurfa,,,yapı veya bina grubu
+Q131739212,Hasan Baba Hamamı,SIGHT,37.030834,37.978878,,Birecik,CC0-1.0,0,Hasan Baba Baths,,han_hamam_çarşı,hamam
+Q134960719,Karakeçi Höyüğü,SIGHT,37.452623,39.436870,,,CC0-1.0,0,Karakeçi Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960490,Kazokhüyüğü,SIGHT,36.821904,39.783463,,Ceylanpınar,CC0-1.0,0,Kazokhüyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960805,Korukezen,SIGHT,37.288147,38.722526,,,CC0-1.0,0,Korukezen,,arkeolojik_sit | anıt_heykel,höyük
+Q139420223,Koçali Baba Türbesi,SIGHT,37.755901,39.319747,,Siverek (ilçe),CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960577,Küpeli Höyüğü,SIGHT,36.957530,39.102775,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q134960587,Küplüce Höyüğü,SIGHT,36.813991,39.023809,,Harran,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q139430546,Küçük Kösecik Köyü Tuzak Alanı,SIGHT,37.240826,39.264187,,,CC0-1.0,0,,,arkeolojik_sit,tuzak alanı
+Q134960562,Kısakuyu Höyüğü,SIGHT,37.121798,38.221666,,Birecik,CC0-1.0,0,Kısakuyu Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139436336,Kızılkoyun Nekropolü,SIGHT,37.151061,38.784168,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q131739207,Mahmut Paşa Hamamı,SIGHT,37.028999,37.980175,,Birecik,CC0-1.0,0,Baths of Mahmut Paşa,,han_hamam_çarşı,hamam
+Q139421317,Mahmutoğlu Kulesi,SIGHT,37.151295,38.797426,,,CC0-1.0,0,,,kale_sur | kule,savunma kulesi
+Q139431939,Maximianopolis,SIGHT,37.229485,39.760143,,Viranşehir,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q132752752,"Mencek Hanı, Şanlıurfa",SIGHT,37.148132,38.789375,,,CC0-1.0,0,Mencek Hanı (Şanlıurfa),Mencek Hanı | Mençek Hanı,han_hamam_çarşı,kervansaray
+Q139431877,Mevlid-i Halilülrahman Mağarası,ACTIVITY,37.146656,38.786621,,,CC0-1.0,0,,,doğa,mağara
+Q134960612,Meydankapı Höyüğü,SIGHT,36.784923,39.157849,,Harran,CC0-1.0,0,Meydankapı Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132752695,"Millet Hanı, Şanlıurfa",SIGHT,37.157333,38.789314,,,CC0-1.0,0,Millet Hanı (Şanlıurfa),,han_hamam_çarşı,kervansaray
+Q132682090,"Mutfak Müzesi, Şanlıurfa",SIGHT,37.150738,38.789568,,,CC0-1.0,0,,,müze,müze
+Q132134534,"Peygamber Camii, Şanlıurfa",SIGHT,37.158474,38.794506,,,CC0-1.0,0,Peygamber Mosque (Şanlıurfa),Circis Peygamber Camii | Sirkis Camii,kilise | cami | manastır_sinagog,cami | kilise | manastır
+Q131739025,Roma Hamamı,SIGHT,37.149857,38.782711,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132752697,Samsat Hanı,SIGHT,37.155586,38.788158,,,CC0-1.0,0,Samsat Hanı,Samsat Kapı Hanı | Samsat Kapısı Hanı | Samsat Han,han_hamam_çarşı,kervansaray
+Q134960911,Savi Höyük,SIGHT,36.941726,38.010534,,Birecik,CC0-1.0,0,Savi Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q134960578,Seksenören Höyüğü,SIGHT,36.973819,39.074385,,,CC0-1.0,0,Seksenören Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132134485,Selahaddin Eyyûbi Camii,SIGHT,37.149483,38.785664,,,CC0-1.0,0,Selahaddin Eyyubi Mosque,Aziz Johannes Prodromos Addai Kilisesi,kilise | cami | manastır_sinagog,cami | kilise | manastır
+Q131739180,Serçe Hamamı,SIGHT,37.155239,38.788536,,,CC0-1.0,0,Serçe Baths,,han_hamam_çarşı,hamam
+Q131901891,Siverek Kalesi,SIGHT,37.754998,39.316657,,,CC0-1.0,0,Siverek Castle,Siverek Höyüğü,kale_sur,kale
+Q134960290,Soğmatar,SIGHT,36.996082,39.339462,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131390701,Sultan Baba Türbesi,SIGHT,37.146185,38.788432,,,CC0-1.0,0,Tomb of Sultan Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131739179,Sultan Hamamı,SIGHT,37.147255,38.788803,,,CC0-1.0,0,Sultan Baths (Eyyübiye),,han_hamam_çarşı,hamam
+Q134960588,Sütlüce Höyüğü,SIGHT,36.824996,38.973133,,Harran,CC0-1.0,0,Sütlüce Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960561,Taşlıhöyük,SIGHT,37.056070,38.200545,,,CC0-1.0,0,Taşlıhöyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960660,Tepeyolu Höyüğü,SIGHT,37.230106,39.891127,,,CC0-1.0,0,Tepeyolu Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960806,Tilantar Höyüğü,SIGHT,36.917732,38.497485,,,CC0-1.0,0,Tilantar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960804,Tilmen Höyüğü,SIGHT,37.295018,38.658963,,,CC0-1.0,0,Tilmen Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132752696,Topçu Hanı,SIGHT,37.160469,38.789753,,,CC0-1.0,0,The Topçu Hanı,,han_hamam_çarşı,kervansaray
+Q134960710,Turluk Höyük,SIGHT,37.003292,38.942805,,,CC0-1.0,0,Turluk Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960658,Tılgoran Höyüğü,SIGHT,37.310755,39.656966,,,CC0-1.0,0,Tılgoran Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139431276,Urfa Kapı (Birecik),SIGHT,37.029026,37.980553,,Birecik,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q134960590,Uzunyol Höyüğü,SIGHT,36.806617,38.984594,,Harran,CC0-1.0,0,Uzunyol Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q131738449,Velibey Hamamı,SIGHT,37.147952,38.790691,,,CC0-1.0,0,Velibey Baths,,han_hamam_çarşı,hamam
+Q131738450,Vezir Hamamı,SIGHT,37.155054,38.791314,,,CC0-1.0,0,Vezir Baths,,han_hamam_çarşı,hamam
+Q134960784,Yatırtepe Höyük,SIGHT,36.971469,38.379207,,,CC0-1.0,0,Yatırtepe Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960579,Yaylak Höyüğü,SIGHT,37.383764,38.338353,,,CC0-1.0,0,Yaylak Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132182830,Yenimahalle,SIGHT,37.148716,38.784996,,,CC0-1.0,0,Yenimahalle,,arkeolojik_sit | anıt_heykel,höyük
+Q132182829,Yoğunburç,SIGHT,37.144791,38.619019,,,CC0-1.0,0,Yoğunburç,,arkeolojik_sit | anıt_heykel,höyük
+Q134960664,Yukarıbeğdeş Höyük,SIGHT,36.847508,38.904608,,,CC0-1.0,0,Yukarıbeğdeş Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960895,Yuvacalı Höyüğü,SIGHT,37.556024,39.014500,,Hilvan,CC0-1.0,0,Yuvacalı Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q132752953,Çermelik Köyü Hanı,SIGHT,37.117348,38.397732,,,CC0-1.0,0,Çermelik Köyü Hanı,Bozova Büyükhan | Çarmelik Kervansarayı | Çarmelik Köyü Hanı | Büyükhan Köyü Hanı,han_hamam_çarşı,kervansaray
+Q131902107,Çimdin Kale,SIGHT,37.162602,39.470486,,,CC0-1.0,0,Çimdin Kale,Çemdin Kalesi | Eski Kale,kale_sur,kale
+Q132682092,İbrahim Tatlıses Müzik Müzesi,SIGHT,37.144137,38.786473,,,CC0-1.0,0,,,müze,müze
+Q139420247,İlyas Peygamber Türbesi,SIGHT,37.358493,39.637807,,Viranşehir,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738944,Şaban Hamamı,SIGHT,37.147404,38.790054,,,CC0-1.0,0,Şaban Baths,,han_hamam_çarşı,hamam
+Q132752751,"Şaban Hanı, Şanlıurfa",SIGHT,37.147465,38.790451,,,CC0-1.0,0,Şaban Hanı (Şanlıurfa),,han_hamam_çarşı,kervansaray
+Q139431605,Şanlıurfa Bedesteni,SIGHT,37.148411,38.789440,,,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q139435567,Şanlıurfa Kale Eteği Nekropolü,SIGHT,37.145992,38.780613,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q132682088,Şanlıurfa Kurtuluş Müzesi,SIGHT,37.157948,38.788098,,,CC0-1.0,0,,,müze,müze
+Q131390946,Şeyh Hasan Baba Türbesi,SIGHT,37.029045,37.985718,,Birecik,CC0-1.0,0,Tomb of Sheikh Hasan Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139420214,Şeyh Hayati Harrani Türbesi,SIGHT,36.866170,39.024793,,Harran,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390484,Şeyh Mesud Türbesi,SIGHT,37.139953,38.782956,,,CC0-1.0,0,Sheikh Mesud Tomb,Şıh Maksut Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe

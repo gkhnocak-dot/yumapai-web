@@ -1,0 +1,76 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q28221100,Ordu Etnografya Müzesi,SIGHT,40.982778,37.875278,,,CC0-1.0,5,Ordu Ethnographical Museum,,müze,müze | Etnografya müzesi
+Q4938906,Bolaman Kalesi,SIGHT,41.036700,37.591100,,,CC0-1.0,4,Bolaman Castle,Hazinedaroğlu Konağı,kale_sur | müze,kale | Etnografya müzesi
+Q6003558,Ohtamış Şelalesi,ACTIVITY,40.811440,37.661690,,,CC0-1.0,4,Ohtamış Waterfall,,doğa,şelale
+Q65048849,Boon (Pontus),SIGHT,41.057078,37.776559,,,CC0-1.0,3,Boon,,arkeolojik_sit,antik kent
+Q65070153,Heracleium,SIGHT,41.245644,37.025822,,,CC0-1.0,3,Heracleium,,arkeolojik_sit,antik kent
+Q17635213,Jasonia (Pontus),SIGHT,41.136111,37.682778,,,CC0-1.0,3,Jasonia (Pontus),,arkeolojik_sit,polis | antik kent
+Q85741828,Anniaca,SIGHT,40.312587,37.852520,,,CC0-1.0,2,Anniaca,,arkeolojik_sit,antik kent
+Q127643024,Eskipazar Camii,SIGHT,40.945286,37.892139,,,CC0-1.0,2,Eskipazar Mosque,,cami,cami
+Q6043333,Gaga Gölü,ACTIVITY,40.972760,37.503680,,,CC0-1.0,2,Lake Gaga,,göl,göl
+Q133236672,Gençağa Kalesi,SIGHT,41.080677,37.082886,,,CC0-1.0,2,Gençağa Castle,,kale_sur,kale
+Q116733809,Hazinedaroğlu Konağı,SIGHT,41.035750,37.591528,,,CC0-1.0,2,"Hazinedaroğlu Mansion, Fatsa",Şerefnur Hanım Konağı | Hazinedarzâde Konağı | Kademoğlu Konağı,ev_konak,konak | tarihî bina
+Q20949599,Kevgürk Kalesi,SIGHT,40.784083,36.848389,,,CC0-1.0,2,Kevgürk Castle,Kevgürk Kalesi,kale_sur | arkeolojik_sit,kale | arkeolojik sit
+Q118869245,Saray Camii,SIGHT,41.131361,37.285611,,Ünye,CC0-1.0,2,Saray Mosque,,cami,cami
+Q25474761,Taşbaşı Kilisesi,SIGHT,40.991861,37.875444,,,CC0-1.0,2,Taşbaşı Church,Hypapante Rum Ortodoks Kilisesi | Kotyora Hypapante Rum Ortodoks Kilisesi,kilise,Eastern Orthodox church building | cezaevi | kültür merkezi
+Q118869476,Yason Kilisesi,SIGHT,41.133806,37.682389,,,CC0-1.0,2,Jason Church,,kilise,kilise
+Q65048836,Ameletos,SIGHT,41.105749,37.386266,,,CC0-1.0,1,Ameletos,,arkeolojik_sit,antik kent
+Q65048848,Genetes,SIGHT,41.017000,37.830200,,,CC0-1.0,1,Genetes,,arkeolojik_sit,antik kent
+Q19611352,Gölköy Kalesi,SIGHT,40.690806,37.588500,,,CC0-1.0,1,Gölköy Castle,Habsamana Kalesi,kale_sur,kale
+Q131901947,Mesudiye Kalesi,SIGHT,40.495999,37.745612,,,CC0-1.0,1,Kaleköy Castle,Kaleköy Kalesi,kale_sur,kale
+Q128996554,Polemonium,SIGHT,41.026600,37.494000,,,CC0-1.0,1,Polemonium,Polemonion,arkeolojik_sit,antik kent
+Q118780429,Saray Hamamı,SIGHT,41.132778,37.285222,,Ünye,CC0-1.0,1,Saray Baths,,han_hamam_çarşı,hamam
+Q85799801,Saurania,SIGHT,40.697917,37.599820,,,CC0-1.0,1,Saurania,,arkeolojik_sit,antik kent
+Q111880129,Stameneia,SIGHT,41.112778,37.704167,,,CC0-1.0,1,Stameneia,,arkeolojik_sit,polis | antik kent
+Q118780469,Süleyman Paşa Sarayı,SIGHT,41.131833,37.285861,,Ünye,CC0-1.0,1,,Hazinedarzade Konağı,ev_konak | saray_köşk,saray
+Q118188056,Çarşı Hamamı (Ünye),SIGHT,41.130278,37.285917,,Ünye,CC0-1.0,1,Ünye Çarşı Baths,Çarşı Hamamı | Kilise Hamamı,han_hamam_çarşı,hamam
+Q118151562,Ünye Kalesi,SIGHT,41.097194,37.240028,,Ünye,CC0-1.0,1,Unye Castle,,kale_sur,kale
+Q118946559,Ünye Kalesi Kaya Mezarı,SIGHT,41.096500,37.239583,,Ünye,CC0-1.0,1,,,mezar | anıt_heykel | arkeolojik_sit,kaya mezarı
+Q139431465,Antik Polemonion Kenti Nekropolü (Fatsa),SIGHT,41.024155,37.521595,,Fatsa,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q139436006,Başköy Gözetleme Kulesi,SIGHT,41.048966,37.444668,,Fatsa,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
+Q118151456,"Bolaman Kalesi, Fatsa",SIGHT,41.035750,37.591528,,Fatsa,CC0-1.0,0,Bolaman Castle,Aya Kalesi | Haznedaroğlu Konağı,kale_sur,kale
+Q131738710,Büyük Hamam,SIGHT,40.944874,37.892590,,,CC0-1.0,0,Büyük Hamam (Altınordu),,han_hamam_çarşı,hamam
+Q131902073,"Cıngırt Kayası Kalesi, Fatsa",SIGHT,41.066116,37.444721,,,CC0-1.0,0,,,kale_sur,kale
+Q131738726,Düz Mahallesi Hamamı,SIGHT,40.986466,37.877850,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q134728231,Emir Kümbet Türbesi,SIGHT,40.634975,37.281353,,,CC0-1.0,0,Emir Kümbet Türbesi,,anıt_heykel | külliye_medrese_türbe | mezar,anıt mezar | kümbet | türbe
+Q131902074,Göller Köyü Kalesi,SIGHT,40.901440,37.448071,,Çatalpınar,CC0-1.0,0,,,kale_sur,kale
+Q131902121,Hoynat Kalesi,SIGHT,41.117832,37.728882,,,CC0-1.0,0,Hoynat Castle,,kale_sur,kale
+Q131902142,Kaleönü Kalesi,SIGHT,41.009102,37.467293,,,CC0-1.0,0,Kaleönü Castle,Arap Kalesi,kale_sur,kale
+Q134728220,"Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu",SIGHT,40.899988,37.847003,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728221,"Kaya Mezarı 1 (Günören Mahallesi), Altınordu",SIGHT,40.926884,37.722789,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q139431897,Kaya Mezarı 1 (Kabadüz),SIGHT,40.814732,37.924313,,Kabadüz,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q134728219,Kaya Mezarı 1 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.780319,37.653167,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728210,"Kaya Mezarı 1 (Zafer Mahallesi), Altınordu",SIGHT,40.897451,37.960585,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728202,Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776412,37.664261,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728212,"Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu",SIGHT,40.902316,37.848187,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728214,"Kaya Mezarı 2 (Günören Mahallesi), Altınordu",SIGHT,40.926720,37.722754,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q139431896,Kaya Mezarı 2 (Kabadüz),SIGHT,40.815094,37.924522,,Kabadüz,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q134728203,Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.780387,37.653485,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728215,"Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu",SIGHT,40.901166,37.848975,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728216,"Kaya Mezarı 3 (Günören Mahallesi), Altınordu",SIGHT,40.926571,37.721821,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728204,Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.780355,37.653460,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728217,"Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu",SIGHT,40.898656,37.847111,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728205,Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776416,37.664051,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728218,"Kaya Mezarı 5 (Delikkaya Mahallesi), Altınordu",SIGHT,40.899613,37.846912,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728206,Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776399,37.664022,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728207,Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776388,37.664177,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728208,Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776394,37.664219,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728209,Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776393,37.664227,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728211,Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe,SIGHT,40.776403,37.664245,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q134728213,"Kayalık Tepe Kaya Mezarı, Kumru",SIGHT,40.835854,37.278920,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q132752698,"Kefeli Han, Ünye",SIGHT,41.128532,37.286304,,Ünye,CC0-1.0,0,Kefeli Han (Ünye),,han_hamam_çarşı,kervansaray
+Q131902112,Kotyora,SIGHT,41.014992,37.865414,,,CC0-1.0,0,,Cotyora | Bozukkale,arkeolojik_sit,antik kent
+Q133236776,"Kurul Kalesi, Ordu",SIGHT,40.903118,37.917156,,,CC0-1.0,0,Kurul Castle (Ordu),,kale_sur,kale
+Q131391326,Kutlu Doğmuş Türbesi,SIGHT,40.674153,37.422304,,,CC0-1.0,0,Kutlu Doğmuş Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738727,Küçük Hamam,SIGHT,40.946244,37.892832,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131902086,Melatıos Kalesi,SIGHT,40.412697,37.827931,,,CC0-1.0,0,,,kale_sur,kale
+Q131391325,Melik Mehemmed Gazi Türbesi,SIGHT,40.826897,37.149896,,,CC0-1.0,0,Melik Mehemmed Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132681994,Paşaoğlu Konağı ve Etnografya Müzesi,SIGHT,40.982889,37.875168,,,CC0-1.0,0,,,müze,müze
+Q134728402,Samur Tümülüsü Kumru,SIGHT,40.875454,37.256181,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
+Q133245852,"Saray Hamamı, Ordu",SIGHT,40.984064,37.875921,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131738728,Sefalık Hamamı,SIGHT,40.681225,37.422090,,,CC0-1.0,0,Sefalık Baths,,han_hamam_çarşı,hamam
+Q139433371,Sülükgölü Manastırı Harabeleri,SIGHT,41.024216,37.520584,,Fatsa,CC0-1.0,0,,,manastır_sinagog,manastır
+Q139419474,Tozkoparan Kaya Mezarları (Ünye),SIGHT,41.099852,37.321903,,Ünye,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q131391328,Yunus Emre Türbesi,SIGHT,41.119416,37.243598,,Ünye,CC0-1.0,0,Yunus Emre Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738713,Çifte Hamam,SIGHT,41.129417,37.285839,,Ünye,CC0-1.0,0,Çifte Baths (Ünye),,han_hamam_çarşı,hamam
+Q131391327,Şeyh Hasan Türbesi,SIGHT,40.702332,37.444160,,,CC0-1.0,0,Tomb of Sheikh Hasan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

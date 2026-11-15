@@ -1,0 +1,84 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q8071903,Zilkale,SIGHT,40.959250,40.962980,,,CC0-1.0,12,Zilkale,Zil Kale | Zil Kalesi | Zilkalesi,kale_sur,tahkimat
+Q60788217,Ardeşen Kilisesi,SIGHT,41.195833,41.001528,,,CC0-1.0,5,Ardashen Church,,kilise,kilise
+Q28221174,Rize Atatürk Evi Müzesi,SIGHT,41.023391,40.534171,,,CC0-1.0,5,Rize Atatürk Museum,,müze,müze
+Q6008234,Rize Kalesi,SIGHT,41.027560,40.510180,,,CC0-1.0,4,Rize Castle,,kale_sur,kale
+Q60289439,Atina (Pontus),SIGHT,41.181110,40.888890,,,CC0-1.0,3,Athenae (Pontus),,arkeolojik_sit,antik kent
+Q17622745,Bekheirias,SIGHT,41.020833,40.521944,,,CC0-1.0,3,Bekheirias,,arkeolojik_sit,koloni | antik kent | polis
+Q61076505,Ciha Kalesi,SIGHT,41.104199,40.900421,,,CC0-1.0,3,Fortress of Jikha,,kale_sur,hisar
+Q21541477,Kaçkar Dağları Millî Parkı,ACTIVITY,40.861153,41.101122,,,CC0-1.0,3,Kaçkar Mountains National Park,,milli_park_tabiat,millî park (Türkiye)
+Q110944940,Çat Köprüsü,SIGHT,40.863251,40.950279,,,CC0-1.0,3,Çat Bridge,Çilanç Köprüsü | Çilent Köprüsü,köprü,köprü
+Q85968057,Apivanak Köprüsü,SIGHT,40.839191,41.098656,,,CC0-1.0,2,Apivanak Bridge,,köprü,köprü
+Q85968196,Aslandere Köprüsü,SIGHT,41.250943,41.249035,,,CC0-1.0,2,Aslandere bridge,,köprü,köprü
+Q61076476,Ağaran Şelalesi,ACTIVITY,41.044990,40.808790,,,CC0-1.0,2,Ağaran Waterfall,,doğa,şelale
+Q110892017,Bozukkale (Rize),SIGHT,41.058800,40.630035,,,CC0-1.0,2,Bozukkale (Rize),,kale_sur,kale
+Q61076470,Bulut Şelalesi,ACTIVITY,40.996000,41.079140,,,CC0-1.0,2,Tar Deresi Bulut Waterfall,,milli_park_tabiat | doğa,şelale | tabiat anıtı (Türkiye)
+Q110887468,Erenler Köprüsü,SIGHT,41.090521,40.831118,,,CC0-1.0,2,Erenler bridge,,köprü,köprü
+Q111088411,Eskipazar Kalesi,SIGHT,40.971000,40.312333,,,CC0-1.0,2,Eskipazar Castle,,kale_sur,kale
+Q61076474,Gelintülü Şelalesi,ACTIVITY,40.950100,41.110650,,,CC0-1.0,2,Gelintülü Waterfall,,doğa,şelale
+Q131402699,Güroluk Kale Köprüsü,SIGHT,41.020950,41.049600,,,CC0-1.0,2,Güroluk Kale Bridge,Hala Köprüsü | Kale Köprüsü,köprü,köprü
+Q131402697,Kale Köyü Köprüsü,SIGHT,40.795300,40.960800,,,CC0-1.0,2,Kale Village Bridge,Hisarcık Köprüsü | Kaleköy Köprüsü,köprü,köprü
+Q6054945,Kale-i Bala,SIGHT,40.813564,40.943783,,,CC0-1.0,2,Kale-i Bala,Kale-i Bala,kale_sur,kale
+Q85971967,Kavak Köprüsü,SIGHT,41.044477,41.011219,,,CC0-1.0,2,Kavak Bridge,,köprü,köprü
+Q85972764,Makrevis Köprüsü,SIGHT,41.033498,41.007953,,,CC0-1.0,2,Makrevis Bridge,Konaklar Köprüsü,köprü,köprü
+Q61076484,Maselevat Şelalesi,ACTIVITY,41.046020,41.004690,,,CC0-1.0,2,Maselevat Falls,,doğa,şelale
+Q61076450,Mikron Köprüsü,SIGHT,41.045650,41.025230,,,CC0-1.0,2,Mikron Bridge,,köprü,köprü
+Q17623793,Odeinios,SIGHT,41.175000,40.603889,,,CC0-1.0,2,Odeinios,,arkeolojik_sit,antik kent
+Q132735503,"Ortan Köprüsü, Çamlıhemşin",SIGHT,41.071275,41.013066,,,CC0-1.0,2,Ortan Bridge (Çamlıhemşin),Ortan Köprüsü,köprü,köprü | tarihî bina
+Q61076472,Palovit Şelalesi,ACTIVITY,40.941440,40.993190,,,CC0-1.0,2,Palovit Waterfall,,doğa,şelale
+Q61076441,Rize Müzesi,SIGHT,41.024427,40.515874,,,CC0-1.0,2,Rize Museum,,müze,müze
+Q85975127,Suçatı 1 Köprüsü,SIGHT,41.100412,40.895355,,,CC0-1.0,2,Suçatı 1 bridge,Apso Köprüsü,köprü,köprü
+Q85975131,Suçatı 2 Köprüsü,SIGHT,41.097489,40.894890,,,CC0-1.0,2,Suçatı 2 bridge,Apso Köprüsü,köprü,köprü
+Q61076451,Timisvat Köprüsü,SIGHT,41.123376,41.040046,,,CC0-1.0,2,Timisvat bridge,Köprüköy Köprüsü | Timisvat Köprüsü,köprü,köprü
+Q111133741,Tordovat Kalesi,SIGHT,41.170665,40.835851,,Pazar (Rize),CC0-1.0,2,Tordovat Castle,Kalecik Kalesi,kale_sur,kale
+Q108228405,Tunca Vadisi Tabiat Parkı,ACTIVITY,41.067233,41.277361,,,CC0-1.0,2,Tunca Valley Nature Park,,milli_park_tabiat,vadi | tabiat parkı (Türkiye)
+Q110887372,Yücehisar Köprüsü,SIGHT,41.117349,40.901882,,,CC0-1.0,2,Yücehisar bridge,Lamgo Köprüsü,köprü,köprü
+Q61076461,Çağlayan Köprüsü,SIGHT,41.256547,41.230885,,,CC0-1.0,2,Çağlayan bridge,,köprü,köprü
+Q110975606,Örenkit Köprüsü,SIGHT,41.061915,41.007671,,,CC0-1.0,2,Örenkit bridge,Kadıköy Köprüsü | Özenkit Köprüsü,köprü,köprü
+Q110955105,Şenköy Köprüsü,SIGHT,40.941381,40.968054,,,CC0-1.0,2,Şenköy Bridge,Amukta Köprüsü,köprü,köprü
+Q61076454,Şenyuva Köprüsü,SIGHT,40.997491,40.975024,,,CC0-1.0,2,Şenyuva Bridge,Çinçiva Köprüsü,köprü,taş kemerli köprü
+Q66712105,Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi,SIGHT,41.082865,40.719604,,,CC0-1.0,1,Çayeli Natural Life Museum,Çayeli Doğal Yaşam Müzesi,müze,müze
+Q97320201,Akyamaç Şelalesi,ACTIVITY,41.044371,40.909282,,,CC0-1.0,1,Akyamaç Falls,,doğa,şelale
+Q61076482,Akırger Şelalesi,ACTIVITY,40.744900,40.703280,,,CC0-1.0,1,Akırger Falls,,doğa,şelale
+Q97207090,Alişor Şelaleleri,ACTIVITY,40.861783,40.557667,,,CC0-1.0,1,Alişor Falls,,doğa,şelale
+Q97320206,Askoroz Şelalesi,ACTIVITY,40.867970,40.584020,,,CC0-1.0,1,Askoroz Falls,,doğa,şelale
+Q130366756,Ayder Şelalesi,ACTIVITY,40.955760,41.125640,,,CC0-1.0,1,Ayder Falls,,doğa,şelale
+Q97320208,Ağlayansu Şelalesi,ACTIVITY,40.957388,41.137847,,,CC0-1.0,1,Ağlayansu Falls,,doğa,şelale
+Q97320209,Bebedes Şelalesi,ACTIVITY,40.941183,41.077517,,,CC0-1.0,1,Bebedes Falls,,doğa,şelale
+Q97211185,Beyazgöz Şelalesi,ACTIVITY,41.100783,41.042433,,,CC0-1.0,1,Beyazgöz Falls,,doğa,şelale
+Q97207625,Değirmendere Şelalesi,ACTIVITY,40.892317,40.577933,,,CC0-1.0,1,Değirmendere Falls,,doğa,şelale
+Q61076497,Eskitoğlu Şelalesi,ACTIVITY,41.016700,40.416000,,,CC0-1.0,1,Eskitoğlu Falls,,doğa,şelale
+Q97320213,Eğvane Şelalesi,ACTIVITY,40.781500,40.648650,,,CC0-1.0,1,Eğvane Falls,,doğa,şelale
+Q112748145,Faso Şelalesi,ACTIVITY,40.783680,40.607440,,,CC0-1.0,1,Faso Falls,,doğa,şelale
+Q97211591,Gürcüdüzü Şelalesi,ACTIVITY,41.188000,41.311000,,,CC0-1.0,1,Gürcüdüzü Falls,,doğa,şelale
+Q97207856,Gürdere Şelalesi,ACTIVITY,40.806683,40.554050,,,CC0-1.0,1,Gürdere Falls,,doğa,şelale
+Q97320217,Gürgendibi Şelalesi,ACTIVITY,40.968083,41.079683,,,CC0-1.0,1,Gürgendibi Falls,,doğa,şelale
+Q97320220,Hacızeni Şelalesi,ACTIVITY,40.959017,41.145367,,,CC0-1.0,1,Hacızeni Falls,,doğa,şelale
+Q131391329,Hasan Efendi Türbesi,SIGHT,41.143745,41.033660,,,CC0-1.0,1,Hasan Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q97211789,Karaali Şelalesi,ACTIVITY,41.213383,41.147500,,,CC0-1.0,1,Karaali Falls,,doğa,şelale
+Q96623212,Karakaş Şelalesi,ACTIVITY,40.903550,40.758300,,,CC0-1.0,1,Karakaş Falls,,doğa,şelale
+Q97207997,Karap Şelaleleri,ACTIVITY,40.892017,40.747733,,,CC0-1.0,1,Karap Falls,,doğa,şelale
+Q61076495,Katarahte Şelalesi,ACTIVITY,40.968250,40.604117,,,CC0-1.0,1,Katarahte Falls,,doğa,şelale
+Q61076492,Koçkabanı Şelalesi,ACTIVITY,40.968250,40.604111,,,CC0-1.0,1,Koçkabanı Falls,,doğa,şelale
+Q97208089,Köprülü Şelalesi,ACTIVITY,40.985133,40.518067,,,CC0-1.0,1,Köprülü Falls,,doğa,şelale
+Q97320229,Lakubar Şelalesi,ACTIVITY,40.866167,40.984467,,,CC0-1.0,1,Lakubar Falls,,doğa,şelale
+Q118947462,Lazbükü,ACTIVITY,41.319745,41.242037,,Arhavi ilçesi,CC0-1.0,1,Lazbükü,Güngören Halk Plajı | Kıyıcık Plajı,doğa,plaj
+Q61076486,Manle Şelalesi,ACTIVITY,40.777500,40.555350,,,CC0-1.0,1,Manle Falls,,doğa,şelale
+Q97212083,Movri Şelalesi,ACTIVITY,41.062133,41.264450,,,CC0-1.0,1,Movri Falls,,doğa,şelale
+Q61076488,Mulona Şelalesi,ACTIVITY,41.068621,41.252265,,,CC0-1.0,1,Mulona Falls,,doğa,şelale
+Q97320234,Paslakum Şelalesi,ACTIVITY,40.921767,40.959500,,,CC0-1.0,1,Paslakum Falls,,doğa,şelale
+Q130366633,Peçamçoy Şelalesi,ACTIVITY,41.047360,41.003060,,,CC0-1.0,1,Peçamçoy Falls,,doğa,şelale
+Q85973988,Pileki Mağarası,ACTIVITY,40.989947,40.374951,,,CC0-1.0,1,Pileki Cave,,doğa,mağara
+Q97320235,Rüzgarlı Şelalesi,ACTIVITY,40.743000,40.531017,,,CC0-1.0,1,Rüzgarlı Falls,,doğa,şelale
+Q97212552,Salma Şelaleleri,ACTIVITY,41.157300,41.345233,,,CC0-1.0,1,Salma Falls,,doğa,şelale
+Q97212596,Senavat Şelalesi,ACTIVITY,41.086967,41.091267,,,CC0-1.0,1,Senavat Falls,,doğa,şelale
+Q61076478,Vandri Şelalesi,ACTIVITY,40.926690,40.463930,,,CC0-1.0,1,Vandri Falls,,doğa,şelale
+Q130366737,Çamlıhemşin Şelalesi,ACTIVITY,41.046040,41.003900,,,CC0-1.0,1,Çamlıhemşin Falls,,doğa,şelale
+Q61076502,Çarkıruba Şelalesi,ACTIVITY,41.028567,41.230850,,,CC0-1.0,1,Çarkıruba Falls,,doğa,şelale
+Q97213092,Çatak Üçgöl Şelalesi,ACTIVITY,41.113250,41.276033,,,CC0-1.0,1,Çatak Üçgöl Falls,,doğa,şelale
+Q61076498,Çetekalevi Şelalesi,ACTIVITY,41.040633,41.186600,,,CC0-1.0,1,Çetekalevi Falls,,doğa,şelale
+Q97320246,Çopuni Şelalesi,ACTIVITY,41.062710,41.127390,,,CC0-1.0,1,Çopuni Falls,,doğa,şelale
+Q130366621,Şimadoz Şelalesi,ACTIVITY,40.898117,40.530700,,,CC0-1.0,1,Şimadoz Falls,,doğa,şelale
+Q97213387,Şoltoğuri Şelalesi,ACTIVITY,41.063067,41.307033,,,CC0-1.0,1,Şoltoğuri Falls,,doğa,şelale
+Q138504003,Pharangion,SIGHT,40.483800,40.996300,,,CC0-1.0,0,Pharangion,,kale_sur | arkeolojik_sit,antik kent | tahkimat
+Q139420078,Pileki Mağarası,ACTIVITY,40.989927,40.374913,,İyidere (ilçe),CC0-1.0,0,,,doğa,mağara

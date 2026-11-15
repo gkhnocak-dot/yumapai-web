@@ -1,0 +1,38 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q1235618,Dolishane Kilisesi,SIGHT,41.165833,41.952222,,,CC0-1.0,7,Doliskana,Dolishane Kilisesi | Dolishan Manastırı,manastır_sinagog,manastır
+Q1528589,Oylum Höyük,SIGHT,36.699138,37.178462,,,CC0-1.0,5,Oylum Höyük,,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit | höyük
+Q28136223,Kilis Müzesi,SIGHT,36.716944,37.111389,,,CC0-1.0,3,Kilis Museum,Neşet Efendi Konağı,müze,müze | mimari yapı
+Q11904675,Ravendel,SIGHT,36.793102,36.949187,,,CC0-1.0,3,Ravendel,,kale_sur,kale | harabe
+Q24915833,Aziz Yorgi Kilisesi (Tirilye),SIGHT,40.390800,28.811400,,,CC0-1.0,2,Christ-Sauveur/ Ruissau-Profond Monastery,,manastır_sinagog,manastır
+Q85774370,Kilistra,SIGHT,37.664720,32.210530,,,CC0-1.0,2,Kilistra,,arkeolojik_sit,antik kent
+Q131901862,Ravanda Kalesi,SIGHT,36.873175,37.053698,,,CC0-1.0,1,Ravendel castle,Ravenel Kalesi | Ravendan Kalesi | Ravandal Kalesi,kale_sur,kale
+Q49091545,Çamurlu Höyük,SIGHT,36.659167,37.474167,,,CC0-1.0,1,Mount Çamurluhöyük,,anıt_heykel | arkeolojik_sit,tepe | höyük | arkeolojik sit
+Q132182846,Alahan Höyüğü,SIGHT,36.664101,37.437100,,,CC0-1.0,0,Alahan Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960828,Belentepe Höyüğü,SIGHT,36.957910,37.060750,,Musabeyli İlçesi,CC0-1.0,0,Belentepe Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q131391333,Canbolat Türbesi,SIGHT,36.714649,37.114456,,,CC0-1.0,0,Canbolat Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390873,Cemali Sultan Türbesi,SIGHT,36.713590,37.119392,,,CC0-1.0,0,Tomb of Cemali Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738732,Eski Hamam,SIGHT,36.714176,37.119209,,,CC0-1.0,0,Eski Hamam (Kilis),,han_hamam_çarşı,hamam
+Q131390877,Hacı Ali Baba Türbesi,SIGHT,36.722583,37.122736,,,CC0-1.0,0,Tomb of Haji Ali Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139422105,Hasan Bey Hamamı (Kilis),SIGHT,36.713049,37.117190,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131390876,Hoca Dur Türbesi,SIGHT,36.715592,37.114234,,,CC0-1.0,0,Tomb of Hodja Dur,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738731,Hoca Hamamı,SIGHT,36.716301,37.118626,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139422087,Kalaycılar Kervansarayı,SIGHT,36.717445,37.117884,,,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q134960574,Karamelik Höyük,SIGHT,36.791338,37.252523,,,CC0-1.0,0,Karamelik Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139419967,Kaya Mezarı (Ömeroğlu),SIGHT,36.888132,37.182130,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q139436353,Kilis Sinagogu,SIGHT,36.714218,37.117042,,,CC0-1.0,0,,,manastır_sinagog,sinagog
+Q134960826,Kumsurun Höyük,SIGHT,36.717948,37.527253,,,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,höyük
+Q139420403,Mücahitler Kalesi,SIGHT,36.745874,37.130003,,,CC0-1.0,0,,,kale_sur,kale
+Q131738469,Paşa Hamamı,SIGHT,36.715318,37.115223,,,CC0-1.0,0,Paşa Baths,,han_hamam_çarşı,hamam
+Q134960576,Polatbey Höyük,SIGHT,36.804331,37.192344,,,CC0-1.0,0,Polatbey Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960585,Salhan Höyüğü,SIGHT,36.650395,37.432375,,,CC0-1.0,0,Salhan Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960709,Taşlıbakar Höyüğü,SIGHT,36.703678,37.403779,,,CC0-1.0,0,Taşlıbakar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139421365,Tuğlu Hamamı,SIGHT,36.712845,37.114257,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139422110,Vahap Efendi Kervansarayı,SIGHT,36.713129,37.117262,,,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q134960584,Çörten Höyük,SIGHT,36.770013,37.272978,,,CC0-1.0,0,Çörten Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131390872,Şem’un Nebi Türbesi,SIGHT,36.713219,37.116099,,,CC0-1.0,0,Tomb of Shem'un Nebi,Küt Küt Dede Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139419977,Şeyh Bahaeddin ve Şeyh Muhammed Şahabeddin Türbesi,SIGHT,36.716710,37.118054,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390870,Şeyh Mansur Simati Türbesi,SIGHT,36.695579,37.125949,,,CC0-1.0,0,Tomb of Sheikh Mansur Simati,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390875,Şeyh Mehmed Amadin Türbesi,SIGHT,36.714295,37.112367,,,CC0-1.0,0,Tomb of Sheikh Mehmed Amadin,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390871,Şeyh Muhammed Bedevi Türbesi,SIGHT,36.711837,37.089456,,,CC0-1.0,0,Sheikh Muhammad Bedouin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390874,Şeyh Muhammed Ensari Türbesi,SIGHT,36.714238,37.112344,,,CC0-1.0,0,Tomb of Sheikh Muhammad Ansari,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391332,Şurahbil Türbesi,SIGHT,36.722534,37.122513,,,CC0-1.0,0,Shurahbil Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

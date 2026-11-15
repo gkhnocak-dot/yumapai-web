@@ -1,0 +1,114 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q6026101,Gaziantep Kalesi,SIGHT,37.066400,37.383300,,Şahinbey,CC0-1.0,24,Gaziantep Castle,,kale_sur | arkeolojik_sit,kale | arkeolojik sit
+Q196987,Zeugma,SIGHT,37.058611,37.865833,,,CC0-1.0,24,Zeugma,,arkeolojik_sit,antik kent | arkeolojik sit
+Q196982,Zeugma Mozaik Müzesi,SIGHT,37.074881,37.386158,,Şehitkâmil,CC0-1.0,21,Zeugma Mosaic Museum,,müze,müze
+Q1477613,Rumkale,SIGHT,37.270778,37.837917,,,CC0-1.0,20,Rumkale,Kal-at el Müslimin | Kale-i Zerrin,kale_sur | arkeolojik_sit,kale harabesi | arkeolojik sit
+Q767968,Tilbaşar Kalesi,SIGHT,36.874167,37.558889,,Oğuzeli,CC0-1.0,18,Turbessel,Tilbeşar | Tilbaşar Höyüğü | Tilbaşar Kalesi,arkeolojik_sit,kasaba | arkeolojik sit
+Q22083679,Kurtuluş Camii,SIGHT,37.060306,37.375694,,,CC0-1.0,12,Liberation mosque,Antep Meryem Ana Kilisesi | Surp Asdvadzadzin Katedrali,kilise | cami,kilise | cezaevi | cami
+Q26959195,Yesemek Taş Ocağı ve Heykel Atölyesi,SIGHT,36.904444,36.745833,,,CC0-1.0,12,Yesemek Quarry and Sculpture Workshop,Yesemek Taşocağı ve Heykel Atölyesi,arkeolojik_sit,arkeolojik sit
+Q953442,Gaziantep Arkeoloji Müzesi,SIGHT,37.068944,37.378389,,Şehitkâmil,CC0-1.0,11,Gaziantep Museum of Archaeology,,müze,arkeoloji müzesi
+Q4952188,Boyacı Camii,SIGHT,37.061944,37.388333,,Şahinbey,CC0-1.0,9,Boyacı Mosque,Boyacıoğlu Camii | Boyacı camii | Boyacı Camii,cami,cami
+Q8082547,Şirvani Camii,SIGHT,37.065833,37.381667,,Şahinbey,CC0-1.0,8,Şirvani Mosque,İki Şerefeli Camii,cami,cami
+Q117384985,Alaüddevle Camii,SIGHT,37.063376,37.384902,,,CC0-1.0,6,Alaüddevle Mosque,,cami,cami
+Q25379775,Karkamış Köprüsü,SIGHT,36.830100,38.024600,,Karkamış,CC0-1.0,6,Karkamış Bridge,,köprü,demir yolu köprüsü | uluslararası köprü
+Q6016858,Aziz Bedros Kilisesi,SIGHT,37.058688,37.376272,,Şahinbey,CC0-1.0,5,"St. Peter's Church, Gaziantep",,kilise,kilise | kültür merkezi
+Q6055894,Gaziantep Hayvanat Bahçesi,SIGHT,37.039678,37.295269,,Şahinbey,CC0-1.0,5,Gaziantep Zoo,GBB Hayvanat Bahçesi,cazibe_unesco,hayvanat bahçesi
+Q5529136,Gaziantep Sinagogu,SIGHT,37.064166,37.381645,,,CC0-1.0,5,Gaziantep Synagogue,Büyük Gaziantep Sinagogu | Gaziantep sinagogu | Büyük Antep Sinagogu,manastır_sinagog,sinagog
+Q1379828,Tilmen Höyük,SIGHT,37.030060,36.704226,,,CC0-1.0,5,Tilmen Höyük,Zalpuwa | Zalpa,arkeolojik_sit | anıt_heykel,tepe | höyük | arkeolojik sit
+Q13651499,Coba Höyük,SIGHT,37.186667,36.891389,,,CC0-1.0,4,Coba Höyük,Sakçagözü,arkeolojik_sit,arkeolojik sit | insan yerleşimi
+Q1235555,Dülük,SIGHT,37.151928,37.359438,,Şehitkâmil,CC0-1.0,4,Doliche,Dülük,arkeolojik_sit,antik kent | arkeolojik sit
+Q18411672,Karasu Rölyefi,SIGHT,37.430833,37.908472,,Araban,CC0-1.0,3,Karasu relief,,anıt_heykel,heykel | anıt | kabartma
+Q67574509,Nikopolis (Kilikya),SIGHT,37.027158,36.633389,,,CC0-1.0,3,Nicopolis (Cilicia),Nicopolis | Nicopolis ad Issum,arkeolojik_sit,antik kent | arkeolojik sit
+Q6097368,Tilbeş Höyük,SIGHT,37.088800,37.873400,,,CC0-1.0,3,Tilbeş Höyük,,kale_sur,iyi korunan kale
+Q6088657,Yunus Höyük,SIGHT,36.834722,38.013333,,,CC0-1.0,3,Yunus Höyük,,arkeolojik_sit,arkeolojik sit
+Q131744262,Atatürk Anı Müzesi,SIGHT,37.061473,37.377334,,,CC0-1.0,2,Atatürk Memorial Museum,Atatürk Müzesi | Gaziantep Atatürk Anı Müzesi | Atatürk Anı Evi Müzesi,ev_konak | müze,müze | müze ev
+Q12808980,Büdeyri Hanı,SIGHT,37.065517,37.384636,,Şahinbey,CC0-1.0,2,İncioğlu Han,"Elbeyli Hanı | İncioğlu Hanı | Büdeyri hanı | Büdeyri Hanı, Gaziantep | İnceoğlu Hanı | Budeyri Hanı",han_hamam_çarşı,kervansaray
+Q61076446,Fevkani Kilisesi,SIGHT,37.011800,37.787300,,,CC0-1.0,2,Fevkani Church,,kilise,kilise
+Q28220418,Fırat Viyadüğü,SIGHT,37.048900,37.905100,,,CC0-1.0,2,Euphrates Viaduct,,köprü,köprü
+Q125400771,Gaziantep Fıstık Müzesi,SIGHT,37.058440,37.342070,,,CC0-1.0,2,,Fıstık Müzesi Gaziantep,müze,müze
+Q127605760,Gaziantep Hamam Müzesi,SIGHT,37.064125,37.382454,,Şahinbey,CC0-1.0,2,,,müze,müze
+Q116739391,Gaziantep Mevlevi Kültürü ve Vakıf Eserleri Müzesi,SIGHT,37.061111,37.387861,,,CC0-1.0,2,Gaziantep Mevlevi Culture and Foundation Works Museums,,müze,müze
+Q6013457,Gaziantep Savaş Müzesi,SIGHT,37.058005,37.391015,,Şahinbey,CC0-1.0,2,Gaziantep War Museum,Şahinbey Savaş Müzesi,müze,müze | askeri müze | müze binası
+Q6096416,Gedikli Karahöyük,SIGHT,37.219900,36.832000,,,CC0-1.0,2,Karahöyük,,anıt_heykel | arkeolojik_sit,arkeolojik sit | höyük | tepe
+Q6012177,Hasan Süzer Etnografya Müzesi,SIGHT,37.061440,37.377530,,Şahinbey,CC0-1.0,2,Hasan Süzer Ethnography Museum,,müze,müze | Etnografya müzesi
+Q6006443,Naib Hamamı,SIGHT,37.067650,37.383400,,Şahinbey,CC0-1.0,2,Naib Hammam,,han_hamam_çarşı,hamam
+Q132681878,Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi,SIGHT,37.065880,37.379276,,Şahinbey,CC0-1.0,2,Gaziantep Panorama Museum,,müze,müze
+Q65085803,Tell Halid,SIGHT,36.767500,37.638611,,Oğuzeli,CC0-1.0,2,Tell Khalid,,arkeolojik_sit,arkeolojik sit
+Q6040846,Tütün Hanı,SIGHT,37.061962,37.387096,,Şahinbey,CC0-1.0,2,The Tütün Hanı (Şahinbey),,han_hamam_çarşı,kervansaray | pasaj
+Q124798534,Şahinbey Millet Camii,SIGHT,37.016562,37.367096,,Şahinbey,CC0-1.0,2,Şahinbey Millet Mosque,,cami,cami
+Q56260284,Emine Göğüş Mutfak Müzesi,SIGHT,37.064504,37.382578,,Şahinbey,CC0-1.0,1,Emine Gogus Culinary Museum,"Gaziantep Mutfak Müzesi | Mutfak Müzesi, Gaziantep",müze,müze
+Q132682095,Gaziantep Oyun ve Oyuncak Müzesi,SIGHT,37.061400,37.377300,,Şahinbey,CC0-1.0,1,Gaziantep Toy Museum,,müze,müze
+Q131390527,Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi,SIGHT,37.062256,37.387111,,Şahinbey,CC0-1.0,1,Tomb of Prophet Joshua and Piserfa,Yuşa Peygamber Türbesi | Pirsefa Hazretleri Ve Yuşa Peygamber Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q6098096,Kırışkal Höyüğü,SIGHT,37.244000,36.850100,,,CC0-1.0,1,Kırışkal Höyüğü,,anıt_heykel | arkeolojik_sit,arkeolojik sit | höyük
+Q6010620,Medusa Cam Eserler Müzesi,SIGHT,37.066942,37.381815,,Şahinbey,CC0-1.0,1,Medusa Glass Art Museum,Medusa Arkeolojik Cam Eserleri Müzesi | Medusa Cam Müzesi,müze,müze | özel müze
+Q49319744,Seferin Mağaraları,ACTIVITY,36.989167,37.600278,,,CC0-1.0,1,Seferin Caves,,doğa,mağara
+Q117192585,Ukkaşe Türbesi,SIGHT,37.080362,36.837983,,,CC0-1.0,1,Tomb of Ukasha,Ökkeşiye Türbesi | Hz. Ukkaşe Türbesi,mezar | külliye_medrese_türbe | anıt_heykel,türbe
+Q132752874,"Yeni Han, Gaziantep",SIGHT,37.064003,37.384945,,Şahinbey,CC0-1.0,1,Yeni Han (Gaziantep),,han_hamam_çarşı,kervansaray
+Q6100592,Şaraga Höyük,SIGHT,36.919581,38.001009,,Karkamış,CC0-1.0,1,Şaraga Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132752876,Şire Hanı,SIGHT,37.058416,37.386104,,Şahinbey,CC0-1.0,1,Şire Hanı,,han_hamam_çarşı,kervansaray
+Q134960505,Akça Höyük,SIGHT,36.876151,37.595422,,Oğuzeli,CC0-1.0,0,Akça Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960656,Akçamezra Höyük,SIGHT,36.808720,37.577200,,Oğuzeli,CC0-1.0,0,Akçamezra Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960819,Akınyolu Höyük,SIGHT,36.971060,36.737796,,,CC0-1.0,0,Akınyolu Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q131391187,Ali Baba Türbesi,SIGHT,37.055200,37.394600,,Şahinbey,CC0-1.0,0,Tomb of Ali Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131901890,Araban Kalesi,SIGHT,37.425891,37.694639,,Araban,CC0-1.0,0,Araban Castle,Kale-i Zerrin | Raban Kalesi,kale_sur,kale
+Q134960823,Arıkdere Höyüğü,SIGHT,36.821140,37.847249,,Karkamış,CC0-1.0,0,Arıkdere Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q132182771,Arıl Höyük,SIGHT,37.108738,37.602024,,Şehitkâmil,CC0-1.0,0,Arıl Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131390821,Aydın Baba Türbesi,SIGHT,37.056962,37.388170,,Şahinbey,CC0-1.0,0,Aydin Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960510,Aydınkaya Höyük,SIGHT,36.833771,37.526695,,Oğuzeli,CC0-1.0,0,Aydınkaya Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139421289,Barşavma Manastırı,SIGHT,37.271524,37.838161,,Nizip,CC0-1.0,0,,,manastır_sinagog,manastır
+Q132182974,Batalhöyük,SIGHT,37.060072,37.343555,,Şahinbey,CC0-1.0,0,Batalhöyük,,arkeolojik_sit | anıt_heykel,höyük
+Q125536915,Bayazhan Kent Müzesi,SIGHT,37.061729,37.370759,,,CC0-1.0,0,Bayazhan City Museum,Bayaz Han Kent Müzesi,müze,müze
+Q131738470,Büyük Paşa Hamamı,SIGHT,37.064893,37.382664,,Şahinbey,CC0-1.0,0,Büyük Paşa Baths,Lala Mustafa Paşa Hamamı | Tarihi Paşa Hamamı,han_hamam_çarşı,hamam
+Q134960905,Deve Höyük,SIGHT,36.755542,37.735911,,Oğuzeli,CC0-1.0,0,Deve Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q132681879,Devr-i Alem Gaziantep Para Müzesi,SIGHT,37.064533,37.382015,,Şahinbey,CC0-1.0,0,,,müze,müze
+Q134960509,Dibecik Höyük,SIGHT,36.816514,37.649534,,Oğuzeli,CC0-1.0,0,Dibecik Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960506,Doğanpınar Höyük,SIGHT,36.841483,37.623533,,Oğuzeli,CC0-1.0,0,Doğanpınar Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960507,Düzbayır Höyük,SIGHT,36.836133,37.734831,,,CC0-1.0,0,Düzbayır Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960496,Ekinli Höyük,SIGHT,36.820481,37.367025,,Şahinbey,CC0-1.0,0,Ekinli Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960641,Elbistan Höyüğü,SIGHT,37.078528,36.745964,,,CC0-1.0,0,Elbistan Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134728156,Elif Anıt Mezarı,SIGHT,37.376071,37.876411,,Araban,CC0-1.0,0,Elif Anıt Mezarı,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q134960904,Elmalı Höyük,SIGHT,36.884004,37.367614,,Şahinbey,CC0-1.0,0,Elmalı Höyük,,anıt_heykel | arkeolojik_sit,höyük
+Q132682097,Gaziantep Kültür Tarihi Müzesi,SIGHT,37.038202,37.313586,,Şehitkâmil,CC0-1.0,0,,,müze,müze
+Q132682094,Gaziantep Savunması Ve Kahramanlık Panoraması Müzesi,SIGHT,37.066383,37.383267,,Şahinbey,CC0-1.0,0,,,müze,müze
+Q132183025,Gercin Höyük,SIGHT,37.135349,36.751423,,,CC0-1.0,0,Gercin Höyük,Gözlü Höyük | Gercin Höyük | Gerçin,arkeolojik_sit | anıt_heykel,höyük
+Q134960514,Gökçeli Höyük,SIGHT,36.880282,37.705655,,,CC0-1.0,0,Gökçeli Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960502,Göllühöyük,SIGHT,37.004069,36.688254,,,CC0-1.0,0,Göllühöyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131390823,Gözükızıl Mehmet Baba Türbesi,SIGHT,37.057903,37.388936,,Şahinbey,CC0-1.0,0,Gözükızıl Mehmet Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960545,Günaltı Höyüğü,SIGHT,37.009394,37.916311,,,CC0-1.0,0,Günaltı Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134728155,Hasanoğlu Anıt Mezarı,SIGHT,37.385525,37.853436,,Araban,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q134728157,Hisar Anıt Mezarı,SIGHT,37.384136,37.914940,,Araban,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q131738933,Hüseyin Paşa Hamamı,SIGHT,37.061012,37.384399,,Şahinbey,CC0-1.0,0,Hüseyin Paşa Baths,,han_hamam_çarşı,hamam
+Q131390824,Kara Baba Türbesi,SIGHT,37.058000,37.387400,,Şahinbey,CC0-1.0,0,Tomb of Kara Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960508,Karahasan Höyüğü,SIGHT,36.854364,37.704752,,Oğuzeli,CC0-1.0,0,Karahasan Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960910,Karahüyük Höyüğü,SIGHT,37.164505,37.399574,,Şehitkâmil,CC0-1.0,0,Karahüyük Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q134960515,Karapınar Höyüğü,SIGHT,36.963704,36.639597,,,CC0-1.0,0,Karapınar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139436182,Karkamış Güney Kapısı,SIGHT,36.826611,38.016582,,Karkamış,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q134960640,Keferdiz Höyüğü,SIGHT,37.198217,36.927113,,,CC0-1.0,0,Keferdiz Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139435420,Kemikli Bedesteni,SIGHT,37.060989,37.387283,,Şahinbey,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q131738471,Keyvanbey Hamamı,SIGHT,37.060885,37.382178,,Şahinbey,CC0-1.0,0,Keyvanbey Baths,,han_hamam_çarşı,hamam
+Q134960543,Koçlu Höyük,SIGHT,37.317870,37.413949,,Şehitkâmil,CC0-1.0,0,Koçlu Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960497,Kızılhisar Höyüğü,SIGHT,37.003891,37.306371,,Şahinbey,CC0-1.0,0,Kızılhisar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132752759,"Mecidiye Han, Gaziantep",SIGHT,37.060604,37.387321,,Şahinbey,CC0-1.0,0,Mecidiye Han (Gaziantep),Nakip Hanı,han_hamam_çarşı,kervansaray
+Q140421918,Mithraea of Dülük,SIGHT,37.155195,37.360087,,,CC0-1.0,0,Mithraea of Dülük,,arkeolojik_sit,mithraeum
+Q134960582,Muhacırosman Höyüğü,SIGHT,36.910655,37.226279,,Şahinbey,CC0-1.0,0,Muhacırosman Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q131902213,Nurdağı Kalesi,SIGHT,37.189262,36.725437,,,CC0-1.0,0,Nurdağı Castle,,kale_sur,kale
+Q131390822,Polat Dede Türbesi,SIGHT,37.057400,37.391300,,Şahinbey,CC0-1.0,0,Tomb of Polat Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132682093,Saklı Konak Bakır Eserleri Müzesi,SIGHT,37.068784,37.382416,,Şahinbey,CC0-1.0,0,,,müze,müze
+Q134960583,Sarıt Höyüğü,SIGHT,36.903169,37.259508,,Şahinbey,CC0-1.0,0,Sarıt Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960504,Sazgın Höyük,SIGHT,36.941279,37.461665,,Oğuzeli,CC0-1.0,0,Sazgın Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182864,Songrus Höyük,SIGHT,37.213322,36.896057,,,CC0-1.0,0,Songrus Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131738934,Tabak Hamamı,SIGHT,37.066898,37.385326,,Şahinbey,CC0-1.0,0,Tabak Baths,,han_hamam_çarşı,hamam
+Q134960735,Taşlıgeçit Höyüğü,SIGHT,36.926588,36.710578,,,CC0-1.0,0,Taşlıgeçit Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132182722,Tilhalit Höyük,SIGHT,36.767437,37.638740,,Oğuzeli,CC0-1.0,0,Tilhalit Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139429437,Tilhalit Höyük,SIGHT,36.751388,37.661576,,Oğuzeli,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q134960516,Yavuzeli Höyüğü,SIGHT,37.320213,37.567719,,,CC0-1.0,0,Yavuzeli Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q134960511,Yona Höyük,SIGHT,36.791943,37.587997,,Oğuzeli,CC0-1.0,0,Yona Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134960517,Yığmatepe Höyük,SIGHT,36.756904,37.347743,,Şahinbey,CC0-1.0,0,Yığmatepe Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139429449,Zeugma Akropolis,SIGHT,37.052846,37.866209,,Nizip,CC0-1.0,0,,,kale_sur | arkeolojik_sit,akropolis
+Q135582853,Zeugma Antik Tiyatrosu,SIGHT,37.056307,37.866192,,,CC0-1.0,0,Zeugma Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q139435661,Zincirli Bedesten,SIGHT,37.062981,37.385403,,Şahinbey,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q134960513,Çavuşbaşı Höyük,SIGHT,36.837848,37.506213,,Oğuzeli,CC0-1.0,0,Çavuşbaşı Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q125824139,Şadi Tepe Höyüğü,SIGHT,36.897316,38.014271,,Karkamış,CC0-1.0,0,Şadi Höyüğü,,arkeolojik_sit | anıt_heykel,arkeolojik sit | höyük
+Q134728091,Şahin Bey Anıtı,SIGHT,36.899597,37.358452,,Şahinbey,CC0-1.0,0,Şahin Bey Monument,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q134960642,Şatırhöyük,SIGHT,37.217585,36.973724,,,CC0-1.0,0,Şatırhöyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131738679,Şeyh Fethullah Hamamı,SIGHT,37.059322,37.391445,,Şahinbey,CC0-1.0,0,Şeyh Fethullah Baths,Şıh Hamamı,han_hamam_çarşı,hamam

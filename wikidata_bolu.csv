@@ -1,0 +1,68 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q305501,Abant Gölü,ACTIVITY,40.605450,31.280330,,,CC0-1.0,20,Lake Abant,,göl,göl
+Q6981621,Yedigöller Millî Parkı,ACTIVITY,40.940833,31.756389,,,CC0-1.0,20,Yedigöller National Park,Yedigöller | Yedigöller Milli Parkı,milli_park_tabiat,millî park (Türkiye) | göl dizisi
+Q65088749,Bithynium,SIGHT,40.739479,31.611561,,,CC0-1.0,6,Bithynium,,arkeolojik_sit,antik kent
+Q1139057,Krateia,SIGHT,40.812102,32.164918,,,CC0-1.0,6,Cratia,,arkeolojik_sit,antik kent
+Q34888863,Abant Gölü Millî Parkı,ACTIVITY,40.597778,31.291667,,,CC0-1.0,5,Lake Abant National Park,Abant Gölü Tabiat Parkı,milli_park_tabiat,millî park (Türkiye) | tabiat parkı
+Q6037718,Bolu Müzesi,SIGHT,40.733056,31.606944,,,CC0-1.0,5,Bolu Museum,,müze,arkeoloji müzesi | müze
+Q19612605,Sülük Gölü,ACTIVITY,40.522070,30.874540,,,CC0-1.0,4,Lake Sülüklü,,göl,göl
+Q29644082,Sünnet Gölü,ACTIVITY,40.420940,30.955900,,,CC0-1.0,4,Lake Sünnet,,göl,göl
+Q111526899,Claudiopolis,SIGHT,36.651680,33.441560,,,CC0-1.0,3,Claudiopolis,,arkeolojik_sit,antik kent
+Q65220312,Gölcük Gölü,ACTIVITY,40.656111,31.630000,,,CC0-1.0,3,Lake Gölcük,Gölcük Gölü Tabiat Parkı,göl,göl
+Q65051004,Modrene,SIGHT,40.488963,31.143478,,,CC0-1.0,3,Modra,Modra | Mudurnu,arkeolojik_sit,antik kent
+Q20476974,Yeniçağa Gölü,ACTIVITY,40.780000,32.025600,,,CC0-1.0,3,Lake Yeniçağa,,göl,göl
+Q85745034,Balgatia,SIGHT,40.151738,31.612625,,,CC0-1.0,2,Balgatia,,arkeolojik_sit,antik kent
+Q85750845,Carus Vicus,SIGHT,40.482434,32.204175,,,CC0-1.0,2,Carus Vicus,,arkeolojik_sit,antik kent
+Q85755502,Dadokome,SIGHT,40.775278,31.900834,,,CC0-1.0,2,Dadokome,,arkeolojik_sit,antik kent
+Q6009091,"Gazi Süleyman Paşa Camii, Göynük",SIGHT,40.399278,30.787250,,,CC0-1.0,2,Gazi Süleyman Paşa Mosque (Göynük),,cami,cami
+Q85766483,Hieropotamon,SIGHT,40.082671,31.690195,,,CC0-1.0,2,Hieropotamon,,arkeolojik_sit,antik kent
+Q85783711,Mantineion,SIGHT,40.807339,32.019212,,,CC0-1.0,2,Mantineion,,arkeolojik_sit,antik kent
+Q131384363,Tabaklar Hamamı,SIGHT,40.730833,31.605250,,,CC0-1.0,2,Tabaklar Hammam,Debbağlar Hamamı,han_hamam_çarşı,hamam | hamam
+Q21527099,"Taşhan, Bolu",SIGHT,40.733129,31.609034,,,CC0-1.0,2,Taşhan (Bolu),"Aşağı Taş Han, Bolu | Taşhan | Aşağı Taşhan",han_hamam_çarşı,kervansaray
+Q12812809,Çubuklu Gölü,ACTIVITY,40.482140,30.834470,,,CC0-1.0,2,Lake Çubuk,,göl,göl
+Q109366855,Akşemseddin Türbesi,SIGHT,40.398449,30.785805,,,CC0-1.0,1,Akşemseddin Tomb,Akşemseddin Türbesi,müze | mezar | külliye_medrese_türbe | anıt_heykel,müze | türbe | nimelceyş kabri
+Q85968852,Beypazarı Tarih ve Kültür Müzesi,SIGHT,40.169696,31.916234,,,CC0-1.0,1,,,müze,müze | özel müze
+Q131738466,Gazi Süleyman Paşa Hamamı,SIGHT,40.399158,30.786529,,,CC0-1.0,1,Baths of Gazi Süleyman Paşa,,han_hamam_çarşı,hamam
+Q21526100,Gerede Saat Kulesi,SIGHT,40.801583,32.196694,,,CC0-1.0,1,Gerede Clock Tower,,kule | kule_saat,saat kulesi
+Q21526129,Göynük Saat Kulesi,SIGHT,40.400333,30.785528,,,CC0-1.0,1,Göynük Clock Tower,Zafer Kulesi,kule | kule_saat,saat kulesi
+Q49342926,Hamam Boğazı (Bolu),ACTIVITY,40.149444,30.810000,,,CC0-1.0,1,,,doğa,defile
+Q11931097,Lagania,SIGHT,40.170306,31.921111,,,CC0-1.0,1,Lagania,,arkeolojik_sit,antik kent
+Q21526655,Mudurnu Saat Kulesi,SIGHT,40.464833,31.212583,,,CC0-1.0,1,Mudurnu Clock Tower,,kule | kule_saat,saat kulesi
+Q131738415,Orta Hamam,SIGHT,40.732303,31.608068,,,CC0-1.0,1,Orta Hamam,,han_hamam_çarşı,hamam
+Q65157300,Petobriga,SIGHT,40.167500,31.921111,,,CC0-1.0,1,Petobriga,,arkeolojik_sit,antik kent
+Q49319770,Solaklar Mağarası,ACTIVITY,40.434167,31.607500,,,CC0-1.0,1,Solaklar Cave,,doğa,mağara
+Q131739174,Sultan Hamamı,SIGHT,40.732479,31.610004,,,CC0-1.0,1,Sultan Baths (Bolu),,han_hamam_çarşı,hamam
+Q132752946,"Yukarı Taş Han, Bolu",SIGHT,40.733367,31.608929,,,CC0-1.0,1,Yukarı Taş Han (Bolu),Yukarı Taşhan,han_hamam_çarşı,kervansaray
+Q132134398,Yıldırım Beyazıt Camii (Mudurnu),SIGHT,40.464180,31.211935,,,CC0-1.0,1,"Yıldırım Beyazıt Mosque, Mudurnu",Yıldırım Bayezid Camii | Büyük Cami,cami | külliye_medrese_türbe,cami | külliye
+Q131738414,Yıldırım Beyazıt Hamamı,SIGHT,40.464869,31.211308,,,CC0-1.0,1,Yıldırım Beyazıt Baths,Yıldırım Bayezid Hamamı | Mudurnu Hamamı,han_hamam_çarşı,hamam
+Q49319911,Çeltikdere Mağaraları,ACTIVITY,40.346111,31.720278,,,CC0-1.0,1,Çeltikdere Caves,,doğa,mağara
+Q131390715,Abdullah Rüşdi Türbesi,SIGHT,40.464300,31.212200,,,CC0-1.0,0,Tomb of Abdullah Rushdi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390716,Abdurrahim Tırsi Türbesi,SIGHT,40.464300,31.211000,,,CC0-1.0,0,Tomb of Abdurrahim Tirsi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390712,Aslahaddin Türbesi,SIGHT,40.733300,31.611800,,,CC0-1.0,0,Aslahaddin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390709,Büyük Yatır Türbesi,SIGHT,40.704428,31.617728,,,CC0-1.0,0,Büyük Yatir Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436137,Claudiopolis Stadyumu,SIGHT,40.733669,31.611971,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,antik stadyum
+Q131390705,Debbağ Dede Türbesi,SIGHT,40.397900,30.786200,,,CC0-1.0,0,Debbağ Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139430260,Demirler Ören Yeri,SIGHT,40.711937,32.561527,,Gerede İlçesi,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q131390711,Diyarbakırlı Hacı Efendi Türbesi,SIGHT,40.729783,31.610807,,,CC0-1.0,0,Diyarbakırlı Hacı Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139425382,Eski Belediye Hamamı (Yeniçağa),SIGHT,40.769348,32.033144,,Yeniçağa İlçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139425385,Eskiçağa Yıldırım Bayezid Hamamı,SIGHT,40.819843,32.033849,,Yeniçağa İlçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131390719,Filibeli Tevfik Mehmet Türbesi,SIGHT,40.470800,31.197600,,,CC0-1.0,0,Filibeli Tevfik Mehmet Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132682147,Göynük Kent Müzesi,SIGHT,40.398441,30.787317,,,CC0-1.0,0,Göynük City Museum,Gürcüler Konağı,müze,müze | mimari yapı
+Q131390704,Hacı Hamza Oğlu Kasım Türbesi,SIGHT,40.695700,31.657800,,,CC0-1.0,0,Tomb of Hacı Hamzaoğlu Kasım,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391690,Hayreddin-i Tokadî Efendi Türbesi,SIGHT,40.731415,31.469618,,,CC0-1.0,0,Hayreddin-i Tokadî Efendi Tomb,Tokad-i Hayreddin Türbesi | Konrapalı - Konrapavî Hayreddin Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390718,Kara Aslan Türbesi,SIGHT,40.469253,31.224211,,,CC0-1.0,0,Tomb of the Black Lion,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131901845,"Keçi Kalesi, Gerede",SIGHT,40.814479,32.199442,,,CC0-1.0,0,Keçi Castle (Gerede),,kale_sur,kale
+Q139425439,Kiliseli Han,SIGHT,40.801913,32.198201,,Gerede İlçesi,CC0-1.0,0,,,han_hamam_çarşı,kervansaray
+Q131738413,Kızılay Hamamı,SIGHT,40.732961,31.599228,,,CC0-1.0,0,Kızılay Baths,,han_hamam_çarşı,hamam
+Q139423622,Pazarköy Hamamı,SIGHT,40.925797,32.181675,,Mengen (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132681837,"Pertev Naili Boratav, Kültür Evi",SIGHT,40.464752,31.211784,,,CC0-1.0,0,,,müze,müze
+Q131390703,Ramazan Dede Türbesi,SIGHT,40.806300,32.194000,,,CC0-1.0,0,Tomb of Ramazan Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391831,Samsa Çavuş Türbesi,SIGHT,40.471870,31.018669,,,CC0-1.0,0,Samsa Sergeant Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436583,Seben Kaya Evleri,ACTIVITY,40.432800,31.602421,,Seben (ilçe),CC0-1.0,0,,,doğa,mağara
+Q131390710,Sultanbey Türbesi,SIGHT,40.704910,31.576114,,,CC0-1.0,0,Sultanbey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423475,Taşlı Mevkii Arkeolojik Sit Alanı,SIGHT,40.845991,31.873810,,Mengen (ilçe),CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139425440,Yukarı Hamam,SIGHT,40.801441,32.196560,,Gerede İlçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131390706,Ömer Sıkkini Türbesi,SIGHT,40.401600,30.790200,,,CC0-1.0,0,Tomb of Omar Sikkini,Bıçakçı Ömer Dede Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390708,Ümmi Kemal Türbesi,SIGHT,40.674500,31.919300,,,CC0-1.0,0,Tomb of Ummi Kemal,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390713,İmam Kurtubi Türbesi,SIGHT,40.738241,31.511127,,,CC0-1.0,0,Tomb of Imam Qurtubi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390720,Şeyh ül Ümran Türbesi,SIGHT,40.470800,31.197700,,,CC0-1.0,0,Tomb of Sheikh ul Umran,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

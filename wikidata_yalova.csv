@@ -1,0 +1,40 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q209349,Nicomedia,SIGHT,40.762500,29.917500,,,CC0-1.0,46,Nicomedia,Nikomedia | Nikomedeia | Nikomedya,arkeolojik_sit,antik kent | arkeolojik sit
+Q1462894,Helenopolis,SIGHT,40.720000,29.500000,,,CC0-1.0,14,Helenopolis,Drepana | Drepanon,arkeolojik_sit,antik kent
+Q8047515,Yalova Atatürk Köşkü,SIGHT,40.603740,29.174720,,,CC0-1.0,9,Yalova Atatürk Mansion,Yürüyen Köşk,ev_konak,tarihî bina | konak
+Q65088659,Libyssa,SIGHT,40.769562,29.539812,,,CC0-1.0,4,Libyssa,,arkeolojik_sit,antik kent
+Q20988558,Yalova Deprem Anıtı,SIGHT,40.657778,29.253333,,,CC0-1.0,4,Yalova Earthquake Monument,,anıt_heykel,anıt
+Q65059743,Dakibyza,SIGHT,40.799732,29.433368,,,CC0-1.0,3,Dacibyza,,arkeolojik_sit,antik kent
+Q38251251,Harmankaya Tabiat Parkı,ACTIVITY,40.575556,29.149722,,,CC0-1.0,3,Harmankaya Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
+Q65044572,Charmidea,SIGHT,40.459405,29.294538,,,CC0-1.0,2,Charmidea,,arkeolojik_sit,antik kent
+Q65045360,Kosilaos,SIGHT,40.874011,29.243551,,,CC0-1.0,2,Kosilaos,,arkeolojik_sit,antik kent
+Q65045181,Limnae,SIGHT,40.721716,29.502079,,,CC0-1.0,2,Limnae,Limnai,arkeolojik_sit,antik kent
+Q65045373,Pantichium,SIGHT,40.876585,29.235130,,,CC0-1.0,2,Pantichium,,arkeolojik_sit,antik kent
+Q65045162,Pratomysia,SIGHT,40.611226,29.343911,,,CC0-1.0,2,Pratomysia,,arkeolojik_sit,antik kent
+Q65045190,Tetrakomia,SIGHT,40.514307,29.474510,,,CC0-1.0,2,Tetrakomia,,arkeolojik_sit,antik kent
+Q21288238,Yürüyen Köşk,SIGHT,40.664843,29.297807,,,CC0-1.0,2,,,ev_konak,konak
+Q132682131,Atatürk ve Çocuk Müzesi,SIGHT,40.658073,29.247817,,,CC0-1.0,1,,Baltacı Çiftliği Köşkü | Tigem Atatürk Köşkü,müze,müze | mimari yapı
+Q134592335,Erikli Şelalesi (Yalova-Teşvikiye),ACTIVITY,40.584960,29.021520,,,CC0-1.0,1,Erikli Falls,,doğa,şelale
+Q65045353,Potamoi (Bitinya),SIGHT,40.798384,29.379823,,,CC0-1.0,1,Potamoi,,arkeolojik_sit,antik kent
+Q65044604,Pytheion,SIGHT,40.603880,29.223869,,,CC0-1.0,1,Pytheion,,arkeolojik_sit,antik kent
+Q65044574,Sangarus,SIGHT,40.639267,29.062942,,,CC0-1.0,1,Sangarus,,arkeolojik_sit,antik kent
+Q65045174,Strobilos,SIGHT,40.654483,29.335621,,,CC0-1.0,1,Strobilos,,arkeolojik_sit,antik kent | arkeolojik sit
+Q97320238,Sudüşen Şelalesi,ACTIVITY,40.575982,29.147117,,,CC0-1.0,1,Sudüşen Falls,,doğa,şelale
+Q25475820,Yalova Kent Müzesi,SIGHT,40.658775,29.270079,,,CC0-1.0,1,Yalova City Museum,,müze,müze | kent müzesi
+Q25475838,İbrahim Müteferrika Kağıt Müzesi,SIGHT,40.651421,29.262407,,,CC0-1.0,1,"İbrahim Müteferrika Kağıt Müzesi (Yalova, Turkey)",,müze,müze
+Q131902316,Elmalık Kalesi,SIGHT,40.603275,29.310793,,,CC0-1.0,0,Elmalık Castle,,kale_sur,kale
+Q139420754,Eski Hamam (Armutlu),SIGHT,40.544683,28.838956,,Armutlu (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139420753,Fıstıklı Köyü Hamamı,SIGHT,40.491961,28.893341,,Armutlu (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139420758,Gacık Hamamı,SIGHT,40.610642,29.342219,,Çiftlikköy ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q127786769,Hersekzade Ahmed Paşa Türbesi,SIGHT,40.723179,29.504591,,,CC0-1.0,0,Hersekzâde Ahmed Pasha Mosque,,cami | mezar | külliye_medrese_türbe | anıt_heykel,cami | türbe
+Q134735187,"Hersekzâde Ahmet Paşa Türbesi, Yalova",SIGHT,40.723179,29.504591,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182862,Höyüktepe,SIGHT,40.566856,29.340713,,,CC0-1.0,0,Höyüktepe,Pilavtepe Tümülüsü,arkeolojik_sit | anıt_heykel,höyük
+Q132682007,Karaca Arboretumu,SIGHT,40.634106,29.224764,,,CC0-1.0,0,,,müze,müze
+Q131738845,Karakilise,SIGHT,40.668446,29.316301,,,CC0-1.0,0,Karakilise,Kara Kilise,han_hamam_çarşı,hamam
+Q139420765,Kurşunlu Hamam,SIGHT,40.603656,29.173137,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139420764,Rüstem Paşa Hamamı (Yalova),SIGHT,40.657404,29.268645,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139420766,Valide Hamamı,SIGHT,40.603768,29.172217,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131738907,Yeni Hamam,SIGHT,40.520878,28.828876,,,CC0-1.0,0,Yeni Hamam (Armutlu),,han_hamam_çarşı,hamam
+Q133236682,Çoban Kale,SIGHT,40.652324,29.495159,,,CC0-1.0,0,Çoban Castle,,kale_sur,kale
+Q21528310,Çınarcık Saat Kulesi,SIGHT,40.645861,29.117083,,,CC0-1.0,0,Çınarcık Clock Tower,,kule | kule_saat,saat kulesi
+Q131391649,Şeyh Şerafettin Türbesi,SIGHT,40.551247,29.276365,,,CC0-1.0,0,Tomb of Sheikh Serafettin,Şeyh Şerafeddin Türbesi | Şeyh Şerafeddin Dağıstani Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe

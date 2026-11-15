@@ -1,0 +1,364 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q739037,Nikaia,SIGHT,40.429000,29.719500,,,CC0-1.0,52,Nicaea,Nikea | Nicaea,arkeolojik_sit,antik kent
+Q925688,Uludağ,SIGHT,40.070529,29.222010,,,CC0-1.0,38,Uludağ,,,dağ
+Q32339,Bursa Ulu Camii,SIGHT,40.183889,29.061944,,,CC0-1.0,32,Bursa Grand Mosque,Bursa Ulu Cami | Orhan Gazi Camii | Yenişehir Ulu Cami,cami,cami
+Q192369,İznik Gölü,ACTIVITY,40.443611,29.508333,,,CC0-1.0,29,Lake İznik,,göl,göl
+Q1549086,Yeşil Camii,SIGHT,40.182194,29.074611,,,CC0-1.0,25,Bursa Green Mosque,Bursa Yeşil Cami,cami,cami
+Q4430013,"Ayasofya Camii, İznik",SIGHT,40.429200,29.720170,,,CC0-1.0,20,"Hagia Sophia, Iznik",İznik Ayasofya Müzesi | İznik Ayasofya Kilisesi | Azize Sofya Kilisesi | Orhan Camii,cami | kilise,cami | kilise
+Q1207606,Emir Sultan Camii,SIGHT,40.181111,29.081000,,Yıldırım,CC0-1.0,19,Emir Sultan Mosque,"Emir Sultan Camisi | Emir Sultan Camii, Bursa",külliye_medrese_türbe | cami,cami | külliye
+Q377863,Cius,SIGHT,40.432468,29.156389,,,CC0-1.0,16,Cius,Prusias ad Mare | Cius,arkeolojik_sit,eski yerleşim yeri | polis
+Q12747162,Muradiye Külliyesi,SIGHT,40.190833,29.046111,,,CC0-1.0,16,Muradiye Complex,,külliye_medrese_türbe,külliye
+Q8053362,Yeşil Türbe,SIGHT,40.181389,29.074722,,,CC0-1.0,15,Yeşil Türbe,Çelebi Mehmet Türbesi | I. Mehmet Türbesi,anıt_heykel | külliye_medrese_türbe | mezar,anıt mezar | türbe
+Q8053361,İznik Yeşil Cami,SIGHT,40.429750,29.726860,,,CC0-1.0,15,Yeşil Mosque Iznik,Çandarlı Halil Hayrettin Paşa Camii | İznik Yeşil Cami,cami,cami
+Q617524,Apamea Myrlea,SIGHT,40.376400,28.883300,,Mudanya,CC0-1.0,14,Apamea Myrlea,Apamea Myrlea,arkeolojik_sit,antik kent | polis
+Q4809067,Uluabat Gölü,ACTIVITY,40.172600,28.590800,,,CC0-1.0,14,Lake Uluabat,Uluabat golu | Apollo gölü | Apolont Gölü | Öka | Ulubat Gölü | Apollont Gölü | Apolyont Gölü | Apolyon Gölü | Apollon gölü,göl,göl
+Q5437791,"Fatih Camii, Tirilye",SIGHT,40.393100,28.796900,,Mudanya,CC0-1.0,10,"Fatih Mosque, Bursa",Hagios Stephanos Hinolakkos Kilisesi,cami,cami
+Q5637427,Hacı Özbek Camii,SIGHT,40.181111,29.080833,,,CC0-1.0,10,Hacı Özbek Mosque,Çarşı Mescidi,cami,cami
+Q128256,Yıldırım Camii,SIGHT,40.187500,29.082500,,,CC0-1.0,10,Bayezid I Mosque,,cami,cami
+Q6082814,Bursa Arkeoloji Müzesi,SIGHT,40.195833,29.041111,,,CC0-1.0,9,Bursa Archaeological Museum,,müze,arkeoloji müzesi
+Q15227537,"Hüdavendigar Camii, Bursa",SIGHT,40.202416,29.021145,,,CC0-1.0,9,Hüdavendigar Mosque,I. Murat Camii,cami,cami | medrese
+Q6026873,Irgandı Köprüsü,SIGHT,40.181950,29.070830,,,CC0-1.0,9,Irgandı Bridge,Irgandı Çarşılı Köprü,köprü,köprü | örtülü köprü | kemerli köprü
+Q619312,Apollonia Ad Rhyndacum,SIGHT,40.169639,28.682528,,,CC0-1.0,8,Apollonia ad Rhyndacum,Apolyont,arkeolojik_sit,arkeolojik sit | miras | antik kent
+Q6055245,Koza Hanı,SIGHT,40.184333,29.063528,,,CC0-1.0,8,Koza Han,"Kozahan, Koza Hanı | Yeni Han | Han-ı Cedid | Yeni Kervansaray | Han-ı Cedid-i Evvel | Han-ı Cedid-i Amire | Beylik Kervansaray | Simkeş Han | Beylik Han",cazibe_unesco | han_hamam_çarşı | çarşı_pazar,çarşı | kervansaray | Dünya Mirası Alanı
+Q6038154,Orhan Gazi Camii,SIGHT,40.183889,29.064167,,,CC0-1.0,8,Orhan Gazi Mosque,Gazi Orhan Camii | Gazi Orhan Bey Camii,cami | cazibe_unesco,cami | yön bulma işareti
+Q21848538,Veled-i Yaniç Cami,SIGHT,40.185000,29.056417,,,CC0-1.0,8,Veled-i Yaniç Mosque,,cami,cami
+Q60744398,İznik Su Altı Bazilikası,SIGHT,40.425800,29.709800,,,CC0-1.0,8,Basilica of Saint Neophytos,Aziz Neophytos Bazilikası,kilise,bazilika | kilise harabesi
+Q38251727,Bursa Atatürk Müzesi,SIGHT,40.195111,29.039806,,,CC0-1.0,7,Bursa Atatürk Museum,,müze | ev_konak,müze ev | müze
+Q6068094,Tophane Saat Kulesi,SIGHT,40.187500,29.057500,,,CC0-1.0,7,Bursa Clock Tower,Bursa Tophane Saat Kulesi | Bursa Saat Kulesi,kule | kule_saat,saat kulesi
+Q6037443,Bursa Ormancılık Müzesi,SIGHT,40.200615,29.030748,,,CC0-1.0,6,Bursa Museum of Forestry,,müze,müze
+Q22977314,Bursa Protestan Kilisesi,SIGHT,40.180400,29.066000,,,CC0-1.0,6,Bursa Protestant Church,Fransız Kilisesi,kilise,kilise
+Q17622498,Miletopolis,SIGHT,40.209763,28.360805,,Mustafakemalpaşa,CC0-1.0,6,Miletopolis,,arkeolojik_sit,arkeolojik sit
+Q15622515,Pelekete manastırı (Tirilye),SIGHT,40.389436,28.753328,,Mudanya,CC0-1.0,6,Pelekete monastery,Hagios Ioannes Theologos | Aya Yani,kilise,kilise
+Q6094187,Uludağ Millî Parkı,ACTIVITY,40.072222,29.221389,,,CC0-1.0,6,Uludağ National Park,,milli_park_tabiat,millî park (Türkiye)
+Q5551944,Caesarea Germanica,SIGHT,40.166667,28.883333,,,CC0-1.0,5,Germanicopolis,,arkeolojik_sit,antik kent | şehir
+Q65064318,Karagöz Müzesi,SIGHT,40.202029,29.027140,,,CC0-1.0,5,Bursa Karagöz Museum,,müze,müze
+Q12810765,Mayor Sinagogu (Bursa),SIGHT,40.229218,29.091796,,,CC0-1.0,5,Mayor Synagogue,Mejor Sinagogu | Bursa Mayor Sinagogu | Mayor sinagogu (bursa),manastır_sinagog,sinagog
+Q6042901,Mudanya Mütareke Evi,SIGHT,40.379722,28.881667,,Mudanya,CC0-1.0,5,Mudanya Armistice House,,müze,tarih müzesi | müze
+Q12293240,Polikron Manastırı,SIGHT,40.387300,28.132500,,,CC0-1.0,5,Polychron,,manastır_sinagog,manastır
+Q6028979,Abdal Köprüsü,SIGHT,40.216160,29.012840,,,CC0-1.0,4,Abdal Bridge,,köprü,yaya köprüsü | taş köprü | kemerli köprü
+Q6047004,Bursa Tofaş Anadolu Arabaları Müzesi,SIGHT,40.176944,29.071389,,,CC0-1.0,4,Tofaş Museum of Cars and Anatolian Carriages,,müze,transport museum | özel müze | araba müzesi
+Q1236748,Ilıpınar Höyüğü,SIGHT,40.468212,29.308640,,,CC0-1.0,4,Ilıpınar,,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit | höyük
+Q1782816,Konstantin Köprüsü,SIGHT,40.204100,28.441474,,,CC0-1.0,4,Constantine's Bridge,Lopadion Köprüsü,köprü | arkeolojik_sit,güverte kemer köprüsü | taş köprü | köprü (Antik Roma)
+Q17622493,Miletuteikhos,SIGHT,40.212943,28.429191,,,CC0-1.0,4,Miletouteichos,,arkeolojik_sit,polis | antik kent
+Q20988496,Oylat Mağarası,SIGHT,39.943333,29.590556,,,CC0-1.0,4,Oylat Cave,,cazibe_unesco | doğa,turistik mağara
+Q17625216,Placia,SIGHT,40.397648,28.277410,,,CC0-1.0,4,Placia,,arkeolojik_sit,antik kent | polis
+Q30623134,Sadağı Kanyonu Tabiat Parkı,ACTIVITY,39.870278,28.907222,,,CC0-1.0,4,Sadağı Canyon Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
+Q6098147,Türk-İslam Eserleri Müzesi,SIGHT,40.181600,29.073200,,Yıldırım,CC0-1.0,4,Bursa Museum of Turkish and Islamic Art,Bursa Türk-İslam Eserleri Müzesi,müze,sanat müzesi | müze
+Q5156589,Yeşil Külliye,SIGHT,40.183841,29.061960,,,CC0-1.0,4,Complex of Mehmed I,I. Mehmed Külliyesi,külliye_medrese_türbe,külliye | bina
+Q18286239,Artaiouteichos,SIGHT,40.366649,28.478392,,,CC0-1.0,3,Artaiouteichos,,arkeolojik_sit,antik kent
+Q23695173,"Aziz Vasil Kilisesi, Tirilye",SIGHT,40.391750,28.794278,,Mudanya,CC0-1.0,3,"St. Basil's Church , Tirilye",Tirilye Kültür Merkezi,kilise,kilise
+Q16147317,Aziz Yuhanna Kilisesi,SIGHT,40.392444,28.794444,,Mudanya,CC0-1.0,3,"Agios Ioannis church, Tirilye",Dündar Evi | Aziz Yuhanna Kilisesi,kilise,kilise
+Q15622505,Batheos Rhyakos Soteros Manastırı (Tirilye),SIGHT,40.383333,28.800000,,,CC0-1.0,3,Batheos Rhyakos Monastery,,kilise,kilise
+Q40888312,Bursa Enerji Müzesi,SIGHT,40.200833,29.050833,,,CC0-1.0,3,Bursa Energy Museum,,müze,teknoloji müzesi
+Q131390740,Cem Sultan Türbesi,SIGHT,40.190510,29.045622,,,CC0-1.0,3,Tomb of Cem Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q127643002,Ertuğrul Bey Camii,SIGHT,40.185692,29.062826,,,CC0-1.0,3,Ertuğrul Bey Mosque,,cami,cami
+Q130645234,Eski Kaplıca,SIGHT,40.202306,29.023333,,Osmangazi (ilçe),CC0-1.0,3,Eski Kaplıca,Armutlu Hamamı,han_hamam_çarşı,hamam | hamam
+Q16931903,Kemerli Kilise (Tirilye),SIGHT,40.393250,28.795333,,Mudanya,CC0-1.0,3,"Panagia Pantobasilissa Church, Tirilye",Panagia Pontobasilissa Kilisesi,kilise,kilise
+Q65044531,Lopadion,SIGHT,40.203779,28.433943,,Karacabey ilçesi,CC0-1.0,3,Lupadium,Lupadium,arkeolojik_sit,antik kent
+Q6025120,Osmanlı Evi Müzesi,SIGHT,40.191457,29.045691,,,CC0-1.0,3,Ottoman House Museum,17. Yüzyıl Osmanlı Evi Müzesi,ev_konak | müze,müze | müze ev
+Q6012705,Pirinç Hanı,SIGHT,40.185699,29.060242,,,CC0-1.0,3,Pirinç Han,,han_hamam_çarşı,kervansaray
+Q47484780,İpek Hanı,SIGHT,40.185194,29.060944,,,CC0-1.0,3,İpek Han,Sultan Hanı | Faytoncular Hanı | Yeni İpek Hanı | Arabacılar Hanı | Han-ı Harir | Eski İpek Hanı,han_hamam_çarşı,Han | kervansaray
+Q122731621,İznik Müzesi,SIGHT,40.424111,29.720694,,,CC0-1.0,3,İznik Museum,İznik Arkeoloji Müzesi,müze,arkeoloji müzesi
+Q127788152,Şeker Hoca Camii,SIGHT,40.182877,29.061933,,Orhangazi (ilçe),CC0-1.0,3,Şeker Hoca Mosque,,cami,cami
+Q54915757,Balibey Hanı,SIGHT,40.184944,29.058611,,,CC0-1.0,2,Balibey Han,Vasıf Paşa Hanı,han_hamam_çarşı,kervansaray
+Q65043475,Basilica Therma (Bitinya),SIGHT,40.205714,29.042755,,,CC0-1.0,2,Basilica Therma,,arkeolojik_sit,antik kent
+Q5995062,Başmelekler Kilisesi,SIGHT,40.385278,28.827083,,Mudanya,CC0-1.0,2,The Church of the Archangels,Taksiarhi | Taxiarchis Kilisesi,kilise,kilise
+Q61072912,Bursa Atatürk Anıtı,SIGHT,40.182611,29.066833,,,CC0-1.0,2,"Ataturk statue, Bursa",,anıt_heykel,portrait statue
+Q20473519,Bursa Göç Tarihi Müzesi,SIGHT,40.199500,29.049100,,,CC0-1.0,2,Bursa Museum of Migration History,,müze,müze
+Q6040943,Bursa Kent Müzesi,SIGHT,40.182303,29.066604,,,CC0-1.0,2,Bursa City Museum,Eski Adliye Binası,müze,müze | kent müzesi
+Q65219967,Bursa Muradiye Camii,SIGHT,40.190972,29.046556,,,CC0-1.0,2,Muradiye Mosque,,cami,cami
+Q6021991,Bursa Yenişehir Şemaki Evi Müzesi,SIGHT,40.262561,29.651528,,,CC0-1.0,2,Şemaki Museum,Yenişehir Şemaki Evi Müzesi | Şemaki Evi Müzesi,ev_konak | müze,müze | müze ev
+Q60846866,Bursa ve Cumalıkızık: Osmanlı İmparatorluğu'nun Doğuşu,SIGHT,40.184730,29.062340,,Yıldırım,CC0-1.0,2,Bursa and Cumalıkızık: the Birth of the Ottoman Empire,,,yapı veya bina grubu
+Q135913465,Celal Karakaş Camii,SIGHT,40.257206,28.984840,,Osmangazi (ilçe),CC0-1.0,2,Celal Karakaş Mosque,Hamitler Celal Karakaş Camii,cami,cami
+Q118929768,Celâl Bayar Anıt Mezarı,SIGHT,40.416111,29.181944,,,CC0-1.0,2,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q65044555,Daphnus,SIGHT,40.171739,28.588844,,,CC0-1.0,2,Daphnus,Daphnous | Daphnus,arkeolojik_sit,antik kent
+Q65042623,Daskyleion,SIGHT,40.377645,28.674196,,,CC0-1.0,2,Dascylium,,arkeolojik_sit,antik kent
+Q21524994,Dikilitaş,SIGHT,40.487582,29.701905,,,CC0-1.0,2,Obelisk of Gaius Cassius Philiscus,İznik Dikilitaşı | Beştaş | Cassius Asklepiodotus'un Dikilitaşı,anıt_heykel,dikilitaş
+Q124261546,Fidan Han,SIGHT,40.185055,29.064131,,,CC0-1.0,2,Fidan Han,Mahmut Paşa Hanı | Saman Pazarı Hanı,han_hamam_çarşı,kervansaray
+Q20473482,Geyve Han,SIGHT,40.185139,29.063028,,,CC0-1.0,2,Geyve Han,Lonca Hanı | Ütücüler Hanı | Hacı İvaz Paşa Hanı | Payigâh Hanı,han_hamam_çarşı,kervansaray
+Q127786741,Hatice İsfendiyar Camii,SIGHT,40.185631,29.075054,,,CC0-1.0,2,Hatice İsfendiyar Mosque,At Pazarı Camii,cami,cami
+Q6021763,Hüdavendigar Camii,SIGHT,40.202500,29.020833,,,CC0-1.0,2,Hüdavendigar Complex,I. Murad Külliyesi,külliye_medrese_türbe,külliye
+Q132752942,Issız Han,SIGHT,40.220322,28.477657,,,CC0-1.0,2,Issız Han,,han_hamam_çarşı,kervansaray
+Q65045286,Liada,SIGHT,40.559956,29.668747,,İznik (ilçe),CC0-1.0,2,Liada,,arkeolojik_sit,antik kent
+Q1920950,Menteşe Höyüğü,SIGHT,40.276685,29.524008,,,CC0-1.0,2,Menteşe Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
+Q31190553,"Mübadele Evi, Görükle",SIGHT,40.232372,28.839087,,,CC0-1.0,2,"Mübadele Evi, Görükle",,müze,müze
+Q131921801,Namazgâh Camii (Bursa),SIGHT,40.177806,29.075667,,Yıldırım,CC0-1.0,2,"Namazgâh Camii, Bursa",,cami,cami
+Q85973875,Panorama 1326 Bursa Fetih Müzesi,SIGHT,40.186222,29.075556,,,CC0-1.0,2,,,müze,müze
+Q131406380,Pars Bey Türbesi,SIGHT,40.187469,29.060773,,,CC0-1.0,2,Mausoleum of Pars Bey,Bedreddin Mahmud Pars Bey Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q17625189,Pythopolis,SIGHT,40.396001,29.413577,,,CC0-1.0,2,Pythopolis,,arkeolojik_sit,polis | arkeolojik sit
+Q127786873,Sittî Hatun Camii,SIGHT,40.185799,29.073196,,,CC0-1.0,2,Sitti Hatun Mosque,Sitti Hatun Camii | Kamberler Camii,cami,cami
+Q6045732,Soğanlı Hayvanat Bahçesi,SIGHT,40.218525,29.047089,,,CC0-1.0,2,Soğanlı Zoo,Bursa Hayvanat Bahçesi,cazibe_unesco,hayvanat bahçesi
+Q137507481,Sülüklü Camii,SIGHT,40.189716,29.061038,,,CC0-1.0,2,Suluki Mosque,Süluki Camii,cami,yapı | cami
+Q127788227,Tavukçu Camii,SIGHT,40.186432,29.060780,,Orhangazi (ilçe),CC0-1.0,2,Tavukçu Mosque,Tavukçu Mescidi,cami,cami
+Q139421745,Tekke-i Cedid Camii,SIGHT,40.376323,28.884008,,Mudanya,CC0-1.0,2,Tekke-i Cedid Mosque,,cami,cami
+Q132752814,"Tuz Han, Bursa",SIGHT,40.184525,29.065725,,,CC0-1.0,2,Tuz Hanı (Bursa),,han_hamam_çarşı,kervansaray
+Q6023010,Uluumay Osmanlı Halk Kıyafetleri ve Takıları Müzesi,SIGHT,40.191664,29.046138,,,CC0-1.0,2,Ulumay Museum of Ottoman Folk Costumes & Jewellery,Bursa Uluumay Osmanlı Halk Kıyafetleri ve Takıları Müzesi,müze,Etnografya müzesi | müze
+Q116952987,Umurbey Camii,SIGHT,40.177694,29.071417,,Yıldırım,CC0-1.0,2,Umurbey Mosque,Umur Bey Camii | Omur Bey Camii,cami,cami
+Q20476815,Çoban Bey Türbesi,SIGHT,40.175639,29.072889,,Yıldırım,CC0-1.0,2,Çoban Bey Tomb,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q6034731,İstanbul Kapısı,SIGHT,40.436722,29.720545,,,CC0-1.0,2,,İznik Kuzey Kapısı,kale_sur,bina | şehir kapısı
+Q6028239,İznik Kalesi,SIGHT,40.422861,29.718028,,,CC0-1.0,2,İznik Castle,İznik Surları,kale_sur,kale | sur
+Q35160306,İznik Koimesis Manastırı,SIGHT,40.426390,29.724440,,,CC0-1.0,2,Monastery of the Dormition in Nicaea,,manastır_sinagog,manastır
+Q118929560,İznik Roma Tiyatrosu,SIGHT,40.426694,29.716889,,İznik (ilçe),CC0-1.0,2,Roman theater at Helikore/Nicaea,,arkeolojik_sit,tiyatro | Antik Roma tiyatrosu
+Q6026122,Şahadet Camii,SIGHT,40.186306,29.056028,,,CC0-1.0,2,Şahadet Mosque,Kale Camii | Şahadet Camii | Saray Camii,cami,cami
+Q127788151,Şehreküstü Camii,SIGHT,40.187633,29.060734,,Orhangazi (ilçe),CC0-1.0,2,Şehreküstü Mosque,Pars Bey Camii,cami,cami
+Q20587092,Şehzade Mustafa Türbesi,SIGHT,40.190365,29.045814,,,CC0-1.0,2,Türbe of Şehzade Mustafa,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q131391240,Abdüllatif Kudsi Türbesi,SIGHT,40.180298,29.083368,,Yıldırım,CC0-1.0,1,Tomb of Abdüllatif Kudsi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902183,Adranos Kalesi,SIGHT,39.928742,28.969572,,Orhaneli,CC0-1.0,1,Adranos Castle,Atranos Kalesi | Orhaneli Kalesi,kale_sur,kale
+Q135583031,Apollonia ad Rhyndacum Antik Tiyatrosu,SIGHT,40.169735,28.682600,,,CC0-1.0,1,Apollonia ad Rhyndacum Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q133236735,Apollonia ad Rhyndacum Sur Kalıntıları,SIGHT,40.166184,28.679867,,,CC0-1.0,1,Apollonia ad Rhyndacum Sur Kalıntıları,,kale_sur,kale | sur
+Q131391437,Azep Bey Camii,SIGHT,40.188641,29.044926,,,CC0-1.0,1,Azep Bey Mosque,Azeb Bey Camii,külliye_medrese_türbe | mezar | anıt_heykel | cami,türbe | cami
+Q131391759,Aşık Yunus Türbesi,SIGHT,40.179611,29.078184,,Yıldırım,CC0-1.0,1,Aşık Yunus Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q6099594,Barcın Höyük,SIGHT,40.266600,29.602100,,,CC0-1.0,1,Barcın Höyük,Yenişehir Batı Höyüğü | Yenişehir 2 Höyüğü | Üyecek Mevkii | Üyecek Tepe,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
+Q131738646,Batpazarı Hamamı,SIGHT,40.184696,29.069647,,,CC0-1.0,1,Batpazarı Baths,Davut Paşa Hamamı,han_hamam_çarşı,hamam
+Q131738645,Başçı İbrahim Hamamı,SIGHT,40.178379,29.062857,,,CC0-1.0,1,Başçı İbrahim Hammam,,han_hamam_çarşı,hamam
+Q140313024,Bursa Mevlevihane Müzesi,SIGHT,40.181967,29.056250,,,CC0-1.0,1,Bursa Mevlevi Dervishes' Lodge Museum,Bursa Mevlevihanesi Müzesi | Bursa Mevlevi Müzesi,müze,müze
+Q131811690,Bursa Oyuncak Müzesi,SIGHT,40.218330,28.933255,,,CC0-1.0,1,Bursa Toy Museum,,müze,müze | oyuncak müzesi
+Q6021244,Cumalıkızık Etnografya Müzesi,SIGHT,40.175058,29.171904,,Yıldırım,CC0-1.0,1,Cumalıkızık Ethnography Museum,,müze,Etnografya müzesi
+Q131738643,Cık Cık Hamamı,SIGHT,40.202541,29.021572,,,CC0-1.0,1,,Bekarlar Hamamı | Gir Çık Hamamı,han_hamam_çarşı,hamam
+Q131738644,Dayıoğlu Hamamı,SIGHT,40.184902,29.072929,,,CC0-1.0,1,Dayıoğlu Baths,,han_hamam_çarşı,hamam
+Q131390473,Devlet Hatun Türbesi,SIGHT,40.183863,29.075767,,Yıldırım,CC0-1.0,1,Devlet Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131535497,Dr. Ceyhun İrgil Sağlık Müzesi,SIGHT,40.214960,28.983074,,,CC0-1.0,1,Bursa Health History Museum,Nilüfer Belediyesi Dr. Ceyhun İrgil Sağlık Müzesi,müze,müze
+Q131391236,Ebe Gülbahar Hatun Türbesi,SIGHT,40.190517,29.045425,,,CC0-1.0,1,Tomb of Ebe Gülbahar Hatun,Ebe Kadın Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391189,Ebu İshak Türbesi,SIGHT,40.185545,29.070974,,,CC0-1.0,1,Tomb of Abu Ishaq,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752813,Emir Hanı,SIGHT,40.184574,29.062290,,,CC0-1.0,1,Emir Han,Bey Hanı,han_hamam_çarşı,kervansaray
+Q131738640,Emir Sultan Hamamı,SIGHT,40.180675,29.081112,,Yıldırım,CC0-1.0,1,Emir Sultan Baths,,han_hamam_çarşı,hamam
+Q131390468,Emir Sultan Türbesi,SIGHT,40.181469,29.080929,,Yıldırım,CC0-1.0,1,Emir Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738652,Eski Yeni Hamamı,SIGHT,40.187687,29.068277,,,CC0-1.0,1,,Ördekli Hamamı | Abdal Mehmet Hamamı,han_hamam_çarşı,hamam
+Q131390735,Eskici Baba Türbesi,SIGHT,40.182131,29.057845,,,CC0-1.0,1,Eskici Baba Tomb,Eskici Mehmet Dede Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135035014,"Fetih Kapı, Bursa",SIGHT,40.182709,29.053659,,,CC0-1.0,1,,,kale_sur,sur | tarihî bina
+Q125909029,Gazi Timurtaş Paşa Türbesi,SIGHT,40.184645,29.059536,,,CC0-1.0,1,Gazi Timurtaş Pasha Mausoleum,"Timurtaş Paşa Türbesi,",mezar | külliye_medrese_türbe | anıt_heykel,türbe
+Q127643105,Geyikli Baba Camii,SIGHT,40.108345,29.371134,,Kestel,CC0-1.0,1,Geyikli Baba Mosque,,cami | külliye_medrese_türbe,cami | külliye
+Q131390723,Geyikli Baba Türbesi,SIGHT,40.108400,29.371000,,Kestel,CC0-1.0,1,Geyikli Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391239,Gülruh Hatun Türbesi,SIGHT,40.190613,29.045406,,,CC0-1.0,1,Gulruh Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391434,Gülçiçek Hatun Türbesi,SIGHT,40.189030,29.049864,,,CC0-1.0,1,Tomb of Gülçiçek Hatun,Gülercek Sultan Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390471,Gülşah Hatun Türbesi,SIGHT,40.190224,29.045621,,,CC0-1.0,1,Gülşah Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q137170075,Hadrianoi,SIGHT,39.907486,28.976686,,Orhaneli,CC0-1.0,1,site of Hadrianoi,,arkeolojik_sit,arkeolojik sit
+Q132134529,Hagios Apostoloi Kilisesi,SIGHT,40.331390,28.915255,,Mudanya,CC0-1.0,1,Agios Apostoloi Church,Aydınpınar Köyü Kilisesi,kilise | cami | manastır_sinagog,cami | kilise | manastır
+Q135583293,Hamza Bey Türbesi,SIGHT,40.038483,28.410232,,Mustafakemalpaşa,CC0-1.0,1,Hamza Bey Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738648,Hasan Bey Hamamı,SIGHT,40.375534,28.883501,,Mudanya,CC0-1.0,1,Baths of Hasan Bey,,han_hamam_çarşı,hamam
+Q131391237,Hümâ Hatun Türbesi,SIGHT,40.190784,29.047028,,,CC0-1.0,1,Huma Hatun Tomb,Hatuniye Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q6045633,Hünkâr Köşkü,SIGHT,40.174194,29.064904,,,CC0-1.0,1,Hünkâr Mansion,,müze,müze
+Q118946695,I. Murad Hamamı,SIGHT,40.431778,29.720278,,İznik (ilçe),CC0-1.0,1,,İznik Çini Müzesi,han_hamam_çarşı,hamam
+Q131738465,II. Murat Hamamı,SIGHT,40.428274,29.720427,,,CC0-1.0,1,Baths of Murad II,Hacı Hamza Hamamı | Belediye Hamamı,han_hamam_çarşı,hamam
+Q105838485,Karacabey Longoz Ormanları,SIGHT,40.380722,28.426972,,,CC0-1.0,1,Karacabey Floodplain Forest,,,orman | korunan alan | taşkın yatağı
+Q131738647,Kayhan Hamamı,SIGHT,40.183361,29.070152,,,CC0-1.0,1,Kayhan Baths,Mehmed Ağa Hamamı | Kayıhan Hamamı | Dülger Hamamı | Ağaççılar Hamamı,han_hamam_çarşı,hamam
+Q131902334,Kite Kalesi,SIGHT,40.198826,28.878349,,,CC0-1.0,1,Kite Castle,,kale_sur,kale
+Q56153176,Kocaçay Deltası,SIGHT,40.393461,28.511749,,,CC0-1.0,1,Kocaçay Delta,,,delta
+Q122987161,Kırgızlar Türbesi,SIGHT,40.421111,29.718722,,,CC0-1.0,1,Kyrgyz Tomb,Kırkkızlar Türbesi | Reyhan Türbesi,mezar | külliye_medrese_türbe | anıt_heykel,türbe
+Q127787054,Lala Şahin Paşa Camii,SIGHT,40.033615,28.412067,,Mustafakemalpaşa,CC0-1.0,1,Lala Şahin Pasha Mosque,,cami | külliye_medrese_türbe,cami | külliye
+Q131391269,Lala Şahin Paşa Türbesi,SIGHT,40.033691,28.411871,,Mustafakemalpaşa,CC0-1.0,1,Lala Şahin Pasha Tomb,Lalaşahin Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738463,Mahkeme Hamamı,SIGHT,40.180666,29.065071,,,CC0-1.0,1,Mahkeme Baths,Çandarlı İbrahim Paşa Hamamı,han_hamam_çarşı,hamam
+Q131390741,Molla Arab Türbesi,SIGHT,40.174652,29.074095,,Yıldırım,CC0-1.0,1,Mausoleum of Molla Arab,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390731,Molla Fenari Türbesi,SIGHT,40.176997,29.059020,,,CC0-1.0,1,Tomb of Molla Fenari,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738654,Muallimzade Hamamı,SIGHT,40.182598,29.084757,,Yıldırım,CC0-1.0,1,Muallimzade Hammam,Dökümhane Hamamı,han_hamam_çarşı,hamam
+Q131741328,Muradiye Medresesi,SIGHT,40.190937,29.045734,,,CC0-1.0,1,Muradiye Madrasa,Muradiye Kuran ve El Yazmaları Müzesi | II. Murat Medresesi,müze,medrese | müze
+Q132681852,Muradiye Mezar Taşları Müzesi,SIGHT,40.190483,29.046402,,,CC0-1.0,1,,,müze,müze
+Q131391235,Mükrime Hatun Türbesi,SIGHT,40.190285,29.045500,,,CC0-1.0,1,Mükrime Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738810,Nalıncılar Hamamı,SIGHT,40.184506,29.066776,,,CC0-1.0,1,Nalıncılar Baths,Galle Pazarı Hamamı | Postacılar Hamamı | Tahıl Pazarı Hamamı | Hüdavendigar Hamamı | Çukur Hamam,han_hamam_çarşı,hamam
+Q131738456,Nasuh Paşa Hamamı,SIGHT,40.181461,29.068319,,,CC0-1.0,1,Nasuh Pasha Hammam,,han_hamam_çarşı,hamam
+Q108525733,Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi,SIGHT,40.210146,28.998540,,,CC0-1.0,1,Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi,Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi,müze,musical instrument museum
+Q131390467,Okçu Baba Türbesi,SIGHT,40.185303,29.058620,,,CC0-1.0,1,Okçu Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q97205834,Orhan Gazi Külliyesi,SIGHT,40.184222,29.063944,,Orhangazi (ilçe),CC0-1.0,1,Orhan Gazi Külliyesi,,külliye_medrese_türbe,külliye
+Q64699245,Orhan Gazi Türbesi,SIGHT,40.186778,29.057667,,,CC0-1.0,1,Orhan Gazi Tomb,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q131738811,Orhan Hamamı,SIGHT,40.184578,29.062893,,,CC0-1.0,1,Orhan Baths,Eski Aynalı Çarşı | Orhan Bey Hamamı,han_hamam_çarşı,hamam
+Q131391433,Oruç Bey Türbesi,SIGHT,40.184673,29.054254,,,CC0-1.0,1,Oruç Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131739178,Oruçbey Hamamı,SIGHT,40.185459,29.054419,,,CC0-1.0,1,Oruçbey Baths,,han_hamam_çarşı,hamam
+Q135583306,Osman Gazi Türbesi,SIGHT,40.186759,29.057320,,,CC0-1.0,1,Osman Gazi Türbesi,,kilise | külliye_medrese_türbe | mezar | anıt_heykel,martyrium | şapel | türbe
+Q131738812,Perşembe Hamamı,SIGHT,40.186001,29.062763,,,CC0-1.0,1,Perşembe Baths,Kadı Hamamı,han_hamam_çarşı,hamam
+Q131390742,Pir Emir Türbesi,SIGHT,40.175761,29.085522,,Yıldırım,CC0-1.0,1,Pir Emir Tomb,Piremir Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391206,Sarı Saltuk Türbesi,SIGHT,40.428521,29.734073,,,CC0-1.0,1,Sari Saltuk Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391421,Sağrıcı Sungur Türbesi,SIGHT,40.185226,29.060446,,,CC0-1.0,1,Tomb of Sağrıcı Sungur,Esir Dede Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390478,Sultan II. Murat Türbesi,SIGHT,40.190550,29.046020,,,CC0-1.0,1,Sultan II. Murat Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134728428,Süleyman Çelebi Anıt Mezarı,SIGHT,40.201466,29.028835,,,CC0-1.0,1,,,anıt_heykel | külliye_medrese_türbe | mezar,anıt mezar | türbe
+Q20471575,Tahir Paşa Konağı Kent Müzesi,SIGHT,40.376334,28.881815,,Mudanya,CC0-1.0,1,Tahir Pasha Mansion Museum House,Mudanya Tahir Paşa Konağı Kent Müzesi,müze | ev_konak,müze | kent müzesi | müze ev
+Q139436506,Tahtakale Kapısı,SIGHT,40.182663,29.057665,,,CC0-1.0,1,,,kale_sur,şehir kapısı
+Q131738657,Tavuk Pazarı Hamamı,SIGHT,40.185871,29.060913,,,CC0-1.0,1,Tavuk Pazarı Baths,Meyhaneli Hamamı,han_hamam_çarşı,hamam
+Q97320522,Tümbüldek Kaplıcaları,SIGHT,39.948677,28.431412,,Mustafakemalpaşa,CC0-1.0,1,Tümbüldek Kaplıcaları,,han_hamam_çarşı,hamam
+Q131390743,Umur Bey Türbesi,SIGHT,40.177558,29.071317,,Yıldırım,CC0-1.0,1,Umur Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738460,Yeni Kaplıca Hamamı,SIGHT,40.198943,29.038523,,,CC0-1.0,1,Yeni Kaplıca Baths,,han_hamam_çarşı,hamam
+Q49325368,Yeniköy Plajı,ACTIVITY,40.396111,28.381667,,,CC0-1.0,1,Yeniköy Beach,,doğa,plaj
+Q21527338,Yenişehir Saat Kulesi,SIGHT,40.261111,29.649778,,,CC0-1.0,1,Yenişehir Clock Tower,,kule | kule_saat,saat kulesi
+Q139436505,Yer Kapı,SIGHT,40.182468,29.056726,,Osmangazi (ilçe),CC0-1.0,1,,,kale_sur,şehir kapısı
+Q6091199,Yüğücek Höyük,SIGHT,40.419010,29.720663,,,CC0-1.0,1,Yüğücek Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
+Q131390744,Yıldırım Bayezid Türbesi,SIGHT,40.188118,29.082495,,Yıldırım,CC0-1.0,1,Yıldırım Bayezid Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q6025789,Yıldırım Külliyesi,SIGHT,40.187778,29.081944,,Yıldırım,CC0-1.0,1,Yıldırım Complex,I. Bayezid Külliyesi | Yıldırım Camii,külliye_medrese_türbe,külliye
+Q131738461,Çakır Hamamı,SIGHT,40.184061,29.059179,,,CC0-1.0,1,Çakır Baths,Çakır Ağa Hamamı,han_hamam_çarşı,hamam
+Q131390725,Çandarlı Kara Halil Hayrettin Paşa Türbesi,SIGHT,40.429000,29.731600,,,CC0-1.0,1,Çandarlı Kara Halil Hayrettin Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132752815,"Çukur Han, Bursa",SIGHT,40.184834,29.066914,,,CC0-1.0,1,Çukur Han (Bursa),Kite Hanı | Kütahya Hanı,han_hamam_çarşı,kervansaray
+Q131390736,Üftade Türbesi,SIGHT,40.182988,29.057976,,,CC0-1.0,1,Üftade Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391436,Üç Hanım Kızlar Türbesi,SIGHT,40.187389,29.047243,,,CC0-1.0,1,Tomb of Üç Hanım Kızlar,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738650,İncirli Hamamı,SIGHT,40.183621,29.077852,,Yıldırım,CC0-1.0,1,İncirli Baths,,han_hamam_çarşı,hamam
+Q131738630,İsmail Bey Hamamı,SIGHT,40.433468,29.722021,,,CC0-1.0,1,Baths of İsmail Bey,,han_hamam_çarşı,hamam
+Q132681853,İznik Türk İslam Eserleri Müzesi,SIGHT,40.430256,29.725668,,,CC0-1.0,1,,,müze,müze
+Q131391233,Şehzade Ahmet Türbesi,SIGHT,40.190640,29.046263,,,CC0-1.0,1,Tomb of Prince Ahmet,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390479,Şehzade Mahmut Türbesi,SIGHT,40.190417,29.045404,,,CC0-1.0,1,Tomb of Prince Mahmut,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738655,Şengül Hamamı,SIGHT,40.184353,29.061628,,,CC0-1.0,1,Şengül Baths of Osmangazi,Gümüşçüler Çarşısı,han_hamam_çarşı,hamam
+Q131390470,Şirin Hatun Türbesi,SIGHT,40.190707,29.045410,,,CC0-1.0,1,Şirin Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390738,Abdal Mehmet Türbesi,SIGHT,40.186946,29.068226,,,CC0-1.0,0,Abdal Mehmet Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390734,Abdal Murad Türbesi,SIGHT,40.180812,29.046300,,,CC0-1.0,0,Abdal Murad Tomb,Abdal Murad Hazîresi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q141970448,Agauroi Manastırı,SIGHT,40.194708,29.027380,,,CC0-1.0,0,Agauroi Monastery,,manastır_sinagog,manastır
+Q131391369,Akbıyık Sultan Ahmet Şemsettin Türbesi,SIGHT,40.117149,29.674988,,,CC0-1.0,0,Akbıyık Sultan Ahmet Şemsettin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe | nimelceyş kabri
+Q131391207,Akbıyık Sultan Türbesi,SIGHT,40.182028,29.062472,,,CC0-1.0,0,Akbıyık Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe | nimelceyş kabri
+Q132681924,Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi,SIGHT,40.174660,28.769825,,,CC0-1.0,0,,,müze,müze
+Q131390727,Alaaddin Ali Esved Türbesi,SIGHT,40.431100,29.724400,,,CC0-1.0,0,Tomb of Alaaddin Ali Esved,Kara Hoca Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390739,Altı Parmak Türbesi,SIGHT,40.189339,29.050967,,,CC0-1.0,0,Six Finger Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391749,Ana Sultan Türbesi,SIGHT,39.900032,29.223423,,Keles,CC0-1.0,0,Mother Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139431854,Apollonia ad Rhyndacum Kent Kapısı,SIGHT,40.174137,28.684580,,,CC0-1.0,0,,,kale_sur,şehir kapısı
+Q139436126,Apollonia ad Rhyndacum Stadium,SIGHT,40.171986,28.684608,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,antik stadyum
+Q132752810,Apolyont Han,SIGHT,40.186401,29.060053,,,CC0-1.0,0,Apolyont Han,Abulyond Han,han_hamam_çarşı,kervansaray
+Q131738908,Arap Hamamı,SIGHT,40.478058,29.122398,,,CC0-1.0,0,Arap Baths,Belediye Hamamı,han_hamam_çarşı,hamam
+Q131390730,Ay Dede Türbesi,SIGHT,40.174311,29.058754,,,CC0-1.0,0,Ay Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418524,Ayazköy Hamamı,SIGHT,40.205057,29.573642,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131391701,Azep Bey Türbesi,SIGHT,40.188591,29.044910,,,CC0-1.0,0,Azep Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139431497,Aziz Konstantinos Manastırı,SIGHT,40.176380,29.048641,,Osmangazi (ilçe),CC0-1.0,0,,,manastır_sinagog,manastır
+Q139421417,Baba Sultan Hamamı,SIGHT,40.108670,29.369728,,Kestel,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131390733,Babazakir Alaattin Türbesi,SIGHT,40.178952,29.075875,,Yıldırım,CC0-1.0,0,Tomb of Babazakir Alaattin,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391367,Bakmaca Türbesi,SIGHT,40.013145,29.682394,,,CC0-1.0,0,Bakmaca Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436529,Bakırcılar Kapalı Çarşısı,SIGHT,40.184647,29.060465,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q131902335,Balabanbey Hisarı,SIGHT,40.174339,29.072555,,Yıldırım,CC0-1.0,0,Balabanbey Castle,Balabancık Hisarı | Balabanbey Kalesi,kale_sur,kale
+Q131391363,Baykoca Bey Türbesi,SIGHT,40.134068,29.525564,,,CC0-1.0,0,Baykoca Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391698,Bekir Dede Türbesi,SIGHT,40.187950,29.062767,,,CC0-1.0,0,Bekir Dede Tomb,Zafranlık Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134728105,Berberkaya Anıt Mezarı,SIGHT,40.427200,29.740601,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q139421473,Burgos,SIGHT,40.355142,28.929620,,Mudanya,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q139436543,Bursa Bedesteni,SIGHT,40.185173,29.062025,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q132681864,Bursa Darphanesi,SIGHT,40.177986,29.060595,,,CC0-1.0,0,Bursa Mint,Darphane Kültür Merkezi ve Para Müzesi,müze,müze
+Q132681898,Bursa Yaşam Kültürü Müzesi,SIGHT,40.180885,29.058092,,,CC0-1.0,0,,,müze,müze
+Q132682011,Bursa-Celal Bayar Vakfı ve Müzesi,SIGHT,40.414720,29.181667,,,CC0-1.0,0,,,müze,müze
+Q131391821,Bülbül Hatun ve Ahmet Bey’in Türbesi,SIGHT,40.223942,28.364075,,,CC0-1.0,0,Tomb of Bülbül Hatun and Ahmet Bey,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q133245846,"Büyük Hamam, Büyükkumla",SIGHT,40.502064,29.087559,,,CC0-1.0,0,Büyük Hamam (Büyükkumla),,han_hamam_çarşı,hamam
+Q131391238,Cariyeler Türbesi,SIGHT,40.190888,29.046995,,,CC0-1.0,0,Tomb of the Concubines,Saraylılar Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131739177,Cumalıkızık Hamamı,SIGHT,40.175323,29.171261,,Yıldırım,CC0-1.0,0,Cumalıkızık Baths,,han_hamam_çarşı,hamam
+Q139431202,Daskyleion ad Mare,SIGHT,40.373241,28.676924,,Mudanya,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q131390728,Davud-i Kayseri Türbesi,SIGHT,40.431462,29.725578,,,CC0-1.0,0,Davud-i Kayseri Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182816,Dedebayırı,SIGHT,40.255753,28.372105,,,CC0-1.0,0,Dedebayırı,,arkeolojik_sit | anıt_heykel,höyük
+Q131738464,Demirtaş Paşa Hamamı,SIGHT,40.188315,29.071090,,,CC0-1.0,0,Baths of Demirtaş Paşa,,han_hamam_çarşı,hamam
+Q131390729,Dolu Baba Türbesi,SIGHT,40.118898,29.045006,,,CC0-1.0,0,Tomb of Dolu Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135959937,Dörttepeler Tümülüsü,SIGHT,40.480061,29.717886,,,CC0-1.0,0,Dörttepeler Tumulus,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
+Q132752808,"Eskişehir Hanı, Bursa",SIGHT,40.184975,29.070011,,,CC0-1.0,0,Eskişehir Hanı (Bursa),,han_hamam_çarşı,kervansaray
+Q134735179,Fethullah Dede Türbesi,SIGHT,40.179115,29.074902,,Yıldırım,CC0-1.0,0,Fethullah Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436530,Gelincik Çarşısı,SIGHT,40.185558,29.062452,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q131391364,Gençali Türbesi,SIGHT,40.038029,29.464605,,,CC0-1.0,0,Gencali Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436494,Geruş Sinagogu,SIGHT,40.188644,29.055086,,Osmangazi (ilçe),CC0-1.0,0,,,manastır_sinagog,sinagog
+Q131738667,Geyikli Baba Hamamı,SIGHT,40.108318,29.370638,,Kestel,CC0-1.0,0,Geyikli Baba Baths,,han_hamam_çarşı,hamam
+Q139437001,Göl Kapı,SIGHT,40.429829,29.713816,,İznik (ilçe),CC0-1.0,0,,,kale_sur,şehir kapısı
+Q139421416,Gözede Hamamı,SIGHT,40.153262,29.284746,,Kestel,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132134558,Gürsu Orta Cami,SIGHT,40.216038,29.194519,,Gürsu,CC0-1.0,0,Gürsu Orta Cami,Meryem Ana Rum Kilisesi | Orta cami,kilise | cami | manastır_sinagog,cami | kilise | manastır
+Q131523788,Hagios Aberkios Manastırı,SIGHT,40.361752,29.026457,,,CC0-1.0,0,Monastery of Agios Aberkios,,manastır_sinagog,manastır
+Q139424715,Hamam (Gölyazı),SIGHT,40.166148,28.679578,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131739175,"Hamam Kalıntısı 1, İznik",SIGHT,40.425556,29.719217,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131739176,"Hamam Kalıntısı 2, İznik",SIGHT,40.429089,29.727135,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131391231,Hamza Bey Türbesi,SIGHT,40.192295,29.041450,,,CC0-1.0,0,Tomb of Hamza Bey,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391703,Hamza Bey’in Eşi ve Kızları Türbesi,SIGHT,40.192150,29.041542,,,CC0-1.0,0,Tomb of Hamza Bey's Wife and Daughters,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391516,Harmanlık Dede Türbesi,SIGHT,40.477112,29.117586,,,CC0-1.0,0,Harmanlık Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391366,Hasan Dede Türbesi,SIGHT,40.146126,29.411306,,,CC0-1.0,0,Hasan Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139421517,Hasanbey Türbesi,SIGHT,40.375054,28.882182,,Mudanya,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391242,Hatice Sultan Türbesi,SIGHT,40.198490,29.036888,,,CC0-1.0,0,Hatice Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139429472,Havlucular Çarşısı,SIGHT,40.184331,29.060877,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q131738462,Haydarhane Hamamı,SIGHT,40.178647,29.058078,,,CC0-1.0,0,Haydarhane Baths,,han_hamam_çarşı,hamam
+Q134728639,Hisar Kapısı,SIGHT,40.185543,29.057905,,,CC0-1.0,0,Hisar Gate,,kale_sur,anıtsal kapı | şehir kapısı
+Q131902255,"Hisarkale, Müşküle",SIGHT,40.352345,29.525299,,,CC0-1.0,0,Hisarkale (Müşküle),,kale_sur,kale
+Q131391752,Huysuzlar Türbesi,SIGHT,40.432903,29.720089,,,CC0-1.0,0,Tomb of the Grumpy,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132682021,Hüsnü Züber Yaşayan Müze,SIGHT,40.189993,29.045119,,,CC0-1.0,0,,,müze,müze
+Q139436526,Kapalı Çarşı (Bursa),SIGHT,40.184811,29.062260,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q132752812,Kapan Han,SIGHT,40.183956,29.060650,,,CC0-1.0,0,Kapan Han,,han_hamam_çarşı,kervansaray
+Q131391262,Kara Mustafa Paşa Türbesi,SIGHT,40.192497,29.041573,,,CC0-1.0,0,Tomb of Kara Mustafa Pasha,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182430,Karadin Höyük,SIGHT,40.428901,29.883403,,,CC0-1.0,0,Karadin Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182433,Karasıl I Höyük,SIGHT,40.223120,29.581017,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182434,Karasıl II Höyük,SIGHT,40.215183,29.561667,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131391470,Karıştıran Süleyman Bey Türbesi,SIGHT,40.190269,29.045189,,,CC0-1.0,0,Tomb of Suleiman Bey the Mixer,Karışduran Süleyman Bey Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe | nimelceyş kabri
+Q139421414,Keramet Hamamı,SIGHT,40.509522,29.476003,,Orhangazi (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131738532,Keramet Ilıcası,SIGHT,40.498269,29.476399,,,CC0-1.0,0,Keramet Ilıcası,,han_hamam_çarşı,hamam
+Q131901854,Kestel Kalesi,SIGHT,40.201805,29.215584,,Kestel,CC0-1.0,0,Kestel Castle,,kale_sur,kale
+Q131902139,Kestelek Kalesi,SIGHT,39.962437,28.585739,,Mustafakemalpaşa,CC0-1.0,0,Kestelek Castle,,kale_sur,kale
+Q131738651,Keçeli Hamamı,SIGHT,40.200569,29.018068,,,CC0-1.0,0,Keçeli Baths,,han_hamam_çarşı,hamam
+Q139432084,Kirazlıyayla Kaya Mezarı,SIGHT,40.349091,29.595347,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q131738877,Kiremitçi Hamamı,SIGHT,40.191055,29.063662,,,CC0-1.0,0,Kiremitçi Baths,,han_hamam_çarşı,hamam
+Q133236309,Kulacahisar,SIGHT,40.092224,29.590386,,,CC0-1.0,0,Kulaca Hisar,,kale_sur,kale
+Q132182441,Kurşunlu Höyük,SIGHT,40.049983,29.637467,,,CC0-1.0,0,Kurşunlu Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131523790,Kurşunlu Manastırı,SIGHT,40.399487,28.267982,,,CC0-1.0,0,Monastery of Kurşunlu,,manastır_sinagog,manastır
+Q133245877,Köprühisar Hamamı,SIGHT,40.278763,29.786619,,,CC0-1.0,0,Köprühisar Baths,,han_hamam_çarşı,hamam
+Q132182435,Köprühisar Höyük,SIGHT,40.279002,29.790540,,,CC0-1.0,0,Köprühisar Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132134413,Kümbetli Camii,SIGHT,40.220326,28.363329,,,CC0-1.0,0,Kümbetli Mosque,Tümbekli Camii | Dümbekli Camii,kilise | cami | manastır_sinagog,cami | sinagog | kilise
+Q131738909,Küçük Hamam,SIGHT,40.502899,29.088100,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132681803,"Kılıç Kalkan Evi Müzesi, Bursa",SIGHT,40.181103,29.070377,,Yıldırım,CC0-1.0,0,Kılıç Kalkan House Museum (Bursa),,müze,müze
+Q132182436,Marmaracık Höyük,SIGHT,40.235282,29.429007,,,CC0-1.0,0,Marmaracık Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q108440644,Merinos Tekstil Sanayi Müzesi,SIGHT,40.199686,29.051572,,,CC0-1.0,0,Merinos Textile Industry Museum,,müze,müze
+Q131738879,Miletopolis Kalıntıları,SIGHT,40.058250,28.364243,,Mustafakemalpaşa,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131738637,Muradiye Hamamı,SIGHT,40.190880,29.045033,,,CC0-1.0,0,Muradiye Baths,Bekçiyan Hamamı | II. Murat Hamamı,han_hamam_çarşı,hamam
+Q132182437,Okuf Höyük,SIGHT,40.187617,29.551617,,,CC0-1.0,0,Okuf Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q64699411,Old Turkish Bath of Hüdavendigar Külliyesi,SIGHT,40.202220,29.023330,,,CC0-1.0,0,Old Turkish Bath of Hüdavendigar Complex,,han_hamam_çarşı,hamam
+Q139422499,Orhan Gazi Hamamı,SIGHT,40.182879,29.732477,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q64699247,Orhan Gazi Külliyesi,SIGHT,40.184730,29.062340,,,CC0-1.0,0,Orhan Gazi Külliye,,külliye_medrese_türbe,külliye
+Q131738760,Orhan Hamamı,SIGHT,40.421524,29.720592,,,CC0-1.0,0,Orhan Baths,Orhan Gazi Hamamı | İznik Orhan İmareti,han_hamam_çarşı,hamam
+Q139421410,Ortaköy Hamamı (Orhangazi),SIGHT,40.555087,29.342624,,Orhangazi (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132752919,Ortaköy Kervansarayı,SIGHT,40.026646,29.566345,,,CC0-1.0,0,Ortaköy Caravanserai,,han_hamam_çarşı,kervansaray
+Q131738823,Oruç Bey Hamamı,SIGHT,40.184769,29.054071,,,CC0-1.0,0,Baths of Oruç Bey,,han_hamam_çarşı,hamam
+Q132182803,Palangatepe Höyük,SIGHT,40.112621,29.477520,,,CC0-1.0,0,Palangatepe Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131391426,Pars Bey Türbesi,SIGHT,40.187443,29.060772,,,CC0-1.0,0,Pars Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738820,Reyhan Paşa Hamamı,SIGHT,40.186909,29.063004,,,CC0-1.0,0,Baths of Reyhan Paşa,,han_hamam_çarşı,hamam
+Q131391368,Samsa Çavuş Türbesi,SIGHT,40.166973,29.471291,,,CC0-1.0,0,Samsa Sergeant Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391735,Selahaddin Buhari Türbesi,SIGHT,39.923687,29.128561,,Keles,CC0-1.0,0,Tomb of Saladin Bukhari,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139431651,Senato Sarayı,SIGHT,40.427521,29.711636,,İznik (ilçe),CC0-1.0,0,,,ev_konak | saray_köşk,saray
+Q127788339,Sinan Paşa Camii,SIGHT,40.260193,29.653793,,,CC0-1.0,0,"Sinan Pasha Mosque, Yenişehir",,cami | külliye_medrese_türbe,cami | külliye
+Q139436531,Sipahi Çarşısı,SIGHT,40.185696,29.062458,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q131391232,Sultan Alaaddin Türbesi,SIGHT,40.190552,29.046190,,,CC0-1.0,0,Tomb of Sultan Alaaddin,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139437263,Sultan I. Murat Türbesi,SIGHT,40.202656,29.020744,,Osmangazi (ilçe),CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q132752687,"Sulu Han, Karacabey",SIGHT,40.249825,28.180866,,,CC0-1.0,0,Sulu Han (Karacabey),Sulu Han | Suluhan | Issız Han,han_hamam_çarşı,kervansaray
+Q131391365,Sungur Paşa Türbesi,SIGHT,40.183563,29.485874,,,CC0-1.0,0,Sungur Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182438,Söylemiş Höyük,SIGHT,40.232783,29.611950,,,CC0-1.0,0,Söylemiş Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131391361,Tacü’n-Nisa Sultan Hatun Türbesi,SIGHT,40.078308,29.511911,,,CC0-1.0,0,Tacü'n-Nisa Sultan Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738656,Tahir Ağa Hamamı,SIGHT,40.377068,28.884247,,Mudanya,CC0-1.0,0,Baths of Tahir Ağa,,han_hamam_çarşı,hamam
+Q131390462,Tezveren Dede Türbesi,SIGHT,40.179312,29.057545,,,CC0-1.0,0,Tezveren Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738636,Tirilye Hamamı,SIGHT,40.392879,28.796720,,Mudanya,CC0-1.0,0,Tirilye Baths,Avlulu Hamam,han_hamam_çarşı,hamam
+Q131902138,Tophisar Kalesi,SIGHT,40.223926,28.170467,,,CC0-1.0,0,Tophisar Castle,,kale_sur,kale
+Q139431496,Trikhalis Manastırı,SIGHT,40.180683,29.046270,,Osmangazi (ilçe),CC0-1.0,0,,,manastır_sinagog,manastır
+Q131391362,Turgut Alp Türbesi,SIGHT,40.044014,29.383560,,,CC0-1.0,0,Turgut Alp Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436527,Ulu Çarşı,SIGHT,40.184269,29.060526,,Osmangazi (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q131738641,Umurbey Hamamı,SIGHT,40.177231,29.071783,,Yıldırım,CC0-1.0,0,Umurbey Baths,,han_hamam_çarşı,hamam
+Q131738658,Vani Hamamı,SIGHT,40.200192,29.213696,,Kestel,CC0-1.0,0,Vani Baths,Şifa Hamamı,han_hamam_çarşı,hamam
+Q131390481,Veysel Karani Türbesi,SIGHT,40.211832,29.083586,,,CC0-1.0,0,Veysel Karani Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391435,Yahşi Bey Türbesi,SIGHT,40.189129,29.050159,,,CC0-1.0,0,Yahşi Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738659,Yakup Çelebi Hamamı,SIGHT,39.912476,29.232668,,Keles,CC0-1.0,0,Yakup Çelebi Baths,,han_hamam_çarşı,hamam
+Q131391203,Yakup Çelebi Türbesi,SIGHT,40.425880,29.722963,,,CC0-1.0,0,Tomb of Yakup Çelebi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182432,Yeniköy-Orhangazi Höyük,SIGHT,40.499921,29.369400,,,CC0-1.0,0,Yeniköy–Orhangazi Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182425,Yenişehir I (Bostin Boş Tepe),SIGHT,40.266667,29.645717,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q134728640,Yenişehir Kapı,SIGHT,40.423504,29.719238,,,CC0-1.0,0,,,kale_sur,anıtsal kapı | şehir kapısı
+Q139428863,Yeşil Hamam (Bursa),SIGHT,40.181504,29.074167,,Yıldırım,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q132183004,Yolağzı Höyük,SIGHT,40.136400,28.316139,,,CC0-1.0,0,Yolağzı Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131738638,Yıldırım Bayezid Hamamı,SIGHT,40.186920,29.081421,,Yıldırım,CC0-1.0,0,Yıldırım Bayezid Baths,Yıldırım Hamamı,han_hamam_çarşı,hamam
+Q135035013,Zindankapı,SIGHT,40.183983,29.049740,,,CC0-1.0,0,Zindankapı,,kale_sur,sur | tarihî bina
+Q132182427,Çakırca Höyük,SIGHT,40.462683,29.685033,,,CC0-1.0,0,Çakırca Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q134735138,Çandarlı Halil Paşa Türbesi,SIGHT,40.429207,29.725460,,,CC0-1.0,0,Çandarlı Halil Paşa Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391747,Çandarlı Türbesi,SIGHT,40.429009,29.728388,,,CC0-1.0,0,Çandarlı İbrahim Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738642,Çandarlı İbrahim Paşa Hamamı,SIGHT,40.186840,29.053669,,,CC0-1.0,0,Baths of Çandarlı İbrahim Paşa,,han_hamam_çarşı,hamam
+Q132182428,"Çardak, Üvecik",SIGHT,40.264387,29.538707,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182429,Çayırköy Höyük,SIGHT,40.210483,28.912250,,,CC0-1.0,0,Çayırköy Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q131738459,Çekirge Sultan Adak Hamamı,SIGHT,40.201154,29.017749,,,CC0-1.0,0,Çekirge Sultan Baths,Kadın Hamamı | Gelin Hamamı,han_hamam_çarşı,hamam
+Q139422489,Çifte Hamam (Yenişehir),SIGHT,40.261424,29.650139,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q139432213,Çiftekaya Tepe,SIGHT,40.339590,29.019247,,Gemlik (ilçe),CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q131902257,Çingene Kale,SIGHT,40.368168,28.310818,,,CC0-1.0,0,Çingene Castle,Çingen Kale,kale_sur,kale
+Q132182431,"Üyücek Höyük, İznik",SIGHT,40.419567,29.766833,,,CC0-1.0,0,Üyücek Höyük (İznik),,arkeolojik_sit | anıt_heykel,höyük
+Q131390732,Üç Kuzular Türbesi,SIGHT,40.177104,29.056778,,,CC0-1.0,0,Tomb of the Three Lambs,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738872,İnebey Hamamı,SIGHT,40.182747,29.060982,,,CC0-1.0,0,İnebey Baths,Eyne Bey Hamamı,han_hamam_çarşı,hamam
+Q139437006,İnegöl Bedesteni,SIGHT,40.078281,29.511064,,İnegöl (ilçe),CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
+Q132682136,İnegöl Eski Belediye Binası,SIGHT,40.078289,29.512552,,,CC0-1.0,0,,İnegöl Kent Müzesi,müze,müze | mimari yapı
+Q132182426,"İnegöl I, Cumatepe",SIGHT,40.079883,29.510233,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q132182440,İnegöl II Höyük,SIGHT,40.066383,29.546617,,,CC0-1.0,0,İnegöl Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132681877,İnegöl Mobilya Ağaç Sanayi Müzesi,SIGHT,40.078224,29.513046,,,CC0-1.0,0,,,müze,müze
+Q132134053,İshak Paşa Camii,SIGHT,40.078468,29.512030,,,CC0-1.0,0,İshak Paşa Mosque,,cami | külliye_medrese_türbe,cami | külliye
+Q131391467,İshak Paşa Türbesi,SIGHT,40.078426,29.511913,,,CC0-1.0,0,Ishak Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe | nimelceyş kabri
+Q139429765,İznik Nekropolü,SIGHT,40.426210,29.717028,,İznik (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q132681855,İznik Çini Müzesi,SIGHT,40.431721,29.720425,,,CC0-1.0,0,,,müze,müze
+Q132752809,İç Koza Han,SIGHT,40.184483,29.064043,,,CC0-1.0,0,İç Koza Han,,han_hamam_çarşı,kervansaray
+Q139426121,Şahinyurdu Hamamı,SIGHT,40.465405,29.216132,,Gemlik (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131391702,Şair Ahmet Paşa Türbesi,SIGHT,40.191753,29.046001,,,CC0-1.0,0,Tomb of Poet Ahmet Pasha,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391754,Şehit Hacı Yakup Efendi Türbesi,SIGHT,40.183647,29.048098,,,CC0-1.0,0,Tomb of Martyr Hacı Yakup Efendi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139421493,Şehit Mehmet Mezarı,SIGHT,40.353750,28.931082,,Mudanya,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
+Q131391284,Şehzade Süleyman Türbesi,SIGHT,40.264069,29.651026,,,CC0-1.0,0,Tomb of Prince Suleiman,Şehzade Süleyman Türbesi ve Medresesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391704,Şeker Hoca Türbesi,SIGHT,40.182789,29.061894,,,CC0-1.0,0,Seker Hodja Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391515,Şeyh Abdullah Türbesi,SIGHT,40.477398,29.121727,,,CC0-1.0,0,Tomb of Sheikh Abdullah,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390726,Şeyh Kutbettin Türbesi,SIGHT,40.429900,29.726200,,,CC0-1.0,0,Sheikh Kutbettin Tomb,Şeyh Kutbuddin Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391685,Şeyh Mehmed Emin Efendi Türbesi,SIGHT,40.179405,29.061525,,,CC0-1.0,0,Tomb of Sheikh Mehmed Emin Efendi,Şeyh Mehmed Emin Nakşibendî Türbesi | Mehmed Emin Kerkükî Türbesi | Eminiyye Dergâhı,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132134537,Şeyh Müftü Camii,SIGHT,40.035076,28.410414,,Mustafakemalpaşa,CC0-1.0,0,Şeyh Müftü Mosque,,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe
+Q135583294,Şeyh Müftü Türbesi,SIGHT,40.035075,28.410175,,Mustafakemalpaşa,CC0-1.0,0,Şeyh Müftü Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139421860,Şükrü Çavuş ve Şehitler Anıtı,SIGHT,40.373438,28.888723,,Mudanya,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar

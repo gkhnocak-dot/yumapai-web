@@ -1,0 +1,34 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q302511,Heraclea Pontica,SIGHT,41.284722,31.414722,,Karadeniz Ereğli,CC0-1.0,32,Heraclea Pontica,Heraklea Pontica | Heraclea | Karadeniz Ereğlisi,arkeolojik_sit,arkeolojik sit | polis
+Q5626477,Gökgöl Mağarası,SIGHT,41.443056,31.831389,,,CC0-1.0,7,Gökgöl Cave,,cazibe_unesco | doğa,turistik mağara
+Q24915637,Çayırköy Mağarası,SIGHT,41.451858,31.987247,,,CC0-1.0,5,Çayırköy Cave,,doğa | cazibe_unesco,turistik mağara | mağara
+Q24915638,Cumayanı Mağarası,ACTIVITY,41.496600,31.948100,,,CC0-1.0,4,Cumayanı Cave,,doğa,mağara
+Q24915646,Ilıksu Mağarası,ACTIVITY,41.396944,31.778333,,,CC0-1.0,4,Ilıksu Cave,,doğa,mağara
+Q6005169,Karadeniz Ereğli Müzesi,SIGHT,41.280833,31.418333,,Karadeniz Ereğli,CC0-1.0,4,Karadeniz Ereğli Museum,Halil Paşa Konağı,müze,müze
+Q24915663,Kızılelma Mağarası,ACTIVITY,41.453120,31.935100,,,CC0-1.0,4,Kızılelma Cave,,doğa,mağara
+Q24915644,İnağzı Mağarası,ACTIVITY,41.471389,31.828333,,,CC0-1.0,4,İnağzı Cave,,doğa,mağara
+Q24915639,Erçek Mağarası,SIGHT,41.446500,31.917400,,,CC0-1.0,3,Erçek Cave,,cazibe_unesco | doğa,turistik mağara
+Q65046773,Metroon,SIGHT,41.346667,31.481667,,Karadeniz Ereğli,CC0-1.0,3,Metroon,,arkeolojik_sit,antik kent
+Q24915648,Sofular Mağarası,SIGHT,41.446840,31.964630,,,CC0-1.0,3,Sofular Cave,,cazibe_unesco | doğa,turistik mağara
+Q60793257,Crenides,SIGHT,41.490650,31.840950,,,CC0-1.0,2,Crenides,,arkeolojik_sit,antik kent
+Q65046326,Oksinas,SIGHT,41.407123,31.674661,,,CC0-1.0,2,Oxinas,Oxinas,arkeolojik_sit,antik kent
+Q65046787,Sandaraca,SIGHT,41.456667,31.786667,,,CC0-1.0,2,Sandaraca,,arkeolojik_sit,antik kent
+Q49319098,Cehennemağzı Mağaraları,ACTIVITY,41.316944,31.449167,,,CC0-1.0,1,Cehennemağzı Caves,,doğa,mağara
+Q49319146,Ercek Mağarası,ACTIVITY,41.446389,31.917500,,,CC0-1.0,1,Ercek Cave,,doğa,mağara
+Q49319213,Güdüllü Mağarası,ACTIVITY,41.437500,31.968611,,,CC0-1.0,1,Güdüllü Cave,,doğa,mağara
+Q118958363,Zonguldak Maden Müzesi,SIGHT,41.447444,31.814599,,,CC0-1.0,1,Zonguldak Mining Museum,,müze,müze | özel müze
+Q49319927,İncesazaltı Mağaraları,ACTIVITY,41.180556,31.403333,,,CC0-1.0,1,İncesazaltı Caves,,doğa,mağara
+Q108228195,İncüvez Çamlığı,ACTIVITY,41.185931,31.390667,,,CC0-1.0,1,İncüvez Çamlığı,İncüvez Çamlığı Tabiat Parkı,milli_park_tabiat,tabiat parkı (Türkiye)
+Q131739228,Ali Ağa Hamamı,SIGHT,41.280270,31.422243,,Karadeniz Ereğli,CC0-1.0,0,Ali Ağa Baths,,han_hamam_çarşı,hamam
+Q131739227,Bozhane Hamamı,SIGHT,41.284100,31.413994,,Karadeniz Ereğli,CC0-1.0,0,Bozhane Baths,,han_hamam_çarşı,hamam
+Q133236736,"Ereğli Kalesi, Zonguldak",SIGHT,41.288601,31.419642,,Karadeniz Ereğli,CC0-1.0,0,Ereğli Castle (Zonguldak),Herakleia Pontiki Kalesi,kale_sur,kale | sur
+Q131901858,Filyos Kalesi,SIGHT,41.573406,32.030017,,,CC0-1.0,0,Filyos Castle,,kale_sur,kale
+Q139437293,Gökgöl Mağarası,ACTIVITY,41.440610,31.833176,,,CC0-1.0,0,,,doğa,mağara
+Q139424034,Kdz. Ereğli Akheron Nekropolü,SIGHT,41.295159,31.408676,,Karadeniz Ereğli,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q137807331,Psylla,SIGHT,41.509600,31.893900,,,CC0-1.0,0,Psylla,,çarşı_pazar | arkeolojik_sit,emporion
+Q135582650,Tios Antik Tiyatrosu,SIGHT,41.568130,32.034420,,,CC0-1.0,0,Tios Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q139436794,U-19 Batığı,SIGHT,41.199322,31.209145,,Alaplı ilçesi,CC0-1.0,0,,,arkeolojik_sit,gemi enkazı
+Q109531718,Zonguldak Maden Müzesi,SIGHT,41.456073,31.798962,,,CC0-1.0,0,Zonguldak Maden Museum,,müze,müze
+Q132681974,Çanakçılar A.Ş.Arkeoloji ve Etnografya Müzesi,SIGHT,41.304922,32.140160,,,CC0-1.0,0,,,müze,müze
+Q132182963,Çeştepe Fener Kulesi,SIGHT,41.296497,31.396687,,Karadeniz Ereğli,CC0-1.0,0,Çeştepe Fener Kulesi,,arkeolojik_sit | anıt_heykel,höyük
+Q139424032,İskenderli Tümülüsü,SIGHT,41.228847,31.785960,,Karadeniz Ereğli,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs

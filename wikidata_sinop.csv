@@ -1,0 +1,42 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q6055249,Alaeddin Camii,SIGHT,42.026389,35.148333,,,CC0-1.0,11,Alâeddin Sinop Mosque,Alaaddin Camii,külliye_medrese_türbe | anıt_heykel | mezar | cami,cami | türbe
+Q20667612,Karussa,SIGHT,41.802500,35.195600,,Gerze İlçesi,CC0-1.0,7,Carussa,Caroussa | Polichnion,arkeolojik_sit,polis | antik kent
+Q28219932,Sinop Arkeoloji Müzesi,SIGHT,42.027500,35.151667,,,CC0-1.0,7,Sinop Archaeological Museum,,müze,arkeoloji müzesi | müze
+Q6009704,Sinop Kalesi,SIGHT,42.023700,35.150600,,,CC0-1.0,6,Sinop Castle,,kale_sur,kale
+Q6031988,Balatlar Kilisesi,SIGHT,42.026111,35.157222,,,CC0-1.0,5,Balatlar Church,Sinope Koimesis Kilisesi,arkeolojik_sit | kilise,kilise | arkeolojik sit
+Q28450890,Bazalt Kayalıkları,ACTIVITY,41.473889,34.640833,,,CC0-1.0,4,Basalt Rocks,,milli_park_tabiat,tabiat anıtı (Türkiye)
+Q20473199,Boyabat Kalesi,SIGHT,41.465900,34.761400,,,CC0-1.0,4,Boyabat Castle,,kale_sur,kale
+Q26878775,Diyojen Heykeli,SIGHT,42.025278,35.141389,,,CC0-1.0,4,Statue of Diogenes,,anıt_heykel,heykel
+Q6031333,Tatlıca takım şelaleleri,ACTIVITY,41.836210,34.778890,,,CC0-1.0,4,Tatlıca Waterfalls,,doğa,şelale
+Q65090022,Cyptasia,SIGHT,41.928420,35.068707,,,CC0-1.0,3,Cyptasia,,arkeolojik_sit,antik kent
+Q65047422,Garzoubanthon,SIGHT,41.735787,35.222212,,,CC0-1.0,3,Garzoubanthon,,arkeolojik_sit,antik kent
+Q110423280,Akgöl Tabiat Parkı,ACTIVITY,41.700268,34.596186,,,CC0-1.0,2,Akgöl Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
+Q117148037,Armene,SIGHT,42.049231,35.041878,,,CC0-1.0,2,Armene,,arkeolojik_sit,insan yerleşimi | arkeolojik sit
+Q85794906,Pteria,SIGHT,41.321531,35.108768,,,CC0-1.0,2,Pteria,,arkeolojik_sit,antik kent
+Q21526912,Sarıkum Gölü,ACTIVITY,42.015600,34.920400,,,CC0-1.0,2,Sarıkum Lake,,göl,göl
+Q49319270,Inaltı Mağarası,ACTIVITY,41.731771,34.569093,,,CC0-1.0,1,Inaltı Cave,,doğa,mağara
+Q21526999,Sinop Saat Kulesi,SIGHT,42.025778,35.150889,,,CC0-1.0,1,Sinop Clock Tower,,kule | kule_saat,saat kulesi
+Q107557833,Sinope,SIGHT,42.025000,35.143000,,,CC0-1.0,1,Sinope,,arkeolojik_sit,antik kent | polis | arkeolojik sit
+Q65073130,Stephane,SIGHT,41.952287,34.539625,,,CC0-1.0,1,Stephane,,arkeolojik_sit,antik kent
+Q65047426,Zagorus,SIGHT,41.677747,35.411100,,,CC0-1.0,1,Zagorus,,arkeolojik_sit,antik kent
+Q131738927,Alaaddin Hamamı,SIGHT,42.026176,35.147709,,,CC0-1.0,0,Alaaddin Baths,Pervane Hamamı | Yukarı Hamam,han_hamam_çarşı,hamam
+Q132681966,Aslan Torunlar Evi Etnografya Müzesi,SIGHT,42.026330,35.153128,,,CC0-1.0,0,,,müze,müze
+Q139418601,Bektaş Köyü Hamamı,SIGHT,41.532054,34.772660,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q131390940,Candaroğulları Türbesi,SIGHT,42.026845,35.148485,,,CC0-1.0,0,Candaroğulları Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418600,Dereçatı Kaya Mezarı,SIGHT,41.359406,34.489243,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q132752972,"Durak Han, Sinop",SIGHT,41.414475,35.056134,,,CC0-1.0,0,Durak Han (Sinop),Pervane Süleyman Han | Durağan Hanı | Boyabat-Vezirköprü Han,han_hamam_çarşı,kervansaray
+Q139418598,Ekinören Kaya Mezarı,SIGHT,41.578002,34.790016,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q131391652,Hatunlar Türbesi,SIGHT,42.025631,35.162106,,,CC0-1.0,0,Hatunlar Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139418568,Mustafa Efendi Türbesi ve Haziresi,SIGHT,41.461083,34.771819,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139436792,Paşa Tabyaları,SIGHT,42.016598,35.179375,,,CC0-1.0,0,,,kale_sur,tabya
+Q134728191,Salar Kaya Mezarı,SIGHT,41.532734,34.685768,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
+Q131391398,Seyyid Bilal Türbesi,SIGHT,42.025436,35.162140,,,CC0-1.0,0,Seyyid Bilal Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132681821,Sinop Keten Müzesi,SIGHT,42.025111,35.146478,,,CC0-1.0,0,,Kuşüzümü Konağı,müze,müze
+Q139428585,Stephanos,SIGHT,41.963296,34.499088,,Ayancık (ilçe),CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q131390941,Sultan Hatun Türbesi,SIGHT,42.027493,35.151112,,,CC0-1.0,0,Tomb of Sultan Hatun,Aynalı Kadın Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391625,Tayboğa Türbesi,SIGHT,42.025204,35.146809,,,CC0-1.0,0,Tayboga Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139419301,Terelek Kaya Mezarı,SIGHT,41.358402,35.140441,,Durağan,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q131738695,Turgutlar Hamamı,SIGHT,42.024990,35.146664,,,CC0-1.0,0,Turgutlar Baths,,han_hamam_çarşı,hamam
+Q131739038,Varoş Hamamı,SIGHT,42.023331,35.155643,,,CC0-1.0,0,Varoş Baths,Yalı Hamamı,han_hamam_çarşı,hamam
+Q131391622,Yesari Baba Türbesi,SIGHT,42.025246,35.158539,,,CC0-1.0,0,Tomb of Yesari Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q135582725,"Yeşil Türbe, Sinop",SIGHT,42.026320,35.148892,,,CC0-1.0,0,Yeşil Türbe (Sinop),,mezar | külliye_medrese_türbe | anıt_heykel,türbe

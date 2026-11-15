@@ -1,0 +1,79 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q14751553,İnandıktepe,SIGHT,40.381111,33.535278,,,CC0-1.0,5,İnandıktepe,,arkeolojik_sit,arkeolojik sit | insan yerleşimi
+Q66361255,Antoniopolis (Paflagonya),SIGHT,40.811420,32.893460,,,CC0-1.0,3,Antoniopolis,,arkeolojik_sit,antik kent
+Q85752462,Cimiata,SIGHT,40.994204,33.678640,,,CC0-1.0,3,Cimiata,,arkeolojik_sit,antik kent
+Q85741449,Anadynata,SIGHT,40.840048,33.259993,,,CC0-1.0,2,Anadynata,,arkeolojik_sit,antik kent
+Q85750423,Candara,SIGHT,40.923650,33.650730,,,CC0-1.0,2,Candara,,arkeolojik_sit,antik kent
+Q1493527,Gangra,SIGHT,40.603000,33.617200,,,CC0-1.0,2,Gangra,,arkeolojik_sit,antik kent
+Q85774751,Kobara,SIGHT,40.566450,33.636440,,,CC0-1.0,2,Kobara,,arkeolojik_sit,antik kent
+Q6064629,Çankırı Büyük Camii,SIGHT,40.602500,33.617333,,,CC0-1.0,2,Great Mosque of Çankırı,Sultan Süleyman Ulu Camii | Sultan Süleyman Camii | Çankırı Büyük Camii,cami,cami
+Q98690921,Çankırı Müzesi,SIGHT,40.600208,33.616662,,,CC0-1.0,2,Çankırı Museum,,müze,müze
+Q6031100,İstiklâl Yolu Tarihî Millî Parkı,ACTIVITY,40.400000,33.220000,,,CC0-1.0,2,İstiklâl Yolu Tarihî Millî Parkı,İstiklal Yolu,milli_park_tabiat,millî park (Türkiye)
+Q49319868,Tuz Mağarası,ACTIVITY,40.511389,33.777222,,,CC0-1.0,1,Tuz Cave,,doğa,mağara
+Q21527407,Çankırı Saat Kulesi,SIGHT,40.603278,33.614889,,,CC0-1.0,1,Çankırı Saat Kulesi,,kule | kule_saat,saat kulesi
+Q139432123,Acıçay Roma Nekropolü,SIGHT,40.596581,33.639427,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q139432117,Ahlat Köyü Nekropolü,SIGHT,40.783390,33.618446,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q139432115,Akviran Çayı Nekropolü,SIGHT,40.424706,33.615215,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q139434552,Antoniopolis,SIGHT,40.848423,32.849464,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q132182958,Askerboğan Tepe Höyük,SIGHT,40.567585,34.085312,,,CC0-1.0,0,Askerboğan Hill Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139432120,Ağlayankaya Nekropolü,SIGHT,40.606533,33.610832,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q132182946,Aşağıpelitözü Höyüğü,SIGHT,40.473419,33.665470,,,CC0-1.0,0,Aşağıpelitözü Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q135960178,Aşağıyanlar Tümülüsü,SIGHT,40.570535,33.594742,,,CC0-1.0,0,Aşağıyanlar Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q132182961,Balıbağı Höyüğü ve Nekropolü,SIGHT,40.535343,33.754505,,,CC0-1.0,0,Balıbağı Necropolis,Sarıiçi Höyüğü,arkeolojik_sit | anıt_heykel,höyük
+Q132182956,Bayındır Höyük,SIGHT,40.601910,33.819126,,,CC0-1.0,0,Bayındır Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139436322,Beşdut Kaya Mezarları,SIGHT,40.626270,34.067570,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q139423159,Cuma Yanı Mevkii Arkeolojik Sit Alanı,SIGHT,40.789815,32.921832,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139422560,Dikmen Mevkii Tümülüsü,SIGHT,40.794658,32.932402,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q131739110,Doğdu Hamamı,SIGHT,40.812187,32.893105,,,CC0-1.0,0,Doğdu Baths,4. Murat Çifte Hamamı | Eski Han,han_hamam_çarşı,hamam
+Q139422423,Eskiköy Mevkii Arkeolojik Sit Alanı,SIGHT,40.616206,32.950417,,Orta (ilçe),CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q132182957,Eğrek Tepe Höyük,SIGHT,40.523468,34.040722,,,CC0-1.0,0,Eğrek Hill Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139420353,Fethiye Türbesi,SIGHT,40.758329,33.778340,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182944,Fidanlık Höyük,SIGHT,40.645283,33.604267,,,CC0-1.0,0,Fidanlık Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139420359,Gavur Kalesi (Orta),SIGHT,40.697189,33.190769,,Orta (ilçe),CC0-1.0,0,,,kale_sur,kale
+Q132182945,Güveytepesi Höyüğü,SIGHT,40.634358,33.658768,,,CC0-1.0,0,Güveytepesi Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q131390763,Hacı Murad-ı Veli Türbesi,SIGHT,40.580834,33.468782,,,CC0-1.0,0,Tomb of Hacı Murad-ı Veli,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139430334,Haydar Dede Türbesi,SIGHT,40.813065,32.895908,,,CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q132752684,Hocahasan Hanı,SIGHT,40.768570,33.352455,,,CC0-1.0,0,Hocahasan Hanı,Hoca Hasan Han,han_hamam_çarşı,kervansaray
+Q139432156,Höyüktepe Antik Yerleşimi,SIGHT,40.703919,32.765144,,,CC0-1.0,0,,,arkeolojik_sit,antik kent
+Q131738631,Ilgaz Hamamı,SIGHT,40.925247,33.623734,,,CC0-1.0,0,Ilgaz Baths,,han_hamam_çarşı,hamam
+Q131738494,Karataş Hamamı,SIGHT,40.602937,33.613143,,,CC0-1.0,0,Karataş Baths,,han_hamam_çarşı,hamam
+Q131391452,Karatekin Türbesi,SIGHT,40.608200,33.616642,,,CC0-1.0,0,Karatekin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139422359,Karaören Arkeolojik Sit Alanı,SIGHT,40.508041,33.239887,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139432111,Kembağlar Nekropolü,SIGHT,40.646450,33.612759,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q132182952,Konak Höyük,SIGHT,40.386696,33.634529,,,CC0-1.0,0,Konak Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139432113,Konak Nekropolü,SIGHT,40.384952,33.608337,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q133236401,"Kurşunlu Kalesi, Çankırı",SIGHT,40.837353,33.259079,,,CC0-1.0,0,Kurşunlu Castle (Çankırı),Andinata Kalesi,kale_sur,kale
+Q139423652,Kuyucak Tümülüsü,SIGHT,40.557568,33.638230,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q132182954,Köm Yolu Tepe Höyük,SIGHT,40.533184,34.065105,,,CC0-1.0,0,Köm Yolu Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139422558,Köyönü Mevkii Arkeolojik Sit Alanı,SIGHT,40.846352,32.853746,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139432125,Kültepe Antik Yerleşim ve Nekropol Alanı,SIGHT,40.568424,33.931801,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q139423640,Kır Tümülüsü,SIGHT,40.539577,33.586715,,Eldivan (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q131390764,Mehmet Şah Dede Türbesi,SIGHT,40.779855,33.286460,,,CC0-1.0,0,Tomb of Mehmet Shah Dede,Zeyve Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131738632,Murat Hamamı,SIGHT,40.811977,32.893124,,,CC0-1.0,0,Murat Baths,,han_hamam_çarşı,hamam
+Q139420355,Müslüman Kalesi,SIGHT,40.694400,33.193028,,Orta (ilçe),CC0-1.0,0,,,kale_sur,kale
+Q139422422,Ortakoz Mevkii Arkeolojik Sit Alanı,SIGHT,40.942827,33.109183,,Bayramören ilçesi,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q131391815,Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi,SIGHT,40.813942,32.894211,,,CC0-1.0,0,Tomb of Pir-i Sanî Çerkeşli Hacı Mustafa Efendi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182850,Salman Höyük,SIGHT,40.914238,33.650265,,,CC0-1.0,0,Salman Höyük,Doğu Salman Höyük,arkeolojik_sit | anıt_heykel,höyük
+Q139432144,Saçak Beldesi Kaya Mezarları,SIGHT,40.782894,32.993938,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q139426710,Söğütlü Mevkii Arkeolojik Sit Alanı,SIGHT,40.481400,33.328600,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q132681748,Tarihi Çamaşırhane Müzesi,SIGHT,40.601158,33.615700,,,CC0-1.0,0,,,müze,müze
+Q132182949,Terme Höyük,SIGHT,40.376480,33.542664,,,CC0-1.0,0,Terme Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139423650,Tümülüs (Doğantepe),SIGHT,40.560588,33.639260,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q139423116,Tüney Köyü Arkeolojik Sit Alanı,SIGHT,40.357323,33.526923,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139423234,Uluyazı Mevkii Arkeolojik Sit Alanı,SIGHT,40.634186,33.641049,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139423237,Uluyazı Mevkii Nekropolü,SIGHT,40.635053,33.644468,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q131391184,Veli Dede Türbesi,SIGHT,40.602501,33.621476,,,CC0-1.0,0,Veli Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q139423258,Yolarası Mevkii Arkeolojik Sit Alanı,SIGHT,40.335844,33.727669,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
+Q139423647,Yücek Höyük,SIGHT,40.696190,33.474580,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
+Q131901863,Çankırı Kalesi,SIGHT,40.608479,33.614908,,,CC0-1.0,0,Çankırı Castle,,kale_sur,kale
+Q139437289,Çankırı Tuz Mağarası Tarihi,ACTIVITY,40.544188,33.759613,,,CC0-1.0,0,,,doğa,mağara
+Q131738493,Çarşı Hamamı,SIGHT,40.601562,33.618381,,,CC0-1.0,0,Çarşı Baths,,han_hamam_çarşı,hamam
+Q132182950,Çivi Höyük,SIGHT,40.629067,33.731731,,,CC0-1.0,0,Çivi Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q132182951,Ünür Höyüğü,SIGHT,40.586521,34.011196,,,CC0-1.0,0,Ünür Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139432122,Ünür Nekropolü,SIGHT,40.585300,34.012787,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q131391219,Üç Kızlar Türbesi,SIGHT,40.603321,33.621605,,,CC0-1.0,0,Tomb of the Three Girls,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182960,İbiktepe Höyüğü,SIGHT,40.352833,33.852161,,,CC0-1.0,0,İbiktepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139432147,İndağı Kaya Mezarları,SIGHT,40.896492,33.652336,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
+Q139422357,Şaplama Mevkii Nekropolü,SIGHT,40.470431,33.168279,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
+Q139422882,Şeyh Muhammed Türbesi,SIGHT,40.938003,33.443068,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391220,Şıh Kasım Türbesi,SIGHT,40.603266,33.616447,,,CC0-1.0,0,Tomb of Shah Qasim,,külliye_medrese_türbe | mezar | anıt_heykel,türbe

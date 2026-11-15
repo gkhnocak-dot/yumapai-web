@@ -1,0 +1,44 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q4849566,Baksı Müzesi,SIGHT,40.385639,40.566417,,,CC0-1.0,13,Baksı Museum,,müze,sanat müzesi
+Q7916263,Varzahan Manastırı,SIGHT,40.333333,40.116667,,,CC0-1.0,9,Varzahan Monastery,,manastır_sinagog,manastır
+Q6042116,Bayburt Kalesi,SIGHT,40.263600,40.229400,,,CC0-1.0,5,Bayburt Castle,,kale_sur,kale
+Q56280876,Kop Dağı Müdafaası Tarihî Millî Parkı,ACTIVITY,40.026944,40.519444,,,CC0-1.0,4,Kop Mountain National Historic Park,,milli_park_tabiat,millî park (Türkiye)
+Q61072521,Bayburt Ulu Camii,SIGHT,40.261028,40.225250,,,CC0-1.0,3,Great Mosque of Bayburt,,cami,cami
+Q118955949,Kenan Yavuz Etnografya Müzesi,SIGHT,40.030804,39.855437,,,CC0-1.0,3,Kenan Yavuz Museum of Ethnography,,müze,Etnografya müzesi | müze
+Q21524214,Bayburt Saat Kulesi,SIGHT,40.260528,40.227250,,,CC0-1.0,2,Bayburt Clock Tower,,kule | kule_saat,saat kulesi
+Q135582723,"Ahi Emir Ahmet Zencani Türbesi, Bayburt",SIGHT,40.258541,40.224030,,,CC0-1.0,1,Ahi Emir Ahmet Türbesi (Bayburt),,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe
+Q130366770,Anzer Şelalesi,ACTIVITY,40.548133,40.507500,,,CC0-1.0,1,Anzer Falls,,doğa,şelale
+Q6092334,Büyüktepe Höyük,SIGHT,40.206181,39.914804,,,CC0-1.0,1,Büyüktepe Mound,Çiftetaş Höyüğü,arkeolojik_sit,arkeolojik sit
+Q49319251,Helva Köyü Buz Mağarası,ACTIVITY,40.149167,40.503889,,,CC0-1.0,1,Helva Köyü Cave,,doğa,mağara
+Q131738716,Meydan (Çarşı) Hamamı,SIGHT,40.261052,40.227327,,,CC0-1.0,1,,,han_hamam_çarşı,hamam
+Q131738717,Paşaoğulları Kondolotlar Hamamı,SIGHT,40.256521,40.223551,,,CC0-1.0,1,,Nurlan Hamamı | Kondolotluzade Hacı Bey,han_hamam_çarşı,hamam
+Q97232558,Uzungöl Dursun Ali İnan Müzesi,SIGHT,40.617669,40.303961,,,CC0-1.0,1,Uzungöl Dursun Ali İnan Museum,,müze,müze | özel müze
+Q131390696,Abdülvehhab Gazi Türbesi,SIGHT,40.263407,40.244205,,,CC0-1.0,0,Abdulvehhab Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q132182668,Akşar Höyük,SIGHT,40.341321,39.975711,,,CC0-1.0,0,Akşar Höyük,,arkeolojik_sit | anıt_heykel,höyük
+Q139419359,Alperenler Türbesi (Bayburt),SIGHT,40.254717,40.224217,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902072,Bayrampaşa Kalesi,SIGHT,40.184647,39.832149,,,CC0-1.0,0,Bayrampaşa Castle,,kale_sur,kale
+Q131738709,Bent Hamamı,SIGHT,40.258781,40.224228,,,CC0-1.0,0,Bent Baths,,han_hamam_çarşı,hamam
+Q139419455,Bent Hamamı (Bayburt),SIGHT,40.261328,40.230151,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q134960677,Beşpınar Höyüğü,SIGHT,40.037265,39.846378,,,CC0-1.0,0,Beşpınar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q131391307,Dede Korkut Türbesi,SIGHT,40.197472,40.569767,,,CC0-1.0,0,Tomb of Dede Korkut,Korkut Ata Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960678,Dikmetaş Höyüğü,SIGHT,40.017968,39.796211,,,CC0-1.0,0,Dikmetaş Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q131738715,Gökçedere Hamamı,SIGHT,40.133285,39.750416,,,CC0-1.0,0,Gökçedere Baths,,han_hamam_çarşı,hamam
+Q134960894,Gökçedere Höyüğü,SIGHT,40.131255,39.751934,,,CC0-1.0,0,Gökçedere Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q133504454,"Hadrak Karakolu, Bayburt",SIGHT,40.354321,39.907551,,,CC0-1.0,0,Hadrak Guardhouse (Bayburt),,kale_sur,askeri karakol | tarihî bina | kamu binası
+Q131902079,"Hisartepe Kale (Sakızlı Köyü), Bayburt",SIGHT,40.158333,40.037444,,,CC0-1.0,0,,,kale_sur,kale
+Q131902080,"Kitre Kalesi, Bayburt",SIGHT,40.312528,39.853631,,,CC0-1.0,0,Kitre Castle (Bayburt),,kale_sur,kale
+Q139419373,Kutluğ Bey Türbesi,SIGHT,40.252760,39.912926,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131391798,Oslu Hoca Türbesi,SIGHT,40.346439,39.973118,,,CC0-1.0,0,Oslu Hodja Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131902081,Saruhan Köyü Kalesi,SIGHT,40.066281,40.105217,,,CC0-1.0,0,,,kale_sur,kale
+Q132182670,"Söğütlü Höyük, Bayburt",SIGHT,40.217606,40.052061,,,CC0-1.0,0,Söğütlü Höyük (Bayburt),,arkeolojik_sit | anıt_heykel,höyük
+Q132752853,"Taş Han, Bayburt",SIGHT,40.261007,40.226147,,,CC0-1.0,0,Taş Han (Bayburt),,han_hamam_çarşı,kervansaray
+Q132182671,"Teçik Tepecik Höyük (Oruçbeyli), Bayburt",SIGHT,40.248336,39.959400,,,CC0-1.0,0,Teçik Tepecik Höyüğü (Oruçbeyli),,arkeolojik_sit | anıt_heykel,höyük
+Q139429455,Tümülüs (Yolaltı),SIGHT,40.262979,40.137914,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q139429439,Tümülüs (Çorak),SIGHT,40.236373,40.013817,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
+Q134960676,Yazıbaşı Höyüğü,SIGHT,40.065878,39.878401,,,CC0-1.0,0,Yazıbaşı Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q139437145,Çatıksu Gözetleme Kulesi Aydıntepe,SIGHT,40.406766,40.067286,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
+Q131390697,Çağırkanlı Sultan Türbesi,SIGHT,40.267012,40.226244,,,CC0-1.0,0,Cagirkanli Sultan Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960680,Çimentepe Höyüğü,SIGHT,40.107284,39.705285,,,CC0-1.0,0,Çimentepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
+Q132182669,"Çorak Köyü Höyüğü, Bayburt",SIGHT,40.254011,39.973526,,,CC0-1.0,0,Çorak Köyü Höyüğü (Bayburt),,arkeolojik_sit | anıt_heykel,höyük
+Q131390695,Şehid Osman Gazi Baba Türbesi,SIGHT,40.261030,40.219666,,,CC0-1.0,0,Tomb of Martyr Osman Gazi Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131390458,Şehit Osman Türbeleri,SIGHT,40.261017,40.219853,,,CC0-1.0,0,Tombs of Martyr Osman,,mezar | külliye_medrese_türbe | anıt_heykel,türbe

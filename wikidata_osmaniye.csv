@@ -1,0 +1,46 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q1360503,İssos,SIGHT,36.838333,36.164444,,,CC0-1.0,24,Issus,,arkeolojik_sit,arkeolojik sit | polis
+Q1729026,Karatepe-Arslantaş,SIGHT,37.295556,36.253611,,,CC0-1.0,20,Karatepe,Karatepe,müze | arkeolojik_sit,arkeolojik sit | açık hava müzesi
+Q55603498,Alacami,SIGHT,37.373052,36.102804,,,CC0-1.0,10,Ala Mosque,"Alacami, Kadirli | Alaüddevle Mescidi",kilise | cami,cami | eski kilise
+Q6025863,Karatepe-Aslantaş Millî Parkı,ACTIVITY,37.316389,36.238611,,,CC0-1.0,10,Karatepe-Aslantaş National Park,,milli_park_tabiat,millî park (Türkiye)
+Q2225224,Savranda Kalesi,SIGHT,37.148889,36.459167,,,CC0-1.0,9,Servantikar,,kale_sur,kale | kale
+Q948243,Kastabala,SIGHT,37.177430,36.187440,,,CC0-1.0,8,Castabala,,arkeolojik_sit,arkeolojik sit | antik kent
+Q474357,Hemite Kalesi,SIGHT,37.188611,36.094444,,,CC0-1.0,6,Amouda,Hemite Kalesi,kale_sur,kale harabesi | kale | harabe
+Q24914998,Karatepe-Aslantaş Açık Hava Müzesi,SIGHT,37.300220,36.250040,,,CC0-1.0,6,Karatepe-Aslantaş Open-Air Museum,,müze,arkeoloji müzesi | açık hava müzesi | müze
+Q28221558,Osmaniye Kent Müzesi,SIGHT,37.073056,36.246944,,,CC0-1.0,4,Osmaniye City Museum,,müze,kent müzesi | müze
+Q85761285,Flaviopolis,SIGHT,37.366478,36.101568,,,CC0-1.0,3,Flaviopolis,,arkeolojik_sit,antik kent
+Q1404380,Hemite Kaya Anıtı,SIGHT,37.184417,36.093194,,,CC0-1.0,3,Hemite relief,Hemite Kabartması | Hemite Kaya Rölyefi | Hemite Rölyefi | Hemite Kaya Kabartması,anıt_heykel,heykel | kaya kabartması
+Q85786492,Moumoustra,SIGHT,37.215011,35.957475,,,CC0-1.0,2,Moumoustra,,arkeolojik_sit,antik kent
+Q97220855,Damlataş Mağarası,ACTIVITY,36.726748,36.282436,,,CC0-1.0,1,Damlataş Cave,,doğa,mağara
+Q25478703,Domuztepe Höyüğü,SIGHT,37.290031,36.255138,,,CC0-1.0,1,Domuztepe Höyüğü,,anıt_heykel | arkeolojik_sit,arkeolojik sit | höyük
+Q11925259,Harun Reşit Kalesi,SIGHT,37.268785,36.487994,,,CC0-1.0,1,Haruniye Castle,Haruniye Kalesi,kale_sur,kale
+Q25474071,Osmaniye Saat Kulesi,SIGHT,37.071750,36.251528,,,CC0-1.0,1,Osmaniye Clock Tower,,kule | kule_saat,saat kulesi
+Q85805217,Tardequeia,SIGHT,36.937170,35.885790,,,CC0-1.0,1,Tardequeia,,arkeolojik_sit,antik kent
+Q12873376,İssos Yakınlarındaki İskenderiye,SIGHT,36.971389,36.280556,,,CC0-1.0,1,Alexandria near Issus,,arkeolojik_sit,antik kent
+Q139427070,Ağca Beyzade Mehmet Ağa Kümbeti,SIGHT,37.196518,36.573777,,Bahçe,CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel,kümbet
+Q139429364,Aşılı Kalesi,SIGHT,37.585514,36.250308,,,CC0-1.0,0,,,kale_sur,kale
+Q126823878,Babaoğlan Kalesi,SIGHT,37.243161,36.187547,,,CC0-1.0,0,Babaoğlan Castle,,kale_sur,kale | kale
+Q131902371,Bahçe Kalesi,SIGHT,37.200928,36.583549,,,CC0-1.0,0,Bahçe Castle,,kale_sur,kale
+Q139420133,Damyeri Kaya Mezarı,SIGHT,37.223752,36.152790,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
+Q131902033,Değirmendere Gözlem Kulesi,SIGHT,37.654804,36.238976,,,CC0-1.0,0,,,kale_sur,kale
+Q133236184,Domuztepe Kalesi,SIGHT,37.291473,36.257486,,,CC0-1.0,0,Domuztepe Castle,,kale_sur,kale
+Q133236188,Esenli Kalesi,SIGHT,37.638770,36.123480,,,CC0-1.0,0,Esenli Castle,,kale_sur,kale
+Q139427117,Fettahoğlu Ağca Bey Kümbeti,SIGHT,37.196768,36.573748,,Bahçe,CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
+Q133236193,Gebeli Kalesi,SIGHT,37.070457,36.290171,,,CC0-1.0,0,Gebeli Castle,Kötü Kale,kale_sur,kale
+Q139428111,Hamam (Düziçi),SIGHT,37.260731,36.472576,,Düziçi (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
+Q135582630,"Hasan Dede Türbesi, Kadirli",SIGHT,37.426858,36.112435,,,CC0-1.0,0,Hasan Dede Türbesi (Kadirli),,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q134960827,Hasanbeyli Höyüğü,SIGHT,37.131655,36.563197,,,CC0-1.0,0,Hasanbeyli Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
+Q133236042,Hasanbeyli Kalesi,SIGHT,37.131912,36.563284,,,CC0-1.0,0,Hasanbeyli Castle,,kale_sur | kule,kale | gözetleme kulesi
+Q133236196,Heçkeren Kalesi,SIGHT,37.584723,36.163450,,,CC0-1.0,0,Heçkeren Castle,Höçkören Kalesi,kale_sur,kale
+Q135582477,Hierapolis Kastabala Antik Tiyatrosu,SIGHT,37.176336,36.188754,,,CC0-1.0,0,Hierapolis Kastabala Theater,,arkeolojik_sit,Yunan tiyatrosu
+Q133236191,Kalealtı Kalesi,SIGHT,37.535938,36.161498,,,CC0-1.0,0,Kalealtı Castle,,kale_sur,kale
+Q131902404,Karafrenk Kalesi,SIGHT,37.131222,36.602131,,,CC0-1.0,0,Karafrenk Castle,,kale_sur,kale
+Q131902137,Kastabala Kalesi,SIGHT,37.177250,36.187378,,,CC0-1.0,0,Kastabala Castle,Babaoğlan Kalesi | Bodrumkale,kale_sur,kale
+Q133236186,Kum Kalesi,SIGHT,37.314582,36.253472,,,CC0-1.0,0,Kum Castle,,kale_sur,kale
+Q133236220,Kürek Kalesi,SIGHT,37.041603,36.056639,,,CC0-1.0,0,Kürek Castle,,kale_sur,kale
+Q133236192,Mitisin Kalesi,SIGHT,36.990000,36.353320,,,CC0-1.0,0,Mitisin Castle,,kale_sur,kale
+Q126823874,Toprakkale Kalesi,SIGHT,37.050344,36.136689,,,CC0-1.0,0,Toprakkale Castle,,kale_sur,kale
+Q131901853,Toprakkale Kalesi,SIGHT,37.050362,36.136569,,,CC0-1.0,0,Toprakkale Castle,Kınık Kalesi,kale_sur,kale
+Q126722333,Çardak Kalesi,SIGHT,37.074183,36.318994,,,CC0-1.0,0,Çardak Castle,,kale_sur,kale harabesi | kale
+Q133236222,Çem Kalesi,SIGHT,37.550570,36.040881,,,CC0-1.0,0,Çem Castle,,kale_sur,kale
+Q139420134,Üçtepeler Kaya Mezarı,SIGHT,37.214718,36.118319,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
