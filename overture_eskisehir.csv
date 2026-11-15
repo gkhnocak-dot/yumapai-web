@@ -335,7 +335,6 @@ d585ddfc-3fdf-4799-8935-10f0405e7686,Çayhane,CAFE,39.793194,30.478317,Bursa Cd.
 1f3f8148-4398-4911-af90-64fd37738270,Kapadokya 2 Pastanesi,CAFE,39.793465,30.477854,Bursa Cd. No:64,İnönü,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.902
 fd87c715-d1c8-439f-a5d8-f93002e4bbd8,Önder Apart,HOTEL,39.792339,30.477966,Onuralp Sokak 17,İnönü,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.809
 31232c2c-f4b4-4559-b8e1-bcc828bc5b88,Şirinyer Parkı,SIGHT,39.793499,30.472708,İsmet İnönü 2 Cad,İnönü,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.957
-eb10ee9d-b19f-4f44-908c-8569ef7af4ca,Zincirlikuyu Beldeevi,SIGHT,39.79533,30.468645,Güzel Sk. No:2,İnönü,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.908
 15d12d03-625d-43c4-9548-0fb115bd7e80,Özbesin Ocakbaşı,RESTAURANT,39.790882,30.469114,Gerekli Sk. No:29,İnönü,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.991
 4fffd547-6c0e-4a75-a3b0-b80492a49276,kirli_onluk_sanatevi,SIGHT,39.789455,30.468723,Karacan Sokak 28/1B,İnönü,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.858
 4eda347f-3a2f-44cd-bebe-41f00cbe68ce,3 Monkey Burger,RESTAURANT,39.788689,30.4709,Dizili Sk. No:11,İnönü,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.863
@@ -430,7 +429,6 @@ b059c805-6ba0-4bed-a455-7e306bdda44d,Sümer Restaurant,RESTAURANT,39.769279,30.4
 e08d55ab-1908-4a29-a2dd-0b4c37d4d0cd,baterist_studyo_cafe,CAFE,39.770199,30.492739,Şehit Halil İbrahim Karakaya Sokak 49,İnönü,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.983
 c3c9f958-bf95-45b1-bcb0-21b3552ca9e9,Cronies Coffe Company,CAFE,39.768055,30.493227,Porsuk Blv Eğri Sk No:73 D:m,İnönü,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.944
 8594be87-b4c7-44e0-9c79-0af5a480cb45,Luminous Coffee,CAFE,39.768291,30.493641,Anatürk Sk. No:31,İnönü,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.993
-b5426e4b-7a92-4771-98b5-f17b7f8375bf,Osmangazi Çim Saha,SIGHT,39.769646,30.495012,,İnönü,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.857
 be75a94d-3c79-4fb4-90d9-3d9e0294f54e,Kanlıkavak Parkı,SIGHT,39.769264,30.495792,Güvercin Sk. No:38,İnönü,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.974
 64f9e144-a5e5-4e13-9b28-22fd886119b5,Eskişehir Kanlikavak Doğa Cafe,CAFE,39.768803,30.496822,,İnönü,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.822
 ddefa3ef-e78e-4c85-be64-5294d7ef87e1,Eskişehir Kanlıkavak Halısaha,SIGHT,39.76825,30.49638,Erenkuş Sk. No:2/1,İnönü,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.904
@@ -445,7 +443,6 @@ d869dd32-5912-4e2d-9b4a-60d8fa1b91c5,Amine Sultan Simit Evi,CAFE,39.772263,30.49
 642ef342-f172-4a81-8de9-486f03d3b20b,Esinti Börek,RESTAURANT,39.77964,30.489449,Ceylanbey Sk.,İnönü,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.837
 72adde34-4482-4f98-af19-abb930258add,Marina Suit,HOTEL,39.781445,30.489351,Ertuğrul Gazi Mah. Damar Sokak.,İnönü,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.806
 69131d76-c919-416f-ba07-0cc4f66604cc,Cafe de Leche,CAFE,39.781044,30.499189,"Cafe de, Orçun Sk. Leche No:8",İnönü,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.907
-849374e1-3d65-4c44-a509-015112db0c64,Walker's Terra Park,SIGHT,39.78072,30.499447,Orçun Sk. B Blok 6,İnönü,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.830
 f4a82655-58b7-4c10-9bbe-aaa74eeac993,TCDD Eskişehir Müzesi,SIGHT,39.778851,30.506426,Hoşnudiye Mh.,Tepebaşı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,museum,arts_and_entertainment>museum,0.770
 021b06d6-63b3-411d-81ed-1a13bf0b7101,Hacıbaba Tea House and Coffee,CAFE,39.779186,30.507975,İstasyon Cd. No:45,Tepebaşı,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.940
 44b712da-b2a1-4ae0-8f7e-d2ac6c6e4f07,Fiore Pizza,RESTAURANT,39.781002,30.507851,Behiç Erkin Caddesi No:4/C,Tepebaşı,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.948

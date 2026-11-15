@@ -52,7 +52,6 @@ f1d5a93d-20a6-4eeb-8af9-ffe8f6da5400,Alkanlar Kasap,RESTAURANT,37.809338,28.8576
 0a622525-cba0-456d-830b-23cce5dd9bd1,Akçay Gözleme Evi,CAFE,37.8032,28.90037,"Mahallesi Muhtarlığı, 199. Cadde 16",Babadağ,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.766
 c942ac55-f4dc-4bd2-a80c-6474ef6441de,Lezzet Durağı,RESTAURANT,37.893166,28.96702,,Sarayköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.831
 c92d7cbf-5172-44e9-9e0b-72f6a3156434,Denizli Başkarcı Göktepe,SIGHT,37.770554,28.950834,,Babadağ,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
-a2899e98-8c7e-4f26-bdd1-c60bb420c0e7,Göveçlik HALI SAHA,SIGHT,37.795067,28.964384,Tevfik Kaya Caddesi 12,Babadağ,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.937
 313ff129-5d05-4214-9d02-67f1d20b7948,Denizli Yenişehir Parkı,SIGHT,37.759201,29.034506,,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.947
 c98af83c-381b-456e-9849-795b0f448257,Denizli / Tavas - Karataş Barajı,SIGHT,37.753902,29.035627,KARATAŞ BARAJ GÖLETİ,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.760
 03d76ab0-d078-44e5-b613-3599c4e0ca9b,Yenişehir Orman,SIGHT,37.755783,29.036701,,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.778
@@ -472,7 +471,6 @@ a2d8be13-74d6-4cc3-a009-2282eab26956,Zafer 1 termal pansiyon,HOTEL,37.785202,29.
 343b674c-9a8d-48e3-8109-e4f14ac4b626,Royal Piliç,RESTAURANT,37.785187,29.078876,Sinpaş Aquamall AVM,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.924
 6cf207ba-350f-4c1f-9eba-2c1b0d4b846d,Tostcu Onur,RESTAURANT,37.785187,29.078876,,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.864
 f5d19217-a779-48e5-b887-0490d7ac4c5f,Antepli Dürümcü,RESTAURANT,37.787689,29.081369,353. Sk. No:4,Denizli,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.823
-05338e4b-60c9-4277-98ab-21f437d2816e,Stork Peshtemal,SIGHT,37.786533,29.081511,Sarayköy Caddesi 7,Denizli,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.862
 49a6e86b-649f-4697-a2f8-8647ee186ce1,Kardeş Balık Market,RESTAURANT,37.786243,29.081394,367/1. Sokak 4/a,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.952
 db2b65c6-2ef8-4cdd-8cac-b18a780b0435,Somuncu Baba,CAFE,37.786423,29.08,Merkez Efendi Cd. No:22,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.947
 95e27026-af69-4b99-b09e-1f505b00ebc3,Cafe Naz Kahvalti Salonu,CAFE,37.782406,29.081451,495. Sk. No:5,Merkezefendi,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.864
@@ -1321,7 +1319,6 @@ ae9d1a8f-ab2b-433e-93ce-8856eb457629,Umut Thermal Spa and Wellness Hotel,HOTEL,3
 b034908d-0ef2-4aa3-8820-3ae9a1f08fc7,Guney Termal & Spa Hotel,HOTEL,37.946682,28.828581,Denizli - Aydin Il Siniri 33 Km Kizildere - Buharkent,Sarayköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.956
 1aff582c-42f0-4522-ab2b-ce3a8c3306ca,Buldan Babacan Bufe,CAFE,38.043991,28.825205,Turan Mah Hastane Karsisi,Buldan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.952
 0fa45752-98b6-4280-9e97-dd9f731475a0,Fenerbahce Sokagi,SIGHT,38.047138,28.826141,,Buldan,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.736
-49cbff18-07b1-4db6-b248-2f68e1491c0b,Yukarı Park,SIGHT,38.046753,28.82682,Dokuma Pazarı Caddesi 21,Buldan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.946
 d09727f6-e3aa-4341-a715-2569db0ad0d9,Geleyli Cafe,CAFE,38.047413,28.82896,Zafer Okulu Sk. No:19,Buldan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.934
 63513785-c124-42ac-b6bb-90f561a852ad,Çarşı Pide ve Simit Fırını,CAFE,38.046906,28.827299,Park Cd. No:2/A,Buldan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.789
 ce34b874-0164-4623-b19c-3ca40a6a94b5,Buldan Yayla Gölü,SIGHT,38.045872,28.827959,Denizli/Buldan,Buldan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.898
@@ -1368,7 +1365,6 @@ bcef739a-36d6-4ac5-9a92-1f8e94bb8c2a,2 Lokma Fast Food Buf,RESTAURANT,38.044056,
 d2dfac27-11cf-4a5a-8ea2-071382f5a653,Sarayköy Pide Salonu,RESTAURANT,37.924294,28.922937,Belediye Geçidi 22,Sarayköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.926
 e228e516-2b57-4504-b045-a165f68c4473,Köfteci Ömer Usta,RESTAURANT,37.923904,28.922634,Zafer Cd.,Sarayköy,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.930
 61996760-9994-426d-afb5-d3f7b1c19e38,Yıldız Restaurant,RESTAURANT,37.924759,28.921856,Atatürk Caddesi,Sarayköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.804
-c1f18f4e-7699-4dcd-8123-560e5e4b5c06,Türbe Caddesi,SIGHT,37.923855,28.919992,,Sarayköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
 3cb76972-fd47-49db-9584-93186486cb1c,kafalı restaurant,RESTAURANT,37.921543,28.919348,havuz yolu ,Sarayköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.789
 7890a762-31d4-4134-b8c0-5474eba29293,İstasyon Kafe,CAFE,37.915314,28.92379,Babadağ Cd. No:2,Sarayköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.951
 eaf8dc54-fc04-492d-9d83-3d03037a869d,Sarmaşık Cafe,CAFE,37.920429,28.925037,Kaymakam Saffet Bekaroğlu Cd.,Sarayköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.971
@@ -1479,7 +1475,6 @@ e6e10f01-e983-446f-8114-3c9fcc4a5fe5,Özdemir Termal Hotel,HOTEL,37.957706,29.10
 92b406ec-c654-4913-be54-9f9063e8ed69,Pamukkale otel,HOTEL,37.957565,29.103779,,Pamukkale,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.779
 0b4b85f5-2b7b-449e-be8b-220b93381394,Anıl Gümüş Apart,HOTEL,37.959526,29.103811,Karahayit,Pamukkale,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.908
 685ff3c6-1a5d-4d6c-9f75-d5de7854eb67,DenİZ Apart PansİYon,HOTEL,37.959213,29.103823,,Pamukkale,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.975
-833e8af3-149a-4898-aeb3-45c4f0b2149b,Selale Park,SIGHT,37.959976,29.103619,125. Cami Sokak 7,Pamukkale,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.965
 215d7e37-f6a2-4875-9df7-3a20c88e54c9,Gurbet Pansiyon,HOTEL,37.958885,29.103199,125 Cami sokak No:11,Pamukkale,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.943
 c62ae159-84fb-4c35-a447-02530774e024,Horata Termal Pansiyon,HOTEL,37.96096,29.102877,127 Kızılseki Sokak No:07,Pamukkale,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast,0.937
 f4d60afa-a50e-43df-b712-7e77809b1613,GÜNEŞ APART OTEL - Family Suite With Balcony,HOTEL,37.959011,29.102728,,Pamukkale,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
@@ -1616,7 +1611,7 @@ ba67497b-d2c2-4ff5-b961-ad4c831f8ce0,Tarım Kredi Mola Restoran,RESTAURANT,37.37
 3c82e373-72b3-421b-b3b5-9f916243b545,Yaren Tepesi Menene,SIGHT,37.286446,29.432497,Dedebağ Mah,Acıpayam,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.786
 507d90e7-24ea-47d1-b86f-7701cb119d7b,Kebapçı Kadir,RESTAURANT,37.406113,29.137278,Ticari Yol Caddesi 2,Acıpayam,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.752
 c03a60ed-616f-4aa7-8696-36cc51105b63,LogNikfer Bungalows,HOTEL,37.390957,29.154947,"Nikfer Mah. Denizli Kayak Merkezi yolu, D:422 / 1",Acıpayam,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.977
-89c6beb3-1cd1-40a5-b9e6-a8d0a2a838f0,Kızılhisar Kalesi Dinlenme Tesisleri,SIGHT,37.566696,29.279799,Denizli Muğla Yolu,Serinhisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
+89c6beb3-1cd1-40a5-b9e6-a8d0a2a838f0,Kızılhisar Kalesi Dinlenme Tesisleri,HOTEL,37.566696,29.279799,Denizli Muğla Yolu,Serinhisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 24002409-235d-49e6-98aa-0a85486e40c2,Erkeya Petrol Kamyoncu Lokantasi Kizilhisar,RESTAURANT,37.563366,29.282625,,Serinhisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.782
 4887f915-f9f8-44e0-9221-1261b8d2ef5f,Serinhisar Sofrası,RESTAURANT,37.56308,29.282639,"Cumhuriyet, D585",Serinhisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.978
 51fc3075-edca-432e-8282-5e05be9aa713,Parmahal Nuts Mall,SHOPPING,37.541927,29.297413,Antalya-Denizli Karayolu Üzeri No:27,Serinhisar,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.987

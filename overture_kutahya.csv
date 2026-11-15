@@ -140,7 +140,6 @@ fbca96ab-dac1-4cfa-acd5-b45fd789094f,Vakıf Köy,SIGHT,39.456871,29.676193,,Küt
 19f3a2af-c434-419f-a398-76800bf7c801,İkibaşlı Göleti,SIGHT,39.396515,29.357958,Emet İkibaşlı,Emet,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.709
 50a36258-48ae-49b6-86e2-4edbf2fc775b,Emet Kayi Göleti,SIGHT,39.365387,29.425102,,Emet,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.713
 bb8f5aa9-fff9-4d07-8daa-2095fdfdbd11,Emet Eylul Dugun Salonu Ve Restaurant,RESTAURANT,39.34251,29.26606,Hasan Demirsöz 1. Cadde 30,Emet,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.944
-af321653-6297-4fd8-ad87-bb35534030e1,Yeşil Park,SIGHT,39.338287,29.257326,Gazi Cad,Emet,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.744
 26d8d89a-c9be-446d-82a5-7751d0cf1e68,Engelsiz Yasam Parkı,SIGHT,39.336704,29.255453,,Emet,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.719
 0235a24b-9ab2-4549-b5f0-205329616407,Engelsiz Yaşam Parkı,SIGHT,39.333679,29.252258,,Emet,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.880
 d0d29bf3-041b-40f4-ba70-9a5d6f1d9cd1,Lobi Bar,RESTAURANT,39.342194,29.252762,Emet Termal Spa &Resort Hotel,Emet,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.841
@@ -154,7 +153,6 @@ ac7cf93f-b2ae-434c-89b4-a247ae60d158,Golden Grass Termal Hotel,HOTEL,39.342369,2
 2bc4edfb-ba7c-456b-8949-774e4599d0c8,Akdağ Pide Salonu,RESTAURANT,39.342506,29.256758,"No:, Kaynarca Cd. No:3",Emet,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.768
 9b53b31a-ee88-452d-b578-8ca2d3ef01f3,Borpark Otel,HOTEL,39.342972,29.25635,Kocaalan Cd. No:17,Emet,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
 4393b13b-e1cd-4667-aad3-850738ddc24a,Kaplan Tost,RESTAURANT,39.342712,29.25737,Tahsin İnce Cd. No:2/A,Emet,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.902
-c1c72ea0-7ce6-44bb-b265-a14fb34a1f17,Şelale Sosyal Tesisleri,SIGHT,39.340054,29.261801,Cumhuriyet Mah,Emet,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.735
 568b8092-c7e6-4daa-9efe-6ce0e82adb91,Reyhan Cafe,CAFE,39.343876,29.259348,3 Eylül Caddesi 4,Emet,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.786
 66e916b5-6161-48fb-b253-cd76f8fd9250,Bi'Yer Cafe Ve Çay Bahçesi,CAFE,39.343929,29.259542,,Emet,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.859
 647e5f0e-662f-43fc-9d4e-1b36a7f2f954,Söylentea Cafe,CAFE,39.344048,29.25914,Hükümet Cd. no: 13A D:B,Emet,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.959
@@ -493,7 +491,6 @@ c573fc80-904a-4329-8e68-c7d1dc6bc4fa,Rahmet Pide Lahmacun,RESTAURANT,39.424908,2
 a7334ffb-5555-40e7-82ec-e5bbe038faa5,Tadım Pastanesi,CAFE,39.424225,29.964926,Ertuğrul Gazi Cd. No:181,Aslanapa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.875
 5dcc9f33-4410-4d6c-bebe-2bad1ec676e2,Lala Hüseyin Paşa Hamamı,SIGHT,39.42374,29.970322,Lala Hüseyin Paşa Caddesi 205,Aslanapa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.847
 0bb33543-8bc0-43f5-9a3a-b4eaed7ab89d,chef kokoreç,RESTAURANT,39.425529,29.97191,Adnan Menderes Blv. no:77,Aslanapa,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.841
-def167b9-fccf-4497-b098-86c6d2fb890e,Fuat Paşa mahalle,SIGHT,39.425587,29.973116,,Aslanapa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.855
 79455c81-82e6-42de-a1de-48058af14de5,Çaykolik Kütahya,CAFE,39.424698,29.974657,,Aslanapa,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.872
 1b9b89b4-0403-4811-ae19-d962df705790,Bülent Börekçilik “Lezzet-i Alâ”,RESTAURANT,39.424305,29.9755,"Adnan Menderes Blv. No:55/A, 43020 Merkez/Kütahya",Aslanapa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 f7baf466-2eca-4251-8960-c7944581cfe6,Meşhur Dibek Kahve,CAFE,39.423847,29.976051,"No:, Avcılar Sk. No:27",Aslanapa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.971

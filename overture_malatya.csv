@@ -151,7 +151,6 @@ ec9968be-b2d4-4570-8641-a6941c671b32,Güleryüz Ciğerci Ayhan,RESTAURANT,38.346
 8726ccaf-6b15-4fc9-8a79-33a1f29c3154,Özalper Parkı,SIGHT,38.342869,38.281178,4. Cadde 1. Sokak,Yeşilyurt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
 409d61ca-4ffe-43ea-a67c-7322d32e1198,Özalper Parkı,SIGHT,38.341129,38.279202,4. Cadde 1. Sokak,Yeşilyurt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
 2e65b3bf-9928-4deb-9e0d-0c739a063a3e,Usta Börek,CAFE,38.346397,38.282436,"petek eczanesi yani, yeni, Turgut Özal Bl. Leventoğlu iş merkezi altı NO:29 D2",Yeşilyurt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.941
-c3327039-dd9a-4087-9f19-b957a59f06a1,Malatya Mıs Mıs Park,SIGHT,38.344757,38.27504,Malatya,Yeşilyurt,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.939
 da2fb21b-dd60-4f72-8b37-e79e255cca49,Malatya Balık Evi,RESTAURANT,38.340839,38.275566,Gülümser Cd No:30/A,Yeşilyurt,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.763
 1329e54d-488d-41be-b133-d7defe2dc125,Kassaba Mekkan Kahvaltı Bistro Yöresel,RESTAURANT,38.341522,38.276333,Özalper Mahallesi Cümle Sokak No:19,Yeşilyurt,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.770
 159b795e-5545-45c8-8735-536532ff6bd9,Sema Park Cafe,CAFE,38.343899,38.274899,Turgut Özal 1. Cadde 7,Yeşilyurt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.925
@@ -441,7 +440,6 @@ b57befdd-be7a-430b-b511-f6d94f8b3ab1,Tohma Köprüsü,SIGHT,38.504662,38.238369,
 bfc52acd-a182-4033-b8b6-7cf49991dad6,Tohma Barajı,SIGHT,38.510052,38.244724,,Yazıhan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.757
 27b91bdf-dfad-4804-af22-400910db80d0,Ballıkaya Canlı Alabalık ve Kamp Alanı,RESTAURANT,38.850349,38.099091,"Canlı Alabalık, Ballıkaya Sokak No: 153/1",Arguvan,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.761
 aedf8280-5e13-4531-9988-2bbc7ef6aab4,İnekçioğlu Lokantası,RESTAURANT,38.820789,37.926266,Hekimhan Kangal Yolu,Hekimhan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.759
-f268b05d-c092-476e-b615-b005d262859b,Malatya Hekimhan Yayladamı Mh.,SIGHT,38.818363,37.928844,,Hekimhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.745
 9df6946d-8fc8-4ad6-9b0a-db1daa410e17,DenİZ Lokantasi,RESTAURANT,38.818085,37.931198,Sanayi Cd. No:13,Hekimhan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.913
 58adf08b-086f-43eb-9c56-84360c2d8dbc,Uğrak Restaurant,RESTAURANT,38.816387,37.931408,Darende Hekimhan Yolu No:60,Hekimhan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.875
 074b2c86-6b8a-4f2a-beeb-d71b1e709330,Akdinc Hotel,HOTEL,38.816055,37.93224,KANAL SOK NO:2,Hekimhan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995

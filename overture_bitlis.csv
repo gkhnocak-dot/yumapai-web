@@ -114,7 +114,6 @@ e339bd7c-c814-4272-a024-6f281bfaa3fc,Tatvan Sahili Çay Bahçesi,CAFE,38.492214,
 83b9f086-b912-41dd-aced-7ca66e18246a,Leon Cafe,CAFE,38.491703,42.29327,Göl Cd. No:107,Tatvan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.913
 47a1cf28-453e-4aed-a525-176dc93a11a4,Vangölü,SIGHT,38.491299,42.294277,,Tatvan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.742
 5cb0ffca-8ba4-4943-897e-1a9e198f9be9,Orak Cafe,CAFE,38.490849,42.293503,Göl Cd. No:111,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.941
-06d27170-38b9-4f46-abab-0d1d6ba389d4,İskele Caddesi,SIGHT,38.490814,42.291733,Iskele Cad,Tatvan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.738
 f562faff-dedd-458b-8412-bcb07f8252ab,Sahra Hotel,HOTEL,38.490284,42.290466,"Go Petrol, İşletme Mh. Cumhuriyet Cd, Karşısı No:1",Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.975
 b34d962b-f08c-49f1-bed3-2523633dabcd,Otel Dinç,HOTEL,38.491711,42.289841,İşletme Cd. No: 09,Tatvan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.991
 ba429c7a-2b91-4197-8026-0b70ef329ab4,Otantik CAFE,CAFE,38.492863,42.291836,,Tatvan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.761
@@ -147,7 +146,6 @@ b0661f8a-50ab-4578-b925-b03a52a7d09c,Otantik Cafe,CAFE,38.443039,42.14217,,Tatva
 a6ca6343-9388-4b10-8dda-07af879efedf,33 Mersin Yaprak Tantuni,RESTAURANT,38.432858,42.136402,302 Evler 1234 sok,Bitlis,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.835
 9a11016b-105a-41ce-be10-15308322da7a,Pinar Büryan Salonu,RESTAURANT,38.387096,42.119667,"Bitlis-Diyarbakır Çevre Yolu Üzeri, 554.Sokak No:3",Bitlis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.820
 7db37307-569f-4cd9-9716-64526d58a3bb,Öz Cavuşoğlu otel,HOTEL,38.386818,42.103565,Topçular Sk. Hersan Mh. Muhtarı No:57,Bitlis,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
-d13784ff-f9fb-44e2-bda3-e056a1b7714c,Bitlis Altın Kalbur Yüzme Tesisleri,SIGHT,38.39278,42.088676,Bağlar Mah.,Bitlis,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.703
 c88b4174-a73a-44d9-bf59-a8206d4f3dff,Thecrater Hotel,HOTEL,38.405182,42.106388,CUMHURİYET CAD,Bitlis,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.803
 3db045a5-493b-4751-989d-200b63b58997,Bitlis KALE ALTI,SIGHT,38.402172,42.1078,Kazım Dirik Cd.,Bitlis,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.910
 222b35b2-0ad0-4c3d-9840-0f6ce568e6f6,Altın Kalbur Restorant,RESTAURANT,38.402645,42.107361,Bitlis Mutki Yolu Üzeri,Bitlis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.864

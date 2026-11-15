@@ -54,7 +54,7 @@ bd05801c-616a-4305-8a91-137c8e1dce37,Palmaris Apart Palamutbuku,HOTEL,36.671368,
 ced6c8de-c93a-402e-94a0-c7ecd35a604a,İskandil Apart Hotel,HOTEL,36.674301,27.503958,Palamutbükü Yaka mh. no:227,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 704777f6-69e6-4ac2-8283-a84aea1edf64,Tanış Apart Hotel,HOTEL,36.673866,27.504416,Palamutbükü 228,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.925
 361a01db-1f91-4cfa-9881-9131ebd030b0,Bedya Pansiyon,HOTEL,36.673668,27.504196,Palamutbükü Sok No: 229,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.819
-4da14da4-86a9-4d2b-b04f-d592f3b58e2a,Bozalan Sahil Evleri,SIGHT,36.672443,27.505728,Datça Merkez,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
+4da14da4-86a9-4d2b-b04f-d592f3b58e2a,Bozalan Sahil Evleri,HOTEL,36.672443,27.505728,Datça Merkez,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
 ca291f4e-7eb3-4ff5-ae3f-fe753e063f84,Cuhadar Ahsap Evleri,HOTEL,36.672272,27.505413,Palamutbükü Sokak no:358,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
 98d1c8e2-9b4e-46e6-bc53-9291d05c0de8,Kıyı Suites & Restaurant,HOTEL,36.672581,27.505732,Palamutbükü Sahil Yolu No: 309,Datça,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.967
 b42e8b79-a820-44ee-b972-7ad041418c3f,Trio Coffee and Cocktails,CAFE,36.672485,27.505745,Palamutbükü Sokak No:308,Datça,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.950
@@ -879,7 +879,7 @@ c1370924-3bf9-4aa1-b8a5-a762b1e91b7a,Yakamoz Beach Hotel Restaurant Selimiye,HOT
 25c42ab4-9fbb-4a19-81e0-9eae47eabe1b,Babota Boutique Selimiye,HOTEL,36.704762,28.097067,Selimiye Mah. Camiyanı Küme Evler No: 73,Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.927
 417899a2-71c7-4466-9a5c-76eaadfc8377,Naxos Beach Hotel,HOTEL,36.704777,28.097059,"Selimiye MAH, Hanimpinar SK, 48700 Marmaris/Muğla",Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.762
 8cda42cf-674d-4c7a-816d-313df42fbe7f,The Address Selimiye,HOTEL,36.704777,28.097059,"Selimiye Mah, Gemecit Sokak No 46 Selimiye",Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.803
-073a05d6-4c24-420d-aaed-d76bb6ba909b,Kurucu Sahil Evleri,SIGHT,36.704777,28.097061,"Selimiye, Gemecit Sokak no:101, Marmaris/Muğla",Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.842
+073a05d6-4c24-420d-aaed-d76bb6ba909b,Kurucu Sahil Evleri,HOTEL,36.704777,28.097061,"Selimiye, Gemecit Sokak no:101, Marmaris/Muğla",Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.842
 cf95daa8-5e55-40cd-b2fa-bcb388117a7c,Beyaz Güvercin Otel,HOTEL,36.704777,28.097044,Selimiye Köyü,Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.949
 f98af984-4d21-4bcd-b7da-2deb626dbff6,HİDAYET in yeri / DENİZ RESTAURANT,RESTAURANT,36.704754,28.097046,selimiye köyü,Marmaris,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.904
 fa14a731-8d88-4881-b25b-17440e04214f,Dut Selimiye,HOTEL,36.705555,28.095839,BURUNCUK KÜME EVLER NO 69,Marmaris,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.936
@@ -4746,7 +4746,6 @@ c58025b7-7f79-46ba-bf12-95879589e7f6,Endemik Hostel,HOTEL,36.620926,29.130173,18
 4fafc23c-f05b-4260-8e02-fb65ae197cb8,Kervan Baklava,CAFE,36.620552,29.121037,"25, 136. Sk.",Fethiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.779
 cbd49906-abeb-4fd5-8d84-607748164780,Çınar Lokantası,RESTAURANT,36.620964,29.121014,136. Sokak,Fethiye,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.889
 b9f5c5cb-1212-4d28-a9ac-a61cc758d784,Köprübaşı Lokanta,RESTAURANT,36.621288,29.120848,136. Sk.,Fethiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.788
-cf8c0ef2-1129-4d14-a77a-b62b752891ff,Fethiye Köprülü Kavşağı,SIGHT,36.622078,29.121698,"Raf Fethiye, Ölüdeniz Caddesi 47/A",Fethiye,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.818
 1280c04a-bac1-428b-a1fa-5c286f245895,Fethiye Mangal Restoran & Cafe,RESTAURANT,36.621571,29.121655,,Fethiye,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.868
 dfa0cf68-2c99-434e-a493-f847832bcd56,Kebapçı Ökkeş Fethiye,RESTAURANT,36.62154,29.121492,137. Sk. no:4,Fethiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.857
 9bf41f7f-8459-4684-bb06-749eed8c9d2b,Hotel Eroglu,HOTEL,36.621719,29.122002,İnönü Blv. No:6,Fethiye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
@@ -5215,7 +5214,7 @@ cbacf4ae-d6ef-4dc6-b967-9d1df6f75079,Yasmin Bodrum Resort,HOTEL,37.036728,27.240
 82841c72-5837-4745-9f75-80593fd74d29,Vip Cabana Sianji,SIGHT,37.034096,27.243797,,Bodrum,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.759
 156f6a36-1bf8-4775-9fd9-2fd07d4041cc,La Plage Bodrum,SIGHT,37.035011,27.243364,Gardens of Babylon,Bodrum,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.723
 ac8ad12f-efea-4b87-abdc-4b4173316f29,Sianji Wellbeing Resort,HOTEL,37.036041,27.24432,Kadıkalesi Mevki,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
-59f74fe5-1f86-44c9-8ea2-572b741eb1df,Peksimet Sahil Evleri,SIGHT,37.033703,27.245962,Peksimet Mahallesi Gümüşlük Cad. 15/1 Sok,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
+59f74fe5-1f86-44c9-8ea2-572b741eb1df,Peksimet Sahil Evleri,HOTEL,37.033703,27.245962,Peksimet Mahallesi Gümüşlük Cad. 15/1 Sok,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
 c8d95d48-f4a3-4d61-b321-1fca93c88925,Bodrum Marin Group Watersports Center,SIGHT,37.034134,27.24666,,Bodrum,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.738
 9fafecd2-a524-4ce8-bda0-96f5aae3ea6d,Holiday Inn Resort Bodrum West Beach,HOTEL,37.024033,27.249527,Bahcelievler Mah. Zeyyat Mandalinci Sok. No 163,Bodrum,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
 96694249-3cc7-4b2c-8c81-ccabd13869a9,Villa Di Mare Bodrum,HOTEL,37.024296,27.248985,,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.796
@@ -8041,7 +8040,7 @@ a3cf8ea4-2209-4b3a-864a-57535a3c861e,Breeze Beach&Lounge,SIGHT,37.115463,27.3011
 93e2e3f8-4a55-45f4-859e-754ff1e5488b,La Plaj Bodrum,SIGHT,37.116138,27.300459,"Yalıkavak Mahallesi, Tilkicik caddesi 101. sk Yalıkavak / Bodrum, 48990 Bodrum/Muğla",Bodrum,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.735
 54321394-55a9-4962-886c-35c073897ebd,Sand and Salt,SIGHT,37.119225,27.306568,Tilkicik Caddesi 2,Bodrum,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.837
 2fa9a2d8-3c25-425c-a6b2-25448bb59a87,MARE Suites,HOTEL,37.119637,27.307154,Tilkicik Koyu,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.869
-c95634ec-601b-451b-8a53-889fb42ffd86,D'Plaj Rezidans,SIGHT,37.11974,27.307695,,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
+c95634ec-601b-451b-8a53-889fb42ffd86,D'Plaj Rezidans,HOTEL,37.11974,27.307695,,Bodrum,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 634e5ab3-c0f3-4a90-8951-42a8fa644628,Bafa Golu /Milas,SIGHT,37.490112,27.550961,,Milas,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.736
 e307f6d3-c9e5-440b-b2cf-832146fb13f7,Heracleia under Latmos,SIGHT,37.498108,27.526808,,Milas,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.804
 8ad92685-ea71-4065-9c38-8351bb701138,Ada Restaurant,RESTAURANT,37.499985,27.525919,,Milas,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.793
@@ -8696,7 +8695,6 @@ c9c99833-4d5a-4b6e-b5ec-3f1d3b68b08d,Celal Çavuş Kahvesi,CAFE,37.37207,28.0308
 8795090c-29ee-452f-8b88-ccda0d9298e9,Dalgınlar Restoran,RESTAURANT,37.30798,28.004883,Muğla Bodrum Yolu,Yatağan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.948
 9e9aa2ac-93c5-4f6e-a335-6b67385f23ba,Lökler Bal Kahvaltı Yeri,RESTAURANT,37.303642,27.988708,,Milas,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.930
 93273313-e531-4c8f-9c06-da38293ebb16,"Gül Bahçesi Kahvaltı, Dondurma Ve Gözleme Evi",RESTAURANT,37.3041,27.987219,Küme evi sk No:22,Milas,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.967
-46a6fea2-ec46-4b87-8fb3-752a8873f6a2,Oruçoglu Mermer Ocagı,SIGHT,37.321053,27.974041,,Milas,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.830
 35ff83cf-6332-4e66-9c68-c24a2e37469d,Zeytinkoy Yatagan Mugla,SIGHT,37.383549,27.992979,,Milas,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
 4c6fada5-c60c-4938-9000-5a96b59bacd4,SUSKUN TÜRK ÇİFTLİĞİ,SIGHT,37.384022,27.999043,,Milas,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.770
 68b41176-7f0e-4b3b-a259-8a21affded49,Zeytinkoy Yatagan Mugla,SIGHT,37.384281,27.999691,,Milas,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.829
@@ -9037,7 +9035,6 @@ ced083df-77bb-4986-aae2-de95c501067e,Gökovaa,SIGHT,37.048927,28.360867,,Ula,CDL
 2397406f-4ce5-4096-a1e1-f80f64c65ec0,Kanatlı Bahçem,RESTAURANT,37.052082,28.35924,"Gökova Çayır Mevkii, Gökova Akyaka Ağaçlı Yol Üzeri",Ula,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 cf8e1d07-7965-48a7-9bc1-e30c7db68e26,Saklı Bahçe Yöresel Kahvaltı ve Ürünleri,CAFE,37.08662,28.365351,Ula kavşağından sonra ilk trafik ışıklarından sağdan 150 metre Kızılağaç mah.girişi Marmaris Kara yolu Üzeri ULA ilçesine bağlı,Ula,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.799
 9d738dfd-cd99-4acd-b11b-89bcacd8f809,Neşelioğlu Kahvehanesi & Çay Bahçesi,CAFE,37.126957,28.337826,Muğla Sokak 70,Ula,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.807
-9f48e2ab-b128-4886-a588-23971a7ff1de,Sakar TePe Park,SIGHT,37.065559,28.355104,Muğla - Akyaka - Gökova 20. km,Ula,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.874
 da8e44e2-0f8d-4538-bff0-97995e323015,Starbucks,CAFE,37.051571,28.355379,Mugla Bulv No16 Ula Mugla,Ula,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,1.000
 9af1c096-8de4-4120-95d6-da6cc8841e35,Arabahce,RESTAURANT,37.052761,28.351885,İnişdibi Cd. No: 106,Ula,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.976
 dca07ec1-cb20-46b6-98c7-27b5889a76b2,Keyifli Köy Cafe,CAFE,37.053551,28.350794,İnişdibi Caddesi 131,Ula,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.944
@@ -9054,7 +9051,6 @@ a57e7d67-6393-42a5-b4f0-4b286704e735,Azmakhan Delux Pool Bar,RESTAURANT,37.05635
 7bfd2ebf-6f27-473c-952a-5f16dd329d6d,Akasya Konak,HOTEL,37.05751,28.335709,16. Sokak,Ula,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.859
 4182bf6f-a9fe-4493-b918-6067e24e5d72,Akyaka Riverside Inn Otel,HOTEL,37.056713,28.335194,İnişdibi caddesi Sarıoğlu Sokak No:46 Akyaka,Ula,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.884
 cb01124d-bbee-46cf-98cc-33cfb0eb89f4,Portofino Boutique Otel Akyaka,HOTEL,37.056465,28.335123,İnişdibi Cd. No:37,Ula,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
-84db33d1-30a5-4148-aa6c-f8989d0b6e1e,Sakar TePe Park,SIGHT,37.07037,28.338158,Muğla - Akyaka - Gökova 20. km,Ula,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.874
 ea4b807e-33ef-4a3e-94dd-cf6aac7cee0e,Sitar Apart,HOTEL,37.057629,28.331955,Akyaka Sahil,Ula,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.826
 ddb924c6-5133-4100-b803-d7dac18c365b,Akyaka Rock Hotel,HOTEL,37.057064,28.332415,Sarıoğlu Sk. No: 15/2,Ula,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.957
 6329eda5-056c-4a46-a4b0-70f9e619bcb1,Kaya Hotel,HOTEL,37.05703,28.332485,Sarıoğlu Sok. No:15 Akyaka,Ula,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,motel,lodging>hotel>motel,0.770

@@ -3,7 +3,7 @@ ab59a1a7-23c8-4e61-b652-452753d6bd35,Çermik Sinek Şelalesi Aile Çay Bahçesi,
 4fd5a701-d04e-4814-92e2-00ba464738c9,Elazıg Maden Tesislerinde,RESTAURANT,38.328857,39.520458,"""Yaşamkent, İmam Efendi Bulvarı 11""",Maden,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.806
 613e8ace-502d-4cf2-be63-378e9a3eb051,Kanoglu Et Ve Balik Lokantasi,RESTAURANT,38.989304,39.500408,Tunceli Elazığ Yolu,Kovancılar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.945
 e29905ca-544b-47c6-bc39-aea002f9ea4c,Keban Barajı,SIGHT,38.812576,38.755367,,Keban,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.799
-e6750634-1a86-44e9-9081-41e2ce46124a,Circir Selalesi Keban Alabalik Tesisleri,SIGHT,38.786339,38.752968,"Bahçelievler, Elazığ Caddesi No:1",Keban,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.994
+e6750634-1a86-44e9-9081-41e2ce46124a,Circir Selalesi Keban Alabalik Tesisleri,RESTAURANT,38.786339,38.752968,"Bahçelievler, Elazığ Caddesi No:1",Keban,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.994
 991de68c-6b88-4157-8ef8-3e4e564285b4,Fırat Alabalık Dinlenme Tesisleri,RESTAURANT,38.803631,38.729004,Keban Barajı girişi,Keban,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.947
 31122edd-17b2-4713-b442-ba642029eff0,Keban Barajı,SIGHT,38.803741,38.729084,,Keban,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.799
 2cb73a2e-a28f-4cd8-b77d-705b5008ef2c,Keban Baraj Gölü,SIGHT,38.799881,38.72958,,Keban,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.894
@@ -12,7 +12,6 @@ a0722f54-90b3-45ea-b848-f40cd053f218,Çınar Restorant,RESTAURANT,38.943867,38.7
 30bc5651-cbef-4da1-a570-b183909829d6,Ağın Bridge,SIGHT,38.915497,38.662998,,Ağın,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.820
 b8bbdf4e-41c5-48b8-81e4-32fa71020913,Karamagara Bridge,SIGHT,38.924961,38.658485,,Ağın,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.805
 dbd017be-1431-455a-bc63-fda205b31520,Ağın Köprüsü,SIGHT,38.918526,38.657379,,Ağın,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.712
-b16465c4-3c47-4ff8-b70b-176113b4968c,Ballıca Alabalık Tesisleri,SIGHT,38.822639,38.607986,,Keban,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.711
 627d1ebe-293d-4fae-be9c-09f8c37ff6af,Paçacı Ziya Usta,RESTAURANT,38.537411,39.145931,Malatya Caddesi 49,Elâzığ,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.897
 62d2202b-b1d9-4ca6-86a1-59d10b347943,Chef's Garden,RESTAURANT,38.643753,39.171421,Güney Çevre Yolu Galericiler Sitesi Son Blok Üstü NO:303,Elâzığ,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.919
 7204deec-321c-4bec-b0b9-97cf2678474a,Champion   Park AVM Elazığ,SHOPPING,38.651627,39.133369,Abdullahpaşa Mah. Eski Misland Avm Yeri,Elâzığ,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.758
@@ -413,7 +412,7 @@ c0fdb0a3-aa97-4592-b373-1dba61d50941,Elazig Windy Hill Hotel & Spa,HOTEL,38.7010
 f8252a00-bd92-49ba-a5da-e7b739cf7f1d,Atikeler Butik Otel,HOTEL,38.703365,39.24971,Ahmet Kabaklı Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.803
 f23081ab-1547-470c-863c-a94b0b39bd72,Balakgazi restaurant,RESTAURANT,38.702312,39.250687,Balakgazi Cafe & Restaurant,Elâzığ,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.960
 1c351cd5-8e30-48c5-b6ee-71990652fc7e,Cam Seyir Terası,SIGHT,38.701927,39.249702,,Elâzığ,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.755
-9b01869c-09b1-4391-ba13-28f7aaaf45b0,Elazığ Harput Kalesi Osmanlı Evleri,SIGHT,38.70174,39.249813,Harput Kalesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.767
+9b01869c-09b1-4391-ba13-28f7aaaf45b0,Elazığ Harput Kalesi Osmanlı Evleri,HOTEL,38.70174,39.249813,Harput Kalesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.767
 1657e9de-9b65-4e71-be56-f12e7ebcec85,Harput Balakgazi Seyir Tepesi,SIGHT,38.701569,39.249889,Harput Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.923
 9938abdf-5dc3-425e-ae1a-1b36befd2d1d,Harput Palace,RESTAURANT,38.70335,39.25349,,Elâzığ,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.906
 3cbf7668-0d94-47f2-8e3d-8cb4ef34747c,Zertaslar Et Lokantasi,RESTAURANT,38.69891,39.254665,"Km, Harput Yolu No:4",Elâzığ,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.995
@@ -642,7 +641,6 @@ f32a81bb-4699-449f-85f9-7fb88a364bae,Bingo Otel,HOTEL,38.88361,40.499153,Merkez 
 a1a2ccdd-c513-483a-9a10-668d78c42cc9,Destina BÖREK,RESTAURANT,38.883186,40.498959,Hastane Caddesi 8E,Karakoçan,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.793
 60e0798e-584c-455f-b060-794471dc1aaa,Saglık Cigkofte,RESTAURANT,38.883736,40.499016,"İnönü Caddesi 18/A, 12010, Yenişehir, Bingöl, Türkiye",Karakoçan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.778
 7d7f3e34-2926-4d44-b88d-5aa1e2954d2a,Babylon Cafe Restaurant,CAFE,38.883804,40.499023,Genç Cd. No:37,Karakoçan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.901
-609ee5d2-454a-4004-8cd4-228f79a65d15,Saray Park,SIGHT,38.88472,40.498913,Bayram Pide Lahmacun Arkası,Karakoçan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.827
 38c066fa-e9cf-4ee1-95d4-659f959fffdc,Cadde Döner,RESTAURANT,38.88472,40.498276,Genç Cd. No:4,Karakoçan,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.852
 95e0bde1-db2d-44cd-89b5-1acf8f0623ca,Espressolab,CAFE,38.884377,40.497929,"Yenişehir, Genç Cd., 12000 Merkez/Bingöl",Karakoçan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.884
 1cfef400-2c02-44a4-b2c0-644488c23d2e,Sehmus Pastanesi,CAFE,38.883587,40.496105,Hastane Cd. No:34,Karakoçan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.953
@@ -667,5 +665,4 @@ df544a96-4bf9-4f6e-8e62-5df5d5de9d9f,Yolçatı Dinlenme Tesisleri,RESTAURANT,38.
 2b12b0d3-8f62-48ae-b51c-05984ca7334b,Parkım Sosyal Tesisleri,RESTAURANT,38.948875,40.042316,Tepe mah. Atatürk cad. No:74,Karakoçan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.924
 7c6d8f27-bc37-4278-9b6d-c560d2782b17,Kırkpınar Aile Çay Bahçesi,CAFE,38.953342,40.041355,,Karakoçan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
 bf78c019-cc67-4fe3-8e35-893737831997,Fatih Parkı,SIGHT,38.959423,40.041134,Salih Sk. No:98,Karakoçan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.830
-6acef495-5b59-4d48-9967-f3def245f11a,Karakoçan Kalecik Barajı Sosyal Tesisleri,SIGHT,38.959755,40.059502,,Karakoçan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.787
 37c69304-faa9-41ac-822f-3b172fce33a0,Diga di Kalecik,SIGHT,38.958206,40.059971,,Karakoçan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.711

@@ -15,10 +15,8 @@ f6522cf8-ce82-4a73-8954-a16d4aadcc18,Tokat Pazar Kaz Gölü,SIGHT,40.276054,36.1
 d0784bbd-d18a-4ecb-9381-bfab2c272cbd,Yeşilyurt Çarşı,SIGHT,40.007393,36.219257,,Sulusaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.816
 2a0b5e45-4b75-43b4-97fe-058bf44a115b,"Yeşilyurt, Tokat",SIGHT,40.0,36.219997,,Sulusaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.817
 8336787a-3cef-4cdd-9024-8f5d78c4f488,Meshur Ballıca Dondurması Pazar Tokat,CAFE,40.275928,36.281033,Pazar/TOKAT,Pazar,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.906
-aad5a340-86e3-4a30-bc12-5457f9cf6eb5,pazar cumhuriyet caddesi,SIGHT,40.275837,36.281887,,Pazar,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.718
 c4b91265-8f9f-4dcf-870b-ad113ec6349e,Bahar Bahce Restoran,RESTAURANT,40.270161,36.283813,,Pazar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.824
 465e8e5a-7771-493c-9395-0779d19040e6,CafeLina Bistro,CAFE,40.276337,36.282784,SinanpaşaMH.HamamaralığıSOK,Pazar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.897
-cbbbc860-3a37-4360-98ef-ea50441d8ae1,pazar cumhuriyet caddesi,SIGHT,40.2757,36.282475,,Pazar,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.725
 4b98e14b-f548-4700-95f8-ebac1a0f7c42,Doyum Pide Salonu,CAFE,40.275524,36.282272,Halil Bey Sokak 3,Pazar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.915
 4ba73af2-dbcd-4583-ba90-2b3a4bcc1486,Pazar Çay Bahçesi,CAFE,40.276245,36.283371,,Pazar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.924
 ef2ecc9c-75c1-4e63-923d-d7426f8cfcf3,Tokat/pazar Ballıca Magaraları,SIGHT,40.271099,36.284199,,Pazar,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.711
@@ -182,7 +180,6 @@ fd18a442-dda0-4233-ac6e-da78af7aaf25,Hacivat Köftecisi,RESTAURANT,40.308746,36.
 dc824d46-71f7-4267-9f06-156d2d2ba0cf,Divan Çay Evi,CAFE,40.311256,36.553383,Behzat Blv.,Tokat,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.911
 899369ba-baea-4e67-87fb-ca6dc8e98775,Hocaoğlu Kebap,RESTAURANT,40.311119,36.55328,Behzat Blv.,Tokat,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.851
 e47bd718-a10c-4956-9235-7842c2c509b6,Yüksek Kahve,CAFE,40.311703,36.553455,208. Sk.,Tokat,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.956
-e334fa4c-459e-405c-ad70-30ff02cc9b88,Tokat Merkez Behzat Caddesi Yüksek Kahve,CAFE,40.312012,36.55331,"Bim, Behzat Bulvarı 222/A",Tokat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.843
 df01304d-7b97-41a1-99a3-522dc9a3fb5c,Akbelen Gölü,SIGHT,40.3139,36.554394,,Tokat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.946
 5f49a8fe-9b64-45fc-ac44-9463077eac7b,Kemkez Yaylasi,SIGHT,40.3139,36.554394,,Tokat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.779
 74226e8f-f2aa-4ff9-9acb-b9a83fe6ed32,Tokat Burcu Otel,HOTEL,40.311325,36.553059,"Saat kulesi karşısı, 209. Sk. No:1",Tokat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.962
@@ -272,7 +269,6 @@ cef16915-6427-46c4-812e-3999677078e0,Atlas Otel,HOTEL,40.324818,36.554085,"Yeni 
 a5104827-ab40-4d36-900f-00b3e2b99bda,Balcon Cafe,CAFE,40.324375,36.552929,"Novada Yanı Yeşilırmak, 4032. Sk. No:51, 60030 Tokat Merkez/Tokat",Tokat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.926
 8ebe36e5-f516-4c7f-a323-7bb6a0a0e4aa,Baklavacı Şemsettin Tokat,CAFE,40.324184,36.552467,Yeşilırmak mahallesi gop bulvarı orman işletme müdürlüğü karşısı 68/C,Tokat,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.921
 6ab04204-dc0a-408a-8487-265ef7196467,Antik Pilav,RESTAURANT,40.324966,36.551861,Orkide Sk. No:8/A,Tokat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.836
-4875478b-9ca3-4fe1-8870-f82b07b22e74,Anka Internet and Game Park,SIGHT,40.324799,36.552013,Yeşilırmak Mahallesi Çağgölü Caddesi Orkide Sokak Orkide Apartmanı,Tokat,CDLA-Permissive-2.0,Overture|meta,internet_cafe,food_and_drink>casual_eatery>cafe>internet_cafe,0.945
 9572a076-a2e3-4b97-8519-56891df8591b,Tokat Sifa Pide,RESTAURANT,40.324001,36.55019,,Tokat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.751
 721d3153-b39f-464b-9300-7915ea6e81a5,Kumbar Restaurant & Cafe,CAFE,40.324348,36.550571,Çeçenistan Caddesi 2. Sokak 14,Tokat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.976
 c7782b95-c7a5-4f20-a8cc-fecc554974e9,Ses Bes Bar,RESTAURANT,40.324696,36.55125,Şeşbeş Bar,Tokat,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.844
@@ -301,7 +297,6 @@ be76647f-d4bd-41cb-bf24-d4b56809556a,Paşa İşkembe,RESTAURANT,40.331638,36.548
 3b368eed-b06b-4968-a442-b01d38e45f68,Lentina Cafe,CAFE,40.33403,36.546734,4045. Sk. No:2/A D:60100,Tokat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.911
 b9908bc7-32e4-4d9c-b101-4662f9b9892a,KHALL Suites,HOTEL,40.334385,36.54858,4046. Sk. no:10,Tokat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
 18613356-f24a-4b5d-9710-65c865b05074,Ata Pöç Tandır,RESTAURANT,40.334549,36.547836,4050. Sk. 13/A,Tokat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.982
-10cccf8e-aeed-43e7-aea8-70497d691790,Tokat Yesil Park,SIGHT,40.33543,36.548138,,Tokat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.789
 6787b4bb-4a2d-401f-b1bf-c7f063165134,Yeşil Park,SIGHT,40.335949,36.548538,,Tokat,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
 8224dfbb-7947-4b03-9903-e2224dd00a5b,Komagene,RESTAURANT,40.337715,36.5471,Orhangazi Cd. No:122/A,Tokat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.933
 736b9df0-69df-4544-a712-b406d7d59d32,Mira Balıkçılık Restoran and Balık Pazarı,RESTAURANT,40.337074,36.5481,Karşıyaka mahallesi Orhangazi caddesi TOKAT/Merkez,Tokat,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.910

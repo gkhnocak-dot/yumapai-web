@@ -112,7 +112,6 @@ d431771c-13b4-434b-b002-0aff4fdd0c7b,Öz Kaymak Dondurma,CAFE,37.309448,29.77359
 d75d7bdd-5b99-4974-aa83-bf6b2530dbf7,Barutlu Su Tesisleri Otel & Restoran,HOTEL,37.3162,29.780027,"PTT Tefenni, Gazi Caddesi 19",Tefenni,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.910
 e1e72a54-7e89-4859-b7a8-b82f81e8d457,Kafe'm Özyörük,CAFE,37.311802,29.776224,Ahmet Erdoğan Sokak No:4,Tefenni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.900
 69c5c8e2-c354-42a6-92a9-7c3ab6d1fb83,KULE PARK,SIGHT,37.315853,29.770527,Tefenni ,Tefenni,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.869
-3c4c8aad-0c02-4f8c-83ec-7dcb287ee636,Barutlu Su Park,SIGHT,37.315681,29.772261,Dr. Devlet Bahçeli Caddesi 40/1,Tefenni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.924
 6a0208a9-f600-4f9f-bd1f-ce119b596208,Gündüzler Nur Pastaneleri,CAFE,37.363182,29.816088,Ece Sk.,Karamanlı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.986
 77c33f9f-2c8f-4abe-88ec-61a959c47010,Karamanlı yörem tantuni ve döner salonu,RESTAURANT,37.370289,29.82206,"Karamanlı Eczanesi, Burdur Caddesi 8",Karamanlı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.876
 d7adf872-dc8b-433b-8879-21a56f3dcab7,BirTat restaurant,RESTAURANT,37.370274,29.821758,Yeşilova Cd.,Karamanlı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.903
@@ -130,7 +129,7 @@ ca647093-ac8c-435d-8875-4357d04200cb,Salda Karaoluk Çeşmesi,SIGHT,37.576668,29
 73665b24-e0a1-4250-80af-e1fc49fbf886,YeŞİLova DÜDen,SIGHT,37.588127,29.558746,Burdur Yesilova Düden Köyü,Yeşilova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.816
 3f77cdcd-0ea6-4e2c-81e3-479be2d92758,Doğanbaba Plajı,SIGHT,37.57428,29.641111,Doğanbaba Köyü,Yeşilova,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.973
 748f3852-ded2-40c0-99e1-888892d68cca,Salda Gölü Habitat Pide,RESTAURANT,37.596268,29.656553,Okul Caddesi No 1,Yeşilova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.972
-7bf7a390-2065-4dbe-a894-d4de42e9e4e2,Çamlı konak konaklama salda gölü,SIGHT,37.59626,29.656319,doğanbaba köyü hayriye yolu sok no 6 (salda gölü)\n,Yeşilova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
+7bf7a390-2065-4dbe-a894-d4de42e9e4e2,Çamlı konak konaklama salda gölü,HOTEL,37.59626,29.656319,doğanbaba köyü hayriye yolu sok no 6 (salda gölü)\n,Yeşilova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
 8562ff36-5954-486c-890d-d3f775d4aae5,Salda Gölü,SIGHT,37.549999,29.683332,,Yeşilova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.896
 2edcb90b-4e4e-4703-baba-a457da079c51,Yesilova-Salda Gölü,SIGHT,37.51886,29.678146,,Yeşilova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.848
 0d0b74ee-8f92-45d9-9fc7-8c2989349306,Burdur Salda Gölü,SIGHT,37.519108,29.676331,,Yeşilova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.726
@@ -385,7 +384,6 @@ dc18e8ce-46b5-45a2-857e-b8d30cfe39c2,Zenith Lounge Bilardo&Cafe,CAFE,37.720715,3
 ddd960a2-cdfc-4fc3-a718-b524e356138a,VED'S CAFE,CAFE,37.720478,30.281828,İstasyon Caddesi 23,Burdur,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.970
 11d5537a-ccaa-4b09-a49b-8496d6b0d69d,Soulmate Cafe,CAFE,37.720291,30.281832,Dede Korkut Cd. No:1,Burdur,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.967
 d055772b-035e-4a31-b3f7-593112a9e177,Oskar Bistro Cafe,RESTAURANT,37.720371,30.281256,Dede Korkut Cd.,Burdur,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.993
-bfa72f18-f190-4843-96d4-380887c5d500,Çeşme Kumrucusu 35,SIGHT,37.720341,30.281889,İstasyon Caddesi 21,Burdur,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.863
 f194f327-6f35-4e64-b857-a9432513d459,Torku Ziyafet Döner Burdur,RESTAURANT,37.720268,30.282118,Konak Mahallesi İstasyon Cad. Uzal Apt. 14/B Merkez,Burdur,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.904
 9c39c1a8-76c3-464a-9993-9785f9f1d069,Adnankokorec,RESTAURANT,37.7202,30.282887,Fevzi Çakmak Caddesi 1,Burdur,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.890
 9f873d5c-284c-435e-9671-333d6c943e3e,Dostlar Aile Lokantasi,RESTAURANT,37.720413,30.285927,,Burdur,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.818
@@ -642,7 +640,6 @@ b4851226-d207-4480-918c-973060824519,Ayışığı Restaurant & Alabalık,RESTAUR
 3cadf4b5-a7b7-4c63-afea-7684437728fc,Karacaören-1 Barajı Seyir Terası,SIGHT,37.380302,30.828028,Karacaören Köyü,Bucak,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.702
 4454e1f1-3275-4a3b-84fa-5efc8221b350,Karacaören-1 Barajı Seyir Terası,SIGHT,37.387817,30.839449,Karacaören Köyü,Bucak,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.702
 3a58f39a-3275-4fa3-b0e2-453167a1da99,Şöför Ali̇ Ni̇n Yeri̇,RESTAURANT,37.344528,30.807898,Isparta Antalya Yolu Baraj Mevki,Bucak,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.782
-360900b1-c0f1-4ef9-af3f-79ef618e5944,Kocayer Mh,SIGHT,37.341206,30.809719,,Bucak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.764
 550785ac-d977-426e-b829-c9918430474c,Karacaoren Barajı Balıkcı Sabanın Yeri,RESTAURANT,37.336082,30.810827,Isparta - Antalya yolu,Bucak,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.948
 36a19074-8bb8-46a6-9bf8-0767d6c6dd4a,Karaseki seyir Tepesi,SIGHT,37.348412,30.746622,,Bucak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.748
 8fa28b49-f106-4cd6-9eb0-53199fc32548,Akkız Kulesi Pamucak Kır Lokantası,RESTAURANT,37.397568,30.721764,Bucak,Bucak,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.949

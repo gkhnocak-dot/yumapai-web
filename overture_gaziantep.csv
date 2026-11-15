@@ -247,7 +247,6 @@ fee256b1-31a9-4440-92af-c703a2fc4e08,Goldens Cafe,CAFE,37.068138,37.320889,15 Te
 11ab6a9e-90fe-43b8-b1ae-9c59566ad3ea,Tuck Coffee x Etc Gaziantep,CAFE,37.064896,37.327168,Ahmet Şireci Blv no:22c,Gaziantep,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.932
 a4c1c040-381d-4dae-a1de-cae18fca17ad,Masha Nargile,CAFE,37.064854,37.327271,Ahmet Şireci Blv NO:20/H,Gaziantep,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.810
 da7b2be6-8454-4399-af6f-d4565282fd2d,Queen's Cake and Bakery,CAFE,37.064854,37.32729,Ahmet Şireci Blv no:22/D,Gaziantep,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.890
-1c290fc2-0eae-4184-8c9a-8a7409cedf4b,Hayal Park,SIGHT,37.06757,37.328522,1 Nolu Cadde No:21,Gaziantep,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.805
 3207f8da-38f7-44fa-8a9f-ccd5f618bf57,Cezve & More Cafe,CAFE,37.06464,37.328018,"cezve & more, Ahmet Şireci Blv riva apt No:18 altı",Gaziantep,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.845
 58531768-e0ba-468f-83ac-8800abea6b8c,Phokaia Cafe&Shop,CAFE,37.064407,37.329117,Ahmet Şireci Blv No:16D,Gaziantep,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.969
 2e4de3b5-90ab-423c-8b26-08aabeb0c12d,Mk Coffe'e,CAFE,37.064228,37.330471,"Osmangazi, Ahmet Şireci Blv No:14",Gaziantep,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
@@ -1281,7 +1280,7 @@ c63da0dd-d0be-4ebc-99f1-e16da2a4f7d4,Burgercheck,RESTAURANT,37.069408,37.339886,
 66445fe1-ddbb-4770-ab3d-8038566ced38,Baristas Coffee,CAFE,37.069675,37.339794,Karlstad Cd. 38/B,Gaziantep,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.904
 e8f63565-af21-4dff-bd18-e5acdd1725b8,Cafe College,CAFE,37.069454,37.343063,Ayıntaplı Mehmet Bey Caddesi 26,Gaziantep,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.914
 c175026a-33c6-4d24-9443-10e04fc65a9d,Pinargözü Baklava,CAFE,37.07267,37.343842,İbrahimli Yolu Cd. No:27 D:B,Gaziantep,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.856
-405eebcf-1118-4831-8647-61c1f8f031a2,Şelale Konakları,SIGHT,37.072712,37.344852,Emek Mah,Gaziantep,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.898
+405eebcf-1118-4831-8647-61c1f8f031a2,Şelale Konakları,HOTEL,37.072712,37.344852,Emek Mah,Gaziantep,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.898
 05dd0ebc-8102-4cff-bcf6-6d41b280c16e,Özel Et Döner,RESTAURANT,37.072575,37.345291,İbrahimli Yolu Cd. No:13 D:B,Gaziantep,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.878
 2668f034-7166-4053-9acb-77ed008041c8,Erdem's Ekşi Fırın,CAFE,37.07267,37.343662,İbrahimli Yolu Cd. No:27,Gaziantep,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.860
 284c73f6-b4e7-46b6-b79b-fadaa076e4dc,SoloCafe27,CAFE,37.072727,37.343216,İbrahimli Yolu Caddesi 31,Gaziantep,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.904

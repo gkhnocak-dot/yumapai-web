@@ -85,7 +85,6 @@ ce15955c-06ee-4e84-a6db-25768cee0668,Kastamonu Araç Tuzaklı Göleti,SIGHT,41.2
 62eee32f-efae-481c-8bbb-22639ea3b138,Meriç butik Otel,HOTEL,41.307457,33.784607,"Kavacık Mahallesi Orencik Köyü No.3, Kayak Merkezine 35 Kilometre",Kastamonu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.970
 f464b96b-cd90-4957-b53c-7d14f20f778d,Amorium Park Otel Restaurant,HOTEL,41.32246,33.767231,,Kastamonu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.840
 bf697462-fd48-43d9-a212-07b7e90a0c34,Amorium Park Otel Wooden & Stone House,HOTEL,41.322521,33.767036,"Ankara Yolu, Tekçam Mevkii, Kumara Köyü",Kastamonu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-a14f39a9-306d-4409-811a-f4ced6535bb8,Devlet Su İşleri Karaçomak Barajı Tesisleri,SIGHT,41.317738,33.746922,,Kastamonu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.766
 13fd322a-b0f7-4641-a8b3-c53eed97be72,Kastamonu Karacomak Baraji,SIGHT,41.343716,33.757488,,Kastamonu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.739
 8ffb6391-7622-4c9d-9dea-672f0eb339af,Doğakent Hamamı ve Yüzme Hamamı,SIGHT,41.350899,33.77309,Doğakent Sitesi İç Yolu No:2,Kastamonu,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.953
 71e8c56a-5691-483d-a341-92649d748846,Armoni Park Otel,HOTEL,41.355076,33.768398,Güven Sk. No:18,Kastamonu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
@@ -287,7 +286,6 @@ a94f8be0-2a94-4f6e-b109-61e49d50781f,Şekerci Avm,SHOPPING,41.395618,33.7854,Sal
 aaa68dfe-d7ee-47c1-876f-0251f8787bab,Devrekani Cirik Tatlicisi Zafer Usta,CAFE,41.393723,33.784393,Rauf Denktaş Cd. Tekinevler Sitesi No: 15/A,Kastamonu,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.799
 8a405306-45cc-4f8e-b255-d1fa2a909a9a,Teras Kule,SIGHT,41.406094,33.808983,Şht. Bülent Gider Cd.,Kastamonu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.799
 8060e174-727d-4256-adac-768409c3f11e,Kebeci Avm,SHOPPING,41.407658,33.796574,Cebrail Mah. Uzun Sok. No:18,Kastamonu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,shopping_mall,shopping>shopping_mall,0.770
-e6c0b7b2-e538-4cd3-a34e-a4e450b8e518,Moni Park,SIGHT,41.407406,33.797554,"no:99 3, Rauf Denktaş Cd.",Kastamonu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.956
 3ca2817c-f555-4531-adfe-566ce6c4652a,Taşköprü Kent Müzesi,SIGHT,41.407043,33.798439,Kastamonu ,Kastamonu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.960
 6a92d614-9fac-4045-b617-ca61d49a5de4,Gazibey Pasta&cafe Tosya Yolu,CAFE,41.407177,33.798428,Tosya Yolu Girişi,Kastamonu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.939
 a990d7d4-acd9-46e1-9002-64a93ed2b4e4,Tadım dondurma,CAFE,41.406578,33.801601,Şht. Bülent Gider Cd. No:39/B,Kastamonu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.945

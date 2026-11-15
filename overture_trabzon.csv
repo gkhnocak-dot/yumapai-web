@@ -111,10 +111,8 @@ e07f748a-80e1-4f61-944a-d0bb414d2ed4,Sisdaği Dinlenme Tesisleri,RESTAURANT,41.0
 e2f16eae-1947-4149-86c8-7f223d4af719,Yobol Otel Ve Restaurant,HOTEL,41.066883,39.214443,Karadeniz Sahil Yolu No:12,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.780
 fba672b1-fa99-49db-be4b-8fc1972eef93,Beşikdüzü Plajı,SIGHT,41.072601,39.201164,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
 5d4a4fe5-1cf0-44a5-8492-495880483c6a,Adacık Plajı,SIGHT,41.072098,39.206825,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.845
-e3e1ded7-1c09-4bdf-a23f-e4a37d2a844a,Beşikdüzü Öğretmenevi Adacık Sosyal Tesisleri,HOTEL,41.071995,39.206776,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.896
 9873015f-f57c-4dcc-8dd7-fd89947c7270,Taka 61 Otel & Restorant,RESTAURANT,41.070858,39.210659,Adacık Mahallesi,Beşikdüzü,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 700b2e0d-13f0-4c27-9272-c24e0e66a0d8,Livio Otel & Restoran,HOTEL,41.070747,39.210499,Pirinçlik Küme Evleri No:38/1,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
-bf40f78d-2b98-431b-b27b-71985f18fdb6,Beşikdüzü Öğretmenevi Adacık Sosyal Tesisleri,HOTEL,41.066387,39.213375,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.904
 c9313088-d48c-4879-b9aa-014f2f36ca32,Gölbaşı Et Balık Lokantası,RESTAURANT,41.046089,39.20443,Beşikdüzü Şalpazarı Yolu No:11,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.908
 1db855c7-ed16-4518-9d6f-60bfbf3f0426,Vakfıkebir Durak Kahvesi,CAFE,41.045586,39.278816,,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.773
 d059180e-2b5a-4cfe-8166-44aba59045dc,Cumhuriyet Pide Salonu,RESTAURANT,41.045788,39.275524,Eski Cezaevi Cad. No:20,Beşikdüzü,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.944
@@ -463,7 +461,6 @@ d64002eb-bdd2-4a67-958e-43bdc8baacc3,Balık Suyu Dinlenme Tesisleri,RESTAURANT,4
 f0a2f6d9-e808-4e9f-b696-00cb73988708,"Pazarcik Dinlenme Tesisleri""Onur Cincil""""",RESTAURANT,40.593658,39.965851,Trabzon Arakli Pazarcik,Araklı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.967
 cf98f349-35fa-4804-83af-3c9d82c5dd56,Çatak Et Mangal,RESTAURANT,40.630474,39.926197,Araklı Yolu,Araklı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.925
 91bca378-82fe-4066-a00b-0cf8abd4a8fc,Araklı Çatak Et Dinlenme Tesisleri,RESTAURANT,40.630413,39.926296,araklï çatak,Araklı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.983
-1e939b59-6fd5-4151-aff6-895008e4a157,Kardelen dinlenme tesisleri,SIGHT,40.599602,39.787109,Çorak mevkii Taşköprü yaylası,Maçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.859
 1664865e-f0d4-40e0-8c56-23461ff9abf3,Akgüller Turistik Tesisleri,RESTAURANT,40.599735,39.787636,Taşköprü Yaylası,Maçka,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.881
 a3e3415b-72a8-44a3-ac3f-994ae47ef1d9,Taşköprü Yaylası,SIGHT,40.600048,39.789955,,Maçka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.940
 998bccbd-a929-4f5c-9c1a-72a0fecd814e,Bandırlak Yaylası,SIGHT,40.513214,39.796242,,Maçka,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.790
@@ -643,7 +640,6 @@ a3f3b0dd-367f-4b78-b992-82d9d8093a9d,Sürmene Voha Plajı,SIGHT,40.920204,40.087
 6d93f73f-3793-471c-9cd9-d288612a0fbc,Şehrar Suite Hotel,HOTEL,40.919205,40.087189,Zeytinli Sahil Küme Evleri No:5/A,Sürmene,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.982
 a83178d0-e188-4980-94ac-879210821c2b,Sürçaysan Aş,CAFE,40.894352,40.10844,Köprübaşı Sürmene Yolu No:59,Sürmene,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.883
 0c5aa93f-cf21-42d4-aa50-ce6f6b484d9f,Ikicay tea factory,CAFE,40.895969,40.107567,Vali yazıcıoğlu 6.sok Köprübaşı yolu üzeri,Sürmene,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.980
-eb4f97d7-6dd9-4f4a-803e-fa4b42cb7395,Orta Mahalle,SIGHT,40.891617,40.129272,Morçollu,Sürmene,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.832
 b6a117a6-6598-42f4-8f00-fc69dc4861dc,İzzeti İkram Et&Balık Lokantası,RESTAURANT,40.912312,40.133724,Hasan Tahsin Kırali Cd. No:25,Sürmene,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
 b50042a8-ae05-43e9-9c4c-8cc38f4fc3c0,Bozo Pide,RESTAURANT,40.91201,40.135181,Sahil Cd. No:25,Sürmene,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.948
 b13e5254-79fd-461d-bf4f-b6d894eddca2,Bıg chefs,RESTAURANT,40.911484,40.123604,,Sürmene,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bar,food_and_drink>alcoholic_beverage_venue>bar,0.770
@@ -675,7 +671,6 @@ d3691c42-b2f9-4ca5-865b-375c8d28817c,Aydın Köfte ve Yemek,RESTAURANT,40.913105
 1c63090d-689e-49f0-857d-c16c4b9e035f,Sürmene Mangalcı,RESTAURANT,40.913334,40.112362,Uzun Sk. No:6,Sürmene,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.820
 20bf84d6-205d-4d19-85dd-affb25f1c6c4,Elif Pastanesi,CAFE,40.913567,40.112675,Nazım Vural Cd. No:7,Sürmene,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.949
 42785a5f-56fc-4139-89db-e0aaea8740f5,Kalafatoğlu Köfte,RESTAURANT,40.913731,40.112881,Sahil Cd. No:2,Sürmene,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.976
-31bbbbc9-7983-4d21-b1e9-ca883c4dbeb4,Şura Park,SIGHT,40.913883,40.113567,Müftülük Binası Altı,Sürmene,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.753
 0a1e73c9-df9f-40a0-8b9b-0104fd581212,Saray Lokantası,RESTAURANT,40.914062,40.113331,Sahil Cd. No:21,Sürmene,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.831
 f1b25e10-d480-4913-a972-0c2a6d3b06c0,Pideha Efsane Sürmene Pideleri,RESTAURANT,40.913998,40.112152,Sahil Caddesi 1/1,Sürmene,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.935
 642d3ad5-7e3e-438e-88de-ad29880097c7,Manahoz  çay evi,CAFE,40.913433,40.112103,Rıhtım sokak,Sürmene,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.943
@@ -860,7 +855,6 @@ b1c65117-3d9a-4b40-b5b7-d25c6b5e21bd,Kibar Hotel,HOTEL,40.613987,40.311813,"Uzun
 71bac77b-2625-4ade-ab65-a8d2ff234454,Bavul Suite Uzungöl,HOTEL,40.595699,40.321491,Uzungöl,Çaykara,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 0c291eea-fec6-49ea-8ebe-f9a9e2d3e6c0,Sera Sur Restaurant & Cafe,RESTAURANT,40.976059,39.60619,Seragölü Cd. No:269,Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.978
 7927c993-5603-4fd6-8308-2ccca0057f1a,Hayal Vadisi Restoran,RESTAURANT,40.981133,39.609127,"Demirtaş, Cami Küme evleri ",Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.955
-40610955-1138-4991-b2e6-2a4fadccfbc9,Sera Gölü Sosyal Tesisleri,SIGHT,40.981941,39.611008,Seragölü Cd.,Ortahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
 90a42976-b313-4ced-94ee-8929fad004d2,Assor Cafe&Restaurant,RESTAURANT,40.983585,39.610783,"Yıldızlı Mah. Gölbaşı Cad. Prs:147/58 No:135/1, İsmail Özdemir Apt. Bina,218084",Ortahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.976
 38989711-0569-4425-8392-78c70e0657ec,Akcabat Sera Gölü,SIGHT,40.988083,39.618111,,Ortahisar,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.898
 7973589a-876d-4486-80f2-fe14d466f15c,Gül Tesisleri,RESTAURANT,40.988007,39.61816,Yıldızlı Beldesi Sera Gölü Mevkii,Ortahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.992
@@ -1498,7 +1492,6 @@ d9712e1b-c858-45d0-a77b-74649380b1ba,Gumruk Ve Ticaret Bakanligi Liman-Trabzon G
 fe3912e5-8002-4dab-a1fb-3d37cb8bf4d0,İskele meyhanesi,RESTAURANT,41.005943,39.734322,Şht. İbrahim Karaoğlanoğlu Cd. No:40,Akçaabat,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.991
 b4bd4a1c-573d-4c26-b72f-01f0182b5cb7,Uzungöl Göl Otel,HOTEL,41.003311,39.734554,Yenimahalle Serçe Sokak No: 1 Uzungöl,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.959
 2084d666-1f2d-438d-b2cc-67aab2e8974a,Imaj Hotel,HOTEL,41.003796,39.734108,Çömlekçi Cd. No:50,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.947
-03c116e5-152d-443b-b057-501e1dd1c78d,Trabitaş park,SIGHT,41.003727,39.73233,"Esentepe Dolmuş Durağı, Taksim Cd. No:12, 61030",Akçaabat,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.916
 633a030c-8d2d-4cec-aa66-a6c292a3d84a,Sağıroğlu Otel,HOTEL,41.004154,39.731987,Limonlu Sk. No:1,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 9d00c3fe-74a4-4e16-81c9-7c5e9986cd9e,Üstad Börek & Baklava,CAFE,41.004433,39.731644,"İskenderpaşa Mah. Taksim Cad, Limonlu Sk. No:7",Akçaabat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.972
 a417f5b0-90fe-4bfc-ab31-2d7949487d8e,Doa Suite Hotel,HOTEL,41.004143,39.730038,Yavuzhan Sk No:12,Akçaabat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.980

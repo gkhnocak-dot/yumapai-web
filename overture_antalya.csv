@@ -83,7 +83,6 @@ efcf0bb8-eb71-4d3f-8b1a-d74932ccb07a,Hotel Viewpoint,HOTEL,36.275772,29.321745,,
 4544781f-a4fa-4ba2-90a3-5e63ad05d31d,Patara Akay Hotel,HOTEL,36.277203,29.320494,"Patara ,Gelemiş mah. Cumhuriyet cad.",Kaş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
 525748af-6f67-4e90-911d-469a2b0e58f6,Patara Flower Pansiyon,HOTEL,36.277458,29.320499,Patara- Kalkan,Kaş,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast,0.770
 748da6d6-712a-42ec-84fc-bbc1c298bdd2,Villa Mila Patara,HOTEL,36.293201,29.329832,Karaağaçlı Sokak No:12/10,Kaş,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.888
-bd1b3bde-9332-4e03-8682-e08adabacc8f,Patara Kavşak,SIGHT,36.29665,29.328753,,Kaş,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.746
 09332402-abc7-4f61-97b1-0a57d774ae83,Yesilkose Kafe Bar,CAFE,36.29649,29.329218,Patara Yol Kavşağı,Kaş,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.858
 36229943-4202-4451-b3fe-770efd500e6c,Uğurkan Otel,HOTEL,36.3046,29.328402,07,Kaş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.982
 7788c5d7-fce8-4aaa-83f4-fecf2fb577b9,Coşkun Döner,RESTAURANT,36.306908,29.329317,Belediye Cd.,Kaş,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.853
@@ -1334,7 +1333,6 @@ c3532003-d986-4762-8114-bddce7206faa,Sahilkent Sahil,SIGHT,36.315521,30.178326,,
 75f48aed-2b1e-4c88-b344-3c8f2d4ad8b3,Presa Di Finica Hotel & Suites,HOTEL,36.316544,30.186171,46. Sokak 1A,Finike,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 90d560a3-5141-4ab2-87cd-e597131e49b8,TUI Fun&Sun Club Di Finica,HOTEL,36.317078,30.185913,46. Sokak 1A,Finike,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.774
 ab82d57f-7a36-424c-b24d-17a320979fb0,Sazlik Beach Finike/ANTALYA,SIGHT,36.314655,30.188557,Akdeniz bulvarı sahilkent 12 nolu beach Sazlık cafe beach,Finike,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.896
-c97346c7-c6b7-4b60-ba4b-00b6a1ba227a,Finike Sahil Park Sosyal Tesisleri,SIGHT,36.314911,30.189405,Finike Sahil Yolu,Finike,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.849
 6b1c511d-afa5-40c8-a56c-8d7819fb8388,Altunay Cafe Restaurant,RESTAURANT,36.316444,30.211891,Akdeniz Cd.,Finike,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.915
 ba9c0070-bf11-4aea-94cb-8c4095c9059f,Kumluca Sahil,SIGHT,36.315727,30.197073,,Finike,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.920
 435c3ef0-af7d-40d4-adca-e91a50f42b69,Kumluca Sahil,SIGHT,36.314243,30.197683,,Finike,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.920
@@ -3141,7 +3139,6 @@ b65043f8-a281-4b81-9b7f-d2fa31a89ae6,Antalya Titanic,HOTEL,36.856297,30.742819,"
 dfe1ad7a-23c7-49ba-a89f-6de610cffc22,Wise Hotel and Spa,HOTEL,36.855598,30.742882,1512. Sk. No:6,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 2d2d7c15-f319-423c-aedb-a7eb8cf4ae37,Uzaklar Pub,RESTAURANT,36.856117,30.743084,Eski Lara Cd. No:223,Muratpaşa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.770
 c60dd4b9-dcbe-4040-bea3-3f606656f87b,Efe Balıkçılık,RESTAURANT,36.856014,30.74305,Lara Caddesi 70,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.844
-5f950d78-6403-4243-bb0d-7d7b6c52bd4c,Çeşme Kumrucusu Lara,SIGHT,36.856079,30.743019,Lara Caddesi 70,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.796
 92ffe794-46a8-455c-97e2-e623615b3d21,Bilem High Class Hotel,HOTEL,36.855503,30.743357,Şirinyalı Eski Lara Caddesi Sokak: 1512 No:2,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
 ae26978d-4bdc-49ae-8e8d-c908b1f75367,The Sense De Luxe Hotel,HOTEL,36.855865,30.743439,Side Kumköy,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.922
 e4b7a6d9-5ca1-470e-98b6-aef8d94432b4,Nun Otel Spa,HOTEL,36.856209,30.743357,Lara Caddesi 243,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.798
@@ -3942,7 +3939,6 @@ e3601533-cd35-4bb3-b4ba-b17e5477dab0,Hotel Adam & Eva,HOTEL,36.849152,31.067881,
 6dcb5446-2215-4df2-91e1-2f296044ef1c,Maxx Royal Beach Pavillion,SIGHT,36.847172,31.069221,,Manavgat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.895
 972d9bf9-d011-42ab-94d3-7bf35c41cc45,Maxx Royal Beach Bar,RESTAURANT,36.84737,31.069172,,Manavgat,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.950
 dccd88f2-7e50-4b8d-8fdb-dab6a1342dc9,Royal Adam & Eve Hotels,HOTEL,36.849815,31.068872,,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.925
-068ffd77-c72c-4101-a801-564816e494c2,Voyage Belek Pavillion,SIGHT,36.8461,31.070892,,Manavgat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.714
 9be0eb69-8626-4568-b02c-b461c510d758,Maxxroyal Tangerine beach disko,SIGHT,36.846577,31.069986,,Manavgat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.738
 be59adbc-82b0-40c2-8cef-5a0b093c3892,Maxx Royal Turkish Restaurant,RESTAURANT,36.846771,31.070387,,Manavgat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.882
 0d7e3e90-42a6-40e5-b83a-6c8ba38164e6,Maxx Royal Maldive Village_Belek,HOTEL,36.847527,31.070427,,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.800
@@ -3954,7 +3950,6 @@ ef9cf85c-2ddb-4732-9370-af8ab9ec3d23,Maxx Royal Main Restaurant,RESTAURANT,36.84
 44c8ceab-1b89-4279-a386-bdc851925a55,Granada Luxury Hotel ,HOTEL,36.856907,31.072149,Barış Caddesi 4,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.895
 052bf10a-2186-469d-9eef-e4581b03e27b,Club Voyage Belek,HOTEL,36.847385,31.072079,Voyage Belek Golf & Spa,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.864
 28621b97-32e1-4c9f-9243-82acb518f9d3,Voyage Belek Golf and Spa,HOTEL,36.848305,31.072399,Günübirlik Cd. No: 2,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
-c5267f12-07dd-4ff6-8803-0d1ca8ee2f91,Antalya Voyage Belek,SIGHT,36.847229,31.072384,,Manavgat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.730
 e715055d-4dd3-41dc-9ca1-bebbfe94482d,"Steakhouse, Voyage Belek, Golf & Spa Resort",HOTEL,36.846889,31.072685,,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.785
 9113975b-6ef6-4d21-ac0e-0dbd3dcd7033,Kurt Hotel,HOTEL,36.854244,31.072464,"Çamlık Mah.Siteler Cd. 77 Sok.No:4 Belek /Serik / ANTALYA, 77. Sk.",Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.959
 9a40c04d-d1c8-430f-beb1-074293f1aaca,"Voyage Hotel, Colin Montgomerie Golf Resort, Belek",HOTEL,36.848206,31.072895,,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.818
@@ -4608,7 +4603,6 @@ df373706-09bd-469f-9974-7dbaaf4db386,Antalya Gazipaşa Sahili,SIGHT,36.266403,32
 b5d279be-a094-4496-86d8-2f31d98c0a91,Grand Akca Hotel,HOTEL,36.268074,32.281502,Uğur Mumcu Sok. No:359,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.975
 38bfb152-6880-4ff1-9b03-dc5f0d891de2,Selinus Halk Büfe,RESTAURANT,36.268307,32.280739,,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.924
 fe9cb966-4db5-4f45-8763-1e80b6eefc9f,"İskele Plajı,Gazipaşa",SIGHT,36.268379,32.280769,,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.922
-09664ab8-3b9a-4242-9622-ab9d2713a8d0,Gazipaşa Deniz Tesisleri,SIGHT,36.268509,32.280743,,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.731
 387fb40d-372c-41c4-af86-813d29ff712d,Gazipaşa Sahil,SIGHT,36.26963,32.280579,Uğur Kurucu Bul,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.769
 6a2ca323-aee6-4880-88fd-bedf3333c8f9,Nanu Beach,SIGHT,36.269718,32.280533,Av. Kemal Akça cad 1/1,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.862
 513ad482-0ccb-4ba5-ab02-dfba59f26145,Sefa Beach,RESTAURANT,36.270718,32.280182,,Gazipaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.959
@@ -5900,7 +5894,6 @@ f4c10359-bcb8-4cfb-babe-b1f55cf4a87b,PASHA Et & Balık Evi,RESTAURANT,36.543362,
 ceb6bd55-aaa8-41ed-9e4e-940ed3d9d1f8,Merhaba Hotel Alanya,HOTEL,36.543644,32.011391,,Alanya,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.829
 fbaa2967-e809-4885-a0f6-d81e2da63ba7,Green River Restoran,RESTAURANT,36.543911,32.012177,Ahmet Tokuş Blv. 89/B,Alanya,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.933
 0f0240ec-d983-4f92-91de-fcd840651beb,Vella Beach,SIGHT,36.543869,32.012756,"Mudo, Ahmet Tokuş Bulvarı 11",Alanya,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.790
-fddf1f37-5665-44a0-b453-d1546a8030e3,Ahmet Tokus Blv,SIGHT,36.543884,32.012344,Ahmet Tokuş Bulvarı,Alanya,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.713
 278630c9-c897-4914-b6cc-602c915815e7,Alanya White House Emlak Jenigo  APART,HOTEL,36.543949,32.012283,CUMHURRİYET MAH. SANAT OKULU CAD. SANAT OKULU KARŞISI WHİTE HOUSE EMLAK JENİGO APART ,Alanya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.793
 e979641b-fe9d-4221-a8c5-96697dcc8824,Şefin Yeri Restaurant,RESTAURANT,36.543724,32.013912,Ahmet Tokuş Blv. 107/A,Alanya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.997
 537de7c5-938f-4527-a2c6-52b872d3c7cb,The Bones Steak House,RESTAURANT,36.543678,32.014366,GÜLLER PINARI MAHALLESİ AHMET TOKUŞ BULVARI DOKTOR SİPAHİOĞLU APT.NO113A,Alanya,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.916
@@ -7101,7 +7094,6 @@ e0c7e930-281c-4943-8663-b1793a10cd5f,Kebabistan,RESTAURANT,36.758957,31.418598,V
 fcb5aff8-be02-41af-8445-02338f362334,Turquoise Hotel,HOTEL,36.758057,31.415937,"Side Acısu Mevkii Sok, D:4",Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
 d6d0b406-ed5a-4d0f-a121-387e74646cd2,Arcanus Side Resort,HOTEL,36.757359,31.421621,Sorgun,Manavgat,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 7defb0a2-d96c-4cc4-948c-a42bc6b6ae26,Asteria Sorgun Resort,HOTEL,36.757381,31.421675,Sorgun Mevkii,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.900
-09d28878-7c64-4f9f-9c94-5c2910c005f5,Voyage Sorgun Hotel Beach,HOTEL,36.756584,31.4193,,Manavgat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.753
 8c2ebbe7-6f7a-4218-bfe6-d7263fc88d1d,Amara Family Resort,HOTEL,36.756779,31.418774," Side, Titreyengöl Cd., 07600 Manavgat/Antalya",Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.922
 ab25ba43-19d6-415f-a985-9654899cfc26,Turquoise luxury resort and Spa,HOTEL,36.757,31.415823,,Manavgat,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,resort,lodging>resort,0.770
 ce9e3232-c332-4640-b285-818dd7705068,Robinson Club Pamfilya,HOTEL,36.758316,31.412216,Barbaros Cd.,Manavgat,CDLA-Permissive-2.0,Overture|meta,resort,lodging>resort,0.839
@@ -9601,7 +9593,6 @@ f225745d-2ff6-4732-894e-1c0c56e41503,Taksim Çiğköfte Arapsuyu,RESTAURANT,36.8
 0314443f-8f39-4da9-adfb-10059fe60b40,Konyaaltı Paca,RESTAURANT,36.883408,30.648844,7 Cadde,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.844
 f608cb7d-a5ec-4bef-b200-7a5b0c9acb60,Komagene Etsiz Çiğ Köfte,RESTAURANT,36.882278,30.655462,706. Sk. No:1D D:1,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.805
 7068e831-7492-493b-9ab4-0c86fd1bef94,Crescent Cafe&Patisserie,CAFE,36.882294,30.654913,705. Sokak 4A,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.810
-6e5f26fb-63d8-44f3-81c0-c78c4f585d77,Antalyaspor Kavşağı Atatürk Anıtı,SIGHT,36.882229,30.654671,Antalyaspor Kavşağı,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.779
 348c9e72-e6e0-4e51-81be-8c1193fcc639,Ezgi Torun Pasta Atölyesi,CAFE,36.882149,30.654974,"Zilli Öküz, Atatürk Bulvarı 3",Konyaaltı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.792
 884e5bbe-903c-4dc0-8b26-0336edc68fa6,Iceberry Akturpark,CAFE,36.88242,30.656101,Atatürk Bulvarı 12,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.906
 e31f6a85-56b1-44d9-93cc-ef4ad6033561,Antalya Bakery,CAFE,36.882923,30.655897,"Pınarbaşı mah., 706 sok., Cansever apt., #7",Konyaaltı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
@@ -9653,7 +9644,6 @@ c91bde33-a472-4dae-9abd-9b04d6439af6,Antalya Devlet Senfoni Orkestrası,SIGHT,36
 ccb86a13-af7f-4398-a4cd-4a328d9814f4,Balerin Cafe Bistro,CAFE,36.884865,30.669228,"AKM Sitesi, Sakıp Sabancı Blv. No: 7 No:7",Konyaaltı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.982
 81f2f13d-22c1-425f-a3ae-6a62b7f77549,Rixos Downtown Antalya - The Land Of Legends Access,HOTEL,36.884628,30.66988,"Sakip Sabancibulvari, Sakip Sabanci Bulvari Falez Mevk, Muratpasa Antalya, 07050 ANTALYA",Konyaaltı,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
 e98a0df3-2521-4d9b-a300-2b34c3746700,Antalya Kır Kahvesi,CAFE,36.88446,30.666315,Cam Piramit içi,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.829
-8621244d-02e6-473a-a1ee-fb3f54dadbdc,Aktur Park,SIGHT,36.884682,30.659266,Atatürk Blv. No:4,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.984
 471cf539-cd43-48ee-934b-38d53a4dc11a,Konyaalti Sahilinde,SIGHT,36.884422,30.662762,,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.721
 2f876f85-10b9-4426-af43-e37c55e14cf4,Çılgın tostçu ibo,RESTAURANT,36.884258,30.656157,üniversite cad akdeniz apt No:114/B,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.924
 dcfe30d1-a9e1-40f5-9f7e-0c9a2433ca4a,Lunapark/Antalya,ACTIVITY,36.885727,30.658836,,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.787
@@ -9800,7 +9790,6 @@ baa38047-687e-4d06-8515-eb2e7526b1d2,Flamingo Lounge Beach,SIGHT,36.880859,30.67
 bb8a576f-faf9-49ad-a56b-f8b0ec3b71d3,Sushi Master Turkey,RESTAURANT,36.8815,30.669722,Akdeniz Bulvarı 10,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,sushi_restaurant,food_and_drink>restaurant>asian_restaurant>east_asian_restaurant>japanese_restaurant>sushi_restaurant,0.949
 21d5f75a-fe6e-4f33-a3c2-9a9abe44af9b,Çaycı Teashop,CAFE,36.88171,30.669943,Akdeniz Bulvarı 10,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.897
 a6fc6162-d2c8-446a-93a2-004d2ac62b54,BEX Coffee - Beachpark,CAFE,36.881721,30.66975,Meltem mah. Akdeniz Bulvarı Ticari Blok No.10 iç kapı no.41 07100,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.973
-c01f0882-94ea-4180-aa4e-3f7708c9c042,Caffé Di Toeé Beach Park,CAFE,36.88184,30.670221,"Meltem Mahallesi Akdeniz Bulvarı Ticari Blok No:10 İç Kapı No:38 Konyaaltı, Beach Park",Konyaaltı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.876
 ee0fed9f-8b02-4ef0-a8b7-c600c1f04d33,Pikıt Fırın & Kafe,CAFE,36.882072,30.670805,Konyaaltı Sahili,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.832
 fe6dcb3b-1706-4b1b-ab8b-e0b7775c822c,Kır Kahvesi,CAFE,36.881618,30.664005,Dumlupınar Blv. No:2,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.842
 c0c1dae8-f292-4cc3-84e7-6e21a75341ff,Kundu bistro cafe,CAFE,36.882,30.65976,Kundu Migros yanı,Konyaaltı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.766
@@ -11175,7 +11164,6 @@ e745962c-2fd7-42db-8b6a-e2b925d60c5a,Royal Adam Eve Hotel,HOTEL,36.859489,31.060
 592b268e-171f-44cd-98da-304ce25ab50d,Denizyaka Irmak Kenarı,SIGHT,36.861172,31.180878,,Manavgat,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.917
 dc22f99b-31f2-41fb-b192-f87f7a61c542,Manavgat selge yolu,SIGHT,36.871033,31.262402,,Manavgat,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.722
 06ee7ea4-cacb-4ba1-a46c-d20ec82c130c,Hacı Bey Konağı,SIGHT,36.868469,31.113857,,Manavgat,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.737
-170329fe-548a-4198-b7a2-aadb600bbb61,Salkım Söğüt Çiftliği,SIGHT,36.877884,31.273109,,Manavgat,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.894
 7cc43a1b-f197-4d02-ae6f-6f4328410b3c,Lyrbe Antik Kenti,SIGHT,36.873928,31.475328,,Manavgat,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.800
 fb1bc2ce-de59-47c9-ad23-65c3fb0cd3f8,gündoğdu beach,SIGHT,36.879982,31.29822,,Manavgat,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.832
 8fe2e488-9286-4655-bca8-3d0818f5de13,Augustus Village,HOTEL,36.885693,31.234917,"Berkiler Mah, Tasagıl",Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
@@ -11692,7 +11680,6 @@ b1d14e83-d04a-4d19-a575-4fdc1b58b9a4,HOTEL Candles,HOTEL,36.884666,30.708431,Kan
 1056796f-44a3-4c0a-983a-372432e82428,Citir Tavuk & Tava,RESTAURANT,36.884617,30.711079,Arık Cd. no12,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.859
 31908e1d-5041-4e9b-98ca-b103f4836875,Karaalioglu Parkı Antalya.,SIGHT,36.884644,30.717394,,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.875
 7bee248d-1012-44d8-a4f8-f9ffdb9a18a8,Casa Fora Beach Resort,HOTEL,36.884827,30.719717,"No :178, Manavgat /Antalya 07600",Muratpaşa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-79dacec8-4f10-4fb6-ba7d-85af967763e9,Teneffüs Park,SIGHT,36.884842,30.722015,1370. Sokak,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.976
 430df5de-8b51-4c8e-9c09-6ba69a9abc03,Ada Kahvaltı Salonu,RESTAURANT,36.884327,30.71604,1408. Sokak 2,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.766
 192f0e80-0423-4092-8bcc-f0fa0356af5a,Roberts Coffee Beach Park,CAFE,36.884212,30.715372,Park Sokak 9,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.862
 d7ee1c23-c64a-4bda-a2a6-edb3a97165ab,Hotel Limak Arcadia Golf & Sport Resort Belek,HOTEL,36.884346,30.723597,,Muratpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.791
@@ -12357,7 +12344,6 @@ ab7755be-3c47-4807-b3ef-efafd9fab43a,Cafe Sera,CAFE,36.913902,30.802252,"Antalya
 59bd89de-c38a-4c62-89e6-e6af96e9b9f9,Miko Coffee Turkey,CAFE,36.909317,30.860468,29126. Sokak 6A,Aksu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.966
 d9904909-7031-42e1-a6dd-3a3131beacd4,Mado,CAFE,36.910362,30.800947,Antalya Havaalanı-İç Hatlar Terminali,Aksu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.987
 844d63dc-9def-460f-8b8a-3e7bcc10b3c5,Taksiciler Kahvesi,CAFE,36.909363,30.802509,Antalya Havalimanı,Aksu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.768
-1961e9ca-9b58-44b0-bad5-f5d5943c0a3c,Gedik Park,SIGHT,36.912926,31.08923,,Manavgat,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.831
 6ffc1961-fa56-4941-951f-f8853eeca92f,SadoRoyal Baklava,CAFE,36.912689,31.082464,Belek Cd. No:14,Manavgat,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.927
 e87d62ee-3698-4e49-a9f6-5d3792dd353e,Maya World Park Hotel,HOTEL,36.912666,31.082367,1. Sokak 2,Manavgat,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.753
 16190fb0-189d-48d7-b9a9-a3d8cab62209,Mandalina CAFE,CAFE,36.912582,31.072124,CUMALI MAHHALLESİ GAZİLER SOKAK 43,Manavgat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.787
@@ -12619,7 +12605,6 @@ c4b5b822-d3a1-41a3-89e5-0fd33f78e9fb,61 Hamsi Tava Düden,RESTAURANT,36.965488,3
 ebf232b2-eb92-4bf7-ab27-02d228d70e8d,Küçük Ev Restaurant,RESTAURANT,36.962605,30.726603,"Sütçüler Caddesi, Düden Şelalesi Karşışı 54/3",Aksu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.891
 1398e1ee-c020-4e9e-b036-614daca48083,Düden Arkadaş Balık Evi,RESTAURANT,36.962715,30.727978,,Aksu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.773
 fb1c0abd-2c83-4e07-97e4-649865922e0a,Arkadaş Alabalık,RESTAURANT,36.962822,30.728125,Düden Şelalesi,Aksu,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.990
-3f87c438-dee3-49e2-8916-85f1fbfc877b,Düden Şelalesi Zeytinlik Mh,SIGHT,36.960003,30.74346,7445. Sokak,Aksu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.903
 1da407e0-5727-45f4-8620-26afea7a4408,Arkadaş Alabalık Restaurant,RESTAURANT,36.972504,30.73027,"Şelale, 7230 sokak, Kepez",Aksu,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.961
 6e95c6d4-6fe3-4dba-867f-ca60e8d38dc0,Bilgin Lokantasi Ev Yemekleri,RESTAURANT,36.97356,30.731108,Ertuğrul Gazi Cd. No:45,Aksu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.818
 5ada05e7-da9c-4f3a-9e6a-25535b4439d5,Kardeşler Alışveriş Merkezi,SHOPPING,36.966209,30.757191,"Atlas Sok, No: 12 / B Ufuktepe",Aksu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.713
@@ -12795,7 +12780,6 @@ dd2553e5-d9d6-46ca-9c47-0e96667354e3,Bayramefendi Osmanlı Kahvecisi,CAFE,37.015
 9e8472b3-08b3-459e-9162-f4e75052e86a,Cafe Park Garden,CAFE,37.005009,30.816845,topallı mah.şelale sok,Kepez,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 069147be-8876-490a-9058-1d38e49220b8,Küçük Ev Restaurant,RESTAURANT,37.009361,30.818026,,Kepez,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.955
 16a45b0b-a256-4305-941c-6f6c200a447e,Club Sun Heaven Family & Spa,HOTEL,37.021736,30.798498,Payallar Mah.D-400 cad.No:22,Kepez,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
-6fbbfb31-4242-42ce-b8ad-2df24dfce5ae,Tahtakale gaziler uretim tesisleri,SIGHT,37.016754,30.773746,320. Sokak 104,Kepez,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.937
 381d96d6-ac3e-4a8a-af5d-8f7d323d58f6,07 Pide Dünyası,RESTAURANT,36.991947,30.812693,Yukarı sokak,Aksu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.903
 6ac98c3f-e4bb-4287-a992-fff7bc550b22,ŞElale PİDe Kebap Salonu,RESTAURANT,36.988644,30.81366,,Aksu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.776
 c29729ca-9a2a-4b87-9fa4-026c730d2116,Social XL Pizza Burger,RESTAURANT,36.977039,30.733438,Belek Mahallesi Cumhuriyet Belek Caddesi Rasim Şaban Yılmaz Apartmanı 25/1 Serik Antalya\n,Aksu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.890
@@ -12986,10 +12970,10 @@ ab624f99-7be2-4a22-905a-f28fa8f7dcce,Dülek Pide Pizza Salonu,RESTAURANT,37.0961
 8b4984f6-a3a0-4d68-82ef-9a5712e1b82d,Köprülü Kanyon Beşkonak,SIGHT,37.134857,31.202038,Antalya-beşkonak Yolu,Serik,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.716
 3dec3285-dfe9-4bd4-8593-ecdc2a9073d1,Defnestonebutikotel,HOTEL,37.173504,31.187506,Defne Stone Butik Otel Restorant,Serik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.920
 2c5925ae-2606-400a-b016-50800ecfea74,Koprulu Kanyon Perge Pansiyon,HOTEL,37.174896,31.186728,,Serik,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.870
-575ee47e-39c4-491e-9fea-f04b01e40250,Kanyon YAŞAM Evleri,SIGHT,37.176453,31.191137,Bozyaka ,Serik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.858
+575ee47e-39c4-491e-9fea-f04b01e40250,Kanyon YAŞAM Evleri,HOTEL,37.176453,31.191137,Bozyaka ,Serik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.858
 50f5db52-e41c-46ad-89a5-c040065f0491,Koprulu Kanyon Milli Parkı,SIGHT,37.178707,31.18465,Bozyaka Yolu,Serik,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.933
 4b223426-268d-4bdc-9436-0a521c633348,Gökçesu Restaurant&Camping&Rafting,RESTAURANT,37.178776,31.185205,Köprülü Kanyon Milli Parkı Gökçesu mevki Karabük Köyü Akyaka Mah. Manavgat/Antalya,Serik,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.890
-b38fb519-e86a-4aa8-8e40-76e3ae2518de,Kanyon Yaşam Evleri,SIGHT,37.186272,31.183031,"BEŞKONAK MAH, YARDİBİ KÜME EVLERİ NO:35/A 1",Serik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
+b38fb519-e86a-4aa8-8e40-76e3ae2518de,Kanyon Yaşam Evleri,HOTEL,37.186272,31.183031,"BEŞKONAK MAH, YARDİBİ KÜME EVLERİ NO:35/A 1",Serik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
 7506571d-3516-444a-a124-d91de0148b68,Köprülü Kanyon Milli Parkı Manavgat,SIGHT,37.192318,31.180874,,Serik,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.726
 8956c796-86df-4aaa-9397-3832a86bb759,Koprulu Canyon National Park,SIGHT,37.191769,31.180897,,Serik,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.824
 e06f0610-17b8-4694-a724-47ca9b98bf5e,Tazı Kanyonu,SIGHT,37.237247,31.178658,Tazı Köyü,Serik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.892

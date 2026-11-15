@@ -388,7 +388,6 @@ c0e33e12-b0a9-4e9e-91d7-652081502ae9,KeŞAn Kent MÜZesİ,SIGHT,40.850235,26.635
 387fb85b-4729-4297-9a95-cabfbfab2fa3,Ora cafe bistro,RESTAURANT,40.850151,26.635181,Hastane Sk.,Keşan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.947
 907ee219-cac0-47cb-b04f-b3771021df3d,Umut Börekçisi,CAFE,40.851242,26.640882,Gurbet Sk. 31a,Keşan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.874
 14e8e777-0687-4a83-9afc-273383d75bc8,Lobdy Cafe,CAFE,40.849331,26.646301,Kurtuluş Cad,Keşan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.762
-97f73d87-cb01-4c33-a6c0-3b0c88f48179,Üçgen Park,SIGHT,40.849243,26.642015,,Keşan,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.916
 f7ac2aac-560a-4c56-adb0-c392248596ae,Zirve FastFood & Battalbey Çiğköfte,RESTAURANT,40.848343,26.649536,Yeni mh. Eren cad. Zirve Konutları Yeni Adliye Karşısı Troya Restaurant Altı,Keşan,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.780
 ba1e039d-c034-4435-a6d5-2669e5051a80,Guler Kiraathanesi,CAFE,40.852287,26.639482,Köşkler Cd.,Keşan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.873
 5a967d14-92ba-4e66-839f-9bfa09abde2f,Damak pasta börek,CAFE,40.852375,26.639318,"mahhallesi, Rasím Ergene Cd No:70",Keşan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.944
@@ -554,7 +553,6 @@ b21e6f80-43b3-4b88-a07f-495e5fdb85d1,Barış Lokantası,RESTAURANT,41.548344,26.
 97891c24-d5a4-4ba2-8bd1-695aa69b8755,Kahve Rengi Cafe,CAFE,41.547276,26.827513,Cumhuriyet Mahallesi,Havsa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.919
 b1c714aa-876e-4dd7-88ce-7cb2bd1012cf,Keramettin Göleti,SIGHT,41.546902,26.827982,,Havsa,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.886
 5c2b6d1b-7144-41ef-80b0-0422641fb62d,Akgün Pansiyon,HOTEL,41.54649,26.82568,Ihlamur Sokak 12,Havsa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.935
-56fcc55b-a224-4b01-80a3-63399fde6d43,Üçgen Park,SIGHT,41.546486,26.829084,,Havsa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.876
 9276a4c5-41d4-43d3-8ba1-a869c440c1d0,Tatlım Cafe,CAFE,41.546238,26.829163,Fatih Cd. No:105,Havsa,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.951
 536eae71-0dd5-4404-95c3-6a626a00ca2b,Cafe Babeloo,CAFE,41.545986,26.830133,Fatih Cad.,Havsa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 0030f93b-1d60-4e9f-b65c-306b0484eafe,Havsa DSK Parkı,SIGHT,41.559464,26.825439,Hacigazi Mah,Havsa,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.859
@@ -1013,7 +1011,6 @@ af007994-6fe7-4eca-ba0f-fb917e3f14dc,Ayçiçeği Restaurant,RESTAURANT,41.668331
 87835ac7-5d0e-41d8-ad9e-d08469e47e19,Trakya Satır Et Edirne Pide ve Kebap Restaurant,RESTAURANT,41.668312,26.569889,Yağmur Sk. No:1,Edirne,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
 d1a3f416-69eb-4b83-bbb3-86bb9473eb2b,Aliba Hotel,HOTEL,41.667683,26.56916,Kanarya Sk. No:11,Edirne,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
 ba34407a-cd4d-4aca-8aa8-8b5068a03fae,Edirne Melisa Cafe,CAFE,41.667725,26.567072,,Edirne,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.752
-32c9948b-e31a-4543-bb00-0c4ce1a027cc,Değirmen Park,SIGHT,41.667774,26.567089,Şehit İstiklal Vardar Caddesi 6,Edirne,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.959
 c295d10a-51dc-4cc6-b292-8582484e8fff,Lezzet Evi Döner,RESTAURANT,41.667938,26.563255,Tarla Kapı Cd. 38/a,Edirne,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.772
 d748f092-b5db-4e19-9811-f7d62246e0e6,Beylerbeyi Börekçisi,CAFE,41.66782,26.563278,,Edirne,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.971
 58b05697-c3ea-4955-93d8-1ed33613626b,Suleyman Pasa Camisi,SIGHT,41.668194,26.55777,,Edirne,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.925
@@ -1266,7 +1263,6 @@ e7c23d06-1ce1-47a9-b91e-e3f1cb74f477,Ponsetya Restaurant,RESTAURANT,41.664299,26
 1d24d729-0cdd-463f-8718-ba2c99c16fce,Happy grill,RESTAURANT,41.664181,26.572351,"Happy Grill Restoran, İstasyon Mahallesi Cavit Duvan Prestige Hotel, Giriş Kat",Edirne,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.879
 34398541-bd68-4be3-a3c8-204a9ea007b3,Kokobusciftlikevikokorec,RESTAURANT,41.664482,26.57789,https://kokobus.tr.gg,Edirne,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.955
 cc9f6121-9823-4acf-ade6-a4d185baa27c,Starbucks,CAFE,41.663879,26.580151,Talat Pasa Caddesi No 22/A Edirne Merkez,Edirne,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,1.000
-c490da4d-4862-4336-b8d0-5bcd0cda8fdd,Dinlenti Park,SIGHT,41.663727,26.586412,Fatih Mah.,Edirne,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 2d4d143a-2628-4a29-80df-961340ce5052,Hüseyinin Yeri,RESTAURANT,41.664238,26.583263,9. Sk.,Edirne,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.983
 1c1d68fc-1dba-4d7d-8d03-d3a4e32420d1,DerİN Mavİ Balik,RESTAURANT,41.664108,26.586258,şükrüpaşa mahallesi ilhami ertem caddesi,Edirne,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.961
 85462a93-92e7-4d37-a2e7-65144207e4db,Edirne Kuzu Kokoreç Kokobüs,RESTAURANT,41.66428,26.578453,Haşim İşcan Cd. No:19,Edirne,CDLA-Permissive-2.0,Overture|meta,chinese_restaurant,food_and_drink>restaurant>asian_restaurant>east_asian_restaurant>chinese_restaurant,0.907

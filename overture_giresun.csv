@@ -407,13 +407,11 @@ b83595e2-998b-4f88-9cef-2c0d67b40cd9,Turkuaz Pizza,RESTAURANT,40.809544,38.91699
 7b836fc5-69ff-4154-b579-dd984a4cbede,Ağaçbaşı Yaylası,SIGHT,40.679207,38.846256,,Doğankent,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.924
 bd87c103-c493-4010-942a-d4b044229c22,Çaloba Yaylası,SIGHT,40.664158,38.80896,,Doğankent,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
 6e232e56-6f2d-4a39-b22a-3cf18932369e,Alucra Mesire Tepesi,SIGHT,40.332211,38.760826,,Alucra,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.800
-a26e8928-49ed-42e5-b0fb-576a2e16abc7,Irmak Park,SIGHT,40.322037,38.766277,,Alucra,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.730
 81b46512-4048-44bd-a1c3-ebd7032b0faf,Kurtbeli et lokantası,RESTAURANT,40.321995,38.766571,Giresun Alucra kurtbeli yaylası ,Alucra,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.805
 91cf63e1-d787-4992-bc6c-86f26c352f48,Miray Cafe,CAFE,40.322582,38.762508,,Alucra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.829
 ba4587c4-5b8f-45d1-a569-cf1ade3bcb66,Sies Cafe & Bistro,CAFE,40.322536,38.761742,"Sies Cafe&Bistro, Yunus Emre Mahallesi/ Hürriyet Caddesi/ PTT Bankası Yanı",Alucra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.861
 02fa0e5e-d354-4e06-9d9d-eb1946a74415,Cafe Pena,CAFE,40.323246,38.761932,Hali̇l Kircali Sokak No:4,Alucra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.907
 3a510ce4-88a0-4c29-8748-0c326f58c9d8,Çınar Cafe ve Restaurant,CAFE,40.323334,38.76202,Mehmet Emin Yurdakul Caddesi No:5,Alucra,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.831
-edd47f55-6749-4904-9c74-8e5754b7d846,Topçam Mesire Tesisleri,SIGHT,40.317635,38.757694,Giresun Alucra Topçam Mahallesi,Alucra,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.904
 908d5317-7dd1-4d03-ba21-9f0f55a1029a,Ördek Gölü,SIGHT,40.319138,38.754272,,Alucra,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.809
 947068d6-2355-48d4-a1b5-2ab33eac4c62,Seymen Pastanesi,CAFE,40.320484,38.763889,Hürriyet Cd.,Alucra,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.854
 d8e28420-2f13-4448-b979-a896e2767af8,Alpaş Avm,SHOPPING,40.320251,38.764095,,Alucra,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.800
@@ -731,7 +729,7 @@ f76e84af-4d13-4d0f-9b07-80255383797f,Gökkuşağı Pansiyon,HOTEL,41.005577,38.8
 f765bbbd-e5a7-40b8-9dcc-1fea6c5a9266,Yakamoz Çiğköfte Unlu Mamülleri,CAFE,41.003891,38.825859,Amiral Şükrü Okan Cd. No:168/A,Tirebolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.837
 0bcb384c-2c45-481e-8f36-c561d5751fec,Çiğköfteci Ömer Usta,RESTAURANT,41.004112,38.823402,hamam mah.kumyalı mevki duman apt no 144,Tirebolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.923
 e723e26f-02ac-4e37-ba69-92666cec145b,Kumyalı Fast Food,RESTAURANT,41.004063,38.824638,"Hamam mahallesi, Amiral Şükrü Okan Cd.",Tirebolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.955
-fabe979c-5028-47ee-bba2-5f463f8e519d,Şelale Evleri,SIGHT,41.003582,38.810745,Plaj Sok,Tirebolu,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.790
+fabe979c-5028-47ee-bba2-5f463f8e519d,Şelale Evleri,HOTEL,41.003582,38.810745,Plaj Sok,Tirebolu,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.790
 c9c60d0c-2f02-40cf-83dc-5d39b72ed802,Castle Cafe Kitchen,CAFE,41.003498,38.809063,Plaj Sk. No:77,Tirebolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.959
 112e8dfb-54e8-40a6-bb02-ac4373bae7ae,Eren Pansiyon,HOTEL,41.003586,38.809151,Plaj Sk.,Tirebolu,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast,0.828
 1d4e90b3-fc8e-428b-a318-d89a4c268884,Fak Pide,RESTAURANT,41.005299,38.812393,Gazipaşa Cd.,Tirebolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.860
@@ -837,7 +835,6 @@ e3beb595-116b-46e3-81ee-4251d67dcc01,Tirebolu Sahil Deniz Kenarı,SIGHT,40.97414
 dc56e127-1631-42c7-aa37-35f2bf15db17,Gümüş Restaurantta,RESTAURANT,40.970875,38.642994,,Espiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
 c94f4a69-e8f0-4674-8a31-55f3ad4d6967,Çamburnu Restaurant,RESTAURANT,40.970688,38.643227,,Espiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.913
 abaea828-f5db-466e-a3dc-a52ddb036526,Değirmençayı Plajı,SIGHT,40.970673,38.633392,,Espiye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.756
-e28c0311-3755-4064-9f2e-665d1bd5ca2a,Uluburun Tesisleri,SIGHT,40.972137,38.623543,Keşap Hisarüstü Uluburun Mevki,Espiye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.972
 94bc1e68-9ca6-45bc-89ee-6f0f3c7c0306,Gülburnu Viyodüğü,SIGHT,40.966007,38.612614,Gülburnu,Espiye,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.862
 3c24a354-296c-4f27-9b5e-9d805f977534,Kalecik Yalı Balık Evi,RESTAURANT,40.96386,38.61166,Hisarüstü Köyü Yolu No:1,Espiye,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.985
 67e407ea-e344-4355-8f1f-8be6a57359ce,Uluburun plajı,SIGHT,40.960548,38.615646,Kalecik hisar üstü,Espiye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.970

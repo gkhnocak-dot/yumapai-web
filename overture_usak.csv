@@ -97,7 +97,6 @@ fcc87062-5a83-496d-83e5-518418d56533,mevsimpide,RESTAURANT,38.663738,29.397051,U
 588c044a-ec8e-44ce-bd4c-0a6687f52fb2,Battalbey Çiğköfte,RESTAURANT,38.663048,29.396971,Uğur Mumcu Cd. no:30/a,Uşak,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.879
 a4eb0d65-1d6e-47ff-ad84-81306cd3060b,Köstebekcimpasta,CAFE,38.662651,29.396908,Uğur Mumcu Cd. 34 A,Uşak,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.942
 3fb861eb-bd62-4a33-9524-89115d0941ff,Direksiyon Egitim Alani,SIGHT,38.660633,29.393093,,Uşak,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.871
-d01465e1-738c-44d0-9a4c-850fe639a8cc,Deniz Park,SIGHT,38.649254,29.401192,İzmir Bostanlı,Uşak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.909
 de57fee4-78e9-42be-994f-cdf42126a3af,Yaren Yeni Cafe,CAFE,38.649853,29.404001,,Uşak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.764
 d1d689ab-3d2d-4096-b59f-8f4c6aa740b1,SEÇ  Uşak Alışveriş Merkezleri,SHOPPING,38.650265,29.403749,UŞAK,Uşak,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.776
 5686487e-9cbe-43fc-a618-72618d5cf573,Eylul Pasta Tatlı 2,CAFE,38.650089,29.413754,Yavuz Sultan Selim Caddesi 73A,Uşak,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.869
@@ -110,7 +109,6 @@ e4feb2ef-9f37-447d-8f56-899f6684e755,Yaşam Kahvaltı Bahçesi,RESTAURANT,38.629
 88ff3241-492b-4c4e-92a8-84859a5bbf66,Sarmaşık FIRIN & CAFE,CAFE,38.642563,29.374214,Cumhuriyet Mahallesi Mehmet Topaç Bulvarı 146/B,Uşak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.775
 b14b5ef0-32a8-4769-ab43-7875b2e65549,Hazena kahvaltı ve tatlı,RESTAURANT,38.64666,29.389086,batıkent caddesi no:5/A,Uşak,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.889
 19c19d18-f731-4eef-8485-cdd8aaae0194,Kanyon Gurme Uşak,RESTAURANT,38.649075,29.391678,Uzun Sk. No:18/ A,Uşak,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.889
-3b87802f-0d50-4423-9cdc-419413e93c89,Şirinköy oyun evi,SIGHT,38.66293,29.38415,İzzettin Çalışlar Caddesi 64A,Uşak,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.948
 1c0746a5-118b-4db8-bb3c-acfe839aeb86,Korupark,SIGHT,38.661716,29.379145,5. Serkan Sk. No:8,Uşak,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.853
 0ab59931-e663-4b39-bef9-b49afca7e69b,All in 1 Cafe & Restorant ,CAFE,38.662094,29.374107,5. Serkan Sokak 8,Uşak,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.918
 7fe905d1-b69f-4d5c-a2d5-f05e44a13db4,Yumak Restaurant UŞAk,RESTAURANT,38.668316,29.374928,Şht. Alim Yılmaz Cd. No:77,Uşak,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.979
@@ -654,7 +652,6 @@ ff321df4-22b3-4777-b9f2-c0b9ee487abd,Kızılcasöğüt Göleti,SIGHT,38.652424,2
 8a6fd54d-8ca5-48d7-bf37-dfe96787d9e7,Gedikler Göleti,SIGHT,38.705223,29.683376,,Banaz,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.729
 847ca569-099a-47d9-b3ba-e9c9f2f2ac4a,Kızılhisar Göleti,SIGHT,38.723446,29.626574,,Banaz,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.746
 b28d5999-468e-4848-9b2c-8e04cc63600c,Cebeci OTEL & Restaurant,HOTEL,38.673054,29.602512,Uşak Caddesi 17,Banaz,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.985
-41057a40-ae17-48b4-b036-8713990632a6,Sunucu Göl Evleri,SIGHT,38.704899,29.554737,Göğem göl mahallesi,Banaz,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.941
 bd340c5c-00fb-4f7b-82ed-3ae8c4e437c6,Altıntaş Göleti,SIGHT,38.723194,29.501404,,Banaz,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.760
 8763d3a6-05e1-4d4b-9073-9793da809dc3,Altıntaş Göleti,SIGHT,38.724243,29.49301,,Uşak,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.760
 ff934ed8-f764-4097-b516-03a05c7c021b,Boğaziçi Restoran,RESTAURANT,38.696384,29.460737,,Uşak,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.936

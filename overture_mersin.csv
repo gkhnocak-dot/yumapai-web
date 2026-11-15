@@ -17,7 +17,7 @@ b4095c98-ed79-4c47-afc9-eee7c9d446bd,Marfedo Kahramanmaraş Dondurması,CAFE,36.
 59be6d59-3a4e-4b5e-81e1-d5eb30f118c3,Anamur Sahil,SIGHT,36.071404,32.868607,,Anamur,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.979
 8a0a88dd-5bcb-42c9-a7fd-b3fa8ec183d3,Roma Dondurma,CAFE,36.071217,32.868145,İnönü Cd No:19/C,Anamur,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.961
 18d46383-7843-4b02-b795-5a5dc7e80010,Bizbize çay bahçesi,RESTAURANT,36.071068,32.86797,1711. Sokak 4,Anamur,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.847
-d83f48f7-eaf7-4078-b326-a229c54f3830,Elele Büfe Ve Park,SIGHT,36.071014,32.867851,1711. Sk. No:3,Anamur,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.865
+d83f48f7-eaf7-4078-b326-a229c54f3830,Elele Büfe Ve Park,CAFE,36.071014,32.867851,1711. Sk. No:3,Anamur,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.865
 3c9c93d8-162c-4701-a9e1-d9ac44b56878,Anamur Gurme,RESTAURANT,36.071117,32.867653,1711. Sk. No:5,Anamur,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.956
 a2d48360-5a32-4d2e-80d9-e5a00fa6325b,Masalım Cafe,CAFE,36.071404,32.86763,1711. Sk. No:5,Anamur,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.815
 2adf6cc0-4470-4bf8-ab72-663e23a710a2,Grand Hermes Hotel - Anamur Mersin,HOTEL,36.070862,32.867386,İskele Mahallesi No:11\A,Anamur,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
@@ -482,7 +482,6 @@ a2a962df-8ff9-42dd-8085-db60a988486b,Otogar Özkaymak Pastaneleri,CAFE,36.375671
 07761b55-116c-4b84-a928-ef11949934fb,Olba Ancient City,SIGHT,36.375389,33.934517,"Olba Ancient City, Mersin - Global",Silifke,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.850
 69a70e1a-73d4-4ddc-9ca7-89318d3e413c,Arısan Otel,HOTEL,36.375919,33.934128,İnönü Blv. No:89,Silifke,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.947
 b8059a7a-7c0d-45ea-a92d-2be3695bd82a,Ayatekla Hotel,HOTEL,36.37574,33.934269,,Silifke,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
-d36044fb-978f-4c77-b7ff-47147f65a59a,Saray Mah Silifke,SIGHT,36.376263,33.934467,,Silifke,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.755
 0a51916b-2cf5-403e-9597-29a1617e178f,Silifke Dikili Taş,SIGHT,36.375763,33.933178,İnönü Bulvarı 35,Silifke,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.726
 8390045f-344e-494e-b267-a8382aa82368,Aşkın Kokoreç,RESTAURANT,36.376606,33.933765,Cavit Erdem Cd. No:98,Silifke,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.966
 015d6c3a-d763-434c-88dc-6cb5dc1e2248,Mila Lounge,RESTAURANT,36.377506,33.932117,Cavit Erden Caddesi 65,Silifke,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.934
@@ -695,7 +694,6 @@ c321ed41-d5f4-47bf-a0b1-294e9c6add8d,Kapızlı Sahil,SIGHT,36.380875,34.074574,B
 a4d623b7-d670-446b-a43e-89341b18132a,Nixe Otel Susanoğlu,HOTEL,36.393047,34.074249," Atakent, 33920 Silifke/Mersin",Silifke,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.907
 577fe5d0-2108-4759-b8d7-399e58c91a6e,Palmila Butik Otel,HOTEL,36.392616,34.074833,Sahra Sk No:18 /Z01,Silifke,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.983
 79c471ff-e29e-4df6-92d0-7cabfe1529f0,Otel cengizhan,HOTEL,36.392815,34.074852,bakanlıklar cad.dsi kapmı yanı,Silifke,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.864
-b6e6e520-de24-4a97-be6b-72a3d3232371,Silifke Dsi Kapizli Tesisleri,SIGHT,36.393787,34.077347,,Silifke,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.923
 63671bae-d660-4cd1-9a5d-bec9a229af68,Susankent plaji,SIGHT,36.377357,34.077431,,Silifke,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.771
 99f97e7d-4a58-4198-b1ac-5c7f0d4c2f5a,Susankent Sahil,SIGHT,36.377872,34.071545,,Silifke,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.765
 df4cb72f-b6eb-4b6a-b45e-a3693568cda8,Susankent Ozkaymak Pastanesi Cafe,CAFE,36.377064,34.071659,Bakanliklar Cad Susankent,Silifke,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.917
@@ -1546,7 +1544,6 @@ eec558dd-dd3e-48b0-b2b1-5bfe983b1bd5,Oses Çiğ Köfte,RESTAURANT,36.827892,34.6
 49afdba7-ed50-4fcb-9a5b-9069a1df2098,Akdenizpastanesi,CAFE,36.827679,34.622871,Mersinli Ahmet Blv. 110 SK,Yenişehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.848
 2b354ff2-5110-4b66-a8f2-14404638e28b,LAZER CAFE,CAFE,36.828712,34.621166,KURDALİ MAH. LAZER SPORT GAMES YANI LAZER CAFE,Yenişehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.853
 8093efd9-8b75-40f0-8a07-f38ea0a0d924,Otello,HOTEL,36.82917,34.621754,"İleri Ortaokulu, İstiklal Caddesi 44",Yenişehir,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.893
-1005a6a1-0074-4d32-adc9-36a86386589e,Selen Kavşağı,SIGHT,36.8293,34.623154,,Yenişehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.810
 e9d08f55-ab49-4645-b92a-1d2c8de96f63,Game Center,SIGHT,36.830269,34.610706,Toroslar Caddesi 8,Yenişehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.858
 e6457c56-6477-45f0-bf67-147c1d4596b5,Toroslar Çopurlu Alparslan Türkeş Parkı,SIGHT,36.829147,34.597923,Çopurlu Mahallesi ,Yenişehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.944
 0f9e951d-b52f-4db2-be52-3ed653dd0e08,Olbios Hotel,HOTEL,36.828712,34.599636,,Yenişehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.837
@@ -2866,7 +2863,6 @@ f450f046-a4d7-4b95-a797-a56e2bbf4b6c,Nio Coffee,CAFE,36.758678,34.549389,30020. 
 f001f921-76da-408f-bbbc-fda7b62602c0,Dogus Pastaneleri,CAFE,36.758549,34.543533,,Yenişehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.989
 0429b70d-3cd8-4896-a303-ddb600c89b33,İnci Midye Kokoreç Mezitli,RESTAURANT,36.75845,34.543667,"VM MEDİCAL PARK HASTAHANESİ YANI, Gazi Mustafa Kemal Blv. NO:678/A",Yenişehir,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.900
 846f3ee8-83f0-4a2f-93da-7fafcd446c18,Oses Çiğköfte Mersin Babil,RESTAURANT,36.75827,34.543243,Gazi Mustafa Kemal Blv. No:16,Yenişehir,CDLA-Permissive-2.0,Overture|meta,vegetarian_restaurant,food_and_drink>restaurant>special_diet_restaurant>vegetarian_restaurant,0.919
-c2dd92e5-fee0-411a-ab9a-5a6418298351,Mersin Mezitli Fatih Mah 30,SIGHT,36.757893,34.547085,30028. Sokak 5,Yenişehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.707
 43e86d64-3355-48de-bdee-edd02e911ae3,L-Alem Cafe & Restaurant,CAFE,36.757446,34.54771,fatih mah. (30026 sokak),Yenişehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 8787fd73-d01b-4016-85b9-a513dd8ea360,Kargıpınarı Mercan Bar,RESTAURANT,36.757645,34.54715,,Yenişehir,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.758
 c8f74bf6-7a6b-4901-948b-a5d09dba8c0a,palmiye butik otel - One-Bedroom Apartment,HOTEL,36.757542,34.545765,,Yenişehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
@@ -3435,7 +3431,6 @@ a1423986-d89e-4853-9814-d4802cac9cc1,Ciğerci Yusuf,RESTAURANT,36.926781,34.8599
 21734382-1183-4bf8-aac7-6e2012774ba3,Tarsus Selale Hotel,HOTEL,36.927158,34.859886,Selale Mevki,Akdeniz,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
 7d991934-fa1e-4d0a-b7da-f1682370674f,Nova Cafe,CAFE,36.927769,34.856262,Altaylılar Mah,Akdeniz,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.923
 cd20b677-be67-4d58-a9bd-be535c5fc648,The Road Coffee,CAFE,36.927616,34.859421,Gazipaşa Bulv Bayramcan Apt D:70/A,Akdeniz,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.763
-215f2392-3f80-49c3-a54d-fa6bf78b8a70,Şehir Park,SIGHT,36.925056,34.863075,,Akdeniz,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.893
 20956ac6-ab7f-4b1b-8f24-3bd7558498aa,Osman Ağa Kebap Tarsus,RESTAURANT,36.925713,34.859398,Turan Cd. No:7 D:2B,Akdeniz,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.878
 068bb929-e07d-4ab6-ade5-d8ae1bdf93cb,Miraç Cafe,CAFE,36.921906,34.852669,Orhun Cd. No:56,Akdeniz,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.970
 36dd2a1b-c3f3-470c-9ef6-aa4abc56940a,Cafe S Fırın,CAFE,36.92168,34.852612,Orhun Caddesi 61,Akdeniz,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855

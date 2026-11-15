@@ -101,7 +101,6 @@ fe80d2fa-873a-4bec-90f2-1464a9dfe592,Meg Bungalov & DaĞ Evİ,HOTEL,40.591156,30
 8d366248-f85f-414f-86df-dddcf63533ed,Doğançay Bungalov,HOTEL,40.595295,30.379072,Geyve mahallesi Maksudiye Köyü,Geyve,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
 8a30ba02-aa5d-4a51-a66d-72df9cc36b8d,Maksudiye Şelale,SIGHT,40.608288,30.380741,,Arifiye,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.845
 8775bb38-473e-4bfd-8533-08937c2c651e,Maksudiye Şelale,SIGHT,40.60146,30.371195,,Geyve,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.845
-9fff26c3-1ea6-4afb-b07f-7edc38b9ac35,Adapazarı Pamukova Özdemir Dinlenme Tesisleri,SIGHT,40.61256,30.326067,,Geyve,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.744
 531e99e2-a0d3-4338-ba67-a7e43ad63a56,Sakarya Nehir Bungalov,HOTEL,40.620811,30.329842,"Doğançay Mahallesi, 2604 Sokak, Buzdağı Su Fabrikası Arkası",Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.888
 a7ebde4b-8edf-4734-9e8a-1059590a7a69,Doğançay Bungalov,HOTEL,40.623917,30.356565,Doğançay ,Arifiye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.925
 52111ab9-75a0-4455-a161-6158021f7592,Kasap Yorgun'un Yeri,RESTAURANT,40.631599,30.33485,sakarya'nın geyve ilçesine bağlı nuriosmaniye köyü balaban mevkii /doğançay,Arifiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.958
@@ -111,7 +110,6 @@ af593983-051c-4089-98ee-5d724f5a0b80,Feel & Live Hotel,HOTEL,40.625298,30.267792
 dab9d3f5-6313-4d06-9e9a-9c9cea1d670f,Vadi Sapanca bungalov,HOTEL,40.61948,30.261656,İkramiye Sokak no 55,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.869
 0d8677d5-1b95-460f-b691-ee8fdd24635f,Akcay Baraji,SIGHT,40.584595,30.17374,,Pamukova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.864
 3e56a74e-4a05-4fce-8922-78759b0885c9,Kartepe Camcesme Restaurant,RESTAURANT,40.652382,30.129684,Kartepe Zirve Yol 12 Km,Sapanca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.910
-55b7a49e-349e-43f0-a6bb-9c4a40281b59,Kartepe Doğa Park,SIGHT,40.661674,30.134453,Kartepe Cd.,Sapanca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.952
 8888c5ff-b657-4e37-8fdd-2c3046bc8334,Nirvana Cafe Restoran,RESTAURANT,40.661228,30.133257,,Sapanca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.825
 be0a70b9-15b3-4b5a-b19f-c8a6ba0a3e55,Kartepe Can Çekti Restorant,RESTAURANT,40.6651,30.136385,Kartepe,Sapanca,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.995
 f81c505d-37eb-440e-9764-db4b060a2d9b,Yamaç Ocakbaşi,RESTAURANT,40.664719,30.146,Kartepe Cd.,Sapanca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.923
@@ -299,7 +297,7 @@ cbe01599-43b0-438b-b04c-3b308bbc32f2,Sapanca Elite Bungalov,HOTEL,40.680492,30.2
 ae019810-a6aa-46c5-952c-eacf8a938693,World Deluxe Sapanca Bungalov Evler,HOTEL,40.678867,30.293722,Harmanlık Sokak No: 12 / 1-10,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.977
 7b7de15e-769a-4051-ab0e-2c30aa71174b,Mars Life Bungalov,HOTEL,40.67598,30.289431,Fevzi Çakmak Caddesi 61,Sapanca,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.763
 6db0353a-9e5d-495e-a05a-cd4ff9baeda5,Forbest bungalov,HOTEL,40.676369,30.289177,ünlüce ,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.961
-78f7ff58-1131-43b1-9eb7-020a0975b18e,Sapanca Çeşme Villaları,SIGHT,40.677822,30.287773,Ünlüce Mahallesi Ünlüce Mahallesi Sokak NO:138/ 138/2 138/3,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.912
+78f7ff58-1131-43b1-9eb7-020a0975b18e,Sapanca Çeşme Villaları,HOTEL,40.677822,30.287773,Ünlüce Mahallesi Ünlüce Mahallesi Sokak NO:138/ 138/2 138/3,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.912
 c8805e7d-7883-449a-80f7-8b0bd5f79277,Me Ga Glamping,HOTEL,40.675518,30.287519,3308 Sokak no:15,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
 a4b648ba-b3d4-42cd-a413-149b683b9670,Karya Bungalow,HOTEL,40.673515,30.290148,ünlüce cad no 60,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.860
 ac84d9ef-bbbf-4309-b73b-7fc7d14d6586,Ates Bocegi Mercan Bungalov,HOTEL,40.675293,30.292448,4009 SK NO: 8,Sapanca,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.895
@@ -1853,13 +1851,13 @@ fc1f81d5-edfb-4bb6-ba50-b121a032d15a,Şerefiye Alabalik Tesisi,RESTAURANT,40.619
 f308366c-3b20-4da7-b4b7-c242ae9d6fec,Gül Bahçe Alabalık Tesisleri,RESTAURANT,40.627678,30.681992,,Akyazı,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.758
 31783d3a-3230-4f8a-95a8-aa38de45bca2,Onbir Kardeşler Ortaköy Et Lokantası,RESTAURANT,40.631622,30.659443,Sakarya Akyazı Kuzuluk ,Akyazı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.967
 a388ca6f-8ae5-4cc9-8248-3b07cf5d6172,Çınaraltı Et&Mangal,RESTAURANT,40.631771,30.660139,,Akyazı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.903
-18107434-7765-4935-a95b-f1b2e00c5af0,Kuzuluk Postoğlu Gözde Kaplıca Tatil Evleri & Postoğlu Kuzuluk Aquapark,SIGHT,40.630276,30.656765,Kuzuluk Kaplıcalar Caddesi Postoğlu Kaplıca Camii yanı Kuzuluk Akyazı Sakarya,Akyazı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.810
+18107434-7765-4935-a95b-f1b2e00c5af0,Kuzuluk Postoğlu Gözde Kaplıca Tatil Evleri & Postoğlu Kuzuluk Aquapark,HOTEL,40.630276,30.656765,Kuzuluk Kaplıcalar Caddesi Postoğlu Kaplıca Camii yanı Kuzuluk Akyazı Sakarya,Akyazı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.810
 b8f3beb3-0ddd-480b-9478-247a73ad6b4f,Rüyam Kaplıca Pansiyon,HOTEL,40.630127,30.656307,kuzuluk mahallesi şifa sokak,Akyazı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.898
 4915f9df-3868-46cf-b351-c4958fbb129f,AİLe BahÇEm,RESTAURANT,40.628757,30.659563,,Akyazı,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.862
 6e5006b2-236b-4692-bfa4-16f99d134dd8,Ulutaş Alabalık Tesisleri,RESTAURANT,40.627491,30.65675,,Akyazı,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.850
 897ea87b-3136-4e09-b2a0-0efada581dea,Kuzuluk Dört Yol,SIGHT,40.627636,30.656521,,Akyazı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.796
 ac62c159-773a-4cd9-b2f9-55ff6f16b36e,Centilmen Cafe,CAFE,40.627937,30.656683,"Orta Mahalle Caddesi, D:342",Akyazı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
-31041dcd-9474-49a6-8822-807c99ee708e,Kuzuluk Postoglu Huzur Kaplıca Evleri,SIGHT,40.628777,30.657351,kuzuluk mahallesi orta mahalle caddesi,Akyazı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
+31041dcd-9474-49a6-8822-807c99ee708e,Kuzuluk Postoglu Huzur Kaplıca Evleri,HOTEL,40.628777,30.657351,kuzuluk mahallesi orta mahalle caddesi,Akyazı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
 741f9999-5adf-47c6-a6f7-9b78199cb72b,Nezafet Tatlı & Pasta,CAFE,40.628586,30.657503,ortamahalle CAD No : 311/2 v,Akyazı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.823
 13089dd0-c8fb-47cb-ac2e-10219071a417,Kuzuluk Atik Aile Çay Bahçesi,CAFE,40.628597,30.657774,kaplica cad ihlas kaplica evleri,Akyazı,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.978
 74f9a7ab-2791-466d-bb27-ddb86dd33e43,Kuzuluk Saklı Bahçe,SIGHT,40.628777,30.658258,,Akyazı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.938

@@ -2301,7 +2301,6 @@ f0c6e813-b368-4613-9b02-fd6e9ab358b7,Nehir Pide ve Kebap Salonu,RESTAURANT,37.83
 0a630317-7913-47a4-9073-3bf626ef37b9,256 Pide Salonu,RESTAURANT,37.837059,27.825274,Köroğlu Cd. no:42/a,Efeler,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.983
 8bfc138f-db78-40b7-abf9-6986710e1e5b,Yenipazarlı Elit Pide,RESTAURANT,37.836761,27.829741,"Efeler Mah. Atatürk Blv. (Orman Fidanlığı Alt Köşesi) Gedizoğlu Apt., Efeler, No:112/10, Efeler / AYDIN",Efeler,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.960
 9788bace-373b-4f24-b35f-77e8ece479e3,EFE BÖREK & UNLU Mamüller,CAFE,37.831165,27.831465,Osman,Efeler,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.917
-90c66230-d511-436c-be89-9993b38157c0,Fatih Mh Aydin,SIGHT,37.835094,27.835964,,Efeler,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.767
 25f6d861-87d7-46b3-9646-8089ffeb9b20,Yenişehir Kahvesi,CAFE,37.835232,27.837439,Fatih Mah,Efeler,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 cf4c9e30-2fb7-4551-b1a2-4be1782b256d,Sahara Pastanesi,CAFE,37.833778,27.836973,Çine Cd. No:58/A,Efeler,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.996
 928333b0-803e-4f5b-86ae-44c734847b47,Baykara Pide,RESTAURANT,37.833672,27.836966,1054. Sokak 9,Efeler,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.855
@@ -2954,7 +2953,6 @@ f976524e-9859-48e7-bf1d-92717bdf4afe,Komagene Etsiz Çiğ Köfte,RESTAURANT,37.8
 8ab60f86-8f58-4c88-8766-7af9fb41a25b,V&B Cafe,CAFE,37.845844,27.843142,2011. Sk. No:3,Efeler,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.857
 126f3c11-dbdf-4515-9d3a-00a90850ef90,Ahmet Usta Lokantasi,RESTAURANT,37.846382,27.843075,Cumhuriyet Cd. 73 A,Efeler,CDLA-Permissive-2.0,Overture|meta,bar_and_grill_restaurant,food_and_drink>restaurant>bar_and_grill_restaurant,0.898
 da740312-45c6-4d04-a6ab-f3446c0de648,Zeybek Kokoreç,RESTAURANT,37.84626,27.842981,Cumhuriyet Cd. No:10,Efeler,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.987
-c3a959e2-10f3-463d-ad7f-624ff93093c7,Turistik Park,SIGHT,37.846493,27.843351,1953. Sk. No:6,Efeler,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.975
 d8bd3bfa-6e70-4c28-ab52-49bca02cc0e6,Uygun Avm Aydın,SHOPPING,37.847019,27.842896,1951. Sk. no7,Efeler,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.782
 b2a82f70-e319-46cb-9c3a-3ccec541eca1,Cafedemi,CAFE,37.847023,27.843035,Cumhuriyet Mah. Mithatpaşa Cad. Vakıfhan No:3,Efeler,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 3a0ae970-64d5-45dc-85d6-18d7d29d8de8,Akdeniz Tantuni AYDIN,RESTAURANT,37.846985,27.843306,1951. Sk. 4/a,Efeler,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.991
@@ -3769,8 +3767,6 @@ cad64d7d-58ab-4951-9cd5-e7a7f4ac20d2,Bir Cay Ocagi Aperatif,CAFE,37.912586,28.32
 55df23b3-7cbc-42ba-838e-f787e20a88ea,Cafe Garaj,CAFE,37.910473,28.322573,,Nazilli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.759
 9a1dfe72-29a5-4856-b5ae-092358dee866,Buse Pide Nazilli,RESTAURANT,37.909496,28.322571,"Karaçay Mahallesi Devlet Karayolu Caddesi No:11/A, Otogar Karşısı",Nazilli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.991
 4403e741-7320-4183-bf8a-c22cbf68f3bd,Nur Pide Lahmacun,RESTAURANT,37.909519,28.322638,Aydın Cd. No:11,Nazilli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.799
-f4c0e254-112f-401a-80e0-39c3393eef95,Karaçay Mahllesi Reşitgalip Caddesi,SIGHT,37.909466,28.323164,,Nazilli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.840
-a34a99af-5ac5-49c7-912e-8db51f425986,Karaçay Mahllesi Reşitgalip Caddesi,SIGHT,37.905022,28.322084,,Nazilli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
 379eebd4-35d3-48fb-a178-ee206a5f047a,Osmanlı parkı,SIGHT,37.903667,28.322371,349. Sk. No:10,Nazilli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.801
 297b01ee-8da6-4565-ad6d-357aaf8c3a24,Kısmet Pide Salonu Nazilli,RESTAURANT,37.903969,28.322247,Reşit Galip Cd. No:87,Nazilli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.995
 cde14fbb-3e3f-4ea9-8b28-eb9c3efa0d88,Öz Kısmet Pide,RESTAURANT,37.903915,28.321999,Reşit Galip Cd. 66/A,Nazilli,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.958
@@ -3783,7 +3779,7 @@ d2fd16ed-eeaa-477c-9353-eb5b630741f4,Nazlı Pide Salonu,RESTAURANT,37.902443,28.
 7265561f-5286-456b-b5cb-f69760408122,Yenipazarlı Gürhan Usta,RESTAURANT,37.910023,28.316256,22. Sokak 18,Nazilli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.851
 dc1b101f-250f-468a-8929-6e3e12e17a84,Turunç Park,SIGHT,37.908386,28.316013,,Nazilli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.906
 df3b321c-3b87-4ba4-a6c0-3170ce065022,Kokoreçci Dursun Babanın Yeri,RESTAURANT,37.907734,28.316219,Sebze Hali Yanı,Nazilli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.877
-8e215ca0-9890-4687-8dcf-2e85ce4e68ac,Kuru Cesme,SIGHT,37.905045,28.315964,"Nazilli Ticaret Odası, Şehit Naci Ülker Bulvarı 18",Nazilli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.758
+8e215ca0-9890-4687-8dcf-2e85ce4e68ac,Kuru Cesme,CAFE,37.905045,28.315964,"Nazilli Ticaret Odası, Şehit Naci Ülker Bulvarı 18",Nazilli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.758
 e6c7ca89-1a99-4c54-82a6-a2594a29b9c9,Nazilli Etiler Mangal,RESTAURANT,37.905056,28.315907,"Nazilli Ticaret Odası, Şehit Naci Ülker Bulvarı 18",Nazilli,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.996
 6365cd5a-2397-4177-9b43-5ced3325bb11,Genç Ege Catering & Ev yemekleri,RESTAURANT,37.900963,28.315878,523. Sk. No:41,Nazilli,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.885
 d3a889fb-9c02-4619-816b-f26dce71aa6d,Sanayi Beach,SIGHT,37.903194,28.314768,,Nazilli,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.712

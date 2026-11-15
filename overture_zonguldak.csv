@@ -206,7 +206,6 @@ e5cace0d-fdc0-449d-920c-2aa1b5844df8,Dayım Tantuni,RESTAURANT,41.450462,31.7745
 ec3bc34b-9989-42f9-8857-7d23c237a203,Amanos Döner İncivez Şube,RESTAURANT,41.447357,31.765224,Çaybaşı Sk. 3 /b,Kozlu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.905
 e6386cba-0963-406c-96b8-55628637b5ef,Çekirdek Cafe,CAFE,41.447163,31.764977,Kamelya Sk. No:135,Kozlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.954
 529b5fc6-6da1-4912-8971-0b92a8394243,Taşbaca,SIGHT,41.436012,31.770248,102 Sokak,Kozlu,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.751
-bb17573b-85e6-4496-bb64-819ef3707ef4,Aslansuyu Park,SIGHT,41.442238,31.776821,,Kozlu,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.794
 81fef93c-1ab1-4fef-b30f-8912e3b66a18,Komşu Cafe,CAFE,41.441788,31.760769,Evrensel Caddesi 28,Kozlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.886
 5c869b8e-dc2f-4b00-86ae-a19cf5af87c7,Yakamoz Cafe,CAFE,41.442238,31.753502,Kozlu Sahili,Kozlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.834
 ae29a93a-ee85-4839-b723-41fc6d1dcb8c,Kozlu Plajı,SIGHT,41.442253,31.753578,,Kozlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.941
@@ -264,7 +263,6 @@ f0ed816d-404b-4bfa-bcaf-bafbe1fd4627,Kozlu Dagkoy,RESTAURANT,41.333759,31.683908
 e8077b66-705f-4e52-8153-f5e01097bd15,"Dağlıca, Ereğli",SIGHT,41.297935,31.634199,,Ereğli,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.804
 1c6feb19-8ce6-418d-8040-297d9bf1f4eb,Kayalıdere Şelaleleri,SIGHT,41.216869,31.771515,,Zonguldak,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.795
 02cfca07-1a30-4ce5-9cc8-9bedfb66f508,Erdemir Barajı,SIGHT,41.216732,31.643044,,Ereğli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.744
-bba61eca-7e46-47d6-b9e9-826de87e4581,Kızılcapınar Baraj Tesisleri,SIGHT,41.230774,31.621544,Kızılcapınar Köyü,Ereğli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.833
 cb76e1fa-1810-46d8-a1e0-f195d5e16f85,Kızılcapınar Barajı ve Hidroelektrik Santrali,SIGHT,41.240189,31.61586,,Ereğli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.835
 db302cb9-6417-4b7e-8cb7-a104b27ef9c4,Ova Barajı,SIGHT,41.252769,31.636118,,Ereğli,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.952
 b8d522a9-98c6-46d1-8c66-e45b6a8178c1,"Dağlıca, Ereğli",SIGHT,41.290257,31.636606,,Ereğli,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.804
@@ -840,7 +838,6 @@ aeeeb9ba-ac6d-4cbd-9c84-81502adc6082,Aysel sultan kahvecisi,CAFE,41.461979,31.79
 f9e57434-bf1f-4a97-87b6-2b9b6b58a3ee,Seren Cafe,CAFE,41.46452,31.82066,Tezel Sokak 39A,Kilimli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.874
 4c4aa05d-a363-47f9-a440-c33970a26dbc,Tersane plajı,SIGHT,41.468166,31.800068,Kapuz Cd. No:100,Kilimli,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.791
 6a3f6672-7410-49e4-93e5-0291f58f197f,BAB-I ZER BUTİK Konaklama ve Restaurant,RESTAURANT,41.468094,31.800488,Kapuz Caddesi 49,Kilimli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.903
-dcee5b7c-81c6-44b4-acd7-106b04236ff3,Kapuz pilajı Yeşil mahalle zonguldak,SIGHT,41.46685,31.802191,Yeşil mahalle,Kilimli,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.809
 6d435f1a-9451-4bf3-b9f2-c693c3e09554,Emirgan Otel,HOTEL,41.465736,31.797728,Kapuz Cd. No:39,Kilimli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 be79edbb-9d86-4a4e-b86b-10ef76de57ac,Uzun Kum Plajı,SIGHT,41.471004,31.806034,Kapuz Plajından 900 Metre Sol Tarafta,Kilimli,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.828
 bb59908e-cd5a-4150-a56d-e9180b8a17df,Kapuz Balık Evi,RESTAURANT,41.472382,31.80414,Kapuz Uzunkum Caddesi No: A8,Kilimli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.770

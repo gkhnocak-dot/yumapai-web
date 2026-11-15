@@ -41,7 +41,7 @@ ed13a877-bfb1-4afa-9447-545b85e29689,havza kevser parkı,SIGHT,40.966717,35.6668
 f33907c4-7b05-430e-b48c-e7fa15842099,İDA CAFE,CAFE,40.966652,35.66634,Kevser Parki,Havza,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.958
 88d53a54-2562-4bba-9921-aa9296a5ffc8,Güneş Köfte Salonu,RESTAURANT,40.965267,35.666054,"25 Mayıs Mahallesi Hükümet Konağı Arkası Şehit Jan.Uzm.Çvş.Kaşif Arslan Sokağı 16/A, No 8",Havza,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.975
 3d4e2d86-d533-452b-8153-5a43e8ff31c1,Tugra Hotel,HOTEL,40.970608,35.655796,Kütüphane Sk. No:34,Havza,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
-71b6e660-4865-4496-906e-0a87d1e64ca9,Lokman Hekim Kaplıca Tesisi,SIGHT,40.970608,35.656166,Kaplıcalar Mevkii,Havza,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.935
+71b6e660-4865-4496-906e-0a87d1e64ca9,Lokman Hekim Kaplıca Tesisi,HOTEL,40.970608,35.656166,Kaplıcalar Mevkii,Havza,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.935
 1eca3d5f-2369-4cb2-b852-8a98533c291e,Osmanli Sofrasi,RESTAURANT,40.97086,35.65617,Kütüphane Sk. 28b,Havza,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.802
 641fbf41-2ef7-4f7b-b747-3824b9687a25,Çalışkan Otel,HOTEL,40.970726,35.657379,Atatürk Cd. No: 136,Havza,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
 ebf64deb-6a0f-4ab0-a15a-69b84541b06a,Antik Otel,HOTEL,40.970623,35.657265,Atatürk Cd.,Havza,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.758
@@ -389,7 +389,7 @@ b46d6503-f73c-4dbb-8895-e64edba07484,Demir Et Balık,RESTAURANT,41.349514,36.236
 6c573ef6-d1db-4e60-9e71-a9767fc346e2,Diyarbakır Kebap Evi,RESTAURANT,41.351318,36.238331,"Yeni mah Vatan caddesi Vatan apt no 19, D:2",Atakum,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.988
 8f8d745a-48cd-4622-8c51-685b0c09c6b4,Express Pizza,RESTAURANT,41.3508,36.237774,Vatan Cd. 21 /A,Atakum,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.965
 78944079-40e6-4f71-aae7-b993c1617d0e,Yeni Mahalle Samsun Simit Fırını,RESTAURANT,41.35194,36.237709,Yeni Mahallr,Atakum,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.942
-40508bec-1043-4f0b-9d29-7bab5635f02b,Kosenoglu Sahil Evleri,SIGHT,41.352657,36.239246,Vatan Cad 3068Sk,Atakum,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.807
+40508bec-1043-4f0b-9d29-7bab5635f02b,Kosenoglu Sahil Evleri,HOTEL,41.352657,36.239246,Vatan Cad 3068Sk,Atakum,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.807
 21b5611e-006c-4460-a212-b230976bfc78,Mira Cafe & Bakery,CAFE,41.351963,36.239475,"Yenimahalle Mah. Vatan Cad Ayçiçek Apt, No:9/1",Atakum,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.968
 776c973f-c4c3-494d-9c27-fbb93537ce36,Saray Pide Ve Lahmacun,RESTAURANT,41.349129,36.238865,"saray pide salonu, yenimahalle 3167.sokak no:4",Atakum,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.967
 70a77f07-34d2-4bfc-93fd-cf15c4e3e6af,Çakirlar Cafe,CAFE,41.347,36.239185,Atakent Blv. No:132,Atakum,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.756

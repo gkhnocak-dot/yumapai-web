@@ -303,7 +303,6 @@ d075c115-1614-42d4-a020-775ddaa169d5,Herdem Çiğ Köfte,RESTAURANT,36.979813,35
 1733940e-fc38-415d-a988-ce18119b5ec7,CAN   Ocakbaşı,RESTAURANT,36.979977,35.3769,1827. Sokak 42,Adana,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.844
 234c8b37-7209-4dcf-ae35-610007572349,Alp Doner Salonu,RESTAURANT,36.978848,35.376854,Levent Cd No:68,Adana,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.899
 578b8495-1ddd-48b8-8ca8-60660fdb24e4,Aslan Kardeşler Pide ve Lahmacun Fırını,RESTAURANT,36.978683,35.377846,Levent Cd 85A,Adana,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.875
-4bb27e46-9f74-4d5e-aa2b-5aa6c202e1b3,Adana Menderes Bulvarı,SIGHT,36.977489,35.36853,Topcular Mah,Adana,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.866
 6171b60d-8164-4f26-85b1-c5ccfb4899c4,Ciğerci Tacettin,RESTAURANT,36.97736,35.384247,Levent Cd No:165,Adana,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.894
 8367fe5b-2377-4e44-809a-3edf5dd10688,Yeşil Köşe Ev Yemekleri,RESTAURANT,36.976513,35.398441,Kavaklar Cd. No:59,Adana,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.776
 a2a50a9e-c47e-4b91-b071-82ad1f14cef4,Beyler Kebap,RESTAURANT,36.978668,35.399155,Palmiye Cd. No:26,Adana,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.866
@@ -1196,7 +1195,6 @@ b46b1b90-2db7-425f-bb77-d180dc73444c,Yıldız Dostlar Kebap,RESTAURANT,37.001114
 58127be4-cc6d-4294-9701-d71afd7b966e,Melek Ana Restaurant,RESTAURANT,36.992813,35.350365,Kozan Cad. 174B,Adana,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.798
 c753e859-5b97-4f40-a79f-ed85ab7720bf,Kokareççi Osman Usta,RESTAURANT,36.993004,35.349197,,Adana,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.758
 ce4b34b8-2d9e-4767-a626-b0ded7272386,Güney Adana Pub,RESTAURANT,36.993069,35.35004,Kozan Cad.,Adana,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.935
-388b9438-806f-4892-bb56-8b0efdfecc54,Adana Menderes Bulvarı,SIGHT,36.989979,35.366146,Topcular Mah,Adana,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.866
 eb526a58-8aa5-4f3e-9724-289d5726acc5,15 Temmuz Şehitler Parkı,SIGHT,36.991058,35.367786,2302. Sk. No:8 D:8,Adana,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
 4472d49f-8435-474d-81ab-fe171d29f314,Sanat Baklava,CAFE,36.988541,35.37804,"İÇ KAPI, Yaşar Doğu Cad. NO: 215 NO: Z01",Adana,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.860
 9c40fda1-d3c2-483d-8b10-90b320c53d27,Asma Köprü,SIGHT,36.988956,35.344437,,Adana,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.821
@@ -1281,7 +1279,6 @@ ec86c111-aee1-4b56-a6de-bdf406394c4d,Çatalan Köprüsü,SIGHT,37.043327,35.1625
 b7f74a14-c45b-4383-bb92-026dc9bd2a56,Seyhan Viaduct,SIGHT,37.012699,35.192699,,Çukurova,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.766
 e3c2bcac-44bf-4971-992e-9a9a1335e5ed,Orhan usta kebap salonu,RESTAURANT,37.006439,35.202518,Şehitlik Caddesi 7/b,Çukurova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.915
 3034835a-b352-439b-8f84-c921d84e85b7,Bi Mola Dinlenme Tesisleri,RESTAURANT,37.028759,35.202076,,Çukurova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.825
-dafa7962-3a8a-4b61-beb1-4ed40abb13d7,Adana Ipekyolu Dinlenme Tesisleri,SIGHT,37.029034,35.202057,,Çukurova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.813
 e47b17a7-b04e-4f36-9615-d08b90688c23,Şambayat,RESTAURANT,37.042328,35.197769,Sok Kabasakal Mezarlığı Civarı,Çukurova,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.782
 671b791a-b77e-4cc9-9dbd-d771344cd42d,Adana Mola Cafe,CAFE,37.030453,35.206318,,Çukurova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.759
 a1398510-44e6-404f-8296-98479a10e4a9,Pozantı İpekyolu Tesisleri,RESTAURANT,37.030518,35.206367,Adana - Mersin Otoyolu,Çukurova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.888
@@ -1639,7 +1636,6 @@ e3b8b09b-27a9-4c56-8704-e10f6a1b71b6,Adana Aladağ Meydan Kalesi,SIGHT,37.503147
 ba4155a0-1869-41db-bda8-a91cdfff4f9f,Dağ Otel & Restaurant,HOTEL,37.509941,35.393917,Başpınar Mah. Hasandede Gediği Adana-Aladağ Yolu Üzeri Aladağ/ADANA,Aladağ,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.990
 b2a1bdaf-e0b7-4381-b690-c252253823db,Aladağ Hasandede Yaylası,SIGHT,37.498882,35.396797,,Karaisalı,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.816
 ff25c132-ac58-4a93-9e26-a4d32a0bdc52,"Eğner, Aladağ",SIGHT,37.41666,35.449997,,Karaisalı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.806
-d73cb65e-7647-4a42-808a-fa45df43e1ff,Kavşak Bendi Dam,SIGHT,37.564583,35.529774,,Kozan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.811
 37aeb6a5-251b-48cd-911e-bd4b0ae12cab,Yedigöze Dam,SIGHT,37.401497,35.445297,,Karaisalı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.812
 eb07165f-f7dc-48bf-9f48-a77f87bbe948,aladagkoprubasicafe,RESTAURANT,37.390514,35.430595,Boztahta mah. Eski Köprü Aladağ,Karaisalı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.858
 a21d7267-fad2-4754-a14a-0a58de6b023f,"TataR""ın Yeri KEBAP Salonu",RESTAURANT,37.125523,35.374306,Kargakekeç Mahallesi Deliçay Mevki Sarıçam/ADANA ,Çukurova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.823
@@ -1769,7 +1765,6 @@ f81a174c-ecb4-4264-9e0f-c085a7c8ba67,HRL Marin İskele,SIGHT,37.063808,35.298725
 a94f91ef-21c7-4023-a86b-19f7a07063d4,Çınaraltı Restaurant,RESTAURANT,37.06321,35.295483,82074. Sk.,Çukurova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.944
 a7e5fc6a-caa4-4588-afea-e8ce3346d3d7,Adana Gece Dönercisi,RESTAURANT,37.063206,35.295582,82074. Sk. No:56,Çukurova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.922
 16c5aa0b-f4fa-4934-a7ad-a79c2d849521,Golden Lake Hotel,HOTEL,37.059845,35.299232,82068. Sk. No:1,Çukurova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
-1b3eae4c-5aa2-4b03-905b-095cf8635fe5,Pela Park,SIGHT,37.059887,35.299156,Adnan Menderes Bulvarı 1,Çukurova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.941
 8b3e1869-5696-46d6-b947-0d9d117bd3d8,cukurova erten hotel,HOTEL,37.05674,35.297176,Karslılar Mah YSE Cad No:17/a,Çukurova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 d869fdc9-a8fa-4b84-a18f-521636adcc01,Kolpaçino Hookah,CAFE,37.056259,35.295399,82002. Sk. 2-10,Çukurova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.951
 8da4b8cc-6a3d-4ae1-9311-8195b2304f1a,Atmaca Restaurant Bar,RESTAURANT,37.055679,35.295517,82002. Sokak 65,Çukurova,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.944
@@ -2442,7 +2437,6 @@ c24064cd-8f31-4d3c-a7ec-e213465ecb4e,Adnan Menderes Bulvarı Seyhan Baraj Gölü
 0d61fcd1-e000-4bd1-b0d2-790db2cbd275,Menderes Adası Piknik Alanı,SIGHT,37.049431,35.315895,Adnan Menderes BLV,Çukurova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.816
 58cfbc42-4b51-4cea-a8e8-11ce6c6391ac,Ömer usta bici,SIGHT,37.048382,35.316616,adnan menderes,Çukurova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.702
 46c2db3f-150d-4dec-9921-1e43f92e22b5,Sevgi Adasi,SIGHT,37.048294,35.316353,Adnan Menderes Bulvarı,Çukurova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.796
-9d4c1c1a-a8bd-4d3c-ae9f-9873ca2bd68b,Adnan Menderes Burhan Park,SIGHT,37.04879,35.316971,,Çukurova,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.782
 46b55611-e0b2-45ae-8753-87b09e85e107,Maviş park cafe restorant 01,CAFE,37.051022,35.31789,Maviş Park Cafe Restaurant 01,Çukurova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.880
 b97e6173-ff78-4cb7-8790-b6c2f0d30b4b,Mavis Park Cafe Restaurant,CAFE,37.05122,35.318008,,Çukurova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.885
 407238e8-f9a0-47b8-8434-ea6f57d84444,Hasan Kolcuoğlu,RESTAURANT,37.039066,35.321224,Güzelyalı Mh. Adnan Menderes Blv. Tenis Dağcılık Klubü Altı,Çukurova,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.770
@@ -2744,7 +2738,6 @@ aab5f0e2-0e66-4a1f-a03c-c71066421a44,Çiğerci Şeref,RESTAURANT,37.019379,35.39
 2b365b57-bbc7-4cc9-b628-4f7257553bd9,Kardelen Pastanesi,CAFE,37.011303,35.385632,3115. Sokak,Çukurova,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.839
 144c2f58-8944-4c22-94fb-d82677d9c856,Türk-O Kebapçı Mesut,RESTAURANT,37.015026,35.377949,"Şehir Hastanesi Yolu, Ptt Evleri Mahallesi 3544 sk, Yeşil Bulvar No:57",Çukurova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.957
 18cbd044-645a-4fc3-b9b7-93599302af56,Fıstıkçıoğlu Baklava,CAFE,37.010593,35.377327,Kozan Cad. No: 592 / B,Çukurova,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.936
-46e4adac-4cdb-457a-a9f4-e32d7e12ab60,PTT Kavsagi,SIGHT,37.010639,35.377209,,Çukurova,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.816
 0fb4e691-2c82-4f22-b86b-f30688b070e0,Coşkun Kebab Ve Döner,RESTAURANT,37.010254,35.376869,Kozan Caddesi 582C,Çukurova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.923
 5ca905f0-7484-495f-a6db-2d09a8d1c301,Kebapçı Hakan Usta,RESTAURANT,37.012756,35.379765,Ulubatlı Hasan Mah. Kozan Yolu,Çukurova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.877
 ffe83c0e-128e-4583-9b0a-4385912bcc34,Beyaz Evler Çamlık,SIGHT,37.004555,35.388046,Beyaz Evler,Çukurova,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.825
@@ -2812,7 +2805,6 @@ a708ebfa-6a1a-4b55-a8cb-af33e88f0209,Efendibey AVM,SHOPPING,37.020626,35.812901,
 679c84f5-acb8-497b-a8cf-6445a3f1cda6,Erhan usta,RESTAURANT,37.023956,35.809181,Adana Cd. No:59,Ceyhan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.960
 27e9ebc5-f715-48ac-8ebf-e042940017a4,Şark Sofrası,RESTAURANT,37.0242,35.809391,Atatürk Caddesi 30,Ceyhan,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.787
 ef785236-6113-4837-9971-e598f854f8bc,Şehir Kulübü Restoran,RESTAURANT,37.025757,35.809822,İstasyon Cd. No:2,Ceyhan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.778
-d8736195-693c-4688-b74b-3d66c1f4afc9,Yılankale Turistik Tesisleri,SIGHT,37.025066,35.810337,Adana Caddesi 8,Ceyhan,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.701
 70d8cbd7-4454-43bc-afbc-c19fcb2bc330,Balik Sofrasi,RESTAURANT,37.024078,35.811966,İstasyon Caddesi 44,Ceyhan,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.975
 e4fa9279-847a-4306-b72a-d3fbc67f7ccc,Dutaltı Ocakbaşı,RESTAURANT,37.024685,35.812168,Yüce Kök Cd. No:11,Ceyhan,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.931
 7f192d04-345c-44e9-8dfb-cae8ea631a26,Adana Ceyhan Kaya Otelinde,HOTEL,37.0257,35.811756,Sait Akman Caddesi 13,Ceyhan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.957
@@ -2950,7 +2942,6 @@ cb3ce04d-6124-4e9c-af9b-4eca83cdaf61,Saimbeyli Ayfa Pastanesi,CAFE,37.985455,36.
 bddac988-f59e-4ff1-9a3b-bc8183c87bed,Feke Kalesi,SIGHT,37.853779,35.929581,,Feke,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.830
 ce8796b2-76fd-463b-b08e-d0589a7f7c40,Doğa restaurant Feke,RESTAURANT,37.837559,35.941555,Adana Feke sülemişli mahallesi küme evleri,Feke,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.780
 a40d236f-b769-466d-b6dd-03a36a257da8,Gözde Balık,RESTAURANT,37.470566,35.928761,,İmamoğlu,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.944
-2b5c9d19-ee95-42d6-a515-81f67c338d10,Pınargözü Balık Tesisleri,RESTAURANT,37.47163,35.928711,,İmamoğlu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.765
 20f0eda8-c562-424b-9bfa-08f954802ca2,Acarmantaş Alabalık Çiftliği,RESTAURANT,37.467968,35.925755,,İmamoğlu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.811
 50fc58f5-bb24-417c-9ebe-e8baea74153d,Yeşil Vadi,RESTAURANT,37.468136,35.925934,,İmamoğlu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.812
 8c4861e3-68bb-42c3-9536-50a4ea98b881,Yeşil Vadi Alabalık ve Restaurant,RESTAURANT,37.465034,35.915909,Acarmantaş köyü,İmamoğlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957

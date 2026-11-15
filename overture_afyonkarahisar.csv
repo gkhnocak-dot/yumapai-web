@@ -399,7 +399,6 @@ e9f24003-2e38-488e-962c-d3f6318ddbc5,Acar Otel,HOTEL,38.066578,30.166599,camikab
 47592fd1-a5a0-41f6-a602-6266abf248a3,Chicky Dinar,RESTAURANT,38.067337,30.165373,"Bim Çaprazı, Cumhuriyet Cd. no 37",Dinar,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.916
 2a12ba88-4d3e-4d18-94c5-95cbfbac138a,Cigkofteci Omer Usta,RESTAURANT,38.067268,30.165718,Adliye Holliwııd,Dinar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.918
 d3998fe3-27f7-4ce1-a2ca-ee160dd1a7a1,Imren Lokantasi,RESTAURANT,38.067932,30.165705,Adliye Cd. No:25,Dinar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.944
-7d73dc80-df21-4c32-be87-f240f90ded91,Suçıkan Park Tesisleri,SIGHT,38.067604,30.166428,,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.895
 ede8e161-4733-461f-8bbc-e59436953163,Dinar Otel,HOTEL,38.067619,30.166094,,Dinar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast,0.770
 704f97c7-c142-4e84-835c-d4c7e17c1012,Dinar Tostman,RESTAURANT,38.067238,30.167006,Tansa Sk. No:12,Dinar,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.835
 5df9b528-27cb-44be-8274-18f07388f2a4,Aciktim Döner,RESTAURANT,38.067257,30.167088,Tansa Sk.,Dinar,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.918
@@ -501,7 +500,6 @@ c4b4a17d-4191-498e-9f85-e7cbfcfddfc7,Komagene,RESTAURANT,38.727947,30.55238,Şai
 661ed8c2-ce90-4edb-a651-734a64332b58,Nuri Demirayak Parkı,SIGHT,38.722591,30.554213,440. Sk. No:2,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.943
 c76a90f6-bc13-4209-90dd-eda1c8aa85cb,Alperen Pide ve Lahmacun Salonu,RESTAURANT,38.726418,30.561434,Şht. Kadir Aydın Cd. no:40,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.880
 44285080-4b06-4b6a-849a-9e4fe08ee6e5,Beylerbeyi Pide & Simit Fırını,CAFE,38.729195,30.566921,Aliihsan,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.817
-dccee1bb-64ab-4aa0-b30a-7669952a6b54,Şuhut Kavşağı Parkı,SIGHT,38.728706,30.56649,Şuhut Kavşağı,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.910
 0e2b78ed-c7ee-4ec8-b22c-711388133feb,Hilal Restoran Kafe,RESTAURANT,38.729317,30.568584,gül sokak,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.780
 da31fbc9-0ac6-4501-94e7-c0c8dd9469b0,Çilekli Bahçe Yöre Sofrası,RESTAURANT,38.719681,30.572117,488. Sokak 6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.958
 70af10b0-2eb0-463c-94ea-c0f3669aea10,Kanlıca Kızılay Parkı,SIGHT,38.739147,30.545706,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
@@ -674,7 +672,6 @@ b7a7dca1-7b0e-4070-bbbf-5efcc6bd73e4,Selvi Haşgeşli Yöresel Lezzetler,RESTAUR
 ec926eb9-df15-455d-93f1-cce50a7718d5,Bi Dürüm,RESTAURANT,38.761909,30.540459,Gazlıgöl Cd. 105/B,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.783
 a3f1e73d-2748-4929-9496-7a4226872df3,Lale Pide & Döner,RESTAURANT,38.761841,30.536327,Bankalar Caddesi 19/a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.858
 32d2a0c7-70e4-41c3-ba93-0ab8bbd2563a,Lokman Bey Tatlıcısı,CAFE,38.76376,30.535032,Zincirlikuyu Cd.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.966
-74e1ab53-85ee-4659-911f-132a955acfcd,Sarıkız Caddesi,SIGHT,38.763657,30.53652,Mecidiye Mah,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.723
 024c0891-76ac-4924-acd6-e6e2e0cf3551,Grand Arı Hotel,HOTEL,38.764576,30.531096,Hattat Karahisarı Mh. Milli Birlik Cd.No:108/ANo:108/A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 1fa83268-c28c-44f7-bf98-ba13561ba104,Zorluer Pide,CAFE,38.762745,30.532488,Milli Birlik Caddesi 177,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.893
 c1c38d2c-8100-4935-9b87-727a1e1ff494,Afyon Suit Otel,HOTEL,38.762085,30.533356,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.988
@@ -1076,7 +1073,6 @@ e024a328-6e84-4dc2-a668-1903aa6aefdf,Davulga Şelale Parkı,SIGHT,38.982315,31.3
 af905ccf-3aac-46eb-8d1b-8cf2f1dde694,Gazi Binbaşı Fikret Emek Parkı,SIGHT,39.037254,31.159531,,Emirdağ,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.824
 d95423e0-b51f-49e9-ab28-b3ebcbffdd44,Yayla Park AVM,SHOPPING,39.033173,31.162607,Eskişehir Cd. No:136,Emirdağ,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.825
 d02c69bc-f07a-43a7-8d6e-82672390663c,Kahve Diyarı Emirdağ,CAFE,39.032505,31.157766,Fatih Cd. No:109,Emirdağ,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.795
-df3ff189-206d-4ded-98ec-f7396956f64b,Anıt Park,SIGHT,39.034351,31.161585,"İÇ KAPI, 2180 SK NO: 2 NO: 1",Emirdağ,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.941
 665a5c21-51ea-48ee-aec7-0e17abe6de03,Abbasoğlu eğlence merkezi,ACTIVITY,39.019718,31.149006,"Emirdağ, Afyonkarahisar, Türkiye",Emirdağ,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.967
 38a0a5cd-f806-4446-b145-cd9f3d20bd20,Çarşı avm emirdağ,SHOPPING,39.019707,31.148987,afyonkarahisaR EMİRDAĞ,Emirdağ,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.772
 541d766b-fb42-456a-8cff-4c93dfc2bd45,Inan Restaurant,RESTAURANT,39.01973,31.149734,Atatürk Cd. No:3,Emirdağ,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.895
