@@ -46,5 +46,13 @@ Header always set Content-Security-Policy "default-src 'self'; script-src 'self'
 <FilesMatch "\.(html|css|js|json)$">
 Header set Cache-Control "no-cache"
 </FilesMatch>
+# Flutter motoru ve yazı tipleri sürümler arasında nadiren değişir: telefonda 7 gün saklanır (yalnız bu klasörler).
+<If "%{REQUEST_URI} =~ m#^/(canvaskit|ff-fonts|assets/fonts|assets/packages)/#">
+Header set Cache-Control "public, max-age=604800"
+</If>
+# Görseller ve ikonlar: 1 gün
+<FilesMatch "\.(png|jpg|jpeg|webp|svg|ico)$">
+Header set Cache-Control "public, max-age=86400"
+</FilesMatch>
 </IfModule>
 # END YuMapAI

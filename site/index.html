@@ -23,11 +23,16 @@
   <meta property="og:type" content="website">
   <meta property="og:image" content="icons/Icon-512.png">
   <link rel="stylesheet" href="yu-web.css">
+  <!-- the engine script is the same on every browser: start its download now instead of after flutter_bootstrap.js ran -->
+  <link rel="preload" href="main.dart.js" as="script">
+  <!-- MapLibre GL JS 4.7.1 (BSD-3), self-hosted: harita (maplibre_gl web) CDN'den değil buradan yüklenir -->
+  <link rel="stylesheet" href="maplibre/maplibre-gl.css">
+  <script src="maplibre/maplibre-gl.js"></script>
   <script src="yu-web.js"></script>
+  <script src="flutter_bootstrap.js" async></script>
 </head>
 <body>
   <div id="yu-splash" aria-hidden="true"><img src="icons/Icon-192.png" alt="" width="96" height="96"></div>
   <noscript><p class="yu-noscript">YuMapAI'yi kullanmak için tarayıcında JavaScript açık olmalı.</p></noscript>
-  <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
