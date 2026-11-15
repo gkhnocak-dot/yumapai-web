@@ -1,0 +1,889 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets
+2ca35df7-2874-49ab-966c-c132fda2b8c4,"Üyücek, Kızılcahamam",SIGHT,40.626297,32.564796,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+cea69a4d-f5b0-4d47-875b-4f79e791c1b8,KarataŞ Tavuk Ve Yumurta TesİSİ,RESTAURANT,40.640945,32.502422,Berçin yayalar köyü /Kızılcahamam ,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+438f0326-dfda-4391-b35e-5e280c22a026,Çamkoru Gölü,SIGHT,40.582512,32.51046,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+f25eab17-9874-4789-a000-a3effe74c620,"Kuşçular, Çamlıdere",SIGHT,40.545559,32.502342,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+29e5724a-d237-4c84-a9b4-20c78eb856b2,"Bulduk, Eskipazar",SIGHT,40.840218,32.566723,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+34a3f1e0-817e-4277-b3a2-29808e93a000,"Kuzören, Eskipazar",SIGHT,40.848038,32.602776,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+f067efd5-1c12-41d8-83ab-b5db873f09f9,Sigircik suyu Şıhlar,SIGHT,40.884426,32.669418,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+8072cdea-56a2-4177-8d80-4a2fd1c911e6,Karabük Ismetpaşa,RESTAURANT,40.869637,32.626373,Nebahat Ablanın Yeri,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+19c9224c-4645-49ee-95b7-eec6c4947120,Karapınar Park,RESTAURANT,40.86412,32.563877,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+b644486a-f02e-46f2-b3cb-d1c2f33528b6,Deliağanın Yeri,CAFE,40.866611,32.567173,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+77d37d2a-6939-4d23-b211-bea31bd0599f,Gerede çayı,SIGHT,40.86639,32.56694,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+98053e6e-d8ca-4f50-8f13-69c9adffdd97,Sogutlu Cesme Dinlenme Tesisleri,HOTEL,40.885639,32.576469,Ankara Karabük Yolu,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+1bf25b83-6e69-4a55-9e0e-c9644c21a742,Aktaş Kalesi,RESTAURANT,40.861427,32.547516,Ankara Karabük Yolu,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+0b2e0e25-885e-4232-9eb3-9ac4199ebd3a,Kemikli Rampası Aktaş Kulesi,RESTAURANT,40.861294,32.547569,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+34660f6a-5271-4079-808c-720022d47e81,Deresoblan,RESTAURANT,40.861244,32.547688,E80 Ankara yolu,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+7cf66606-3af8-470a-879d-36a3e3f8ff4f,Maviler Et Lokantası,RESTAURANT,40.858429,32.532337,Kemikli Rampası 25 Km Maviler Petrol Yanı,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+69f4b764-5267-4754-b0ee-be65bb7a3e7a,Dorukhan Alabalık Tesisi,RESTAURANT,41.01614,32.080009,,Yenice,CDLA-Permissive-2.0,Overture|meta
+2bed958e-e0df-4b01-a6ca-da922da0db00,"Sipahiler, Karabük",SIGHT,41.111385,32.5075,,Karabük,CDLA-Permissive-2.0,Overture|meta
+d87fad2b-8083-4b39-b25a-3691315a0200,"Güneşli, Karabük",SIGHT,41.106667,32.544441,,Karabük,CDLA-Permissive-2.0,Overture|meta
+ad1c973d-23ea-40f1-9eb1-b13fc8427737,Kurtoglu Kebap,RESTAURANT,41.060368,32.647236,Ankara Karabük Yolu,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d73e633c-06c3-427e-a810-320709f565e4,Kurtoglu Kuyu Kebab,RESTAURANT,41.060669,32.647846,Kayı köyü merkez mah. No:1,Karabük,CDLA-Permissive-2.0,Overture|meta
+3461ad39-5f3f-4a43-bdbc-1409bf5dc8e7,"Saitler, Karabük",SIGHT,41.092461,32.592171,,Karabük,CDLA-Permissive-2.0,Overture|meta
+01bd1611-6dc3-45fb-8870-a22dce44dbdb,"Saitler, Karabük",SIGHT,41.094444,32.584442,,Karabük,CDLA-Permissive-2.0,Overture|meta
+52fd6f71-c40c-4fa0-856a-719ab43658c8,Aladağ Mesire Yeri Karabuk,SIGHT,41.107662,32.606663,,Karabük,CDLA-Permissive-2.0,Overture|meta
+3a20ab28-9c55-477d-852b-8100168f3d70,"Avdanaltı Karabük , Orman İçi Dinlenme Alanı",SIGHT,41.09795,32.771019,Davutlar Köyü Yolu,Ovacık,CDLA-Permissive-2.0,Overture|meta
+c1c240e3-9451-4a30-9846-86235fcd2b56,"Davutlar, Karabük",SIGHT,41.097775,32.769997,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+9cb6e96e-1860-481f-8133-cd07cd3faa98,"Kayı, Karabük",SIGHT,41.057064,32.644863,,Karabük,CDLA-Permissive-2.0,Overture|meta
+873d07cf-5363-47b1-9d94-fff4cd8b4d9e,"Karaören, Eskipazar",SIGHT,41.018608,32.677498,,Karabük,CDLA-Permissive-2.0,Overture|meta
+ff44930d-b51a-4aa0-937e-36f05f621506,Turanlar Dinlenme Tesisleri,RESTAURANT,41.01263,32.625523,"Merkez Karabük TR, Ankara Karabük Yolu",Karabük,CDLA-Permissive-2.0,Overture|meta
+77a46a36-fccd-4de3-a7cc-f8048c455bcd,"Sallar, Eskipazar",SIGHT,40.955276,32.753052,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+07f07770-5e39-4a24-b925-106936cebdd1,"Çandırlar, Eskipazar",SIGHT,40.943886,32.688332,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+7aaa8486-ead7-4f96-9bdd-f57a33828125,"Yazıkavak, Eskipazar",SIGHT,40.955276,32.596664,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+c1e94df5-2bbb-4e75-abfc-f9ebde0e23cd,Mermer Parkı,SIGHT,40.95916,32.551903,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+97242f54-fca9-4282-a001-5b565f14193d,"Ovaköy, Eskipazar",SIGHT,40.980862,32.525616,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+8b7bc8ff-e52e-4df5-be84-809f7979de91,Hadriana Otel,HOTEL,40.960819,32.551407,Samyeli Sokak 10,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+c0fdd6d4-ea02-412e-838d-38fe8b0c83fb,Sevval Pastanesi,CAFE,40.94389,32.531109,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+46f2b40e-8dc7-454d-9e80-62b091d3d705,Eskipazar Saat Kulesi,SIGHT,40.943741,32.530418,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+c08fd636-1504-48bb-9df4-c5ea247dd91c,Donmez Kardesler Ekmek Firini,CAFE,40.943558,32.53001,Cumhuriyet Cd.,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+e9205ba6-0061-4b9e-84c4-207afb6690ba,Eskipazar Karamel Pastanesi,CAFE,40.94482,32.531643,İnönü Caddesi 20,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+9c5369cc-c325-4533-ae9b-20eafa74023b,Eskipazar Sarı Kale Restaurant,RESTAURANT,40.940186,32.530476,Şht. Recep Ergenç Sk. No:16,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+9c49841e-6f9c-4a5a-a96c-53c70d1124d1,Kültür Parkı Eskipazar,RESTAURANT,40.941341,32.53376,Eskipazar,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+20b6e681-eb12-48dd-a47a-05efe173bdc8,Kemikli Rampası Aktaş Kulesi,RESTAURANT,40.94194,32.531124,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+06d3feb9-7faf-470e-aadf-d6c75b025b5e,Merkez Lokantası,RESTAURANT,40.943275,32.53009,Cumhuriyet Cd.,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+73013016-8c37-48d1-bc2d-e953adc1cbb2,Toros Dondurma,CAFE,40.942867,32.53091,Cumhuriyet Cd.,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+746fb22d-ab2d-4a55-b003-827153718814,Eskipazar meslek yüksek okulu Kampüs CAFE,CAFE,40.940224,32.51791,BAHCEPINAR,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+cb0bce52-77cb-432e-9c08-712216ac2f63,ESGÜNDÜZ ÖZEL ÖĞRENCİ YURT PANSİYON TURİZM OTEL YEMEK ve TEMİZLİK HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ,HOTEL,40.940704,32.517612,.,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+dcf5d4d7-cd48-4c5c-a478-eec1ba0eadd7,"Alpagut, Ilgaz",SIGHT,40.919167,32.541111,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+80cc082d-73a4-4f14-8690-a59f68853acd,"Tamışlar, Eskipazar",SIGHT,40.938332,32.640274,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+2d78edf0-324a-433a-be46-1a9fe4f2b88d,"İnceboğaz, Eskipazar",SIGHT,40.940277,32.713055,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+be6b02ab-2fff-490b-bd00-13e90d1217dc,"Bölükören, Ovacık",SIGHT,40.91,32.721386,,Eskipazar,CDLA-Permissive-2.0,Overture|meta
+0b71e47e-ac69-4505-a7ef-a4e353a843f1,"Pelitçik, Ovacık",SIGHT,41.018055,32.885555,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+376badb2-1468-402f-8f3b-7d15f95334aa,"Beydini, Ovacık",SIGHT,41.07,32.831387,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+6e89788a-5839-4f05-8f90-f1c4c18dcdab,Ovacık Hatıpoglu Goletı Santıyesı,SIGHT,41.062569,32.89613,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+d43a6348-3fd5-4e97-ada9-f82f5c327e60,Ovacık Karagöl,SIGHT,41.114475,32.851551,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+ccd95b5b-6181-40be-beef-17a3b63d2873,Ovacik Karagöl Seyir Terasi,SIGHT,41.109486,32.894226,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+6708850f-13af-4cfc-8b0f-2d2d2080f787,"Yığınot, Ovacık",SIGHT,41.06916,32.997498,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+5ee9945d-0255-46bf-8b50-d4291e69630a,Göktepe Göleti,SIGHT,41.176064,32.273708,,Yenice,CDLA-Permissive-2.0,Overture|meta
+ecc59362-4f01-45cd-af5a-71ee44c893f4,Yortan,SIGHT,41.25,32.349998,,Yenice,CDLA-Permissive-2.0,Overture|meta
+a93328a9-e614-465b-b8f1-785a900e0636,Yenice Şirinköy,SIGHT,41.295349,32.371399,,Yenice,CDLA-Permissive-2.0,Overture|meta
+1d893ac3-33af-4713-bbc6-76fee6b547e0,Nehir Gazinosu,RESTAURANT,41.338528,32.391808,Yayla sokak no 117 Hasankadı yol üzeri NEHİR GAZİNOSU,Yenice,CDLA-Permissive-2.0,Overture|meta
+563f32d0-1eda-4ab5-a322-b79252197719,Hasankadı,SIGHT,41.333332,32.383331,,Yenice,CDLA-Permissive-2.0,Overture|meta
+e44fdf57-445a-47d4-b42f-d6d4c72dfa77,Retro Lounge Safran,RESTAURANT,41.336075,32.705292,Eski Çarşı Çevrikköprü 3 restaurant yanı,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d908cff8-2c57-4e08-98b6-2feb72e963d1,"Kırıklar, Safranbolu",SIGHT,41.348331,32.718609,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0e5c1191-f64c-4010-8aaa-f2617b438d6a,"Çatak, Safranbolu",SIGHT,41.336941,32.793331,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f7b7ba80-13a8-495b-a04b-66f55a91ede1,"Tokatlı Kanyonu, Safranbolu",SIGHT,41.322994,32.701122,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+abca2b54-5140-402a-a7f1-f0f05752fd78,"Karapınar, Safranbolu",SIGHT,41.299999,32.75,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+53853efa-ab34-461b-8aa1-3a8756eb3968,Omerbeyoglu Konak Boutique Hotel,HOTEL,41.272854,32.702244,Sokak NO: 87,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+39eba904-a27e-4853-bbf4-b8f79c93ecdf,Bahçem cafe,CAFE,41.272831,32.680553,safranbolu yukarı tokatlı köyü merkez mevki,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6910e027-ac52-49a2-a6eb-05fb8ab7708d,Aişe Ana Kız Yurdu,HOTEL,41.274971,32.679298,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b1aa74e3-42ec-4a25-8fe9-7918f369300e,Tokatlı Canyon,SIGHT,41.281349,32.684677,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+80e02181-b546-4e5c-bb84-370a3199be4f,Ters ev Safranbolu,ACTIVITY,41.281551,32.681641,"Safranbolu, camteras mevkii",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+85126b34-9f40-4699-a780-265de62cad80,Nostalji Gezi Evi,SIGHT,41.291248,32.68705,"""Aşağıdana Köyü Tepetaklak Konak yanı, 78600 Safranbolu / Karabük""",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e9a2d113-175b-4da3-8afb-c17a659b7609,Bulak Mencilis Mağarası,SIGHT,41.274292,32.624622,"Bulak, Safranbolu",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e10df7bc-65c1-42b0-96fb-36e145c8d1de,Çamtarla Cafe Restaurant & Aile Piknik Alanı,RESTAURANT,41.281734,32.671181,"Esentepe mahallesi, Hazar Caddesi, Safranbolu Su Deposu Üstü 78600 Safranbolu / Karabük",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+026de639-be2e-45e8-a7cb-4b15a3fa9151,Green Life Homes,SIGHT,41.281368,32.671799,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e631eadf-a030-4d10-acb7-cbb4eb2c52d2,Optima Luxury Homes,HOTEL,41.28001,32.673195,Esentepe Mah,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c8213f40-6bdb-4d9f-9f71-fd8d9f6e50a8,Babel Terrace,SIGHT,41.281174,32.672356,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+77f1e80b-0558-46ec-9b25-b55919f096c9,Safran Saray Teras Park Evleri,SIGHT,41.277779,32.67791,Safran Saray Muh. Sadri ARTUÇ Cad. Anadolu Is Hanı Kat.3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a3bada1f-9d01-4425-be12-965cd4653182,Milklac - Safranbolu,CAFE,41.277103,32.676399,İncekaya Caddesi 115A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d0e38947-20bc-4e25-8797-ef3ac0d7acbb,Yeşil vadi K Blok,SIGHT,41.275352,32.668903,Sunduk Cd. Yeşil vadi Sit K Blok,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+78c298c8-282c-465a-869e-2b3862a6c0d2,Elitkent Konutlari Safranbolu,SIGHT,41.274384,32.6684,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f8230312-194a-4ebc-8f5c-81c3d05e0f49,Papatya Evleri,HOTEL,41.273979,32.669922,Esentepe Mah,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d8da23ef-39c0-4b8c-9c4f-d885ec5e30e7,Nostalji Gezi Evi,SIGHT,41.273811,32.669899,"""Aşağıdana Köyü Tepetaklak Konak yanı, 78600 Safranbolu / Karabük""",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+89531ca4-5278-4aea-ab05-f5f1ead2b35d,Anadolu Ladin Evleri,SIGHT,41.276234,32.669781,"Esentepe, Sunduk Caddesi, Elik Sokak",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3b2d8143-4ff4-41d7-87cd-8e81d36acbfd,Özgür kafe,CAFE,41.274216,32.648941,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f69e7588-b52c-43a4-97ba-5830a431b477,Safranbolu Çamlıca Konağı,HOTEL,41.27446,32.655704,Bağlarbaşı Mah. Mencilis Mağara Sok. No:115 Değirmenbaşı Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3a2fd36d-86d7-4763-9c6e-999f3ea918ed,Family Garden Teras Cafe,CAFE,41.272747,32.651081,Safranbolu bulak mağara yolu guneygece mevki no 8/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2e817c42-9064-4461-90d9-b6a99d41115d,Yeşil Çizme Doğa Evi,HOTEL,41.272839,32.64764,Mencilis Mağara Yolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+f6b2d2bb-54ce-495a-862a-1f92de7b00ab,Safranbolu Esentepe Sürülkent,SIGHT,41.272388,32.668316,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+28c0a260-5274-442c-90d0-be401d7436d6,seyirtepesi,CAFE,41.272755,32.672798,Akyol Mahallesi Sarmaşık Sokak No 17,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+adc6b5a7-4ad7-4a85-b610-df1911a1d8a1,Özer Ekmek Fırını,CAFE,41.268463,32.673038,İncekaya Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d98bfffe-8105-46a6-8dbf-718a296314f5,Sahi Dondurma Kafe,CAFE,41.266918,32.673267,İncekaya Caddesi 11/2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1c346ca4-58f8-4e93-9683-25095a4c4856,Bahar bahçesi Konak,CAFE,41.266857,32.665688,Hamamcıoğlu Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d595dda9-9325-4f9f-a17c-dc80b3a3d3c9,Özata Konak,RESTAURANT,41.266277,32.664024,Çamlıca Sk. no:14,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+78ef60cc-d18e-4fe2-8e08-59d8576f63f4,Köroğlu Konak,HOTEL,41.266205,32.663971,Çamlıca Sk. NO:14,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2e319ac0-426a-4e55-bcf7-e6bd846084a2,Tarihi Değirmen Kafe,CAFE,41.267338,32.663921,Değirmenbaşı Sokak 61,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c632873d-41cc-4b54-a62f-7ecd779db7d3,Asmazlar Bağ Evi Konak Restaurant,RESTAURANT,41.267021,32.664185,Değirmenbaşı Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+18d7c44d-0a2c-4a2e-bc05-097b7b4a572e,Safranbolu Raşitler Bağ Evi,HOTEL,41.267559,32.663719,Değirmenbaşı Sokak 65,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+19730035-bdfa-4abc-94a5-02c077e221b6,Safranbolu Incikent Yakut Palas,SIGHT,41.269775,32.668118,Şirin Sokak Bağlarbaşı Mahallesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+52c14de4-ec2a-4b4e-bf5f-3e11ea718e15,Mecra restorant,RESTAURANT,41.269505,32.655312,Çamlıca Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9ae1dce5-5fae-4ec3-8ecf-56c559b3146b,Yeşil Çizme Doğa Evi,HOTEL,41.269043,32.646889,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3bbbd06f-ffad-4a67-993e-fb250c19541a,Sadık Bey Konağı Düğün Salonu and Restaurant,RESTAURANT,41.262783,32.665562,Kileci Sk. No:11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+876d7927-c389-4367-9786-a3e93f3049fa,Karmek Odun Ekmek Fırını -Safranbolu,CAFE,41.263588,32.668201,Kurtuluş Caddesi 4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fd17a86f-abb9-46bc-bc89-8fffc4d5566f,Piknik Fastfood,RESTAURANT,41.263588,32.668194,Köyiçi Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+92f409ba-78c8-4a81-93d4-dce502bcd71f,Köroğlu Kayfe,CAFE,41.263412,32.668209,Değirmenbaşı Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f64b6f60-e4bc-4ec8-8888-5d180c2bd502,SafirKonak Safranbolu,HOTEL,41.263412,32.668362,"Safir Konak, Sadi Yaver Ataman Meydanı No:1 No:1",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+498c7b8d-2834-470d-a1b1-028b038a9eb1,Safranbolu Köyiçi,SIGHT,41.26366,32.668404,Bağlarbaşı Safranbolu Karabük ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+014f9ccf-97e6-447e-835e-b8ea7b55389d,KÖY İÇİ KokoreÇ,RESTAURANT,41.263676,32.668591,Sadi Yaver Ataman Meydanı No:13,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aecdbef8-a6ba-45ec-b9d5-b6d28a4f1e07,Safran Konak,HOTEL,41.263691,32.668613,Köyiçi Mevkii No:22,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6491a784-af01-440c-bd28-9497096d3e02,Şadiye Hanım Konağı,HOTEL,41.264648,32.670593,Kurtuluş Cd. No. 21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4955856b-fe59-42c2-84de-f05f833e681e,Safranbolu Erikli,HOTEL,41.265736,32.675858,Fevzi Fırat Caddesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c767eca6-063e-4460-8dd0-e996e451db0c,Kavaklar Aile Çay Bahçesi,RESTAURANT,41.262524,32.674496,İncekaya Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+53590d76-e0b3-43b8-9fa8-4bc9a3c40b52,Safranbolu Merabasi Yaninda,CAFE,41.262676,32.674522,"""Kavaklar, Safranbolu""",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+70292236-dc76-4528-b251-53a919f6c683,Kuscu Konak And Cafe,HOTEL,41.26194,32.674519,İncekaya Cd. No:51,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a075c8b9-0aa2-4da6-b5d7-aaacbd879dd5,Dibekönü Konak Otel,HOTEL,41.260902,32.677418,Dibekönü Cd. No:25,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a4a19285-e3a4-4e72-932a-a8fc56a44e3e,Safranbolu gayza başı camlı teras,CAFE,41.26067,32.674545,incekaya caddesi safranbolu ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+53ed3d42-1475-4915-81dd-f8114bfeae5e,Zerde 1976,CAFE,41.26083,32.674648,Develik Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a193c5b7-2de7-4f21-b39a-a208249493fa,Köroğlu Konak,RESTAURANT,41.260902,32.674171,Antep Sk. no:17,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e7ff6734-dcbd-4c52-94ed-1f5e991dca32,Paçacıoğlu Bağ Evi,HOTEL,41.260868,32.674187,Bağlarbaşı Mah. Antep sokak No: 17,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+9d276170-d665-4e84-a3ee-211b7431e44b,Park Hotel Safranbolu Suite&Rooms,HOTEL,41.260616,32.671349,"Bağlarbası mahallesi , arslanlar sokak ,no:27 ",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7beb84bd-bbe9-4195-88d4-f36389d09d20,Diamond Park Otel,SIGHT,41.260609,32.671368,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d78db5db-4b3b-447a-88e8-1af49fc7ad93,Kürkçü Dükkanı Art Garden,RESTAURANT,41.261536,32.670155,Aslanlar Sk. No:34,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+275ff3d0-3283-4ae6-bb03-9baf6539ef9a,Bağlar KONAK,HOTEL,41.261322,32.669754,Bağlarbaşı Mahallesi Arslanlar Sokak Müftü Pınarı Camii Yanı  No:34,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+07889c1f-93e7-4782-a41f-5ed0d71e7262,Köfteci rasim Safranbolu,RESTAURANT,41.258846,32.672447,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6f60acb8-23f4-4635-b53f-487f3d691c4c,Afife Safranbolu,RESTAURANT,41.258656,32.675499,Develik Sk. No:19,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fa8307d0-8cc7-4259-b549-33a626e83ca8,Hilton Garden Inn Safranbolu,HOTEL,41.258442,32.674625,Halkevi Sk. No:12,Safranbolu,CDLA-Permissive-2.0,OpenTravel|Overture|meta
+4a02ddc0-c36c-408b-ba7b-777b7088ffbe,Espressolab,CAFE,41.257557,32.673195,"Bargah Helka, Cemalcaymaz, Sadri Artunç Cd. No: 153/B, 78600 Safranbolu/Karabük",Safranbolu,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+fd01e9d7-009d-465d-a2e8-29b7064ed625,Peron Doyuranadam Butik Steak House,CAFE,41.257511,32.673321,"Bargah Rezidans, Sadri Artunç Cd. No:153",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a12e1f4c-f0cc-41c6-a68c-6785ff02ce9a,Café Solo,RESTAURANT,41.257359,32.673435,"153/16 1 Bargah Rezidans, Sadri Artunç Cd.",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6bd6256b-8684-49dd-96a1-d1694ac534fd,Cafesolo Safranbolu,CAFE,41.257236,32.673111,Cemal Caymaz Mahallesi Yıldız Geçidi Sokak,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2880a140-64eb-45a7-8e53-3f97d808680c,The Homes,RESTAURANT,41.256714,32.674671,Özgür Sk. No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+321ef8e9-a121-4a44-8ce9-c976944f9a2d,Baglar Saray Hotel,HOTEL,41.256203,32.675156,"No:102, Sadri Artunç Cd.",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+200fa8f0-4de5-4f63-bdce-c27b54a5e3a9,Safranbolu Migros,SHOPPING,41.255615,32.67609,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4cb865a7-b52f-444d-822e-0e366e2468f8,Bayramefendi Osmanlı Kahvecisi,CAFE,41.255211,32.67709,Yeni Mh. Ünsal Tülbentçi Sk.,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a43ebc84-5a33-4f02-8466-bc430d6c16ed,Safran City Hotel & SPA,HOTEL,41.25502,32.676872,Ünsal Tülbentçi sok No:5/2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a4fbdea8-16b2-4fbf-b772-af61167ef499,Restart Restaurant&Bar,RESTAURANT,41.25502,32.677486,Ünsal Tülbentçi Sokak no5/2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d0a165cc-4e0d-4794-a210-97ba3502fda7,North Safran Cafe Restaurant,RESTAURANT,41.254757,32.676788,Sadri Artunç Cd. No:80/2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b3bbcbba-e3a8-4e5f-b14d-389a76fccaee,Safranbolu Hayal Kahvesi,RESTAURANT,41.254951,32.676453,Sadri Artunç Caddesi 52,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3f54af46-9be1-42e4-92cf-482bee4fce8d,Route Burger Safranbolu,RESTAURANT,41.255341,32.676109,"yenimahalle mahallesi Mutlu Sokak Dizdarlar, Residence",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b0469afb-a45c-465e-8821-607d84aad3cf,Bench Coffee,CAFE,41.255482,32.676167,"DİZDARLAR RESİDANCE, Mutlu Sk. No:2",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c1364cdd-b469-4fdc-a1c3-a44b0c8bd3a4,Hilton Garden Inn GYM,HOTEL,41.255596,32.673954,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9188570a-89fb-4b2d-b02b-784d46c3102b,Odabas akademi kiz öğrenci yurdu,HOTEL,41.253365,32.669399,emek mahallesi askerlik şubesi üstü,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c07db182-4023-480e-85ab-6f4e4ed17f6b,Kafedar Kafe,CAFE,41.254066,32.67627,Yüz Dükkanlar Mevkii,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+258ca02c-2a59-46f6-8e07-8860112413fc,HamurX Extra Lezzetli Tatlar,RESTAURANT,41.254166,32.67691,Sadri Artunç Cad. Konak Çarşısı No:139/F Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b7c7161e-1e5b-4d5c-95cd-007c34301584,Cafe rouge,CAFE,41.254444,32.677395,Kızıltan Ulukavak Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7c479250-5f4f-4e38-b85c-fb1b03475ce2,Oses Çiğköfte,RESTAURANT,41.254292,32.677288,Atatürk mah Sadri Artuç caddesi Akkonut apartmanı altı 78/F,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4cbf83cd-919a-426b-afc6-786e03525af6,Komagene Safranbolu,CAFE,41.25423,32.677479,"Atatürk Mahallesi Sadri Artunç Caddesi, sedef apt No:74/c",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1261ea6d-2d44-4956-bbe6-84ce38b05ece,Meddle Coffee,CAFE,41.254082,32.677265,Sadri Artunç Cd. No:113,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3364f03f-ff5b-4a8d-8c80-1aab738b4b4b,Safrantat Butik Pasta Tasarım,CAFE,41.254074,32.6777,Sadri Artunç Cd. No:72,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+06ee9d5a-e595-4350-b098-2e1a4544d671,Prof. Dr. İbrahim Gümüşsuyu Parkı,SIGHT,41.254036,32.676594,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ed273f94-83ac-4460-ab6a-e354a740055b,Hamurx Ekstra Lezzetler,CAFE,41.253654,32.676792,Yeni mahalle Sadri artunç caddesi konak çarşısı 139 F Safranbolu yüzdükkanlar,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5b2c49ff-a14c-4c8c-8367-6a5455b87431,Sade Kahve,CAFE,41.2537,32.677902,Sadri Artunç Cad. Konak Çarşısı Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+58277ff1-45ff-4d22-804b-892029ce0835,DekoDizayn Sanatevi,SIGHT,41.253193,32.677261,Konak çarşısı No:49,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+744d3945-b5ca-468c-8d01-ed7923900ef2,Karadeniz Pide Salonu,RESTAURANT,41.253304,32.676785,Büklüm Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2c13b6ef-ee59-458a-81e0-5e733304ade4,Uludağ Kıraathanesi,CAFE,41.253269,32.677227,Yeni mah Feza sok Feza apt,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+790651d5-a170-42f7-8cfe-b53ecedecbfd,Safran Elektrik,RESTAURANT,41.253414,32.677109,Feza Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8be40c88-36a7-444f-bafe-a3451913df0c,Köylü Mehmet Ağa,CAFE,41.250481,32.674412,Ihlamur Sk. No:441,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cef230f5-573f-4839-9275-f2f8b357a372,Özkaynak Öğrenci Yaşam Merkezi,HOTEL,41.249096,32.671318,Esenyalı Sk. No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7704c43b-5828-4b0d-95aa-ef05bc3d4db9,Safranbolu Şehir Stadı,SIGHT,41.249607,32.671043,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ee5989b3-b6cb-4d81-a7f9-2b39edb6b9c9,Safranbolu İnci Pastanesi,CAFE,41.247696,32.674999,"Emek Mahallesi Muradiye Caddesi 31-27, Sefa Sk. NO:21",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+285286d8-3804-4b7e-bf80-724fef608da9,Komagene,RESTAURANT,41.244965,32.675804,"No:4, Saray Sk. No:4 No:2/B",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d2160971-1cbf-4502-87be-9c463001eafb,Safranbolu,SIGHT,41.244469,32.675388,Zafranbolu Eski Çarşı Kıranköy Cam Teras Safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5d35ddb1-0a83-4f55-870c-fce208edea9c,Kanyon Evleri,SIGHT,41.243191,32.67012,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b01d8ddf-12ab-4701-b173-7404cb0b1602,370 Hillside Site Yönetimi,HOTEL,41.240822,32.660591,118. Sokak 9,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+eabb1d3d-4563-42b3-915f-6878570538bd,Elit Market Bulak Yolu,SHOPPING,41.239445,32.663269,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+084601f9-f451-4ba3-9fa8-2a68d7b0565b,Kanyon Cafe & Restaurant,RESTAURANT,41.239758,32.663246,Bulak Yol Üzeri,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+de609474-633c-41c1-8803-6509782e8bc7,Kanyon Park Çelik Kemer Köprü,SIGHT,41.239811,32.664192,Beşbinevler,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+28d7be4a-b143-434d-85f6-5109e9ceea9e,Bulak Boğaz Köprüsü,SIGHT,41.241173,32.665741,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d2ce8cdf-a1b2-4623-97a3-05ac86e41c06,Sevgi Cafe,CAFE,41.242695,32.671658,Emek Mah,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+21b23174-350f-4bd9-b739-b85a4990b72a,Altın Safran İlkokulu Önü,SIGHT,41.243015,32.673126,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fae698f3-2625-487e-8bd6-fcc6e3921201,SAFRANBOLU Kervan Sarayı,RESTAURANT,41.242516,32.677189,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0f23576c-3e48-48d7-87b1-a52109cd5d21,Kanyon | Park Vadi Evleri |,SIGHT,41.239723,32.672207,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+dacfb908-bd46-4396-b693-4daa3e514806,Derekoy Dizdar Su Degirmeni,RESTAURANT,41.239342,32.687893,Dereköy Sokak No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+16480564-12c7-48d8-b25d-3e1894761a35,Gizli Cennet Taş Değirmen,RESTAURANT,41.239353,32.687965,Dere Hamam Sk. No:50,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7492371d-3006-4282-a7ed-b150a5985c1a,Safranbolu Gizli Cennet,SIGHT,41.239449,32.687775,safran,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8951c50c-a9ef-4e57-b9b6-bbc721bcacef,Manzara Konak,HOTEL,41.241596,32.693241,Mezarlık Sk. No:30,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f7c285f5-b14f-4078-a577-5840eb63dc82,Gunes Konak Otel Safranbolu,HOTEL,41.241692,32.693607,Mezarlık Sokak 30,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+df5391ec-e481-419c-84f5-637118446e82,Kazan ocağı yöresel yemekleri,RESTAURANT,41.241856,32.693798,Kasap Ali Sk. No:10,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d5991967-c879-4144-a843-51e17fbbb237,Turgut Reis Konak Otel,HOTEL,41.242012,32.692848,Akpınar sok No: 27,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1a4bd45f-67fc-4d8b-ba4e-37884fc800fb,Tarihi Tabakhane Kahve Evi,SIGHT,41.24231,32.690727,Aşağı Tanakhane,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+47a0a030-9e7b-48a2-bd38-83d4ee4ef140,Benan Konak Safranbolu,HOTEL,41.242722,32.692959,Karaali Mah. Akpınar Sok. No:16,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+c2d595ca-bb44-4184-9a9a-ad4a280bf458,Eski kuşhane,RESTAURANT,41.242619,32.692909,Akpınar sok no 32,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+82af5047-a727-49d6-8b80-f7ffcd5b9103,Süleyman Bey Konağı,HOTEL,41.242844,32.69294,Akpınar sok no:32/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+93151d3a-adb7-42ba-808f-46578ef58b85,Aşağı Tabakhane Köprüsü,SIGHT,41.242619,32.69099,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3c87293e-ca8f-4f7b-a29c-4097ca7f0717,800 Yıllık Tabakhane,SIGHT,41.242577,32.691029,Aşağı Tabakhane Sk. No:11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bbc81029-927d-43cf-a494-1ece2156b9ca,vanilyapastacafe,CAFE,41.242466,32.686523,Barış mahallesi Prof.Dr Necmettin Erbakan bulvarı Boğaziçi konutları 2.Etap14/2 Safranbolu Karabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2eaacbcd-6241-4d0b-90fb-b27cd5895a07,Ayğur Otelcilik,HOTEL,41.241894,32.68047,DİRLİK SOK NO:6,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d4d1a7f4-cebd-4a4e-b4e4-e80a0ab0aff4,ayrestaurantsafranbolu,RESTAURANT,41.242134,32.681637,Dirlik Sokak 6d,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f6498ee5-fd7d-44aa-b9e1-8c4e224e16c1,BK Safranbolu,RESTAURANT,41.243237,32.679096,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ba89390e-5e3b-44db-85b2-503593bdf596,Eymen Pansiyon,SIGHT,41.244415,32.685402,Barış Mahallesi Susam Sokak,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c2315d83-a0e9-4728-a602-bf5d2924ca72,Şehirkent,SIGHT,41.244553,32.683426,Adliye Arkasi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c9e7b4f5-32bd-41b7-aa32-2fbc98e1849c,Degirmenci Konak,HOTEL,41.24633,32.686092,Cambaz Sk. No:27,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2764fca5-dee7-4396-aeb8-5223cc8e6fd5,Paflagonyakonak,HOTEL,41.245846,32.683918,Baysal Çıkmazı Sok No:10,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+196f640d-ba71-4c36-8903-f692a2f2daae,Tarihi Saat Kulesi,SIGHT,41.246029,32.690445,Gümüş Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6b3746c3-8ac4-49d5-83ce-25f219eae2e1,Tayfun Talipoğlu Bam Teli Müzesi,SIGHT,41.246048,32.690208,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3691de40-c5e8-4941-8116-2a9e587dc7a8,Hafsa Sultan Konağı,HOTEL,41.246414,32.692352,"Kahveciler Konağı, Eczacı Hidayet Derman Sk. No: 7",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+95670bd3-3dfe-4636-ab24-e74c300b0f13,Arpacioglu Hotel,HOTEL,41.24641,32.692406,"No:16Kazdagli Meydani, Mescit Sk.",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9ef8b1c4-8dda-4bc3-b885-17277cff11bd,Selvili Kosk Hotel,HOTEL,41.24659,32.692165,Mescit Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+51d4c640-84d0-4aea-b736-e94a35ccf644,Karauzumler Konagi,HOTEL,41.246639,32.692307,Mescit Sk. No:20,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b753dac5-ce52-43eb-8df8-ee828e357885,Asmali Konak,HOTEL,41.246731,32.693325,Asmazlar Cd. No:13,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+377bfdd0-8ce7-4ef7-b490-81ec492a927f,Kahveciler Konagi,HOTEL,41.246159,32.692528,Eczacı Hidayet Derman Sk. No:7,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5ef17c05-d156-4792-83e4-1b526ebd8cf2,Tarihi Ata Konağı,HOTEL,41.246155,32.692314,District Mescit Street No: 5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f7d4d876-5975-4646-8b34-899422bbc87e,Efe Guest House,HOTEL,41.245602,32.693855,"Hasan Dede Sk. 8b D:41.2456317, 32.6939060",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d4dc43a8-76ad-4544-91ca-3688ccbc2695,İmren Lokum Konak Otel,HOTEL,41.245888,32.69252,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a94e7792-ac92-4a5a-a635-05953164231e,Akçe Konakları Otel,HOTEL,41.245773,32.69191,Hükümet Sk. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9bffcb11-629e-412b-a93c-6ff6a39aede9,Safranbolu Hukumet Konağı,SIGHT,41.245571,32.690613,Kalemeydanı Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+38adfe5a-b23f-4c74-87ea-fe5460281f7d,Saat Kuleleri Parkı,ACTIVITY,41.245468,32.690601,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+71d34b4b-a393-4043-b837-e4c2c5bbee77,Gülevi Safranbolu,HOTEL,41.245529,32.691437,Hükümet Sk. No:46,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c4ce9a6c-e020-424a-b571-2bed4bc8274e,Kolağası Konak,HOTEL,41.245556,32.691929,Hükümet Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+330006bb-8f97-40a8-92b6-ccfe07cbd68e,Gokgozoglu Pansiyon,HOTEL,41.245552,32.691845,Müftü Sk. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0e6fca37-94c4-427b-a140-52846b9daa34,Aquarius Cafe and Bar,CAFE,41.245499,32.691883,"Gülevi Hotel, Hükümet Sk. No:46",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c57a0e99-6860-4831-b462-3817441ef127,leyla hanım konağı - Standard Room,HOTEL,41.245197,32.690685,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c6d71a49-c44f-4059-8e61-27a0ff6db50c,Pasa Konagi Restaurant,HOTEL,41.24498,32.690979,Kale Altı Sk. No: 1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+77785694-5d68-4a31-be17-887275324ab8,Hanim Sultan,RESTAURANT,41.245148,32.692863,"Eczacı Hidayet Derman Sk. No:6, 78600",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2618a6b9-9c9f-4f8b-bb91-346b9cd3dd1d,Köprülü Et Lokantası,RESTAURANT,41.245174,32.692822,Eczacı Hidayet Derman Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+70893869-6dbe-488d-b736-ae02a6875ea5,Bikamode  Safranbolu,SHOPPING,41.245087,32.692432,YEMENİCİLER ARASTASI NO:1-34-35,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fa8d88d3-ac37-46e4-a534-589bfe55d5ea,Safran Cafe,CAFE,41.24535,32.692169,Fevzi Çakmak Caddesi 4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c355f153-2dcb-4521-9c9b-4d642085a24a,Kadıoğlu Şehzade Sofrası,RESTAURANT,41.245388,32.692329,8 Arasta Sok,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3e52c488-b3de-40c3-a051-342547277d0f,Arasna Cafe & Bar,RESTAURANT,41.245274,32.692596,Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+58a1ecf4-fa21-4010-b5a8-732e94d0d6c0,Safranbolu Peri Konak,HOTEL,41.245384,32.693996,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e11cb714-3b92-4de8-96a6-39466640d909,Cıngıllıoğlu Sanat Galerisi,SIGHT,41.245125,32.693645,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7df3f1ed-5e9c-4aa4-86d4-e3f639a0289e,Cıngıllıoğlu Sergi Salonu,SIGHT,41.245125,32.693645,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e9824c8b-329c-42cf-bf45-4539407f5505,Asmaaltı Kahvesi,CAFE,41.244984,32.693199,ak Sk no 18,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+55700ebe-b4dd-4e08-af25-5d45a1a23a50,Safranbolu Eski Çarşı Topçuoğlu,RESTAURANT,41.24506,32.693714,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5d55a770-c22d-4cdb-87a6-e93f055462d9,Atiş Butik Restaurant,RESTAURANT,41.244728,32.693947,Han arkası sokak No 34,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f9ff8b98-5c8c-444f-9aeb-ff30a4f139e4,Cinci Han,SIGHT,41.244728,32.693447,Cinci Han Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bfd86c8d-31e2-49ee-9540-3635d553374a,Kahvehan Safranbolu,CAFE,41.244873,32.693245,Akın Sokak no 13A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0e020077-21eb-43f9-b44a-762d5c2ea165,Topçuoğlu Et Restaurant,RESTAURANT,41.244865,32.693527,Cinci Han Sk. 17/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1943e0a5-c17d-461c-b655-f08eeae0cac5,Meshur Dönerci İsmail usta,RESTAURANT,41.244858,32.692917,Eczacı Hidayet Derman Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2ed9d0ae-11eb-4edb-b1f9-06a765b4578e,Ismail Usta Yaprak Döner,RESTAURANT,41.244854,32.692955,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1965da8e-9a7b-44b5-8966-374fa0065ca0,Safranbolu Tarihi Carsısı,SIGHT,41.244862,32.692833,Kalemeydanı Sokak,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ea906ec1-6db5-4340-afdb-b43cdf08524e,Arasta Kahvesi 1661,CAFE,41.24493,32.692436,Çeşme Mah.Arasta Sok.,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+00dc40b2-a22c-4ce6-8175-6bb6a801c359,Giygaşuk,CAFE,41.24482,32.692364,YEMENİCİLER ARASTASI NO:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f8aae8a6-3cea-4375-a00f-d821ab109b4d,Arasta Çarşısı,SIGHT,41.244736,32.692341,Arasta Arkası Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c07b284f-3372-47a6-a0dd-4e94b2fa80d2,Safran Baharat,CAFE,41.244686,32.693089,Cinci Han Sk. No:7/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b4833806-1e5c-498d-832e-e27165db1356,Safranbolu Cesmeli Konak,HOTEL,41.244373,32.69379,Mescit Sokak 1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+64f0b09e-f846-41fa-8d64-ec4eedd4d5d3,Saracoglu Coffee,CAFE,41.244362,32.693096,"Eski Çarşı, İzzet Paşa Sk.",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f92ecacd-74c0-4421-811d-68b2be166503,Seyir Konak Otel,HOTEL,41.244286,32.693111,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+faebb88a-fd1d-4536-ad3d-a2cb5a007189,Huseyin Bey Konagi,HOTEL,41.244328,32.693775,Hıdırlık Yokuşu Sokak 2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3e1351c5-91d3-4202-83d4-b3a290a1315d,Safranbolu Zencefil Yoresel Lezzetler,RESTAURANT,41.244312,32.693794,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+93e32d01-e0af-40cb-9f5f-ee242c4b7b85,Safranbolu Sofrası,RESTAURANT,41.244301,32.693913,"Eski Çarşı, Han Sokak 28/A",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+82f4686a-f237-4a8c-ba73-529422aa5275,Şehri Safran Köftecisi,RESTAURANT,41.244205,32.693752,Han Arkası Sokak No: 14/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+53b2aa7b-7aeb-4180-b458-de7627ba76b8,Kuşçu Han Otel,HOTEL,41.244175,32.693493,"14-1, galip benzek sit no",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ca5f409b-f320-4868-ae63-556ccc18cee6,Çizgi Cafe,CAFE,41.244194,32.692726,Arasta Arkası Sk. no 2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5f2ebf13-8a94-4170-ad49-cc0e7ae73d68,Kazanocagı,RESTAURANT,41.244129,32.692909,Kasaplar Sokak 19,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ec80488e-3046-496d-b82e-24c8cb0c4b48,Tarihi Demirciler Çarşısı,SIGHT,41.244053,32.693031,Celal Bayar Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aef1b598-8087-421d-9cbb-448c2b314cc8,Cezve sanat,CAFE,41.244106,32.692596,Yeni Pazar Sk. no:3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cd328f87-d92e-46b0-9469-14dec0b71caa,Bestami Gözleme Evi,RESTAURANT,41.244026,32.692196,Musalla Mah.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+426988db-d41e-4aba-9777-52d02550acbc,Bakırcılar Cafe,CAFE,41.244282,32.692398,Debbağ Pazarı Sk. No:8,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7172a055-fe92-482e-859b-23ec1f6dc5e3,Ehli Keyf Kafe,CAFE,41.24427,32.692616,Kasap Ali Sk. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a970bb48-74d4-4cf6-b20f-d0f7a026c9ba,Ebrar Deri El Sanatlari,CAFE,41.244415,32.692616,Saraçlar Sk. no:19,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f26ff9ee-d576-488c-81bb-13e9a2098d88,Güldalı Konak ve Butik Otel,HOTEL,41.244011,32.691818,"Çeşme Mahallesi Erkut Sokak, Eski Cami Sk. Yanı",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b6575fd6-2122-4d46-8e53-43f39667df59,Tabağ Ahmet Bey Konağı,HOTEL,41.244835,32.691319,Kara Üzüm Sk. No:3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8651934c-6249-4e85-8d98-9413c354849e,Safranbolu Konagi,HOTEL,41.244789,32.691887,Arasta Arkası Sk. No:11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+762b1bbd-ecc6-499f-ba5d-be9761e9c7f8,Meymune Valide Konagi,HOTEL,41.243946,32.68948,Akseki Sk. no:33,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c2ec515d-3b0f-447d-8cf9-5ac8829704f7,Taş Bahçe,CAFE,41.243904,32.692249,"Tarihi Demirciler Çarşısı, Tabakhane Yolunda, Debbağ Pazarı Sk. Demirciler Çarşısı No:26",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d20d4665-f1ce-44e6-893d-89c9c84502f7,Fincan Cafe,CAFE,41.243919,32.692307,Debbağ Pazarı Sk. 26-30,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+90bd6813-35f2-477e-a41b-bf0716a830cf,Safranbolu Seyir Konak Otel,HOTEL,41.243332,32.694004,Hıdırlık arkası sokak no:3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+41b14a0a-3972-4c13-b8e3-a2f7b3cee90e,Mahra Kahve Evi,CAFE,41.243519,32.693363,Guburoğlu Sk. No:10,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+79a16391-e355-44fc-a92a-08d37a123c53,Tuzcuhan Restaurant,RESTAURANT,41.243233,32.693188,Akpınar sokak no:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0c9aec2a-e4b3-49e6-9c4a-e22264548769,Safranbolu Hidirlik Hill,SIGHT,41.243687,32.69479,Hıdırlık Ykş. Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7fb862ce-e72b-4b8c-9b7a-814569a064fa,Ebrulu Konak,HOTEL,41.243904,32.694611,Hıdırlık Ykş. Sk. No:13,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9fd8e4ea-c0af-4ccf-9dfd-ff7541bc3675,Sabribey Konak-Cafe,RESTAURANT,41.243931,32.694916,Hıdırlık Sokak 10A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2464ffb9-e31e-47d1-b757-c41587f0e721,Hıdırlık Konakları,HOTEL,41.24374,32.696056,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+365b1eec-d475-4066-8e86-60771967d586,Yeni Konak Hotel Garden,HOTEL,41.244728,32.696968,"Tarihi Çarşı, Hanarası Sk. No : 44/2",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1505f29c-4bc9-47d1-a766-55f61976426e,Kaymakamlar Travel House,SIGHT,41.244061,32.694206,Hıdırlık Sk. no:6,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1ac11371-b48e-4138-8da3-2409ebff2660,SAfranBolu Kaymakamlar Müzesi,SIGHT,41.244061,32.694206,Hıdırlık Sokak 6,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fde205e5-e7e6-4bba-8b18-df1e5474e34d,Kaymakamlar Gezi Evi Cafe and Restaurant,RESTAURANT,41.244015,32.694267,"Kaymakamlar Muze Evi, Hıdırlık Yokuşu No: 6/2",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+75a558d8-d3eb-4689-9fd6-9bb904a22581,TaŞEv Sanat Ve ŞArapevİ,RESTAURANT,41.244179,32.694408,Hıdırlık Yokuşu Sokak 14,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+be06769f-08c4-44d4-aed2-06515c02520c,Hatice Hanım Konakları,HOTEL,41.244564,32.694183,Baba Sultan Mah. Naiptarla Sok. No:4 Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+518135a4-03a6-4999-add4-002e3bd119f3,Antepler Konaği,HOTEL,41.245094,32.694874,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+47dab5c8-1630-4313-a633-24745af681f2,Avcioglu Butik Otel,HOTEL,41.245434,32.69426,Celal Bayar Cd. No:19,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5e70acca-4bb4-445c-9e72-1955c113654b,Çakıroğlu Konak,HOTEL,41.245266,32.695534,Hamamönü Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a5220852-b033-4410-944d-7a52aab61219,Babahan Konakları,HOTEL,41.245083,32.697269,Şerbetçi Sk. No:9,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+34fda07e-c9fc-4153-9ff4-e4aff1e65a9f,Mustafa Bey Köşkü,SIGHT,41.245205,32.697166,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cd469bd4-bcfc-47d3-b57c-dd0d521d1485,Safranbolu,HOTEL,41.245403,32.696388,Dere Sk. 3a,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ebf74669-283e-4139-bb78-271e9cfdfee9,Beyzade Konakları,HOTEL,41.245544,32.697823,"No:, Eflani Sk. No:9",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+925fc880-c747-4a46-a0aa-0d7a75f58c32,Safranbolu Camlica Konagi Carsi Evi - Standard Room,HOTEL,41.245865,32.697411,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+717f6188-6b05-4e7f-b48f-ab4455265711,Safranbolu Mehmet Emin Efendi Konağı Butik Otel,HOTEL,41.245861,32.697002,ESKİ ÇARŞI AKÇASU MAH. DERE SOKAK NO:7 SAFRANBOLU/KARABÜK,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+68f24e1b-4d2f-48f2-831a-99ea8e41365e,Yıldız Konak Pension,HOTEL,41.24575,32.695946,Altuğ Sokak 16,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c5bd45b4-c566-4cd9-ae60-d95df50535a0,Arifbey Konak ve Otel,HOTEL,41.245445,32.69556,"Çavuş Mahallesi kaçak sokak No:3, eskiçarşı Safranbolu Merkez",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5c42729d-b8ca-4d80-88b5-187069bd10f8,Eyvan Yore,RESTAURANT,41.245583,32.695221,Altuğ Sokak No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2588693b-e067-41fc-a8b4-85b725ce7250,Kervan Konuk Evi Pansiyon,HOTEL,41.245472,32.694626,Celal Bayar Cd. No:21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5d50eb67-acd9-411a-9969-f937368ea299,Dadybra Konağı,HOTEL,41.246445,32.696705,Altuğ Sokak 16,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+10893f85-48dd-4651-bb3b-19988a56292d,Dadibra Konak Hotel,HOTEL,41.246483,32.696583,Altuğ Sokak No 21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+de005e01-da53-4af1-b936-9d86fb1ef552,Melek Hanım Konağı,HOTEL,41.246624,32.697239,Ulukavak Sk. no:4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8fd385c1-6189-4aac-8e96-45b476e7bbda,Ziyagiller Konağı,CAFE,41.245979,32.699879,Gökkuşağı Sokak 3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7277f5f9-6cca-411c-a6f5-6b39c3b5250c,Müfide Exclusive Hotel,HOTEL,41.243034,32.696712,Çavuş Mahallesi Celal Bayar Caddesi no:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a9ba2d8e-870a-43f7-8492-d6a7ac950c18,Safranbolu Eski Carsi: Address,SIGHT,41.242939,32.694313,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+65b37530-99a9-4e2c-8ef0-994848330276,Valide Gülşen Konağı,HOTEL,41.242836,32.694305,Kışlayanı Sk. No:21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7ff6e384-6b04-4c5d-b44f-b09b09c53a76,Safranbolu Uçak Altı,SIGHT,41.242279,32.695866,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1f7b42cb-57c6-48e7-992e-525aa9ce88fb,Ay ışığı cafe restaurant,CAFE,41.241989,32.694851,Mezarlık Arkası Sk. No:20,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+90353a3c-c5cd-4d2e-840a-816c39f77476,Özçelik Aile Pansiyonu,HOTEL,41.242012,32.694683,Mezarlık Arkası Sk. No:8,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+36f96fda-b9a5-4002-a474-ceaa19cf883b,Safranbolu Çikolata Müzesi,SIGHT,41.240723,32.701168,Celal Bayar Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f36b42a1-460e-4a43-a329-e2a15118c2eb,Kum Saati Konak & Cafe Mangal Evi,HOTEL,41.242439,32.717262,Çay Küme Evler 90,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cd777e69-82e9-48be-93c9-41727a684a2b,Yeşilçam Konak ve Restaurant,HOTEL,41.240704,32.730579,"Pirce Mevki, Köy Sk",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8aa440b1-b68d-4915-a1bb-7043fe721169,Doruk Konak,RESTAURANT,41.247662,32.736267,,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+61f3b389-cb58-4f27-9445-11f57d2fc1a8,Safranblue otel,HOTEL,41.25079,32.694221,Atatürk mahallesi sağlık Sokak no 40 Safranblue konaklama ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b3cb31a2-d233-4236-80e4-52e781887325,Asya Konak,HOTEL,41.247944,32.699551,uzunkir sok no 2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f45ef69d-9b5c-4ba1-b40a-5dc2f9ca1ee8,Şerbetçi Garden Konak,HOTEL,41.24712,32.698391,Akçasu Sk. No:29,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+56d4bbe2-429b-4241-b785-dee54711e8b3,Akcasukonak78,HOTEL,41.249271,32.699947,Akcasu Mh kaçak sk no 10 safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+920cdbf2-ecdf-42ed-8c04-91c5798f0158,Emiroğlu Konak,HOTEL,41.250034,32.688858,Dibanoz Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f618fcaa-39b3-421e-9d75-d92f71b58744,Adalar Cafe,CAFE,41.249416,32.686295,Okul Sokak 11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+db620a6c-5949-40b2-ae05-fb98e4131587,Çamlı Konak,HOTEL,41.249115,32.691891,Çelik Gülersoy Cd. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1bc4b532-d08c-49cd-b55c-b576e13d11c3,Dipsiz  GÖL Mekânı BAHÇE,RESTAURANT,41.249741,32.690933,"78600, Safranbolu, Karabük, Türkiye",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ee6a6299-a6aa-478b-934b-6f09a7e6f8d0,Safranbolu Beybağı Konak,HOTEL,41.249336,32.693485,Hilmi Bayramgil Sk. No:4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+52febc45-ae1e-4047-82fc-f3e32e9e9016,Lokum ve Safran Müzesi,SIGHT,41.249138,32.692535,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+68f4f593-2c9c-482e-9a0a-b9a515e6172e,Havuzlu Asmazlar Konağı,HOTEL,41.248779,32.69252,Beybağı Sk. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b8e2fe38-7b45-4b70-ae6b-7536e99b51fb,Akbulut Konak,HOTEL,41.247932,32.691154,Gümüş Sk. No:17,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+279b7cbe-63e7-4711-a20c-02c2d82c7b59,Küçük Asmazlar Butik Otel,HOTEL,41.247562,32.693466,çavuş mah. mimar sinan cad. küçük asmazlar konak no:18/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+67e810ab-a414-4a1d-a4fd-fd6aebf43175,Şen Pansiyon,HOTEL,41.247337,32.693527,Asmazlar Cd. No:20,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5b09444c-0c42-4687-a179-c8e4bb5d2fc1,Kale Altı İlkokulu,SIGHT,41.247116,32.693375,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e0358625-3ed7-4590-beb7-2c7085dda4d7,Huma Hatun Konaklari Hotel,HOTEL,41.247288,32.691273,Mescit Sk. No:29-37,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d17643b4-0371-4932-ab43-3d947cb211bd,Yıldız Konak,HOTEL,41.247177,32.691433,Mescit Sokak 33,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1775c197-ae68-47d8-8fb4-e93f8e777e4c,Mehveş Hanım Konağı,HOTEL,41.247047,32.692062,Mescit Sk. No: 30,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9f3fd154-ddd3-4a81-8299-a6c9decc20f5,Taşev Konağı Otel,HOTEL,41.247322,32.690956,"Hacı Halil mah. Gümüş Sok, Eski Çarşı No:5",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4c63b19c-fbbf-4e25-8e27-59ef5dad73b1,Kervansaray Konak,HOTEL,41.247383,32.691212,Mescit Sokak 46,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e64ba6ff-b918-4c87-9cb0-6381662ce454,Otel Konak Yedekçioğlu,HOTEL,41.247471,32.691299,Eski Çarşı Mevki Beybağı Sok. Safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+801c6cb4-fbba-4dcb-b603-6c7189f2230b,Mehmet Efendi Ottomon Garden Mansion,HOTEL,41.24765,32.691666,Beybağı Sk. No:6,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3aad4475-b1ab-4342-a471-7ff013ca0282,Muhsin Bey Konak Butik Otel,HOTEL,41.248627,32.685471,Cumhuriyet Cd. No:44,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+19b6394e-c994-49f6-bf5a-6a306d9f9f94,Hanımeli Kafeterya Yöresel Ev Yemekleri,RESTAURANT,41.248653,32.685822,Sadri Artuk Cad. Tuncer Apt. No:49/E,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d7780bb0-b048-4f8b-b8fa-d7b3d02cca74,Mutaflar Konagi,HOTEL,41.24852,32.685448,Baysal Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4256e9e1-c841-43bc-b568-3fd4914ffae3,Bırdane Konak,HOTEL,41.248539,32.68536,Baysal Sk. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+619fa3f7-0dbf-4937-9676-b4bff6728fe1,Hanköy Butik Otel Cafe,CAFE,41.248451,32.684898,"13, Baysal Sk.",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7f46f8be-def2-4770-8f75-421ed4252855,Safranbolu Celik Palas Hotel Restaurant,HOTEL,41.248749,32.683071,Arap Hacı Cd. No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3b876731-9a41-4687-8672-a9a19454c6f7,Egem Cafe Saf,CAFE,41.248737,32.682217,Emek Mahallesi Pasa Pinari Caddesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5f6e8146-1857-479d-98fa-a4641f1ef509,Döner Showroom,RESTAURANT,41.248608,32.682907,"Barış, Arap Hacı Cd.",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fa678f4f-8e93-4c05-ad1c-bc41f0b7ee4f,Köfteci İBO,RESTAURANT,41.248592,32.682751,No 9. Sokak,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c845f5f5-20dc-444a-b001-5be0032cca57,Sultan Saray Hotel,HOTEL,41.248497,32.682957,"No:, Arap Hacı Cd. No:2",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3a44045f-0b55-4264-8a84-9002229fe69d,Safran Pub,RESTAURANT,41.248444,32.682579,Sadri Artunç Cd. No:3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ff817d9c-786e-4ce1-bd6b-ca7e987bd325,UZ HOTEL,HOTEL,41.248394,32.683174,"Şımarık Avm Safranbolu, Adnan Menderes Bulvarı 4",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2f96e6c8-0f6a-47c3-b51d-3ef06db7cf30,Aydoganlar Cafe,CAFE,41.248089,32.68325,Zalifre Karsışı,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+65d98769-62de-49e1-b8df-52f9b394b852,Ali Ustanın Yeri,RESTAURANT,41.248173,32.68298,Arap Hacı Cd. No:10,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8558b662-c463-4531-87ac-280a08df1945,Pangea Pilav,RESTAURANT,41.248177,32.683052,Adnan Menderes Blv. Çizmeci İş Hanı No: 12/B,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+54d9b57a-96d0-4f5f-888a-cc00244d79ed,Simra Otel,HOTEL,41.247925,32.682434,Adnan Menderes Blv. no:17,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+545d49ef-d539-4cdc-a9be-54e6e8c55736,國父凱莫爾紀念館,SIGHT,41.247856,32.682819,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a03995ae-d7f1-4a2d-bb76-61d090273b96,Zalifre Hotel,HOTEL,41.247868,32.68285,Araphacı Sokak no:77/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f999d790-3957-471d-b02c-47907892fe4b,Nimet Hanım Konağı,HOTEL,41.248077,32.684509,"Barış Mahallesi Baysal Sokak, Baysal Çıkmazı No 6",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ac90a534-4987-46b1-b84d-10c970ffc48e,Yorgancıoğlu Konak OTEL,HOTEL,41.247982,32.685741,Ulu Camii Meydanı Sokak No:3 - 5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a2de0b8d-f1a1-4737-a08c-a6e189238d8d,Demirkapı Konak,HOTEL,41.247551,32.685673,Utku Sk. No:14,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5cb37883-3253-4a74-b77d-72201e6eeae6,蕃紅花古城,SIGHT,41.247807,32.682842,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+43c7c0b2-1bc9-4854-b49b-4d17705d8bdb,Burger King,RESTAURANT,41.247799,32.681499,Emek Mahallesi Adnan Menderes Bulvarı No: 9,Safranbolu,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+2f73818a-5292-44da-af02-73e3157d8331,Şimşirli Cami Aile Kabristanı Ulus,SIGHT,41.247051,32.68206,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5578df5a-1205-446d-870f-10ec5cbf511d,Gizli bahçe,CAFE,41.247143,32.679234,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+dbe6f215-84af-4c88-bfe5-215b6b1ea55b,Ünal Plaza,SIGHT,41.247913,32.68066,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2c3e0d13-f331-4d50-90b0-743fa444b844,Coffee Nook Boutique Safranbolu,CAFE,41.247864,32.680996,Gökyildiz Caddesi Cengiz Ünal Plaza Apartman No:2/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ab93b880-647b-44e8-b31e-3a406d8d1d34,Çınar İnşaat Res. Gıda Turz. San. Tic. Limited Şti.,RESTAURANT,41.247856,32.681458,Emek Ünal Office Center Adnan Menderes Bulvari No: 10/77,Safranbolu,CDLA-Permissive-2.0,Microsoft|Overture
+b8252811-a0bb-40dd-b427-83e4185926e0,PİZza Marzano,RESTAURANT,41.248039,32.681808,"ünal plaza, Adnan Menderes Blv. no:10",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f88c0679-eaf0-4543-ab1b-00ac5ff6bb98,Karadeniz Ekmek Fırını,CAFE,41.247959,32.681232,Av. Hulusi Yazıcıoğlu Cd,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b644915c-5f9b-47ef-8af4-4f8a0e820833,Tavuk Dünyası Safranbolu,RESTAURANT,41.248249,32.681751,Emek Mahallesi Adnan Menderes Bulvari No.10,Safranbolu,CDLA-Permissive-2.0,Microsoft|Overture
+d0a9e108-139d-4b3b-bacb-9d0aafb5762a,Eight Coffee Co.,CAFE,41.248199,32.681606,Adnan Menderes Blv. No:10,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+359869e6-0518-46a7-8715-a2cd11df836c,Doyum Pide Salonu,RESTAURANT,41.248398,32.682167,Adnan Menderes Blv.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fde86b18-eac5-48e1-83ae-ea37ed6487b1,Resume çiğköfte safranbolu,RESTAURANT,41.249611,32.679642,Avukat Hulusi Yazıcıoğlu Caddesi 2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1fc48a2d-72bd-4bde-8730-bc367be23a1b,Zeynel,CAFE,41.248905,32.683083,Adnan Menderes Blv.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+848b5386-50f2-4154-bca7-ca64c97845bf,Şımarık avm,SHOPPING,41.249195,32.682808,Adnan Menderes Blv.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+dc6c96e1-5217-4a59-9159-dc9445424469,Kova,RESTAURANT,41.248867,32.685436,"No:, Cumhuriyet Cd. No:36",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+27827282-3ad2-443f-99f5-f559ac97edb5,Canbaz Ekmek Fırını,CAFE,41.24889,32.685417,Cumhuriyet Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bab66a5d-9ca9-4a3b-9ddb-f214bae9f897,Pideci Mehmet Usta,RESTAURANT,41.249474,32.684635,Kaya Erdem Cd. No:32,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bab7b526-1a78-4619-b084-4cd7fd69a36a,Ruya Hotel,HOTEL,41.249474,32.684814,Cumhuriyet Cd. Rüya Otel No:15,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7946c90c-5aa0-49f5-a6fe-8dcbce5be0cb,Yıldız Fırını,CAFE,41.249424,32.685001,Cumhuriyet Caddesi 23,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aec3ce37-a931-46db-be06-025037873615,Guney Konak,HOTEL,41.249332,32.685646,Okul Sk. No:4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f017de4f-40f1-414f-9600-68c79d819def,Safranbolu Çorbacı Safran Lezzet Sofrasi,HOTEL,41.249641,32.683994,Atatürk Kaya Erdem Caddesi No:36,Safranbolu,CDLA-Permissive-2.0,Microsoft|Overture
+a590a184-7d90-46db-898a-4d4c7f99613e,Urfa Sofrası Safranbolu,RESTAURANT,41.249695,32.683342,Yeni mahalle Sadri Artunç Caddesi No:5,Safranbolu,CDLA-Permissive-2.0,Microsoft|Overture
+2c81a10b-7106-4ca5-abb0-cff7af4d06eb,Hacı Usta Urfa Mekanı,RESTAURANT,41.249672,32.683281,Sadri Artunç Cd. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ff994b65-de80-48ff-8997-9b29fd277702,Merkez Pide Salonu,RESTAURANT,41.249542,32.683708,Karabük Cad. No:42,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0194f1c3-767d-40ea-83c9-ff516d28f834,Hacıbaba Dürümce,RESTAURANT,41.249599,32.683689,Atatürk Mah. Kaya Erdem Caddesi No: 42/A Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+18f1812d-7f3a-47da-9338-beeeb9414f80,Hacı Erol,RESTAURANT,41.24958,32.683804,Çelik Gülersoy Cd. No:40,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1a4f831c-6495-4796-bfd1-902862be865a,Tarihi Safranbolu Simitçisi,RESTAURANT,41.249554,32.684132,Çelik Gülersoy Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+381d1ce6-84fd-4dc9-9116-45c00285af1c,Safranbolu Pilavcısı,RESTAURANT,41.249409,32.683781,"Safranbolu Noterliği, Kaya Erdem Cd. No:33/A Altı",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+27b821c2-8c1f-4b5d-b1ef-18e4573dea69,Safranbolu Kebapçılar,RESTAURANT,41.249496,32.683601,Çelik Gülersoy Cd. No:42,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6afe8509-2c64-416e-9ffd-90794800f1bd,Safranbolu Urfa Kebap Evi,RESTAURANT,41.249538,32.683056,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3f07cd8b-920d-479b-8978-0fb3a466a1bd,Cafe-in İnternet ve Oyun Salonu,CAFE,41.250023,32.682201,Sadri Artunç Caddesi 4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d737a0e2-0f53-4b06-885c-742f3a0b20c9,Umut İnternet,CAFE,41.250053,32.682735,"Atatürk Mahallesi Sadri Artunç Caddesi Kaya iş merkezi, no : 12-13-14 safranbolu karabük",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0933c543-3887-48ba-97f9-9f23d85e15b8,Lider Balıkçılık,RESTAURANT,41.249832,32.683571,Çelik Gülersoy Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c158fc42-58a7-4c35-8003-318b5f359d19,Murat Pastanesi,CAFE,41.249752,32.683384,"ana ismerkezi, Sadri Artunç Cd. No:2",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7373d56f-be19-42c2-b6e2-639e93ef085a,Otel Uslu,HOTEL,41.249775,32.684174,Bağlar Cd. No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8a524ed4-198b-4438-afbb-f34da2c3d2e5,Sefa Pension,HOTEL,41.249886,32.684864,Kaya Erdem Cd. No:23,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+203a7a92-e211-4c0d-9cc7-ed7b5772ac26,Safran Pansiyon,HOTEL,41.249886,32.684864,Kaya Erdem Caddesi 21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+391a2be8-78d9-43d2-82ce-47df19e063b6,Safran Pansiyon,HOTEL,41.249886,32.684864,Kaya Erdem Caddesi 21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1c263752-54ca-47fe-bb81-4aad940b1cf2,Çorba Diyarı,RESTAURANT,41.249916,32.684704,Çelik Gülersoy Cd. No:28,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d925a16d-a8cf-4d70-8e5b-10d0537dad30,Kardelen Konakları Safranbolu,HOTEL,41.249886,32.684994,"Kirankoy, Kaya Erdem Caddesi No:21",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+739996e8-de11-47e1-8bcd-74c52c1853c3,Lezzet Lokantası,RESTAURANT,41.250008,32.684193,Bağlar Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f5755518-ec44-456e-a700-ffa02404cdfb,Kirimli Otel,HOTEL,41.25034,32.685398,Sağlık Sk. No:2/4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c24e8169-fc0b-443d-b3f4-2aec25ed1528,Boğaçhan Mangal Balık ve Köfte,RESTAURANT,41.250481,32.682816,Atatürk Bulvarı 29,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+690c5fe3-80b1-43b4-9e1c-59f422afbec3,By Başkan Otel,HOTEL,41.250607,32.682945,İ. Hakkı Özkan Sk. No:31/2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8361ff7d-6825-46f5-abaa-3ffbe3950703,Safran Resort Otel,HOTEL,41.250607,32.682941,İ. Hakkı Özcan Sokak No:31,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f6dd011c-c5ac-47a5-9f96-d32d962cee61,Alisa Pastanesi,CAFE,41.250702,32.682941,İsmail Hakkı Özkan Sokak 29,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7ef8fc9e-5b9e-4286-b280-df078066f182,inci otel,HOTEL,41.250706,32.682491,ataturk mahallesi ismail hakkı özkan sok. no :33 safranbolu karabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ad375816-1e76-4019-afc4-014640413191,Safranbolu Barış Manço Parkı,SIGHT,41.250652,32.680313,Sağlık Cd. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5825c0ce-d19e-464e-9eff-1375cd002ae8,Çınaraltı Çorba Salonu,RESTAURANT,41.250294,32.681774,Yenimahalle Mahallesi Avukat Hulusi Yazıcıoğlu Caddesi No:1 Yenimahalle Mahallesi Avukat Hulusi Yazıcıoğlu Caddesi No:1 RAMAZANOĞLU İŞHANI,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9cf372a5-5867-4047-9646-c5a57a369533,Za'feran Cafe Restoran,RESTAURANT,41.250214,32.681656,Avukat Hulusi Yazıcıoğlu Caddesi 1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+38b359b6-4fc9-45b0-9224-ba72901ed0f6,Aliyehanım köy evi,RESTAURANT,41.249855,32.681587,"Safranbolu, Karabük, Türkiye",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7842e4e1-5e53-4b98-bd12-417cf4758f83,ANNE ELİ,RESTAURANT,41.249889,32.681545,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+208e3a93-4409-4c24-91a7-1b7108be2523,Düğmeci Ahmet,SHOPPING,41.250515,32.678432,Sadri Artunç Caddesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+dd73abd3-08f1-4c1b-9c2a-d27b73b7cd7f,Firunda,RESTAURANT,41.250828,32.680668,Kardeş Kazan Cad No:5/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8a9c5871-08c8-4d9b-86ea-4bfbda8c76db,Anneeli Ev Yemekleri,RESTAURANT,41.25079,32.680882,Sadri Artunç Cad Hikmet Namal Çarsisi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+074811bc-f1de-4cab-a771-91406272b1d2,Kuzey Pasta Patisserie,CAFE,41.251141,32.680965,Sadri Artunç Cd. No:33,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b72cdd1c-e378-44bd-a2d7-f245b7c419ab,The Globe Bakery Safranbolu,CAFE,41.251011,32.681042,Sadri Artunç Cd. No:23 D:A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e611e6a4-3815-4a4d-8486-4a67a0596041,Safranbolu Serince çiğ köfte,RESTAURANT,41.251236,32.681736,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+880353d7-5f77-46c9-94a2-a51af6bdb182,Safranbolu Karanfil Cafe Restaurant,RESTAURANT,41.251316,32.68206,Sadri Artunç Cd. No:28,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+81dbce76-6077-435a-a6fd-af9363073441,boss cafe,CAFE,41.251553,32.680923,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1ce1d88a-a371-498c-8e8a-f0456afea39f,Toros Dondurma,CAFE,41.251637,32.680344,Sadri Artunç Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2f9c4815-3098-489c-bdf6-b74b77624150,Mersin Tantuni,RESTAURANT,41.251842,32.680141,Sadri Artunç Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9a69ad54-cee8-44e1-86c7-64c2c7a91447,xl döner,RESTAURANT,41.251972,32.680016,Sadri Artunç Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9db7ca6e-8b94-41b7-acde-bbe03d407ff9,Kılcıoğlu Safranbolu Pita,RESTAURANT,41.25211,32.680168,Sadri Artunç Cd. No:38,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d61efbec-936d-46e3-b6ad-79af19d43fa7,Mertcan Fastfood,RESTAURANT,41.252113,32.679642,"SADRİ ARTUNÇ CAD KIRANKÖY, Sadri Artunç Cd. No:53",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+acd77ac9-d97f-4c03-ac73-e0e98dad52c9,Safranbolu Çiğköfte ve Tadonda Çiğköfte,RESTAURANT,41.252544,32.679173,Sadri Artunç Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+13ee89f4-be63-474c-8b9c-04557e3589c2,Pasaport Pizza,RESTAURANT,41.252438,32.679432,Sadri Artunç Caddesi Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+bb439123-0371-4969-aab0-e063927bb234,SafranboluGastronom,CAFE,41.252415,32.679817,Sadri Artunç Caddesi 50,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e1491357-46a2-413d-851d-271930e00a00,Tadım börek evi,CAFE,41.25235,32.67992,Sadri Artunç Cd. No:44,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e3a4e65e-bd17-4487-aa08-09004344b9cc,Gültekin Kız Öğrenci Yurdu,HOTEL,41.252377,32.67944,Sadri Artunç Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e3da7dcf-33f0-401f-bf42-6a2f7283f579,Aydın Pide & Kebap Salonu,RESTAURANT,41.252174,32.679638,Sadri Artunç Cd. Tuncer Apt. No:49,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5d3dfda5-ccde-48d0-8671-e761c4522667,Meshur Adiyaman Cig Kofte,RESTAURANT,41.251957,32.681404,Atatürk Blv. Demet Apt No:10/C,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9b19d778-9479-4013-a54f-01dde04f0df4,Sıcak soğuk cafe restoran,CAFE,41.252113,32.680305,"Şok Safranbolu Mağazası, Sadri Artunç Caddesi 34/A",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+744ac1fa-bd90-49a7-9a6b-86dcbd1cd85f,Meydan Çay Bahçesi,CAFE,41.251846,32.681686,"Yıldız Moda Evi, Sadri Artunç Caddesi 42",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+80ba4f28-2e08-415e-a865-6f641e7f564f,Has İpek Emin Eller Unlu Mamülleri,CAFE,41.25172,32.6833,"Hacettepe Eczanesi Yanı, Akter Sk. Birlik Apt",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b4255b93-ed38-4123-8938-31b8e15f0088,Saffronia 1900 Konak Otel,HOTEL,41.25071,32.685837,Kaya Erdem Cd. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+70eb7501-d997-4ae1-a17c-c9b33241e3e4,Safranbolu Eski Carsi: Address,SIGHT,41.251591,32.689342,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bda3e4d4-8149-4096-8077-b3f6978627dd,Tunaboylu Konak Hotel,HOTEL,41.250889,32.68919,Dibanoz Sokak 5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ce3bbb97-9e35-49c8-9a33-4aebbe53c36b,Şadiye Hanım Konağı,HOTEL,41.252609,32.688919,Safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f3a978d5-b673-4790-8e25-5a15304e08e7,Akyeri Konak Safranbolu,CAFE,41.251789,32.688961,Fesleğen Sokak 1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+41dd9068-bcdc-48bb-94a2-67fcbddcbf4c,Başkent Çorbacısı,RESTAURANT,41.252968,32.682705,Bağlar Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e3111978-5d77-4760-b6db-d6b54bc2ea6c,Ova Ekmek Fırını,CAFE,41.25341,32.681019,Elif Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b08f985b-2266-4c92-b719-cd22fa0d15ad,Ova Kız Öğrenci Yurdu,HOTEL,41.253296,32.681122,"merkez park karşısı, Kızıltan Ulukavak Caddesi, Elif Sk. No:4",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ef3fe3aa-df14-4887-b0c4-072b8c157902,Mihra Kır Bahçesi,RESTAURANT,41.252815,32.680454,"Hüseyin Çelebi mahallesi, kaya erdem caddesi. ",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a79d1c26-bb42-43fa-b128-d184f94a79c1,Safranbolu Love You,HOTEL,41.252834,32.68045,Karabük Safranbolu Alören Köyü,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4b487076-b379-4497-be21-764e46eb47dd,Tarihi cinci hamamı,RESTAURANT,41.252838,32.680454,"Safranbolu, Karabük, Türkiye",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+91b047cd-a1da-4796-93d7-085f401c595e,Ozel Haci Durmus Kabadayı Kız ogrenci Yurdu,HOTEL,41.252857,32.680439,Tepe Sokak 3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+eb03a86f-038e-4829-b1f4-b15cc6b1b491,SAFRANBOLU,SIGHT,41.252853,32.680439,Karabük-Safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cf6337df-23c7-47c9-ac27-3383b1dd5ceb,Abisin Cafe,CAFE,41.252644,32.678993,Abisinin Cafe,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a2e5a108-a488-421b-9fdc-591a00eb053f,Bolulu Hasan Usta,CAFE,41.252964,32.678593,Sadri Artunç Cd. No: 11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3b59773b-f3c8-485f-ae33-868f0322f959,MADO Karabük Safranbolu,RESTAURANT,41.25296,32.679111,Sadri Artunç Cd. No:52/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8708a3d7-308b-4694-b106-0870ed481003,Dayı Kürek Lahmacun,RESTAURANT,41.253181,32.678673,Sadri Artunç Cd. No: 54/4,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+80a7659d-72bf-40b1-8f93-9064dd2974fa,Kaymak Dondurma,CAFE,41.253231,32.678364,Sadri Artunç Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d1952693-b885-4fb7-9c3b-b0490387afa9,Safranbolu Mabella,CAFE,41.253143,32.678783,Eğitimciler Cd. No:3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a805d45c-88c6-429b-b41e-16ee4d94af06,Safranbolu Sunal Tülbentçi Öğretmenevi,HOTEL,41.255562,32.67841,Posta Sokak 8,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fe123f13-b9af-43e2-8ebf-3fab5d0973d4,Cam Alti Cafe,CAFE,41.255985,32.678734,"Sadri Artunç cad, Posta Sk. No:4",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+de816be7-0d19-4f88-8c0b-1e9735eca4cf,Dörteller Konakları,HOTEL,41.258202,32.679569,Özgür Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ffba8694-c6bf-47d0-bb81-b07b56f88744,Elit Park Evleri,HOTEL,41.259583,32.682831,Asagi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b04023ac-5d78-406f-b57c-5603cbf4ee31,Gezgenler Unlu Mamüller,CAFE,41.259182,32.679508,Dibekönü Cd. No: 4/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d32d3945-da8f-45e9-8042-80ab04a02b19,Havuzlu Kosk Restaurant,RESTAURANT,41.260532,32.678528,Dibekönü Cd. No:32,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+66485270-41ec-4989-b70b-084dc874cf79,Emirkent,HOTEL,41.262039,32.681973,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+be84cb36-1e3b-42f3-add1-40cfe616a94c,Aşağı Tokatlı Demir Köprü,SIGHT,41.266621,32.685162,Aşağı Tokatlı Mahallesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c4249454-cf2c-4170-86a2-0cebe5bb7590,Yalçın Panaroma Evleri,SIGHT,41.267708,32.679928,Çiftlik Cd. No:29,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a52f540b-ff88-41c3-9383-3b5251259e6c,Konarı Değirmen Balık Evi,RESTAURANT,41.235081,32.786232,Konarı Köyü,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cd7d70ce-a39e-461a-b290-14eb8d2b5a5d,Taş Köprü Değirmen Kuzeyli Balık Evi,RESTAURANT,41.235043,32.786198,konarı,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+8603c044-8a69-4dba-9775-cb44ce065783,Konak Kiraathanesi,CAFE,41.231419,32.781746,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ba4c829c-c964-4b1d-9154-e2d0ee9f8cf9,Degirmen Restaurant & Cafe Safranbolu,CAFE,41.230129,32.764038,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e254db8f-6fea-4dc4-8b48-ff8d3cdc908c,Yazıköy değirmen restorant,RESTAURANT,41.230057,32.764061,yazıköy safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0116e96d-22bc-4051-92d6-f042b60e5f8a,Tarihi Değirmen Restoran,RESTAURANT,41.229729,32.763779,"Mağara Deresi, D:222",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d97e8c2e-83d4-4592-a4e4-b7b1eb5c5b96,Konak Bindallı,HOTEL,41.237762,32.742275,"Çoban Mahallesi, No.32",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+67f778eb-9f0c-4c0f-997f-79c27bfd7ff6,Mangal başı köy sofrası,RESTAURANT,41.238281,32.739265,yazıköy,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1405f76e-0e26-448f-aff1-170d7d3ed0b1,SafranboluHavuzluVilla,HOTEL,41.235806,32.739105,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8c82d014-0e0a-4204-ad12-6e42eb10f2ac,KYK - İsmail Necati Efendi Yurdu,HOTEL,41.225159,32.7159,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2a23ffcf-6bd0-4236-bdc4-56078c4047e8,Karabük Erkek Yurdu,HOTEL,41.22076,32.691956,Bostanbükü Mevkii Yunus Emre Mahallesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+fccbddbb-aa90-4b9b-874c-3aa5cebebeee,Karabük Ceylan Erkek Öğrenci yurdu,HOTEL,41.220264,32.692734,Kastamonu Yolu Caddesi Bahçelievler Mahallesi 76/3 ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a682b79c-e506-491b-9217-8fd272711263,سكن العلم الجامعي - Bilim Yurdu,HOTEL,41.217373,32.682724,"Kastamonu Karabük Yanyolu, 78610 Bostanbükü/Safranbolu/Safranbolu/Karabük, Turkey",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+92cc456b-c7bd-42e8-afe1-91facf84289e,Han Cafe,CAFE,41.217846,32.68338,Kastamonu Karabük Yolu No:42,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f824544a-f374-4429-933c-0789327d9c25,Ege Resort Hotel,HOTEL,41.217587,32.678608,"Ege Resort Otel, Barış, 78610 D:NO 23, Kastamonu Yolu D:NO 23",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1a973ca3-8115-4c34-9e16-fb9740ba8af9,Çamlıca Konağı Safranbolu Sayfası 善乐家民宿- 萨夫兰博卢,HOTEL,41.217331,32.678772,Bağlarbaşı Mahallesi Mencilis Mağara Sokak No 115 ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3d819458-91a2-4ab1-b15e-651ce5a05d77,Safrani Lokumlari,CAFE,41.219788,32.707748," Safranbolu Sanayi Sitesi 18.Cadde S Blok No:6 Karıt Köyü, 78000 Safranbolu",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+35d364a3-3636-4613-b0ac-ecee88edc09a,Cafe Lusnika,RESTAURANT,41.215675,32.687691,Bostanbükü köyü Kastamonu yolu üzeri gulf akaryakıt istasyonu karşısı ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1f8b2b65-e51f-4cfd-956d-816bac0ce86c,Başköşe Izgara Lahmacun,RESTAURANT,41.215672,32.681427,Bahçelievler Mevkii Karabük Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ec633be6-0523-43bd-b9a3-cd06e321fded,Katip Çelebi Kız Öğrenci Yurdu,HOTEL,41.215462,32.681503,Bahçelievler Mevkii 32/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c2467066-2403-4bf0-8d0e-893490ace3d4,Safranbolu Taşköprü,SIGHT,41.216133,32.725304,Taşköprü,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2b8083e9-7b68-4bd9-b68d-898c66c68c27,Çevrikköprü kılıçhomes,CAFE,41.212605,32.769104,"Karabük, Türkiye",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b43971f8-a7f9-493e-aeaa-776398e63d24,Lokum Tadında Bir Mola ''Lati'',RESTAURANT,41.215347,32.763252,kastamonu yolu üzeri çevrikköprü mevki,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f7a2467a-fe80-4c6a-b766-ea46ca1d3a8d,Mavi Jeans Safranpark,SHOPPING,41.215866,32.760765,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0a713f8d-0eec-41fa-8d75-4aa5ae69b496,Safir Garden Çevrikköprü,RESTAURANT,41.217751,32.744556,Karabük Kastamonu Yol,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9e7bdca3-2d22-4a95-af63-13997e11cfe2,Urfa Sofrası,RESTAURANT,41.217949,32.74464,"Buyruk-Karabük, Kastamonu Yolu Caddesi 4",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+10ff0b42-b25a-432e-bb89-720a424091c4,Hancı Cafe&Konaklama,HOTEL,41.217304,32.765408,"KASTAMONU YOLU 8.KM ÇEVRİKÖPRÜ MEVKİİ SAFRANPARK AVM YAKINI, 78100",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7f51548e-64ce-4950-9c39-7a10782c5049,Abidik Gubidik,SHOPPING,41.216774,32.761196,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e3cc0433-bb7e-48bc-a188-72aeeebf77a4,Safranpark,SHOPPING,41.216881,32.76067,Yazıköy Çay mevkii köy sk53/3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c043ac4e-7e67-45cb-9fa8-5d7a065a1a2f,Yavuz Tekstil Fabrika Satış Mağazası,SHOPPING,41.216534,32.759686,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7f862e6a-df06-47cc-997c-f93201982139,Safranbolu Mola Restaurant,RESTAURANT,41.216442,32.763557,Çevrikköprü Mevkii,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+af75a60f-4e03-4cc6-9d45-157813a92526,Çevrikköprü Park / Mangal keyfi,RESTAURANT,41.216526,32.765537,"Saglık Pıde, Alpaslan Caddesi 4D",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f1c1256f-6ac8-4f71-a3fe-9db670257fd2,Safranbolu Kadiefendi Restaurant,RESTAURANT,41.21664,32.765846,Kastamonu yolu üzeri.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+18b4d686-851b-46b9-821c-a8eacc0f9e5b,Dipsiz  GÖL Mekânı BAHÇE,RESTAURANT,41.220642,32.783253,"78600, Safranbolu, Karabük, Türkiye",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5327199d-bbb5-4e33-9691-eced056e3b55,Efsane Konari Golu Restaurant,RESTAURANT,41.220406,32.783337,Kastamonu Yolu Üzeri Mevkii No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+92d1f7af-75a0-4ed0-afa7-41852cbbac07,Paphlagonia Yoruk Mansion - Paflagonya Yörük Konak,HOTEL,41.223076,32.79599,Yörük Köyü No:53,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+86469380-4e19-43fc-b6d9-a2be181a6303,Meşhur Filiz Teyzenin Yeri,RESTAURANT,41.222603,32.799294,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+844e5a7a-e2d9-4053-bd9a-8a23069562d2,Yörük Evi,HOTEL,41.222672,32.79874,"Avcıoğlu Butik Otel, Hamam Önü Caddesi 19",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+5760e2ab-8053-4f55-bd92-e3363ea90ddc,Yörük Sofrası,RESTAURANT,41.222626,32.798431,Ulusoy Cd,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+eef4ff91-ba99-49cd-a525-df7484821f40,Sucu Hafız Gezi Evi,SIGHT,41.223503,32.799709,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+739a2f7e-05a3-4ce7-971c-3726a6b256a7,M Et In,RESTAURANT,41.211582,32.793636,M-et-i̇n Restoran,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+18979fd8-ca70-43a8-ad6d-b00cee7455ae,Asiye Hatun Kiz Ogrenci Yurdu,HOTEL,41.204201,32.660297,Karabük univ.kampüs içi no 11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+97cf2c49-45e6-4547-ae64-d19cac75e831,Güven Köşk İşkembe Salonu,RESTAURANT,41.206936,32.638355,"Atatürk bulvarı,Kardemir girişi",Karabük,CDLA-Permissive-2.0,Overture|meta
+71c53890-a638-4b23-8964-77c2aaa58ff2,ÇİĞ KÖFte Evİ,RESTAURANT,41.207069,32.62653,100.YIL,Karabük,CDLA-Permissive-2.0,Overture|meta
+71a52c5c-7f55-4493-a703-1e927da16b53,Safranbolu Kanyon Otel,HOTEL,41.207054,32.626549,,Karabük,CDLA-Permissive-2.0,Overture|meta
+399909e6-402c-4aef-87c5-ebd60f8c3008,PİDELİNE100.yil,RESTAURANT,41.207081,32.62653,1002. Cadde,Karabük,CDLA-Permissive-2.0,Overture|meta
+ac20b6c2-7114-48a5-83d7-4c6d948da3ac,Gul Cafe and Restaurant,RESTAURANT,41.208328,32.620647,Şahinbey Cd No:1,Karabük,CDLA-Permissive-2.0,Overture|meta
+4be1449d-c875-409c-b335-5c9f1046a0bc,Kahveland,CAFE,41.206158,32.620598,Nilüfer Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta
+25a9f9ef-27d0-46f5-9393-f0ae9c4675ef,Chocoville,CAFE,41.205971,32.620583,"Kulepark, Nilüfer Sk. No:2 Z02",Karabük,CDLA-Permissive-2.0,Overture|meta
+35ea9d57-0522-4c2d-bfc3-83fac3584700,SOZBIR  (Kule park),SIGHT,41.205513,32.620918,,Karabük,CDLA-Permissive-2.0,Overture|meta
+e23df64b-d65a-4307-816c-6e043205438e,Esentepe SEVDE EV Yemekleri,RESTAURANT,41.205338,32.626431,Taşkent Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+2941ea32-74c3-495a-9206-fc4920db24b0,Ozcan Pastanesi Esentepe Karabuk,CAFE,41.205643,32.626511,Taşkent Cd. No:70,Karabük,CDLA-Permissive-2.0,Overture|meta
+41338e30-4065-47ea-9cd3-0f962bf81076,Pasta Dünyası,CAFE,41.205662,32.626495,Taşkent Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+e8e011c5-da16-4d43-8e67-2e7ae2828f97,Cadde restorant,RESTAURANT,41.205677,32.626568,Taşkent Cd. No:72,Karabük,CDLA-Permissive-2.0,Overture|meta
+6676e28b-b175-42c0-afce-b9e885f2d4c0,Filis Pastanesi,CAFE,41.206345,32.626648,Taşkent Cd. No:80,Karabük,CDLA-Permissive-2.0,Overture|meta
+f54c000d-50e8-4ee6-a833-f8c731ef6cdb,Çevrikköprü,RESTAURANT,41.206226,32.625717,Hamamonu Sok 1 Carsi,Karabük,CDLA-Permissive-2.0,Overture|meta
+b267b05a-6b00-4075-a30c-37df93e951ef,Esentepe Boğaz Köprüsü,SIGHT,41.206242,32.62603,,Karabük,CDLA-Permissive-2.0,Overture|meta
+6ae1afa6-acb0-4193-93b8-dec673f0d5cc,Öz Karadeniz Yufka,CAFE,41.206253,32.62664,Taşkent Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+3286deac-915a-4a5c-a17b-d7134beaf54e,GÜNEY restaurant&cafe,CAFE,41.205971,32.626926,Taşkent Caddesi 66/b,Karabük,CDLA-Permissive-2.0,Overture|meta
+baf528d0-1542-4d46-be4d-a22821faf173,Karabük Kız Yurdu Bahtiyar Kökemli,HOTEL,41.203793,32.630619,Karabük Yeşil Mah. Mevki.Eski Kamu Hastaneler Birliği Yanı,Karabük,CDLA-Permissive-2.0,Overture|meta
+27de8d0e-e1e5-47fa-95d7-ee80ce498936,Karabük Öğretmenevi,HOTEL,41.203209,32.62711,Özgür Sokak 1,Karabük,CDLA-Permissive-2.0,Overture|meta
+6baa9efb-4aa5-4659-8f32-f1bf175849aa,Komagene,RESTAURANT,41.203934,32.626438,Taşkent Cd. No:42,Karabük,CDLA-Permissive-2.0,Overture|meta
+36a7e5e8-0d80-4121-94e5-50ca13375209,Karabük Ata Ekmek Fırını,RESTAURANT,41.204292,32.626461,Yeşilmahalle Şehit Mehmet Esen Sokak 2/B Esentepe,Karabük,CDLA-Permissive-2.0,Microsoft|Overture
+5533e5ac-e80e-4d6b-8cef-9baf2fec165c,DÇMD,CAFE,41.202686,32.618229,"Yenişehir Mahallesi Necatibey Caddesi, Çehreli Sk. No:1",Karabük,CDLA-Permissive-2.0,Overture|meta
+292002c4-f243-484e-b901-ad2987db7c22,Buyuk Kulup,RESTAURANT,41.201912,32.616398,Çamlık Cd. No:2,Karabük,CDLA-Permissive-2.0,Overture|meta
+b92ed99b-bc2d-47dd-82af-96e29f213349,Taşkent KYK Öğrenci Yurdu,HOTEL,41.201607,32.625648,Yeşil Mah,Karabük,CDLA-Permissive-2.0,Overture|meta
+f9ce3a0a-12e4-4d1f-8aa2-59dd0ae2ff76,Kaleli Lahmacun,RESTAURANT,41.201813,32.624565,Safir Sokak 8,Karabük,CDLA-Permissive-2.0,Overture|meta
+d52d037f-aaf3-4b46-9aa0-70acd32bedbc,Kokoreççi Hüseyin Usta,RESTAURANT,41.202045,32.624611,SAFİR SOK 3 NİSAN PARK EVLERİ B BLOK NO:38,Karabük,CDLA-Permissive-2.0,Overture|meta
+857a164e-2a08-486f-b797-760a37e8c3da,Barbu Lezzetleri,RESTAURANT,41.202099,32.624252,"Ergenekon Fidanlık Sok. 3, Nisan Park Konutları No:3",Karabük,CDLA-Permissive-2.0,Overture|meta
+bcb1085f-fbac-40b8-beca-a81d7d3f9c37,Germia Coffee,CAFE,41.202198,32.624252,Ergenekon Mah. Safir Sok. 3 Nisan Park Evleri F/B Karabük/Merkez,Karabük,CDLA-Permissive-2.0,Overture|meta
+1caf18f5-8f6f-44b3-80c4-bca0d985c08b,Baklabostan Tabiat Parkı,SIGHT,41.202705,32.626957,"Baklabostan Mevki, Başköy",Karabük,CDLA-Permissive-2.0,Overture|meta
+44e6642e-f800-45b2-8288-125e26b66113,Yeşilmahalle Piri Reis Sokak,SIGHT,41.201736,32.628067,,Karabük,CDLA-Permissive-2.0,Overture|meta
+4242f9cd-ceaf-454b-a6e3-ab07458ca899,Yavuz Market,SHOPPING,41.201591,32.62833,"YAVUZ MARKET, Atatürk Blv. No:27 D:C",Karabük,CDLA-Permissive-2.0,Overture|meta
+80d02cf8-03a1-4868-bc10-9a46a1a5803e,Karabük Şehir Parkı,SIGHT,41.199821,32.625111,,Karabük,CDLA-Permissive-2.0,Overture|meta
+ee0aa0b4-ca29-468b-8a2f-6b6073558661,Karabük Millet Bahçesi,SIGHT,41.200005,32.624969,,Karabük,CDLA-Permissive-2.0,Overture|meta
+7031e94f-5109-4055-be25-4c6b941aa1b3,Saat Kulesi,SIGHT,41.198208,32.61787,Pazar Sk. 6 C,Karabük,CDLA-Permissive-2.0,Overture|meta
+ace3250e-9406-4d76-ab0c-96a18a529cd6,Karabük Polisevi,HOTEL,41.197407,32.624996,Ergenekon Cd. No:14,Karabük,CDLA-Permissive-2.0,Overture|meta
+d8752b1c-0486-4aa9-aa5c-12f16ffd9bc4,Carfursa Karabuk,SHOPPING,41.197701,32.626247,,Karabük,CDLA-Permissive-2.0,Overture|meta
+4de1929b-d111-45aa-9917-7523333cbf52,Karabük Jandarma Gazinosu,HOTEL,41.196449,32.622864,,Karabük,CDLA-Permissive-2.0,Overture|meta
+820d1997-2059-4253-8feb-cc529025a8f4,Selale Bufe,RESTAURANT,41.196457,32.624344,"Ergenekon caddesi, Atatürk Blv. No: 6",Karabük,CDLA-Permissive-2.0,Overture|meta
+c161efa5-a399-459e-a350-266fe3f26bb5,Demir Yurt Erkek Öğrenci Pansiyon,HOTEL,41.196457,32.625538,Bostanbükü köyü karşıyaka mahallesi çamlıköy caddesi,Karabük,CDLA-Permissive-2.0,Overture|meta
+645fcd50-0e2d-4649-a0a8-3ee2fbd5ed95,Ercan_net Plastation,ACTIVITY,41.196384,32.625622,PTT Caddesi Eski FinasBank Üstü,Karabük,CDLA-Permissive-2.0,Overture|meta
+aaf51750-6ea0-4bb1-9773-129f4a9163c4,Çağlayan Simithane,CAFE,41.196396,32.625572,"100. Yıl, 1006. Cd. 6F No.2",Karabük,CDLA-Permissive-2.0,Overture|meta
+8349b310-07c9-47ab-a420-483e01b6dff2,Terminal Restaurant Cafe,RESTAURANT,41.196648,32.625488,"Atatürk Blv. No:10, 78200",Karabük,CDLA-Permissive-2.0,Overture|meta
+d1881c41-b4b6-49bc-910a-9d408d148067,Çakraz Plajı,SIGHT,41.196236,32.621151,,Karabük,CDLA-Permissive-2.0,Overture|meta
+6c33c903-f1f2-4747-b26c-2f9c4d7baada,Kares Mall,SHOPPING,41.196732,32.617531,"Merkez, Kıbrıs Şehitleri Cd. No:20",Karabük,CDLA-Permissive-2.0,Overture|meta
+44fc31b8-3d11-4a66-b6f2-f91656f2dda4,DemİRbey İSkender,RESTAURANT,41.196667,32.617577,Bayır Kıbrıs Şehitleri Caddesi Kares Avm,Karabük,CDLA-Permissive-2.0,Overture|meta
+aed43a54-dd42-4b0d-8ecd-2cdde9c860f7,Kilcioglu Pide Karabük,RESTAURANT,41.196716,32.616825,Bayır Mahallesi Kıbrıs Şehitleri Caddesi No:19 Merkez,Karabük,CDLA-Permissive-2.0,Overture|meta
+b39e22a6-30fb-4cc8-880f-eb5c175ec8f8,Cati Katı Cafe,CAFE,41.19643,32.616158,Hürriyet Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+65d685af-3c87-466e-bd8a-c9e14bbd8814,Hacıalioğlu Kebap & Dürüm,RESTAURANT,41.196503,32.61536,Bayır Mah. Gazipaşa Cad. Güneş Apt. No: 2 Karabük / Merkez,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d547c82d-4123-4d12-8c91-bf3f6e9c6228,Çiğköfteci Ahmet Aybak,RESTAURANT,41.196419,32.615372,Karabük güven kavşağı ersim iş hanı no:1,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+7c78bf09-6cd8-4dc9-b302-d5075fcae6d9,Gazipaşa Caddesi,SIGHT,41.196407,32.615601,,Karabük,CDLA-Permissive-2.0,Overture|meta
+44104724-bf64-48c4-af9f-f0cdc3c286b6,Ömer usta çiğköfte,RESTAURANT,41.196209,32.616013,,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3ac6b31a-991e-4541-ab15-3531ce6d7d9b,İstanbul kir pidesi,RESTAURANT,41.196289,32.616314,Kemal Güneş Cd. no 133,Karabük,CDLA-Permissive-2.0,Overture|meta
+04b4de2b-6f99-41e8-9714-8e155535103e,Döneris,RESTAURANT,41.196178,32.616322,Kemal Güneş Cd. No:137,Karabük,CDLA-Permissive-2.0,Overture|meta
+b66b0ece-d0e0-4ad7-b367-158e7ef2f4d9,Ali Usta Akçaabat Köfte,RESTAURANT,41.196537,32.617111,"Kares Mall, Kıbrıs Şehitleri Cd. No:20",Karabük,CDLA-Permissive-2.0,Overture|meta
+597cde2d-3b6a-428b-8bb3-1c1b73343b8c,Köfteci Ahmet Karabük,RESTAURANT,41.196533,32.617062,hüriyet caddesi,Karabük,CDLA-Permissive-2.0,Overture|meta
+e395b3a8-c536-48f0-bcf6-08dceb7894c7,Burger King,RESTAURANT,41.196548,32.61742,Kıbrıs Şehitleri Cd. No: 20/10,Karabük,CDLA-Permissive-2.0,Overture|meta
+d3ea50a7-cca7-42c2-8035-35c9b9f472a5,Kares AVM,RESTAURANT,41.196415,32.617851,Bayır Mahallesi Kıbrıs Şehitleri Caddesi,Karabük,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+4f630d91-9dc0-41dc-8040-ebc3bf47a34b,Popeyes Louisiana Kitchen,RESTAURANT,41.196457,32.617977,Bayır Mahallesi Kıbrıs şehitleri Caddesi,Karabük,CDLA-Permissive-2.0,Overture|meta
+293e5394-7f4c-43e3-8e82-41ec280412a8,Bedesten Çarşısı,SHOPPING,41.196308,32.617931,Albay Karaoğlanoğlu Cd. No:4,Karabük,CDLA-Permissive-2.0,Overture|meta
+5a56387f-2a71-44d5-a8f9-ce1713f343f9,Kares Toros Lahmacun,RESTAURANT,41.196251,32.617981,"Plug&Drive, Albay Karaoglanoglu Caddesi 6",Karabük,CDLA-Permissive-2.0,Overture|meta
+72d33ca2-4cfb-4444-983a-b92ae55e2250,Yenice Petek Pastanesi,CAFE,41.196228,32.617954,Yenice,Karabük,CDLA-Permissive-2.0,Overture|meta
+0069b259-f8c8-421d-ad2a-9ce7acf67d3e,Teras Cafe,CAFE,41.19595,32.618244,"Plug&Drive, Albay Karaoglanoglu Caddesi 6",Karabük,CDLA-Permissive-2.0,Overture|meta
+f1bcfcc2-4aa5-4b5c-b135-786ed660b494,Ev yemekleri ay cafe,RESTAURANT,41.195969,32.618286,"Bayır Mahallesi, Cafe Ay, bedesten işhanı, Kemal Güneş Cd. Bedesten iş hanı D:no 149/120 kat 2",Karabük,CDLA-Permissive-2.0,Overture|meta
+0eb0c3ff-1c1e-4333-8607-c9f8b158d6f7,Gaye Cafe&Bistro,CAFE,41.195827,32.618282,Ergenekon Caddesi 10,Karabük,CDLA-Permissive-2.0,Overture|meta
+04423028-335a-40a9-8433-5a7481c1b838,Bereket Döner Iskender,RESTAURANT,41.19569,32.617634,Kemal Güneş Cd. No:147 D:a,Karabük,CDLA-Permissive-2.0,Overture|meta
+839e909e-8473-49e7-b04a-df8878f71a1d,Cafe'S Kumpir&Waffle,CAFE,41.195988,32.615978,Onel Avm,Karabük,CDLA-Permissive-2.0,Overture|meta
+3202be57-63a5-441c-86fc-c05885881bef,Hal Pide,RESTAURANT,41.195953,32.614796,Menderes Cd. No:56,Karabük,CDLA-Permissive-2.0,Overture|meta
+fedeff30-02b0-42b5-94ea-da0425c5a609,Onel,SHOPPING,41.195595,32.616077,Menderes Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+2a7c6b45-b681-47b8-90a0-64f210c136c9,McDonald's,RESTAURANT,41.195545,32.617916,Fevzi Fırat Cd. Kares İş Merkezi No:4 Merkez,Karabük,CDLA-Permissive-2.0,Overture|meta
+a0c086d2-f1a6-4d32-b802-a1f90c330836,Mert Pazarlama,SHOPPING,41.195572,32.617783,Kemal Güneş Cd. Bedesten İş hanı kat 2,Karabük,CDLA-Permissive-2.0,Overture|meta
+4c9dd92c-1507-4989-8b9d-c073e9439e6f,Gaye Cafe&Bistro,CAFE,41.195915,32.618877,Ergenekon Caddesi 10,Karabük,CDLA-Permissive-2.0,Overture|meta
+a7b9cef2-687b-4e70-9ecb-369e113a1a26,Efandem Restoran,RESTAURANT,41.196018,32.62236,Türkiye ,Karabük,CDLA-Permissive-2.0,Overture|meta
+f5fab8ab-4991-4674-b011-df23ab56b661,Süleyman Faruk Güleryüz,RESTAURANT,41.196014,32.622372,Tüvtürk Karşısı Akgün Ticaret Merkezi ,Karabük,CDLA-Permissive-2.0,Overture|meta
+130c49a6-7e08-401c-bca5-9956a8e9a03c,Aksoylu Mermer,SIGHT,41.196014,32.622372,KEMALOYMAN SANAYİİ ,Karabük,CDLA-Permissive-2.0,Overture|meta
+d2235bff-3abf-405b-b494-5430aaf16e5a,The Garden Coffee Aydınlıkevler,CAFE,41.196079,32.622379,"Karabük, Türkiye",Karabük,CDLA-Permissive-2.0,Overture|meta
+40a57b0f-e651-4102-be0d-221253049f6d,Alanguva Cafe,CAFE,41.195,32.622379,,Karabük,CDLA-Permissive-2.0,Overture|meta
+bfced453-d741-43ac-af93-c395d3720b47,TEKEL BÜFE,CAFE,41.195019,32.621494,Kızılay İşhanı,Karabük,CDLA-Permissive-2.0,Overture|meta
+fac09db5-7ec4-4cb3-aa85-2e400626bc63,Ali Dayı Balikevi Cafe&restoran,CAFE,41.194504,32.618774,İnönü Caddesi 1,Karabük,CDLA-Permissive-2.0,Overture|meta
+f95dac19-b231-4444-b349-119b34c023f4,Güven Pastanesi,CAFE,41.194973,32.618408,Kemal Güneş Cd. No:161,Karabük,CDLA-Permissive-2.0,Overture|meta
+d71f80ff-92be-465c-acfd-b5c8ab10b636,Ekrem Coşkun Döner,RESTAURANT,41.194992,32.618378,Kemal Güneş Cd. No:165,Karabük,CDLA-Permissive-2.0,Overture|meta
+2feddf9b-1d67-4c89-8cfa-45dc3ae20f36,Nazar Hotel,HOTEL,41.194939,32.618736,Albay Karaoğlanoğlu Cd. No:36,Karabük,CDLA-Permissive-2.0,Overture|meta
+c9d43768-6d56-4d77-9935-3c68417c2b1f,Bayramoğlu Işhanı,SHOPPING,41.194767,32.618256,Kemal Güneş Cad,Karabük,CDLA-Permissive-2.0,Overture|meta
+9a7c66a4-59f8-47a5-80ac-e36309306db3,Karabük közde piliç mürüvvet hanım,RESTAURANT,41.194698,32.618202,Kemal Güneş Caddesi 175B,Karabük,CDLA-Permissive-2.0,Overture|meta
+73c1a0cb-44ce-4c5d-a1a9-0be1bf741cba,Rosa Patisseria,CAFE,41.194912,32.618042,Kemal Güneş Caddesi 165B,Karabük,CDLA-Permissive-2.0,Overture|meta
+c6d780ec-b21c-40e0-b12b-0162c960bb27,Alidayı cafe restaurant,RESTAURANT,41.194298,32.618679,,Karabük,CDLA-Permissive-2.0,Overture|meta
+405a5584-4716-4131-97bb-d7d9c253db57,MURATin YERİ,CAFE,41.194248,32.618587,İnönü Cd. 1 a,Karabük,CDLA-Permissive-2.0,Overture|meta
+0765f254-7d7d-4e2a-a61a-5c281b9f729f,Hacıbey Dürüm & İskender,SIGHT,41.194153,32.618305,Merkez,Karabük,CDLA-Permissive-2.0,Overture|meta
+eba93124-b85a-4ea4-bb2f-52eb944d2def,Aydın Pide ve Kebap,RESTAURANT,41.194218,32.618458,Zonguldak Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+67872392-d615-4a76-af63-7d9fc21cf6c8,Otel Turgut Reis,HOTEL,41.194073,32.617783,İnönü Cd. No:11,Karabük,CDLA-Permissive-2.0,Overture|meta
+5c713c26-c6f9-479f-994a-ec751234b9f7,Safranbolu Tokatlı Kanyonu,SIGHT,41.194057,32.618313,,Karabük,CDLA-Permissive-2.0,Overture|meta
+205b763e-0758-4e5b-9f89-67920eca68fc,Kordon Kafe,CAFE,41.193779,32.617901,Çay Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta
+ea6ee14e-38ab-42e4-aee0-92617f2f704f,Meşhur köftecî Sebahattin usta,RESTAURANT,41.193584,32.616146,İnönü Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+3015fa0c-66ab-4e1c-bb49-287d1d195e6f,Damak Köfte,RESTAURANT,41.19347,32.615719,İnönü Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+87e26277-4ae8-45d0-9336-01efe3b3366a,Güven Köşk,RESTAURANT,41.194969,32.622845,Atatürk Blv. 2-4,Karabük,CDLA-Permissive-2.0,Overture|meta
+e980c7d9-0de3-4663-a29b-8a3c502de5a1,Karabük Kardemir Iron-Steel Museum,SIGHT,41.183327,32.633331,,Karabük,CDLA-Permissive-2.0,Overture|meta
+f7199eea-e4ac-4c03-b625-27bf1865a928,Eren Pide Karabük,RESTAURANT,41.178066,32.616882,Yeşilyurt Caddesi 18,Karabük,CDLA-Permissive-2.0,Overture|meta
+78fd89bc-5730-4dbf-bcbc-a259d49c0776,Asel Yaşam Merkezi,HOTEL,41.188564,32.622837,Kastamonu Yolu Caddesi 41,Karabük,CDLA-Permissive-2.0,Overture|meta
+1615567b-5ddb-4c51-a1f4-7e7cb84693ee,Tadım Ekmek Fırını,CAFE,41.193184,32.614777,İnönü Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+06a630a0-1ea8-4659-b6e5-def9646c4247,Özen Pastanesi,CAFE,41.193054,32.614372,Hürriyet Mahallesi İnönü Caddesi No:87 Merkez/Karabük,Karabük,CDLA-Permissive-2.0,Overture|meta
+5e89d5bb-4a8d-4069-8a2b-532b3e30225f,Yeni Kordon Parkı,SIGHT,41.192459,32.614079,Çay Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta
+40ee6607-bace-4c16-a7b5-9e0b35c7ff44,Kayabaşı Karadeniz Ekmek Fırını,CAFE,41.191055,32.61348,,Karabük,CDLA-Permissive-2.0,Overture|meta
+7a23604f-bc6c-4b2f-8e8e-6cf4e21a81eb,Starbucks,CAFE,41.191284,32.60714,,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+6659ac3c-1881-4315-95c2-345e5d300492,Soğuksu Lezzet Pide ve Lahmacun,RESTAURANT,41.189796,32.602642,Melise Cd. 40 A,Karabük,CDLA-Permissive-2.0,Overture|meta
+3c926729-ea6b-465c-a9ad-f568d4bd2dde,Tadında Taze Fırın,RESTAURANT,41.189518,32.602669,Melisa Caddesi 6,Karabük,CDLA-Permissive-2.0,Overture|meta
+c987f40e-a398-4b83-9e7b-1f8212fb16e0,Karadeniz Ekmek Fırını,CAFE,41.191185,32.595135,Soğuksu Mah,Karabük,CDLA-Permissive-2.0,Overture|meta
+26008037-9353-4ecb-a9e0-fd90d9245b3e,Karabük Yenice Dipsiz Göl,HOTEL,41.187328,32.601517,Kızılkaya Yolu Yenice,Karabük,CDLA-Permissive-2.0,Overture|meta
+d18ec14d-8a6d-448c-9dfd-b64f6faa8361,Köfteci mülayim,RESTAURANT,41.187309,32.601738,Melise Cd. 98 A,Karabük,CDLA-Permissive-2.0,Overture|meta
+00f09b0d-58a4-418f-9c0a-235a9cdaa68f,Hisar pastanesi,CAFE,41.189053,32.601387,"hisar pastanesi, Çebi Sk. toki iş merkezi no 4",Karabük,CDLA-Permissive-2.0,Overture|meta
+85d5cebd-7516-4940-b7db-3caab08bf277,Kayabaşı Yaylacık Mah.,CAFE,41.182796,32.606705,,Karabük,CDLA-Permissive-2.0,Overture|meta
+fca995c7-e698-43e7-bc21-82de03b87684,Yaylacık Çocuk Parkı,SIGHT,41.180752,32.610817,Hacı Bayram Veli Cd. No:32,Karabük,CDLA-Permissive-2.0,Overture|meta
+5449cd43-5848-444e-be46-8374ba87d313,Kayabaşı Erkek Öğrenci Yurdu,HOTEL,41.180313,32.613194,Rüstem Paşa Cd. No:31,Karabük,CDLA-Permissive-2.0,Overture|meta
+b3567f48-0389-4493-a4cc-552da1b9532e,Aden Garden City Kayabaşı,SIGHT,41.179199,32.610504,Lala Mustafa Paşa Cd. No:15,Karabük,CDLA-Permissive-2.0,Overture|meta
+fa798ca6-c895-4631-9530-7a6ef2733479,Kandakoglu Sarayı,HOTEL,41.193951,32.596222,Yenimahalle,Karabük,CDLA-Permissive-2.0,Overture|meta
+9d91afd6-85f6-4684-a0b6-9b809cc03a16,Altınbaşak Gıda ve Unlu  Mamüller,CAFE,41.193439,32.606781,Ateş Caddesi 37,Karabük,CDLA-Permissive-2.0,Overture|meta
+36fc7817-9b5c-444b-b0bf-d8991138ef1c,Sürmen Yemek Fabrikası,RESTAURANT,41.193848,32.608253,Karabük-Ankara Yolu,Karabük,CDLA-Permissive-2.0,Overture|meta
+37811685-9c55-490e-be74-aa3b43416625,Tosun Çorba,RESTAURANT,41.193314,32.614269,,Karabük,CDLA-Permissive-2.0,Overture|meta
+fe8dc277-62d7-4244-b472-4afa297e413f,HİLal DÖNer,RESTAURANT,41.195789,32.609058,Hürriyet Caddesi 27,Karabük,CDLA-Permissive-2.0,Overture|meta
+dbadc494-e825-45e6-bf05-aea8b5424653,Derya Restaurant,RESTAURANT,41.196541,32.611534,Fevzi Fırat Cd. No:65,Karabük,CDLA-Permissive-2.0,Overture|meta
+de898e7e-d875-4a7e-a434-f593e3c51fc1,Çiğdem Tuhafiye Çorap Çamasir,RESTAURANT,41.196529,32.611881,Fevzi Fırat Caddesi 40A,Karabük,CDLA-Permissive-2.0,Overture|meta
+70410ac4-da9b-48f2-9393-b13a6c260035,Bomonti Pub,RESTAURANT,41.196575,32.612446,,Karabük,CDLA-Permissive-2.0,Overture|meta
+68bf946a-8d45-4ff4-9c22-65d52e01a6c1,Otel Selvi,HOTEL,41.196301,32.613571,Fevzi Fırat Cd. No:72,Karabük,CDLA-Permissive-2.0,Overture|meta
+8eca6cb1-f5b5-4d7d-8456-fb525ceba50a,Esma Pasta Cafe,CAFE,41.196415,32.61451,Fevzi Fırat Cd. NO: 107 /A,Karabük,CDLA-Permissive-2.0,Overture|meta
+b2aaddb5-f841-4249-a888-68a19f0d1f7b,Chloé Paris,CAFE,41.196594,32.614128,Gazi Paşa Caddesi,Karabük,CDLA-Permissive-2.0,Overture|meta
+4f89a3af-8fa1-4ad8-b5bc-bdae176e4980,Yavuz Selim Öğrenci Komleksi,HOTEL,41.197056,32.612839,,Karabük,CDLA-Permissive-2.0,Overture|meta
+f8cb737a-c78e-4c1d-956d-1b09231e9a5a,Esnaf Köfte Restaurant,RESTAURANT,41.196842,32.611469,Gazi Paşa Cd. Sağlamcı iş hanı D:69-c,Karabük,CDLA-Permissive-2.0,Overture|meta
+7c5b5daf-4c46-4a55-83b8-1bd3ade20bbd,Aşçıoğulları Lokantası,RESTAURANT,41.196297,32.610706,Fevzi Fırat Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta
+55cca96d-3833-4472-89d4-5dd5242be211,"Konya, Beyşehir Gölü",SIGHT,41.196239,32.61013,,Karabük,CDLA-Permissive-2.0,Overture|meta
+371994c2-ae4f-4268-a518-22e79f14eff4,Safranbolu Murat Pastanesi,CAFE,41.196312,32.604012,Anadolu Caddesi 8,Karabük,CDLA-Permissive-2.0,Overture|meta
+16eaf247-da01-4c6f-b6db-b9924477d583,Mehmet Yazici Kiz Ogrenci Yurdu,HOTEL,41.200802,32.613277,Recep Sami Yazıcı Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta
+070bc359-cae7-48fb-9ddd-22422116ed85,Tek Tat Toros Dondurma,CAFE,41.200058,32.607937,Esentepe Mahallesi,Karabük,CDLA-Permissive-2.0,Overture|meta
+a4aa06d8-a0b8-42cf-ba48-16cd8f13132a,"Arıcak, Karabük",SIGHT,41.19833,32.588333,,Karabük,CDLA-Permissive-2.0,Overture|meta
+bee2fd14-b6e1-4621-b560-936fcb1e4c9b,KahveRengi Coffee / KahveEvi,CAFE,41.20179,32.605068,Atatürk Mahallesi cumhuriyet caddesi ,Karabük,CDLA-Permissive-2.0,Overture|meta
+04510499-a873-4cb6-8bc7-4092f12cfd19,Starbucks,CAFE,41.201832,32.610317,Bebek Mah.,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3ea2ac25-3490-4269-b13a-9d4e142768e3,Vialand Tema Park,ACTIVITY,41.201809,32.610195,Yeşilpınar Mah,Karabük,CDLA-Permissive-2.0,Overture|meta
+e8378082-e5a2-4247-8224-47456795ab86,karabük çarşı,SIGHT,41.203129,32.607384,,Karabük,CDLA-Permissive-2.0,Overture|meta
+f22e2226-b1a0-4129-95fa-34a5a958ed00,Komagene,CAFE,41.209766,32.620468,Şirinevler Mh. Orhangazi Cd.Mavi Apt.Altı,Karabük,CDLA-Permissive-2.0,Overture|meta
+71ff60f3-3146-4345-b476-04ffad702cf1,Eliz Pasta & Cafe,CAFE,41.209774,32.619797,,Karabük,CDLA-Permissive-2.0,Overture|meta
+cddd0074-16ba-49f1-9180-ecd839d9b03b,Jun Bakery & Chocolate,CAFE,41.210014,32.620735,Alparslan Cd. No: 20,Karabük,CDLA-Permissive-2.0,Overture|meta
+fbf7b545-0f51-41c2-9b6f-5a7c4db5b40b,Özalp Pide,RESTAURANT,41.209816,32.619339,Orhan Gazi Cd. No:6,Karabük,CDLA-Permissive-2.0,Overture|meta
+be2dd525-416d-4ffb-bf5e-02a76fdb3c59,Toros Gurme Dondurma,CAFE,41.210224,32.620617,"Toros dondurma, Alparslan Cd. Köroğlu apartmanı no :2",Karabük,CDLA-Permissive-2.0,Overture|meta
+90221f81-2e71-4538-b56f-6367cf1d6243,Maximum Cafe,CAFE,41.209774,32.621181,Şirinevler Mah. Şahinbey Cad.,Karabük,CDLA-Permissive-2.0,Overture|meta
+66fb2b18-05f0-495d-9635-1a39030d25c8,Muratoğlu KONAK,HOTEL,41.209618,32.622032,yörük köyü,Karabük,CDLA-Permissive-2.0,Overture|meta
+ff7cf51a-b769-4614-98af-d6c1be453a0f,Kırıntı izmir kumru,RESTAURANT,41.20911,32.620781,Şirinevler mah alpaslan cad.ticaret iş merkezi zemin no 11,Karabük,CDLA-Permissive-2.0,Overture|meta
+d3c7037c-39f7-4cb2-94b1-d874a0bec768,Pasaport Pizza,RESTAURANT,41.209419,32.621037,Şahinbey Cad. No:18,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+7eff2bfe-bb3a-414d-8e15-168c5d9872d4,Inci Pastanesi,CAFE,41.20945,32.620445,Ferit Doğan Cad No:3/A,Karabük,CDLA-Permissive-2.0,Overture|meta
+fc78f398-b687-4877-9792-b8decc9f8167,Şirinevler Ticaret Merkezi,SHOPPING,41.209114,32.620575,Karabük Otogarı,Karabük,CDLA-Permissive-2.0,Overture|meta
+57d1b55b-fd3e-437a-9f05-efa516134d18,Güneş tost,RESTAURANT,41.208992,32.620781,Şahinbey Cd No:9,Karabük,CDLA-Permissive-2.0,Overture|meta
+c7438be6-960f-4b11-a10c-fe6d4b9dd33c,Sini Börek Karabük,CAFE,41.209049,32.620918,Şirinevler mahallesi Şirinevler Ticaret Merkezi no 10,Karabük,CDLA-Permissive-2.0,Overture|meta
+880f451f-8c58-4083-bf70-809b265ccbde,Altınkalem Öğrenci Yurdu,HOTEL,41.208767,32.62492,Vatan Caddesi 3A,Karabük,CDLA-Permissive-2.0,Overture|meta
+d6c36c3d-3027-4d5f-823c-aa59279c4bc3,Karabuk Adatepe Mah.,HOTEL,41.211632,32.623486,,Karabük,CDLA-Permissive-2.0,Overture|meta
+01b0fce6-51e6-48af-a6ce-5de63420d7f8,Cafe Rota,CAFE,41.212051,32.618862,Turgut Reis Cad,Karabük,CDLA-Permissive-2.0,Overture|meta
+a1f4fdf6-b5fb-46dc-b6f4-343ccd2db974,Karabük Kent Ormanı,SIGHT,41.213997,32.617966,Şirinevler Mah. Ulunay Cad.,Karabük,CDLA-Permissive-2.0,Overture|meta
+8109b935-d630-4d47-9836-bbec2355faec,Özel Şahinler Kız Yurdu,SIGHT,41.211525,32.641373,Kurtuluş Mah,Karabük,CDLA-Permissive-2.0,Overture|meta
+34d76360-5fec-47fa-8c92-40f7df07bb45,Adıyaman Çiğ Köfteci Ali Baba,RESTAURANT,41.211536,32.641174,Kurtuluş Mahallesi Şehit Yılmaz Korkut Caddesi No:3/A,Karabük,CDLA-Permissive-2.0,Microsoft|Overture
+cdf435ef-058e-4c4f-a742-5ab7612d2071,Sahinler Yurt,HOTEL,41.212086,32.640827,Şehit Yılmaz Korkut Caddesi 10,Karabük,CDLA-Permissive-2.0,Overture|meta
+75327108-f913-4034-9561-3e5fab7ab13d,Kurtulus Sosyal Yasam Merkezi,CAFE,41.211403,32.633137,Kurtulus Mahakkesi,Karabük,CDLA-Permissive-2.0,Overture|meta
+b14ab59e-817a-4993-a404-883d395b5c49,Ekmekçi şehir Terası,SIGHT,41.210838,32.631336,,Karabük,CDLA-Permissive-2.0,Overture|meta
+64b68403-a648-42df-863a-927d3ebd3335,Rest by Dedeman Karabük Safranbolu,HOTEL,41.20866,32.639515,Atatürk Blv. No:132,Karabük,CDLA-Permissive-2.0,Overture|meta
+502e3b2a-16ed-460f-b6ea-3e6d99680951,Ozel Oztekinler Kız Yurdu,HOTEL,41.209045,32.640137,Atatürk Bulvarı 140,Karabük,CDLA-Permissive-2.0,Overture|meta
+77024946-6c91-4a11-8b7e-272102d7f8e9,KYK Karabuk Bahaddin Gazi Yurdu B1 Blok 10 Kat,HOTEL,41.211693,32.673222,Bostanbükü Köyü Karşiyaka Mahallesi̇ Mezarlik Caddesi̇ 28/2 Bahaddi̇n Gazi̇ Yurt Müdürlüğü Safranbolu Karabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ef315d2a-6229-4ade-93c2-2ca8cb6f8d41,Klavuzlar,SIGHT,41.215061,32.662952,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bbdf377c-9c92-422f-9fc1-3fefeb6e5c8a,Akel Park Üniversite Evleri,HOTEL,41.215519,32.663132,401 nolu sk,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+850f218a-b551-4b39-9631-fbdb4092166f,Gel de İçme Büfe,RESTAURANT,41.21608,32.662544,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+047a5c4c-eb8b-48a4-8b20-1e7019da5c84,waffle&fruitbox,CAFE,41.216034,32.662998,Vatan Cad,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d91cf815-3236-4a08-86f5-bcba5693fdd8,Siyah Cafe 100.Yıl,CAFE,41.216003,32.661861,100. Sokak 6/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bbd840dd-71cc-45c2-be46-50ecdf4e4acc,Karabük Kız yurdu,HOTEL,41.213207,32.656414,Bostanbükü Bahçelievler mah. Kastamonu yolu üzeri ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7331faa9-346e-49a5-9d6e-881b867a4270,Myor Cafe & Restaurant,CAFE,41.214813,32.653091,100.yıl Mahallesi Kastamonu yolu üzeri No:33/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bedc3df7-b16d-4646-978c-c7cb9ac781d4,Medicafe,CAFE,41.216469,32.647785,Şehit Ateşe Reşat Moralı Bulvarı 7/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a335483f-bda8-4553-b255-ac3cbd6ac5a7,Anemon Karabük Otel,HOTEL,41.218899,32.650078,Üniversite mahallesi Safranbolu yolu üzeri no:27,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+007981d1-5f19-41d5-b2e2-21737040fdb4,Özel Erdem Yükseköğretim Kız Öğrenci Yurdu,HOTEL,41.219105,32.64801,Efsa Nur Sokak 1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7cc9824e-4c26-43b9-817d-084b859ec38c,Çebioğlu AyA Kız Öğrenci Yurdu,HOTEL,41.219147,32.648075,Üniversite Mahallesi Efsa Nur Sokak,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+874de926-4070-468b-83b8-d60fbda7e344,Ales Pastacımm 100. Yıl,CAFE,41.219715,32.650555,Yunus Emre Sitesi Uzuner Çarşı No:8/9,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d4744b6d-7c3c-49dd-ac6f-a8218572c05a,Çocuğun Doğası Cafe Atölye ve Oyun Evi,CAFE,41.218178,32.65604,"zafer apartmanı, 1017. sokak Zafer apartmanı No:4",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a2a24f43-85de-42ce-a315-0b6b05632b2b,Karabuk Pansiyon,HOTEL,41.218998,32.657631,1023. Sokak 16/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cd647a9a-3998-4998-a372-ca700f7c7856,Hacegan Sofrası,RESTAURANT,41.219131,32.658382,LARA CADDESİ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b4b4b3ff-2f1a-405e-9bd3-6d53d473244f,Aylin Restaurant Oyun Cafe Ev Yemekleri,RESTAURANT,41.219219,32.660118,100. yıl Mahallesi 1002 nolu cadde Eslem Apt No:23 K: Z-A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b7919dae-dcda-4196-9552-3174a80bac45,𝗞𝗮𝗿𝗮𝗯ü𝗸 𝗧ü𝗿𝗸𝗶𝘆𝗲,HOTEL,41.219849,32.659286,Karabük ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+978ad06f-ee20-4b81-8064-d46562a68c0a,Çağlayan,CAFE,41.219833,32.660507,1002. Cd. No:36,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+da6da361-21f7-4f3d-83f6-2d34680bfd1e,Bambaşka Waffle,CAFE,41.219955,32.660519,1002. Cd. No:38 D:40B,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+091638fa-d093-4e68-8b33-e42fcbbe8f59,Turta Pasta & Bistro,RESTAURANT,41.219315,32.660431,1002. Cd. no:30,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b8ae4682-8764-45d4-8468-fa259a0155ad,Enfess Tantuni,RESTAURANT,41.218658,32.660397,100. Yıl 1002 Nolu Cadde Güneş Market Karşısı,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d1c8cac2-3155-405f-9f02-7669c6dbace7,Öncü Dürüm,RESTAURANT,41.218788,32.660385,1002. Cad.,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+5308a299-24d2-43ff-a3ea-ba6542571118,Ay Yemek Pide Ve Lahmacun,RESTAURANT,41.219048,32.660484,1002. Cd. No:24,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c5020375-1fe2-44f3-a9b2-da31a97f6d09,Pişti Oyun Cafe,CAFE,41.219013,32.658855,100.yıl mahallesi 1001 nolu cadde 1030 nolu sok 23,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+40cf42a9-ddc1-43a4-883a-2a3714856252,Mertcan Fast Food,RESTAURANT,41.218513,32.660355,1002. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+90190189-2a16-4d87-bd82-b3134f62f4c9,Emir Pastanesi,CAFE,41.218441,32.660519,1003. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8d54a9ec-4a57-4559-88ee-3770eddf52e5,Etiler Marmaris,RESTAURANT,41.218422,32.660805,100 Yıl Mah 1036 Sok,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8e3c56b2-6469-4f7e-b9c5-0fcc7667265b,Bigss Kafe,RESTAURANT,41.218021,32.662022,100.yıl mahallesi 1001.cadde,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+382783a4-1880-4986-94f4-fb6d4f411910,Pasa Doner Karabuk 100. Yil,RESTAURANT,41.218029,32.661903,1041. Sk. No:5 D:6,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8968c059-53e5-4614-9e76-bb0d8f62932a,Türk Dünyası,RESTAURANT,41.217232,32.662159,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6662c712-3883-4712-87b8-ac624eed3944,Cafe SARIYER Börek Pide,CAFE,41.217308,32.659584,1026. Sk. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9afa5382-e07f-4420-9046-e3dcf9fc37aa,Kuzey Erkek Öğrenci Yurdu,HOTEL,41.218071,32.658737,1001. Cd. No:8,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c973e100-d009-4e35-85dc-00b59506780c,Sürpriz Kız Öğrenci Yurdu,HOTEL,41.217419,32.658207,1023. Sokak 1B,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9e4e4f34-aaec-46dc-a493-3fbf4acfec8b,Oses 100.yıl,RESTAURANT,41.217255,32.658184,1023. Sokak,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6f8189d5-1c36-41e2-96a6-f70b2aaef4a4,Bob Game and Coffee,CAFE,41.21653,32.657131,1022. Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+142c26b4-d7f0-4e88-9559-d7f5a1d3e10d,S Lounge Cafe&Restaurant,CAFE,41.216484,32.658096,Yıldız Caddesi 2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+269b82b8-d1d0-4335-b885-d36b7f2a10ed,Starbucks,CAFE,41.216423,32.658001,1025. Sok No: 2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aa3ee7ad-7e4d-4d69-9c6a-674728496b8b,Colombia Coffee Karabük,CAFE,41.21637,32.658684,Karabük Kastamonu Üstü Sok No:1 5-H,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+bccbf25f-5393-4761-91b9-585ac3e1517b,Karabük Dilek KIz Yurdu,HOTEL,41.216461,32.659134,100.yıl,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6df3edef-9536-47b9-9eb8-8a8d8404c024,Karabük İl Jandarma,HOTEL,41.216717,32.659962,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8370b409-c351-46cb-8e64-1518526b7761,Kahve Diyarı,CAFE,41.216652,32.659836,100.Yıl Mahallesi Karabük Üniversitesi Yolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+bfb355b4-103f-4c11-8796-a9588b62db83,Mossoo Fab,CAFE,41.216614,32.659428,100.Yıl Mahallesi Kastamonu Yol Üzeri No:11/B KARABÜK/MERKEZ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b4ee9c5e-e25b-49b4-8b0e-c676b15e2683,Bayramefendi Osmanlı Kahvecisi,CAFE,41.216614,32.659363,Yüzüncüyıl Mh. Karabük Kasamonu Yolu Sk.,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+2d246264-1f77-457d-9e02-218d0b108aac,Mackbear Coffee Co,CAFE,41.216545,32.659149,,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+c98b95dc-9f88-4424-8512-063a867e9889,Coffeworks,CAFE,41.216644,32.65852,1025 sok No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c120bd2a-5146-425d-96bd-7f18162ed26f,KARABÜK MERKEZ 100. YIL MAH.,RESTAURANT,41.216808,32.658577,100. Yıl mah. 1025 sok. No:2/ 1003-1004-1005,Safranbolu,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+a00fb45f-0b7d-459a-acfb-794f717d473d,Burger King,RESTAURANT,41.216808,32.658577,"100. Yıl, Karabük Kastamonu Üstü Sok No:1 5-H, 78000 Merkez/Karabük",Safranbolu,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+27018a37-5817-40fe-b195-72f971eaf65f,Lavinia Chocolate & Waffle & Coffee,CAFE,41.216747,32.658947,1025 Sk No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+61bd3994-eb73-4fb2-a3bb-e0df1e5ee244,Chocolabs Karabük,CAFE,41.216839,32.6586,1025. Sok No: 2D,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c121cf1d-cad4-459d-8696-46744318d8eb,Yörem Cafe&Bistro,CAFE,41.217083,32.65984,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+dbb3609a-31cc-463b-913b-bd8dbbcf8eec,Pilavole,RESTAURANT,41.217178,32.660206,1002. Cd. No:5/B,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+35c46503-a052-4282-8a67-258fb1d56f2c,The grillab,RESTAURANT,41.216923,32.66032,1002. Cd. No:3/B,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2030ca59-edec-42a8-8d58-48f747860d9a,Pidefabrig,RESTAURANT,41.21701,32.660763,1002. Cd. No:16,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3a553c99-a4b3-4d70-8708-a0c039877083,Pasaport Pizza,RESTAURANT,41.217121,32.660797,1002. Cd. No:16,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c87b142c-4692-46c7-8309-20408e93366f,Safran Park,SIGHT,41.217106,32.661152,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+03852d50-0b1a-40bb-b9b8-38ed31f44934,Furi Cafe,CAFE,41.216423,32.663849,Kastamonu Yol Kılavuzlar Köyü,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+69f9d05b-2bb2-499c-a5aa-c9b4d825b75d,Tost Duragi,RESTAURANT,41.216347,32.663834,Gümüş Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+01a392ce-f007-4c29-9206-d595250435d4,Agakeyf,CAFE,41.216309,32.66383,Vatan caddesi. kastamonu yolu altı sokak No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aeed9911-eb26-43ec-9211-9529775070d0,Karabük Çamlı Köşk Balık Evi,CAFE,41.217125,32.664864,Kılavuzlar mahallesi Kastamonu yolu altı mevkii köy sokak no:31 MerkezKarabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+87ae4998-a287-4b9c-8249-df6b757f9d0a,Özbay Döner,RESTAURANT,41.217075,32.664265,Kastamonu Yolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+75a66a6a-a930-4f30-ada5-7e7103ee3699,Karabük Erkek Öğrenci Yurdu,HOTEL,41.21719,32.66301,Kastamonu Yolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e601d9a2-24f8-4985-95b6-789930996c6e,M!ra Cafe and Restaurant,CAFE,41.217201,32.662746,Filiz Sitesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a89b7d6d-38ee-4704-9594-34dcf3d55a2f,Şehzade Cafe,CAFE,41.217384,32.662983,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f2f5ca52-231e-4a3e-b737-5fadcabf8950,Köşem Kokareç Köfte Sucuk,RESTAURANT,41.217319,32.663387,100 Yıl Mah Mayor Cafe Ve Pazaristan Yanı,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f5fcff2d-793a-4485-bada-32b9aa1a13d8,Locca Cafe,CAFE,41.21756,32.664005,Kastamonu Yolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e205977a-998d-446f-8e67-ab38b7a33eaa,100.yıl PastaCaf'e,CAFE,41.218025,32.662518,Atatürk Sokak 20,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+15c95f61-4e18-4bce-b292-86cac8a51c9b,Divan Pastanesi,CAFE,41.218113,32.663395,1003. Cd. No:35,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+93950a7a-0e97-47f6-9b8e-ebff8772bc5a,Dolunay Kahvecisi,CAFE,41.218143,32.664604,1003. Cd. No:14,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4be53be5-066e-49ca-971e-b59f384de2cb,Ay Işıgı Cafe,CAFE,41.217976,32.664921,1003 nolu cadde belediye AVM D:no 3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b48c961b-287b-4891-a638-d59fd78ece78,Mega Çarşı,SHOPPING,41.217709,32.66724,1003. Cd. No:26,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3e4cfe54-4dfb-4904-b9f7-7146d7a42fb4,Kahve Masası,CAFE,41.217804,32.667301,Karabük Kastamonu Üstü Sokak 41,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7753147a-4ab4-42ac-a4aa-950ae7946bb4,Bostanci Oyun Cafe,CAFE,41.217995,32.666397,Karabük Kastamonu yolu üstü sokak No 45,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3062c078-77a0-4e48-8b51-4b7c99faa32a,Expresso karabük,CAFE,41.218105,32.668083,33. Cadde,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aa7037cc-730d-4e87-a952-73d41702f664,Komagene,RESTAURANT,41.218105,32.668812,1003. Cd. No: 45/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0f0a76cd-73a2-440f-87c3-6610c194411f,Yağmur park,SIGHT,41.217957,32.66888,1003. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+844a38e5-658d-4486-ad65-eb9667d2d5af,Lusnika Cafe,CAFE,41.216698,32.675526,Kastamonu Yolu Üzeri Gulf Karşısı,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+046ea1b8-64e1-474f-baef-538041fb8c31,Milwa,RESTAURANT,41.218124,32.670929,Bilgekent Sitesi No:1,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8315fdaa-6864-4a9a-b637-2b41d7696d0b,Cigköfteci Sait,RESTAURANT,41.218327,32.671043,öğretmenler sitesi 8blk,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+030fe3f8-260b-4486-ab05-a764d5037271,Şampiyon Kokoreç Karabük,RESTAURANT,41.219658,32.672928,1010.nolu Cadde 22/CA,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+5ca3ad53-24d5-45b7-af5c-eb39b80409b5,Germia Uni Hotel,HOTEL,41.219677,32.670574,100.Yıl Mah 1007 Cd 1059 Sk No22 KARABÜK,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+6e0a40ad-230b-467f-b2b2-af2f334b2d2b,Safran Germia PALAS,HOTEL,41.219711,32.670395,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+abffc67c-1c7f-4573-a0e2-97b7563b3f2d,1983 Beyoglu Cikolata ve Kahve,CAFE,41.219265,32.666992,100. Sokak 7,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+6a4a4758-0447-4e12-8229-b844175f43e5,Gören kebapchı,RESTAURANT,41.219212,32.667095,100. Yıl mahallesi 106 nolu cadde yıldız life rezidans B/Blok 6,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c701c1b0-d23a-4da1-929d-c2fae418a951,Özkaynak Öğrenci Yaşam Merkezleri,HOTEL,41.219048,32.66954,Merkez / Karabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e0e095ff-a760-4f9c-989c-a0c15ca22cf6,Eklercim Pasta Cafe,CAFE,41.218216,32.670158,"100.Yıl Mahallesi , 1003.Cd. No:53 Karabük / Merkez",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b2293a15-3ea2-49eb-bd07-500e47d3770b,Almila Cfe,CAFE,41.218327,32.668476,100,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f7160428-85c1-4d2c-b45d-2131a63494ef,Ally’s Cafe&Lounge,CAFE,41.218349,32.668579,Burhanettin Uysal Cd No 43,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+eba1b5f3-e6e9-4e7f-a9f5-88772c7f5de1,2 Satır Kebap,RESTAURANT,41.218548,32.667564,"Yıldız Residance, 1003. Cd. No:33-39",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b686f10e-4794-4d1f-a8f4-6d724b1ae195,Yemen Kahvesi,CAFE,41.218571,32.667572,Yıldız Caddesi 100,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e4a6e347-ce9a-4a67-bfe9-a03ccf6a2148,Toros Dondurma,CAFE,41.21841,32.667984,1057. Sk. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+aa664c43-9635-4d49-a6c3-e96515d34525,Karabük Yıldız Erkek Öğrenci Yaşam Merkezi,HOTEL,41.218197,32.668175,100 Yıl Mah. 1003 Nolu Cad. No: 28,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ccdde16f-d126-431b-b777-a98e71392df8,Asian House Karabük,RESTAURANT,41.218716,32.667244,"öz caymaz sitesi, 1006. Cadde, PTT, Kahve sokağı karşısı b blok 5/B",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+381c1b92-0206-4472-9af3-57b47039db79,Çay ve Ötesi,CAFE,41.218643,32.667336,Prof. Doktor Burhanettin Uysal Cad 33-39 / B D:C,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b6ff5e1d-5298-42cf-81fd-8f3fb7d5dc4a,100. Yil Kahve Sokagi Cafe and Restaurant,CAFE,41.218918,32.667267,"100. Yıl Mahallesi 1006. Caddesi B Blok No 2, D:6B",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+82b3b6e0-7534-41fb-975c-fa86ca48474c,Trend Döner,RESTAURANT,41.218998,32.665867,1052. Sk. No:8,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9adda1e1-0a03-4882-bd07-283908ade679,Boğazda Piliç Çevirme Fast Food,RESTAURANT,41.218533,32.665882,"100. Yıl Mahallesi 1003. Caddesi, 1052. Sk. 27/A",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+43e4eb11-0515-4d1f-8ca8-d219efab574c,Espressolab Karabük,CAFE,41.218346,32.665855,100. Yıl Mahallesi Prof. Dr. Burhanettin Uysal Cad. No: 27/A Koç Apt,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f1e0795d-41ec-447c-97fe-c34cad0082d1,Alacati Café,CAFE,41.218166,32.666264,1003. Cd. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e22af96a-9388-4c96-bf95-e7ca4bf63b6e,Lokum Tantuni Döner,RESTAURANT,41.218258,32.666,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a7501375-ac93-4f29-84f1-1286639b5297,Bik Bursa İskender Keyfi,RESTAURANT,41.218185,32.664154,1003. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cdf067db-e8ed-416a-84e3-0e225692f889,Safran Gold Pansiyon,HOTEL,41.219463,32.664181,1005 Nolu Cad No:9,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1e1a8d34-a775-4fdd-a747-c29623da9515,Ozturk Erkek Ogrenci Yurdu,HOTEL,41.220234,32.664078,1048. Sokak 15,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2989ca99-e023-47f3-94f7-46f10f6236b7,Aslantepe Girls Dormitory,HOTEL,41.221371,32.670113,1008. Cd. No:32 NO:34,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+9c7eab1a-975e-4aaf-a802-de1422aef673,Uğur Apart Pansiyon,HOTEL,41.220921,32.666557,,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+c0e9e6be-e8a9-4b89-9858-9d6cac20a436,Vadi Evleri,HOTEL,41.220409,32.666599,1006. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ead9851e-e1cc-4c1b-8597-64e602ad5365,La Vie Residence,SIGHT,41.220722,32.672729,1010. Cd. No:30,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7a1639ec-f648-488e-9f33-e7a1172810f0,Şato Cafe Restoran,CAFE,41.220207,32.672897,100.Yıl Mahallesi imperial sitesi 1010 nolu cadde ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+f1c06e23-92de-452b-aa63-2e08973f94ce,Abant Gölü,SIGHT,41.222141,32.664989,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d9af4d42-96e8-45a7-ae57-900c820134f9,100.yıl UĞUR APART OTEL / Pansiyon/ Günlük DAİRE,HOTEL,41.222378,32.663731,1004. Cadde 34,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+acab103d-fb8a-4a98-94df-76d13a40ac78,Özel Elit Yüksek Öğren Kız Aparti,HOTEL,41.222298,32.663025,1002- Cad. ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cbed0d9d-0c00-48df-a236-7652a18732a4,Arabica Coffee House Karabük,CAFE,41.223286,32.663673,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+df51769a-d2b4-4a4a-9766-334b0d692910,West Esports Gaming Cafe,CAFE,41.223629,32.663105,"Tom Apart, 1002. Cd. No:92/A",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4a12bc0a-098e-43d9-bef2-439c92b6777d,Beşbinevler Köprüsü,SIGHT,41.223286,32.660271,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+79315d23-6626-47b0-9958-1be175e5d5af,Arena Cafe,CAFE,41.221729,32.662159,1002. Cadde 62,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+45345554-111f-4859-ad5b-a706e2e1da65,Pizza Pizzaro,RESTAURANT,41.22155,32.661358,1002. Cd. No:47/3,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7dc2c292-3110-4088-95d3-6dd7e9b469b3,Alanguva Official,CAFE,41.221527,32.661263,1002. Cd. No:49,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+36b49968-145b-437d-aeb5-c8a8c86cf46a,Batın Erkek Yaşam Merkezi,HOTEL,41.221577,32.660103,1036. Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+43dd37d9-6ea6-4988-9b3e-640b5c13f1cd,Cityboss Cafe & Restaurant,CAFE,41.221416,32.661148,1002. Cadde,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+0db89b51-c75c-4b7c-8f9f-a7234cc1d9b3,Chef's Club,RESTAURANT,41.221325,32.661316,1002. Cd. No:47/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+67cd8297-eddd-49c3-ac8c-e485d0c514a0,Hürmet Sofrası,RESTAURANT,41.220165,32.660484,1002.nolu cadde Gökkuşağı Evleri No.38-40/C,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+93762543-f958-4cf3-b9ce-69284c58344d,Pizza Bulls  l  Karabük,RESTAURANT,41.220257,32.66045,Emek Mahallesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+a996b5e4-e082-4c6a-9c7d-82778326ac40,Komagene Etsiz Çiğ Köfte,RESTAURANT,41.220501,32.660336,1002. Cd. No:35C,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+71751735-546c-4c44-90bf-7eb8a3877640,Florida Cafe and Restaurant,RESTAURANT,41.220734,32.660198,100.YIL MAH.1036.SK. NO:1 A MERKEZ / KARABÜK,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+01a77262-0ca6-4302-af9a-32f2b2eb1364,Sıla Cafeterya,CAFE,41.220387,32.658321,Karabük 100,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e2fb9c10-4550-497c-839c-b6e032f856fb,Anemon Kent Karabük Otel,HOTEL,41.220486,32.656025,"Üniversite caddesi Şehit Ateşe Reşat, Moralı Bulvarı No:31",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ed238955-52ce-4ed9-ad87-e6f90838852a,M'Pati Café Park,CAFE,41.221729,32.648575,Üniversite Mah,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+3d224b0d-9a00-498f-ad7c-ee9651e53113,Karabük Beşbinevler Cumhuriyet Mah.,HOTEL,41.227135,32.654465,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4155788f-6915-42af-b501-814eac325da6,Ihlamur Teras Yenice,HOTEL,41.226517,32.661079,Karabük Sokak 14,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+476bf1b4-4c65-4f05-bebb-e0d25d0f1a04,Beşbinevler'de,HOTEL,41.224148,32.658314,Beşbinevler,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+01fda997-41ed-4dbd-95ee-e565f2d37827,Starbucks,CAFE,41.224247,32.664467,,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+9e608f52-6329-45a7-b8e6-905aec4b93a3,Çılgın Çorba ve Izgara,RESTAURANT,41.225689,32.665165,Karabük yüzüncüyıl mahallesi 1009 nolu cadde 54/H Merkez,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+01cec305-0982-4d51-8f15-f49b00e38eb9,Domino's Pizza,RESTAURANT,41.225586,32.664871,Yüzüncüyıl Mah. 1009 Nolu Cad. Ayvaz Çarşısı No:54,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+670035e2-a6a1-4219-9a4c-8d4d2bd20110,Kıtırhane Pasta Cafe,CAFE,41.225567,32.666168,"hüsam apartmanı, 1073 sk, merkez",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+17f971c4-67f4-4357-b73c-d42f5f27d8fe,Yılmaz Pansiyon,HOTEL,41.224636,32.669449,1065. Sk. No:21,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+2ee5e9fc-12c8-4cfd-94ee-514048a79fe0,White Tower,HOTEL,41.226124,32.668655,100 Yıl Mah 1071 Sok,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+53dfcc1e-5f95-4003-a997-718e8e929935,Çiğköfteci SAİT,RESTAURANT,41.226105,32.666035,100.yil 1009 Cad,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+35357743-f0d4-4e68-8d56-25097a8b9f5e,Ankara Göksu Parkı,SIGHT,41.229282,32.666405,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+723591f3-ef47-47fd-8b3e-fc96ca690b0e,Kanyonvadi Hotel,HOTEL,41.227753,32.669399,"SAFRANBOLU Merkez Karabük TR, 1010. Cd. No:76",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ba7db816-6e78-4659-b191-e1214b16786d,Safranbolu,SIGHT,41.231323,32.665272,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+17be6416-cfa7-4ba0-bc28-78cb39253c6c,Beşbinevler Karabük 75.yıl Parkı,SIGHT,41.230198,32.66124,Beşbinevler,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+daa4c3ca-00c7-436e-8790-893ca39fdb55,Çağ Çelik beach,SIGHT,41.234219,32.646538,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e8266a4b-855c-418c-8cb7-08892636b3d2,Karabuk Besbinevler Sahin Tepesi,CAFE,41.235237,32.653362,Beşbin evler Şahintepesi,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+54ff4e3a-3c5f-4cff-a40d-eebb73830e97,toros,CAFE,41.234898,32.653206,63. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8c90eeb2-0f9d-4fb6-be6d-d454923cd5f7,Maraş ice cream,CAFE,41.234879,32.653305,63. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+18b5f3a1-eafc-48e7-a6b6-9613e8dc6845,Selalmazlar Dondurma,CAFE,41.234848,32.653156,Beşbinevler cumhuriyet mahallesi betim  iş merkezi karabük merkez (şahintepesi) ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+61cedf3a-4e6f-4c93-b0be-aea95675b524,Eymen Pide Salonu,CAFE,41.234428,32.652969,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ec70d987-e991-450b-8302-19fc0171bb0d,Ulusoylar Market 5000 Evler,SHOPPING,41.233299,32.661201,73. Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8f50df73-fc8f-4766-aecd-80b6aac41fc2,Keltepe Eğriova Gölü,SIGHT,41.234234,32.666096,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e2abeae6-c7f5-4da2-a656-fd94d4a205af,Kastamonu Saat Kulesi,SIGHT,41.233707,32.662498,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+efeb63d0-8c5c-4254-9617-941e5dbeba8f,Yalçın Vista,HOTEL,41.236759,32.675934,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cc38f7d3-6977-485f-aa51-b21b33fafe8d,Hilmi Usta Kokorec Kofte Sucuk,RESTAURANT,41.23856,32.67564,Adnan Menderes Blv. No:121 G/11,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+55a319fd-cd69-4942-81ca-47a29e5f9be4,Mahra Kultur Ve Sanat Evi,SIGHT,41.238342,32.672901,Eski Çarşı,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d48f2e96-3b9e-49a1-b597-0d0b97d41f85,Bulak YaŞAm Evlerİ,SIGHT,41.23872,32.663578,17. Cd. Beşbinevler Polis Karakolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+4064f982-8e3b-4c78-b79c-476e89a8a983,Beşbinevler'de,HOTEL,41.237923,32.661087,Beşbinevler,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+7a421a4f-4411-4ee8-9b8c-69918bdbd124,Ayvaz City,SIGHT,41.236004,32.656929,62 Nolu Sok,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b7c89082-35f1-4f5e-a628-1eb68c00a554,Elya Cafe 5000 Evler Karabuk,CAFE,41.236897,32.658237,Karabük Ormancılar Parki,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d91d5254-0fda-46a3-96e8-8dcf6a53c019,Ormancılar Parkı,SIGHT,41.237106,32.658249,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+1c8f6a9f-b370-49a5-9821-3100c0a33563,Safran konak,RESTAURANT,41.237099,32.65551,,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+2119d1de-4a02-45df-ac8d-b5c97011cf69,Değirmenönü Alabalık Tesisi,RESTAURANT,41.215672,32.425858,,Yenice,CDLA-Permissive-2.0,Overture|meta
+ea0ae04a-b030-4501-b0e3-30da30841477,Tas Mekan,RESTAURANT,41.235191,32.350887,"Hüseyin Beyoğlu köyü merkez mahalle, no 1",Yenice,CDLA-Permissive-2.0,Overture|meta
+8ae24887-44f0-4663-b641-2085ce14b9ac,Kelemen,SIGHT,41.213402,32.362541,,Yenice,CDLA-Permissive-2.0,Overture|meta
+777128c4-31ab-4704-9478-847f9f86b613,Karabuk Yenice Kırıklar Kalaycılar Mevkii,HOTEL,41.20787,32.321392,Yenice Merkez Karabük,Yenice,CDLA-Permissive-2.0,Overture|meta
+d9387c20-fdea-4740-98ed-3498b9fbca86,Maraş Usulü Kardelen Dondurma,CAFE,41.200993,32.326,,Yenice,CDLA-Permissive-2.0,Overture|meta
+86da29e4-bb34-4ea0-98d3-2e3ce8535da8,Kardeşler Pastanesi,CAFE,41.200993,32.328171,Hoca Ahmet Yesevi Cd.,Yenice,CDLA-Permissive-2.0,Overture|meta
+021b2cc1-39c3-447d-9418-c61a216d3d02,Üsküdarli Et Lokantası,RESTAURANT,41.200768,32.328938,Bülent Ecevit Cd. No:26/A,Yenice,CDLA-Permissive-2.0,Overture|meta
+0486c1fa-1a2a-4171-9540-8be91c5fe91d,By Pide Mantı,RESTAURANT,41.200851,32.32748,Celal Bayar Cd. no 4/B,Yenice,CDLA-Permissive-2.0,Overture|meta
+70559390-859b-4b4c-87b1-6ecdf0f883d8,Bayır Restaurant,RESTAURANT,41.200207,32.329342,"No:, Bülent Ecevit Cd. No:10",Yenice,CDLA-Permissive-2.0,Overture|meta
+4f8b1f18-8b22-4c6c-8a2d-0fe0a7247792,Maçka Cafe,CAFE,41.200417,32.327896,Menderes Cd. No:17,Yenice,CDLA-Permissive-2.0,Overture|meta
+3fc2c682-b5f4-4bfd-a002-9b9eb13bdd64,Şehit Er Celal Hatıl Parkı,SIGHT,41.200695,32.327244,Celal Bayar Cd.,Yenice,CDLA-Permissive-2.0,Overture|meta
+ac69ef15-33ee-4b2c-bbc9-418075a16e12,Komagene,RESTAURANT,41.200867,32.327267,Celal Bayar Cd. No:8/A,Yenice,CDLA-Permissive-2.0,Overture|meta
+64ce1f24-8a42-4979-9fb8-7399348dd460,CafeBedevi,CAFE,41.20084,32.326748,Celal Bayar Caddesi,Yenice,CDLA-Permissive-2.0,Overture|meta
+3cce703e-fbf4-473c-850a-f0ebca1d9bb2,Mira Bebek,RESTAURANT,41.200794,32.32637,Terminal Karşısı,Yenice,CDLA-Permissive-2.0,Overture|meta
+80be450a-1ee1-4823-9b1c-cd05989c3875,Ferah Restaurtant,RESTAURANT,41.199051,32.32975,Değirmen Yolu Sk.,Yenice,CDLA-Permissive-2.0,Overture|meta
+2ce7633e-6e0a-4a14-9422-4cfb3093a4e2,Otel 78,HOTEL,41.199871,32.329578,İncedere Cd.,Yenice,CDLA-Permissive-2.0,Overture|meta
+5a134701-5ecc-4b71-ad70-1c61856180dc,Yenice Göktepe Yaylası,SIGHT,41.200634,32.329689,,Yenice,CDLA-Permissive-2.0,Overture|meta
+2d0206c1-d38b-414c-b950-98d82134e28a,Yenice Gönül Yaylasi,SIGHT,41.199532,32.344299,,Yenice,CDLA-Permissive-2.0,Overture|meta
+b3c33520-1597-4bf2-8b40-485d16e2a992,Ihlamur Teras Yenice,HOTEL,41.192013,32.335056,İbrahimbeyler Mevkii No:14/5,Yenice,CDLA-Permissive-2.0,Overture|meta
+a6f5c259-dab7-40f9-9aa4-63ce9a423e6d,"Bolkuş, Karabük",SIGHT,41.159443,32.516666,,Karabük,CDLA-Permissive-2.0,Overture|meta
+8a103943-98b4-4eaf-9cf4-c9fc5fd857f2,Gözür Çamlığı Ceviz Bahçesi,CAFE,41.168755,32.450123,Keltepe Saitler Köyü ,Yenice,CDLA-Permissive-2.0,Overture|meta
+acd1fc37-f9d4-4907-a6f3-6c133db2adea,Yenice Forest Pansiyon,HOTEL,41.173611,32.346516,"İncebacaklar Köyü, Yenice/Karabük",Yenice,CDLA-Permissive-2.0,Overture|meta
+6ea89aec-57e2-4cdf-a50c-2a9256a7e6b3,Albergo Butik Otel,HOTEL,41.173763,32.346371,"Şeker Kanyonu, İncebacaklar Köyü",Yenice,CDLA-Permissive-2.0,Overture|meta
+ee383e80-f566-4f87-8ef2-941cb74fa8b1,"Salmanlar, Karabük",SIGHT,41.137218,32.50222,,Karabük,CDLA-Permissive-2.0,Overture|meta
+c11607d3-bfe9-46ff-baa3-6c0b5f3a21f4,Yenice Petek Pastanesi,CAFE,41.12096,32.674694,Yenice,Karabük,CDLA-Permissive-2.0,Overture|meta
+462f1853-475d-462e-93b0-bab222d826e6,"Zopran, Karabük",SIGHT,41.126225,32.635162,Zopran köyü,Karabük,CDLA-Permissive-2.0,Overture|meta
+b0f84e04-f7ce-43f3-9547-d08597e5b16a,Çakırlar Beton Parke,SIGHT,41.140778,32.66766,,Karabük,CDLA-Permissive-2.0,Overture|meta
+f03b1f16-348a-462c-a7e4-e3d16bc9898b,Çelikoğlu Demir Çelik,HOTEL,41.143425,32.638527,,Karabük,CDLA-Permissive-2.0,Overture|meta
+5e1726bd-6fc7-4900-90e3-9aabc3a09ebb,Mencilis Mağarası  Otelozgur cam teras seyir cafee,HOTEL,41.141029,32.613491,özgūr cam teras cafe,Karabük,CDLA-Permissive-2.0,Overture|meta
+6acfbfe9-6fec-4b82-b000-994e637185e4,"Ödemiş, Karabük",HOTEL,41.158607,32.59333,,Karabük,CDLA-Permissive-2.0,Overture|meta
+d6ce8f4e-a11e-4757-abca-21751b79c14e,Eğriova Göleti,SIGHT,41.173725,32.581364,Yenice Ormanları,Karabük,CDLA-Permissive-2.0,Overture|meta
+27b40430-949e-4b65-9e01-c21dbec612c6,Akgün Ticaret Merkezi,SHOPPING,41.168163,32.639221,Ankara Bulvarı 5A,Karabük,CDLA-Permissive-2.0,Overture|meta
+7c8ef90c-c509-4971-819c-6dfcf36973cf,Aydinlikevler Eren Pide Lahmacun Salonu,RESTAURANT,41.1777,32.617443,Yeşilyurt Cd. No:18,Karabük,CDLA-Permissive-2.0,Overture|meta
+1189000c-0550-47bc-a363-14e5296b7e3a,Pasta Dunyası,CAFE,41.177872,32.617271,Yeşilyurt Cad Safran Saray Sit. Cad Blok,Karabük,CDLA-Permissive-2.0,Overture|meta
+386c1799-12d9-4518-8a6d-46cda3b2a0b2,İhlas evleri,SIGHT,41.177177,32.619957,,Karabük,CDLA-Permissive-2.0,Overture|meta
+88960898-68f2-4aab-8010-d7596871a10e,Çamlıca Tesisleri Restoran Cafe ve Düğün Salonu,RESTAURANT,41.176929,32.622295,"520, Nolu Sokak No:9",Karabük,CDLA-Permissive-2.0,Overture|meta
+592e168e-4d07-41a3-bffd-9672d36bb488,"Bürnük, Karabük",SIGHT,41.160549,32.751663,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+99378a0c-f7ab-473e-8662-8f6f2a23fc07,"Çavuşlar, Safranbolu",SIGHT,41.153889,32.79583,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+6942f793-af42-4ceb-842e-72a2aa6910b7,"Abdullar, Ovacık",SIGHT,41.13361,32.931389,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+bf7ed4ec-92d8-47e8-a63b-efa952533d6f,"Hacılarobası, Safranbolu",SIGHT,41.153332,32.835552,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+9496d924-3981-4d69-98d1-9ab0246d3dc7,Karasu Alabalık - Zeynep'in Yeri,RESTAURANT,41.203571,32.925396,Karasu Mah. TOPRAKCUMA,Ovacık,CDLA-Permissive-2.0,Overture|meta
+94406a04-018c-4540-bd9b-a87c3fbaf83f,Dipsiz Göl,SIGHT,41.210957,32.85672,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+cd2c31c0-111d-497d-b885-ed3dacb5aca1,"Akören, Safranbolu",SIGHT,41.221382,32.830276,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+ddf5ee42-c675-4136-8796-fd3860e3722b,"Karacatepe, Safranbolu",SIGHT,41.221661,32.884441,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+381e4277-1beb-4a0a-8158-5856b8a4239f,Karasu Dinlenme Tesisleri,RESTAURANT,41.200764,32.933052,,Ovacık,CDLA-Permissive-2.0,Overture|meta
+550d8b9b-5a63-4a35-90f5-b3997e7b1ecd,"Pelitören, Safranbolu",SIGHT,41.263332,32.866943,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+b2822b1d-4341-478f-aba0-b9a72f3f7206,Bestami Gözleme,CAFE,41.311405,32.819225,çeşme mah. demirciler cad. no:5  Eski çarşı,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e1ebf282-bbde-4d62-a3bc-766b36c657a0,"Saraycık, Eflani",SIGHT,41.319004,32.942165,,Eflani,CDLA-Permissive-2.0,Overture|meta
+18c105c4-9007-4d26-90ac-eb4fd5ac24cc,"Saraycık, Eflani",SIGHT,41.316944,32.943886,,Eflani,CDLA-Permissive-2.0,Overture|meta
+fd7fd41e-bd37-43f1-9d2c-19a18f1e35ba,"Çukurören, Eflani",SIGHT,41.356388,32.87611,,Eflani,CDLA-Permissive-2.0,Overture|meta
+a87feffa-ff47-4a31-ae80-71159482a1b4,Karabuk Eflani,HOTEL,41.421425,32.956596,Karabük eflani çukurören köyü,Eflani,CDLA-Permissive-2.0,Overture|meta
+06de222b-dba0-43a6-985b-44c0512d5565,Bizim Kofteci,RESTAURANT,41.422756,32.958492,Fevzi Çakmak Cd. No:22,Eflani,CDLA-Permissive-2.0,Overture|meta
+15bd5684-a5f9-46d1-85b3-c045346a86e5,Şehit Barış Efe Parkı,SIGHT,41.422176,32.95631,,Eflani,CDLA-Permissive-2.0,Overture|meta
+c5af18a3-9744-4942-be98-8aeb710e614d,Eflani Aile Çay Bahçesi,CAFE,41.422512,32.956581,,Eflani,CDLA-Permissive-2.0,Overture|meta
+953dddcb-11cd-4407-8724-9f53527d85f5,Eflani Park,SIGHT,41.42263,32.95623,,Eflani,CDLA-Permissive-2.0,Overture|meta
+9a91b37b-47a8-42a9-96c3-a85dd1fa1a30,"Müftüler, Eflani",SIGHT,41.436104,32.880127,,Eflani,CDLA-Permissive-2.0,Overture|meta
+e893b9f4-0917-45b8-b63d-419657e20023,"Müftüler, Eflani",SIGHT,41.445,32.896942,,Eflani,CDLA-Permissive-2.0,Overture|meta
+4e31cd53-9061-4c55-985f-30d9c0002f4a,"Bedil, Eflani",SIGHT,41.465099,32.911255,,Eflani,CDLA-Permissive-2.0,Overture|meta
+21a2b901-ec10-43bd-bdad-08c3ef047012,"Eflani, Bostancılar Göleti",SIGHT,41.4543,32.947735,Bostancılar Merkez,Eflani,CDLA-Permissive-2.0,Overture|meta
+83810355-dc94-48e2-a5bb-55e97d213612,Bostancılar Göleti,SIGHT,41.452477,32.951458,,Eflani,CDLA-Permissive-2.0,Overture|meta
+b16c58c2-44ee-4432-af08-4c8146d78357,Özgenç Kıraathanesi,CAFE,41.423126,32.957027,,Eflani,CDLA-Permissive-2.0,Overture|meta
+170ae941-c95a-4c6e-a811-a77539ff676d,Tarihi Taşhan,SIGHT,41.423237,32.956924,,Eflani,CDLA-Permissive-2.0,Overture|meta
+2b4523a9-1bdf-4f41-b829-6e053ff36393,Kadıköy Göleti,SIGHT,41.423134,32.957382,,Eflani,CDLA-Permissive-2.0,Overture|meta
+4b6a600d-86d4-4b06-9419-3bfc192abbe5,Eflani Şehir Merkezi,SIGHT,41.424519,32.966087,,Eflani,CDLA-Permissive-2.0,Overture|meta
+cfc7d585-542a-4fb2-8f9e-37e187c703a3,Abdipasa Sahin Alabalik,CAFE,41.496857,32.588341,Şahin alabalık,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+621424b5-14fd-4bee-9f9f-459b499e9dd7,Vali Muhtarın Konağı,SIGHT,41.469303,32.736153,Kehler Köyü Muhtarlığı,Eflani,CDLA-Permissive-2.0,Overture|meta
+81f1218f-ea5a-46db-a2fc-789ef6dc4ccb,Bartin Kumluca Arslan Alabalik,RESTAURANT,41.429039,32.554535,,Karabük,CDLA-Permissive-2.0,Overture|meta
+642f4356-7ff9-47a1-b306-5ae375a13da2,Ortakçı Göleti,SIGHT,41.420177,32.733818,"Eflani, Safranbolu",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+e474056e-5e1e-4235-9503-2f9c4787be40,GÜNEY CAFE,CAFE,41.419022,32.703461,Aşağı Güney Köyü,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+07d23805-5bde-4f19-9701-f68517ac81b9,Çaypark,CAFE,41.410122,32.732647,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+825caefa-b1ee-4558-98e4-b1b812f74992,Gülistan Cafe,CAFE,41.401714,32.723667,"Safranbolu Karabük TR, Bartın Safranbolu Yolu",Safranbolu,CDLA-Permissive-2.0,Overture|meta
+8f06dd51-3ab4-44ae-9bc6-b4f347c6356b,Fakirin Yeri,RESTAURANT,41.404495,32.719467,Karabük Bartın Yolu ,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+d1e06e55-497e-43c6-ade7-e5d201fc2735,"Örencik, Safranbolu",SIGHT,41.376663,32.76722,,Safranbolu,CDLA-Permissive-2.0,Overture|meta
+c86099b6-b873-4d44-ba6d-c9e45f89b2bc,Can Alabalik,RESTAURANT,41.397465,32.484745,Bağdatlı köyü kumluca,Yenice,CDLA-Permissive-2.0,Overture|meta
+dc61c3f6-ab40-4cd6-9e22-c0f171688931,Karasu Şelaleleri Çınar Alabalık Tesisleri ve konaklama,RESTAURANT,41.450737,32.459293,"Merkez, 74600 Kumluca/Ulus/Bartın",Yenice,CDLA-Permissive-2.0,Overture|meta
+2a1c227e-fc9d-45f9-9714-55fb15543542,Kumluca Zeki Cakan Yuruyus Parkı,SIGHT,41.450081,32.465794,,Yenice,CDLA-Permissive-2.0,Overture|meta
+80ec6ac1-5c06-4d87-978f-9876eeac0bc4,Ozer Terminal Kıraathanesi,CAFE,41.449993,32.46521,Bartın/Kumluca,Yenice,CDLA-Permissive-2.0,Overture|meta
+2c0bc6b3-430b-42ea-9ae7-d86fcf053277,Kumluca Çetin Tic.merkez Fırını Unlu Mamülleri,CAFE,41.448414,32.464668,,Yenice,CDLA-Permissive-2.0,Overture|meta
+15b929f0-c444-446e-a7b9-9b0ffde16118,Camcıoğlu Kumluca,SHOPPING,41.449303,32.465382,,Yenice,CDLA-Permissive-2.0,Overture|meta
+59419810-a700-44e1-9009-e7b390ca0762,Kumluca Merkez,HOTEL,41.449219,32.46611,,Yenice,CDLA-Permissive-2.0,Overture|meta
+db06e7e9-b01b-4207-b319-39a665c5d012,Rüya Lokantası (Aşçı Mehmet),RESTAURANT,41.449348,32.466961,,Yenice,CDLA-Permissive-2.0,Overture|meta
+7d998194-b96a-4959-8b6c-f7cff995503b,Kumluca Pastanesi,CAFE,41.449451,32.466805,Kumluca ,Yenice,CDLA-Permissive-2.0,Overture|meta
+f4f374ca-1535-46fd-8141-7ffec96d2c6e,Kumluca Merkez,HOTEL,41.444031,32.472904,,Yenice,CDLA-Permissive-2.0,Overture|meta
+eff7bfc0-bbe0-4620-8c73-c79d1cdecdc6,Hocanın Yeri Steakhouse,RESTAURANT,41.472569,32.524395,"Kıyıklar köyü, camiinin yanı",Karabük,CDLA-Permissive-2.0,Overture|meta

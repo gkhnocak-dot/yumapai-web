@@ -1,0 +1,871 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets
+ab59a1a7-23c8-4e61-b652-452753d6bd35,Çermik Sinek Şelalesi Aile Çay Bahçesi,RESTAURANT,38.25145,39.502361,Çüngüş Yolu Üzeri Yukarı Şeyhler Yol Ayrımı Karşısı,Maden,CDLA-Permissive-2.0,Overture|meta
+4fd5a701-d04e-4814-92e2-00ba464738c9,Elazıg Maden Tesislerinde,RESTAURANT,38.328857,39.520458,"""Yaşamkent, İmam Efendi Bulvarı 11""",Maden,CDLA-Permissive-2.0,Overture|meta
+6fccc164-22e7-4d8a-a369-d016e0d66633,Tunceli Bulbul Deresi,RESTAURANT,38.997856,39.505184,Kanoğlu Köyü Yolu,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+613e8ace-502d-4cf2-be63-378e9a3eb051,Kanoglu Et Ve Balik Lokantasi,RESTAURANT,38.989304,39.500408,Tunceli Elazığ Yolu,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+aeefc7fe-ff25-431e-b94b-bd7932194392,Karasu (Euphrat),SIGHT,38.874699,38.7939,,Keban,CDLA-Permissive-2.0,Overture|meta
+e29905ca-544b-47c6-bc39-aea002f9ea4c,Keban Barajı,SIGHT,38.812576,38.755367,,Keban,CDLA-Permissive-2.0,Overture|meta
+e6750634-1a86-44e9-9081-41e2ce46124a,Circir Selalesi Keban Alabalik Tesisleri,RESTAURANT,38.786339,38.752968,"Bahçelievler, Elazığ Caddesi No:1",Keban,CDLA-Permissive-2.0,Overture|meta
+e531109c-4e16-4d17-84e4-fd2ba8c06452,Elazıg Keban Koprubası,RESTAURANT,38.803665,38.728989,Elazığ-keban Köprübaşı,Keban,CDLA-Permissive-2.0,Overture|meta
+991de68c-6b88-4157-8ef8-3e4e564285b4,Fırat Alabalık Dinlenme Tesisleri,RESTAURANT,38.803631,38.729004,Keban Barajı girişi,Keban,CDLA-Permissive-2.0,Overture|meta
+31122edd-17b2-4713-b442-ba642029eff0,Keban Barajı,SIGHT,38.803741,38.729084,,Keban,CDLA-Permissive-2.0,Overture|meta
+2cb73a2e-a28f-4cd8-b77d-705b5008ef2c,Keban Baraj Gölü,SIGHT,38.799881,38.72958,,Keban,CDLA-Permissive-2.0,Overture|meta
+014e7f2b-b30b-467d-bebf-27d5abe5ac22,Keban soğuk Mağara,RESTAURANT,38.804207,38.725906,,Keban,CDLA-Permissive-2.0,Overture|meta
+51df61de-6100-42df-88c2-efc85d10d197,Cost Plus World Market,CAFE,38.822586,38.743675,7662 N Blackstone Avenue,Keban,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ee72861a-ae4f-4d01-a509-40f67a236cbc,Çınaraltı,SIGHT,38.942692,38.716282,,Ağın,CDLA-Permissive-2.0,Overture|meta
+a0722f54-90b3-45ea-b848-f40cd053f218,Çınar Restorant,RESTAURANT,38.943867,38.714146,Ağın Arapgir Yolu No:6,Ağın,CDLA-Permissive-2.0,Overture|meta
+30bc5651-cbef-4da1-a570-b183909829d6,Ağın Bridge,SIGHT,38.915497,38.662998,,Ağın,CDLA-Permissive-2.0,Overture|meta
+b8bbdf4e-41c5-48b8-81e4-32fa71020913,Karamagara Bridge,SIGHT,38.924961,38.658485,,Ağın,CDLA-Permissive-2.0,Overture|meta
+dbd017be-1431-455a-bc63-fda205b31520,Ağın Köprüsü,SIGHT,38.918526,38.657379,,Ağın,CDLA-Permissive-2.0,Overture|meta
+b16465c4-3c47-4ff8-b70b-176113b4968c,Ballıca Alabalık Tesisleri,SIGHT,38.822639,38.607986,,Keban,CDLA-Permissive-2.0,Overture|meta
+627d1ebe-293d-4fae-be9c-09f8c37ff6af,Paçacı Ziya Usta,RESTAURANT,38.537411,39.145931,Malatya Caddesi 49,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+62d2202b-b1d9-4ca6-86a1-59d10b347943,Chef's Garden,RESTAURANT,38.643753,39.171421,Güney Çevre Yolu Galericiler Sitesi Son Blok Üstü NO:303,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+862ebe1e-7512-4e24-8839-32a5ff9934ad,Efruze konutları,SIGHT,38.648933,39.164757,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+137b2728-d9fa-4385-a8e4-7718290dabdd,Nova Castle,RESTAURANT,38.645031,39.161217,Çevreyolu 112 Acil Çağrı Merkezi Önü,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7204deec-321c-4bec-b0b9-97cf2678474a,Champion   Park AVM Elazığ,SHOPPING,38.651627,39.133369,Abdullahpaşa Mah. Eski Misland Avm Yeri,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e53b27a2-133e-4197-a5cd-0ead80d15109,Hilal Park Kafe Ve Aile Çay Bahçesi,CAFE,38.646488,39.129604,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bf51b7df-76f0-42aa-a86e-2801a75abb42,Elmira Restaurant and Garden,RESTAURANT,38.633869,39.120968,Süleymanpaşa Sk. No:144/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+47625e4b-a3f3-4f15-b9e3-6c233ffb19b1,Zulu Elazığ,CAFE,38.628368,39.111137,Malatya Caddesi 11,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dafcfdc5-cc47-458d-b89c-df29f027a7b5,"Ormansırtı, Arapgir",SIGHT,38.616665,39.070274,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+689a231d-4e97-4718-9129-f4933d34104b,Banvit Elazığ,SIGHT,38.621788,39.068306,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f96263c7-1223-48a7-8b11-4ca94329351a,Kavurmacı Rıfat Usta,RESTAURANT,38.547001,39.039181,Malatya Caddesi 23,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8cc13963-bceb-4466-8d61-4a4290c87dab,Haroğlu Kanye Aşan Parkı,SIGHT,38.596832,38.918026,,Baskil,CDLA-Permissive-2.0,Overture|meta
+611d3f7a-7c93-4f3f-a0cf-5819853977d2,Çakmaktepe Kır Tesisleri,RESTAURANT,38.706982,38.934799,Keban yolu 22km,Baskil,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d3d67cf0-ad29-4c9b-b11d-af1af056e014,Agmezra Kavakpinar,RESTAURANT,38.705063,38.978092,Kavakpınr Köyü,Baskil,CDLA-Permissive-2.0,Overture|meta
+fb4cf225-e992-4a97-a9d2-d25e7e58b4f8,Baysallar Balık A.Ş.,SIGHT,38.874859,38.944412,Çemişgezek Eski Feribot İskelesi,Keban,CDLA-Permissive-2.0,Overture|meta
+9c0212ea-f10d-4632-9e00-7eb572443e69,"Konaklar, Pertek",HOTEL,38.9175,39.022499,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d10dbd43-3f75-425b-bc0e-beac643130e7,Cazibe Cafe Restaurant & Poligon,RESTAURANT,38.684265,39.107456,Şht. Korg. Hulusi Sayın Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7a51a29e-1aa7-4448-b54b-1cae5789fba6,Hangar Cafe Restoran,CAFE,38.683823,39.108006,Şht. Korg. Hulusi Sayın Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+37333871-2945-40a1-a639-01ad145c42e2,Payitaht,CAFE,38.683102,39.138046,ŞAHİNKAYA MAHALLESİ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+115c83ce-a1b6-4a65-83e1-59a38e992e2d,BAW Garden,CAFE,38.654579,39.140186,213 sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6a35ac0d-6da3-4358-b02c-ffc7b2ee3a53,Aromall coffe gormet,RESTAURANT,38.657631,39.143303,1. Sokak 2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3720dd82-412d-4f9d-8871-1969a555af9d,Nova Castle,CAFE,38.65683,39.143875,3. Sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c5aeccbb-3163-4dc8-b988-646ed7fdc109,Paşabey kilo mangal,RESTAURANT,38.657112,39.144867,273.sok.abdullahpaşa mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+88f74520-2288-4e1b-af64-ec1b63c597e9,Başkent Konutları,SIGHT,38.662743,39.146687,287. Sk. No:9,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7a95ad8e-9072-4f96-99da-8cef84c5fb47,Armakent Konutları,HOTEL,38.66576,39.151676,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dd7b2017-7a93-4130-b691-87b7e9a3f3ad,Zirvekent Konutları,SIGHT,38.665607,39.151043,Cumhuriyet Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ebf756b8-ff08-4997-838d-ec18869dae62,Harput City Evleri,HOTEL,38.669399,39.152397,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2a05f968-1e44-414c-9960-c145ed2d057e,Asmalı Cafe,CAFE,38.669201,39.158047,Cumhuriyet Mahallesi Salim Hazardağlı Caddesi No :1/E,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+63500c4a-25cf-4462-ae5a-c5846a204cb4,Tarihi Adana Kebapçısı,RESTAURANT,38.663025,39.157749,"Abdullah Paşa, Hamzet Sk. No:1, 23270 Maidan, SPORİUM23 KARŞISI",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+06eeef1d-3c35-403f-88c4-5414018c3d6e,Ferhat ın Yeri,CAFE,38.6605,39.158199,251. Sokak 13,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e6a4959f-97e9-465e-a0c9-f4e9cf96764b,Park Yirmiuc,SHOPPING,38.655483,39.151115,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0ef8f2a1-48ba-49a2-be00-7700114be702,Cajun Corner Elazığ,RESTAURANT,38.655209,39.151157,Malatya Caddesi 11,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+38cd743a-1bcf-48bd-8c16-cd3eb4a2300c,Venedik Pastanesi,CAFE,38.654991,39.153316,Gazi Cd. No:86,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6288f821-f724-42a5-855a-3b955f0c4f7c,Hazar Köfte&Döner Izgara,RESTAURANT,38.656044,39.153687,Malatya Caddesi 47,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d6735529-5066-4ef6-8008-216060aa9d5f,Konak Restaurant,RESTAURANT,38.656197,39.15403,Malatya Caddesi 49/a,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9c4c32be-472b-47ec-b55b-4aac630670e6,Firat Erkek Ogrenci Yurdu,HOTEL,38.656109,39.155869,"No:, Mazı Sk. No:3",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7537a883-1b8e-49c9-afa6-7134ea7b4298,Yedi Renk Cay Evi Cafe,CAFE,38.656429,39.157524,Zahitler Sk. No:4/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9ea912c7-34be-40d9-8bbf-16269c5f39b7,Kahvezell Cafe,CAFE,38.655853,39.157837,Ergenekon Sk. NO:47/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+858a926e-522d-4267-96e8-e635166ab089,Elazığ Türk Apart,SIGHT,38.655437,39.157932,Malatya cad.Ergenekon sok.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dd449dc0-448a-4b46-9de2-8e15aeb013c5,Elazig Bursa Iskender Kebapcisi,RESTAURANT,38.657951,39.159702,Malatya Cd. No:89/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+297ffd22-c833-483e-994f-0a56a7c48c2f,Polatbey23,RESTAURANT,38.658024,39.159779,Malatya Caddesi 89A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+47e205f1-0f08-4817-9765-42bfb55afb11,Birizgarden Hotel,HOTEL,38.658001,39.159794,2000 Sk No:121,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+12065795-d1f6-4684-b13e-5f58195a22d1,Bogota Cafe,CAFE,38.65799,39.159843,"Birizgarden Otel, Malatya Caddesi 89",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b7de0d80-cc55-4390-be43-e79f061025a0,Damla Dondurma Pastane,CAFE,38.661362,39.166039,Cumhuriyet Malatya Caddesi D:No 106/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a59ff922-7ee6-45ed-8811-431f8f45cb87,Elazığ Olimpiyat Paintball,ACTIVITY,38.655888,39.166603,Ataşehir Mahallesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+68f7dbcd-1c08-4a7e-a3b8-971e74cdf9ac,Optimum Oyun Salonu,CAFE,38.657757,39.163143,Muharirler Sk. No:26,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a63af86d-7aa0-4a78-83a9-ff65f40a0ee4,Elazığ Olimpiyat Paintball,ACTIVITY,38.655846,39.164433,Ataşehir Mahallesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b1fad572-5d8f-4e50-9494-43d375b79158,Elazığ Güzel Sanatlar Derneği,SIGHT,38.658443,39.172485,Dervişler Sk. No:41,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cdc03760-8b1f-47a2-90e1-d0bf1452c8ce,Acı Kahve Toptan Gıda Pazarlama,CAFE,38.660149,39.17276,İmam Efendi Bulvarı 67A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+29fe39a2-9a5e-47c7-8879-f33928480ab1,Liman Döner Hikmet Usta,RESTAURANT,38.660137,39.17572,Zeybekler Sk. No:44,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4f35da8d-328e-4e19-a9cf-63243369e96f,Fırınım unlu mamülleri,CAFE,38.662102,39.175198,Sancaktar Sk. No:53,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+11987df4-dfba-4888-b9ed-7a9756fac442,Horata Cafe & Oyun Salonu,CAFE,38.662647,39.170776,Şelale Sok,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4fa91df7-ee4f-4552-a5d9-80b2a3b966cb,Üsküre Market,SHOPPING,38.662468,39.170391,Akıncı Caddesi 140A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f803ec08-8089-47a3-8fa3-e4c4c2e2918d,Cafe Cıncık,CAFE,38.661381,39.167953,Ataşehir Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+09b0db66-223f-478f-a71f-811a1965925b,Orjin İskender,RESTAURANT,38.661919,39.169186,Malatya Cd. No:75/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a5337629-7163-4e24-a1f6-96fca25bcfde,Közde Çay,CAFE,38.661987,39.169235,Şelale Sk. No:59,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+54513676-809c-4eaa-bc22-8093d18f31cd,Divan Patisserie,CAFE,38.662098,39.167671,Malatya Cd. no : 62/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+45dd96db-6b37-482e-8d49-4016ac3dc658,Uğrak Pastanesi,CAFE,38.667698,39.171356,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+32a0e876-e5f9-41c6-ae30-67d8bd2dcb12,Pasta Aşkı,CAFE,38.66745,39.171577,Fatih Ahmet Baba Blv. No:27/B İç Kapı No:2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9ec91334-d435-4ca2-838c-79bfbc910066,Meşhur Paçacı Ziya Usta,RESTAURANT,38.663139,39.17186,Şelale Sk. No:49,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+89db867e-086b-4a7e-bab1-ea532f2cd712,Kafemm,CAFE,38.663185,39.171955,Şelale Sk. No:47,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d19d63ce-82a6-439e-837a-883ffe3db31b,Meşhur Gülcemal Aspava,RESTAURANT,38.663094,39.172142,Şelale Sk. No: 47/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b6cc1f87-6e26-4738-b0af-fb46730f4e9b,Meşhur Erzurum Cağ Kebabı,RESTAURANT,38.663261,39.172359,"Ataşehir Mahallesi 2000. Sokak 59/B-1, TEDAŞ Karşısı",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+70d67c29-eb45-4d9d-b1d0-d8cf2765c811,Bycan Burger Hause,RESTAURANT,38.663311,39.172455,Ataşehir Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+784b4e6f-e53a-4744-9d92-430faad5d37d,Serra Eşarp ve Çanta,SHOPPING,38.66444,39.172573,malatya caddesi park yirmiüç avm,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cd497481-87be-44a5-a091-9da1f1c43fde,Hazar Izgara & Köfte,RESTAURANT,38.664818,39.175632,Şelale Sk. No:39,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5647f72e-9d8e-4729-b9d0-2c9845d9d792,Sugar&Co Cafe,CAFE,38.665096,39.176277,Şelale Sk. No:33,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8bdb61c9-362f-45f9-8956-c45856db4de7,lahmacuncu,RESTAURANT,38.66515,39.176556,"malatya cad, Şelale Sk. no.31",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1274e522-b0da-47ec-a364-73c4770e6abc,Hisar kasap & restoranı,RESTAURANT,38.665257,39.176708,Malatya Cd. No:29,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+22b94d8a-608f-44e7-a770-4191135294c6,Yemen Kahvesi Elazığ,CAFE,38.665173,39.175915,Malatya Caddesi 33/a,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3f709196-c0d3-40bb-87ac-e64361e230d7,Burger King,RESTAURANT,38.665432,39.174915,"Elazığ Park, Malatya Cd. 23 AVM No: 70",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ccd20cfb-71c5-45ad-9986-63edaac88758,Popeyes Louisiana Kitchen,RESTAURANT,38.665394,39.174915,Malatya Caddesi Park 23 Avm No: 70 Dükkan No: 2 Nk01,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e9a75f8d-149f-490a-802e-58490e54fe1b,Ciğerci Bahattin Elazığ,RESTAURANT,38.665466,39.174942,"Park Yirmiüç AVM, Malatya Cd. NO:70",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d7c9c77d-9563-451e-a239-4fe191f0b63f,Angelucci coffee,CAFE,38.665489,39.174583,"Park, Yirmiüç AVM No:7070",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dc8168cc-adbe-4d1a-b639-fed079fc62d6,Harput Dibek Hazardağlı,CAFE,38.665382,39.174656,Acemgülü Sokak 35,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f49764dc-caba-4045-95c4-c0de9148646d,Pidem,RESTAURANT,38.665413,39.174484,Park Yirmiüç,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0b8f3264-5ac5-4ba9-bf25-237d52f6ee23,Sbarro,RESTAURANT,38.665489,39.174431,"Cumhuriyet Mah, Malatya Caddesi, No: 70 Elazig 2NK-05 no'lu dukkan",Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+ed94a0bf-4f5c-4dcf-a438-e50b82d2bfbf,Usta Dönerci,RESTAURANT,38.665489,39.174431,Cumhuriyet Mahallesi Malatya Caddesi Elazığ Park 23 AVM No: 70,Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+0640dd4e-298d-4c89-9686-53e4487cc32e,Baydöner,RESTAURANT,38.665543,39.17469,Malatya Caddesi 62,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+89bd57c5-d985-4c70-9205-b99b5cc90fdc,Park 23 AVM,RESTAURANT,38.665607,39.17485,Malatya Caddesi Park 23 AVM No: 70 Dükkan No: 2NK01,Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+69d716bf-6c43-44ae-807d-5d9f95a1ec86,Big Yellow Taxi Elazığ,CAFE,38.665592,39.174885,Park Yirmiüç,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9d804dbc-884f-4763-9dea-a88d9b119df7,Starbucks,CAFE,38.665562,39.174988,Cumhuriyet Mahallesi Malatya Caddesi Elazig Park 23 AVM No: 70,Elâzığ,CDLA-Permissive-2.0,Microsoft|Overture
+d09b8aa2-ca1a-420e-934f-d18923baecc5,Butat Tantuni Kavurma,RESTAURANT,38.666393,39.174854,Acemgüllü sk No:6/D,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2c7ba3c7-03d8-4b71-9521-4512e63b8d3a,Ottomanelazığ,CAFE,38.66642,39.175438,Cumhuriyet Mahallesi 2641 Sokak No:6A Merkez Elazığ,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+9650fdb4-d89c-435b-9793-25b42ba22126,Bayramefendi Osmanlı Kahvecisi,CAFE,38.666218,39.175381,Cumhuriyet Mh. Malatya Cd. No:68/1,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+684b624d-0a26-4b24-af09-46a9a7fb833d,Esperro Cafe Bistro,CAFE,38.665676,39.175331,Cafe Bistro Esperro,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e5cb1557-4061-48c4-8d62-6a15a75438d6,Sweet Heaven Coffee,CAFE,38.665771,39.175377,"""Park, Yirmiüç AVM No:7070""",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3fd55f82-6241-4089-bec9-ba8fdc50297e,Hayal Cafe Restaurant,RESTAURANT,38.665573,39.175976,Malatya Cd. No:68/1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1443089e-4cfb-4a24-8d0c-6bdeac401ba5,Ibrahim Ethem Restorant Hazardagli Sube,RESTAURANT,38.667221,39.17651,Hazar Sk. No:10,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d9e17f51-7144-43a0-b9ba-97bbdbb9412a,Atalaroğlu,RESTAURANT,38.667469,39.172756,Fatih Ahmet Baba Blv. No:20 D:B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c33a57e4-adc5-49db-b00f-acf16cf3c008,Liman Et Mangal & Cafe,CAFE,38.667908,39.173019,Fatih Ahmet Baba Blv. No: 28 - B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d1e70b85-0163-4909-8147-6c508e39fab0,El Ramos Pizza Cafe,RESTAURANT,38.667919,39.173031,Fatih Ahmet Baba Blv. No:28-1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5b9319a7-576f-4cdc-8bfb-90fc6d453d05,Lezzet Mutfağı,RESTAURANT,38.668419,39.174587,Fatih Ahmet Baba Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+39860021-9248-4b7c-bb4a-092614d3e209,Levent Börek Elazığ,RESTAURANT,38.670444,39.175625,Beyzade Efendi Blv. No:17,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bd36f800-2e95-468c-b132-983bff674434,Bekir Efendi Kahve Evi,CAFE,38.670071,39.175564,Beyzade Efendi Bulvarı 14,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9173b575-839d-4dc0-8ea7-a678e8d59904,L'italiano Pizza,RESTAURANT,38.673054,39.175392,Şht. Korg. Hulusi Sayın Blv. NO:69 D:1A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+88cf62f0-6cab-43ce-aa3b-e6ec5ddab13c,Karaçalı Çay Evi,CAFE,38.66888,39.17123,Elazığ Şehir Merkezi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0d43422a-44e4-4f55-a378-23bf9aca1ead,Havuzbasi Cay Bahcesi ve Kir Lokantasi,RESTAURANT,38.668083,39.168137,Vedat Dalokay Cd. No:55,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f714f9f9-e52e-44a7-9cbf-5b96230817b7,Hazar Konakları 11,SIGHT,38.672771,39.164005,Nimet Sk. No:2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+32c02bed-4d29-4d3c-9cc2-47168249b728,Ottoman Elazığ,RESTAURANT,38.669586,39.164722,"Cumhuriyet Cumhuriyet mahallesi, 2641.sokak no6/A,",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+46a347d8-0b24-4e50-9c74-b73a5d8fd8cc,Fesleğen Ev Yemekleri,RESTAURANT,38.669167,39.165436,Çay Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d92713e8-2707-4d26-ac46-221c844a824a,Gülsenin Mutfağı,RESTAURANT,38.667606,39.164917,Çay Sk. No:35,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+eed3aa50-6c57-4f6e-a91d-b6a6ee47fe0a,Durukent,SIGHT,38.672577,39.160908,Gaziosmanpaşa Cad,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+99769b97-cf7f-46c9-a098-e15818384dc8,Bahcelievler Erkek Ogrenci Yurdu,HOTEL,38.673191,39.160385,Gaziosmanpaşa Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+51253e22-7a4a-4b8b-a5cd-22378c1738b6,Başakşehir 4. Etap 2. Kısım,SIGHT,38.673553,39.162636,Cumhuriyet Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dacb3eea-0739-4c9b-86a1-a249f99fc9f3,Kavurmacı Murat Usta,RESTAURANT,38.676308,39.160378,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+257ba215-a732-4e2c-bc76-97841e32c21b,Davet Lahmacun Pide Salonu ve Paket Servisi,RESTAURANT,38.676189,39.160156,Şht. Korg. Hulusi Sayın Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d5bf812c-489e-4ee2-8a9a-92a453de6d97,Altınşehir Konutları,SIGHT,38.681789,39.165714,Çaydacıra Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7e0cbc7b-f93e-4974-a32a-5f65346949ac,Kebapçı Hikmet Elazığ,RESTAURANT,38.679615,39.166668,CUMHURİYET MAH AKGÜN OTELİ KARŞISI,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+05e1e605-8685-42ee-8740-832ac80bc79e,Matmazell Cafe & Restaurant,CAFE,38.677891,39.164669,Çaydaçıra Mah. Hacı Ömer Bilginoğlu Cad. No:14/Z01,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d4a4110c-98aa-410f-aa96-be430a2b1e98,Kadayıfçı Murat Usta,CAFE,38.674541,39.165363,Şht. Korg. Hulusi Sayın Blv. No:6,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+00e4feaa-9367-4ee1-bec7-6b783a0969ee,Parkyaşam Konutları,SIGHT,38.677116,39.168564,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ab1fce73-e3d9-4a3a-9175-4d166ddea00b,Pukka Bistro and Lounge,RESTAURANT,38.67374,39.170761,Şht. Korg. Hulusi Sayın Blv. No:103,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8c82aedf-2a27-4558-8376-11da41c5e78e,Jouska Lounge,CAFE,38.673416,39.174088,Şehit Korgeneral Hulusi Sayın Caddesi No 79,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+55acac1b-f2b0-4780-ad19-f79dde3625f6,Akgun Hotel,HOTEL,38.674232,39.174572,Şht. Korg. Hulusi Sayın Blv. No:20,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0d811a5b-a3d8-46d3-ae77-674ef41dba96,Paçacı Ağa Elazığ,RESTAURANT,38.673672,39.176571,"Akgün Avm Girişi, şehit Korgeneral Hulusi Sayın Caddesi",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2dbb059f-0076-4ba6-afc5-1c3f5f85de85,Acı Kahve Akgün AVM,CAFE,38.674019,39.176373,Akgün,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6e428706-4ca0-4a2a-b399-29d6e92b38e8,Restoran,RESTAURANT,38.673843,39.176662,Akgün Otel,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2444dae9-f011-4a1d-8052-6a490e8807f0,Kumpirci,RESTAURANT,38.67382,39.175629,"Bahçelievler, Şehit Korgeneral Hulusi Sayın Cad. Akgün Avm No:18",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a3e6fb39-bcbb-4b09-ac70-1f857b9ba792,Beyoglu Cafe and Restaurant,CAFE,38.680656,39.175362,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1c435827-6d8e-4c96-b41c-f631729e52e0,Balkon Cafe etiler,CAFE,38.680191,39.175217,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f960efbf-c5e7-4c71-ab2c-2491febed24d,Oltu Cağ Kebap Elazığ,RESTAURANT,38.682175,39.173012,Hacı Ömer Bilginoğlu Blv No:5 D:b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+436595e8-2599-4d64-8811-54ac26f861ae,Pasaport Pizza,RESTAURANT,38.683018,39.172935,ÇAYDA ÇIRA MAH. HACI ÖMER BİLGİNOĞLU CD. N:120 C BLOK DÜKKAN NO:8,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+23bc550d-594e-49f9-b35d-8e1e0d75d062,Alpedo Dondurma Cafe,CAFE,38.682972,39.172886,Çaydaçıra Mahallesi Hacı Ömer Bilginoğlu Çaydaçıra Caddesi No:120-C/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0475237a-92b0-41d4-aa4e-7cffee696948,Baklavasan Elazığ,CAFE,38.683216,39.172718,Adnan Kahveci Bulvarı 9L,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1b1cdc1b-46e7-4ef8-8fd2-1c17bc6d32ae,Cafe Makara,CAFE,38.683052,39.170898,Akıncı Caddesi 138,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ec691635-10af-408e-b310-d5994e13e7bb,Mandala Çaydaçıra,CAFE,38.684483,39.168941,Adnan Kahveci Bulvarı 45,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+89949e40-8c01-489b-96a4-39e8b988faaf,Gurme Kokoreç Özkan Usta,RESTAURANT,38.685787,39.167976,Adnan Kahveci Bulvarı 38A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+55dd2f16-e2bd-4092-97eb-198aadd2baa6,Keban Yaşam Vadisi,SIGHT,38.686623,39.171684,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f097c188-489f-469d-abce-4049781cfdd1,Ekleristan Elazığ,CAFE,38.683235,39.172729,Adnan Kahveci Bulvarı 9L,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1dbe31c1-6c1b-4e73-a69f-ba259fe7218d,Elazığ Gece Dönercisi,RESTAURANT,38.684189,39.173767,"yurten rezidans, prof dr necmettin erbakan cad altı",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+17988083-b164-41e0-84ff-d89bc85ae40c,Ahmet Kabaklı Erkek Öğrenci Yurdu,HOTEL,38.692249,39.171101,Çaydaçıra Mah. Anguzubaba Sok. No:50/50-1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bfe5d8a1-189a-4064-a226-0b636ac74078,E-1 Market,SHOPPING,38.692711,39.167976,Adnan Kahveci Bulvarı 105A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f82c6db9-f209-4708-840b-13e03dc5e333,Armada Life,SIGHT,38.689392,39.167362,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+330a67db-e498-45a0-a6bd-e2e176a78cb5,Fitnat Diyet Cafe,RESTAURANT,38.685394,39.164162,"Çaydaçıra, Adnan Kahveci Blv NovaGold Sitesi Altı No:45CA C Blok, 23350 Şahinkaya/Elâzığ Merkez/Elazığ",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4ee1b152-59a9-4c8c-a296-f3b350258012,Peynirly Bakery | Breakfast,CAFE,38.686993,39.163635,Adnan Kahveci Blv Novagold Sitesi Altı No:45 BD,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+61b0eb96-90f5-40be-8a50-7796998d7bef,Beyaz İnci Evleri,SIGHT,38.694405,39.177238,Prof. Dr. Süleyman Ateş Cd No:139,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0dbb6b50-d41d-403e-9f31-827a4c5b341b,Obakent,HOTEL,38.694801,39.178291,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9cb037f8-382e-40e6-9350-1884999fdc24,Harput Dibek Coffee Shop Zafran,CAFE,38.694691,39.192486,14075 sk No21,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dbcc8e24-5392-4927-81ad-5f5668d8fe29,Windy Hill Hotel,HOTEL,38.697803,39.209888,Evren Caddesi 105,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f5e34ee3-2991-495a-9c7b-7107e533e55e,Lizaz Fırın&Cafe,CAFE,38.682407,39.213367,Mimar Faruk Caddesi 14B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3f438292-4a55-433e-b191-b39b4630b33a,Hattaboğlu Baklava,CAFE,38.681675,39.213718,Yunus Emre Caddesi 49,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0cf4d72b-1f78-4a81-bad3-d0fe81818320,Kahve,CAFE,38.681854,39.21344,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+896f0af9-6aa8-41a6-b845-ac34f750f226,Burger King,RESTAURANT,38.682617,39.211597,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+35c01a44-288a-4660-8c83-f840fdec717f,SAKA Elazigda,RESTAURANT,38.681255,39.209923,Karşıyaka Sokak 29,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c4f77fb5-e0dd-42e5-a438-b41c0fbc0455,Yüsra Pizza Mangal,RESTAURANT,38.680195,39.209614,"Yunus Emre Blv. No: 8 C, 23100",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+617c7494-6036-4ad8-a941-01efb46e29c4,Elazig Ozal Cayda Cira Kiz Yurdu,HOTEL,38.679592,39.21154,Şht. Ütgm. M. Mustafa Güler Sk. No:69,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3ade4b9a-564a-4493-a08d-355057ebf97f,Otostop Cafe,CAFE,38.676418,39.212574,Kalkan Sokak 40/a,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4a0fb8fa-da13-4288-be4f-7bd4e4234f9f,Okul Açık Cafe Oyun Salonu,CAFE,38.676357,39.212498,Kalkan Sk. No:44/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a16a4879-a6f0-4d71-8ec1-248e7598339a,Namık Çiftçi Caddesi,SIGHT,38.676361,39.211876,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+74fc90f4-0866-4ba5-8567-29172ed0b9e3,Döner Mood,RESTAURANT,38.675842,39.212227,"Valilik Karşısı, Zübeyde Hanım Cd. No:92/B",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ddc84340-1c04-4460-b880-31ee8f9e64fd,Bayramefendi Osmanlı Kahvecisi,CAFE,38.675938,39.212246,Zübeyde Hanım Cd. No: 92/D,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0f121cfb-31b9-41d6-adae-6d5ce2c15356,Venedik Pastanesi,CAFE,38.675789,39.213238,Geçer Sk. No:41,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a42ebac6-188c-4c97-a17d-c4561990593f,Pizza Pizza,RESTAURANT,38.6754,39.211029,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0b607f40-07df-4c54-bcd5-4e442100d989,Keban Su Ürünleri,RESTAURANT,38.676285,39.210018,Namık Çiftçi Cd. No:122,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+408edf90-7794-44ac-b60e-6e16b654d07c,Ayder Cafeterya & Kahvaltı Salonu,RESTAURANT,38.67627,39.210079,Namık Çitçi Caddesi 150m,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2703cc58-b55b-4a2c-8603-399091b6b8f2,Ayder Cafeterya & Kahvaltı Salonu,RESTAURANT,38.676125,39.210388,Namık Çitçi Caddesi 150m,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9564d2dd-4008-4845-9402-8226cd89b5f8,Bi Pilavcı,RESTAURANT,38.677479,39.208233,Üniversite Mh. İmran Sk. No:39/A,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+8968f3a1-8d1e-4775-82d0-6ef3de6d8b5e,Pia Cafe,CAFE,38.677639,39.207794,Yahya Kemal Caddesi 26B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c8bb3e71-1c14-4b49-9818-42f4aca6a106,DSi Misafirhanesi,HOTEL,38.675213,39.205315,DSİ 9. Bölge Md.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4826ee78-2308-4651-8235-f7f6d9005762,Fatih Genç Kitabevi,CAFE,38.679192,39.207867,Şht. Polis Ömer Dilekçi Sk. No:51/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8ce75011-dbc8-42a3-af7c-200e83590b10,İstanbul Börek,CAFE,38.678318,39.207573,Yahya Kemal Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+00f4f6b0-65b5-4115-be9a-5afafb1dfa23,Meşe Copy Center,CAFE,38.679134,39.208717,Hanköyü Sk. No 45/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a5cb7fd3-f3eb-4f3c-96f2-6039cfb8f975,Özel ergin kız öğrenci yurdu,HOTEL,38.680603,39.207069,Çınar Sokak 6,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+72ebfa08-4bd7-4db7-ada3-c52f1498d06d,Taşkonak Tesisleri,RESTAURANT,38.681999,39.207092,"Yeni Araştırma Hastanesi Karşısı, Yahya Kemal Cd. No: 66",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+60c605b2-a440-4d33-9373-9430f4fc9501,Asbirin Cafe ve Çaybahçesi,CAFE,38.673893,39.201115,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e71137ae-e96e-4089-9fa9-f6aacc4b0855,Tandırbaşı,CAFE,38.690105,39.202049,Safran Küme Evler 21,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+74b16a72-28fb-40c3-87ab-0b1b8252486d,Fransız'ın Yeri Elazığ,CAFE,38.681179,39.178757,Adnan Kahveci Bulvarı 3,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+50dc72ff-d582-4ab5-82e3-c6e6762b5e2d,Garnish Brasserie,RESTAURANT,38.673649,39.176861,Çaydaçıra Akgün Avm yanı,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ded79fef-3d0e-4cd7-a4fc-c526b6f3efe3,Harput Kyk Kız Yurdu,HOTEL,38.676712,39.183964,Üniversite Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4745235c-316e-4ebc-9db6-ab844da83cd7,GH Green House Cafe Elazığ,CAFE,38.678391,39.192413,Fırat Üniversitesi A.K.M. Karşısı,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4ead44aa-bcf8-4a6d-92a3-471cb97fbab2,Muze'nin Kahvesi,CAFE,38.673325,39.190769,"Çaydaçıra kavşağı Etnografya müzesi, Bahçe Sk.",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9050ca19-d004-4d0d-b22a-b7d6d825f025,Akmola Parkı,SIGHT,38.668724,39.191746,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a8d1d8e3-72dc-431d-8632-d0bbd15e1615,Komagene Sürsürü,RESTAURANT,38.668629,39.19239,Mustafa Uygur Blv No:91/d,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c189d1a0-ed6d-4c2a-b732-1b4b8fe6f26a,ARC Cam Balkon,RESTAURANT,38.669834,39.19521,Bozoklar Sokak 10A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+af6f731c-6545-4beb-a7b6-1e4187261cfc,SESLiOĞLU YEMEK & ET ÜRÜNLERi,RESTAURANT,38.666153,39.189568,sürsürü mahallesi şehit er mehmet ipek sokak ( vali tevfik gür ilkokulu karşısı),Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fbeb19b0-8253-4104-b7cb-f8109f4cc44d,Burger King,RESTAURANT,38.670486,39.186058,CUMHURİYET MAH. MALATYA CAD. NO.10 ELYSIUM AVM,Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+917d0f56-7706-4fe7-be61-eb07aa00e885,Starbucks,CAFE,38.670471,39.186504,Sursuru Mahallesi Kabzali Sokak Numara 3 23040 Elazig Merkez 23040 Elazig Merkez,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+40c2cb87-3eb8-4322-929a-0b03a3251246,Elysium Park AVM,SHOPPING,38.670536,39.186745,Malatya Cd. No:10/2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5f38c9a3-ee87-4837-b339-5a6c8345c2da,Elazığ Efendi Restaurant,RESTAURANT,38.669685,39.187569,Halaylı Sk. No: 5/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bb2a66a0-7a21-43c4-a9a1-ad7eb53f81ec,Yengeç Balık Restaurant,RESTAURANT,38.668392,39.187649,Halaylı Sk. No:5,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+92fed419-3bd2-4ede-9607-8a65388ae198,Ramada by Wyndham Elazig,HOTEL,38.668396,39.187565,Halaylı Sk. No:5/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bfab1e57-2039-4931-8957-ec1a941d81fe,Pansiyon 23,HOTEL,38.668987,39.188957,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6b1f372b-fc8b-4705-8871-391f1bb11053,Romm Coffee Elazığ ,CAFE,38.671661,39.18832,Hulusi Sayın Bulvarı 27,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e9415c08-28cf-44d4-94bb-cf81074462da,Arabica Coffe Elazığ,CAFE,38.671104,39.187859,Şht. Krgnrl. Hulusi Sayın Caddesi 3EB,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+df81f214-e2a9-45ca-9d2e-d7192f7b13bb,Arabica Coffe House - Elysium,CAFE,38.671761,39.186916,Şehit Korgeneral Hulusi Sayın Caddesi No: 3EJ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+05889c24-52a6-49ea-a3b8-8f0f21253d6e,Neşve Next Elazığ,CAFE,38.671764,39.186668,Şht. Krgnrl. Hulusi Sayın Caddesi 3EU,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4c38b401-204f-444f-9d24-a2dd793cf2da,Usta Dönerci,RESTAURANT,38.670624,39.186737,CUMHURİYET MAH. MALATYA CAD. NO:10 /2 ELAZIĞ,Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+ff62fbdd-ea72-4409-9397-ead82de33d0a,ELAZIĞ ELYSİUM PARK AVM,RESTAURANT,38.670624,39.186737,CUMHURİYET MAH. MALATYA CAD. NO:10/2 MERKEZ/ELAZIĞ,Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+5429f7f5-829b-44a1-bcbe-1cda2ae6d2e9,Goodforyouelysiumpark,CAFE,38.670662,39.186722,Malatya Caddesi 9,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+17bafe02-7239-40cc-84c2-1a18635c03ab,Laos Coffee Elazığ Elysium Park,CAFE,38.670841,39.18663,Hulusi Sayın Bulvarı 27,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dae9c560-cdca-4655-9fe0-6f6150d0cd2a,Baltaburgerelysium,RESTAURANT,38.671631,39.185993,Şht. Krgnrl. Hulusi Sayın Caddesi 3EG,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8efd969a-dbfd-4788-a5f7-5a9fa9354ca7,Romesta Coffee Co. Elysium Cadde,CAFE,38.671879,39.186054,Cumhuriyet Mah. Şehit Korgeneral Hulusi Sayın Cad. No:5EK,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ced26a67-bb60-45b6-930b-b675369ad4b7,Croffle Waffle & Coffee,CAFE,38.671005,39.184597,2610. Sok No:1A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+14a7cd57-4ecd-446e-b159-418b6249b271,ElysİUm LİFe,SIGHT,38.671768,39.185387,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4f7db956-0c37-4742-a4c8-e55f8cbc1f9a,Luuq Coffee Elazığ,CAFE,38.671803,39.185558,Cumhuriyet Mah. Şehit Korgeneral Hulusi Sayın Cad. Elysium Cadde Elazığ / Merkez,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4d10c927-4323-4d2d-8380-f33916410a13,Kemal Usta Waffles Elazığ,CAFE,38.670719,39.185474,Cumhuriyet mah üniversite sokak no:5da,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4478d905-72b2-4806-bddc-840c36cdde77,Four Points by Sheraton Elazig,HOTEL,38.670578,39.185741,"Cumhuriyet Mh. Universite Sk. No:2, Merkez",Elâzığ,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+d9823562-b17a-4e83-addb-a946a3e0302d,Nefis Köz Döner,RESTAURANT,38.669727,39.184956,151. Sokak 22A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+aad299aa-da6e-41a2-8ca0-b8973bc5929e,Sarı papiyon,RESTAURANT,38.669479,39.1847,"Cumhuriyet mahallesi Malatya caddesi, Migros, karşısı Elsiyum avm yanı",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4c90ca93-1ed8-4569-8549-957252701a33,Mavi Cafe,CAFE,38.669498,39.184784,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ecaf745f-83de-4315-aac3-6ca7e6f6a1cb,Pera Deniz Cafe,CAFE,38.66996,39.184757,151. Sokak 22,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fdfcd77f-34e7-402b-9cce-e5422ca28ef6,Asrı Papiyon Et Lokantası,RESTAURANT,38.669109,39.18362,155. Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3b56c2f6-6331-4a6e-ae78-d6a1e1c92e4e,divan dondurma ve baklava salonu/elazığ,CAFE,38.668873,39.183357,Malatya Caddesi 26B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+75d1e207-e679-497b-ba12-be9b02c7cf85,Burger Buffs,RESTAURANT,38.668636,39.182617,Malatya Caddesi 9,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+914e6ee4-f6ff-459e-a270-8ae8c47f5685,Edem Pastanesi,CAFE,38.671543,39.181988,"No:, 150. Sk. No:20",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cb1343d8-38d8-45ce-9d16-c2c6f86262f1,Sütçü Van Kahvaltı Cafe,CAFE,38.672333,39.182419,Korgeneral Hulusi Sayın Cad,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4e582fe6-fed1-4e30-97e0-3ab9762b1a87,Kahve Rengi,CAFE,38.67244,39.181942,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4830d95c-ff02-42f6-a670-1b01301b8798,Kafe Karaokey,CAFE,38.67247,39.181732,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dfc9386d-9735-4e99-92a7-414991227283,Kardelen,CAFE,38.672115,39.181541,155. Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cae0b31d-b264-4797-9eb3-7c4d1f3a1243,Acve fast food,RESTAURANT,38.672588,39.180866,Hulusi Sayın Bulvarı 27,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+af6b1b98-084a-44fe-93dd-ead441b2bcc1,Fırat Et Lokantasi,RESTAURANT,38.671692,39.181343,150. Sk. No:19,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fda2635c-5ab7-41ae-8a5f-c1b7709a1095,Ciğerci Muharrem Usta Elazığ,RESTAURANT,38.673054,39.177406,"Cumhuriyet, Şht. Korg. Hulusi Sayın Blv. No:61, 23190 Merkez/Elazığ",Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d7861c6d-8bc7-4363-9183-c954fcdc0ada,Coffee Time,CAFE,38.673016,39.176952,Şht. Korg. Hulusi Sayın Blv. No:55,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b79141ec-89ec-4c4c-87a0-edcea1ec0673,Ciğerci Muharrem Usta Elazığ,RESTAURANT,38.672913,39.176895,Prof. Dr. Turan Yazgan Caddesi 49,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9e574ed4-ae0a-4d47-99b2-585f9da135d2,Elit pansiyon,HOTEL,38.670895,39.177872,163. Sk. No:9,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5a6908fc-7919-4929-b429-019b1e022a47,Ciğerci Hakkı Usta,RESTAURANT,38.666634,39.180031,Divanlı Sk. No:2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8fa2477e-fffb-4161-bd4f-0911d5655828,Elazigsofrasii,RESTAURANT,38.666645,39.179634,Divanlı Sokak 2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+32b0faa0-8de3-4413-806e-aa86d621f6bf,Yaşamkent,HOTEL,38.665558,39.180126,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c55cc71f-3a62-484f-8ef5-4bcdf7dd15fc,Gurmegakko,RESTAURANT,38.666798,39.179554,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+484abccb-6c8b-4192-bedf-e7b21f8575a1,Acıktım 2 kilo mangal,RESTAURANT,38.667198,39.179131,Malatya Caddesi 62,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+de56959e-ecf4-4af5-a7db-91459063085b,Efendi Beyzade Restaurant & Cafe,RESTAURANT,38.667152,39.179203,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+01e7107a-14c5-43db-b884-e32b8eb471d2,Ciğerci Hakkı Usta,RESTAURANT,38.666897,39.179459,Malatya Cad. Hazardağlı Kavşağı,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+85cdd8ab-957a-45a1-837a-46ac0dcef933,Haus Des Döners,RESTAURANT,38.667645,39.179699,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+17b1d296-25eb-454b-9da4-6f56fa5975fd,Nuqas Bistro Lounge,CAFE,38.667511,39.178783,"Cumhuriyet Mahallesi, Malatya Caddesi, Huzurlu Sk.",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2e6a4fa7-fbb0-42b7-ada9-ceed41dc6263,Domino's Pizza,RESTAURANT,38.667263,39.178875,Cumhuriyet Mah. Malatya Cad. No:58/K 11 Nolu Dükkan Hazardağlı Plaza Merkez,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7fe2ec84-df44-452b-a860-54f35ace22b7,Enfıstık Künefe ve Katmer,CAFE,38.667015,39.178387,"Hazardağlı Plaza, Malatya Cd. 56/6",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d9ac683a-2582-479e-a855-69d3b3aaf564,McDonald's,RESTAURANT,38.667194,39.177902,Hazardağlı Kav. Hazardağlı Plaza,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+809d4b02-ac12-4916-90f7-1cf876143cfa,Çiçek Börek Salonu,CAFE,38.66766,39.177391,Malatya Cd. no 584,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+106685cf-3bd6-4270-ac6b-7b5378589917,Kadayıfçı Murat Usta,CAFE,38.667301,39.176838,"İkiz Kuleler, Cumhuriyet Mahallesi Beyzade Efendi Bulvarı İkiz Kuleler Altı Kadayıfçı Murat Usta, Beyzade Efendi Blv. No:6 Altı",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+667eda9a-146f-4118-a3e9-fa3bad710f5a,Coffe Shop Harput Dibek,RESTAURANT,38.667046,39.176884,"Acemgülü Sokak, No:128",Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+7e364768-1c97-402f-867e-79e0b3206d31,Mado,CAFE,38.666725,39.176903,Beyzade Efendi Blv. No:1C,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cc118a75-f408-4542-9020-3439e590bccf,Dezza Pizza,RESTAURANT,38.665344,39.177273,Şelale Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+06a0e1c0-ae5c-4e6e-a16f-a68207e03bf1,Bülent Börekçilik Elazığ,RESTAURANT,38.664906,39.179749,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+7b0356ca-bdf0-43d5-9d25-7a987c60889a,Cadı’nın Evi Elazığ ,CAFE,38.664761,39.179653,İmam Efendi Bulvarı 5,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+af6db591-883c-44c3-9ffd-5a3f5aec69ca,Kamil Usta,RESTAURANT,38.663761,39.181225,İmam Efendi Blv. 34/F,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0607ec53-8775-42a3-884b-03e7ed1e0e53,White Line Boutique Hotel,HOTEL,38.663788,39.181248,İmam Efendi Blv. No:34,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f3251cd2-088c-43f5-a436-c0886d36649d,Van Kahvaltı Sarayı & Cafe-Resto,RESTAURANT,38.663689,39.18116,Ataşehir Mah. İmam Efendi Blv.,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+cbb307c2-5dcd-4884-ba50-91f71c661289,Coffeemania,CAFE,38.663765,39.180801,"No.32 B, İmam Efendi Blv. No:1",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+42ec57c1-050c-4985-888a-2c55c4a73a7c,Joyboss Cafe,CAFE,38.664017,39.180565,İmam Efendi Bulvarı 32A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8638246d-65ce-4db6-9a00-b651f3fce1e3,Joyboss Cafe,CAFE,38.664146,39.180599,İmam Efendi Bulvarı 32A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f0c923e5-0b2d-4748-965e-5e737192a9f6,Fibonacci Cafe Bistro Hookah,CAFE,38.664032,39.180298,İmam Efendi Blv. 32/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+588765a1-ad40-42ee-8856-a5412a35c0f2,Van Kahvaltı Sarayı Elazığ,RESTAURANT,38.663803,39.18063,İmam Efendi Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ec0c2b42-6018-460e-a078-7efbc080588a,Alaçatı Muhallebicisi Elazığ,CAFE,38.663414,39.181355,Gakkoşlar Sk. No:19/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b6713c96-5158-4f98-9715-8a95255c687e,Kebapçı Cafer Usta ,RESTAURANT,38.663261,39.181515,İmam Efendi Bulvarı 48,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+854cf25d-869b-47ab-afd4-958f88f4be80,Kahve Diyarı,CAFE,38.663509,39.181408,Ataşehir Mah. İmam Efendi Blv. Gakkoşlar Sok. No:3,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+908a32be-2ce0-40dc-b07c-77015b95e5f9,Simeranya Book & Coffee,CAFE,38.663563,39.181435,İmam Efendi Blv. No:36,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7f845aae-b9cf-46b4-ae91-486e521f1f7b,Ozsut,CAFE,38.663498,39.182346,İmam Efendi Blv. No:31,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2e91a3e7-a4ba-4ee4-9c8b-3e72996388a9,Plus Cafe and Bistro,RESTAURANT,38.663383,39.182537,"Merkez / Elazığ, İmam Efendi Blv. 31/b",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+afe9cdbe-4920-4797-814e-2591be18d5d5,Cafe 424,CAFE,38.66317,39.183041,İmam Efendi Blv. No:35,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3286a5fd-3dc2-47c5-9d05-4f8cf80c7396,Şampiyon Kokoreç Elazığ,RESTAURANT,38.663261,39.182888,İmam Efendi Blv. no:31/C,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f0242252-b6d7-434a-9be3-2147b5ef0a4b,Künefeci Murat Usta,CAFE,38.667721,39.182095,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a5f49182-24ad-465d-a216-f36fe17d2bb4,Ehil Künefe,CAFE,38.667801,39.182377,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8543c03f-5626-4e89-ae31-1cbd6f08e311,Harput Eyvan Cigkofte Sofrasi,RESTAURANT,38.667778,39.182911,M. Cemiloğlu Cd. No:1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5eeb647d-f873-4e55-a623-0bbecca36b33,Öz Çiçek Unlu Mamüller,CAFE,38.667648,39.182983,M. Cemiloğlu Cd. No:1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+485045a9-584d-4c72-b059-05866affb54d,Kocoglu,RESTAURANT,38.667412,39.183239,Malatya Yolu Belediye Binasi Karşisi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+47c3c908-ef42-4587-9e76-183230fc14d3,Akın Pide Unlu Mamuller,CAFE,38.666794,39.184803,Gülistan Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c323733e-b0e8-488b-972d-d8cf85cc4c17,Emrah Güllü Müzik ve Sanat Evi,SIGHT,38.662354,39.18512,"Şht, Mustafa Uygur Blv No:141",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+29abcd5d-4ee5-4bbd-888a-398005d11920,Ezgi Pide,CAFE,38.662773,39.185329,Mustafa Uygur Blv,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4be600fc-b37d-46e8-8b3f-254eb6848665,Cadı'nın Evi Elazığ,CAFE,38.662388,39.184517,İmam Efendi Bulvarı 41,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e09b159f-44b4-4c0d-916a-fd97ac1bea5b,Lavanta Kahvaltı Salonu,RESTAURANT,38.659904,39.184914,ATAŞEHİR MAH. KUVA-İ MİLLİYE CAD Hacı mustafa şahin camii yanında,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d3374004-9e36-45d1-a49f-b71af4d46994,Nefaset Ocakbaşı,RESTAURANT,38.662827,39.176998,Nakkaşlar Sk. No:14,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+823d41b1-e1f8-4bc7-8010-77a80dd3a231,Harput Dibek Kahvesi,CAFE,38.661194,39.177528,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+634bc04b-f984-4e82-8b05-3c17cb83b37e,Harput Dibek,CAFE,38.660862,39.177601,Hacı Sadettin Efendi Bulvarı 81,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ed9a59a7-9cdf-4de6-9118-7d9f7754aa5b,Kaktüs Bi Tatlı Molası,CAFE,38.65873,39.17952,Kuva-i Milliye Caddesi 290,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+334d71f3-44e7-4e1c-a67b-ed4a0c12d9d8,Şuşa Cafe,CAFE,38.660263,39.187641,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9773971c-ed99-44d9-ae7b-7402f1e1ac87,Kahve Diyarı Elazığ,CAFE,38.660149,39.187618,İmam Efendi Bulvarı 80A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3df86a0e-ab3c-4568-be50-a6c9d1d30036,Elaziz çigköfte kanal boyu,RESTAURANT,38.661423,39.186409,"kanal boyu elmina mutfak yanındayız, İmam efendi bulvarı, Sokullu Sk. no:47",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3dbcd197-2c2d-40d7-b156-652b58005f08,Elazig Halit Hoca Efendi Bulvari,SIGHT,38.662022,39.190254,HALİT HOCA BULVARI,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0209344f-6650-4881-8187-a7e1fcb3cf73,Espressolab,CAFE,38.659599,39.188641,2082. Sok No: 14/37,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f3803231-f65c-4aa7-91e1-0f0f52cbe16c,Pişi Kahvaltım Elazığ,RESTAURANT,38.65609,39.192558,İmam Efendi Blv. 20AA,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+360a7bb0-8a22-485a-8393-6b4c43c3e4bf,Yeşfin Maraş Usülü Paça ve Çorba Salonu,RESTAURANT,38.654793,39.192829,"Total Benzinlik Karşısı, İmam Efendi Blv. 69/A",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7da8b86d-565c-49aa-b47c-a4d3828d2c6b,Harput Dibek,CAFE,38.662949,39.200169,Hacı Sadettin Efendi Bulvarı 81,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+209a9ab0-8b5e-4bb2-94c1-b435d6a29fc0,Fastfood1234,CAFE,38.671307,39.202885,Kültür Park,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f0b0bb2e-3b2c-487e-acfc-c59263d5e27c,Kule Restoran,RESTAURANT,38.670383,39.204502,Kültür Park,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+37bfecbd-9fb8-4f28-8508-5661a60e4a2f,Elazığ Blue Green Resort,HOTEL,38.66605,39.203339,Elazığ Caddesi 101D,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3a5c45d4-f17b-4e42-a119-ebc0395964a8,Ot Cafe Elazığ,RESTAURANT,38.665234,39.20076,Halaylı Sokak 22a,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a86f45a4-8060-41be-940b-03afe4d38221,Alaçatı Muhallebicisi,CAFE,38.663036,39.20031,19. Sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c7471b22-d706-49ab-a561-9478b8f034ef,Lezzet-i â'lâ,RESTAURANT,38.665348,39.202232,Ataşehir Mah. Sancaktar Sok. (Hacı Fethi Camii Karşısı),Elâzığ,CDLA-Permissive-2.0,Overture|meta
+46a1ce74-ce11-4f3b-a58f-38a6161c4357,Demlik CAFE 1465,CAFE,38.671532,39.204762,Kültür Park,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+40908f5b-3afb-42ad-aa8a-b415abbb546b,Tado Pastanesi,CAFE,38.671101,39.20776,Elazığ Cd. 3/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+86611262-99bd-4a1a-ad01-356e8d402b8f,"Kartaldere,Maden, Elazig",SIGHT,38.671612,39.208427,"Kartaldere, Elazig, Turkey",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d79fcf06-ae19-4e32-b3d4-23d753fa1f07,Arabica Coffe Elazığ,CAFE,38.672859,39.209999,Şht. Krgnrl. Hulusi Sayın Caddesi 3EB,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a23e5a9c-f74c-4776-b0db-f3127938b29d,Kültür mah. alev sok.,HOTEL,38.671841,39.211655,alev sok.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+77ffa87b-1140-465d-8559-011d41627109,Doğan Çay Evi,CAFE,38.666992,39.2113,Rahmi Onur Sok,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8a4ecf28-1b15-4eb9-8eb6-f8006ebd9c2c,Yunus Emre Çay Bahçesi,CAFE,38.662148,39.21587,Hicret Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2b6baf3b-f760-4cc9-abd1-bfbc12bc02b7,Park Dedeman Elazığ,HOTEL,38.667778,39.216743,Kulu Öztürk Sokak 41,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5658021a-846b-4fd5-b421-3fd41561a060,Murat otomatik kapı sistemleri,SHOPPING,38.670731,39.21669,Şehit İdris Doğan Caddesi 52,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+21dcec2a-f1e3-4068-acaa-d51a9aea3046,Sehit Idris Dogan Caddesi,SHOPPING,38.671616,39.216866,Uğur Kimya,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e7ab2808-85d3-4780-8b3c-79749f06a58c,Memisoglu Turku Evi,HOTEL,38.669292,39.218948,Cumartesi Pazari,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a9c22e57-9185-41e8-9273-8406f11fc09a,Er Naturel Kahvaltı Salonu,RESTAURANT,38.673061,39.220592,Nailbey Mahallesi Tuncay Sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+61123478-887d-40d7-adfb-db5adb8f7847,Mehmetcik Pide ve UnLu MamuLLeri,CAFE,38.672401,39.222176,Bosna Hersek Bulvarı 59B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+92c0e0bd-f7a7-40ce-80f8-bb467c88b569,Marathon Hotel,HOTEL,38.672489,39.222668,bosna hersek bulvari,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+60d79ef3-a012-4937-b37f-f3dbec7cbbca,Elazığ Marathon HOTEL,HOTEL,38.672657,39.222698,Bosna Hersek Bulvarı 17,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+20c96547-99ec-4be7-84e8-a7e58461c5b1,ÇANKAYA simitcisi,CAFE,38.672096,39.222576,İstasyon Cd. No:29,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fefb83de-c1d2-451f-8f58-0adbad43d45b,Çınar Cafe & Bistro Launch,RESTAURANT,38.670589,39.222286,Bosna Hersek Bul,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+977501ee-546f-4c66-9401-8e5cdf7ba8a1,Payitaht Cafe Elazığ,CAFE,38.670147,39.224789,"Keban Yolu 1 km  Elazız, Elazığ, Turkey ",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+22599e09-08c5-4b58-a5d8-9f94be70cf0e,Ergo Ergonomik Yatak Elazığ,HOTEL,38.670147,39.224789,İmam Efendi Bulvarı 59/b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dc0d4437-53d2-4cbc-94e2-196d2ccba745,ÇAkmaktepe Kir TesİSlerİ ElaziĞ,RESTAURANT,38.670197,39.224724,Keban yolu 22km,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+963d76d2-df4c-4844-aad9-c1a9917fb0ac,Mehmetcik Pide ve UnLu MamuLLeri,CAFE,38.672863,39.223072,Bosna Hersek Bulvarı 59B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d4953746-ae20-496b-9eb3-83567f354288,Marka23 AVM,SHOPPING,38.671585,39.22448,Hacı Hayri Caddesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fa5837a5-fcac-46e8-bff2-7a0ca121e331,Bakkallar Ve Tekel Bayiler Esnaf Odası,CAFE,38.671257,39.224258,Sakarya Sokak 52,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+acf8a0b4-d221-47da-b8cd-b6a3d6261c43,Pacaci Memet Usta,RESTAURANT,38.672169,39.225403,Hacı Hayri Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ca84eb36-bad0-4067-91cd-81edc8e469c6,Nefis Köz Döner,RESTAURANT,38.672527,39.225483,Atatürk Okulu Sk. No:18,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f54508ce-6892-47de-9776-aefc79063e3e,Şıra Meydanı,SHOPPING,38.672741,39.226231,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7a29b767-2622-41fd-8fce-ed28d65d0bb3,Karataş Pide ve Lahmacun Salonu,CAFE,38.670731,39.227062,Adnan Orakçıoğlu Cd. No:61,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6ba7c8e5-5c9c-4702-a5e0-f668000fd5d3,Öz Dostlar Pide,CAFE,38.670307,39.225433,Adnan Orakçıoğlu Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3025d234-0c19-48e1-9ed7-fdeff1ffdf2d,Keydanlı Çay Bahçesi,CAFE,38.672497,39.229416,"Şair, Hacı Hayri Cd.",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9746ed6c-7b3c-4bf6-ae27-810eae3a9b11,İstanbul Kapalı Çarşı,SHOPPING,38.67104,39.230755,Kazım Karabekir Caddesi 22/b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+66f3d6c6-097e-40e5-8f19-504ec5447d0f,Yemek Elaziz,RESTAURANT,38.665745,39.242184,sanayi mah. santral caddesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+49261ea2-9153-4e09-91f0-798abbe32d7d,Dezza Kofte doner ve kebab salonu,RESTAURANT,38.667252,39.2425,Sanayi Cd. 50/b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a967eabd-0d5f-4010-8cf3-3c1b7fdeac64,Aksan Yemek Hizmetleri,RESTAURANT,38.665874,39.243397,Santral Cd. No:22/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fc3c87b9-e943-4a02-a9fb-8235aaf36669,Site Kahvaltı Salonu,CAFE,38.670513,39.246597,9. Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+37925c42-68b7-40bd-8edb-f49d5bf454b4,Anadolu Dibek Kahvesi,CAFE,38.669113,39.248142,27. Sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+930db268-7e42-40c0-9652-0423b6c957ca,Çiğköfteci Veysel Usta,RESTAURANT,38.670921,39.246185,12. Sk. No:16,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2f59c725-cd1c-48d8-918a-a807fa80f976,Çırçır Şelalesi-Elazığ,RESTAURANT,38.668224,39.245037,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1bcb8cf4-728c-4350-b7e7-aa79fbbf4820,Özsüt,CAFE,38.668972,39.242031,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+97136e53-77f2-421f-8171-0e40a236a2fe,Mevlana Çay Ocağı,CAFE,38.671967,39.237499,Ali Rıza Septioğlu Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4bce96aa-30bc-4f41-8f5b-c35fb20f7ff9,Elazığ Ağaoğlu Yalısında,SIGHT,38.668961,39.240597,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1e1bed98-2abf-4f78-8789-fbf95ef514b7,Pınar kavurma salonu,RESTAURANT,38.667786,39.235756,Malatya Sokak 40,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f211ef1d-11ad-41fa-981b-ecc304508b43,Yasin usta,RESTAURANT,38.66785,39.23576,"Elazığ, Türkiye",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b90a70cd-1a20-4c54-b5a9-4adf94f86104,Palu Kale Otel,HOTEL,38.66782,39.235737,Yukarı PALU mah. 275 Cad. 1 1 PALU/Elazığ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+59e4698e-ce22-45d2-ab57-b2f5e7a6361f,Pansiyon 23,HOTEL,38.66782,39.235737,Eazığ  merkezde ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5a9e5a1a-3917-4ce8-8a2b-070c19153253,Beykonak Lokantası,RESTAURANT,38.66782,39.235737,9. Sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1a5419f9-7d64-4aff-884f-09d3b24cd7e6,Sehit Mehmet Oter Mesleki ve Teknik Anadolu Lisesi,HOTEL,38.665764,39.235229,Cahit Dalokay Blv. Turizm Meslek Lisesi Blok No:35/1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cd4a7664-3a17-4b88-86df-59d96fa32a31,Sümer kebap ve döner salonu,RESTAURANT,38.674004,39.233234,Mustafa Paşa Cd. No:6,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0d61db84-59ad-4a54-b22d-8b847cda21f3,Tatlikent,CAFE,38.67738,39.240616,Mustafa Temizer Kavşagi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+32ba23e9-6655-4213-b84d-c76b22ec4872,Mustafa Temizer Parkı,SIGHT,38.676315,39.237862,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b986f91c-4cbe-4c62-8324-ec803becfee6,Mustafa Temizer Parkı,SIGHT,38.676552,39.237614,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+da5de4e9-b740-467d-8bc5-bdcadbd4ba05,Sait'in Yeri,RESTAURANT,38.674438,39.238239,"""Sait'in Yeri. Deniz Mahsulleri Restoranı. Bingöl Yolu 23.Km (Koçkale Mevkii), Koçkale, Elâzığ , Türkiye.""",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8e3de7fe-ef6f-425f-9e11-bc96b97fca2d,Osmanlı Premier,CAFE,38.678062,39.250217,Bahaeddin Öğel Cd. No:189,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+330f2291-7200-499e-a249-422078d94ec4,Deniz Cafeterya,CAFE,38.678032,39.249958,Seyda molla Bahri bulvarı no:190/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1a5dcd8a-3596-476e-b7ec-01df7cb20dd9,Muhabbet cay evi,CAFE,38.677879,39.246593,Seyda mollabahri bulvari no 19A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+237428a4-7c52-4503-ab5c-25c83fcbf985,BEE CAFE,CAFE,38.693172,39.225014,ELAZIĞ TÜRKİYE GENELİ \n,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f41fd2db-e2aa-4a15-a083-5e41b6038761,Harput Devlet Hastanesi Kafeteryası,RESTAURANT,38.683712,39.224159,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3c08a03e-7163-4ca9-97e1-13c532b889b1,BEE CAFE,RESTAURANT,38.68367,39.226299,Elazığ Merkez,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5bb6c1bc-3630-4245-af3a-aca1fc6e1b8a,Subartu Hotel,HOTEL,38.684692,39.226734,Mah. Bahçe Sk No:22,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+196af259-6535-44fd-aadd-a6a4002acdde,Subartu TURKU EVİİ,RESTAURANT,38.684307,39.227058,Bahçe sokak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+28105f6f-1870-4982-9ee1-4fff98db8310,Bc sanayi,CAFE,38.679298,39.230167,Balakgazi Sokak 52,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ca24f8d0-7ff2-4c5b-a847-d81038c645e6,Atapark Elazığ,ACTIVITY,38.679615,39.230801,Kapandı ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5ca3a2c8-7e4b-4179-971d-9d43ea86a80e,Grand 23 Hotel Elazig,HOTEL,38.673447,39.228451,Hürriyet Caddesi 64,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+68f5de3b-6d5a-499e-b509-a22b7b497b0a,Yukari Şehir Kasap ve Şarküteri,RESTAURANT,38.673897,39.227814,hacı hayri cad keydanlı \n\n çay bahçesinin karşısı ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8436e87c-493f-475f-8c65-478ee1684c3e,Bayram Tekstil,SHOPPING,38.677315,39.2281,Yakup Şevki Caddesi 48/c,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7a6751a1-7319-45d1-bd17-db6a7cd0c7db,FIRIN Antalya,CAFE,38.677361,39.225887,İnönü Caddesi 24A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7aaf90d4-380c-4b05-b928-0d0497590f12,Elazig Yeni Ufuk Gazetesi,CAFE,38.675739,39.226025,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+20f99156-28fe-471d-9922-dec50db93467,Mega Bar Club,RESTAURANT,38.675758,39.226494,İcadiye Mahallesi Çeşmeli Sokak No : 8 ELAZIĞ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a925430a-1817-46ed-8033-5fff63638798,Özkaraca Avm,SHOPPING,38.676517,39.226643,No: 29/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b2af9b42-0e71-4b81-9b3f-ee7909a363e9,Samanlar Lokantasi,RESTAURANT,38.675011,39.226776,Yakup Şevki Cd. 9/D,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8c02f49d-a01b-490a-8df1-ba1d4cb6a9dc,Ciğerci Komutan,RESTAURANT,38.675137,39.226982,Yakup Şevki Cd. No:10 D:12,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e4d1f0a0-f84b-464b-9459-adb585305b3d,Selo Usta,CAFE,38.674038,39.227158,Hürriyet Cd. No:51,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+57d6c90d-6cb9-47d0-ac41-04182895d4c1,Öz Urfa Çiğköfte (Yalçın Usta),RESTAURANT,38.674061,39.226742,Hürriyet Cd. No:32/b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+61f9ac6d-284d-4899-8fe7-4d761facaf13,Cinar Hotel,HOTEL,38.674198,39.226353,Hürriyet Cd. No:20,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bf08e5c6-7cc7-452d-9689-891f6e220bf7,Kent Otel,HOTEL,38.674263,39.226025,Hürriyet Cd. No:28,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e4db650d-0a65-4971-8d91-008888f6daf6,Koz Kebap Lokantalari,RESTAURANT,38.674076,39.226151,2. Harput Cad No:6/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+441ee755-d327-42b4-a2c5-fc56b7284cc8,Kavurmacı Bekir Usta,RESTAURANT,38.673145,39.225754,Kuyumcular Sokak No 2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f4e021c6-4291-4237-bb36-e3d70e3a836d,Harput Otel,HOTEL,38.673985,39.225609,Nalbant Sokak 9,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b2ffce25-6656-4cf6-b5e7-b92abcbeadf5,Kadayıfçı Murat Usta,CAFE,38.674362,39.225861,Hürriyet Cd. no.24.b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3a87924f-6c29-431f-9808-6cf975ecf134,Elazig Gunay Hotel,HOTEL,38.674366,39.225697,"Çarşı Mahallesi Hürriyet Caddesi, Nalbant Sk. No: 17",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a4f403dd-5245-4696-a3d1-85a7e32c01d5,ÖZel Harput Erkek ÖĞRencİ Yurdu  Mezunlari,HOTEL,38.674259,39.225517,Hürriyet Caddesi 55,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7bd34188-e41b-4d4e-90bd-3256cde3dd2e,Yon Avm,SHOPPING,38.674614,39.225578,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f8b24202-cd18-4679-894a-b524234cf749,Hotel Varan,HOTEL,38.67469,39.225845,Sarısaltik Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a3edcdc8-d86e-452b-8f1e-988fddc2e55e,Turistik Otel,HOTEL,38.674446,39.226303,Yakup Şevki Cd. No:2/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+457b8e98-d126-491e-85de-f622f7ccd1ef,Tadın Lahmacun,RESTAURANT,38.675476,39.225639,Balakgazi Cd no 14,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7fe4b04b-a3ee-44f7-9275-6049116e4664,Merkez Ocakbaşı,RESTAURANT,38.67532,39.225838,Sarısaltik Sk. No:7,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ea96e838-cb65-4236-9bf6-8879b36d1793,Saray Lokantasi,RESTAURANT,38.675198,39.2258,Sarısaltik Sk. No:5,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7dc02af6-6edb-4dd1-9f75-4dcd480cabcd,Deniz Restoran,RESTAURANT,38.675087,39.2258,Sarısaltik Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+139cb3ff-16fd-48a2-bd2a-db55943276dc,Hazarhan Çiğköfte,RESTAURANT,38.675224,39.225338,İcadiye Mahallesi Balatgazi caddesi Tabipler İşhanı No10/e,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+47edf3d9-7388-4a75-b57d-ebc0a8bbca93,Misra Cafe,CAFE,38.675602,39.224617,Şht. Binbaşı Hasan Sabri Sk. No:41,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ef15ee08-4d67-428b-b61f-6471c44e9960,Elazig Sirin Hotel,HOTEL,38.675377,39.224274,İzzet Paşa Cd. No :14,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a40680d7-ffef-4286-8025-45b3a9bd99f8,İzzetpasa Çay Evi,CAFE,38.675114,39.224251,İzzet Paşa Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+42e039e4-2850-4217-abc7-16b73002dbab,Elet Döner ve İskender Salonu,RESTAURANT,38.674812,39.2243,İcadiye Mah. İzzetpaşa Cad. No:6,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+23943176-7c8c-4bab-a3cd-cd0bcf298c94,Çiçek Börek,CAFE,38.674698,39.22438,İzzet Paşa Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7fcb6a07-6e55-4129-be11-dda4f4aa6d1d,Zülfüoğlu Et Lokantası,RESTAURANT,38.674763,39.224373,İzzet Paşa Cd. 4 A D:4 A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a7648767-38cd-4dad-842f-bf1b38d1ba9a,Beyzade DÖNER KÖFTE Salonu,RESTAURANT,38.674824,39.224361,Abdullahpasa mah  3nolu carsiELAZIĞ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+921adc62-30ab-472c-bf70-413d850e669d,Torku Ziyafet Elazığ,RESTAURANT,38.674431,39.224335,Hürriyet Caddesi 19,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1768c642-6e30-4a77-9e6c-c686969cc07b,Gaziantep Baklavacisi,CAFE,38.674599,39.224987,Hürriyet Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cb565160-1a8d-44b9-bc1b-4f725a98fee1,Akar Otel,HOTEL,38.674786,39.224789,Balakgazi Cd NO:2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c2719818-6c0d-43a2-bb9e-5dc01fa66ab5,Melodi Cafe,CAFE,38.674992,39.225193,Balakgazi Cd No:8/1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b827a8fe-011a-4151-b54a-6059f7d3df48,Köftem23,RESTAURANT,38.673176,39.225052,Çarşı Sokak 7,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4c6f429a-4eeb-4155-b59e-71afa0cb4cc0,Ema Yapı,HOTEL,38.673199,39.224506,Keresteciler Sokak 22,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4a81ea93-aa07-4d1d-a9ac-4e3643fbe7ac,Kebabçı Zaza Usta,RESTAURANT,38.673401,39.223965,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cfde5eca-3c09-42ec-a343-10f792588778,Hicret kebap salonu,RESTAURANT,38.673294,39.223545,İşçiler Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+67fccaeb-d852-4d9f-9e89-3b585ffe0099,Sivrice Hazar Gölün,SIGHT,38.674866,39.223251,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7506e05d-0069-42f3-b903-135e138d2ca6,Butat Tantuni,RESTAURANT,38.674786,39.223457,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ee4518b4-ce19-4cf9-9934-39969cb9d2ad,Hatip Usta,RESTAURANT,38.674763,39.223545,Hürriyet Cd. No:60,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9cb31696-a3b4-478d-852d-30778aaa7e15,Lahmacun 23,RESTAURANT,38.675003,39.223736,Kazım Bayer Cd. No:3,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1d7f8b0c-667f-4fa1-97d4-7a62fe38aee7,Semazen Çay Evi,CAFE,38.675285,39.223721,Kaymak Sk. No:7 D:b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+def86573-3413-4ab6-abab-35c0322f97fd,Beko Kavurma,RESTAURANT,38.675529,39.2239,İzzet Paşa Caddesi 20A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b6bd72d9-77d1-4862-b2bf-e84bb48c1239,Ab-ı Kevser,CAFE,38.675182,39.22324,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ea537493-0d67-4e9f-af74-235933078d8e,Karanfil Çay Evi,CAFE,38.675426,39.223209,Kazım Bayer Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8fe3a800-afd0-43f3-af13-74cbc88f902b,İhsan usta,RESTAURANT,38.675503,39.223251,Kazım Bayer Cd. No:12,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+64e7c93a-6692-45df-91f8-e11217dad088,Tatlıcı Hasan Usta,CAFE,38.675774,39.22456,Şht. Binbaşı Hasan Sabri Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a5a385d8-1da7-495a-a4cf-e5f558219307,Express Izgara 23,RESTAURANT,38.678333,39.223587,İzzet Paşa Cd. No:33,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b6d5be93-3747-4f1e-b850-e2861fdb8cd3,Grand Aras Otel,HOTEL,38.678249,39.22588,İnönü Cd. 34-1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+488e1ab8-07cd-43a0-ad9d-769c5600c9d5,Harput Eyvan Çiğköfte Sofrasi,RESTAURANT,38.678562,39.225857,İnönü Caddesi No:62/b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b61c103b-4734-4fb1-b083-96bf79a640a8,Şahaneetler Ocakbaşı,RESTAURANT,38.682213,39.220085,İzzetpaşa Mh. Şht. İlhanlar,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c86548da-a71a-4ce5-a32b-619841340f4d,Şahane Etler,RESTAURANT,38.682213,39.220085,Şht. İlhanlar Cd. No:78/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+edacbac5-3b42-4b31-80a3-2837af33d663,Kanatçı Asgar,RESTAURANT,38.683006,39.219563,Yunus Emre Blv. No:117 D:C,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5318e867-3e20-442a-90f5-89560b2d1cd4,Lahmacuncu,RESTAURANT,38.683006,39.219154,Yunus Emre Blv. 81 C,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e1cf3e9d-8aef-4c57-8b82-ca17c90e00cd,Çevikoğlu Baklava,CAFE,38.681824,39.220139,Şehit İlhanlar Caddesi 9C,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e1a7f3bf-d82a-4d86-ac0b-c65f4ef8f812,Sıla Mis Pastanesi,CAFE,38.678818,39.220535,Namık Çiftçi Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9fa99825-5135-4232-9ac4-2c24c391fa7f,SANAT YAPI,SIGHT,38.678936,39.220783,Şehit İlhanlar Caddesi 29B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8c404987-a3bb-4b1c-a1d4-8ac01e36fa0f,Günaydin Kahvalti Ve Patila Salonu,RESTAURANT,38.679104,39.222279,İZZETPAŞA MAH. HASAN SABRİ SOKAK NO:3,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dceb01b4-8be5-44d1-bd30-7b78a9c3bf21,Meşhur Vişne Dondurma,CAFE,38.677803,39.221329,Şht. İlhanlar Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ea1ebdcb-7a03-4960-84ac-e667c0fde117,Hanzade Cafe,CAFE,38.676899,39.221817,İzzetpaşa Mah. Şehit İlhanlar Cad.,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+de39b86c-2f15-4b83-bb33-4a9fd2d4c5f8,Akustik Han Emrah Güllü,CAFE,38.676662,39.221588,İzzetpaşa mahallesi Şehit İlhanlar Caddesi No:20 Vali Muharrem Göktayoğlu İşhanı Carrefour Karşısı,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f9312f3e-103e-47b4-a45e-98d0af42cc7f,Yildizsem Tantunİ,RESTAURANT,38.676476,39.220974,9001 sk no:13/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c6ed6f92-4f3f-4e99-a26f-61f5f18b27db,Konak Nargile Antik Cafe,CAFE,38.676147,39.221058,Hacı Tevfik Efendi Sk. No:11,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d16e30a3-4f00-477b-aab3-2ee032a1cf5e,Doğuş Otel,HOTEL,38.675671,39.221054,Horasan Sk. NO 11 D:101,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e4a7e17d-e1f8-435c-9c11-45a9e4b8fe4f,Hisar Dürüm Ciğer Şiş,RESTAURANT,38.676105,39.22142,"İzzet Paşa Şehit İlhanlar Cad, Hacı Tevfik Efendi Sk. 14/A",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1e803d6e-6b9f-477c-9717-854321d9ea53,Hazal Avm,SHOPPING,38.675758,39.221725,Şht. İlhanlar Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0e75c020-8bee-46e4-beff-54205f1852e1,Bal Katık Döner,RESTAURANT,38.676491,39.222427,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e619f0cd-a35f-432a-ab2f-312fbec9ca07,Hayal Kafe,CAFE,38.674747,39.222263,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b812b5f3-bbe3-4476-a599-f6242710d651,Fokurtu Nargile Cafe,CAFE,38.674759,39.222157,"""Gazi Cad Gazi Pasajı Kat. 1, Elazız""",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e9885551-a033-4a0e-a1bf-49f3105af246,Paploo cafe,CAFE,38.67487,39.222134,"gazi pasajı kat 2, Gazi Cd.",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7859a3ab-a192-4fb3-8a48-2b33c2fb192f,İlbey Hotel,HOTEL,38.67474,39.222069,Gazi Cad. No:3,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e5a97f56-ff28-4f68-95c4-a15993da7b04,Flora Kafe,CAFE,38.67482,39.222149,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8418283e-740f-4bcc-9ced-cb9acfea9c82,Sarıyer Börek & Cafe,CAFE,38.674561,39.22237,Bosna Hersek Bulvarı 10/b,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+04172944-0e39-4466-81d5-c9bfc8f613c9,Mado,CAFE,38.674656,39.222713,Gazi Caddesi 47B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1a52fb5d-3c18-4225-a6a3-d6908fe0f7ed,BBC Cafeteria,RESTAURANT,38.674015,39.221874,Vali Fahri Bey Caddesi 46,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bc25340d-ef33-499d-a7fa-e3e14dcec316,Nefis Cigkofte,RESTAURANT,38.674366,39.222385,İstasyon Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a8761747-d8c4-4dcc-9fe8-a00092fad248,Yeşilçam Kıraathanesi,CAFE,38.674175,39.221954,Yeşíldere Sk,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1de3dc9a-9e10-44f1-8698-ecc24f696dcb,Asmin Restorant,RESTAURANT,38.674232,39.221996,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ebe094ec-9f2c-416d-add1-a45ed5e71fd4,Taş Fırın Lahmacun,RESTAURANT,38.674023,39.221519,"Mahallesi, Vali Fahri Bey Cd. No:5 D:B",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+cdd660fc-9b9c-4481-9bea-fa3e5bb9f892,Ehl-i Keyf Cafe,CAFE,38.673943,39.220768,Tuncay Sk. 15A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c090e73f-92d3-4790-aa67-6d7e9a5017dc,Lahmacuncu Elazığ,RESTAURANT,38.674072,39.221096,Vali Fahri Bey Cd. No: 9 D:B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ca8e5aa2-a164-4aa8-abe1-2d8ebc887610,Bati Kirtasiye,CAFE,38.674072,39.221191,"Sürsürü, Kabzalı Sk No:3, 23040 Elâzığ Merkez",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+25094e83-4d4b-4874-b25f-ae8bddfc77d4,Osmanlı Tulumbacısı Elazığ,CAFE,38.674282,39.221039,Vali Fahri Bey Caddesi 20,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4aac9ef2-e9c8-48b1-b355-fce2cfc0911a,Beyoğlu Kumda Kahve,CAFE,38.674072,39.220818,Tuncay Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+32480613-090c-4e10-b429-b293b8eef13d,Taksim Cafe,CAFE,38.674515,39.220726,Tuncay Sk. No:4,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+daec63a6-2d43-4002-a149-963983dbe903,Bi Kitap Kahve Evi,CAFE,38.674694,39.220886,Tuncay Sk. No: 3 A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3edb99a8-7e0c-44ce-8124-b296bd0c1c4b,Fasıl Restaurant & Bar,RESTAURANT,38.674599,39.221523,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9a714149-686b-4849-8622-d53ed20c5f0c,Elazığ Domino's Pizza,RESTAURANT,38.674732,39.221432,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ad810e73-d3f0-4ab2-9846-40035f0f2af8,Tavuk Dünyası,RESTAURANT,38.674809,39.221447,Gazi Cd. No:9A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6ee6ee41-3d3b-4251-8d0f-fb15bcc72501,Caglayan Sofrasi,RESTAURANT,38.674992,39.22134,Gazi Cad./horasan Sok. 4/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d8f87000-01a0-4557-ba6c-4d3eba5882fa,Palu Hasbey,HOTEL,38.675159,39.221664,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d6838bce-e52d-49a1-a14c-24af473e6763,DoubleThree Cafe Bistro Exclusive,CAFE,38.67503,39.221756,Şht. İlhanlar Cd. No:4 D:3,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7ca4bc00-893d-46d6-9bd3-b4816aee40b5,Unpark Pastanesi,CAFE,38.675228,39.221622,Şht. İlhanlar Cd. No:1/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+962ea6f8-c7d0-431c-911e-1c88ce1ebf1c,Hacibey Kofte,RESTAURANT,38.67556,39.221581,Şht. Binbaşı Hasan Sabri Sk. no:9/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9e068ccf-5d9b-4efc-aa36-5be99330ed1e,Mayd Hotel,HOTEL,38.675545,39.221077,Horasan Sk. No: 11/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+514560ac-150f-49a9-9b06-6aa292862e4c,Hünkarbey,RESTAURANT,38.675388,39.221256,Şht. Binbaşı Hasan Sabri Sk. No:14,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+48531f0f-635a-4052-a924-1ece65c3c55b,Küçük Kilis Kebap Salonu,RESTAURANT,38.675289,39.221157,Horasan Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4e78521c-5980-4c70-9087-661ec09553cf,Köfteciler Sokağı,RESTAURANT,38.675194,39.221237,K. Tuncel Sk. No:1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8545859a-e30d-4820-9f15-1de9109196af,Elazığ Kutluğ Ticaret,SHOPPING,38.675343,39.220581,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9686a943-ad58-4100-b4b6-971c457bbf11,M.bulut Insaat - SahraEvleri,HOTEL,38.675343,39.220581,Prof. Dr. Necmettin Erbakan Bulvarı 5,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+36ba1261-b0aa-4d5c-beca-8297b8bfe3f1,Ensar Mangal Vadisi,RESTAURANT,38.675343,39.220581,Harput Mah. Nadir Baba Sok. No: 1 (Tarihi Cimşit Hamamı) ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9f931f43-c9ad-46fe-bd70-9caa38594216,Okyanus Cafe,CAFE,38.675339,39.220589,Şair Rahmi Sokak 2D,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0023df5f-dd27-45d9-b884-3ffcdfcb15bc,Amcanın Yeri 1,RESTAURANT,38.675014,39.220665,Gazi Cad. Horasan Sk. No:3/A,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+f233455f-883b-4f80-a3fa-e052c1663801,Damak Lahmacun ve Pide,RESTAURANT,38.67524,39.220276,"Muammer, Muaammer Çorbacıoğlu Sk. No:7 D:a",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+68db0a32-59cc-4360-93fb-471839a0d173,London,CAFE,38.675076,39.219765,"Gazi Cd. No:30, 23200",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9e2341e3-1ef8-4f28-b53c-023ade2bb8e8,Cadde 23 Oyun Salonu,CAFE,38.675159,39.219704,"Yeni Mahallesi Yeni Mahalle, Şair Rahmi Sk. No:2/F",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+11248623-b616-4fb3-81b1-c8e81ab5ec95,Oyku Durum,RESTAURANT,38.67506,39.220078,Hürriyet Cd. No:26 D:B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+62f264dc-9473-4bd9-afa3-74442e11a2a0,Hasbihal kahve keyfi & lokanta,CAFE,38.674667,39.219612,"No:, Akın Sk. No:3",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6a733352-071e-4db3-aede-7669b179acd9,Harmony Cafe,CAFE,38.673561,39.220264,Kazım Efendi Sok,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f7ac09d8-7768-47ef-bb7b-7c52e92b3b86,Best Coffee Shop Lavazza,CAFE,38.674328,39.21941,Vali Fahribey Cad.,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+81b24e3d-37c5-4220-bfed-507b0c9385a3,Tatlıses Çiğ Köfte,RESTAURANT,38.674351,39.21899,Vali Fahri Bey Cd. 40 C,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+39a78b36-c6b7-4b3c-8a01-b020f10d9b4a,Elazığ İlahiyat Ve Harput İlim Vakfı Öğrenci Yurdu,HOTEL,38.67363,39.218781,General Hakkı Talay Cd. no:48,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d855b26f-ac85-402a-a531-f9c2641d574c,The drink House,CAFE,38.674751,39.218403,Yenice Sk. No:7,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+14edde5d-a0c5-4395-bdf7-877299a30cd3,Harput Çayda ÇIRA,CAFE,38.67487,39.218807,HARPUT,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d229f44f-b8f6-4d89-a777-0c2f68c64744,Big Boss's Cafe and Lounge,RESTAURANT,38.674618,39.219521,Gazi Cad. Akın Sok. No :6,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+18f23c11-19d0-4cf4-99e1-df5e8920a6c9,Buhara Kadayıf,RESTAURANT,38.67498,39.21933,Gazi Cd. No:31,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0121cb3c-a318-4c49-8ac3-901ab4e144b4,Kral Künefe,CAFE,38.675117,39.219219,Gazi Cd. 34-1,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bbefae8d-3ad5-4269-a4e1-258c118bde33,Max Chicken,RESTAURANT,38.675148,39.219219,Gazi Cd. no:34,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+535e2582-551b-4d10-8aa5-874bc95e9910,Baklavacı Şemsettin,CAFE,38.67503,39.219173,Gazi Cd. No:37 D:29,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+74d6bed0-c4d8-4fa9-b87d-492e532036ab,Dolunay Oyun Salonu,CAFE,38.675011,39.219418,Gazi caddesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+75b51024-38c6-4c67-a4c6-eabe6c5e2ae2,Semerkant Cafe,CAFE,38.675117,39.219421,"PO, Yeni Mahalle Gazi Caddesi Zırhlıoğlu İş Merkezi, Kat 1",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+596ae8f3-9c31-428b-b5c6-3d6e7fc5ca54,Gülüm Piknik,RESTAURANT,38.675312,39.219418,Gazi Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5cd1bcca-2341-441a-9992-3cd3e38c381f,Zırhlıoğlu Pasajı,CAFE,38.675491,39.21933,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a8c37cee-b0c9-4ac3-a7e3-0ca9172edade,Dois Döner,RESTAURANT,38.675152,39.218754,Gazi Cad. 39/A,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+425a65aa-8eaa-472f-9c99-88bb0f4ccd00,Harput Eyvan Çiğköfte Sofrası,RESTAURANT,38.675835,39.218674,"No:, Geçer Sk. No:33",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3e37e982-4b95-4568-a8da-7838fc7100b7,Uğur Çay Salonu,CAFE,38.675823,39.21883,Geçer Sk. No:26,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fb64bfca-2605-4888-ae5b-79c6ee4a5479,Koç Kale,SIGHT,38.676342,39.218639,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+4d42bd32-714e-4034-af6c-a19cd05c5279,Oğuz Çayevi,CAFE,38.675648,39.219021,Geçer Sk. No:27,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9671ccad-7437-45ea-9ac1-75fd9a1b360a,Son Durak Kilo Mangal ve Dürümcü,RESTAURANT,38.676243,39.220058,Mimar Faruk Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3f93680c-dcf4-425d-b247-89ee4c7c9a34,Ceviziçi çiğköfte salonu,RESTAURANT,38.676353,39.220402,Mehmetçik Sk. 3/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a627a1f0-f535-4b1a-ad0a-e267bca1a840,Cafe Resh,CAFE,38.677914,39.22057,Lüleci Sk. No:5,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0ba7eadb-a859-4650-8e61-aab3a6583a81,Ises Çiğkofte,RESTAURANT,38.676018,39.217503,Alaca Sk. No:8,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+941acbf7-30d8-420e-8742-2efbd3c0cb14,Cayda Cira Cay Evi,CAFE,38.675995,39.217503,"No:, Gazi Cd. No:33",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+412cdb94-d1da-43f0-aaf4-c0b89a8aeb70,Tek Kebap Salonu,RESTAURANT,38.676121,39.217854,Geçer Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+511e5da0-e40c-46db-a7d4-0ad51c7d6daa,Cafe Elit,CAFE,38.675827,39.218372,Beyazıt Sokak 5A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d04dd326-0c8f-4e89-9d7a-68bf42cf03eb,Florya Cafe,CAFE,38.675034,39.218273,Yenice Sk. No:4,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+596c3f4e-dd28-4ff5-bc4d-4c4d4652920f,ÖZELİM Pastanesi,CAFE,38.67527,39.217937,Gazi Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c88fbecd-d901-4eca-b3df-7e5471c6b081,Cadde Piknik,RESTAURANT,38.675583,39.217445,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7e07fd2e-a944-47fd-b066-39722f05f880,Burger King,RESTAURANT,38.675217,39.21759,Gazi Cd. No:51/B,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+59fc7bdd-4bf3-45dc-89c0-69ce64e84a17,çiçek borek gazi caddesi,CAFE,38.675297,39.217617,Gazi Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6b81ff5c-49b3-4717-ba6e-17dd1f8ce02c,Domino's Pizza,RESTAURANT,38.674679,39.217266,"Mahallesi, Bahçeli Sk. No:9",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3b0da2d7-75fb-434b-a659-2ffe2ed1c68d,Elazığ Hilton Otel,HOTEL,38.674381,39.217873,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bdc257ce-e3e2-4fd4-9ff2-d793f2950cc5,Harput Meryem Ana Kilise,SIGHT,38.674351,39.218052,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8e7b8507-a1e7-45f9-b3e7-7b94abbd98b6,Starbucks,CAFE,38.674252,39.218056,,Elâzığ,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a6e34146-15c1-4494-8c48-2f79e4708a99,DoubleTree by Hilton Elazig,HOTEL,38.674347,39.21793,Vali Fahri Bey Cd. No:37,Elâzığ,CDLA-Permissive-2.0,OpenTravel|Overture|meta
+99bb5a90-5d3f-4f27-9f78-a26e3cc3950a,Hilton Roof Cafe,CAFE,38.674305,39.217789,Vali Fahri Bey Cd. No:37,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5d0c3f33-8a4a-4e75-a4c2-7d5aa25ccb68,Zeplin Cafe,CAFE,38.67424,39.217537,Vali Fahri Bey Cd. No:43 Kat:3,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a4bc572e-cb61-42da-aa27-239bb4fd8e94,Çekirdek Cafe,CAFE,38.674026,39.217197,Bahçeli Sk. NO:15,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f95155a0-bfe5-4822-9fdc-c882543b9906,Ogretmenevi Cay Bahcesi,CAFE,38.674648,39.216927,"""Elazığ Lisesi, Öğretmen Cemil Meriç Caddesi 17B""",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ba594fc3-9832-48ad-891d-811d336f430f,Tarihi Elazığ Öğretmen Evi,HOTEL,38.674953,39.216793,Gazi Cd. No:3,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+7bf15593-4c44-4a22-86bd-b37ebc08c003,Elaziz Mutfağı,RESTAURANT,38.674683,39.214291,şehit idris dogan cad.(ahmet aytar meydanı),Elâzığ,CDLA-Permissive-2.0,Overture|meta
+637dab05-6cd0-4f61-adfe-be9e7f175bd8,Salkım kio mangal evi,RESTAURANT,38.67664,39.213818,Geçer Sk. No:27,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+11886593-3aca-46f1-9306-e036a6dbb92b,cafe milano,CAFE,38.676601,39.213825,yeni mah.geçer sok.no:29a,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d78b8907-7248-42f1-b63e-a3e19db5d74a,Mercan dondurmaları,CAFE,38.676098,39.215855,Gazi Caddesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dbe203b0-ce35-4f5e-a967-b33cb0fbd95c,Değirmenli Park,SIGHT,38.682312,39.218018,Kanarya Sk. No:31,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+166d9aa1-16d6-48e4-bd2e-cb84a5629e48,Elazığ Araştırma Migros,SHOPPING,38.682465,39.216114,Yunus Emre Bulvarı 73a,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5e539c25-0a3c-4c03-a7a2-a7a8b0437af9,Özbal AVM,SHOPPING,38.682247,39.21553,Alp Cd.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+2d619f8c-d97e-43ba-ae26-9e2f62fe2d36,Gedikler Izgara & Kilo Mangal,RESTAURANT,38.681927,39.215706,"Kebapçı Rıza Usta Kavşağı Gedikler Kuruyemiş Yanı, Yunus Emre Blv. No:70/C",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+80787300-8528-408d-8931-00c53858900d,Gülmez,CAFE,38.688686,39.219673,Pertek Cad,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c0fdb0a3-aa97-4592-b373-1dba61d50941,Elazig Windy Hill Hotel & Spa,HOTEL,38.701046,39.215534,"""Evren Cad, No:105""",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f8252a00-bd92-49ba-a5da-e7b739cf7f1d,Atikeler Butik Otel,HOTEL,38.703365,39.24971,Ahmet Kabaklı Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f23081ab-1547-470c-863c-a94b0b39bd72,Balakgazi restaurant,RESTAURANT,38.702312,39.250687,Balakgazi Cafe & Restaurant,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1c351cd5-8e30-48c5-b6ee-71990652fc7e,Cam Seyir Terası,SIGHT,38.701927,39.249702,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9b01869c-09b1-4391-ba13-28f7aaaf45b0,Elazığ Harput Kalesi Osmanlı Evleri,HOTEL,38.70174,39.249813,Harput Kalesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1657e9de-9b65-4e71-be56-f12e7ebcec85,Harput Balakgazi Seyir Tepesi,SIGHT,38.701569,39.249889,Harput Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9938abdf-5dc3-425e-ae1a-1b36befd2d1d,Harput Palace,RESTAURANT,38.70335,39.25349,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3cbf7668-0d94-47f2-8e3d-8cb4ef34747c,Zertaslar Et Lokantasi,RESTAURANT,38.69891,39.254665,"Km, Harput Yolu No:4",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b9de4821-a82f-48cc-a734-354faccffebb,Harput/Mamüratül Aziz,RESTAURANT,38.698769,39.254333,Milli Uşağı bölgesi Baskil/Elazığ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8fe7fc9c-fa6e-497a-945a-c12cbf334b98,Harpout,SIGHT,38.704166,39.268608,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b1c508b9-6436-4f25-a9e8-f0946c0db454,Dabakhane Şifalı Sular & Çay Bahçesi,SIGHT,38.705925,39.258644,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+45fba444-37f9-46f9-90ee-cde33c0bbc6f,Şefik Gül Kültür Evi,SIGHT,38.706303,39.254486,Harput Mah,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fb17ffdd-633e-4403-9269-3d1ce107230e,Harput Hünkar Konağı,RESTAURANT,38.703983,39.254887,harput,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+5562925e-43b8-4ac8-ad93-e9c8c6186674,Ensar Mangal Vadisi,RESTAURANT,38.704433,39.252689,"Tarihi Cimşit Hamamı, Nadir Baba Sk. No 1",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d6959940-6f8c-4807-9561-1fdf956ebb39,Seyir Et Lokantası,RESTAURANT,38.703728,39.252934,Nadir Baba Sk.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d7bbbe4c-01f6-4ed5-afe2-8eefc13b3671,Harput Kalesi,SIGHT,38.704304,39.252186,Harput,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9d87f799-bef9-4461-a08a-d817f111668c,"Pirzolaci Yusuf Usta, Harput, Elazig",RESTAURANT,38.704491,39.252518,HARPUT,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e8c125e1-94d0-4ade-bfee-12d16e784dc6,kale et bahçesi,RESTAURANT,38.704418,39.251839,Harput mahallesi 7000 sokak no 57,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+91040112-1ea2-4b8a-b017-3eb000408652,Kebapçı halit usta,RESTAURANT,38.704395,39.251789,Ahmet Kabaklı Blv.,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bca7779c-f668-401e-b73e-1b437c908ced,Harput Divan,RESTAURANT,38.704525,39.251541,"jandarma karakolu yanı, Ahmet Kabaklı Blv.",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d57be3b6-e358-4759-a405-d7380f56d233,Harput Dürüm Evi,RESTAURANT,38.704189,39.251518,Enver Debirbağ Sok,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c13e17e7-7585-4e22-89e3-93c1b011f839,DİLEK Çinarı,RESTAURANT,38.704041,39.251148,HARPUT,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+edc60e13-a27f-434d-abc7-7bf9c6afbd41,Asmaaltı Cay Evi,CAFE,38.704189,39.250957,Harput Jandarma Bitişiği,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3178e921-f842-48bb-b053-3932c674e68e,Çınarlı Park Et Lokantası,RESTAURANT,38.704166,39.251011,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+bb7b558f-28a2-4687-8527-1dae80d02d90,Antik Han Cafe,CAFE,38.705673,39.25164,Paşa Demirbağ Sk No:6,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1afbf6ad-fcaa-4e8c-b0d2-ad825dc51af2,Buzluk Mağaraları,SIGHT,38.706303,39.252525,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+11845da9-84d5-49a8-b91d-2e23711fefa1,Mehreb Cafe Kovancılar,CAFE,38.685139,39.271969,13. Sokak 5,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+03125631-68c5-4ae8-859f-3b68325d1824,ByPablo,CAFE,38.685394,39.265423,Doğukent Mahallesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+804db07b-6ec5-41e6-871f-d39df9359a5a,Harput Dibek Doğukent,CAFE,38.683632,39.259483,Kaptan-ı Derya Sk. No:23,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+98abee1a-1f32-494d-a00a-1b0b5d73610e,Aile Diyarı,CAFE,38.679123,39.259922,Itri Cd. No:71/A,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+26264c92-819a-4f55-a586-ba938f838c5f,Kete Dondurmalari,CAFE,38.682526,39.261368,Bahaeddin Öğel Cd. No:53,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6fab4292-3772-42c3-8351-3596c8288d9e,Nusret Gurme,RESTAURANT,38.682732,39.261856,"Seyda mola, bahri Bulvarı no 51/1A",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f720c66b-0e45-4e15-8ff7-e6574bdea1d4,Elmado,CAFE,38.672684,39.266033,Yenibağlar Sk. No:47,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b868875a-b082-42e0-ae03-177d9e4b9a16,Palu Hasbey,HOTEL,38.671661,39.25692,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+26a81022-5fa6-4a0d-bef7-17ed73d91c85,Elazığ Yeni Sebze Hali,CAFE,38.656353,39.258156,Elazığ Sebze Hali,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f7a597a8-8dba-463c-a20c-8a734ed29f8c,Buzluk TesİSlerİ,RESTAURANT,38.734821,39.294178,Alayaprak mah:no 33 anguzu baba yolu üzeri 11. km,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3f75206b-3b0c-48d2-8e09-f5a0fe21e8d7,Şüşnazlılar - Harput Serince,HOTEL,38.760071,39.301975,Serince Köyü Harput Elâzığ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8f2e84b6-b826-46d2-9023-a5ffaafaae34,Harput Alayaprak Mevkii,SIGHT,38.752876,39.309467,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a7d2f3d4-10d1-4a7e-84a1-60443c849e39,Buzluk Mağarası,SIGHT,38.735779,39.282856,"Unnamed Rd,Harput Mahallesi,",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+aa73d9b2-3fef-48be-95c8-278b39042007,Badu Gaming Hell & Karaoke,CAFE,38.745819,39.274418,Malatya Caddesi 23,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+42d21e44-e7fe-46dc-9898-db37c34b8426,"Çataksu, Pertek",SIGHT,38.778069,39.500385,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d2264c30-3c26-4cd5-8174-feb7bb16ce32,Elmapınarı Sahil Kenarı,SIGHT,38.600704,39.460182,Elmapınarı Köyü,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+0e87034b-f7ac-4782-b869-ffac160126ed,Ibonun Yeri Koçkale Balık Evi,RESTAURANT,38.592289,39.456799,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+205ce118-bacd-4120-a8ea-4ed9ea5b9e42,Bahadır Balık Evi,RESTAURANT,38.592522,39.455452,Bingöl Yol 23 Km,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+25164765-10a2-439e-915d-4ae9de46218b,Bingöl Yolu Keban Baraj Gölü,SIGHT,38.593933,39.446766,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1084f2c2-f79d-424e-b3c2-7020d14cf1f9,Kockale Sait'in Yeri Balık Evi,RESTAURANT,38.593838,39.447083,Elazıg Bingöl Yolu,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f05b96ba-baff-4d16-9ae8-07f6f660471d,Ergünün Yeri,RESTAURANT,38.59354,39.452946,"Ergünün Yeri Balık Evi, Elazığ Bingöl Yolu 23. km",Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3e08daac-5124-4f61-a586-0aac542dad34,Aksakal Balık Restoran,RESTAURANT,38.602135,39.489159,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+660328ef-d938-43d9-be4b-816eef686d91,Hazar Gölü Piknik Alanı,SIGHT,38.524517,39.499886,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a8448499-ba8c-4f82-b1a9-f179a430a558,Aspera Bungalov Restaurant ,HOTEL,38.491749,39.489113,Plajköy Küme Evler 299,Sivrice,CDLA-Permissive-2.0,Overture|meta
+56a535d4-07f8-4c44-9a84-4acfbeced6e7,Plajköy,SIGHT,38.491833,39.487755,Maden-Plaj Köy,Sivrice,CDLA-Permissive-2.0,Overture|meta
+5d4e4728-4d3b-43c3-87ae-0ceaae04e43c,ELAZIĞ hazar Gölü,SIGHT,38.491642,39.48798,,Sivrice,CDLA-Permissive-2.0,Overture|meta
+56da3824-e724-443a-9f1f-9d4fbde6de8a,Elazığ Hazar Gölü,SIGHT,38.52729,39.465359,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+1f9bc9c1-7255-4f83-9ced-69499b42c84d,Hazar Gölü Gölardı Vilaları,SIGHT,38.53109,39.461594,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+07f50c29-534f-435d-bbdb-d40a7c443a93,Özlem Balık Evi,RESTAURANT,38.510155,39.402676,Diyarbakır Elazığ Yolu,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ab27c542-8c4c-4b36-9d4b-01e937b8296a,Elazig Hazar Gölü,SIGHT,38.518574,39.413513,Sivrice Hazar Gölü,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+6c970223-1831-46d0-b74e-1a75fd5ee6d6,Elazığ Hazar Gölü,SIGHT,38.501717,39.388103,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+048a8bf4-78bd-4c15-b3c9-2ed8ba3cc963,Harzo Dayı Balık Evi,RESTAURANT,38.501717,39.388115,Diyarbakır Elazığ Yolu,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+517eddcb-b55c-4e86-8f68-dac2da617b0c,Baraka Cafe plaj,CAFE,38.498379,39.377922,Diyarbakır karayolu 35. Km Dsi kampı bitişiği,Sivrice,CDLA-Permissive-2.0,Overture|meta
+8804514e-9685-446d-a7da-def23d84e587,Elazığ Yurtbaşı,SIGHT,38.639061,39.343811,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c5f7df5a-d354-440d-8e31-afb1444e35c1,Yurtbaşı,SIGHT,38.646873,39.35128,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+f3433b1a-3693-4682-b6e5-2388d041ae65,Konak Pide Fırını MURAT USTA,CAFE,38.611309,39.299629,Recep Tayyip Erdoğan Bulvarı 92,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b833f279-4fbc-4323-bd00-452034cc48e9,Elazığ - Keban Barajı,SIGHT,38.616665,39.290821,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3acd4ac1-8f7f-4d5e-8343-48f3c033fc1a,Gedik Restaurant,RESTAURANT,38.61977,39.299339,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+a1b5033f-4f2a-4397-91bb-42889b848201,亞澤科納克,SIGHT,38.616699,39.299999,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+494721ed-6eef-4084-8443-344489bd4ce6,Erden Market,SHOPPING,38.616917,39.308254,Yazıkonak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+d4576ce1-a952-45bb-9a9f-19f98bdfb78c,Coca-Cola İçecek,CAFE,38.624283,39.324436,Organize Sanayi Bölgesi 2. Yol,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+3cb746cb-2069-46cb-aedd-714b3045029e,Saray Yemek Fabrikasi,RESTAURANT,38.621899,39.278831,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+8143e91c-7516-4dc5-8e50-c4128e039574,Saray Sofrası Restoran & Cafe,RESTAURANT,38.622368,39.277958,Bingöl Yol 2,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+e1a1ff7a-48fb-449c-877d-fe3f6df1a381,Saray Yemek Fabrikası,RESTAURANT,38.617458,39.270378,Yazıkonak,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ea1b577f-515d-40f6-a16d-13566ab82a8b,Bayramlar Restaurant,RESTAURANT,38.623524,39.275593,Akcakiraz Elazığ Bingöl Yol,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+09d61f97-9e2e-4434-85c2-f35964d0f5da,GürÇubuk - ŞariĞ,HOTEL,38.629986,39.267593,gürçubuk,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dc7c8769-72a4-4ff3-94f5-5939bfbc14eb,Akçakiraz,SIGHT,38.616665,39.266666,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+fde8ed0c-d945-4132-8c2d-68b806917779,DoĞU AhŞAp Yapi,RESTAURANT,38.621845,39.254505,Yeşilkuşak Mahallesi 706. Sokak No:81 Akçakiraz ,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+ef5eb2b2-b4fb-4bbd-b765-811d9ffa027c,Muslum Baba,RESTAURANT,38.589687,39.22031,Müslüm Baba,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+befa8bcb-6358-474b-bab9-00bdabe58e1a,Arcelik Elazıg Bolge Mudurlugu,ACTIVITY,38.584049,39.254749,Diyarbakir Yolu,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+dd4205ed-8cba-4932-aeb1-fb51d82987ed,Cıncık Sac Tava,RESTAURANT,38.602863,39.255238,Diyarbakır Elazığ Yolu No:24,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+c4c679b4-a1ef-4d99-ac68-98e71db62aa9,Ruby Restoran,RESTAURANT,38.60022,39.26757,Yeşilyurt Mahallesi,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+517a4a69-ce88-4421-bbba-176edfa5c811,Safir 424 Cafe Bistro,CAFE,38.600368,39.267811,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+21417100-ddd2-436c-9125-33afe25f08a2,Harput Kahve Fincanı Müzesi,SIGHT,38.580181,39.277237,Harput Caddesi 27,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+94c3c996-8c31-4284-b6e6-c88dc1c3b36c,The Serra Restaurant & Garden,RESTAURANT,38.55146,39.251118,Diyarbakır Çevre Yolu 12.Km,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+9d2c71c5-40f6-4a22-9d83-79964b34912d,Sivrice Hazar Gölü,SIGHT,38.527321,39.241619,,Elâzığ,CDLA-Permissive-2.0,Overture|meta
+b4534cbe-ac90-4db8-b391-b5ecf6fb8f42,Mavigöl Restaurant,RESTAURANT,38.494308,39.351425,merkez,Sivrice,CDLA-Permissive-2.0,Overture|meta
+9f9b4243-36bf-4958-a70e-a89334fae179,Kardelen Restoran,RESTAURANT,38.494831,39.352348,Diyarbakır Elazığ Yolu,Sivrice,CDLA-Permissive-2.0,Overture|meta
+de14586b-14bf-49d4-9532-0645b0a30935,HazarBungalov Butik Otel & Su Sporları,HOTEL,38.494053,39.349377,Diyarbakır Yolu 34.km-Hazar Gölü Kıyısı,Sivrice,CDLA-Permissive-2.0,Overture|meta
+2834878d-f734-4a49-a379-f765da678eca,Günay Restaurant,RESTAURANT,38.487835,39.327023,Diyarbakır Yol 30 Km,Sivrice,CDLA-Permissive-2.0,Overture|meta
+ae0dc220-d3fe-45fe-8d0e-12b40969543a,Elazığ Hazar Gölü,SIGHT,38.487549,39.326698,,Sivrice,CDLA-Permissive-2.0,Overture|meta
+bafe9b83-8edb-47a9-8a5d-0f27ed32b6f3,Altıngöl Restaurant,RESTAURANT,38.486179,39.326214,sivrice hazar gölü emniyet kampı karşısı,Sivrice,CDLA-Permissive-2.0,Overture|meta
+18308f93-7995-435d-86c5-951057d55b3c,Elazıg Defterdarlıgı Hazar Egitim Tesisleri Sivrice,ACTIVITY,38.486835,39.327579,Sivrice Elazığ Diyarbakır Yolu,Sivrice,CDLA-Permissive-2.0,Overture|meta
+01274dda-269b-40fa-a13d-e29d210d130a,Mavigöl Restaurant,RESTAURANT,38.411957,39.311546,Mavigöl Restaurant ,Sivrice,CDLA-Permissive-2.0,Overture|meta
+ab8e3197-95d7-4dbb-a723-c8e939a5d8d4,Sivrice Orman Mesire Alanı,SIGHT,38.434139,39.29847,,Sivrice,CDLA-Permissive-2.0,Overture|meta
+c1d046d1-6a1e-4648-bbfa-3ba3534e1871,Elazığ Sivrice Öğretmenevi,SIGHT,38.450916,39.309311,Gölbaşı Mah. Gazino Kümevleri No: 8,Sivrice,CDLA-Permissive-2.0,Overture|meta
+31d75970-ec7d-417d-a8b6-4c785cc5f277,Hazar Gölü / Elazığ,SIGHT,38.476654,39.306408,gezin merkez,Sivrice,CDLA-Permissive-2.0,Overture|meta
+9efaa154-1277-4304-b55e-c07228b06955,Atila Balık Evi,RESTAURANT,38.485008,39.316097,"23900, 23902",Sivrice,CDLA-Permissive-2.0,Overture|meta
+8cc18365-08aa-473b-a255-411679f53c5d,Mavigöl Otel,HOTEL,38.483963,39.322124,Güney Köyü,Sivrice,CDLA-Permissive-2.0,Overture|meta
+4950896e-dc9c-4dd1-b5f9-1cb72f5e742b,Turpol Tesisleri,HOTEL,38.481998,39.312504,"Diyarbakır Yolu 25.km, Hazar Gölü, 23900 Sivrice/ Elazığ",Sivrice,CDLA-Permissive-2.0,Overture|meta
+27860407-df8a-4f3b-b0e9-07d925c0bffd,Hazal Gölü,SIGHT,38.481949,39.312466,,Sivrice,CDLA-Permissive-2.0,Overture|meta
+8558e7d1-3260-4a33-b052-d99a4bf0ec47,Hazar Gölü / Elazığ,SIGHT,38.475006,39.303726,gezin merkez,Sivrice,CDLA-Permissive-2.0,Overture|meta
+1471e028-1fe5-4702-bfbf-ea3e25210db4,"Hazar Golu, Sıvrıce, ELAZIG",SIGHT,38.474262,39.298275,,Sivrice,CDLA-Permissive-2.0,Overture|meta
+6306393d-71b5-43af-b8be-725c913487b7,Sürmelim Cafe ve Kahvaltı,RESTAURANT,38.472778,39.294971,"Sanayi, D885",Sivrice,CDLA-Permissive-2.0,Overture|meta
+4e5342d6-d12e-4475-8316-c040e2dec838,Yalçin ET VE Balik Lokantasi,RESTAURANT,38.473129,39.295471,Sivrice Hazar Gölü (Belediye Kampı Karşısı),Sivrice,CDLA-Permissive-2.0,Overture|meta
+d254c25b-f272-4181-a6c6-10b7af97495f,Patika Cafe Plaj,CAFE,38.470387,39.280159,"Yeniköy, Diyabarkır Yolu No:208, 23100 Günay/Merkez/Elazığ",Sivrice,CDLA-Permissive-2.0,Overture|meta
+93536a33-cdb5-4112-9158-55c7e5ddbdf4,Batık şehir cafe,RESTAURANT,38.456123,39.367493,caddesi,Sivrice,CDLA-Permissive-2.0,Overture|meta
+ec3250a0-e0d4-407e-aa35-756aaa590a47,Hazargölü,SIGHT,38.463844,39.393265,,Sivrice,CDLA-Permissive-2.0,Overture|meta
+bdbab44f-9f32-4181-83df-eab880c89ae5,Hatun Köy,SIGHT,38.439232,39.483212,Elazığ,Sivrice,CDLA-Permissive-2.0,Overture|meta
+d43b28f2-79d4-4397-9a64-7b25daf3f650,Mavi Gol Otel & Restaurant,HOTEL,38.488007,39.533096,Güney Köyü Sivrice,Maden,CDLA-Permissive-2.0,Overture|meta
+e078abdb-5bdf-4564-b043-c6cea03ffb46,Tekevler Kavurma,RESTAURANT,38.48848,39.596554,TEKEVLER,Maden,CDLA-Permissive-2.0,Overture|meta
+dd7f46f1-5d3d-46b0-8534-efcb88b340f5,Soğuksu Şölen Dinlenme Tesisleri,RESTAURANT,38.404408,39.657001,,Maden,CDLA-Permissive-2.0,Overture|meta
+782eb2f7-4a8c-4f96-89a3-945c2840f3ff,Kavurmacı Recep,RESTAURANT,38.403954,39.656906,Elazıg Diyarbakır Yol,Maden,CDLA-Permissive-2.0,Overture|meta
+eb2173c7-1db6-4550-91d3-2e2eea60424f,Soğuk Su Et Lokantası,RESTAURANT,38.400658,39.658218,,Maden,CDLA-Permissive-2.0,Overture|meta
+bdfdf647-fa52-4f49-8d4b-94c694dbdfb5,Adapark dinlenme tesisleri,RESTAURANT,38.391827,39.668186,,Maden,CDLA-Permissive-2.0,Overture|meta
+32174a86-e77c-4056-a579-c4ec39d7d21c,"Maden, Elâzığ",SIGHT,38.389721,39.66861,,Maden,CDLA-Permissive-2.0,Overture|meta
+57ec3e2a-37df-4b95-a3a4-8cddce62d254,Starbucks,CAFE,38.396259,39.675945,Diyarbakır Cad,Maden,CDLA-Permissive-2.0,Overture|meta
+03a575f4-f747-4cfc-af71-12c50da23a73,แม่น้ำไทกริส,SIGHT,38.433331,39.772778,,Alacakaya,CDLA-Permissive-2.0,Overture|meta
+953165c4-46a3-4448-b66f-fd828d9410f0,Adapark dinlenme tesisleri,RESTAURANT,38.41185,39.654285,,Maden,CDLA-Permissive-2.0,Overture|meta
+44f68692-ec59-41fc-a78e-56c5b1b5b222,Yegenler Kavurma,RESTAURANT,38.41375,39.651093,,Maden,CDLA-Permissive-2.0,Overture|meta
+8f1d5fd7-4969-4b6a-8993-af944a766fd8,Kavurmacı hasanusta,RESTAURANT,38.417301,39.653519,Elazığ,Maden,CDLA-Permissive-2.0,Overture|meta
+625c2b3a-5d84-462c-9526-8e25fb9c7e6b,Aydınlar Alabalık,RESTAURANT,38.656742,39.764252,Tunceli Yol,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+5d29f2a1-76df-461c-974f-a190afb5ca6c,Elazığ Gülüşkür Koyü,SIGHT,38.644897,39.731113,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+14d0087c-db7d-4ed3-90da-5ca5d7d3ef7c,Akbulut Dinlenme Tesisleri,RESTAURANT,38.6427,39.710201," ELAZIĞ BİNGÖL YOLU, YENİ MAHALLE  ",Kovancılar,CDLA-Permissive-2.0,Overture|meta
+17015f31-de91-47a2-9197-e302316cd7bf,Gülüşkür Köprüsü,SIGHT,38.641319,39.714371,Elazığ - Bingöl Yol,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+48bf3b82-ae5e-44b9-92a6-8aeb57a0b5b5,Çobanoğlu Restaurant & Cafe,RESTAURANT,38.646099,39.723999,"Elazığ bingöl karayolu, gülüşkür köprüsü No:124",Kovancılar,CDLA-Permissive-2.0,Overture|meta
+0c182fbc-bf8c-4bda-9b64-df98b44e3d0f,Güzelyalı Sahili,SIGHT,38.634476,39.601189,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+dedb1dc1-71d6-44f1-b441-6f347cf83439,"Hazar Gölü, Elazığ",SIGHT,38.517521,39.517872,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+88d1739c-a496-448f-9eac-646f2ac7adcd,Yenerler Dinlenme Tesisleri,RESTAURANT,38.614632,39.516922,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+f0b43ede-6c14-4551-b5d4-f02930456ade,Yukarı İçme,SIGHT,38.612461,39.551537,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d216f663-111e-46f2-a012-64c74e9f8ac2,Mutlular Sahil Balıkevi,RESTAURANT,38.623829,39.540859,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+b2059d85-70fe-475d-a305-5dd535113699,Küçükeller Çiftliği - İçme,HOTEL,38.623062,39.541927,Aşağı İçme Köyü,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+cdb8babd-6746-46e2-9bc5-1c9d80ef8be2,Arsamosata,SIGHT,38.660866,39.510914,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+ef619602-3271-4e2e-adde-03788cb5e487,Çalıözü,SIGHT,38.861866,39.548046,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+6149e0cc-a574-4e19-b627-b6e108fdc9bb,"Sumak, Pertek",SIGHT,38.886944,39.517494,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+a994163b-dbb0-48b4-b26a-609d05ee11fc,Uzunçayır Barajı ve Hidroelektrik Santrali,SIGHT,38.9828,39.5308,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+cb4269e6-1eba-474a-8ade-3556184eda75,Çınaraltı Kahvaltı & Kavurma,SIGHT,38.970501,39.54211,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+aed99e3d-4a43-4b49-881e-3c4fc9d47a1f,Meşhur Kavurmacı İbişoğulları,RESTAURANT,38.965813,39.539539,Burmageçit Köyü Mazgirt Köprüsü,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+aefd74ff-f0cc-418a-a8cd-219aad88a9a3,"Beylermezrası, Mazgirt",SIGHT,38.961624,39.573555,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+2f8a29fd-19f2-46c6-89ce-8928286788c3,Goktepe Alabalik Restaurant,RESTAURANT,38.939659,39.607079,Göktepe Sk.,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+8ffaec6f-6407-4875-9e50-65a00a9f6fc9,Havuz Başı Canlı Balık Lokantası,RESTAURANT,38.942593,39.606602,Göktepe Köyü,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+720b35de-fd68-41ee-954d-3e7c01603c86,Havuz Başı Canlı Balık Lokantası,RESTAURANT,38.942108,39.607281,Göktepe Köyü,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+787c511f-c399-4ac9-93af-3ac68ddf6ad1,Temürtaht,SIGHT,38.965725,39.598377,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+547b9aed-c23c-4f43-8428-5e54c92a797c,"Ağaçardı, Mazgirt",SIGHT,38.98,39.675827,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+c6e21b5c-4e3e-4957-9d09-0d6d9b16b560,"Yazeli, Mazgirt",SIGHT,38.960487,39.692719,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+a34b1fb9-3041-4861-84d0-60924e1a24bb,Helin  lahmacun,RESTAURANT,38.756489,39.744045,Bingöl  caddesi zirrat Bankası  yanı  :),Kovancılar,CDLA-Permissive-2.0,Overture|meta
+4019ed4f-7d4e-404e-b290-d7b130db4a4d,"Yarımca, Kovancılar",SIGHT,38.66666,39.766666,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+b64cbd66-6f82-4998-a0a8-dc2d25d38743,Diyarbakir Dicle Kral Kızı Barajı,SIGHT,38.725376,39.882168,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+cdcb3619-ee86-4df8-9257-4ac1b988162d,Çiğköftemm (Ev Yapımı),RESTAURANT,38.71888,39.866295,Halis Ulucan Cd. No:37,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+8a5718b9-4afe-4ba6-8ce6-47674ba14005,Dora Pastanesi,CAFE,38.718189,39.866184,İlhami Ertem Cd. No:3,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+4d33e536-a379-46ef-b379-d3f67487729b,Ezginler pastanesi,CAFE,38.718258,39.866116,Carşıbaşı mah ilhami ertem cad keleşler iş merkezi,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+4528ca10-ad85-425f-9c5c-099ebbce4f9f,Karasu Otel,HOTEL,38.718029,39.866657,Elazığ Cd. No:31/D,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+a4ad4cfd-20b0-4439-b0f5-37d0538a77cc,Kovancılar Demokrasi Meydanı,SIGHT,38.717457,39.865948,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+c091d753-c2af-4a66-9350-4086d3953ad9,Armata Otel,HOTEL,38.713451,39.858158,Elazığ Cd. N0:60,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+9887c6d3-a2ec-495d-895c-d79d1fde01ee,Hanece Park Alışveriş Merkezi,SHOPPING,38.714573,39.859238,Elazığ-1. Cadde 10,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+5ac0e870-61b6-4f60-bf9a-f0749109aee2,Tandırcı HACI AHMET,RESTAURANT,38.714481,39.859432,Elazığ Cd. No:10/BA,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+c5990e06-42aa-4773-858d-c8aba7a94e75,Cafe de Pia,CAFE,38.714527,39.859524,Elazığ Cd. no:10/ba,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d50636ee-b7bb-4c6e-8400-2f635ed51062,Palu Tarihi Kopru,SIGHT,38.717308,39.862156,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+805a656a-94ed-4982-9b14-7ddd2f409dcb,Hicret Ekmek Fırını & Unlu Mamülleri,CAFE,38.71666,39.863617,Elazığ Cd. No:3,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d71554e8-1c91-48e7-9260-1a4d801e491b,Çorbacım PAÇA Kavurma,RESTAURANT,38.716442,39.865154,Bahçelievler Mahallesi Kelebek Sokak Ziraat Bankası Bitişiğindeki,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+16566a5b-546f-46df-afff-914d03936278,Karaçor Çay Evi,CAFE,38.717442,39.864357,Kovancılar Gürsel sokak,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+05d2306b-3030-403e-878a-09a7a414ead1,Dostlar Pastanesi,CAFE,38.718441,39.864998,Halis Ulucan Cd. No:6,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d4375d22-1631-461a-be0d-e42af7ad5f49,Çay Bahçesi,CAFE,38.719173,39.864964,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+8a42e765-7b0a-4641-a3d4-0ce9857d5490,Çiğköfteci hasan Aybak Kovancılar Şubesi,RESTAURANT,38.719757,39.864899,İlhami Ertem Caddesi 19,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+f25d8c9b-14a2-4b99-be9c-53b2a70698ac,Mini Piknik,RESTAURANT,38.719574,39.864891,İlhami Ertem Cd.,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+2e026a3b-7542-4937-bb54-19bc7f60af59,Biyikli Cafe,CAFE,38.719315,39.864208,"Belediye karşısı no:14, Hal Sk.",Kovancılar,CDLA-Permissive-2.0,Overture|meta
+4cd68b2b-ee8a-4ae8-9b0f-5beafd9711d6,Akm Kirtasiye,SHOPPING,38.719185,39.864243,Çarşı Cd.,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+7a2d175b-c6cc-40c1-99f4-72a1e4037ffd,Mega Star İnternet Cafe,CAFE,38.718983,39.863743,,Kovancılar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+febe1572-a0ea-4098-b671-7e9c177004ba,ÇGM Giyim,SHOPPING,38.716118,39.861568,Hastane Caddesi 2,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d9dd552f-2a22-4f75-9a8c-d19d114ddda2,Goman Vip Complex,RESTAURANT,38.719036,39.849709,Mehmet Ağar Cd.,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+9812164b-f057-4928-8944-17b4319c3d87,Aydınlar Alabalık Tesisi,RESTAURANT,38.751137,39.889458,Bedevi Cd. No:119,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+703d0698-1b29-4572-ae52-5bd58dbc0730,Seyitli Köprüsü,SIGHT,38.861809,39.78138,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+3d2c4f7d-1991-4357-b463-46335fc51cfc,Seyitli Köprüsü,SIGHT,38.861732,39.781551,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+afbafcd7-c8c8-4d30-8ba0-6d0a90381eae,Tatar Dam,SIGHT,38.863071,39.816891,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+f636c7ac-b0c8-4c39-9817-077dbfb5466d,"Obuzbaşı, Mazgirt",SIGHT,38.882774,39.825832,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+d0e92022-9d2d-4afa-a6dc-70111f1813a6,"Çatköy, Mazgirt",SIGHT,38.969269,39.782509,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+fa734037-1729-43f7-858c-09cbbaf5b8a3,Peri Vadisi Cafe & Bistro,CAFE,38.959793,40.033936,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ee58f270-43d5-4c60-9ae5-81164f88065e,Nehir Cafe ve Eğlence Merkezi,CAFE,38.966751,40.026474,Karakoçan Yayladere Yolu,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+9e272871-cbfa-4a73-866e-a21a89dcc910,Beyaz Büfe,RESTAURANT,38.956558,40.035179,Tepe Mah. Kiğı Cad.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+fc441072-aa88-4948-ae4e-35299646f96a,Kafe Sol Diyez,CAFE,38.953762,40.037445,Atatürk Cd.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d932e41c-9c73-4314-b5aa-de466ff0f49c,Paradise,RESTAURANT,38.95396,40.037582,Atatürk Cd.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+45fbf7a2-a99f-4930-baa9-6f195e317724,Remon Dayanıklı tük mall ltd şti,SHOPPING,38.954136,40.037498,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+1001301e-8498-45b2-aa14-5c5e69d0fea0,Grand Hekimoglu Hotel,HOTEL,38.954201,40.037159,"NO:2, Vali Saim Çotur Cd.",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+e9851e31-22ee-481d-b0e0-dc729065e7cc,Hanedan Hotel,HOTEL,38.954586,40.036133,"Çiçek Cd No:12,Tepe",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+19a5f983-f91c-4964-855c-0cd3a467cd7e,Komagene Etsiz Çiğ Köfte,RESTAURANT,38.95546,40.03616,Cumhuriyet Cd. No:32,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f45eb532-54b8-4a1a-8efd-2f60e3516179,Fantazi Mangal,RESTAURANT,38.95583,40.03611,Turan Cd. No:13,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+63923c97-fc8a-4928-ad7e-1905cd4323c7,Merkez Lokantası,RESTAURANT,38.955975,40.03611,Atatürk Cd. No:9,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+c3d5a431-1cfc-4dd5-b1bf-0e63445d799c,Peri Restaurant,RESTAURANT,38.956242,40.036198,Yeni Mah,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+0236745f-7e4f-4793-be8a-93490280edd9,Karakoçan,RESTAURANT,38.95594,40.036133,Karakoçan,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+70bd3f29-ed43-4f35-821b-7dc70745bc3a,Kavuman Cafe,CAFE,38.955994,40.03714,Fatih Caddesi 9,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f6a85d3a-fc0f-436e-b42f-2191b96a970b,Cafe Feliçitaa,CAFE,38.954865,40.038013,Kalecik Cad. Merkez Cami karsısı,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+9a51bf36-32d0-482b-b350-cb4e26e37f0d,Cafe Keyf-î Şehir,CAFE,38.954979,40.037979,Yeni Mahalle Cumhurlyet Caddesi,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+05423df9-327e-41a5-98ed-6cdd1a75c480,Terass Cafe,CAFE,38.955044,40.037689,Cumhuriyet Cd. belediye pasajı kat 3,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f80699c2-3cf4-4e33-942c-ff38ab9f3d9b,PEMBE KÖŞK Alabalik Tesisleri,RESTAURANT,38.955837,40.038555,elazığ karakoçan üç budak koyu,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+89ee1f47-2756-4f08-83d8-c5e5d660ba42,Saray Lokantası,RESTAURANT,38.955654,40.038357,Belediye Sk. No:1,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+e368961f-3508-4d48-b827-40efa5361dfc,Köşebaşı pizza ve kahvaltı salonu,RESTAURANT,38.955318,40.03923,"Köşebaşı pizza salonu, Kalecik Cd. No:7",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+6a26bb1f-01b5-4424-9107-1cf5749ed415,Cafe Palacio,CAFE,38.953918,40.037819,"Atatürk Cd. No:14, 23600",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+177e7aa3-c428-4126-9800-d42b4d3b9757,Gondol Pastanesi,CAFE,38.953159,40.038429,Yusuf Uluç Sk.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+89f84f87-456f-417b-ba0f-e1e8f2613538,Çiftlik  Parkı Cafe & Restaurant,CAFE,38.950859,40.038078,Tepe Mah. Çiftlik Cad.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+8f7b334f-6b2c-42f1-8cb1-ae6cc0ef2b5d,Başyurt Nahiyesi,HOTEL,38.840939,39.983303,Başyurt Bucağı Elazığ Bingöl Yolu ,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+1a4dd027-8d22-4ed0-a709-d671f60dbdce,Palu Kalesi,SIGHT,38.702366,39.954403,,Palu,CDLA-Permissive-2.0,Overture|meta
+acfa50be-3e08-40b2-93ac-985e5a912b37,"Palu, Elâzığ",SIGHT,38.703888,39.951111,,Palu,CDLA-Permissive-2.0,Overture|meta
+55c9019a-1c2e-4201-81e3-9b945f56062a,Elazığ Palu Kalesi,SIGHT,38.704845,39.942684,Elazığ Palu Kalesi,Palu,CDLA-Permissive-2.0,Overture|meta
+dfd8156a-74e2-471e-b897-862854f2f317,Palu Zirve Cafe,RESTAURANT,38.703362,39.929359,,Palu,CDLA-Permissive-2.0,Overture|meta
+48c6120e-5d36-48f7-bb13-18c9ca740dee,Palu Kale Otel Restaurant Cafe,CAFE,38.702988,39.933105,Yukarı Palu mahallesi 275 cadde no.:1/1 Palu/Elazığ,Palu,CDLA-Permissive-2.0,Overture|meta
+2503107e-2eaf-4a35-b4c9-df9cf29b9ec3,Dürümcü Seyit,RESTAURANT,38.692528,39.934792,"18. Cd. No:4, 23500",Palu,CDLA-Permissive-2.0,Overture|meta
+5f017099-b4fd-49ae-9302-9f5b21bcf75e,Beyoğlu Palu Cafe ve Restoran,CAFE,38.693283,39.935032,,Palu,CDLA-Permissive-2.0,Overture|meta
+aaec43c8-4c0b-4f48-b8be-69797ca3d47e,Esentepe Kavurma,RESTAURANT,38.689674,39.936436,Alacakaya Palu Yolu,Palu,CDLA-Permissive-2.0,Overture|meta
+3930eb5b-34a0-422d-97f1-013928694774,Palu Saklı Bahçe,CAFE,38.692055,39.940178,Mahallesi,Palu,CDLA-Permissive-2.0,Overture|meta
+ea1fef53-82dd-4827-995e-e22f81566587,Kerg Burger,RESTAURANT,38.692318,39.926865,265. Sk. No:8,Palu,CDLA-Permissive-2.0,Overture|meta
+89158ed1-29ec-4eb6-a3e7-0568aa041bd7,Palu Köprüsü,SIGHT,38.6917,39.928894,,Palu,CDLA-Permissive-2.0,Overture|meta
+b975ded1-f683-4b9e-abf3-3847e5bb93cd,Tarihi Palu Köprüsü,SIGHT,38.6917,39.928894,,Palu,CDLA-Permissive-2.0,Overture|meta
+488f4df7-e1bb-4262-8a19-8a0ce34bc1cb,Palu konak hünkar sofrası kafe ve restorant,RESTAURANT,38.694351,39.92942,"Palu, Elazığ, Türkiye",Palu,CDLA-Permissive-2.0,Overture|meta
+127f6f6a-dfaf-44a1-903b-d975781f2110,PALU Saray Restaurant,RESTAURANT,38.693645,39.928513,Belediye İş Merkezi Kat:1,Palu,CDLA-Permissive-2.0,Overture|meta
+74d59d1a-65be-40c1-9272-29454e9129c6,PALU KONAK Revzen,RESTAURANT,38.693604,39.928593,palu konağı ,Palu,CDLA-Permissive-2.0,Overture|meta
+98ce79e0-8374-4128-bf3e-a7095a3a4ea7,Sahil Cafe & Restaurant,CAFE,38.693604,39.92857,Şeyh Şamil Caddesi,Palu,CDLA-Permissive-2.0,Overture|meta
+ad519f91-5586-4a28-a20c-8e4aced1cf40,Hasan Balo Parkı,SIGHT,38.699295,39.930737,,Palu,CDLA-Permissive-2.0,Overture|meta
+a02dbb70-68fc-47f1-a915-4149e0a93d20,Balkon Cafe Palu,CAFE,38.693115,39.91531,Palu Toki,Palu,CDLA-Permissive-2.0,Overture|meta
+6ed31873-9e05-4f7b-b0ff-af2d15efe975,Beyhan II Dam,SIGHT,38.707272,39.986889,,Palu,CDLA-Permissive-2.0,Overture|meta
+a67f4d16-6cf3-44a9-9c64-9832c26c09f6,PALU Pınarbaşı Alabalık Tesisleri ,RESTAURANT,38.62455,39.840744,,Palu,CDLA-Permissive-2.0,Overture|meta
+3ed64999-eb33-49e4-8ebc-4c55dfb0132f,Öğretmenevi,HOTEL,38.556396,40.139065,,Arıcak,CDLA-Permissive-2.0,Overture|meta
+ac7a2c50-a2a1-47d6-9c2f-fb617a06b5e5,Arıcak Halk Eğitim Merkezi,SIGHT,38.556408,40.138485,,Arıcak,CDLA-Permissive-2.0,Overture|meta
+9553728e-12bc-4c42-a6f0-50954a237e0b,Arıcak Halk Eğitim Merkezi,SIGHT,38.554974,40.138687,,Arıcak,CDLA-Permissive-2.0,Overture|meta
+dda37b67-b1d9-4d6b-80c9-9672654c1018,Mircan Kavurma,RESTAURANT,38.661755,40.495602,,Arıcak,CDLA-Permissive-2.0,Overture|meta
+02c6a766-1fff-4ff6-be7d-6c59fde4c819,Yedisu Lokantası,RESTAURANT,38.893864,40.477829,Cumhuriyet caddesi NO:50,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+13d2eb94-3821-4e96-a629-6608b994a2e1,Mimoza Cafe&Restaurant,CAFE,38.903683,40.48452,Bingöl Üni Myo Çaprazı,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+90a9f722-dec9-471b-bd8e-da4a5c508a23,Bahçe Saray Cafe-Restaurant,CAFE,38.894882,40.482307,Cumhuriyet Cad. Kanireş Mah. belediye parkı karlıova bingöl ,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+be5d96d6-ef51-41af-9914-0f052169c8ab,Efe Hotel,HOTEL,38.887299,40.490971,"BİNGÖL OTEL EFE, Cumhuriyet Cd. No:63 D:12000",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+5ee1707e-1ea2-42eb-b9a7-072ccdece410,Çifte Fırın Unlu Mamülleri,CAFE,38.886219,40.491714,"Bahçelievler mah Cumhuriyet Caddesi, Çifte Fırın mevkii No: 41",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+3efbc966-5923-4bfa-b98c-22c9a7d4bb37,Ciğerci Muharrem,RESTAURANT,38.886002,40.49234,Hürriyet Caddesi 19A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+9de9f73e-3c0b-433f-864f-ddcb8c93e5df,KİYA Ev Yemekleri,RESTAURANT,38.886101,40.494392,Eski Hal İçi,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+6f4e3a74-0f65-4e15-8a77-2196b93b7126,Ciğerci Osman,RESTAURANT,38.886902,40.494495,Genç Cd. No:98,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+baa2947b-7b62-4bf8-bd81-3342fb0bfe47,Çewlik Cafe,CAFE,38.887024,40.49437,Genç Cd. No:98,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+fafe9a47-6223-4953-baa4-b90900e26682,hotel beritan,HOTEL,38.886379,40.493057,Hürriyet Cd. No:25,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+63bf0292-f5c4-41c3-9578-29520ab4e44b,Ahmet Dursun Vadi Evleri,SIGHT,38.892834,40.492485,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+05149284-65b3-46d2-84a3-6041468da307,Çınar Cağ Kebap,RESTAURANT,38.895233,40.490719,"Karşıyaka, ZEKİ ERGEZEN BULV NO:33/A, 12010 MERKEZ/Bingöl",Karakoçan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+fb26c33c-e621-4dab-a8b6-9f47e9264110,Mualla Çikolata Bingöl,CAFE,38.899925,40.487244,Ak Sok Mikado Uğur Evleri No:2/1,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+5a9b0829-3b54-4ba3-a796-3fdbfec04dd3,ZaZa Gaming Hub & Playstation,ACTIVITY,38.903023,40.488533,selahattin eyub-i mah,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+1f6ed2e7-a079-43dd-bf81-b2bef47b90cf,Tatgör İskenderun Döner,RESTAURANT,38.902176,40.489182,Palamut Cad,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+baef8f12-4e32-4dbd-8167-978e7d8213c8,Patika Kafe,CAFE,38.901718,40.489223,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+53b8a394-7caf-416f-b058-7301af238153,Wagoon Cafe & Restaurant,RESTAURANT,38.900421,40.492138,2. Sk.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+c936b7aa-5783-4dae-9e77-975127302230,Nur Ekmek Firini,CAFE,38.905319,40.491207,13. Sk. No:19,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+6ae6e685-99cb-4ed1-a847-31e4183c19d7,Bayramefendi Osmanlı Kahvecisi,CAFE,38.900494,40.493805,"Mikado Oğur Park Evleri, Şehit Mustafa Gündoğdu Mahallesi, Bülent Arınç Cd.",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+85530260-cb02-4422-b3fc-8fef0c4cf88e,Kahve Bizans,CAFE,38.900059,40.493382,Üniversite Cad No:23 Merkez,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+622bc00c-a8f5-4abc-941f-7352918cd85e,Şehri Özikizler Künefe Katmer,CAFE,38.900158,40.493279,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d0d71519-e129-44b3-ac2f-5bec57646848,Berar Künefe,CAFE,38.900017,40.492809,Üniversite Cad 15/1-C,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+756e89d8-f671-4032-b660-d72edaa9a1be,Pizza Pizza,RESTAURANT,38.899879,40.492424,Aydınlık Cad,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+88ac64f0-b5cd-4700-a896-f4da62fc731b,Beşyol Ekmek Unlu Mamüller,CAFE,38.899704,40.492416,Bülent Arınç Caddesi 5,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+32012e6e-e7ce-4034-b4df-b8c998d4c207,Zoom Cafe ve Restoran,CAFE,38.899864,40.492855,ŞEHİT MUSTAFA GÜNDOĞDU MAHALLESİ ÜNİVERSİTE CADDESİ PERİSU LİFE EVLERİ NO:4,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d56d3d67-faca-4ff5-84a0-e3b43a1c33b5,Pasaport Pizza Bingöl,RESTAURANT,38.898979,40.492764,Kalium Avm No:1 kat no 4,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+775d4dd0-1524-4154-9cc8-feb3eecaebda,Burger King,RESTAURANT,38.899075,40.492485,Şehit Mustafa Gündoğdu Mahallesi Cam Sokak Kalium AVM No: 4/102,Karakoçan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+a07d4f5a-f2c2-46bb-af85-be681331e4b4,Tavada Tavuk,RESTAURANT,38.899162,40.492409,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+b5328865-fdfa-421a-ac9f-e9d76d549a64,Usta Dönerci - Kalium Avm,RESTAURANT,38.899414,40.492153,"Şehit Mustafa Gündoğdu, Bülent Arınç Cd. No:4 D:5",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f1b265ee-0687-4d2d-a7e2-47c0d0c46624,Espressolab Bingöl Kalium AVM,CAFE,38.898975,40.492073,"Kalium AVM, Üniversite Cad Blok No: 4/1A",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+2be99315-55de-451b-afcd-4c2cf24bbe0f,Urfa Lezzet Sofrası,RESTAURANT,38.899712,40.492214,Üniversite Caddesi no:9a,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+46a95971-7dc0-407d-b15f-6fdde91d0408,Meşhur Sarıyer Börekçisi,CAFE,38.899624,40.492214,Bülent Arınç Cd. no:11/a,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+4886ff51-48d8-4002-a78a-47fe7e831af0,Çorbacı Dayım bingöl,RESTAURANT,38.900208,40.49231,2. Sk. no:3/1,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+13013c27-c182-4295-bb51-da03b095ba9d,Kalium Alisveris Merkezi,SHOPPING,38.899071,40.491432,Üniversite Caddesi UYDUKENT,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+bbdc4d49-d50f-44e0-8c50-410d0d88b2bb,By Kook Cafe Restorand,CAFE,38.899139,40.491581,ŞEHIT MUSTAFA GÜNDOĞDU MAHALLESI ÜNİVERSITE CADDESI PERISU LIFE SÜTE SU A VE B GİRİŞLİ BLOK4 C MERKEZ,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+5de9d2e2-8584-4ca8-b0db-cf3c702aca49,Kahve Meydanı Bingöl,CAFE,38.89888,40.492752,Cam Sk.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+2d79f2b5-4e0c-4318-93fb-b448a73b0440,Damak Çiğköfte,RESTAURANT,38.896034,40.491257,Aydınlık Cad.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+0a07b00b-8886-4843-9f32-1bb7b844eead,Canım ciğerim,RESTAURANT,38.8955,40.491688,"Karşıyaka, D300",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+a68bbb7a-173e-420c-acc8-dee22499d872,Bingol Kavurmacısı,RESTAURANT,38.895336,40.491631,Elazığ Muş Yolu 29,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d5c09794-f513-43d5-a596-48004c62aaac,Konevi Konya Etliekmek,RESTAURANT,38.895611,40.492596,karşıyaka mahallesi zeki ergezen bulvarı eyüpoğulları apartmanı 25/A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f68e287e-62dd-4ad2-b543-58c044d80d4f,Van Kahvaltı Sarayı Bingöl,RESTAURANT,38.895489,40.492943,"Bayarsa Apartmanı, Zeki Ergezen Bulvarı 23/A",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+50ebfa7c-c99a-4b89-b153-54ee37a210df,Tomruk Cafe,CAFE,38.899899,40.496529,Fakülte Cad,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+4e747e91-1ec5-4073-a65a-de1eab38d47d,Lades's Döner ve Köfte,RESTAURANT,38.901417,40.495033,Recep tayyip erdogan mh.universite cd no 49 c,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+eb1690c9-acbb-4991-8b85-86a0b5f5d30f,Eylül rezidans,HOTEL,38.901173,40.496479,Narin Sokak 3,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+a5649566-12a6-41a5-8b5c-f3e7c71de5e2,Çiğköfteci Ömer Usta,RESTAURANT,38.901894,40.495773,Bülent Arınç Cd. No:49/A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+2ac349c1-06ac-4a84-a80c-bd54c149874b,Düşler Sokağı,CAFE,38.902634,40.497669,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+0f4df6b7-f793-4dac-a45d-af052ef9759e,Bingol Bagdat Kafe,CAFE,38.903713,40.499866,Uydukent Mah. Bağdat Caddesi,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+a1bcb61e-bfc8-4ee9-96b3-d1fe6820ed21,Ciğerci Osman,RESTAURANT,38.903942,40.499741,Şht. Mustafa Gündoğdu Cd. No:14,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+73f47709-360a-44d9-b0d7-8ec51e6024af,Uydukent Tantuni,RESTAURANT,38.904228,40.499973,Begüm Sk. No:4/A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+7f5262d3-f25a-4ac0-b18e-83be0b293777,Galaxy Park,SIGHT,38.889091,40.498032,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+2b30db34-5eaa-4797-81e1-05064b9a238a,Özlem Ekmek Fabrikası,CAFE,38.886211,40.496494,"No:, Osmanlı Sk. No:9",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+4ff3519f-420e-4557-9d91-51915f55be32,Balkon Cafe,CAFE,38.886723,40.495491,"inönü mah.kültür cad.kayalar pasajı, no 80/6",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+b02f9c1e-6bfa-4639-a401-2b17da575124,Yayla Ocakbaşı,RESTAURANT,38.886906,40.495037,Kültür Cd. No:106,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d3d5882a-e4bd-4a23-a277-e49b759b9d91,Best burger cafe,RESTAURANT,38.886852,40.495296,Kültür Caddesi 98,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+06805b91-12ef-486e-9369-3dc132bd523d,Burger King,RESTAURANT,38.8862,40.495796,İNÖNÜ MAH. GENÇ CAD. MİLİA MALL AVM NO:78/8 KAT 4,Karakoçan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+2c807bc0-47cd-4a6f-bf71-9672c192977b,Eyfel Cafe ve Restaurant,RESTAURANT,38.885921,40.495541,Genç Cd. No:31,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+5c6deb06-5e49-4818-9873-514d7f735a9f,Halk Pasajı,SHOPPING,38.886017,40.495548,Yenişehir Mah,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+de4ded51-398a-4c42-9c0e-67f5fd7ab9da,Leman Cafe Restaurant,CAFE,38.885349,40.495644,Selahattin Kaya caddesi oy-Pa plazalar,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+852cb44d-59bc-4d67-a900-b81e398746b4,Zoom Cafe & Restaurant,CAFE,38.884899,40.495998,"Kaltem Avm, Hastane Caddesi 40",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+fa7b643d-aec9-4a6d-a551-aae7a33d0fa9,mandarinfastfood,RESTAURANT,38.885067,40.496315,"Yenişehir Mah. İnönü Cad. Bingöl Merkez,",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+e39f9e0c-71e8-456a-bc8f-b5d8d271db6e,Bingöl Dortyol Parki,CAFE,38.88512,40.496494,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+0ef6c3e0-2cb4-4a74-bd25-b78c0491c7fe,Sıdkı Usta Kadayıf,CAFE,38.88512,40.496098,inönü caddesi eski belediye sarayı altı,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+de3de4f1-1ace-43c6-8413-72fbc842fb5e,Grand Bertı&Spa Otel,HOTEL,38.885166,40.496094,"Kale, Genç Caddesi 5",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+81c50c01-6c18-4783-bda3-c069414cfb2f,Piramit Cafe ve Restaurant,CAFE,38.885567,40.496029,Genç Cad. Bingöl İş merkezi Teras Kat,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+00ce22ac-354d-4d89-a3b1-0cfb677082f1,Meşhur Mangal Vadisi,RESTAURANT,38.885509,40.496151,Kutluay Sk. no/3bingöl,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+db682ff5-6dcc-4f90-8b47-bf8ae41c8e26,Kalbin,SHOPPING,38.885578,40.496628,Yenişehir mah. feyzullah karaaslan cad.no:40 BINGOL / CENTER,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+893cd64b-1481-46e8-830b-62ef96aeb245,Dengbêjler Çay Evi,CAFE,38.886024,40.496597,Bingol Carsi,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ecc1b702-72f6-446c-979a-af76deab7c08,Patara cofee,CAFE,38.885902,40.496906,Osmanlı Sk. No:3,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+3defe42a-4a69-4f33-8324-704fac190942,Kavurmaci SelİM Usta,RESTAURANT,38.88604,40.496887,Osmanlı Sk. No:2,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d1b791f1-5d64-4d39-b3dc-fad19d429af2,Mado,CAFE,38.885742,40.496872,,Karakoçan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e611e6f3-35bf-40ed-8ab3-a68e3621ae0e,Bingöl Otel Çınar,HOTEL,38.885288,40.497189,"BİNGÖL HOTEL ÇINAR, Genç Caddesi Şişli Sokak No:7",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ec812d2c-3e4b-4f0e-9631-175940ee4086,Meva Pastanesİ,CAFE,38.885151,40.497543,Genç Cd.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+5977e1ab-2ae0-4849-8513-099f211a8508,Artukbey Kahveci,CAFE,38.884918,40.497646,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+d532166e-e128-4665-b915-e9f2885e472d,Zeyma Kahve,CAFE,38.884975,40.497585,"Ulucamii Karşısı, Genç Cd. 40/2",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+1e7a4c83-a0c6-42b5-bff0-25056a437084,Bayram Pide,RESTAURANT,38.884819,40.497791,Şişli Sk. No:18,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+01eb464b-cddf-41ce-8f58-708b70a81ce8,Gölbal,CAFE,38.885635,40.497604,Maden Sokak 5,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+e4b2abf5-7328-4881-a11f-e42e5268fef3,Dortyol Ocakbasi,RESTAURANT,38.88612,40.49754,Kültür Cd. No:80,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+b0794262-54d3-463d-9ce4-24267c6c7adf,B12 Cafe Restorant,CAFE,38.886345,40.497986,Kültür Caddesi 66A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+b24fb4f6-b85b-40d8-be16-9180d6ce311f,Pierre Loti Cafe Restaurant,CAFE,38.885735,40.498646,Kültür Cd. 77A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+56efbeca-2868-4590-b47c-988e4d0ec32c,EVS AVM,SHOPPING,38.885712,40.498646,Kültür Cd. No:77/A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f1220a87-684f-46a1-b2b2-1482c1322d3b,Ciğerci Mahmut USTA,RESTAURANT,38.885059,40.4986,inönü cad.maden sokak no ,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ff3cc17f-721b-486d-aff7-caa738cd0e1e,Özel Sarıyer Börekçisi,CAFE,38.885662,40.499134,Kültür Cd. 66-70,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+92147866-e7c3-4558-b32a-d299084a631a,Piesta Park Bingöl ,SHOPPING,38.883636,40.499157,Genç Caddesi 13,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f32a81bb-4699-449f-85f9-7fb88a364bae,Bingo Otel,HOTEL,38.88361,40.499153,Merkez Mah Ptt Intersection,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+674fe508-0902-442d-9a38-e9d1d3b81f67,Fehmi Usta Adana Sofrası,RESTAURANT,38.882599,40.497074,hacılar cami arkası,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+a1a2ccdd-c513-483a-9a10-668d78c42cc9,Destina BÖREK,RESTAURANT,38.883186,40.498959,Hastane Caddesi 8E,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+dd60284c-1335-4f26-bb2c-d28d78d77b45,Bingöl Çikolata Dünyası,CAFE,38.883137,40.498592,Yenişehir mahallesi hastane caddesi 10:A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+60e0798e-584c-455f-b060-794471dc1aaa,Saglık Cigkofte,RESTAURANT,38.883736,40.499016,"İnönü Caddesi 18/A, 12010, Yenişehir, Bingöl, Türkiye",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+7d7f3e34-2926-4d44-b88d-5aa1e2954d2a,Babylon Cafe Restaurant,CAFE,38.883804,40.499023,Genç Cd. No:37,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+609ee5d2-454a-4004-8cd4-228f79a65d15,Saray Park,CAFE,38.88472,40.498913,Bayram Pide Lahmacun Arkası,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f0ae425c-c771-4bf1-8b36-ff079c11808d,Binbal,CAFE,38.884541,40.498184,Genç Caddesi 32C,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+38c066fa-e9cf-4ee1-95d4-659f959fffdc,Cadde Döner,RESTAURANT,38.88472,40.498276,Genç Cd. No:4,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+95e0bde1-db2d-44cd-89b5-1acf8f0623ca,Espressolab,CAFE,38.884377,40.497929,"Yenişehir, Genç Cd., 12000 Merkez/Bingöl",Karakoçan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+1cfef400-2c02-44a4-b2c0-644488c23d2e,Sehmus Pastanesi,CAFE,38.883587,40.496105,Hastane Cd. No:34,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f569d89f-f1a2-4027-b3d4-d8595e1a9e09,adanaasofrasi,RESTAURANT,38.882332,40.496601,yeni şehir mahallesi melikşah sokak imam hatip lisesi karşısı,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f23d3fa5-a647-4aac-84e2-df280fb1ccef,Lalezar 12,CAFE,38.883324,40.495529,Ekin Sk.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+55316a2a-c7eb-408b-92df-601f3619492c,Always 2001 Restaurant,RESTAURANT,38.884022,40.49535,Hastane Cd. 13/A,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+8494ce1b-5b96-418d-adbf-c8f498714beb,Miss Urfa Pide Lahmacun,RESTAURANT,38.884735,40.495705,İnönü Cd. No:20 b,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+8c20f6ab-05a5-449b-b03b-46820b8f8b54,Helvacı Yakub Efendi Bingöl Şube,CAFE,38.88467,40.495667,İnönü Cd. No:22/4,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+9b830965-0feb-47cd-9758-d81336ac1a9c,Galaxys Lunapark,ACTIVITY,38.884594,40.495583,İnönü Cd.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+bae2c2b4-062c-45a9-9abb-e3156866b0cc,Loft Cafe and Restaurant,CAFE,38.884613,40.495544,İnönü Cd. 22B,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+6f4f2341-e127-4f21-8ed7-3bed6dbd1a53,Kavurmacı Aydın Usta,RESTAURANT,38.883423,40.493923,İnönü Cd.,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+605ebf9a-4ce6-4e33-9b77-c1eb58759d5a,Keyf-i Cafe Kiğı,CAFE,38.883301,40.493504,İnönü Caddesi 27,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+5a59184d-ac4b-4fcc-ba02-875214c11934,Caye separe kahvaltı salonu,RESTAURANT,38.882591,40.494633,YENİŞEHİR MAH. ÖZGÜRLÜK CAD. ŞİLAN APT,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+750debaa-9782-48bb-9e5d-c4350683adae,Haydonun Kahvesi,CAFE,38.883213,40.492729,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+e4d744b5-97c2-4b47-887e-e4d6e46f5390,Bingöl Doğa Alabalık Tesisleri ve Kır Kahvaltı Bahçesi,RESTAURANT,38.864323,40.488468,Küçüktekören Yolu Eskiköy Altı ve Mazrafaki Mezarlığı Altı (Pınar Düğün Salonu Civarı) 12000,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ed9937ea-dd6d-48ba-b2a1-8a521327fb3e,Grand Cafe,CAFE,38.908226,40.493481,A. Kadir Konukoğlu Cd. No:4,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+3c642e86-026a-4c46-a33e-804bbec835cd,Mendo Et Lokontası,RESTAURANT,38.923626,40.381161,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+97e44b25-64ae-43ae-bb28-91da83101bdf,Bingöl 33 Şehitler Anıtı,SIGHT,38.924225,40.377205,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+58f77487-0d0f-4e23-b6da-85474f224706,Bingöl Yado Kavurma,RESTAURANT,38.916279,40.413284,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+7e8de800-4c21-4c25-a50a-669634fe813c,Yado Çeşmesi Et Lokantası,RESTAURANT,38.916363,40.413422,Bingöl - Elazığ Yolu 8. Km,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ca01990c-e7be-418d-a830-0473ab47b793,Bingol Kuruca,RESTAURANT,38.95499,40.266903,Bingöl Elazığ yolu kuruca köyü,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+44eed0b2-87ff-4754-8067-340bbb40bf4f,Beyhan I Dam,SIGHT,38.75193,40.135769,,Arıcak,CDLA-Permissive-2.0,Overture|meta
+58ca87c2-2759-4064-8063-ba8485359a75,Karakocan Restaurant,RESTAURANT,38.924995,40.074783,D300,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+de42c4a8-9f46-49ab-aff4-7929000a38a6,Karakoçan Peri Vadisi,SIGHT,38.924973,40.073067,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+4cf9b716-b03b-4c30-a96b-7d9969880e98,Söğütlü Park,RESTAURANT,38.92506,40.073097,"Kengerli, Karakoçan Elazığ TR, Elazığ Bingöl Yolu",Karakoçan,CDLA-Permissive-2.0,Overture|meta
+ff2d9966-add5-4ba8-bd0f-e74e27b21e7b,Hesarek Yayla Restaurant,RESTAURANT,38.925194,40.07058,D300,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+f1a0acf1-faa6-4035-aab2-0a5c69e63947,Un-Ak Unlu Mamulleri,CAFE,38.925045,40.067421,Yolçatı mezrası 25-a,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+df544a96-4bf9-4f6e-8e62-5df5d5de9d9f,Yolçatı Dinlenme Tesisleri,RESTAURANT,38.925491,40.06757,Elazığ Bingöl Yolu,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+2b12b0d3-8f62-48ae-b51c-05984ca7334b,Parkım Sosyal Tesisleri,RESTAURANT,38.948875,40.042316,Tepe mah. Atatürk cad. No:74,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+7c6d8f27-bc37-4278-9b6d-c560d2782b17,Kırkpınar Aile Çay Bahçesi,SIGHT,38.953342,40.041355,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+b281434d-3279-4963-91f8-3d976b7fab83,Kalecik Sosyal Tesisleri,CAFE,38.955963,40.041286,Karakoçan Kalecik Barajı Merkez,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+bf78c019-cc67-4fe3-8e35-893737831997,Fatih Parkı,SIGHT,38.959423,40.041134,Salih Sk. No:98,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+6acef495-5b59-4d48-9967-f3def245f11a,Karakoçan Kalecik Barajı Sosyal Tesisleri,SIGHT,38.959755,40.059502,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+37c69304-faa9-41ac-822f-3b172fce33a0,Diga di Kalecik,SIGHT,38.958206,40.059971,,Karakoçan,CDLA-Permissive-2.0,Overture|meta
+c735d19c-ed7b-49f4-aab7-b7acad252419,"Demirkazık, Mazgirt",SIGHT,38.996258,39.623077,,Kovancılar,CDLA-Permissive-2.0,Overture|meta
+223c7564-0d3a-47a4-80eb-e1aa1324b0a9,"Aşağıtarlacık, Mazgirt",SIGHT,38.989918,39.526997,,Kovancılar,CDLA-Permissive-2.0,Overture|meta

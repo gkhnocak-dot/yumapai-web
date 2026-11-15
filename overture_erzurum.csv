@@ -1,0 +1,924 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets
+7a1b80c2-d4e9-4707-8589-42b99a849950,Yoncalı Alabalık Çiftliği,RESTAURANT,40.496559,40.563042,BAYBURT YONCALI KÖYÜ MERKEZ CAMİ YANI,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+fe19dad1-6282-40b0-bed2-15cb75a59362,Orsor Alabalik,RESTAURANT,40.494732,40.563702,Orsor Köyü,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+306348ab-7824-43c7-898b-b81b8bf3d467,Orsor Alabalik,RESTAURANT,40.472576,40.558296,Orsor Köyü,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+236e46ee-c6cf-4626-b29e-7cd3d43eba94,Baksı Müzesi,SIGHT,40.385151,40.566544,Bayraktar Köyü Yolu,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+f37bf232-554d-4b9e-a5d5-a517344a07e0,"Alapelit, Bayburt",SIGHT,40.316666,40.516666,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+ea3d9ef0-3f29-4a1b-9c71-e401f167adab,"Bahçelievler, Muratpaşa",SIGHT,40.116665,40.566666,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+c8b594c9-385d-4534-918c-f0fbf97710eb,"Yaylımlı, Tut",SIGHT,39.899994,40.549999,,Aşkale,CDLA-Permissive-2.0,Overture|meta
+10740bca-d733-41eb-af9c-561e96322168,Aşkale Öğretmen Evi,HOTEL,39.922108,40.69804,,Aşkale,CDLA-Permissive-2.0,Overture|meta
+5bd267d7-fd67-492e-96c6-78ed376f7a70,Cafe bahane,CAFE,39.922131,40.69899,İstanbul Cd.,Aşkale,CDLA-Permissive-2.0,Overture|meta
+90858146-2649-4a98-b5e4-44bc97bb6656,Aşkale AİLE ÇAY Bahçesi,CAFE,39.920216,40.694054, çarşı mahallesi,Aşkale,CDLA-Permissive-2.0,Overture|meta
+97e3eac9-95c5-4148-8803-b36e17fbe2f0,Aşkale Evim Otel,HOTEL,39.920284,40.694935,"Aşkale Noter, İstanbul Caddesi 2",Aşkale,CDLA-Permissive-2.0,Overture|meta
+93e08712-9d2c-43c7-9a7d-950c08cf3047,Ünsal Kardeşler Çay Evi,CAFE,39.920605,40.695473,Çarşı mahallesi ,Aşkale,CDLA-Permissive-2.0,Overture|meta
+8d159d6f-b3a1-4d33-9a09-9a91fc658d16,Dodukcu Elonun Yeri,RESTAURANT,39.921871,40.694904,Aşkale Kandilli Yolu,Aşkale,CDLA-Permissive-2.0,Overture|meta
+4786e3c7-726f-48d5-a53a-87e658c57b2e,Saray Pide ve Çorba Salonu,RESTAURANT,39.921059,40.694386,,Aşkale,CDLA-Permissive-2.0,Overture|meta
+7517ed62-3891-4449-9d48-bbd0974569f7,Komagene,RESTAURANT,39.921307,40.690628,Cahit Aybar Cd. No:5,Aşkale,CDLA-Permissive-2.0,Overture|meta
+c6f4749b-9edc-4a16-91cf-f73a3a7c541c,Ender Pastaneleri&Cafe,CAFE,39.921013,40.689442,"Aşkale Noter, İstanbul Caddesi 2",Aşkale,CDLA-Permissive-2.0,Overture|meta
+eb63561e-9b4e-4e7c-8b73-b255684946b9,Erzurum Çat Barajı,SIGHT,39.674786,41.020947,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+78cdbbc3-d41b-4554-8ddc-fc244f0e6476,Palandöken Dam,SIGHT,39.657219,41.021938,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cd45b7c9-46d1-4931-93ea-2434f9f6c924,Erzurum Özdemir Ler Dinlenme Tesislerinde,RESTAURANT,39.973347,41.034805,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+12be56f1-4c56-44c8-a0dd-35d2e00aa5b4,Karadeniz balikcilik,RESTAURANT,40.054016,40.927181,Yoncalik şub,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+cd7f2b0a-22d5-4d0c-8f6c-c1f741842196,Erzurum-Aşkale Yaylaları,SIGHT,39.983006,40.957478,,Aşkale,CDLA-Permissive-2.0,Overture|meta
+f43923da-3974-4b8e-b1fa-e7dd4ef31f1a,Mado,CAFE,39.980305,40.979717,Erzurum Alışveriş Merkezi,Aşkale,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+90ef77be-e83d-4486-916f-f5c8b059c5c7,Erzurum Caglayan Et Lokantası,RESTAURANT,39.982967,40.98848,Erzurum -Aşkale Karayolu,Aşkale,CDLA-Permissive-2.0,Overture|meta
+822cbb3c-f32b-47e7-ace1-67a3ba3bc377,Daphan Et Mangal,RESTAURANT,39.982971,40.988602,,Aşkale,CDLA-Permissive-2.0,Overture|meta
+aaea3190-d623-4b9a-a7cd-7f43903bd71c,"Sarıçoban, Iğdır",SIGHT,40.016388,41.016941,,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+b57016ce-b2da-4db0-b126-113b93649d38,Koza Hotel Cafe & Restaurant,CAFE,39.982243,41.007687,Aşkale yolu üzeri 20. Km,Aziziye,CDLA-Permissive-2.0,Overture|meta
+b6f0c492-6e43-4964-aec1-8ec91c3620e9,Kuzgun Baraj Gölü,SIGHT,40.20269,41.063095,,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+49957918-f747-4790-b5e7-4d9d624a9209,Koskor (Konakyeri),SIGHT,40.297848,40.584518,Konakyeri (Koskor) Köyü,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+5b2aed86-e0d6-46cf-806d-22d7f065aa1c,Laleli Dam,HOTEL,40.394451,40.607384,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+a91123d4-c135-4f95-90e1-e31cc4a04d62,Erzurum Pazaryolu,SIGHT,40.414478,40.773548,21haziran mahlesi,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+ddbb7339-bac1-4162-bc8b-57b261bf5794,Pazaryolu çay ocağı,CAFE,40.414085,40.773788,Değirmendere Sk.,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+4778ca19-ae7b-47f3-a2bb-7919037ede42,Öztekin Kardeşler Pide Salonu,RESTAURANT,40.414368,40.773808,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+ba23c7c1-ee45-4380-bc74-a6df1e6f03a7,Hanımeli Lokantası,RESTAURANT,40.414585,40.773861,Ankara Cd. D:no 3,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+ea9e20f1-6959-441e-9935-a9591490c791,Kaplanoğlu Market,SHOPPING,40.414593,40.773472,21,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+d81057f8-71be-4050-bc4e-1d615992b485,Golozkent,SIGHT,40.419998,40.769997,Golozkent,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+0ee2df3a-b3fb-4947-8b3c-a3c44737759f,Golozkent,SIGHT,40.397255,40.796776,Golozkent,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+57263d8a-4d40-4fe4-9bbc-2d276965377a,Güllübağ Dam,HOTEL,40.521866,41.021576,,İspir,CDLA-Permissive-2.0,Overture|meta
+77015a7b-7933-4b67-8478-ebb947bbc16b,Burger King,RESTAURANT,40.5182,41.025993,"Çarşı Mah. Menderes Bul. C Blok Çarşı Toki, No:188/A Merkez / Rize",İspir,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+d91869ea-e465-48d5-8b00-12aa602b9efd,EmİN Et CaĞ Kebap,RESTAURANT,40.48333,41.000401,Ziya Paşa Cad,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+4d6eda72-9f39-4b8f-b97b-d3e91466387e,Hacinin Yeri,RESTAURANT,40.482796,41.000561,,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+5a1a8cd6-ba65-4ca6-8b37-9b298b82b597,Bereket Pastanesi,CAFE,40.484749,41.003647,"YUKARI MAH. 25 ŞUBAT CAD. İSPİR/ERZURUM Yukarı Mah, 25 Şubat Caddesi No: 19 A",Yakutiye,CDLA-Permissive-2.0,Overture|meta
+d6170ec6-e4aa-43a4-80bc-87fe4be53919,Hanimeli,CAFE,40.484283,41.001675,Erzurum İspir,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+21266b74-de14-4fea-b604-b56d7f85efe2,İspir,SIGHT,40.484184,41.001049,İSPİR,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+0a663f48-7332-4b8d-80ed-5ecaff1e1780,Efe Dondurma,CAFE,40.484245,41.000782,KARŞIYAKA MAHALLESİ 25 ŞUBAT CADDESİ N 0:4B,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+1194b832-8ce1-4dfc-8b6a-a83efa99210e,Grand İspir otel,HOTEL,40.484394,41.000298,Cumhuriyet Cd. No:6,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+60e433d5-0da1-493f-a82c-c144879a3eed,Prestij Restaurant & Cafe,CAFE,40.48439,41.000324,,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+63e944fc-6128-42d8-85ad-409b5de969fb,Ozdem Pide Ispir,HOTEL,40.484364,40.999722,Cumhuriyet Caddesi 10,İspir,CDLA-Permissive-2.0,Overture|meta
+553addb2-d10e-4319-b476-bf753c829c53,İspir Kalesi,SIGHT,40.482674,40.993187,,İspir,CDLA-Permissive-2.0,Overture|meta
+63fe49cd-136e-46c3-8800-bf2c2e636d92,ispir çoruh nehri kenari,SIGHT,40.482441,40.993557,,İspir,CDLA-Permissive-2.0,Overture|meta
+9293ee3f-93cb-41a5-bbaa-84c3aa930220,İspir Kalesi,SIGHT,40.483631,40.997963,,İspir,CDLA-Permissive-2.0,Overture|meta
+a7220cf4-61e4-4f5e-9049-77b1dadb1b71,Sedir Cafe,CAFE,40.483597,40.999702,Cumhuriyet,İspir,CDLA-Permissive-2.0,Overture|meta
+6c4db252-8906-4463-9c07-a1f0b50f1cad,Sultan Sofrası,RESTAURANT,40.483242,40.999664,Fatih Cd. No:4,İspir,CDLA-Permissive-2.0,Overture|meta
+345f5f33-4a47-4523-b202-64d5db5b5803,Dörtyol Dinlenme Tesisleri,RESTAURANT,40.471306,40.978214,Aşağı Özbağ Mah. Köprübaşı Mevkii,İspir,CDLA-Permissive-2.0,Overture|meta
+b9f7783f-110c-4b08-b3eb-3b8c0b4d8849,Çakır Palace Otel,HOTEL,40.459103,40.963932,Rize Yol Ayrımı,İspir,CDLA-Permissive-2.0,Overture|meta
+ffa05615-7668-4cb9-945a-161903c0d8ad,Ispir Dağlari,RESTAURANT,40.45974,40.964424,İspir,İspir,CDLA-Permissive-2.0,Overture|meta
+a30e082b-eaeb-4dd9-9aec-a6c73b7f87df,Dörtyol Dinlenme Tesisleri,RESTAURANT,40.459805,40.964428,Kanköprü Başı Mevkii,İspir,CDLA-Permissive-2.0,Overture|meta
+ba317444-c391-417d-b730-324ada160f3e,ÇOruh Otel ,HOTEL,40.45715,40.852047,Maden Köprübașı  ispir Erzurum ,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+8546231c-c551-4c82-ba65-159d3a2f6e51,Maden Et Lokantası,RESTAURANT,40.438812,40.839317,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+c99caf2b-50f2-4135-9b57-6a92ab65debd,Pazaryolu Avcı Alabalık Tesisi,RESTAURANT,40.333057,40.881294,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+125bc5e4-5951-40d3-ac45-391511c74e43,Pazaryolu Avcı Alabalık Tesisi,RESTAURANT,40.333294,40.899994,,Pazaryolu,CDLA-Permissive-2.0,Overture|meta
+92257c9c-219c-4869-aa81-af70cdc88b2a,Çoruh Nehri,SIGHT,40.3074,40.999699,,İspir,CDLA-Permissive-2.0,Overture|meta
+b3d27dd7-ee79-4d40-bf2b-1978186b9a2f,"Köprüköy, İspir",SIGHT,40.426929,40.974277,,İspir,CDLA-Permissive-2.0,Overture|meta
+8f581be3-3a33-47cb-a245-f47b74857cce,Tortum Gökdere,SIGHT,40.399204,41.298317,,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+999824ec-a71d-4a34-8661-ce873bf074b1,Bağbaşı-Haho,SIGHT,40.477299,41.296619,Haho bağbaşı,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+b702ee81-8bb4-44f7-8d91-29d45551a0e5,Zagos Gölü,SIGHT,40.559261,41.211853,,İspir,CDLA-Permissive-2.0,Overture|meta
+15f39daf-b758-40b2-9447-9bd0a442c0d8,İspir Duruköy,HOTEL,40.496349,41.109547,"Duruköy Sokak, 25900, Duruköy, İspir, Türkiye",Yakutiye,CDLA-Permissive-2.0,Overture|meta
+0ea21df5-2864-43cf-83c1-ad1f02609a61,Aksu Dam,SIGHT,40.601524,41.156857,,İspir,CDLA-Permissive-2.0,Overture|meta
+52b9a265-f12f-4aa1-8578-e953ce762644,Karahan Alabalik TesİSlerİ,HOTEL,40.541378,41.622765,"Erzurum, Uzundere ,sapaca köyü ",Uzundere,CDLA-Permissive-2.0,Overture|meta
+3672fcdc-25eb-4154-a431-1e417d756edc,Annemin Mutfağı Uzundere,RESTAURANT,40.531845,41.549297,M. Şeref Özsoy Cd. No:15,Uzundere,CDLA-Permissive-2.0,Overture|meta
+313c327b-fcdc-49d3-bf8b-501b0da81103,Uzundere Sofrası & Doğa Turizm,RESTAURANT,40.532578,41.54821,UZUNDERE ARTVİN YOLU ÜZERİ,Uzundere,CDLA-Permissive-2.0,Overture|meta
+b1ed512a-8aaf-427c-800d-fe587176618b,Gönül Bahçesi Uzundere,RESTAURANT,40.531372,41.547722,Halil Özsoy Caddesi 54,Uzundere,CDLA-Permissive-2.0,Overture|meta
+69d0c8ea-02af-4262-b35b-cb822e098176,"Uzundere, Erzurum",SIGHT,40.536388,41.548332,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+74d90f9d-cf9a-4460-bc2d-61e719f4f3da,Gönül Bahçesi Uzundere,RESTAURANT,40.531353,41.542843,Özsoy Sokak 34B,Uzundere,CDLA-Permissive-2.0,Overture|meta
+71ef983a-67ae-4ab0-9fcd-56dcefcc86d8,Turan Pansiyon,HOTEL,40.530518,41.542126,D950,Uzundere,CDLA-Permissive-2.0,Overture|meta
+ae516243-6dbc-486d-9c95-b712a5ef6e5c,Şahin Tepesi Cağ Lokantası,RESTAURANT,40.501453,41.517635,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+9322b031-6044-4c9d-ad54-7e58ddadea8b,Engüzekkapı Kalesi,SIGHT,40.512589,41.526234,Uzundere,Uzundere,CDLA-Permissive-2.0,Overture|meta
+001e8ad7-aa97-4324-adb8-5bdf6677b9b9,"Yamaçüstü, Yusufeli",SIGHT,40.599998,41.399994,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+f3bf6242-fd49-4bd0-b821-a2f7a0cbdca5,Bağbaşı Net Cafe,CAFE,40.508793,41.461658,Şehit Murat Telci Caddesi 106,Uzundere,CDLA-Permissive-2.0,Overture|meta
+40052203-3a74-49d5-8055-0529475f61a4,Bağbaşi Alabalik Tesisi ve restoran,RESTAURANT,40.514523,41.448921,Bağbaşı mahallesi,Uzundere,CDLA-Permissive-2.0,Overture|meta
+7648af21-c39e-457e-95c9-db2786b57a60,BAĞBAŞI,SIGHT,40.495598,41.493378,,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+fef5587d-9009-4b19-9402-c38d36c2073f,BAĞBAŞI,SIGHT,40.5,41.466694,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+bd1839df-b9c3-4368-b0db-687b53a2bed1,Serdarlı Beldesi Tortum,SIGHT,40.483479,41.490601,serdarlı mahallesi,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+674b3d04-222f-4849-adae-c5510deb8242,KisKa&Şenyurt,HOTEL,40.431686,41.430183,şenyurt,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+e7ef1730-c8ea-4d77-a8b7-6cc77b69475c,Erz Sofra Cag Kebap,RESTAURANT,40.317802,41.523434,Erzurum Artvin Yol,Tortum,CDLA-Permissive-2.0,Overture|meta
+e6bddf78-b25b-4bac-860f-30815a9d327f,Termo Petrol Dinlenme Tesisi,RESTAURANT,40.317799,41.523716,,Tortum,CDLA-Permissive-2.0,Overture|meta
+dcd0b251-8b5e-4f50-a120-936f0da1dcdd,Asmalı Konak Restaurant,RESTAURANT,40.455254,41.503269,,Tortum,CDLA-Permissive-2.0,Overture|meta
+e2b33f68-f20f-4008-b04c-3cadf1f89518,Tortum Gölü,SIGHT,40.317703,41.595501,Erzurum-tortum Yolu,Tortum,CDLA-Permissive-2.0,Overture|meta
+b49b4526-508d-4be2-8c55-50819cff301d,Hanımeli manti salonu,RESTAURANT,40.298294,41.548294,"Halitpaşa Mahallesi Muhtarlığı, Ziya Bey Caddesi 68",Tortum,CDLA-Permissive-2.0,Overture|meta
+aca1ebda-90b0-4ae3-bad1-b84485bbd2a2,Yeşil Elma,CAFE,40.29771,41.547565,Şehit Özcan Karaca Cad,Tortum,CDLA-Permissive-2.0,Overture|meta
+34e612ef-3a2f-4dc6-b201-0594371456a8,OGRetmen EvI Ve AkSAm Sanat Okulu,HOTEL,40.295322,41.547089,Tortum,Tortum,CDLA-Permissive-2.0,Overture|meta
+00426a6a-01be-40d2-b737-8e7ee3b21a53,Vatan Cağ Kebap Salonu,RESTAURANT,40.296795,41.550823,,Tortum,CDLA-Permissive-2.0,Overture|meta
+3abd2b22-8c63-459c-a18f-542884310083,Erzurum Tortum Muhsin Yazıcıoğlu Şelalesi,SIGHT,40.297073,41.550854,Tortum,Tortum,CDLA-Permissive-2.0,Overture|meta
+92d46fe2-f9d1-4085-94d9-11dd7ef388f4,Firatoglu Mobilya Istikbal / Vestel,SHOPPING,40.297138,41.550575,Ş. ÖZCAN KARACA CADDESİ,Tortum,CDLA-Permissive-2.0,Overture|meta
+e38223c3-67dd-47d9-ae1f-f864664c56d3,Özefendioğulları Dinlenme Tesisi,RESTAURANT,39.989815,41.528263,Erzurum Pasinler Karayolu Üzeri 23.km,Pasinler,CDLA-Permissive-2.0,Overture|meta
+444fe668-227e-4f4a-b827-c62a3d8a1612,Erzurum Cağ Kebabı,RESTAURANT,39.990139,41.528294,,Pasinler,CDLA-Permissive-2.0,Overture|meta
+d6b50286-36d9-4c4a-b99c-a6ed4a70d5ae,Dumlu Baba Alabalık Tesisi,RESTAURANT,40.110443,41.387478,Kırkgöze Köyü Yolu,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+7181a9db-1488-4b84-b916-006900acfa16,İnci Alabalık Tesisi,RESTAURANT,40.178726,41.446156,8f2c2203002bb25,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+7132b1bb-cb0e-4f97-b150-bd898206a414,Sultan Bayan Konaklama,HOTEL,40.109234,41.257,Mumcu Caddesi 33,Yakutiye,CDLA-Permissive-2.0,Overture|meta
+0d582ec6-33e8-4a8e-8b8e-2f72006f83a1,Özyapar Akademi Erzurum,ACTIVITY,39.957119,41.308311,Olimpiyat Millet Bahçesi Somunoğlu Cad. Ömer Nasuhi Bilmen Mh. Farabi Blv. No:63 Yakutiye/Erzurum,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4be965b4-69f1-4a17-8079-29a00902c60e,Hilalkent Yedikule Inşaat,SIGHT,39.947517,41.306568,Hilalkent Yedikule inşaat,Palandöken,CDLA-Permissive-2.0,Overture|meta
+935dd974-1254-433d-8a6f-4a6502851fe0,Arslan İnşaat Hilalkent,SIGHT,39.953419,41.3036,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8a5e3134-507f-405d-9dd7-9b7954c66859,Evliyağlu,RESTAURANT,39.946529,41.302135,Kurtuluş mahallesi Hilalkent özbağ 10 sitesi altı Erzurum ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8e5f543b-3a30-4342-b2a9-625c3084baad,Nene Hatun Aziziye Tabyaları,SIGHT,39.91378,41.308907,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+79212740-bfbd-4dc2-8982-55ddd20f4237,Erzurum Paşapınarı,SIGHT,39.918983,41.346039,pasinler yolu üzeri,Palandöken,CDLA-Permissive-2.0,Overture|meta
+55f4c62d-4921-4ce6-a5d3-f727bf3a07de,Ünal Çay Evi,CAFE,39.888077,41.285347,palandöken hastanesi arkası eczaneler altı..MERKEZ ERZURUM,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ef1eb422-4b4a-4096-928d-32a7945f6b0c,Mekan Çay Evi,CAFE,39.890549,41.280476,100. Yıl Cd. No:8,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f419d7e6-b971-40cd-b8fd-6e492fdc0513,Erzincan Yolu,CAFE,39.88924,41.278999,Ilica Yolu,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ea7b966c-916d-4140-a92a-bfa35fc631c3,Sezer Palmiye Konutları,SIGHT,39.887188,41.280365,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+165acb07-c353-4e7a-86ea-c9f5d72af17c,Esnaf Yemek Hizmetleri,RESTAURANT,39.884457,41.279144,Düzgün Sokak 10,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9fc8766f-9191-458d-ba5b-83d8d1da3bd9,Erzurum Kayakyolu Tema,SHOPPING,39.885738,41.277512,"Mutlu Yapi, Bez Ölçen Sokak 18",Palandöken,CDLA-Permissive-2.0,Overture|meta
+9ec36fdd-7bab-42f0-8d83-e94cf8d5df05,İsot,RESTAURANT,39.886692,41.276096,"özceylan apartman altı, Selin Sk.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+a93b3d58-7f6c-4634-9924-d84d6498c056,Komagene,RESTAURANT,39.885841,41.273113,MAH . KAYAKYOLU CD NO:13,Palandöken,CDLA-Permissive-2.0,Overture|meta
+db44d8ed-1031-4d6b-8d9b-08b85b7a90c6,Kardeşler oto yıkama +çay evi kayakyolu,CAFE,39.886005,41.274559,Yunus Emre Mah,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6a3ba29a-cb32-486a-9fdc-2c2b368063cc,Lüks Pastaneleri Kayakyolu,CAFE,39.886402,41.274433,Hürmet Sk. No:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ca59a8a2-68a9-446b-bd3a-49e5d7ac7887,Endemik Hotel,HOTEL,39.88623,41.274525,KAYAKYOLU,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f4040a32-54f1-421e-a900-290246cb2336,Dedeman Resort Palandöken,HOTEL,39.887611,41.273403,"Palandöken Ski Center, 25070",Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+14448efa-7905-4f06-90d8-cf8cbb75e929,Palandöken Safir Tur,RESTAURANT,39.888615,41.275749,"E80 Üzeri Otonomi Galericiler Sitesi S5, 25070 Aziziye/Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+8f0fc495-4dcb-4fc5-85fa-3ccd3d42be4e,Dedeman Uygulama Oteli,HOTEL,39.889725,41.276718,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+da2bac50-a8c6-4d6f-ab28-7777b4b2cdb3,Erzurum Dsi Gölet,SIGHT,39.88903,41.270412,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c14f6f93-d828-47c5-8091-a8d1155c5b1b,Özsüt Erzurum,CAFE,39.891605,41.268375,Palandöken Caddesi 136,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7d24061d-ea09-4ba7-8c32-996de6373524,Amcabey Unlu Mamülleri,CAFE,39.890938,41.265137,Zeynep Sk. No:3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cb92d086-31ad-47ff-b9d5-efffa472ebe8,Livane Şarküteri Kahvaltı Salonu,RESTAURANT,39.890316,41.26545,Yavuz Sultan Selim Blv.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e169da8d-de3e-477d-86aa-3f3a423429a9,Kılıçoğlu,CAFE,39.890167,41.266178,Solakzade Mah. Yavuz Sultan Selim Blv. No:43,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e452af17-54d7-45f9-8eee-5853698dd481,Popeyes - Forum Avm,RESTAURANT,39.890144,41.266163,"Forum Erzurum AVM, Yavuz Sultan Selim Blv. No:43",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7e47fbdb-78d9-4db4-aea9-ff6421a600a8,GaziKent Künefe & Katmer,RESTAURANT,39.890179,41.266174,"Erzurum Alışveriş Merkezi, Yavuz Sultan Selim Bulvarı 43",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7d8101b0-ff77-4e2a-ba21-2673aa389f87,Baydöner,RESTAURANT,39.890205,41.266148,Forum Erzurum,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+8b79b5dd-9c4d-4c48-b0d6-e8e966e33823,Gönül Kahvesi,CAFE,39.890266,41.266098,Forum Erzurum,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b154401a-052e-422d-bb07-6ec471c2837a,Forum Erzurum,SHOPPING,39.890659,41.266197,Yavuz Sultan Selim Blv. No:43,Palandöken,CDLA-Permissive-2.0,Overture|meta
+83207cc5-28e3-4ed2-a905-34bd5761ba14,Long Action Cafe,CAFE,39.89056,41.266132,"Yavuz Sultan Selim Blv. No:43, 25070",Palandöken,CDLA-Permissive-2.0,Overture|meta
+2135e106-6ba3-4388-a487-16eef763db36,McDonald's,RESTAURANT,39.889763,41.266075,Forum Erzurum,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e46d574d-2c96-48bf-a781-40d7602397f8,Usta Dönerci,RESTAURANT,39.889797,41.265781,Lala Paşa Mahallesi Somun Oğlu Caddesi No: 83/188,Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+7e40fdd3-707c-434d-80f2-ad9fbab4b4e0,Özsüt,CAFE,39.889637,41.265709,Forum Erzurum,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+cefbd1f6-60da-48d2-a6dd-634ea25f1de5,Mr.Waffle&Kumpir,CAFE,39.889717,41.265602,Yavuz Sultan Selim Bulvarı 43,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bac75961-d06c-4fc0-8f03-0cd29e6d44ea,Evim kebap,RESTAURANT,39.889751,41.264904,Yenişehir Sokak 1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d0aa4241-a939-46eb-976c-96e857186326,Palan Tortum Cağ Kebap,RESTAURANT,39.889835,41.264938,"Marketler Dış Kapı, Yavuz Sultan Selim Blv. No:1 No : 52",Palandöken,CDLA-Permissive-2.0,Overture|meta
+ba3410eb-0993-4266-97ef-a7a5be7e5195,Burger King,RESTAURANT,39.889942,41.266907,Yavuz Sultan Selim Blv. Forum Avm No:43,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f028e534-49d5-4934-9b92-4764eb19a14c,Sadabat Parkı,SIGHT,39.889305,41.26786,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+edb43074-7ccb-4b1e-95af-e664b28cb298,Tarihi Çeçenistan Çay Bahçesi,CAFE,39.889473,41.268196,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b6aa30fb-4b82-4d4c-bf1a-7a0d05bb7931,Lapidis Pide,RESTAURANT,39.887325,41.265102,"Müftü Solakzade, Türk Telekom Assistt Binası, Mimar Sinan Cd. Yanı No:44, 25070 Palandöken",Palandöken,CDLA-Permissive-2.0,Overture|meta
+0f190c6d-f412-4ec6-b335-060812d4eeda,Sezer Park Konutları,HOTEL,39.881233,41.271896,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8ddf717d-b48c-4f8b-8a20-7097e678922a,Palandöken Villalari,SIGHT,39.880669,41.273636,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+854f9bc2-9fa7-4203-9a43-d7f4ac01a713,Polat Renaıssance Mangal Restaurant,RESTAURANT,39.866436,41.275181,İbrahim Polat Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+878b7d34-e295-4a63-8255-51fd443fa3c1,Palan Otel,HOTEL,39.862167,41.275009,Kayak Tesisleri Sokak No:15,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bf25b386-f03e-4a30-b529-cb4951438536,Chalet Cafe,CAFE,39.865669,41.274788,"""İbrahim Polat Cad Kayak Yol Renaissance Polat Erzurum Hotel, Palandöken Merkez, Palandöken, Erzurum""",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e0480f1f-3fde-42a3-a731-e2c352230f24,Polat Renaissance Lobby Bar,RESTAURANT,39.865955,41.274773,Renaissance Polat Erzurum Otel,Palandöken,CDLA-Permissive-2.0,Overture|meta
+27132983-7b2a-4862-8c07-33f2e2661cb9,Polat Erzurum Resort Otel,HOTEL,39.866192,41.274605,"Yunusemre, Kayak Yolu Uzeri",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e4930525-2e20-4277-a4b7-b134d954f127,Palandöken Cafe,CAFE,39.869091,41.274265,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bc8ffb10-a621-4f3b-bc65-aa369dfd5c56,Snowdora Hotel,HOTEL,39.868462,41.274746,"Yunusemre, 25080 Palandöken/Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+dfa06934-58f1-4d4b-a80a-00da4ea957a1,Sway Hotels,HOTEL,39.867298,41.274693,Kümeevler Kayak Yolu,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f3789c03-5eef-4742-a50b-ff719752b4f1,The Erzurum Hotel,HOTEL,39.871723,41.27298,İbrahim Polat Cd. No:53,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8ccee078-24f6-40ce-a1b9-c5b67ffd9e95,Balsoy Mountain Hotel,HOTEL,39.861176,41.274681,KAYAK TESİSLERİ SOKAK NO:5,Palandöken,CDLA-Permissive-2.0,Overture|meta
+86554cab-9512-4062-ad2d-a23c06762ad3,Momo Apres Ski,RESTAURANT,39.861244,41.274746,"Yunusemre, Palandöken",Palandöken,CDLA-Permissive-2.0,Overture|meta
+db09f3a9-afce-456d-af7d-1fc47e7e98dd,Sport Otel Palandoken,HOTEL,39.861599,41.274967,Palandoken Kayak Merkezi No:11,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7ccf81c7-366b-4432-a4b3-b967b090a3cf,Dağ Kokoreç,RESTAURANT,39.86058,41.274673,Palandöken Dağı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+eae2984d-6be8-4d6e-bbbb-9d3d8f8e896e,Snowdora Ski Resort Hotel,HOTEL,39.860691,41.275047,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+abdf82ad-a248-41e9-b4f9-dcb2638eb8d2,Dedeman Palandöken Ski Lodge,HOTEL,39.860096,41.274689,Palandöken Yolu,Palandöken,CDLA-Permissive-2.0,Overture|meta
+db35e354-1e98-4c64-9186-1d75645243d8,Kapsül Kafe,CAFE,39.859703,41.275265,Palandöken Kayak Mrk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+939da213-21b9-4ce0-a2ae-868ee6ceb939,Fanus Cafe Erzurum,CAFE,39.859848,41.275444,Snowdora Otel,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8c2ed7ce-da60-4b5f-8505-a7691a3f894c,Palandöken Jandarma Sosyal Tesisleri,RESTAURANT,39.857586,41.27536,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e36b7f7a-6edf-4506-a6ba-d925c72f48bf,Dedeman Palandöken Ski Lodge,HOTEL,39.857166,41.276009,Yunusemre Mah. Palandöken Kayak Merkezi 25000 Palandöken/Erzurum,Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+ff200f44-d51f-4f41-a55c-0a5e62e1830a,Erzurum Palandoken Dedeman Oteli,HOTEL,39.859894,41.277603,Palandöken,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8acd4226-8a9d-44c0-81be-2ca8588e52cf,Polat Resort Polat Cafe,HOTEL,39.859211,41.285645,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+86a5e4eb-80d2-4522-8f20-a376a7097181,Vilayetler Evi Palandöken,HOTEL,39.848289,41.28883,Palandöken,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2eb732dc-4484-4a0c-9f97-b68e09a29fe0,Dedeman Palandoken Hotel,HOTEL,39.84922,41.284332,"Palan Döken Kayak Merkezi, Palandöken Yolu",Palandöken,CDLA-Permissive-2.0,Overture|meta
+28558000-1c4c-454b-b585-e61e339ad8dd,Dedeman Otel Teleski Cafe,CAFE,39.848923,41.28421,Palandöken Kayak Merkezi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+03debd4c-ff7f-4b1b-90f4-4ed0653dcf04,Dedeman Palandöken,HOTEL,39.849098,41.283741,Kayak Yolu,Palandöken,CDLA-Permissive-2.0,Overture|meta
+71c868ca-2bdb-4c5b-ac0c-b9dce561cb4d,Dedeman Palandoken Ski Cafe,CAFE,39.848763,41.283775,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d002f25c-4094-4b6d-aaa5-09b1e38acf1e,Ski Cafe,CAFE,39.848869,41.284237,,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+c35d3da8-858c-4de4-82c7-85d9ee019209,Küre Cafe,CAFE,39.844391,41.287716,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fd29503a-1e3f-44ad-b02d-3a54402a7424,London Street Cafe,CAFE,39.871937,41.240517,"istinye, E Blok Yildizkent",Palandöken,CDLA-Permissive-2.0,Overture|meta
+ce398eaf-18b4-447e-98e6-4bff48ce80c5,Casa Del Lupo,RESTAURANT,39.872757,41.248638,Alparslan Türkeş Bulvarı 51,Palandöken,CDLA-Permissive-2.0,Overture|meta
+177a51f7-0c2a-428c-9fcc-d0b774862764,Il Saglık Idaresi Mudurlugu Misafirhanesi,HOTEL,39.873821,41.250038,87. Sokak,Palandöken,CDLA-Permissive-2.0,Overture|meta
+47015983-afb3-4692-b3bd-8a5f6b4379e7,Yildizkent,HOTEL,39.872311,41.24929,Alparslan Türkeş Bul,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e53f0ad9-e5a2-4c11-8f04-354bf8edd821,Erzurum Forum AVM,RESTAURANT,39.880692,41.249161,Yavuz Sultan Selim Bulvarı Solakzade Mahallesi No: 203,Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+20458f26-e9f3-4554-8b81-ac897278c5e9,CoffeXpress,CAFE,39.880302,41.249348,"hüseyin avni ulaş samanyolu sitesi no:3 25070, coffeXpress",Palandöken,CDLA-Permissive-2.0,Overture|meta
+f6755a9e-8832-4bd6-8cd9-2ab42707ed26,Temel Reis'in Yeri,CAFE,39.882023,41.252304,Yavuz Sultan Selim Bulvarı 43,Palandöken,CDLA-Permissive-2.0,Overture|meta
+27794c42-4bf1-4db9-88e6-78b33a776ff0,Kebapçı Mangal,RESTAURANT,39.881504,41.251797,2. Cadde,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ece84c5f-9303-4e7a-94aa-3ff83be31624,Bebek Sahil Istanbul,SIGHT,39.881233,41.254589,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+047881e6-c119-4b8e-b83a-d20e81b3c169,TEMA AVM,SHOPPING,39.879677,41.254768,Şair Nefi Caddesi 63,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4670f35c-8792-461b-9fd0-19d8b94394c7,Sbarro,RESTAURANT,39.880066,41.258308,Solakzade Mah. Yavuz Sultan Selim Bul. No:203 Palandöken,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3040ee53-19d1-4fd4-a076-b823f403f731,Yalcin Teber AVM,SHOPPING,39.885471,41.259575,Yavuz Sultan Selim Blv. Doruk Apt Altı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a558ac6f-039f-40c4-be7a-096da8bc91e2,Asaf Çay Evi,CAFE,39.882442,41.260689,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+707b159f-c184-45c8-b94d-f9781fcf5ce5,Mehmet Akif Ersoy Parkı,SIGHT,39.884274,41.262478,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1b1874d5-5310-4240-a6d7-3612928fb059,Karadayı New City B Blok,SIGHT,39.886333,41.264091,Mimar Sinan Cd. No:9a,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9acf7aa0-df32-4489-afab-7b3107045ca0,Osmanlı Çay Evi,CAFE,39.887215,41.263027,Ayhan Sk. 4A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+112f4cdb-3b57-4405-9ac0-d48c36cf825b,Elit Tavuk Döner,RESTAURANT,39.887207,41.262863,Yavuz Sultan Selim Blv. No:93,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ebae58b7-2479-4ef2-8454-23655ef63e02,Ata Konağı Çay Evi,CAFE,39.886513,41.262337,Adnan Menderes,Palandöken,CDLA-Permissive-2.0,Overture|meta
+460e014c-6e5e-495f-8cfc-315484423e7b,Kardelen Çay Evi,CAFE,39.88644,41.262257,Alvarlı Mehmet Efendi Cd. No:34,Palandöken,CDLA-Permissive-2.0,Overture|meta
+271f14b1-2a4f-4577-8990-09626eff5112,Paladayı Pide,RESTAURANT,39.887066,41.261585,Alvarlı Mehmet Efendi Cd. No:48,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7fcc3e94-20cd-41d9-add3-eb3f48f0bf49,Kebapcı Nevzat Usta,RESTAURANT,39.887852,41.262642,7. Çarşı Sk. No:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c9eb6da5-c3bc-4bc0-bfb1-221042ffe69e,Kebapci Oktay,RESTAURANT,39.888031,41.262718,6. Çarş Sk. No:3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7273a2b8-487f-40e3-864f-462d6773bdf9,Hamsiköy Sütlaççısı,CAFE,39.887974,41.262718,Oktay Ustanın Arkası,Palandöken,CDLA-Permissive-2.0,Overture|meta
+20098648-8805-4ec5-be7a-3641b17634ff,Birleşim Pastanesi,CAFE,39.888233,41.263069,5. Çarşı Sk. No:1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1d8c6f86-dac9-46c5-9965-65163101fdc1,Güneş Çay Evi,RESTAURANT,39.888599,41.263634,Yavuz Sultan Selim Blv. No:52 D:56,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1a8bb216-f3d8-4339-9ccf-ae12d9ca47f3,Köşem Dürüm Evi,RESTAURANT,39.888027,41.263412,Yavuz Sultan Selim Blv. No:61,Palandöken,CDLA-Permissive-2.0,Overture|meta
+daa627f1-26f2-4cb6-acef-dad3cf0733bf,Pigra,CAFE,39.887569,41.264301,Zübeyde Hanım Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+843ce2e1-1667-4242-ac0e-6ec24bae6b4f,Espressolab,CAFE,39.88987,41.263317,"Müftü Solakzade Mahallesi, Yavuz Sultan Selim Bulvarı, No:29, İç Kapı No: GF-L032 Palandöken/Erzurum",Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+f2b80c17-cc72-41fb-8abe-00b2e61fa217,Çayzadem,CAFE,39.890759,41.264656,6. Sk. No:10,Palandöken,CDLA-Permissive-2.0,Overture|meta
+91d3d1fb-26dd-4f26-8a21-d1c14893a544,Vadi Et Mangal,RESTAURANT,39.89249,41.26115,Mevlana Cd. Mevlana Vadisi Parkı içi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a0868277-7de0-4288-bd55-dd4fb25f77c9,Atlama Kulesi Teras Kafe,CAFE,39.890888,41.253979,Tepe Sk. No:15,Palandöken,CDLA-Permissive-2.0,Overture|meta
+831e3409-7ea8-4db2-b5c2-9abf50e73142,Üçler Kebap Salonu,RESTAURANT,39.882771,41.255787,12 Mart Cd No:25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+21d448ec-b705-41a2-bdba-9083dc69f915,Pumpkin Kafe - Yenişehir,CAFE,39.883072,41.255138,Müftü solakzade mah. Zübeyde hn cad Yenişehir ( bankamatikler karşısı),Palandöken,CDLA-Permissive-2.0,Overture|meta
+0a12bea1-1a21-4ec1-b27f-06432ba9dbfd,Konaklım Cafe & Bistro,CAFE,39.882664,41.251919,"Erzurum Alışveriş Merkezi, Yavuz Sultan Selim Bulvarı 43",Palandöken,CDLA-Permissive-2.0,Overture|meta
+6d0170fc-c9ab-4537-856c-417db94ebc61,İshak Paşa,SIGHT,39.883789,41.249195,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f5f39a92-2d02-475e-8a7c-20a92be98711,Yenişehir Adnan Menderes,SIGHT,39.887424,41.248917,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3711a9bb-9ded-4c57-9dbe-0653c69812c3,Münire Gani Şengel Erkek Öğrenci Yurdu,HOTEL,39.887566,41.252171,12 Mart Cd NO:74,Palandöken,CDLA-Permissive-2.0,Overture|meta
+001e0b76-164c-426a-a2f3-08910d736a94,Aşiyan Öğrenci Yurdu,HOTEL,39.891792,41.249043,Dere Cad Atlama Kulesi Yanı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fe15a688-f73c-4af7-a7f2-0e970c182de7,Köşem Pastanesi,CAFE,39.89045,41.247997,Yenişehir,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+321f7497-42d8-4936-acdf-00e359fed158,Puffel Waffle &  Kumpir,CAFE,39.891899,41.245274,Müftü Solakzade mah. Forum avm içi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e2a4d893-6181-41c9-90b0-512885702747,Çor'Bacı,RESTAURANT,39.891964,41.24543,Refik Saydam Caddesi Yeşil Vadi Siteleri Çat Yolu Üzeri,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ebc6e048-bff9-4735-9ada-42aa044b71db,Güntülü Ki̇tap Kahve,CAFE,39.891907,41.245556,çat yolu caddesi hüseyin avni ulaş mahallesi yeşil vadi yapı koop. A blok,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+5e3f1885-b7f4-4ef2-9e4a-4a3aa3f0d149,Numanbey Restoran,RESTAURANT,39.892021,41.245537,"Numanbey Restoran, Çat Yolu Cd. No:7 D:A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+a699fb6b-9e46-4a54-a6f7-23592ee4e0fa,Börü Cafe Bistro&Nargile,CAFE,39.892006,41.245544,"Börü Cafe, Çat Yolu Cd. Yeşilvadi yapı kooperatifi B blok",Palandöken,CDLA-Permissive-2.0,Overture|meta
+83bc915f-9460-4cee-8a44-333fc55b4095,Breadli Cafe & Sandwich,CAFE,39.891987,41.245384,Çat Yolu Cd. No 17/B,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bfd95236-81f9-4b86-bea2-ccdf32e938d5,Dayı Kürek Lahmacun,RESTAURANT,39.891842,41.244766,Refik Saydam Cd. No:77,Palandöken,CDLA-Permissive-2.0,Overture|meta
+08911e7b-1fdd-4618-820b-8dc38f72ce3b,Panora Coffee,CAFE,39.8908,41.242798,Dr. Refik Saydam Caddesi 1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+23481fb8-b7f2-48d0-9c12-fc1dfb6dcd55,Paris de l'Orient,CAFE,39.887886,41.240402,Adnan Menderes Cad. Çat Yolu. 41 / D A,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+424e0180-7482-4d5d-95fe-d69b03344d56,Gün Işığı Kafe Çikolata,CAFE,39.887997,41.240955,Çat Yolu Caddesi 21,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b650f8e3-8a35-48ff-9583-e3427fdc539e,Mengübey Konakları,SIGHT,39.888439,41.242874,Adnan Menderes Mahallesi İbrahim Hakkı Caddesi Mengübey Konakları,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9ae82a77-c02a-4cf6-9464-dcfed5817b44,Freddy Cafe,CAFE,39.88665,41.240997,Refik Saydam Cd. No:121,Palandöken,CDLA-Permissive-2.0,Overture|meta
+703dade8-21d1-4f6c-9337-1924031cca4d,Nenehatun Kadın Dogum Hastanesi konferans Salonu,RESTAURANT,39.885899,41.240005,Nenehatun Kadın Doğum Hastanesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3af9c1c0-6b16-418b-937e-46d09843666c,Yildizkent PİZza,RESTAURANT,39.885845,41.240074,"LUKOİL PETROL KARŞISI, ADNAN MENDERES MAH.ALPARSLAN TÜRKEŞ BULVARI SYS EVLER, NO:48",Palandöken,CDLA-Permissive-2.0,Overture|meta
+59447332-518e-4da3-9a78-2dcb2c901f35,Palandoken Corbacisi Yavuz Usta,RESTAURANT,39.885643,41.240253,Hüseyin Avni Ulaş Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1d5d7b98-a549-4a3f-86d3-86adb85e7598,Komagene Etsiz Çiğ Köfte,RESTAURANT,39.885593,41.240368,"Sys Evleri, Alparslan Türkeş Blv No: 4 Altı",Palandöken,CDLA-Permissive-2.0,Overture|meta
+8521409a-ce9c-4962-a439-7b726553232d,Birleşim Pastaneleri,CAFE,39.885384,41.240559,Alparslan Türkeş Blv,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4341f4c9-8c7d-4ab4-991e-0fc1bd671164,Düzgün Market,SHOPPING,39.88488,41.240498,232. Sk. No:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7803107f-ee26-4786-9390-e958adf061d3,DENİZ Kız pansiyonu,HOTEL,39.883324,41.240078,Hüseyin Avni Ulaş,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f51f7512-8578-4587-a8cf-552c8d327d5a,Dana Burger,RESTAURANT,39.886742,41.244881,"Dilek Sokak, Kosova Cd",Palandöken,CDLA-Permissive-2.0,Overture|meta
+bffda328-b11f-409e-ab31-5fa3c239ae82,Cki Chicken,RESTAURANT,39.886753,41.244888,"Adnan Menderes, Dilek Sokak, Kosova Cd",Palandöken,CDLA-Permissive-2.0,Overture|meta
+42597e94-2afc-4971-bd5e-49cc19e9c1ea,İstedoy Palandöken,RESTAURANT,39.886826,41.244747,"Dilek Sokak, Kosova Cd",Palandöken,CDLA-Permissive-2.0,Overture|meta
+253829c5-1a66-4aa6-a200-d401340a856f,Erzurum Palandöken Yenişehir,SIGHT,39.883286,41.247341,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6cb17e9b-de9e-4011-a9f7-acd57f0a002e,Şanzelize Cafe Erzurum,CAFE,39.88345,41.247219,Kosova Caddesi 77,Palandöken,CDLA-Permissive-2.0,Overture|meta
+034d36ad-8aaa-4625-b418-dc59e620b6ba,Kuğulu Park,SIGHT,39.883068,41.247677,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cb877b98-9148-4b78-a42f-f8b50413c6b1,Kebapçı Mangal,RESTAURANT,39.88113,41.245892,2. Cadde,Palandöken,CDLA-Permissive-2.0,Overture|meta
+992acab3-f774-4f5d-983e-cdcb7efa1a7e,Yıldızkent Çıtır Lahmacun - Pide - Kebap,RESTAURANT,39.877422,41.245926,Hüseyin Avni Ulaş Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7192f29a-d3bc-41f5-80e3-8ca2b4941227,Cafe 3 Boyut PlaystatİOn 3-4-5 Salonu,CAFE,39.875343,41.24297,"ÖZTAŞ-2, HÜSEYİN AVNİ ULAŞ MAH.4.SOK.1/1C, B/BLOK ALTI",Palandöken,CDLA-Permissive-2.0,Overture|meta
+067d8aa0-88bc-403e-8ca6-d29370e0af7a,Karlar Ülkesi,SIGHT,39.87484,41.24242,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+58fef1ee-f8a5-4932-a78d-07d609556eb7,Selimiye Çay Evi,CAFE,39.872971,41.242119,Hanedan Sok Selimiye Cami Yanı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2bdf5f99-770c-4f0b-9084-c255a20170a9,Dostlar Çay Evi,CAFE,39.875435,41.241676,Osman Gazi Mah.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6dc17b8e-873c-4091-bb11-d28ce72e7097,Hüdâyi Eminder Yükseköğretim Erkek Öğrenci Yurdu,HOTEL,39.878822,41.2407,"Hüseyin Avni Ulaş Mahallesi, 220. Sokak No :2",Palandöken,CDLA-Permissive-2.0,Overture|meta
+ccf400dc-f6ee-4299-8836-856fab9351f3,Soulmate Coffee Erzurum,CAFE,39.879135,41.2439,"kervansaray site altı Arçelik yanı, Alparslan Türkeş Blv",Palandöken,CDLA-Permissive-2.0,Overture|meta
+0ce1e3d5-3e05-4d9c-927c-16bcc48f33fa,Tavuk Dünyası,RESTAURANT,39.879646,41.243992,Hüseyin Avni Ulaş Mahallesi Alparslan Türkeş No:19,Palandöken,CDLA-Permissive-2.0,Microsoft|Overture
+04c20975-6ea7-419a-99ff-6328953bdd5f,Mackbear Coffee,CAFE,39.879711,41.243782,"Hüseyin Avni Ulaş, 98.Sokak NO: 19 D:1A, 25080 Palandöken/Erzurum",Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+c55c9070-9275-4ed3-a538-e7e895339959,Bolulu hasan usta erzurum,RESTAURANT,39.879688,41.243202,kervansaray sitesi (avm no: G19,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8d613e20-6d02-4be0-9e6c-8586e6b097c6,Espressolab,CAFE,39.87952,41.242737,Alparslan Türkeş Blv Kervansaray Konutları,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1cb6f126-7d4f-4e7a-b8a1-596287c7eaef,Qaqtüs Coffee & Chocolate,CAFE,39.879433,41.242584,Hüseyin Avni Ulaş Mah. Alpaslan Türkeş Bulvarı No:19/B Kervansaray Avm,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+635667eb-64a5-4c05-8891-0c05dbece7a1,Şık Kaşık,RESTAURANT,39.877884,41.236362,Şht. Polis Murat Ellik Blv. Nova Sitesi Altı No: 11,Palandöken,CDLA-Permissive-2.0,Overture|meta
+640c235c-16de-49d3-b7ee-2fc148df64bb,Artukbey Kahve Erzurum,CAFE,39.878513,41.235001,"Hüseyin Avni Ulaş Mah. Gazi Necmettin Uygur Cad. Sezerler C, Blok No:4K",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7ca0139e-22d7-4b05-a185-f65bd4c28c95,Yalcinlar CAY EVİ,CAFE,39.881771,41.233688,Aladağ Sokak 24,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ccf01a8f-93c3-4e54-a9ca-ab0109749024,Yalçın çay evi,CAFE,39.881771,41.233688,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c650de57-eb9b-407c-aa25-665b97ef9fd0,Hünkar Döner İskender,RESTAURANT,39.881355,41.232109,"Er Bulutlar Sit, Aladağ Sok No:6/A A Blok",Palandöken,CDLA-Permissive-2.0,Overture|meta
+5fb8a1fd-ea52-4cd1-a815-c8f1611aa876,Marsselle Cafe & Restaurant,RESTAURANT,39.883186,41.234497,"Şehir Hastanesi ve 112 Karşısı, Çat Yolu Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+d98d15ff-6509-43a8-831a-adbf1caf6d24,Hasel Cafe&Restoran,RESTAURANT,39.882565,41.234787,Aladağ Sok No: 02,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3806a112-c6ed-4639-91d2-0d2b003505c1,şebi kahvecisi,CAFE,39.883327,41.234844,"hüseyin avni ulaş mahallesi aladağ sokak, 2.etap bulutlar emin sitesi 2BB",Palandöken,CDLA-Permissive-2.0,Overture|meta
+6445b683-2490-41ac-9763-338c75ed715f,Yağmur Oltu Cağ Kebap Salonu,RESTAURANT,39.884533,41.237503,232. Sk. No:17/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f4ff2326-354a-483a-99c0-fe04fa933837,Ayhan Park Mobilya Dünyası,SIGHT,39.885479,41.238686,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+69e5b837-4e85-49c6-8516-e9965bd154e8,Chef Börek Erzurum,CAFE,39.887424,41.237797,"Şehir hastanesi, başhekimlik önü",Palandöken,CDLA-Permissive-2.0,Overture|meta
+c7fc78a8-5270-4592-80d6-786242432de1,Ramada By Wyndham Erzurum,HOTEL,39.885143,41.237484,"Şehir Hastanesi Karşısı, Çat Yolu Cd. Üzeri",Palandöken,CDLA-Permissive-2.0,Overture|meta
+c4b79d2c-6857-4fc9-a92c-e7c62638e7a1,Atabuz Museum,SIGHT,39.894581,41.235897,Atatürk Üniversitesi Güzel Sanatlar Fakültesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b9beec32-1771-495d-aa4d-11eea0a76ddb,Espressolab,CAFE,39.898304,41.247128,"Profesör Doktor Ahmet Özel Cad, Üniversite, Atatürk Ünv. No:2/4, 25050 Yakutiye/Erzurum",Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+46836c52-c435-4df2-ac13-2e5720c5eeec,Ata Cafe,CAFE,39.900585,41.245255,Atatürk Ünv. No:82,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b5009fdd-9dad-461d-b11e-ab03af578718,Kamelya Park Cafe & Restaurant,RESTAURANT,39.909077,41.240051,Erzincan-Erzurum Yolu No:53,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7159d4e0-e46e-41b7-b6ff-48396868c2cc,Hilton Garden Inn,HOTEL,39.916157,41.250614,Açelya Sokak No:4,Palandöken,CDLA-Permissive-2.0,OpenTravel|Overture|meta
+90084709-faa0-4cb2-b9cd-908d07123a34,BigChefs,CAFE,39.916348,41.250603,Ömer Nasuhi Bilmen Mah. Açelya Sok.No: 4  Yakutiye / ERZURUM,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fdc94532-92cd-4f64-8a12-0778eda66e3f,Nezih Cağ Kebap,RESTAURANT,39.931694,41.252659,Kombina Caddesi 54/1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+99232ce0-f159-42d7-91c6-9f3279ffa84f,Miraç Pasta and Cafe,CAFE,39.925423,41.258892,Mehmet Sekmen Blv Hirapark Sitesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+949b4e5f-a35b-4dce-996c-d789eee2ee2a,Aktepe apart,HOTEL,39.913685,41.258522,11. Sk. No:15,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3b65952c-0ea5-4be0-8f9e-f1a998d03b3f,Noém Hotel,HOTEL,39.915081,41.260002,"Lalapaşa, Terminal Cd. no:5, 25100 Yakutiye/Erzurum ",Palandöken,CDLA-Permissive-2.0,Overture|meta
+013ddaab-2521-4e28-a8ba-93d2e68abdba,Coffee Time - terminal,CAFE,39.914989,41.25964,TERMİNAL MAH.NO:23,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f2c6c3ff-828a-4cad-8219-49257668958d,Ozz Pizza Burger,RESTAURANT,39.915428,41.261574,"Efem inşaat, Ömer Nasuhi Bilmen, Neşet Ertaş sokak altı, 25100 Yakutiye/Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7b7751d3-4249-4810-846e-a33a35026701,Erzurum Bostancıoğlu,HOTEL,39.914108,41.26334,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+30f9c487-6ebb-42cf-81c4-849e092a4b4c,Nezih Cağ Kebap,RESTAURANT,39.913723,41.264267,Gez Mahallesi Kombina Caddesi No :17 Bostancıoğlu Sitesi Yanı D:1 25100 Yakutiye,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+79aee600-f7da-402a-a77a-58cdaa022339,Cupba,CAFE,39.911869,41.263035,İstanbul Kapı Cd. No:30,Palandöken,CDLA-Permissive-2.0,Overture|meta
+03f919e0-2ec1-4833-9e03-a7c0a9a3c722,Kafkas Endüstriyel Market,SHOPPING,39.912064,41.263523,Gez Mahlesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d8baade9-fb63-4524-8b69-8a40b8271ad8,Feraye Cafe,CAFE,39.912174,41.26125,ŞEHRİSTAN KONUTLARI FERAYE CAFE,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4cc9bfbb-8fbd-4b84-b4a2-d338fcc20a9e,Şehristan Konutları,HOTEL,39.912125,41.261402,İstanbul Kapı Caddesi Kurtderesi Sokak,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f6edeef7-a24d-4571-9fe1-97cefec296fe,Artvin,RESTAURANT,39.9109,41.261467,"""Hotel Yesil Artvin, İbrahim Hakkı Caddesi 2""",Palandöken,CDLA-Permissive-2.0,Overture|meta
+93d39353-ce8e-4feb-9d85-aa326ac978bd,İstanbullkapisteakhouse,RESTAURANT,39.911198,41.262642,Org. Selahattin Demircioğlu Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+92e7f434-a0cb-44b8-99c9-435c8d647d2d,Tavsanlı Park,SIGHT,39.910252,41.26088,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+045ba160-461d-425c-bfc0-4abfd4d544e6,Sarmaşık Cafe & Kahvaltı,CAFE,39.910515,41.264637,Şelale Evler Sokak 6C,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7008a6c7-767b-498c-af7b-186dbb454af9,Hilton Garden inn Erzurum,HOTEL,39.905659,41.264355,Ömer Nasuhi Bilmen Caddesi 4,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6060d37b-0c99-4e1d-a0f4-e6c4326af8ed,Lüks Pastaneleri Havuzbaşı,CAFE,39.905273,41.264473,"Havuzbaşı Mevki, Etso Bina Yanı, Erzurum Merkez",Palandöken,CDLA-Permissive-2.0,Overture|meta
+039f1dba-de76-41b7-af20-168bd0ae45df,Çınar Döner ve İskender,RESTAURANT,39.905289,41.264149,"MURATPAŞA MAHALLESİ, CADDESİ NO:73",Palandöken,CDLA-Permissive-2.0,Overture|meta
+0a87dc9c-3aca-4556-a0fe-e2b62996838a,Özel Süheyla Sıtkı Alp Kız Öğrenci Yurdu,HOTEL,39.902969,41.263828,"Atatürk üniversitesi konukevi, Mecidiye Sk. No:17 D:3",Palandöken,CDLA-Permissive-2.0,Overture|meta
+66325fab-485f-433e-b90a-a51be2dbc44c,Ankara Kızılay,ACTIVITY,39.904964,41.263584,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+81ea956c-598b-4db0-919c-b165740d9f97,Erzurum Millet Bahçesi,SIGHT,39.903786,41.26009,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+325c418f-066a-4796-8448-a84fca9c384d,Aziziye Anıtı,ACTIVITY,39.904758,41.259212,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1e207783-e270-486f-af5e-69ace98cf92c,Civcix Park Köfte Kokoreç,RESTAURANT,39.906055,41.256691,,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b9781a6a-df92-49cd-a0bf-578700a322c8,Erzurum 100.Yıl Parkı,SIGHT,39.905807,41.258121,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+26341dd1-6849-44c1-828c-8ba22dd07a2b,Terninal Çay Evi,CAFE,39.910427,41.25695,Furkan Elektrik Yanı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+54a0e33c-ae13-4487-9fca-acf570f881ad,Gezgör Cağkebap,RESTAURANT,39.910027,41.257324,Kazım Karabekir Paşa Mahallesi Nazik Çarşı Caddesi No:4,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8157842e-9bdf-407c-8de8-177577241cf1,Osmanlı Tulumbacısı,CAFE,39.909496,41.25589,Yenimahalle Cd. No:30,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8c2b1fc9-831d-4401-8c99-9f21e45f4623,Çizmelioğlu Süt Pungarı,SHOPPING,39.90958,41.255993,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4d4edd73-724d-49ce-9096-c6eb9bc00669,LÜKS Pastaneleri (Terminal),CAFE,39.908543,41.254936,1. Terminal Cd.,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+fd87421b-3b8f-45c2-9fec-b403c025ebc1,Hangover Coffee,CAFE,39.908482,41.254688,1. Terminal Caddesi 31,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0f95ce72-a1f8-490e-bcb5-09729baafe4f,Karçiçeği manti,RESTAURANT,39.908394,41.254707,Terminal Cd. No:29,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c371f702-bfb0-4d65-9c13-bc7d2e5b56f1,Çınaraltı Kahvecisi,CAFE,39.90823,41.254772,çınaraltı kahvecisi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+10680d5e-3eaa-41f1-af4b-ff6d329fbb92,Kocatepe Kahve Evi,CAFE,39.90807,41.254608,"Kahveyeli Erzurum, 1. Terminal Caddesi 27A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+eae848e6-a5ee-457b-a388-d0ec9d4c1c29,En Künefe Katmer,CAFE,39.910324,41.254169,Terminal Cd. No:42,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bdac70db-29f0-49a5-886a-d11c2bd6d921,Muammer Usta Cağ Kebap ve Kadayıf Dolması,RESTAURANT,39.909649,41.253948,Terminal Cd. No: 39,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3adea875-40bf-41d8-83ed-3527aab8365b,Gelgor Cag Kebap,RESTAURANT,39.909332,41.254211,"Akgün Sitesi, Terminal Cd. No:37",Palandöken,CDLA-Permissive-2.0,Overture|meta
+eac80688-507d-4ac5-90d4-0c4c0ce18ec6,Tavuk Dünyası Erzurum Mng,RESTAURANT,39.911098,41.252594,Lalapaşa Mahallesi 1. Terminal Caddesi No:83/66,Palandöken,CDLA-Permissive-2.0,Microsoft|Overture
+797de18f-fffa-456c-bb43-6879431d3162,Burger King - Mng Avm,RESTAURANT,39.911098,41.252708,Somunoğlu Cd. No: 83,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e788157a-6912-4f01-a6f4-f1256cc0c78e,Bigyellowtaxibenzinerzurum,RESTAURANT,39.911171,41.252674,Kazım karabekir Terminal cad. 25100 yakutiye/erzurum,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b1a1c663-cff3-4c46-8546-d36bf675eb19,Big Yellow Taxi Benzin,CAFE,39.911156,41.252636,MNG Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c3b6abee-3d76-4940-92e1-72015e9e5a89,Sucux,RESTAURANT,39.911648,41.252811,Terminal Cd. No:67,Palandöken,CDLA-Permissive-2.0,Overture|meta
+579ee59b-2549-4bb7-9869-d7e95bccfc15,Osmanlı Nargile,CAFE,39.911442,41.253033,Terminal Cad MNG Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3bb39f6d-ac63-4503-bc0d-45dabc4163af,Yemen Kahvesi Erzurum,CAFE,39.911633,41.25293,Terminal Cd. No:67,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d6eb14dc-a7b6-45e3-82b3-09725fc4c9ca,Olimpıyat Park Gölet,SIGHT,39.911186,41.254013,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+489e17ef-ac35-4f0e-ac0b-5641e8af402c,Patroon Cafe & Restorant,CAFE,39.911987,41.251282,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+045343af-ec4a-4800-9376-81baaf78e289,Lounge&Rover,CAFE,39.911972,41.251423,Lalapaşa Mah,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2b81d5b3-f684-437c-9482-60192d55c56b,Arby's,RESTAURANT,39.911423,41.251965,"MNG Mall, Somunoğlu Cd. No:83",Palandöken,CDLA-Permissive-2.0,Overture|meta
+d2d1a518-7505-4865-8ae0-ca80d87e2440,Köfteci Ramiz,RESTAURANT,39.91135,41.252277,"mng avm, Somunoğlu Cd. 83 2 Kat iç kapı 161",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e61c4f14-dc98-4e90-8fd5-e7be5f73d729,Coffe TİMe Mng,CAFE,39.911148,41.25182,LALAPAŞA.MNG AVM.25100 YAKUTİYE ERZURUM,Palandöken,CDLA-Permissive-2.0,Overture|meta
+18226837-0329-4e76-a190-679e1a35f037,Bursa Kebap Evi,RESTAURANT,39.911243,41.25177,Somunoğlu Cd. 83 /0,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e7137d79-8056-45d5-8963-292c2fb59b02,Nesve,CAFE,39.911163,41.251446,"Trugo, 1. Terminal Caddesi 57",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e2e85a94-164d-4152-b68a-210434c852f8,Midyecim,RESTAURANT,39.911175,41.251286,Somunoğlu Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ac9253fb-002a-4bdc-9c50-74124ec628d8,Musqa Burger Mng Avm,RESTAURANT,39.911293,41.25153,,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a26a43e4-73ca-45de-a6fc-3e224742a885,Lokmaki,CAFE,39.911297,41.251534,Lalapaşa Mah. Terminal Cad. No:67,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+8a8eee79-8902-4c82-a3e7-9ff9116fd006,Mado,CAFE,39.911266,41.251579,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a71229df-0a8b-454f-9841-81f53466b12f,Popeyes Louisiana Kitchen,RESTAURANT,39.911339,41.251732,Lalapaşa Mahallesi Somunoğlu Caddesi No: 83/169,Palandöken,CDLA-Permissive-2.0,Overture|meta
+14b78ac9-c9fd-4f09-8a83-fcbf07c1a76e,Erzurum MNG MALL Alışveriş Merkezi,SHOPPING,39.911606,41.251694,Terminal Caddesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d0d95f8d-c8ef-4854-93fb-724eb6cc1637,Mng Erzurum Avm,SHOPPING,39.911602,41.25174,Mng Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c24c8d05-ea85-46a7-8a90-34cfd71c8b81,Adanalı Hasan Kolcuoglu,RESTAURANT,39.911789,41.251537,MNG Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2c5b5444-3984-452a-942f-292879858ca7,Civcix Chicken,RESTAURANT,39.9118,41.251293,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1e44a370-fd09-4ef9-891b-377b34f32145,Dal Tema Park,SIGHT,39.911633,41.2509,MNG Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9373bc2a-5d28-4c3b-bc4d-20da6e8c19fd,Kahve Dünyası,CAFE,39.911419,41.250381,Somun oğlu Caddesi No:83/33,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fc2f2344-a8c3-43ad-a358-b2c050f71b58,Doyuyo,RESTAURANT,39.911461,41.250645,"MNG AVM, Somunoğlu Cd. No: 83",Palandöken,CDLA-Permissive-2.0,Overture|meta
+f34868b9-7335-42ac-ac90-2208c9332b3d,Sini Garden,CAFE,39.912506,41.250633,"MNG AVM, Somunoğlu Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+9abc08cc-4ba2-4439-88e0-bbabb40fc202,Sini Türk Mutfağı,RESTAURANT,39.912518,41.250675,"Mng Avm, Terminal Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+fdefd054-8b4f-4b3d-816e-e2055318f1e0,Starbucks,CAFE,39.912056,41.251263,Somunoglu Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8cc5396d-e149-49a1-8cf1-a7b59368d198,Arabica Coffee House Mng Avm,CAFE,39.912552,41.250526,"Mng Avm, Terminal Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+3f25efec-9a33-4166-8113-aa6124f04560,Friendöner,RESTAURANT,39.903187,41.252239,Atatürk Ünv. No:38 Kat.1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a5893743-984d-4852-a975-39075df32e11,Friends' Kitchen,CAFE,39.903149,41.252476,Atatürk Ünv. No:38,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e7d68457-2724-47ec-9723-935d4216352b,Aşkale Dumanlıdağ,SIGHT,39.903378,41.25246,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f725139f-64cc-4d81-bacd-bd25fcd1868c,Kılıçoğlu,CAFE,39.903168,41.253418,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+74162545-e874-44b4-b725-a0cbb5fe7170,Botanik Park,SIGHT,39.90657,41.253216,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e3954c73-3215-4770-bb06-75d97601f36d,Sun Center,SHOPPING,39.906834,41.253571,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1cb4c7cb-1ce3-41a7-950e-35ca07c98620,Chocolade Boutique,CAFE,39.908039,41.254803,Terminal Caddesi 37/1A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+eaaa1439-96c1-4bc0-9e20-9138f5f286d8,Jamal Kahve Dükkanı,CAFE,39.907936,41.254887,Terminal Cd. ALP APARTMANI NO:27/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f2ca2e7e-3567-4149-98e1-2d5df31a2bca,Ankara Caz Dernegi,CAFE,39.907597,41.254841,Nene Hatun Caddesi 68,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3c5fb9b9-cd03-43ee-9aa8-f642d8918307,David Loungr,CAFE,39.907516,41.25489,Terminal Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a21dfeb1-1114-4f3f-b257-bf1f992be7cb,Corbacimmm,RESTAURANT,39.907837,41.254948,Terminal Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+68c46b80-4e35-46d3-a2ac-58a015bdb16b,Charlie Chaplin Coffee,CAFE,39.907845,41.254955,Terminal Dadaş Caddesi 1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+28e11747-a807-4336-8b52-5f0c3cb3a2f2,Coffee Time Terminal,CAFE,39.907902,41.254944,"Lalapaşa Mahallesi 1, Terminal Cd. No:23/A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+0bbc4cf8-09a6-43d6-8761-7c7cd21bfa73,Terminal Çorbacısı,RESTAURANT,39.907974,41.255203,"aydınlar apartmanı, Terminal Cd. No:1",Palandöken,CDLA-Permissive-2.0,Overture|meta
+d3e0269d-1657-469a-bb62-968bb3493662,Rana Et Sofrası,RESTAURANT,39.9077,41.255337,Terminal Cad. No:23,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+5c4d6819-8f16-4612-99fa-bd5ead35c9b6,David People,CAFE,39.907417,41.255196,Terminal Cad.,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+674a0ac1-0d25-455c-8b5c-fab980fb4dcb,Alaçatı Muhallebicisi Erzurum,CAFE,39.907558,41.255379,"Özen Apartmanı, Terminal Cd. No: 17-19A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+15a3e10c-d378-4eea-9d14-88f7214122c8,Vanilin Chocolate Erzurum,CAFE,39.907127,41.255295,Terminal Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5e971be9-b783-4b21-afba-fe37c4954471,Hasbihal,CAFE,39.907028,41.255314,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9cd8a0b1-93ce-4696-9bad-f77030abe7c6,Gloria Jean's Coffees Erzurum,CAFE,39.907074,41.255566,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+48a02f16-560f-4a55-8ff5-2388bdb2477f,Martin Eden Cafe Lounge,CAFE,39.90694,41.255844,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9b870f73-5275-4677-9ae4-75e546292ef5,The Espresso Lounge,CAFE,39.907265,41.255669,"1, Terminal Cd. 14B",Palandöken,CDLA-Permissive-2.0,Overture|meta
+fe7f896b-3e40-4cf9-9096-f0726101843d,Ciğerci Amca Terminal Şube,RESTAURANT,39.907124,41.255554,AMİL APARTMANI ALTI B BLOK NO:17,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e1b8d681-4ea2-4eba-8539-a660741da469,Takıles Fast Food - Erzurum,RESTAURANT,39.907635,41.255592,Terminal Cd. No:12,Palandöken,CDLA-Permissive-2.0,Overture|meta
+05d1d36a-b557-4ea2-b830-1e1a073c311d,Qulis Cafe Erzurum,CAFE,39.907856,41.25547,Terminal Cd. No:14,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6d3b352c-27a2-4a80-879c-3d923fa64087,Palandöken Yurdu,HOTEL,39.907482,41.255817,Terminal Cd. No: 10,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6183fba3-a890-4317-a300-a0651bb364b8,Sicilya Cafe Restaurant,CAFE,39.906342,41.255974,Çağatay Sokak 4,Palandöken,CDLA-Permissive-2.0,Overture|meta
+47dafb58-e1f2-43ec-9111-b799a41b1ad4,Usta Pilav,RESTAURANT,39.906727,41.255508,"Lalapaşa Mh. 1, Terminal Cd. No:10",Palandöken,CDLA-Permissive-2.0,Overture|meta
+89d4ed0f-cdf1-4bfb-8b4a-4f0a5fde2e26,Kahve Dünyası,CAFE,39.906662,41.255508,LALAPAŞA MAH. TERMİNAL CAD.,Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+d2007f9d-45ea-4837-86ed-d811b12474af,The Coffee Factory,CAFE,39.906342,41.25565,1. Terminal Caddesi 1A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7cdbae1d-2c30-4266-ba52-5fb39542345d,Bayramefendi Osmanlı Kahvecisi,CAFE,39.905651,41.255943,Terminal Cd. No:1 No: 17,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ea1b529b-946d-46a0-8906-85fe0a9af484,Yeşil Kafe,CAFE,39.902767,41.253025,Atatürk Ünv.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+292e619c-c1cd-49e5-bdf7-498b180896e6,Cebir Coffee,CAFE,39.902809,41.253021,Atatürk Ünv.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2f563a05-e861-4abf-a64f-c0af48d6b4f4,Yeşil Çay Bahçesi,CAFE,39.902622,41.252522,Atatürk Üniversitesi,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+5c1fcd5c-4f51-4e9c-8568-dafcf63a4f1c,KYK Alvarlı Efe Kız Öğrenci Yurdu D Blok,HOTEL,39.897667,41.248505,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f4dc3c6d-18a0-40f3-836b-4e1a1b368c0b,Erzurum KYK Yurtları,HOTEL,39.893883,41.250118,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+06ef20de-a890-4842-93d7-9ffdc2f2cdae,Sport Otel Kule Sube,HOTEL,39.89362,41.252151,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7663d7e3-896f-4293-a026-63547a1dd6a6,Kiremitliktepe Ski Jump,SIGHT,39.893883,41.253635,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+986bd6ff-41ab-40ad-9b1c-adf1ec943b67,Mado Cafe,CAFE,39.893105,41.258339,,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+4ccf238b-3320-4e11-b70d-1b2bd0f0a776,Catyolu Hacibaba Restaurant,RESTAURANT,39.896107,41.256519,"Dr, Refik Saydam Cd. no: 42",Palandöken,CDLA-Permissive-2.0,Overture|meta
+30e5dd6c-c2b8-44d0-b3dc-3813016e579e,Hacıbaba Restaurant & Cafe,RESTAURANT,39.896286,41.256676,Atlama Kulesi Karşisi,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ce628b9c-6943-498a-8b76-544dc116c735,Harput Kapi Pide,RESTAURANT,39.899776,41.262844,"Atalar Mah. Dr. Refik Saydam Cad. İl Özel İdare Kampüsü, Yakutiye, Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+3b1da97d-0ac2-43d4-ae06-7ed8031e767f,Yukarı köşk,SIGHT,39.897625,41.267094,yakutiye mah.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ca1f93d5-67e3-46bf-8195-f1d7e06e8de1,Değirmen Döner İskender Lahmacun Salonu,RESTAURANT,39.893715,41.270126,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f8b5c8f2-9dce-4b4d-9900-366dd61d59bd,Koç Cağ Kebap,RESTAURANT,39.893604,41.270123,"Palandöken Belediyesi Karşısı, Yavuz Sultan Selim Blv. Solakzade, No: 2",Palandöken,CDLA-Permissive-2.0,Overture|meta
+301d9f10-311f-4c82-8f10-55eebad39b93,KÜFFELİ Kahve Üretim Merkezi,CAFE,39.894306,41.272274,Yonca Sk. No:27,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cad2e09f-ffb7-4d42-bc70-609caadf1600,Andianora Nargile,CAFE,39.894966,41.271954,Atatürk Blv. No:72,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7c72f424-765a-4c4d-a9df-7194bba3a58e,Çıtır Lahmacun Yenişehir Erzurum,RESTAURANT,39.894417,41.271675,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f7d5c916-a84d-4052-87ee-5e42d4c41fab,Lezzet Mekin Usta,RESTAURANT,39.894226,41.271423,Saraybosna Caddesi 35,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f86c61be-27e5-4021-b933-a8145e626550,Yakutiye Medresesi,SIGHT,39.899967,41.269936,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ec3d61be-9aff-4210-a13d-0497dc806d50,Tandırbaşımangalsalonu,RESTAURANT,39.901073,41.271751,Bosna Caddesi 8/1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e8769da3-14bb-4475-8f2f-c1c239829ea4,CAN USTA PİDE Lahmacun,RESTAURANT,39.900959,41.272129,Yakutiye Bulvarı 48,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0fa4888f-961b-4123-9435-4b3916f7a3df,Dönerci Canbaba,RESTAURANT,39.901096,41.270714,Saraybosna Caddesi,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+45395175-6f36-4b51-8378-d7aa633e037f,Babunec Erzurum Kahvaltı Dünyası,CAFE,39.900963,41.270546,İzzetpaşa Cad. No:2 Bakırcı Mah. Taşhan Karşısı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7e29f011-629b-4d60-a2cf-01333d0a957d,Müzikhane Coffee&Course,CAFE,39.900467,41.269333,Hüseyin Avni Ulaş Sokak 6b,Palandöken,CDLA-Permissive-2.0,Overture|meta
+08fc1ceb-4393-492a-9967-3eb802edf679,Yalcinlar CAY EVİ,CAFE,39.901081,41.269157,Aladağ Sokak 24,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1d2363d3-e25f-4374-a26a-acd825b83fc6,Paşalar lokantası,RESTAURANT,39.901066,41.267349,Yenişehir Caddesi 2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b4c204d7-15d9-43f3-aa80-936f8ad6bbac,Ünal Çay Evi,CAFE,39.901379,41.268852,Köşk Cd No:26,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8e570b22-942a-4d0e-8beb-a7b01f1c50d1,Özsüt,CAFE,39.903202,41.265568,Solakzade Mah. Erzurum AVM. Kat:1 No:134 Palandöken,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+11f27e9c-10c2-4abd-92b0-559c869915a7,Resim-Heykel Müzesi Ve Galerisi Müdürlüğü,SIGHT,39.904976,41.266792,Muratpaşa Mah,Palandöken,CDLA-Permissive-2.0,Overture|meta
+168e659f-b20d-44bb-b0b4-19dd4c87beb6,Bizim Konak Çayevi,CAFE,39.90353,41.268211,Çıkmaz Sk. No:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+97c57510-8d13-4548-baa2-32d1941a820b,Otel Zade,HOTEL,39.903492,41.268368,İsmetpaşa Cd. No:25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1a1d8013-62e3-410c-8807-8e3f9c3ed0a1,Dönerci Hacıbaba,RESTAURANT,39.903934,41.268066,İsmetpaşa Cd. No : 21/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+de4d89ff-ac20-4491-8350-efeaa17e31fd,Tekbir Tavuk Döner,RESTAURANT,39.904205,41.267963,Emniyet Sk. No:12,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5b4b776d-0ebd-4e92-a855-12baa610e057,Aydeniz Akcaabat Köfte ve Balik Evi,RESTAURANT,39.904816,41.268345,Çaykara Cd. No:7,Palandöken,CDLA-Permissive-2.0,Overture|meta
+15884002-e525-4bf1-abd9-0b08648a2b70,Lavas Center,RESTAURANT,39.904987,41.268719,Erzincan Kapı Sk. 99/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c77accc4-a58b-419b-b2a8-c649df131c3a,petro bellas,CAFE,39.90493,41.268707,Erzincan Kapı Sk. Florya iş merkezi kat8 no 9917,Palandöken,CDLA-Permissive-2.0,Overture|meta
+872fbfbe-37d1-4765-8ecf-7b739d39ad94,Saltuk Hotel,HOTEL,39.905071,41.268742,"Fil köprü üstü, Erzincan Kapı Sokak No:72",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e4018523-56e7-4c09-8249-4fd73a6ee916,Sutlacci 3,CAFE,39.905155,41.268661,Erzincan Kapı Sk. No:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+45df6151-0395-4d33-8d39-2b81a729052a,Birleşim Pastaneleri,CAFE,39.904911,41.267689,Murat Paşa Mah. Emniyet Müdürlüğü Karşısı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0b67a4ad-0361-42b5-a8f2-323639f689ce,Ciğerci Yavuz Dağkapı Ocakbaşı,RESTAURANT,39.904572,41.267818,İsmetpaşa Cd. no:7/a,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0fd41e21-1942-4784-bdb8-e9c4d2053970,Demirdag dinlenme tesisleri,HOTEL,39.905697,41.267189,"Narman Emlak, Cumhuriyet Caddesi 1",Palandöken,CDLA-Permissive-2.0,Overture|meta
+5c99d409-f493-4d1c-a23f-23273cac2261,Tevazu Cafe,CAFE,39.90572,41.267231,"Murat Paşa Mahallesi, Öz Murat Paşa Yap. Kop. Zemin Katı 11/A Yakutiye / Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+9a3197d4-699c-4194-9d10-2c9fe3f45d2e,Longaction,CAFE,39.90572,41.267231,"Erzurum Avm, Cumhuriyet Caddesi 14A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+28376330-eec5-4aed-8ea6-c528b981bf34,Cheff pizza dadaşkent cafe bistro,RESTAURANT,39.90572,41.267231,saltuklu mah.sağlık sok.aziziye.erzurum,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5d2524d6-0944-4da3-9ee2-c352deb943de,Transmed,CAFE,39.905697,41.267223,Erzurum ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+80a79b92-940a-41bb-98be-59cb65b5aef5,Güler Cağ Kebap,RESTAURANT,39.90572,41.267231,2. Çarşı Sokak 9,Palandöken,CDLA-Permissive-2.0,Overture|meta
+22fa81d1-9f30-4d8a-830a-e762254cd346,ZP GROSS Market,SHOPPING,39.905724,41.2672,Tortum Yolu Caddesi 3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a2cc07e3-a8d6-4815-a0dd-f29ec5ac3e4a,Ehli-KeyF Çay Evi,CAFE,39.906357,41.267811,Cumhuriyet Ismerkezi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b42fa82d-7a53-4b17-943a-682fe1620aff,Vefahane,CAFE,39.906212,41.267754,Cumhuriyet İş Merkezi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+87a3e898-8434-466c-822f-ea86bdfc63f7,El Molino Kafe,CAFE,39.905655,41.268845,"101, Cumhuriyet Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+4bedc55c-1d79-4d44-8d5e-98120cf67503,MADO Erzurum Merkez,CAFE,39.90575,41.268654,Cumhuriyet Cd. No:3A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1fff5334-46e7-49a3-977e-2385fc4da7e9,Tombik döner,RESTAURANT,39.905903,41.268467,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c1484203-88e1-42d0-8238-94d135771979,Çiğköftem,RESTAURANT,39.905838,41.268456,Murat paşa mah Çaykara caddesi Çaykara İş merkezi No:25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+28b184c7-bfa8-40a5-91c8-7f9cac9bd22a,Çaykara Awm,SHOPPING,39.906139,41.268459,Cumhuriyet Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+99458593-6632-4946-9d05-8a53c7f2e8cb,Yakut plaza avm,SHOPPING,39.907001,41.268433,Yakutiye Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b8b2a181-c4eb-4eae-8e72-0a5f6a0ad2ec,Lukka Cafe Nargile,CAFE,39.907066,41.268787,Dabakhane Sk. No:10 D:8,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a0a626cf-d840-4350-8723-af92edf0599f,Erzurum Öğretmenevi,HOTEL,39.906982,41.26778,Çaykara Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f21465b5-f54c-4be1-ae59-bb4672baea61,PASTA EVİ Erzurum,CAFE,39.906734,41.264874,Gez Mah.Gez Cami Arkası.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b39b4b5b-da48-4145-b88f-3bb661511641,Fresh coffee,CAFE,39.910023,41.265984,"Lalapaşa, Gez mahallesi çoşkun sokak no:1 diş hastanesi park 25 karşısı coffee, fress",Palandöken,CDLA-Permissive-2.0,Overture|meta
+cdf94da6-2e37-4e63-a942-8e656bc1ba06,Kadayıfçı Muammer Usta,CAFE,39.909866,41.265678,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bac4fbcb-da80-4ca0-ab8f-5d9888a1384d,Seferoğlu Çay Evi,CAFE,39.91087,41.265686,AliRıza Bey Sk,Palandöken,CDLA-Permissive-2.0,Overture|meta
+75512cb4-b08d-4ba3-a67d-b2e3d02c3c27,Musqa Burger,RESTAURANT,39.91235,41.264786,Ömer Nasuhi Bilmen Mah. Kombina Cad.,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+26ad679d-ec8d-41d0-816e-c6c96a6c87e5,Merkez çay evi,CAFE,39.912216,41.266533,Mustafa Durmaz Pınar Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4dbbc104-0f94-463d-a069-6bea98551464,Sabirtasi Borekcisi,RESTAURANT,39.911625,41.266247,Capa Karsisi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e3c72633-3487-4b5d-8441-c87a04f9cc88,Paradise Apart Otel,HOTEL,39.911674,41.266201,Lalapaşa mah ilayda sok no 1/e alaftargil apt,Palandöken,CDLA-Permissive-2.0,Overture|meta
+31a54da1-74e4-4e67-9c5d-51eb597c9dff,İkbal Tavuk Döner,RESTAURANT,39.911205,41.266502,Orhan Şerifsoy Cd. NO:A/15,Palandöken,CDLA-Permissive-2.0,Overture|meta
+86c49895-bfeb-4406-8a39-cea952e34d63,Gürcü Kapı Onur Çay Evi ,CAFE,39.911804,41.268291,Kazım Karabekir Caddesi 2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6a4e8de1-3bf8-43f5-92e3-c95c19c137f1,Elit-kılıçoğlu,HOTEL,39.911724,41.267853,1. Meydan Sokak,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f87d9f75-7f9e-4158-ac02-ee04347749ec,Yenİ ÇInar Page,HOTEL,39.911533,41.26825,KAZIMKARABEKİRPAŞA MAHALLESİ 2. BEDENDİBİ SOKAK NO:14,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4aaa9ed4-6d18-4366-a0c9-eed3dd7e2ba2,Dumlu Gida,SHOPPING,39.909981,41.268604,"Lalapaşa mahallesi milletbahçe sokak, halitpaşa siteleri no/ 39",Palandöken,CDLA-Permissive-2.0,Overture|meta
+33b14ff8-943c-4035-8185-a1cd84986a30,Halitpasa Unlu Mamulleri,CAFE,39.909756,41.268353,2. Halit Paşa Sk. No:6,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fdbcf311-4505-4cb9-afc5-07bf7cdc28b9,Luks Pastanesi,CAFE,39.909534,41.268032,Mazi Sk. 13-1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+38a809a4-e171-428b-b074-dfd0ef2156d5,Lala Grand Hotel,HOTEL,39.910156,41.267834,,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+03b9bd67-3cc3-4a62-9385-e918fd187eb5,Cigkofteci Omer Usta,RESTAURANT,39.909,41.267792,"Çakmaklar Sitesi, Lalapaşa, Çaykara Cd. No:66",Palandöken,CDLA-Permissive-2.0,Overture|meta
+992779ce-c7f6-4976-adc6-35b0c90f8e57,Kuru Kahveci Hafız Ahmet,CAFE,39.908363,41.267982,Çaykara Caddesi 66,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d3c1ccb9-36ef-44a0-a1f9-f3b039dc60cb,Yummy Burger,RESTAURANT,39.908302,41.268234,1. Çaykara Sokak 9A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+18271f1f-b99b-47f4-bf32-ef8186226ca1,Yunus Gundogdu Konyalibeyzade,RESTAURANT,39.908432,41.268295,Çaykara Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8b557295-5249-451f-aee5-450e64c29700,Hilal Bayan Apart,HOTEL,39.908844,41.269554,Cami Önü Sk. No:12,Palandöken,CDLA-Permissive-2.0,Overture|meta
+86f348c3-e57c-4454-ac78-c183b53072bd,Ora Büfe Ora Mini Bar,RESTAURANT,39.908394,41.270363,Mumcu Cd. No:37,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ec076f2a-af56-4d30-bd25-642398f1fe26,Rolanti Rock Bar,RESTAURANT,39.908073,41.270332,Mumcu Caddesi 47,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b083da18-f8c5-433b-9f93-2a676020fc98,Forum Erzurum,SHOPPING,39.909195,41.269936,Solakzade Mah. Yavuz Sultan Selim Blv. No:43,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+be897cc8-b9c2-4147-a5d5-f2e5ea2e7c3f,Dilaver Hotel,HOTEL,39.90958,41.270863,D:59,Palandöken,CDLA-Permissive-2.0,Overture|meta
+680b10b8-d969-49fb-a2e1-79095d519053,TAHRAN HOTEL,HOTEL,39.91048,41.270683,Kazim Karabekir Caddesi,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+40c8d97a-a31c-4fa3-892b-0b5e601797f8,Karzen Otel,HOTEL,39.910511,41.270679,Kazım Karabekir Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e436a4ea-7674-4f14-b58c-f46aababb872,Erzurum Özel Yazıcı Yüksek Öğrenim Erkek Öğrenci Yurdu,HOTEL,39.910118,41.270348,2. Millet Bahçe Cd. No:5,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d99426ce-9f80-4546-a069-b7c01f597516,Turkuaz Bayan Apart,HOTEL,39.910381,41.270149,Aşağı Mumcu Mah.,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b4477878-4c46-43f8-9060-bfeb1db4d963,Rafo Hotel,HOTEL,39.910175,41.269409,Millet Bahçe Cd. No:25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a1a7ca7b-d25b-44fa-98c8-e35eaa4a3069,Lux Otel Erzurum,HOTEL,39.910759,41.270439,Kazım Karabekir Cd. No:62,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0b75b58a-87f0-4eb7-b2cb-e22978a36187,Ornek Hotel,HOTEL,39.910809,41.270691,Kazım Karabekir Cd. No:29,Palandöken,CDLA-Permissive-2.0,Overture|meta
+043567b4-7451-4bd5-be78-ba4210a586c8,Hotel Grand Hitit,HOTEL,39.91069,41.270859,Kazım Karabekir Cd. No:31,Palandöken,CDLA-Permissive-2.0,Overture|meta
+96d58ef7-3b97-4f4e-8cac-df4bbb5d40a0,Çapa Alış Veriş Merkezi,SHOPPING,39.910748,41.27084,"Ça-Pa Market, Taşmağazalar Caddesi 9",Palandöken,CDLA-Permissive-2.0,Overture|meta
+bd7b3fea-f509-411e-9bbc-80bb2585f5a6,SarfSepeti,RESTAURANT,39.911388,41.27124,Lalapaşa mahallesi örnek sokak sultan apartmanı altı no:6/4,Palandöken,CDLA-Permissive-2.0,Overture|meta
+70560cb4-e522-49a0-bc90-62bcf5736b2e,Dayi,RESTAURANT,39.911957,41.27219,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a6db57ad-1a74-41ad-960e-2d781c178ba6,Erzurum Çiftliği,SHOPPING,39.912354,41.272289,Orhan Şerifsoy Cd. No:16,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e9a9683b-697a-46f3-ab40-c88d7b8f3f3c,Yeşil Ҫayevi,CAFE,39.912819,41.272781,İhmal Cami Sk. No:26,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2acc82c3-329e-4455-ac23-f4f89481c958,Bol Kepce Corbacısı,RESTAURANT,39.912334,41.272739,Gürcü Kapı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+88b311af-a613-4dee-9763-c8efb72ab149,Hotel Polat,HOTEL,39.91095,41.272099,Kazım Karabekir Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+685f99c7-8f32-4031-8596-d2b03cc6c65a,Polatoglu Pazarlama,SHOPPING,39.910881,41.272625,Kazım Karabekir Cd. No:6,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b6611c7d-37eb-49f8-9443-c5af95adae39,GRANT Kardelen,HOTEL,39.910809,41.272926,1. Kazımkarabekir Caddesi 50,Palandöken,CDLA-Permissive-2.0,Overture|meta
+eb3be9c3-ce91-4a44-b536-e229f003b02a,Erzurum Pelit Meydanında,CAFE,39.909637,41.272411,Bedendibi Sokak 8,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d076532f-c634-485d-96e3-a70d08c225d3,Otel Semih,HOTEL,39.909584,41.272335,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+760dceec-b5d2-4824-adaa-ad0e4f0d00f4,Atlantik Meyhanesi,SIGHT,39.910496,41.272003,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4548cacb-f736-45f4-ba50-36e797af7622,Atlantik Restaurant,RESTAURANT,39.910522,41.271851,Çiftlikçıkmazı sokak no:16,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8dbee1b0-cd2b-430c-98e9-9f107a2db3da,Mahmut Hafriyat İnşaat Ltd Şti,SIGHT,39.91013,41.271786,Erzurum İş Merkezi Kat 3 No 88,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8e144c98-2f61-409c-9e87-15204e932fd1,Vatan Lokantası,RESTAURANT,39.910431,41.271332,Kazım Karabekir Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fdea70ee-450b-4a76-878c-06a6aa625188,Meram Cağ Kebap,RESTAURANT,39.910576,41.271061,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f2070987-7c48-4539-bf8d-15db29b5bcdc,Rıhtım Restaurant,RESTAURANT,39.909863,41.271439,Pelit Meydan Cd. No:26,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1969f812-db98-4f03-988c-82e2791fa96c,Cafe Lina,CAFE,39.908516,41.272453,Cennet Çeşme Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c5c53fe7-80f9-4755-a995-a0f42ea03058,Turkuaz Kültür Kafe Ve Sanat Evi,CAFE,39.909256,41.272591,Bakırcı Cami Karşısı No:10/A,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a7c5fe2a-0ebe-4a81-8d18-866748560d3c,Fırın Kelle Paça Kadir Usta,RESTAURANT,39.908062,41.272713,Cennet Çeşme Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9776069a-4098-4f2c-938a-7913de7a37b1,Kadayıfçı Hanifi Usta,RESTAURANT,39.9081,41.272804,"Taşhan Karşısı, Cennet Çeşmesi Cad, Cennet Çeşme Cd. No:8 No:1 25000",Palandöken,CDLA-Permissive-2.0,Overture|meta
+c90534bb-3de6-4fb4-b780-95817d5f203a,Cafe Lala Garden,CAFE,39.908195,41.272766,Cennet Çeşme Cd. No:8/1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5f7789e5-424e-4d98-a8c7-bd1ef3f028f8,Şefin Yeri,RESTAURANT,39.908245,41.272877,Cennet Çeşme Cd. No:6,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1b2b3c0d-de85-4071-8098-ee1155d5504d,Cennet Kadayıf,CAFE,39.90802,41.272827,Bakırcı Mh. Cennet Çeşme Cd. No 8,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+2c0dea39-ffc9-43ca-93c0-7bbd3e508d15,Cağ Otağı Cağ Kebap Hümmet Usta,RESTAURANT,39.907928,41.272781,"Taşhan Karşısı, Cennet Çeşme Cd. No6/A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7cb8c95f-af1a-4aa1-a386-b9cff2a316aa,Lala Grand Hotel,HOTEL,39.907246,41.272099,Cennet Çeşme Caddesi 22,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ea36d90d-cd04-46e1-8bb4-55e83142c5cd,Yakutüye Taş Fırın,CAFE,39.90715,41.272568,Parkiçi Sk. No:8,Palandöken,CDLA-Permissive-2.0,Overture|meta
+736525da-bc9e-4a6f-b24c-3fda9457adfc,Kahveniz Bizden Coffee,CAFE,39.907055,41.272957,Menderes Caddesi 1/6A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+da3837a0-db5e-4a18-a107-9c905c1b1306,Büyük Akçay Hotel,HOTEL,39.905651,41.27277,"Muratpaşa mahallesi 1 kamil ağa sok, 1kamil ağa sokak No:6",Palandöken,CDLA-Permissive-2.0,Overture|meta
+f458c447-ad0e-49dd-a44f-8a444f07ec62,Şehrin Börekçisi,RESTAURANT,39.905861,41.272236,Muratpaşa Mah. Kuloğlu Sk. Yakutiye Belediyesi Üstü Özel Güneş Okulu Arkası,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b3781d1b-a9f0-44ff-9cfd-bda7bf63e493,Güzelyurt Restaurant,RESTAURANT,39.905849,41.272343,Cumhuriyet Cd. No:42,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a887f092-e9b3-453a-ad54-4753811ea3ec,TORKU Ziyafet DÖNER -Erzurum,RESTAURANT,39.905766,41.272083,Cumhuriyet Caddesi 42,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d31e7a13-b166-475c-89c4-ad1ebaff87d0,Yakutiye Medrese,SIGHT,39.90638,41.272224,Cumhuriyet Cad.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+83151817-ec43-496a-bf86-f7e95af1474e,Labigel Cafe,CAFE,39.906261,41.271805,Cennet Çeşme Caddesi 48D,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4aaa88ad-189f-470a-8bb4-24b2069a5002,Lala Paşa Medresesi,SIGHT,39.90638,41.271896,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d280b276-7382-452c-a4f0-25bbf7a27be0,Arzen,CAFE,39.905922,41.271374,Cumhuriyet Caddesi 72,Palandöken,CDLA-Permissive-2.0,Overture|meta
+48ab6797-d4fc-441f-8e34-f8ff2a751c4f,Cadde Teras Cafe,SIGHT,39.905651,41.271393,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4ce86ef5-8ae0-4ed1-a8f1-395f9254e40b,Cadde Alışveriş Merkezi,SHOPPING,39.905704,41.271431,Bahçe Sk. 10-2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a34388b2-5e2e-4807-976f-e88f789d45de,Steak House & Cadde Cafe,RESTAURANT,39.905609,41.271336,Dumlu Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3eeea242-38de-42e4-832a-5ce426518c8d,Nurbaba Lokanta&Cağ Kebap,RESTAURANT,39.906559,41.271053,Yukarı Mumcu Çad. Lalapaşa Mah.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+72d8661f-e7c7-4e3a-b73c-3d43e8e55294,Ziraat Bankasi,HOTEL,39.907436,41.271252,Cami Sk. No:5,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6c0e5ca3-51c2-4f07-8969-09033db5fecc,Emrah aydın,RESTAURANT,39.907139,41.270733,Yukarı mumcu caddesi. Ömer nasuhi bilmen iş merkezi yanı.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+70b4ab95-c57a-4f2a-8c42-642ed53d84cc,Erdilen Konuk Evi,HOTEL,39.906796,41.27079,Cumhuriyet Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5a079d12-1b22-4004-9942-24abc9ca4a55,Beyzade MANTI VE YEMEK,RESTAURANT,39.907299,41.270065,yukarı mumcu Atatürk Evi yanı çıtır lahmacun arkasında ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b0818cf1-61fb-4632-879c-50e49a233fd6,Mellivora Coffe&Meal,CAFE,39.90728,41.269257,Salim Sk. Mumcu Konutları 13/h D:3. Etap b blok 52 numara,Palandöken,CDLA-Permissive-2.0,Overture|meta
+12129971-6b4e-4223-9c73-272f713d950a,Piraye Cafe,CAFE,39.907314,41.269733,Lalapaşa mah.Ankara sok. No:3 Yakutiye/Erzurum,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4a7a0992-9df6-4e4f-818a-7c4098111dbb,Piraye Cafe,CAFE,39.907314,41.269733,Ankara Sokak 3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d13cef43-1306-483a-b767-4051353cb10d,ÖNCÜ Erkek KONAKLAMA,HOTEL,39.907074,41.269867,Yukarı Mumcu Cd. No:21,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d3f36192-bfa8-4194-8228-41df7f152a4c,SpoilSport-Oyun Bozan,RESTAURANT,39.906551,41.26955,Çaykara Caddesi Atatürk Evinin Arkası ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+26821c9f-1112-4fe7-a834-8b92cded6283,Mona Lisa Cafe,CAFE,39.906693,41.269402,Yukarı Mumcu Mah.,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+c02272cd-440c-4993-91e8-b18966086f7e,Çıtır Lahmacun,RESTAURANT,39.906719,41.268864,Çaykara Cad. Atatürk Evi Yanı. Ata İş Merkezi Altı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ac412ebe-9a7f-4763-a318-7eb54dcfd4da,Ataturk House Museum,SIGHT,39.906548,41.268925,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bfc27885-4660-479e-92d8-bfa8443b6781,Elmali Canta and Aksesuar,SHOPPING,39.906399,41.269058,"LALAPAŞA MAHALLESİ ATATÜRK EVİ CADDESİ, CAMİ KARŞISI",Palandöken,CDLA-Permissive-2.0,Overture|meta
+d4fdeac4-ac36-4f72-b73a-a65e017350f5,Cafe Pizzaro,CAFE,39.906364,41.269115,"Yukarı Mumcu Mah. Dursunoğlu İş Merkezi No:8, Erzurum Merkez, Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+758542c0-c372-4695-a05e-37f444a4b660,Sultan özel öğrenci yurdu,HOTEL,39.906338,41.269356,"Yukarı Mumcu Mah., Mumcu Cami Karşısı No:33",Palandöken,CDLA-Permissive-2.0,Overture|meta
+9fe6d56d-b062-4176-adab-1ce51bea37cb,Kadama Restorant,RESTAURANT,39.905994,41.269108,Atatürk evi karşısı kadama restorant Erzurum Yakutiye ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8103b2b0-e1dd-414d-afd1-cd14059691e2,Erzurum,CAFE,39.90567,41.268963,Cumhuriyet Caddesi 5,Palandöken,CDLA-Permissive-2.0,Overture|meta
+37473a2b-1b38-44e6-a8cc-d23f775bdba0,Söğütlü Balıklı Göl,SIGHT,39.905624,41.269001,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5aaf29bb-1de4-433a-8157-c43e6c9693b8,Közz Tavuk Döner,RESTAURANT,39.905731,41.269321,,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+dc53a6ef-57c8-4ac1-8eb6-299241c56d3a,Kozz Chicken,RESTAURANT,39.905792,41.269321,TERMİNAL CADDESİ NO:16,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2bf228ff-a94e-4597-ac43-71b9fd69ab40,Harabb'be,CAFE,39.905609,41.269321,Mumcu Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+611887ef-aa73-4cb2-8609-4b97b83c7587,Cafemix,RESTAURANT,39.905704,41.269615,Palerium Teras Kat,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+cd82da22-2f38-45af-a312-669ac345b7a1,Jimmy Joker,CAFE,39.905697,41.269588,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c0427ce2-7a97-4cf5-a2c0-79196206d23c,Kilicoglu,RESTAURANT,39.905781,41.269627,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d9336986-23c4-42b3-a98a-65f9e2e2ce2b,Pidecix,RESTAURANT,39.905777,41.269459,"3.vakif İşhanı No Palerium Karşısı, Fil Geçti Köprüsü",Palandöken,CDLA-Permissive-2.0,Overture|meta
+ccd67bf1-4811-49e6-a309-513a624cd621,Dmix Fun,CAFE,39.905712,41.269497,Cumhuriyet Caddesi 22,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e8b5b469-d9ca-4a06-88e3-650af40c08c5,Burger King,RESTAURANT,39.905853,41.269547,Yukarı Mumcu Mahallesi Cumhuriyet Caddesi No: 22/3 Mağaza No: 100 Palerium AVM,Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+feacd00b-835e-4b1c-be14-717e6b5f2994,Erzurum Merkez Gel Gör,RESTAURANT,39.905846,41.2696,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4d635dca-aefc-47ed-9f34-21bef587bc9b,Ziyade Tavuk Döner,RESTAURANT,39.905846,41.269688,Palerium,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c735a40d-3a48-48ac-967b-12c230de509d,"Neco'nun Yeri, Çay evi",CAFE,39.905857,41.269684,Kuloğlu Mahallesi Bahçe Sokak No:19,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cd305423-8545-41a7-92e0-290a4cf03eae,My Lokma CADDE,CAFE,39.905857,41.269711,Cumhuriyet Cad Palerium Avm Giriş Kat,Palandöken,CDLA-Permissive-2.0,Overture|meta
+390cc0e9-62d1-4362-b347-45f88d4ac126,John's Coffee,CAFE,39.90567,41.26981,Cumhuriyet Cd. No:89,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8e4421a4-f818-4905-b6f3-eedccfff0531,Palerium AVM,RESTAURANT,39.905624,41.269726,Muratpaşa Mahallesi Cumhuriyet Caddesi Palerium AVM,Palandöken,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+ea4125bc-088a-47f2-b000-bb0fbdda430f,Popeyes Louisiana Kitchen,RESTAURANT,39.905605,41.269768,Muratpaşa Mahallesi Cumhuriyet Caddesi Palerium Avm,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6ce4aafd-7057-4776-801e-c340f16ffaf6,Erzurum Paleryum,CAFE,39.905582,41.269848,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2271e12d-f8a7-41a4-8e99-97398c77b1a2,Wagoon Cafe,CAFE,39.90564,41.269939,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+71702e1f-4880-478c-8df0-a487d3e0ef23,Kahve Durağı,CAFE,39.905567,41.269928,Palerium,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+180f3a00-c4a8-4aec-8157-ccb0ae32fc20,Ökkeş Usta,CAFE,39.905861,41.270222,Ömer Nasuhi Bilmem Pasajı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+19de6e87-71db-45e7-98a8-8b4da969a62b,Mantici Canbaba Ev Yemekleri,RESTAURANT,39.906464,41.270393,Cami Sk. No:1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+167199a8-d2a4-4554-910a-cd85cff589b9,Kadama Restorant,RESTAURANT,39.906616,41.270725,Atatürk evi karşısı kadama restorant Erzurum Yakutiye ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9ba33fba-422b-4421-82cf-230f07bd81e9,Clup Kır Pidesi,RESTAURANT,39.906223,41.270874,"güney apartmanı, Yukarı Mumcu Cd. 5/c",Palandöken,CDLA-Permissive-2.0,Overture|meta
+885ab6eb-0bae-4246-980e-218ee13f8b96,Palerium,SHOPPING,39.906063,41.27092,Muratpaşa Mah. Cumhuriyet Cad. No:22,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+f0c4a617-1a58-472d-8adf-eb8b37e48bdd,ASYA Dönerİskender,RESTAURANT,39.905926,41.270668,Cumhuriyet Cad.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+70402334-227c-411b-b972-9ecd684509cc,Beyrancı Abdullah Usta,RESTAURANT,39.905392,41.270901,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+84f42d39-11a4-4b6e-a232-4a9c7dac2f62,Erzincan Kapi,CAFE,39.904819,41.270805,Erzincan Kapı Caddesi 9,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9548876a-62e7-49fa-ab45-93bc57421a26,Börü Cafe & Nargile,CAFE,39.904602,41.270584,Hamam Sokak 5,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b884efdf-8bc5-4073-9b15-9c66bb853655,Saklı Bahçe Cafe,CAFE,39.904819,41.270042,Muratpaşa Cd. No:22,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1502fb39-39e0-4bd8-bfad-6f12c30e8c7c,Palan Otel,HOTEL,39.904827,41.270012,Muratpaşa Mah. Cumhuriyet Cad. Palandöken,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+6d37e27d-47fd-4458-b4b0-a7759e9ce05c,Scarlett Cafe and Restaurant,RESTAURANT,39.905449,41.269787,Cumhuriyet Cad. AVM No:4 Kat,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0242c696-5f6a-4159-9d5f-b8a9be362f13,Cuma usta,RESTAURANT,39.905151,41.269718,Erzincan Kapı Sk. No:7,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0415e950-1c72-48ab-b4e9-de6b86947afa,Starbucks,CAFE,39.905376,41.269619,Cumhuriyet Caddesinde,Palandöken,CDLA-Permissive-2.0,Overture|meta
+26dbcc0f-9260-421b-bfa2-a7a402643be3,Serra City Yaşam ve Eğlence Merkezi,SHOPPING,39.905376,41.269489,"Serra City AVM, Cumhuriyet Cd. No:14",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7611c246-7aa2-471e-b3bf-b49a4112bfb9,Beypi,RESTAURANT,39.905186,41.26907,Cumhuriyet Caddesi Kızılay İş Merkezi Arkası,Palandöken,CDLA-Permissive-2.0,Overture|meta
+dcc062b5-87cd-4232-8eda-21ea2dd86e07,"BeyPi Kebap, Pide ve Lahmacun Salonu",RESTAURANT,39.905025,41.269043,Erzincan Kapı Sok.,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ac548b5c-b2a1-4dac-816c-b604de27b7aa,CheffPizza,RESTAURANT,39.905136,41.269028,Erzincan Kapı Sk. No:4 D:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3cadab14-fa74-4c18-bac1-3fe18d76d52e,Bayramefendi Osmanlı Kahvecisi,CAFE,39.905109,41.268883,Saraybosna Caddesi No: 6,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e0d81573-2692-4fac-87cb-8e1ae38c222c,DürümcüM,RESTAURANT,39.904957,41.268906,"Cumhuriyet Cad. Kızılay iş merkezi arkası, no: 76",Palandöken,CDLA-Permissive-2.0,Overture|meta
+b3068b8e-ab45-42f4-97de-a69bffbb2d43,Beyoğlu Çay Evi ve Oyun Salonu,CAFE,39.903717,41.269756,Murat Paşa Mah. Erzurum İl emniyet Müdürlüğü Karşısı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8139e2bb-9ad0-42ca-a654-f646666e7d17,Sarıköşk kasap&steak,RESTAURANT,39.90395,41.26889,Turgut Özal Caddesi 3A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7821778b-0ada-4f5d-80b0-dad0f00c8f69,Erzurum Bilim Ve Sanat Derneği,SIGHT,39.903591,41.269005,Saraybosna Caddesi 23,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5e63039a-f42b-4355-8748-f8f0446e75fb,incir|FiKiRSANAT,SIGHT,39.903751,41.269203,Murat Paşa Mahallesi,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a353302b-b21e-48c3-b418-5b93eeb0bf4a,Medya Sanat Evi Erzurum,SIGHT,39.902966,41.269554,Zemin Muratpaşa Mahallesi Bosna Hersek Caddesi Çağrı İş Merkezi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fd864fde-7a58-4fa9-ae49-0a9232b2e384,Medya Tiyatro Cafe - sanat evi,CAFE,39.903397,41.2696,Saray Bosna c. Çağrı İs Mer. zemin kat no:1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+010b9db0-dec0-4417-a51a-a51fd9269e43,Loca 5,RESTAURANT,39.903057,41.26981,Muratpaşa Mahallesi Süt Beyaz Sokak,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e6bf5e48-d414-4fb6-9434-ac9dc28ead6e,Öz Vatan Unlu Mamülleri,CAFE,39.903034,41.270039,Yenikapı Caddesi 40,Palandöken,CDLA-Permissive-2.0,Overture|meta
+65c8a1f8-f8fc-470e-afac-f80072057071,Yağmurcuk Konağı,CAFE,39.903534,41.270176,"Muratpaşa Muratpaşa Mahallesi, Palerium avm sosela 90",Palandöken,CDLA-Permissive-2.0,Overture|meta
+ccb94688-be30-4b5c-b094-c4d207e983b9,Ihlamur Cafe,CAFE,39.903534,41.270119,Muratpaşa Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a3c3509a-5802-4e31-b252-e04a185b1174,Hünkar Kıraathanesi,RESTAURANT,39.903374,41.270054,Muratpaşa Caddesi Muratpaşa Mahallesi Tarihi Murat Paşa Hamamı Karşısı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8f62ed51-ca81-464a-99c6-b3ec8422fa95,Osmanlı Kahvaltı Fastfood ve Nargile Evi,CAFE,39.903275,41.269936,Muratpaşa Mah,Palandöken,CDLA-Permissive-2.0,Overture|meta
+601214cd-b0aa-4966-9f79-638f542f0f7d,Konak Küçük Erzurum,RESTAURANT,39.903702,41.270077,Muratpaşa Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d85889bf-4c24-4dc8-8d38-2b5fa68d8b01,Cafe 1071,CAFE,39.904037,41.270603,Hamam Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c3a4e4a6-2aac-402d-acd6-4f5422562b0c,Yeşil Lahmacun Pide & Ocakbaşı,RESTAURANT,39.903488,41.27087,Şerif Efendi Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ec193539-9e36-4a7c-8f6c-698221491571,Polat Etli Ekmek Katmer Ve Corek Salonu,RESTAURANT,39.90345,41.270893,1. Vaniefendi Caddesi 2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9eb96d60-dc2f-42c3-8e53-4bb5d83ce7f9,GameZone Playstation Erzurum,CAFE,39.90353,41.271305,"Muratpaşa Mh, Haşıl Efendi Sk. No: 10/A",Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+6fb369ed-b08c-4649-8312-81ecba19405e,Farkı Şahane Organik Gurme Şarküteri ve Kahvaltı Salonu,RESTAURANT,39.903694,41.27158,"Muratpaşa Mahallesi, Haşıl Efendi Caddesi No;14",Palandöken,CDLA-Permissive-2.0,Overture|meta
+326f1846-9090-4d1e-9d31-f49a6b0c9edf,Yeni Tufan Aile Oyun Salonu Cafe,CAFE,39.903965,41.271713,Haşılefendi caddesi no:9/A 9/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f2a51e7e-c1ab-4122-8e96-e07d2f6dc7ee,Şehri Kitaphane ve Sahaf Cafe,CAFE,39.90414,41.271881,"Muratpaşa Mahallesi, palerium avm arka kapı karşısı erzincankapı çarşısı erzincankapı cad. kat 1-2-3 no, Erzincan Kapı Sk. No:41",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7d48dc22-179b-4ba8-9340-bf0068723bf6,Aspava Pide ve Döner,RESTAURANT,39.90416,41.271809,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+69d3a459-ce3a-4dc4-876c-6d85f65fd7da,Semaver çay bahçesi,CAFE,39.904705,41.271286,"flash internet cafe arka bahçesi, Erzincan Kapı Sk.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+44b60322-93d8-47da-8d78-6f41ff73c56f,Pehlivan Konağı,CAFE,39.904896,41.270966,Erzincan Kapı Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a5f3b149-00fb-4fd3-b4e0-d452f72f0e7c,Meshur Corbaci Yesilkent,RESTAURANT,39.905422,41.27113,Erzincan Kapı Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d9bdd545-be7c-4992-bc68-d9135c4362d1,Cadde Cafe,CAFE,39.905285,41.271187,Erzincan Kapı Sk. No:17,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ac01d800-0781-4120-9d93-b1793f28b996,OSMANLI DEĞİRMEN çorba ve döner,RESTAURANT,39.905182,41.27124,Erzincan Kapı Sk. No:17,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7e1ea8f4-619b-49c3-b029-79a4e1fee43b,Osmanlı Çorbaçısı,RESTAURANT,39.905182,41.27124,Erzincan Kapı Sokak 17,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5335274b-303d-4993-93b8-aebc431df401,Hasbihal,CAFE,39.905064,41.271393,Erzincan Kapı Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3db2465c-04f5-47e0-922b-80ee32fd4460,Dürümcü Baba,RESTAURANT,39.905087,41.27124,Erzincan Kapı Sk. No: 19,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6dc2876b-50bb-4db2-8f5e-5a01b08b0386,Kokoreççi Sümer Usta,RESTAURANT,39.904942,41.271297,Dumlu Avm Üstü,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f24b08cc-377b-434e-8310-85bfc0c89c2e,Özel Cansever Kız Öğrenci Yurdu,HOTEL,39.905323,41.271458,Bahçeler,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cdfeb63c-5fb7-4860-ac11-a9270ae382b2,Himmburger,RESTAURANT,39.905163,41.271751,Erzincan Kapı Sk. No:17,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b663215a-1c99-4a88-99a4-7a9467dfdd08,Hemşin Pastanesi,CAFE,39.904961,41.271893,Bahçe Sk. No:11,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8789c6fd-584d-4e22-8e12-938303d5f3a7,Kadim çay evi,CAFE,39.90527,41.272659,kamilağa sokak no:25/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0105fa26-b5c8-46c2-adeb-aa16224eb4f2,Akdag Yufka ve Kadayif,RESTAURANT,39.904148,41.272877,Şerif Efendi Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0ac72efe-eb25-4695-b487-08e54902e7ba,Dicleli Pide,RESTAURANT,39.904144,41.2728,Şerif Efendi Cd. No:68,Palandöken,CDLA-Permissive-2.0,Overture|meta
+41751b60-695a-4176-a4e8-e958b3cd32b1,Kadıbey Konağı,CAFE,39.903706,41.273403,Kadıoğlu Sk. No:3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d90a1391-0325-4313-8f2c-71e0a8860c70,Hünerli Eller,RESTAURANT,39.904137,41.273079,Şerif Efendi Cd. No:75,Palandöken,CDLA-Permissive-2.0,Overture|meta
+438ec3b8-fdf2-403a-83e0-0d164b22fbe1,Eğitim Kültür Çay Evi,CAFE,39.90506,41.273102,Kemalağa Sk. No:3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0bfce2eb-f63f-476c-b382-774209063055,TURKUAZMEDIA,SIGHT,39.904598,41.27417,Şimşek İş Merkezi kat 2,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a93ed1ea-e64b-4ade-a79f-eb20757f80aa,Şehr-i Palas,CAFE,39.904869,41.274357,Ali Ravi Caddesi 40,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ff14c25b-da07-4314-aad3-28a63a6ce4d6,Sarmaşık Nostalji Cafe,CAFE,39.904755,41.274952,Osman Paşa Sk. No:37/1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+369fcd4c-7236-42d5-ab01-0c9ec62cc436,İlim Yayma Cemiyeti Güzide Yükseköğretim Erkek Öğrenci Yurdu,HOTEL,39.903938,41.274559,Ali Ravi Caddesi 9,Palandöken,CDLA-Permissive-2.0,Overture|meta
+dff8933c-055c-4504-a26a-a7bb77fba6a9,Karadeniz Et Balîk Lokantasi,RESTAURANT,39.904125,41.274067,Ali Ravi Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4975a90b-f3fc-4696-a8a6-a305c7f52ca1,Konak1841,RESTAURANT,39.903473,41.275253,Kışla Sokak 18,Palandöken,CDLA-Permissive-2.0,Overture|meta
+98c412a6-1d64-45a6-a3da-09b1ae0ea3b6,Şark-ı Şahane,CAFE,39.904507,41.276157,Taş Anbarlar Sokak 25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5bd0d4ed-16b0-4c79-8e11-c6b0b902ce3c,Nevale Nargile ve Cafe,CAFE,39.905273,41.276798,Memişağa Sk. No : 18,Palandöken,CDLA-Permissive-2.0,Overture|meta
+40b3b2c2-8a86-4a15-af81-1a4a042927aa,Nevale CAFE & NARGİLE,CAFE,39.905247,41.27668,Memiş Ağa Sokak 28,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bd4e7098-551a-4ab7-aa66-054053f9df43,Daşhane,RESTAURANT,39.905018,41.276363,"Aliravi Caddesi Taşambarlar, Sokak No:21 Merkez",Palandöken,CDLA-Permissive-2.0,Overture|meta
+c9d34730-6e38-4253-b6c3-db4dafeee727,Serdivan Cafe,CAFE,39.904861,41.276112,2. Mektep Sokak 20,Palandöken,CDLA-Permissive-2.0,Overture|meta
+dccecd6e-8a21-4e73-892e-4802a8d725cb,Korukçu Iş Merkezi,SHOPPING,39.906338,41.275249,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a727208f-3682-4677-80d7-5be2fdcc3981,Erzurum DEV semaver,CAFE,39.906445,41.275375,cumhuriyet caddesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3e285941-7a76-46f9-83fc-8cc2d638bbd1,Akmerkez,SHOPPING,39.906143,41.275997,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9d24d5de-0f8b-419b-ba6a-470bf7e82fa8,Erzurum Evleri Şahane,RESTAURANT,39.905525,41.2757,YÜZBAŞI SOKAK İBRAHİM PAŞA MAHALLESİ CUMHURİYET CADDESİ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0d8b605c-279a-4324-973c-9872a803717b,Emirgan Erzurum Tarihi Evleri,HOTEL,39.905556,41.275787,Menderes Caddesi 2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7ff79141-5b55-4466-adab-09c579473e1e,Şark-ı Şahane,CAFE,39.906063,41.276154,Taş Anbarlar Sokak 25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4ec01d51-cce0-40d5-a1ca-e100c4af1f34,Nene Hatun Tarihi Milli Parkı,SIGHT,39.906162,41.276737,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d1824d97-4ba1-41ee-bd90-3958af6ad0c8,Erzurum Cifte Minareli Medrese,SIGHT,39.906193,41.276867,Erzurum,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8fb0d506-59b0-40e2-899a-162dec49b88d,Kale Park,SIGHT,39.906712,41.276783,Cumhuriyet Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ac4fa6f4-b791-40e1-aa98-30f229bcb726,Erzurum Kale Park,SIGHT,39.906712,41.276783,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ce74d7a9-452b-4181-9108-b3f7ca8253df,Erzurum Şehir Arşivi,SIGHT,39.907238,41.276291,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ad89e17a-a756-4139-92d0-df158e34162c,Saat Kulesi Erzurum,SIGHT,39.906788,41.276409,"Ça-Pa Market, Taşmağazalar Caddesi 9",Palandöken,CDLA-Permissive-2.0,Overture|meta
+dcca011c-f468-4045-a149-cc675ace6fd2,"Tepsi Minare, Erzurum Saat Kulesi",SIGHT,39.907558,41.276543,"Kırklar Sk. No:10, 25030",Palandöken,CDLA-Permissive-2.0,Overture|meta
+92c1ad5d-3286-4dee-bc51-179ce7c48abd,Balbadem Dondurma,CAFE,39.906258,41.274734,Cumhuriyet Cd. No:54,Palandöken,CDLA-Permissive-2.0,Overture|meta
+282af69c-a773-438c-b8eb-a0e3c6d30e36,Kucukbey Mansion,RESTAURANT,39.90556,41.274952,İbrahim paşa sokak no16,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6e1d83d7-09ae-405a-8406-e92919faafe2,Burası Kahveci,CAFE,39.90551,41.274189,Yakutiye Belediyesi Yanı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e2eece8d-ccb9-4a80-99b0-cc30dcc2a051,Kahve Şehr-i,CAFE,39.905525,41.273655,"Kahve Şehr-i, 1. Saraçoğlu Sokak 5",Palandöken,CDLA-Permissive-2.0,Overture|meta
+488f5ff4-c7e0-40e3-9b24-68428021acf5,Salon Asya,CAFE,39.90617,41.273029,Cumhuriyet Caddesi 27,Palandöken,CDLA-Permissive-2.0,Overture|meta
+053a5b6f-ede0-4664-81ff-9fe10ac37624,Heaven Spa Palan Otel,HOTEL,39.90712,41.27346,Menderes Caddesi 21,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1a6af225-52ed-4ecd-a925-629a6ae9e757,Plantso Coffee Company,CAFE,39.906975,41.273266,Menderes Cd. 6a,Palandöken,CDLA-Permissive-2.0,Overture|meta
+befc98f3-ccbe-419d-a8f0-860a4c7f96ab,Palan Otel,HOTEL,39.906929,41.273884,Yunus Sokak 13,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f6f02a86-2d83-4c03-b988-48fbb51c914d,Agmiller Cag Kebap,RESTAURANT,39.907276,41.273666,Menderes Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6f4c95dc-6a62-4faf-bdf9-1bc2da53b9cd,Erzurum-Emirgan Cay Bahcesi,CAFE,39.9077,41.273663,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f60c5060-e283-4005-8b5e-88f069cd7e90,Emirgan Kafe,CAFE,39.907818,41.273792,Camiönü Sk. No:15,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fc772118-6f16-49b0-8f77-95aa604e7f0d,Müceldili Konağı,CAFE,39.907814,41.273857,Camiönü Sk. No:13,Palandöken,CDLA-Permissive-2.0,Overture|meta
+45304903-77fe-4bb7-8831-2e269ca08ef8,Kale Mescidi,SIGHT,39.907921,41.273857,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+abb6cc38-5bd4-4e5b-91d8-ce0107cbccfe,Emirseyh Kebap,RESTAURANT,39.907738,41.27359,Tebriz Kapı Cad.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1c8e3bc1-fb7e-4b58-896b-49142c73abe1,Babunec Kahvaltı Dünyası,RESTAURANT,39.909061,41.273018,İzzet Paşa Cd. No: 19/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c16f7c2f-5c3d-471a-97b4-86a487cc1b0c,Ye Gör Cağ Kebap,RESTAURANT,39.909252,41.273315,Menderes Cd. No:23,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b07e1134-784a-4d7d-88c8-9140478cf471,Taşhan Rüstempaşa Çarşısı,SIGHT,39.90876,41.273731,Adnan Menderes Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fb3128d0-db04-4c9e-afd6-f86205ee3908,Rüstem Paşa Kervansarayı,HOTEL,39.908886,41.273888,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2dae8a51-b78a-427f-a15e-055d54c06dfd,Bab-ı Muhabbet,CAFE,39.909397,41.274384,Ayazpaşa Cd. 28-12,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4bf9aee1-783a-4135-828d-110576d7d039,Berat Pansiyon,HOTEL,39.910172,41.273941,"Kazımkarabekirpaşa mahallesi, ikikapili sokak,Yakutiye 25100",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7a7f563b-3dd2-46e6-b2b0-1ded03cbe236,Grand Çatalkaya Hotel,HOTEL,39.910027,41.27396,Rüştüye Sk. No:3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ed40bf1b-396a-4c88-b974-33a96d4acf13,Müdavim Kahvaltı Köfte Künefe,CAFE,39.90995,41.273701,Menderes Cad Yakutiye,Palandöken,CDLA-Permissive-2.0,Overture|meta
+11950541-b563-42a6-83e8-1da5454e8453,Otel Asya,HOTEL,39.910004,41.273029,Ayazpaşa Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+74dc7301-e942-481e-b80d-df3c6b987bf9,uctepeleravm,SHOPPING,39.910286,41.273403,Menderes Caddesi 8,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c334684e-319c-4027-b8e4-800c4a02f631,Çağın meşhur cağ kebapcısı,RESTAURANT,39.910847,41.273312,Orhan Şerifsoy Caddesi,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+77fb12f7-1fb5-484d-a1e8-337f5ecb1a97,OLTU CAĞ KEBAP lokantasi,RESTAURANT,39.91135,41.273392,hacıbey cağ kebap & köfte,Palandöken,CDLA-Permissive-2.0,Overture|meta
+97715114-eb9b-44d0-a89c-f60b864e8358,Gelgör Cağ Kebap,RESTAURANT,39.911476,41.273323,"Mahallesi, Orhan Şerifsoy Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e05d6492-a850-4754-81eb-5569db3f7fad,İhmal Camii,SIGHT,39.912319,41.273315,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d83e3209-935e-47e8-a8e2-cd759f3daa46,Çağlayan Çay Evi,CAFE,39.912163,41.275028,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+51b86560-0717-44a5-8e80-b16f7c9098b3,Yeşil Artvin Otel,HOTEL,39.911339,41.274208,Kongre Caddesi 3,Palandöken,CDLA-Permissive-2.0,Overture|meta
+bd1b28e2-89fb-4b52-b03d-ffc229def2ed,Çınar Lokantası,RESTAURANT,39.910648,41.275452,2. Bedendi Sk. No:16,Palandöken,CDLA-Permissive-2.0,Overture|meta
+09bf3343-5e83-4694-9b07-606251c93210,Erzurum CİHAN APART,SIGHT,39.912498,41.275452,GÜRCÜ KAPI,Palandöken,CDLA-Permissive-2.0,Overture|meta
+9af422c0-66a4-41e8-a67c-419259848614,Osmanağa Yemek Salonu,RESTAURANT,39.912552,41.275604,Mollaoğlu Sk. No:1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b02d21cd-1e47-4961-8791-bcdf97a66eac,Dadaş Cağ Kebap,RESTAURANT,39.913078,41.275612,Kongre Cd. No:20,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a9901a71-1ba8-4521-9937-a8c3e8ee91df,Asrın Cağ Kebap,RESTAURANT,39.913136,41.275799,Kongre Cd. No:22,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6f6a1de4-a233-4a77-9b82-7df6bfe3ff4b,Oltu Cağ Kebab Salonu,RESTAURANT,39.91309,41.276207,"Erselimoğlu Gıda, Kongre Caddesi 1",Palandöken,CDLA-Permissive-2.0,Overture|meta
+7845b3c1-c8df-4476-8eaa-52ba328c74aa,Baysal Bayan Apart,HOTEL,39.910526,41.276932,Ceditler Caddesi 64,Palandöken,CDLA-Permissive-2.0,Overture|meta
+81221438-493a-41b8-8843-7ff40ca6f96c,Istanbul perde,CAFE,39.910229,41.275982,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6ebefd84-c4f2-414b-9a7f-6c0bbadbdc86,Çınar Otel,HOTEL,39.9104,41.275692,Ayazpaşa Cad. Bakırcılar Çarşısı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2b1fef29-baf4-4d26-8afc-e10c6e974f2f,Damla Perde Tasarım,SHOPPING,39.909859,41.275082,"1, Ayazpaşa Cd. 31/A, 25100 Yakutiye/Erzurum",Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+f2fde402-cb23-4e16-8ee1-69e89400224f,Arı Otel,HOTEL,39.909843,41.275192,Ayazpaşa Cd. No:22,Palandöken,CDLA-Permissive-2.0,Overture|meta
+55494345-a21e-4f95-bbc4-29194891dd53,Erzurum Kordon Kokoreç,RESTAURANT,39.908203,41.277847,"Kale cadde, Eski Bat Pazarı",Palandöken,CDLA-Permissive-2.0,Overture|meta
+76d7efbf-7ab7-48f1-875d-f0a53fc38d15,Atlas Otel,HOTEL,39.910469,41.278435,Tahtacılar Sk. no:21,Palandöken,CDLA-Permissive-2.0,Overture|meta
+99b7a472-a01e-496f-8f4c-0eb82db7018b,Kebapçı İsrafil Usta,RESTAURANT,39.910141,41.280457,Gülahmet caddesi Yegenağa İş Merkezi Karşısı No81,Palandöken,CDLA-Permissive-2.0,Overture|meta
+89b0a994-7999-444c-b1ce-64f2e57703cd,Ankara Bayan Apart,HOTEL,39.906334,41.279892,Yüzbaşı Sokak 1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+50b3bf95-7dc1-4ae4-9177-a2808e27d580,Emir Şeyh Çağ Kebap,RESTAURANT,39.905891,41.27927,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ce90eb91-fb8f-4c69-922c-6a73bb46dd1f,Kale'de Cafe Erzurum,CAFE,39.907093,41.278606,rabia ana mahallesi tebriz kapı caddesi 2.vakıf iş hanı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ca75a71d-2218-4a93-aae4-8a4978b8e0fa,Kadama Konak,RESTAURANT,39.904289,41.278854,Toprak Tabya Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5a795a9c-7ce0-49b6-b2cd-aeebffcce19c,Üç Kümbetler,SIGHT,39.904354,41.278378,"Kümbet Sokak,Sultanmelik Mh,",Palandöken,CDLA-Permissive-2.0,Overture|meta
+e1d2c1b0-b566-4251-ad75-01c596e9bb3a,Yavilioğlu Konağı,CAFE,39.904678,41.278267,Şerif Efendi Cd. No:156,Palandöken,CDLA-Permissive-2.0,Overture|meta
+7a668616-ef67-4922-b568-d0938cac1b83,Paşa Bey Konağı,SIGHT,39.90398,41.279255,Toprak Tabya Sk. No:14,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ede90eeb-a526-4ad1-bc73-3176554d1205,Emirşeyh Kebap,RESTAURANT,39.905136,41.279373,Şerif Efendi Cd. No:1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b9b8da4f-a54f-4c05-a758-1a0e1381712b,Emirşeyh Köftecisi,RESTAURANT,39.905289,41.279297,Tebriz kapı cad No:170,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f5106bcb-057d-4612-a596-c68293ab6bf8,Anadolu Su Boregi ve Manti,RESTAURANT,39.900795,41.279346,Leylak Sokak Recep Akdağ Bulvarı 18/A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+4e3193de-b06f-4135-ba23-151893840a34,Baklavacı Selami Usta,CAFE,39.898556,41.278057,"Rabia Ana, mah. Leyla SK. 25030 Yakutiye Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+ba2e5d45-fcf3-4679-9f9d-2e75ba799953,Çıtır Mekin Usta da,RESTAURANT,39.901875,41.278423,Yenişehir Caddesi 36A,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2b1eec83-4daf-4328-907d-db041f96cff9,Çat Baraj Gölü,SIGHT,39.902905,41.278084,Çat,Palandöken,CDLA-Permissive-2.0,Overture|meta
+70a84228-a009-4778-adc6-bcfb42b34499,Kaplanoğlu Market & inşaat,SHOPPING,39.902905,41.278084,PAZARYOLU,Palandöken,CDLA-Permissive-2.0,Overture|meta
+04a31a1e-c5fd-4d89-813e-068a10259996,Kardeşler,RESTAURANT,39.902237,41.278118,erzurum avm karşısı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d8fa8d03-5471-4db5-a90d-24759cfc0766,Temelli Kıraathanesi,CAFE,39.902412,41.275555,Mollakaya Sk. No:16,Palandöken,CDLA-Permissive-2.0,Overture|meta
+304970c0-41d5-4afc-97cc-9021dc5172e1,CMR ÇİĞ KÖFTE,RESTAURANT,39.902164,41.274834,Yeni mahalle,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+d814424b-66f7-4a4a-b93a-82a638f1ca9d,Ozlem Pastanesi,CAFE,39.901665,41.274807,"özlem pastanesi, Ali Ravi Cd.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+68a685f8-4e93-400c-8383-78d811a30e78,Liverpool Tea Hause,CAFE,39.901875,41.274353,Ali Ravi Sk. No:1/B,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2d5c0064-291e-4cd5-abc5-579d081f2d70,Paradise apart,HOTEL,39.901581,41.274506,Rabia ana mah aliravi cad no 27/1 Yoncalık otobüs durağı yanı eski TSK YURDU,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0e93feff-78c7-44e0-815a-02bedb0fd172,Yoncalık,SIGHT,39.901047,41.274937,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c480a9f4-91ad-40ba-befe-fb2b31a55bd3,Yaren Pastanesi,CAFE,39.900677,41.27499,Ali Ravi Cd. No:59,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d36d7641-8ca4-4bfa-aab6-e8da40759c56,Egitim fakultesi aliravi cad,CAFE,39.898922,41.275375,Aliravi Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+8a063837-723d-4d43-ad97-42ee49c3c876,Istanbul Cigkofte Yoncalik Subesi,RESTAURANT,39.898762,41.275127,muratpaşa mah. aliravi cd. k.k eğitim fakultesi karşısı bim market yanı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3baf53b8-8fef-45bb-a4f9-324398de8ebf,Nene Hatun Tarihi Milli Parkı,SIGHT,39.896236,41.274185,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b1ca344f-559c-44fd-acac-7376bd9cbaac,Maya Pastaneleri,CAFE,39.900845,41.281349,Prof. Dr. Recep Akdağ Cd Bina No : 24 /2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+baffa75a-ad43-4f9d-9ea2-ac5c0875f65e,Asmalı Konak Çay Evi,CAFE,39.89872,41.28495,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+764d1a85-c354-4301-894b-2964333da2d4,Obakent,SIGHT,39.908154,41.289879,Kars Kapı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+956a2b2f-482b-483e-a4f6-31ef3d398cec,Erzurum Bakkaliyesi,CAFE,39.905685,41.287773,Org. san böl.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3e18ff9e-8ceb-4bd6-bc70-fb537f35c8cd,Yeşil Yakutiye Konutları,SIGHT,39.904762,41.284988,Kars Kapı Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+aec2bc47-b52f-47bb-8f55-c3e1c8d3d557,Erzurum Mahalebasi,RESTAURANT,39.909389,41.285156,Mahallebaşı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+71ea9051-abac-4cdc-8c44-e89995b6c518,Erzurum Nurettin Topcu Erkek Ogrenci Yurdu,HOTEL,39.919441,41.284374,Aziziye,Palandöken,CDLA-Permissive-2.0,Overture|meta
+5529e563-65ed-446a-95f1-5f8ad0c9a338,Aziziye Tabyası,SIGHT,39.916225,41.296135,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+546b02b7-1948-4a04-a813-6b360cb3b978,Mecidiye Tabyası,SIGHT,39.916424,41.297066,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+02206c71-b7e7-4bb1-bf72-5734b4c9b6c1,Coşkun Güveç Dünyası,RESTAURANT,39.927666,41.283344,"Kurtuluş Mahallesi 6. Demirciler Sokak No:12, Halkbankası Arkası, Yakutiye",Palandöken,CDLA-Permissive-2.0,Overture|meta
+8a19754e-a2fc-4a86-9254-c7e45745a553,Kanatçı Namık,RESTAURANT,39.927876,41.283936,14. Sanayi Sokak 6F,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c9d04a45-c0ed-44a6-aa2f-e9ddd2f07426,Nenehatun Sofrasi,RESTAURANT,39.927071,41.283882,5. Demirciler Sk. No:5,Palandöken,CDLA-Permissive-2.0,Overture|meta
+69073378-4ea3-4270-a60a-57ab41170bb3,Subaşi Cağ Kebap,RESTAURANT,39.927094,41.283943,Endüstri Cd.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0c21f312-cd82-4743-bd78-2fbcf8f48b42,Erzurum Xanadu Snow White Hotel & Resort Luggage Room,HOTEL,39.930218,41.278545,Xanadu Snow White Hotel,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fdc34f4e-514c-4e8b-8168-8aa0a4375a83,Bagbası Tortum Erzurum,HOTEL,39.930477,41.273514,BağBaşı Köyü,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3f9a138f-265c-4bdc-8299-8ce15391d99e,Sultan Sekisi Çay Ocagı,CAFE,39.925274,41.274338,Şükrüpaşa mah.Çaykur cad Şehit mikail solak sokak zirve evler c blok alti Sultan sekisi Çay ocagı,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a3891c6a-3520-4618-a9bd-127718f8ba72,Hilton Mersin Hotel,HOTEL,39.924175,41.273251,Mersin Merkez,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f9299507-631f-4cca-8d53-e2b7ac05a4cc,Sefa Ekmek Fabrikasi,CAFE,39.925865,41.275772,Zuhal Sk.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6f2e46fc-e132-46c4-aee8-f1206ec19dc3,Aras Cay Evi,CAFE,39.923569,41.277718,2. Değirmi Sk. No:25,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d410be28-ba54-4a39-9dd8-b7d2b90b1242,TUGAY Gayrimenkul inşaat,HOTEL,39.926498,41.278004,Huzurlu Sokak 1,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f4e0bc0c-0e01-4136-ae15-9cd4d820c7f1,Kavak Konutlari,SIGHT,39.917561,41.281105,11. Gazanbar Sk. No:9,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f33be900-1416-4412-9fa0-cbddafd490d6,ŞEnyurt CaĞ Kebap,RESTAURANT,39.915394,41.279442,"Şenyurt cağ kebap, Kazım Karabekir paşa mahallesi, yunus kaya sokak No:15/A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+adb5f77b-20af-471f-af57-19295069fcd0,Koç Ekmek Fabrikasi,RESTAURANT,39.914387,41.278622,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fdef5ff5-daf6-4931-aef6-322a5c7f0ca4,Erzurum Gez Gor,RESTAURANT,39.913998,41.277374,Kongre Caddesi 10,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6852af87-1525-44c2-aaf6-30c5f07d0cac,Kongre Binası,SIGHT,39.91497,41.27737,"Erzurum Isı, 50. Yıl Caddesi 96/A",Palandöken,CDLA-Permissive-2.0,Overture|meta
+589ee358-00f6-436e-a480-33f3800511e1,Erzurum Resim Heykel Muzesi ve Galerisi,SIGHT,39.915085,41.277477,Kongre Cd. No:46,Palandöken,CDLA-Permissive-2.0,Overture|meta
+07188256-7ef0-4696-9a56-3891ec6d3d74,YİĞİT HoTeL,HOTEL,39.915253,41.27776,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+fea1a755-0cd7-4013-933b-c5c51419bfd7,Kongre Çay Evi,CAFE,39.915325,41.277702,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+166d5539-37b8-4cdf-95e0-4d6f48fca00b,Hotel Akgun,HOTEL,39.91523,41.278019,Evliya Çelebi Cd. No:45,Palandöken,CDLA-Permissive-2.0,Overture|meta
+31bc3d39-8857-477d-a95d-1329a826aea1,Candan Cağ Kebap,RESTAURANT,39.915531,41.277855,Kongre Cd. No:54,Palandöken,CDLA-Permissive-2.0,Overture|meta
+efe6ad20-8013-4f13-8fe7-91ae15763b44,Erzurum Kongre,SIGHT,39.914818,41.276867,Kongre Caddesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b4124e0b-4487-4264-905f-246c2e077de6,Koç Cağ Kebabı Salonu,RESTAURANT,39.913853,41.276993,"Kongre Cad, Nazik Çarşısı Daire: 8, Erzurum",Palandöken,CDLA-Permissive-2.0,Overture|meta
+46867f37-62ce-40bd-b97a-4d224a7c9e33,Gez Otel,HOTEL,39.913815,41.276588,Gez Çarşısı Sk. No:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+6a50adad-bb9e-4ef5-addf-4a56b7205ffa,Kırkpınar Kadayıf/ Erzurum Kadayıf Dolması,CAFE,39.913639,41.276386,"Şok Market Yanı, Kongre Cd. No:1",Palandöken,CDLA-Permissive-2.0,Overture|meta
+d76a1a59-0ccd-43c3-8320-f20d4d102a11,Kok Cag Kebap,RESTAURANT,39.913353,41.276199,Kongre Cd. No:29,Palandöken,CDLA-Permissive-2.0,Overture|meta
+40cc2e65-ec38-42b7-ade8-a4eb8a251fdc,Aksu Cağ Kebap,RESTAURANT,39.913483,41.275536,"Kazım Karabekir Paşa Mahallesi, Kongre Cd, Kilise Sk. No:5",Palandöken,CDLA-Permissive-2.0,Overture|meta
+c4b8fe73-073c-4333-9ba1-d9e5697a50ba,Barış Pınarı Köprüsü,SIGHT,39.918068,41.273079,Hal Caddesi 24,Palandöken,CDLA-Permissive-2.0,Overture|meta
+ffde5860-e977-4ef8-a6ff-f688293024b8,Bili Bili Tavuk Döner Erzurum,RESTAURANT,39.920059,41.27668,"Çaykara caddesi Atatürk evi önü,ata iş merkezi altı,yakut plaza arkası.",Palandöken,CDLA-Permissive-2.0,Overture|meta
+49ca2ca3-cafc-4d00-bd7c-96d7975c5e3a,İpek Otel,HOTEL,39.913773,41.272228,ERZURUM,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e0055c24-b058-4253-b8fb-3eaef49a546c,Ocak Çay Evi,CAFE,39.913563,41.27227,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+2b300ba4-f2c6-4148-b429-5e66d549d511,Kadayıfcı harun usta,RESTAURANT,39.913471,41.271008,Gürcü kapı mahallesi Orhan Şerifsoy caddesi Migros kavşağı ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f856508a-f020-4142-a17c-b2ad206f9fad,Çınar Cağ Kebap,RESTAURANT,39.914558,41.270027,"Yanı, İstasyon Cd. Migros MMM - Erzurum Şb. No:6",Palandöken,CDLA-Permissive-2.0,Overture|meta
+50a48dac-4162-477c-9f0c-c5394db3a691,Haydar Aliyev Parkı,SIGHT,39.92638,41.266487,Kemal Alyanak Blv. No:13,Palandöken,CDLA-Permissive-2.0,Overture|meta
+db3af518-bc61-473e-b91a-a39282651aee,Bulutlar Kaan Yagiz Siteleri,SIGHT,39.923908,41.266987,Dadaş Köyü Yolu Cd. No:59,Palandöken,CDLA-Permissive-2.0,Overture|meta
+865d8e2b-c3c6-4406-882f-64b13918a3b8,Erzurum Bayan Apart,HOTEL,39.923641,41.268921,Şükrüpaşa Şükrüpaşa mah. Prof.Dr. Halil İnalcık sk. Dış kapı no:2,Palandöken,CDLA-Permissive-2.0,Overture|meta
+386bbff9-6ab4-4dcf-b64b-8e385aab6611,Prodoryum,SHOPPING,39.928745,41.269718,Şükrüpaşa,Palandöken,CDLA-Permissive-2.0,Overture|meta
+cc459acf-0180-42e0-8337-b57c77235726,Oryum Yumurta,RESTAURANT,39.92968,41.271412,şükrüpaşa mahallesi şehzade sokak ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+50c579a4-2ed1-48d0-a43f-2ff3468532f8,Erzurum Resim Heykel Müzesi,SIGHT,39.944214,41.271767,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0cf00ea1-016c-4654-9505-310bd928cb4f,İtimat Züccaciye Showroom,SHOPPING,39.943367,41.28793,Tortum Yol Cad,Palandöken,CDLA-Permissive-2.0,Overture|meta
+293ba610-6723-42e8-88c0-d54af2a0b0b8,Yakutiye Konutlari A-k Mühendislik,HOTEL,39.945915,41.295326,Fabrika Yol Sok Yakutiye,Palandöken,CDLA-Permissive-2.0,Overture|meta
+1cfcc466-908d-44b0-931b-da2c55e023a2,Erzurum-Havaalanı Yolu,SIGHT,39.95887,41.291561,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+c52a854d-c3c0-43bb-8925-17440c5f4e3f,Livadi Pastanesi,RESTAURANT,39.955399,41.29427,Erzurum Cad.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+d35348dd-38f1-4c3c-8d1b-fda2015ebbc7,Pehlivan Hünkar CAFE,CAFE,39.946926,41.253632,ERZİNCANKAPI,Palandöken,CDLA-Permissive-2.0,Overture|meta
+58da0003-b3b3-4b55-9696-aa461f8cc280,Nene Hatun Tarihi Milli Parkı,SIGHT,39.949997,41.25,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+a32aadba-a7d7-42c6-a244-f2ad25a70e75,Erzurum Bim Depo,SHOPPING,39.959084,41.226212,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+87e9a835-58ba-4032-8c4a-ffe03ee4450d,Palandöken Tesisleri Erzurum,SIGHT,39.962212,41.207718,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+c4694fa9-10d5-489a-a508-401dbbfc4547,Tortum Şelaleleri,SIGHT,39.920238,41.225178,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+f8fddb26-ef26-401e-97b1-ae55fed29c9f,Doğu Anadolu Gözlemevi - DAG,SIGHT,39.893002,41.215572,Atatürk University Astrophysics Research and Application Centre (ATASAM),Palandöken,CDLA-Permissive-2.0,Overture|meta
+23fdb86b-d3cc-46f3-a3a3-4a5938cd9bf0,Çamlıca Konakları,SIGHT,39.894875,41.201191,Prof. Dr. İhsan Doğramacı Blv.,Palandöken,CDLA-Permissive-2.0,Overture|meta
+598f606e-4a91-4993-951f-e3d627bf4cbf,Bilali Habeşi cami Erzurum Aziziye,SIGHT,39.916595,41.20134,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+6a2b2cea-d10a-4426-94c0-c0db3b6884d7,Pizza Cafe,CAFE,39.919777,41.187141,Milli Egemenlik Caddesi 13,Aziziye,CDLA-Permissive-2.0,Overture|meta
+19f36ff7-0c13-4960-a727-25138cb246cc,Çiğköftem,RESTAURANT,39.919899,41.186607,saltuklu mahallesi milli eğemenlik caddesi başakkent yapı kooperatifi altı No:12,Aziziye,CDLA-Permissive-2.0,Overture|meta
+9237dc10-04f0-48db-9813-a6a667402e2c,Komagene,RESTAURANT,39.917393,41.18623,PROF. DR. NECMETTİN ERBAKAN BLV TARIKTAR SITELERI M BLOK NO: 28 B,Aziziye,CDLA-Permissive-2.0,Overture|meta
+413a2074-25cb-4c11-b863-263ecb3bfeaa,Ülkem İnternet Cafe,CAFE,39.918259,41.188316,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+d3fb92fd-58cc-46dc-ac84-a2a97faf1f21,Dadaşkent Çıtır Lahmacun,RESTAURANT,39.916515,41.189499,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+3a97a1b9-4be2-413c-95f6-393b5bee0767,Emirhan internet,CAFE,39.916195,41.189793,Milli Egemenlik Cd.,Aziziye,CDLA-Permissive-2.0,Overture|meta
+cd9754d1-e283-4bd3-83f7-130076aa7713,Alparslan Türkeş Parkı,SIGHT,39.914875,41.188469,"Abdülhamithan Mevki, Erzurum Merkez, Erzurum",Aziziye,CDLA-Permissive-2.0,Overture|meta
+0308b171-3e0c-4acd-b6e1-4c6ece592088,Divan Lokantası H.İ.G,RESTAURANT,39.914219,41.191486,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+02043fdd-9079-479e-9fe4-38fd31753a8f,Dede Korkut Parkı,SIGHT,39.917027,41.192116,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+835878d1-80ce-4b28-b948-d68492633da4,Arzen Park,RESTAURANT,39.922012,41.19318,Erzincan - Erzurum Yolu No:142,Aziziye,CDLA-Permissive-2.0,Overture|meta
+d477dc6e-d92c-461d-b9bd-c0ba5de265ad,Arzen Dondurma Ve Mangal Evi,CAFE,39.92215,41.193024,Yolu 6 Km,Aziziye,CDLA-Permissive-2.0,Overture|meta
+e5491c47-6dfb-4567-8831-a0f029b785df,Abdurrahmangazi Kız Yurdu,HOTEL,39.919239,41.193573,AbdurrahmanGazi Kız Yurdu,Aziziye,CDLA-Permissive-2.0,Overture|meta
+42c4befa-ed17-48b3-8455-2a4648092a66,Ciğer'im Ocakbaşı,RESTAURANT,39.912876,41.196548,Lalapaşa Mh. Cennet Çeşme Sokak,Aziziye,CDLA-Permissive-2.0,Overture|meta
+64f82e66-4d65-4c44-acc6-e6a2ec8e0374,Yediler Lokantası,RESTAURANT,39.909302,41.194626,"Tataroğlu apartman, Saltuklu, Kemal Alyanak Blv. altı",Aziziye,CDLA-Permissive-2.0,Overture|meta
+d47ed84e-7674-42c0-a3b3-8459aa880a62,Kebapçı kenan usta,RESTAURANT,39.909508,41.194572,Erzurum/dadaşkent,Aziziye,CDLA-Permissive-2.0,Overture|meta
+16f2ebad-1ba8-4268-a211-4a30bb45f4e4,vesile kebapçı,RESTAURANT,39.909878,41.194378,Prof. Dr. İhsan Doğramacı Blv.,Aziziye,CDLA-Permissive-2.0,Overture|meta
+ec8fcd75-2551-4110-9f65-7b74559cb773,Butik Evler Home•Hotel,HOTEL,39.906101,41.191959,Dadaskent ,Aziziye,CDLA-Permissive-2.0,Overture|meta
+7e52cae6-340c-4589-becb-4334d929ffc2,Balıkçı Esendal,RESTAURANT,39.905449,41.195679,Mareşal Fevzi Çakmak Cd. no:11/B,Aziziye,CDLA-Permissive-2.0,Overture|meta
+3f47163f-39af-445a-9650-373acd02c052,Erzurum çay evi,CAFE,39.907249,41.196274,Milli Egementlik Cd.,Aziziye,CDLA-Permissive-2.0,Overture|meta
+3e9546ef-0249-40d7-8064-ce50ba5bcbcc,Zigana ET Mangal-Erzurum- Güngör Usta,RESTAURANT,39.900135,41.195152,Erzurum\n,Aziziye,CDLA-Permissive-2.0,Overture|meta
+467b9acf-8544-4f88-9dfc-70341d0fb048,Kucukbey Konagı,CAFE,39.898991,41.193104,Erzurum,Aziziye,CDLA-Permissive-2.0,Overture|meta
+a80f78b2-9ae9-47df-81d0-059baf58857d,Dadaşkent Düzgün Market,SHOPPING,39.911224,41.189495,Saltuklu Mah,Aziziye,CDLA-Permissive-2.0,Overture|meta
+a1035334-6bca-42d5-87c5-062dde2b1d29,Güler Resort Hotel,HOTEL,39.910645,41.187344,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+49bbccac-ff63-4c11-931c-ae0a7db8fd07,Er Göktaş unlu mamülleri,CAFE,39.911362,41.186939,Öğütlü Sk. No:22,Aziziye,CDLA-Permissive-2.0,Overture|meta
+60620a05-5f5d-4465-a6f7-3cbeb402de72,Değirmen Aile Çay Bahçesi,CAFE,39.910973,41.185692,Saltuklu mah,Aziziye,CDLA-Permissive-2.0,Overture|meta
+26e2df08-3fa4-4e36-b44c-ab56a16e9854,İstedoy,RESTAURANT,39.910229,41.185753,Saltuklu Mahallesi,Aziziye,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3b5749b4-25d6-4c44-b5d1-95aa95df74be,BeeChefs,RESTAURANT,39.91,41.185204,LEVENT SOKAK,Aziziye,CDLA-Permissive-2.0,Overture|meta
+aeb0c3fe-6136-461d-a4d8-47e78b10ef3a,Zigana ET Mangal-Erzurum- Güngör Usta,RESTAURANT,39.89399,41.171524,Erzurum\n,Aziziye,CDLA-Permissive-2.0,Overture|meta
+af78daf1-7796-4b6d-a771-325b5fada068,Çizmelioglu Süt,RESTAURANT,39.930866,41.171104,3. Sanayi Cd. No:5,Aziziye,CDLA-Permissive-2.0,Overture|meta
+fdd7ca9b-4fc1-45e6-8028-64fef0908ad8,Karagöl Et Entegre Tesisleri,RESTAURANT,39.929554,41.168751,Organize Sanayi,Aziziye,CDLA-Permissive-2.0,Overture|meta
+b720e2ce-6bb6-4154-ac1f-535f08d24bf5,Polat Yapı Showroom,SHOPPING,39.934746,41.148041,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+d187b633-87a6-47cf-b86c-28d343cfc6ed,Modern Ekmek Fabrikası,CAFE,39.946854,41.110939,Dere Sk.,Aziziye,CDLA-Permissive-2.0,Overture|meta
+26cff27c-3b1a-4560-9136-d9a6effe987b,Gaziantep Bambu Baklava ve Kadayıf,CAFE,39.944576,41.110519,Saltuklu Mahallesi 9 Nolu Cadde Sefa Apartmanı Sitesi Altı No: D1 ( Haci Halis Hoca Camii Karşısı) ,Aziziye,CDLA-Permissive-2.0,Overture|meta
+6527f52f-1c18-4606-a348-62f8ef06e55b,Erzurum DadaŞ,CAFE,39.944576,41.110519,Erzurum dadaş merkez ,Aziziye,CDLA-Permissive-2.0,Overture|meta
+ca32eea0-7b56-4799-b3dc-7b46496029a7,Aziziye Konutları,SIGHT,39.947105,41.108238,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+f229f34e-4a6f-4f83-94a0-d5deb2f32658,Çermük,SIGHT,39.94611,41.104721,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+6f945e8e-e8e7-4452-82f5-894741659e7d,Keyf-i Yemen,CAFE,39.94698,41.107201,"Ilıca, osmangazi 2 sokak T1/9",Aziziye,CDLA-Permissive-2.0,Overture|meta
+400a14c8-44a7-49ec-8af4-37d7faf47027,Erzurum ılıca Termal otel,HOTEL,39.94619,41.105694,Aziziye,Aziziye,CDLA-Permissive-2.0,Overture|meta
+cf47a0a8-19a9-46b0-bee1-3630867ff74b,In The Garden Ilıca Thermal Resort Hotel,HOTEL,39.942936,41.108093,Aziziye Caddesi 71,Aziziye,CDLA-Permissive-2.0,Overture|meta
+1beb635a-3695-4394-9f48-825dc8cb2fb5,Arzen Dondurma & Sütlü Tatlılar,CAFE,39.943966,41.110165,E80 Karayolu 5.km (Dadaşkent),Aziziye,CDLA-Permissive-2.0,Overture|meta
+ec69fa0a-efa9-4f74-9165-ad2edb5f8809,Dürümland,RESTAURANT,39.943893,41.116096,Erzicankapı cad polarium arkası no 10,Aziziye,CDLA-Permissive-2.0,Overture|meta
+eb011e47-9ada-441e-930e-64b342b9b4d3,Nurettin Topcu Yurt Mudurlugu,HOTEL,39.929382,41.158928,"Gezköy, 3. Sanayi Cd. No:19/1-A",Aziziye,CDLA-Permissive-2.0,Overture|meta
+43c1d226-b55a-49f5-984c-6339068f98e2,Erzurum Oğuzhan Yaşar Erkek Öğrenci Yurdu,HOTEL,39.928841,41.160923,,Aziziye,CDLA-Permissive-2.0,Overture|meta
+d8572671-19e8-4e1c-8ead-8bfecdf1c38b,Konaklı Zigana Et Mangal,RESTAURANT,39.865932,41.21241,"Tuzcu, Küme Evler Cad No: 510",Palandöken,CDLA-Permissive-2.0,Overture|meta
+02da359e-4fdd-4ff3-a2d0-88ddd376c532,Besyıldız Petrol Zigana Et & Mangal,RESTAURANT,39.866158,41.212639,Çat Yolu Caddesi 32,Palandöken,CDLA-Permissive-2.0,Overture|meta
+b8e377fe-8039-41db-9a5c-f85fe3a1a5f7,Kazım Karabekir KYK Yurt,HOTEL,39.891499,41.229355,"Erzurum Thy, Orhan Şerifsoy Caddesi 20",Palandöken,CDLA-Permissive-2.0,Overture|meta
+a884d5d9-2e21-49b3-b491-124661a7a705,Tat-Bak Restaurant,RESTAURANT,39.87952,41.228451,Çat Yolu Caddesi,Palandöken,CDLA-Permissive-2.0,Overture|meta
+e82b129b-f56e-405c-aeec-bda6f44b40d1,Adanalı Hasan Kolcuğlu Restaurant,RESTAURANT,39.87812,41.2272,"Çat Yolu Caddesi (Erzurum-Bingöl Yolu), Erzurum",Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+20bc6cd8-5f93-467e-b320-ba41999852d6,Erzurum Golet Piknik Alani,SIGHT,39.792492,41.146793,,Palandöken,CDLA-Permissive-2.0,Overture|meta
+0fae0685-4c44-49e6-a9c1-6b4afee45e89,Desni Palandöken Su,CAFE,39.938889,41.364872,Nenehatun Köyü Hamamdere Akgöze Mevkii ,Palandöken,CDLA-Permissive-2.0,Overture|meta
+3418b68e-201d-4df1-98ec-3642e78953f4,Ak Özdemir,SHOPPING,39.970665,41.426655,Pasinler Yolu Üzeri 15 Km,Palandöken,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+7df1456d-a8e7-41d3-bc38-dfdb35eb259d,Tekman Öğretmenevi,HOTEL,39.645733,41.509232,Şehit Özgür Ocak Caddesi 16/15,Tekman,CDLA-Permissive-2.0,Overture|meta
+992efc63-9c18-456f-9097-46281057d0df,Çat Öğretmenevi,HOTEL,39.612888,40.97699,,Çat,CDLA-Permissive-2.0,Overture|meta
+dda4dba3-34a7-4e65-adb1-b3380fe84663,Arzashkun,SIGHT,39.199997,42.0,,Karaçoban,CDLA-Permissive-2.0,Overture|meta
+88153a87-aa74-488a-9112-bc8a9859eb92,Çağrı Apart Otel,SIGHT,39.357288,41.71516,,Hınıs,CDLA-Permissive-2.0,Overture|meta
+40f0cca1-501d-4cce-87d2-b5d7b865f565,Hanedan Otel,SIGHT,39.355686,41.706112,,Hınıs,CDLA-Permissive-2.0,Overture|meta
+b39d95ab-0644-49f2-bd4e-754b7d791e3e,Bahçe Restaurant,RESTAURANT,39.359016,41.699516,,Hınıs,CDLA-Permissive-2.0,Overture|meta
+2c5c4dd8-9be5-4cf3-88ec-74ff0ce69d70,Yildiz Saray Pastanesi,CAFE,39.358055,41.701111,,Hınıs,CDLA-Permissive-2.0,Overture|meta
+366b4302-0517-41b1-a184-dd1eba69cf8a,Urfalı Hasan Ustanın Yeri,RESTAURANT,39.357918,41.70097,Cumhuriyet Cd.,Hınıs,CDLA-Permissive-2.0,Overture|meta
+a94efb81-29a7-4039-ae24-65cdb58f5654,Saklı Bahçe,CAFE,39.362232,41.698345,Cumhuriyet Cd.,Hınıs,CDLA-Permissive-2.0,Overture|meta
+45dc10fd-d1f2-4604-a057-eff7297093ee,"Budaklı, Karaçoban",SIGHT,39.324409,42.027527,,Karaçoban,CDLA-Permissive-2.0,Overture|meta
+26f98cbe-9dfe-423b-84da-71e7b1418a9b,Karaçoban Alabalık Tesisi,RESTAURANT,39.353863,42.08456,"hacılar mah. binpınar cad, çevreyolu sok no:9",Karaçoban,CDLA-Permissive-2.0,Overture|meta
+7b9af5fc-f97d-4883-859c-9eb95ddbd371,By Class Cafe,CAFE,39.346325,42.097202,Belediye Cd.,Karaçoban,CDLA-Permissive-2.0,Overture|meta
+d96ba543-5436-4f76-88b0-b90092e233f0,Karayazi Köyceğiz Göleti,SIGHT,39.681763,42.190498,,Karayazı,CDLA-Permissive-2.0,Overture|meta
+0d03be30-1760-4bb3-ba26-46dcb016cdb5,Köycegiz Göleti,SIGHT,39.683468,42.190647,,Karayazı,CDLA-Permissive-2.0,Overture|meta
+36b8db13-8d87-467a-85f8-dfa5f7e91318,Karayazı Anter Yapı,SHOPPING,39.696888,42.136841,Erzurum Yolu Sok 3/C,Karayazı,CDLA-Permissive-2.0,Overture|meta
+35f18ecd-ec2a-46f3-9322-a95807e0ef3f,Karayazi Köyceğiz Göleti,SIGHT,39.702095,42.144608,,Karayazı,CDLA-Permissive-2.0,Overture|meta
+ad37f9c5-a0d7-4ca4-8162-6a7212d00a31,Pasinler Kalesinde,SIGHT,39.972412,41.664948,,Pasinler,CDLA-Permissive-2.0,Overture|meta
+13479ed3-ab38-45d3-916e-64be11757169,Patron Çağ Kebap,RESTAURANT,39.976963,41.667229,"Kethuda, Pasinler, Erzurum, Türkiye transit cad, E80, No:8",Pasinler,CDLA-Permissive-2.0,Overture|meta
+a8d45f9d-21ff-412e-9bb6-c1e876aaf8df,Hacı Rüştünün Yeri,CAFE,39.978172,41.676418,,Pasinler,CDLA-Permissive-2.0,Overture|meta
+db0f2503-a61f-47c0-bf23-fd3a3146a3e2,Kervan Lokantasi,RESTAURANT,39.977558,41.675301,Park Cd. No:79,Pasinler,CDLA-Permissive-2.0,Overture|meta
+28f1135f-cd86-42ca-86cf-642e113831c4,Dönerci Sabri Usta,RESTAURANT,39.977131,41.673161,,Pasinler,CDLA-Permissive-2.0,Overture|meta
+bd938d76-906a-4ea4-bc1c-6b95576640ee,Müdürün kahvesi,CAFE,39.977375,41.674343,terminal müdürün kahvesi,Pasinler,CDLA-Permissive-2.0,Overture|meta
+44409206-1cd1-466c-8138-464fa9718780,"Pasinler Şehzade Kafe, Kebap Evi, Mesire, Piknik Alanı",RESTAURANT,39.979733,41.691452,PasinLer MesLek Yüksek OkuLu ve KYK Kız Öğrenci Yurdu Yanı,Pasinler,CDLA-Permissive-2.0,Overture|meta
+e44fefb3-94d3-4cd4-a36e-54ee876459d9,Şifalı Banyolu Hotel,HOTEL,39.988163,41.719742,Kaplıcalar Mah,Pasinler,CDLA-Permissive-2.0,Overture|meta
+beb0aa82-3cdd-4d06-8fb5-7ea08f4ab2a3,Kale Otel,HOTEL,39.974358,41.683208,5. Sk.,Pasinler,CDLA-Permissive-2.0,Overture|meta
+39d31868-8c35-46f2-a723-ceeab8986c6f,Pasinler Termal,HOTEL,39.973698,41.682419,"Kaplıcalar Mahallesi Çermiktepe Mevki, 5. Sk., 25300 Pasinler/Erzurum",Pasinler,CDLA-Permissive-2.0,Overture|meta
+ea002e00-7c69-4955-b0a5-0728f7298d3d,Bp Mola Cafe,RESTAURANT,39.988972,41.757263,,Pasinler,CDLA-Permissive-2.0,Overture|meta
+0cb14615-7e1c-4531-ba4f-a08073deacce,Demirdöven Barajı,SIGHT,40.039597,41.7365,,Erzurum,CDLA-Permissive-2.0,Overture|meta
+ef2aaa3a-962e-456d-9c10-c86eefcdcb96,"Kızılören, Pasinler",SIGHT,40.077362,41.807098,,Erzurum,CDLA-Permissive-2.0,Overture|meta
+773a0f8e-ada0-4f2c-bb8d-30011fef2bd3,Horasan erzurum yolu,CAFE,40.008686,41.968643,Erzurum horasan,Narman,CDLA-Permissive-2.0,Overture|meta
+96356e0e-f18d-4834-abfd-4da7282b922b,Meşhur Haşlamacı Turhan Usta,RESTAURANT,39.964756,41.858166,,Köprüköy,CDLA-Permissive-2.0,Overture|meta
+a8c56355-3491-4646-b5b8-d91e47b11c23,Meşhur Haşlama & Çorba,RESTAURANT,39.964741,41.858158,,Köprüköy,CDLA-Permissive-2.0,Overture|meta
+48dd67c7-1169-442a-b9a9-267bb40ee0ca,Çobandede Bridge,SIGHT,39.970276,41.888332,,Köprüköy,CDLA-Permissive-2.0,Overture|meta
+8ec4fae6-d2df-4be8-bd4b-7a40801a41d3,Horasan erzurum yolu,CAFE,40.003357,41.954391,Erzurum horasan,Narman,CDLA-Permissive-2.0,Overture|meta
+d8878a2a-a156-4e00-be9a-ae7b98751d7b,Aydın Er Resort,HOTEL,40.031837,42.149757,,Horasan,CDLA-Permissive-2.0,Overture|meta
+0a528aa7-fadb-478e-8426-e60043b855c7,Hotel Grand Sahra Horasan,HOTEL,40.037361,42.164577,Adnan Menderes Mah. Erzurum Cad. No:91,Horasan,CDLA-Permissive-2.0,Overture|meta
+fbbbda07-f2d9-4216-a576-101767f370ec,Tat Eyvan Restorant,RESTAURANT,40.037296,42.17239,yeni kars,Horasan,CDLA-Permissive-2.0,Overture|meta
+a682947a-73b6-4587-9189-9f4bf1ecbdf9,Sedir Cafe,CAFE,40.03828,42.171146,Ağrı Cd.,Horasan,CDLA-Permissive-2.0,Overture|meta
+600781d1-370b-4329-9734-04910e951c8a,Komagene Etsiz Çiğ Köfte,RESTAURANT,40.03928,42.170166,Yavuz Selim Cd No: 25,Horasan,CDLA-Permissive-2.0,Overture|meta
+7850ff1f-402f-45eb-bde5-cd55ea26d0e6,Eyvan Döner Horasan,RESTAURANT,40.040005,42.169228,Horasan,Horasan,CDLA-Permissive-2.0,Overture|meta
+cbc05a4c-5495-472d-8625-f4b5d9fa96da,Aydıner Resort Otel,HOTEL,40.039799,42.169006,Erzurum Caddesi 1,Horasan,CDLA-Permissive-2.0,Overture|meta
+f4a31c46-d026-4219-ac08-6d01860056d7,AktaŞ ÇAy Evİ,CAFE,40.039791,42.168419,Erzurum ,Horasan,CDLA-Permissive-2.0,Overture|meta
+8cd34a93-9b00-4a0e-9083-2c190025f5c4,Mevlana Restorant,RESTAURANT,40.039795,42.168327,4 Yol,Horasan,CDLA-Permissive-2.0,Overture|meta
+60b3f910-c44f-477f-964f-e68b3c1f255a,Horasan çayanyurdu (Goma sımo),CAFE,40.039566,42.168564,,Horasan,CDLA-Permissive-2.0,Overture|meta
+32bb1947-84bf-4430-a40d-c5fd5fe310a4,Öz Çorbacı,RESTAURANT,40.039005,42.167763,3.Çıkmaz Sokak 4,Horasan,CDLA-Permissive-2.0,Overture|meta
+975f97f4-c1f2-46e2-8412-659cff500e48,Ķözz,RESTAURANT,40.040909,42.167583,RTE bulvarı,Horasan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b27ca4a6-e2d2-430e-8fcb-8265efc154b2,Ab-ı Hayat Cafe,CAFE,40.042397,42.16666,,Horasan,CDLA-Permissive-2.0,Overture|meta
+ab8cdffb-ecf7-4994-90ba-a25616bc3e78,Gel-tat Cağ Kebap Salonu,RESTAURANT,40.042824,42.165497,Kesat Sk.,Horasan,CDLA-Permissive-2.0,Overture|meta
+28cf9d91-a639-4cbe-9f38-e39669c867e6,Horasan soba sanayi,CAFE,40.042801,42.169521,Gazambar Sokak 3,Horasan,CDLA-Permissive-2.0,Overture|meta
+ea2c7276-faf4-4f86-8fa7-955f315176bf,Ornek Edo Doner,RESTAURANT,40.040165,42.169662,"EDO DÖNER LOKANTASI, YENI KARS CAD. DORTYOL MEVKİİ",Horasan,CDLA-Permissive-2.0,Overture|meta
+5902920d-d67b-41f3-aa5d-e7eafff792a5,Horasan Öğretmenevi,HOTEL,40.043163,42.172077,,Horasan,CDLA-Permissive-2.0,Overture|meta
+5a1259cf-8e14-4d9a-8fc0-42e2e647002c,Subay Gazinosu,RESTAURANT,40.040352,42.160275,Horasan Cad,Horasan,CDLA-Permissive-2.0,Overture|meta
+bdedb8dd-9116-4023-8dce-ffbed94209fa,"Ağıllı, Horasan",SIGHT,39.892811,42.404594,,Karayazı,CDLA-Permissive-2.0,Overture|meta
+d6ba73c7-e847-46ac-b466-ab1a5112f4b4,"Ağıllı, Horasan",SIGHT,39.894207,42.408329,,Karayazı,CDLA-Permissive-2.0,Overture|meta
+d9e53011-5bd8-4994-9658-4d041fb5ff3d,"Danişment, Horasan",SIGHT,40.047947,42.375927,,Horasan,CDLA-Permissive-2.0,Overture|meta
+0889e975-0975-466b-b088-71ff846a69ff,"Aşağıyayla, Narman",SIGHT,40.299999,41.799999,,Narman,CDLA-Permissive-2.0,Overture|meta
+32908422-3a59-4b23-8701-c0e92239c81e,Narman Peri Bacaları,SIGHT,40.299316,41.874489,Yoldere Mah,Narman,CDLA-Permissive-2.0,Overture|meta
+d72a7c25-e0a9-485b-a0f1-3c3974563478,Narman Peri Otel,HOTEL,40.344788,41.868717,,Narman,CDLA-Permissive-2.0,Overture|meta
+c709c043-8450-4bf1-b502-4366062ad9f5,Savcı Gökhan Koçak Kültür Parkı,SIGHT,40.343563,41.86937,,Narman,CDLA-Permissive-2.0,Overture|meta
+c046e239-4260-441d-8b81-99a63201f0c2,Değirman Aile Çay Bahçesi,CAFE,40.344597,41.872116,,Narman,CDLA-Permissive-2.0,Overture|meta
+4f73581b-46f1-4503-af74-c2a927967cb7,Kervansaray Pide Salonu,CAFE,40.346905,41.869968,"""KERVANSARAY PİDE, Cumhuriyet cad""",Narman,CDLA-Permissive-2.0,Overture|meta
+ee2a4a97-d593-4d36-bd7e-8751c0eed422,Candan Lokantasi,RESTAURANT,40.346848,41.869797,Cumhuriyet Caddesi 29A,Narman,CDLA-Permissive-2.0,Overture|meta
+846a98aa-a1c1-47f1-b7db-08c57910f5a9,Efsanededektör,RESTAURANT,40.346874,41.869881,Cumhuriyet Caddesi 25,Narman,CDLA-Permissive-2.0,Overture|meta
+ce570f97-aa73-4823-b7fc-8d2671aff526,narman,SIGHT,40.3475,41.869099,,Narman,CDLA-Permissive-2.0,Overture|meta
+b7378960-f5ce-4e36-84d1-cd9af8c5ee40,Narman Efnan Kafe,CAFE,40.347183,41.869492,Narman merkez eski tema yeri,Narman,CDLA-Permissive-2.0,Overture|meta
+aa75480e-ad53-49cb-b0de-feaf145374f0,Perili Köşk Cafe,CAFE,40.348244,41.868469,"türbesi yanı, Ethem baba Erzrumum",Narman,CDLA-Permissive-2.0,Overture|meta
+1de19ce2-33b7-4904-9b9f-d3b5d1748359,Gülperi hotel,HOTEL,40.358448,41.919559,Erzurum Ardahan Yolu,Narman,CDLA-Permissive-2.0,Overture|meta
+1de9ea2c-d9e9-477e-8452-5a45aac7426b,Kotan et mangal,RESTAURANT,40.457111,41.744827,Erzurum,Narman,CDLA-Permissive-2.0,Overture|meta
+6a6de385-5043-49c6-892d-a4e611013f84,Emin Alabalık Tesisleri,RESTAURANT,40.538025,41.630032,EMİN ALABALIK TESİSLERİ,Uzundere,CDLA-Permissive-2.0,Overture|meta
+b261bb46-c4c5-4a04-96b5-c9b35cfdb728,Erzurum Tortum Golü,SIGHT,40.630775,41.632114,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+2fd035df-e4c7-48ca-84b1-ec624bb0c760,Yarım Ada İskele Tesisleri,RESTAURANT,40.63578,41.632381,"""Artvin Yol Üzeri, Balıklı Köyc""",Uzundere,CDLA-Permissive-2.0,Overture|meta
+ad81a6cb-21d9-4921-96cb-825ef2fb2fe0,Yarım Ada İskele Tesisleri,RESTAURANT,40.635845,41.632889,"""Artvin Yol Üzeri, Balıklı Köyc""",Uzundere,CDLA-Permissive-2.0,Overture|meta
+9dd821d3-1145-487d-8f49-9b70eac54c87,Uzun Yaylalar Oltu Cağ Kebabı,RESTAURANT,40.567196,42.009632,,Şenkaya,CDLA-Permissive-2.0,Overture|meta
+a85ed7a9-56bf-4a7f-91fd-978088939422,Eras Park Oltu,SIGHT,40.570976,41.96505,Şendurak Caddesi 45,Oltu,CDLA-Permissive-2.0,Overture|meta
+0510e0b4-096d-4c31-8e2c-bbe1e84a0d38,Cücük Döner,RESTAURANT,40.543797,41.985825,Hastane Cd. No:85,Oltu,CDLA-Permissive-2.0,Overture|meta
+40617599-abe0-41ff-85fa-acfc74e41176,Cadde Coffee Bistro,CAFE,40.541889,41.983639,Cami Sk. No:25,Oltu,CDLA-Permissive-2.0,Overture|meta
+ca9ae11b-24c8-4d6f-b25b-eddfb656b301,Oltu O Ses Çiğ Köfte,RESTAURANT,40.54063,41.98597,Yasin Haşimoğlu Mah. Cadde Cafe yukarısı Karayolları Müdürlüğü karşısı,Oltu,CDLA-Permissive-2.0,Overture|meta
+ed86cb16-ae91-45a9-a1cd-80f15cc05696,Yaşam Park Alışveriş Merkezi,SHOPPING,40.543079,41.987957,Cumhuriyet Blv. No:222,Oltu,CDLA-Permissive-2.0,Overture|meta
+5716c579-b562-422e-9637-f0ca4f564c85,Coffee Time Oltu,CAFE,40.542915,41.988029,,Oltu,CDLA-Permissive-2.0,Overture|meta
+ba0aad5e-319a-40d7-a3cc-4a7b7e32ce2b,Masiva Pasta Borek Ve Mantı Evi,CAFE,40.541958,41.990631,Yürüğüş Yol Karşısı,Oltu,CDLA-Permissive-2.0,Overture|meta
+ec1ec0ae-690c-47e7-9172-0af84eb7c415,Oltu Kalepark,RESTAURANT,40.543713,41.993305,,Oltu,CDLA-Permissive-2.0,Overture|meta
+55e92520-51bf-4413-a1c2-c7f9f2148770,Oltu Kalesi Yakınlarında,SIGHT,40.543774,41.992905,,Oltu,CDLA-Permissive-2.0,Overture|meta
+62fc75ac-7f24-4173-90ee-56fc147fdec5,Mavi köşe pastanesi,CAFE,40.54414,41.994415,Merkez Sk.,Oltu,CDLA-Permissive-2.0,Overture|meta
+19f8b886-7a67-4562-833b-dbb7f85ae563,Oltulu Hacıbaba Cağ Kebap Salonu,RESTAURANT,40.546101,41.9958,"Subatuk Mahallesi, Subatuk Kümeevleri, No:20/1",Oltu,CDLA-Permissive-2.0,Overture|meta
+3b497faa-cd08-4837-b7df-175246b0a5a4,Kardeşler Döner Salonu,RESTAURANT,40.545895,41.99498,Cumhuriyet Blv. No:96,Oltu,CDLA-Permissive-2.0,Overture|meta
+606d05d9-a5d8-4e35-a04f-da5be88478d0,Canbaba Neşet,RESTAURANT,40.545895,41.994766,Cumhuriyet Blv.,Oltu,CDLA-Permissive-2.0,Overture|meta
+7e22a435-b69d-4705-a1ed-8abd03671b4b,Dayı Kürek Lahmacun,RESTAURANT,40.544979,41.995232,"Aslan Paşa Mh. Ataturk Cd. Demir İş Merkezi No 18/16, Oltulu Sk.",Oltu,CDLA-Permissive-2.0,Overture|meta
+398226e1-a918-429d-b820-fc3b98506a3a,Sofra tavuk döner,RESTAURANT,40.545643,41.993778,Cumhuriyet Blv. No:122,Oltu,CDLA-Permissive-2.0,Overture|meta
+e7775c91-3d5c-4dcb-ad69-2c6000754c22,Oltum Nefis Cağ Döner,RESTAURANT,40.545223,41.992325,Hastane Cd. No:9,Oltu,CDLA-Permissive-2.0,Overture|meta
+caab12ce-cf22-476e-86ce-695de0b59a57,Palandoken cag kebap salonu,RESTAURANT,40.545357,41.992687,Hastane Cd. No:1,Oltu,CDLA-Permissive-2.0,Overture|meta
+36cbc9bf-fe87-46c1-82da-9c014ed8b7a3,Közz chicken oltu,RESTAURANT,40.544659,41.991745,"cumhuriyet Caddesi, Cumhuriyet Blv. No:15",Oltu,CDLA-Permissive-2.0,Overture|meta
+8a8f0995-1ee0-40ef-9abf-625e5ebad7fa,Oltu Ýürüyüş Yolu,SIGHT,40.544308,41.992085,,Oltu,CDLA-Permissive-2.0,Overture|meta
+9c894eea-31c9-4306-bff4-cee80d53a0b4,Oltu Aile Çay Bahçesi,SIGHT,40.544334,41.992085,,Oltu,CDLA-Permissive-2.0,Overture|meta
+5b8e6194-0304-4083-a10b-bc5a997cc632,Nene Hatun Unlu Mamüller Ve Kahvaltı Salonu,CAFE,40.544262,41.990982,Cumhuriyet Bulvarı 25 Mart Gençlik Park Karşısı,Oltu,CDLA-Permissive-2.0,Overture|meta
+e0e8e08f-fafc-4c9a-95a7-0f7fc379bf15,Bi'Lokmalık,CAFE,40.543831,41.988945,"Hastane Cd. No:49, 25400",Oltu,CDLA-Permissive-2.0,Overture|meta
+edd6c42a-a68a-4761-b202-28b9dd03955f,Eymen Luxury Resort,HOTEL,40.546349,41.993103,Şehitler Mahallesi. Osman Ayyıldız Caddesi.,Oltu,CDLA-Permissive-2.0,Overture|meta
+7c29ed37-5877-42a0-b3b2-d3f0a5dc7c9e,Onnumara Çiğ Köfte,RESTAURANT,40.547596,41.994373,Şendurak Cd. No:31,Oltu,CDLA-Permissive-2.0,Overture|meta
+3696f7c5-3986-4a1a-94ea-557e7f29cfba,Canpolat Çayevi,CAFE,40.54697,41.99828,"NO:, Oltu Sk.",Oltu,CDLA-Permissive-2.0,Overture|meta
+ac48ce49-c7b4-4bec-b1f2-37b5c0b65952,Erzurum Oltu Uzun Oluk,SIGHT,40.549873,41.992382,,Oltu,CDLA-Permissive-2.0,Overture|meta
+83fce1bc-3580-4af9-a83b-c39ca92769c4,Masal park oltu,SIGHT,40.5453,42.004253,Aslanpaşa mahallesi,Şenkaya,CDLA-Permissive-2.0,Overture|meta
+50744f29-ed66-442c-98b5-c45d762e032b,Asina Et Mangal Evi,RESTAURANT,40.5401,41.988388,Narman Cd,Oltu,CDLA-Permissive-2.0,Overture|meta
+e602e625-fcda-42c7-a466-40c0c755d33e,Gastro Cafe Oltu,CAFE,40.540123,41.974758,Cumhuriyet Blv. No:201 D:A,Oltu,CDLA-Permissive-2.0,Overture|meta
+e94ef287-7d01-448b-a8b0-40192a91ea08,Oltu Sarıkaya Sosyal Tesis ve Aile Çay bahçesi ,RESTAURANT,40.523048,41.97155,NARMAN YOLU ÜZERİ OLTU ÇIKIŞI ,Oltu,CDLA-Permissive-2.0,Overture|meta
+177dbd4d-64fb-4a0d-b842-048bd15e0c9a,İncenin yeri kuzu cağ kebabı,RESTAURANT,40.536125,41.96011,erzurum oltu yolu üzeri sarısaz koyü,Oltu,CDLA-Permissive-2.0,Overture|meta
+54df8a26-61fa-4158-bc9e-8c951cffa106,İncenin Yeri Kuzu Çağ Kebap,RESTAURANT,40.533176,41.941509,,Oltu,CDLA-Permissive-2.0,Overture|meta
+dbddc496-f595-4584-a4b0-bc24742f5032,Çakırbaba Şehitler Anıtı,SIGHT,40.385105,42.349312,,Horasan,CDLA-Permissive-2.0,Overture|meta
+2ce70bf3-4e7b-4989-a23f-3cdb2cbff730,Erzurum Narman Güllüdağ köy,SIGHT,40.376854,42.141365,,Horasan,CDLA-Permissive-2.0,Overture|meta
+60ac2e00-cf20-48c7-b010-fab13bdc250f,Handere,SIGHT,40.273335,42.48175,Kars Sarıkamış Handere Köyü,Horasan,CDLA-Permissive-2.0,Overture|meta
+8cba20a5-af29-4b51-a6d9-50853d57f065,"Köprülü, Ardahan",SIGHT,40.888676,42.465286,,Olur,CDLA-Permissive-2.0,Overture|meta
+6f4a23c0-04f3-491f-a592-5fdfd082130b,"Köprülü, Ardahan",SIGHT,40.883327,42.466663,,Olur,CDLA-Permissive-2.0,Overture|meta
+19e94cf6-fdaf-450d-8a62-cdd6d2021554,"Köprülü, Göle",SIGHT,40.883327,42.466663,,Olur,CDLA-Permissive-2.0,Overture|meta
+5de49bdd-129e-4ff1-9cb2-4d7724335610,pertuvan(beykaynak),HOTEL,40.774185,42.276928,,Olur,CDLA-Permissive-2.0,Overture|meta
+87b4aa2f-bad4-4585-84fe-a31746b4aa17,Örnek Çağ Kebabı,RESTAURANT,40.649082,42.349037,,Şenkaya,CDLA-Permissive-2.0,Overture|meta
+f782f2fd-cb32-4e62-be1b-3dc3ebbede94,Kosor cağ kebap,RESTAURANT,40.649055,42.348877,Erzurum Ardahan Yolu,Şenkaya,CDLA-Permissive-2.0,Overture|meta
+04a5ff50-8d71-4580-91dd-356a9f80c8e4,Söğüt pasta cafe,CAFE,40.648857,42.348373,,Şenkaya,CDLA-Permissive-2.0,Overture|meta
+eb88f6cd-3cb4-4cc4-b5d8-2d7163ee899a,Bayer Inşaat,CAFE,40.649372,42.350571,göle caddesi,Şenkaya,CDLA-Permissive-2.0,Overture|meta
+c5851061-55f8-4945-bbe0-490048556298,Olur Cağ Kebap Restaurant,RESTAURANT,40.826859,42.13308,Cumhuriyet Cad,Olur,CDLA-Permissive-2.0,Overture|meta
+213d1f39-bc2a-4dd2-8acd-255946f85a59,Olur Merkez Lokantası,RESTAURANT,40.82687,42.133133,Cumhuriyet Cad. Merkez Cami Karşısı/OLur,Olur,CDLA-Permissive-2.0,Overture|meta
+edd42175-4d0c-470e-a276-67ab0ab5c186,"Ayvalı, Oltu",SIGHT,40.750233,41.876713,,Oltu,CDLA-Permissive-2.0,Overture|meta
+8ab11619-8284-4ce7-95ae-1ec7068d3032,Ulubağ Restaurant,RESTAURANT,40.657623,41.664276,Çağlayanlı Köyü Yolu,Uzundere,CDLA-Permissive-2.0,Overture|meta
+6b2acc12-8878-4923-955e-e05f58ecaac6,Tortum Waterfall,SIGHT,40.657467,41.658745,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+901c235a-6894-4586-b042-c3a5e523c2a0,Tortum Dam,SIGHT,40.656654,41.658756,Erzurum,Uzundere,CDLA-Permissive-2.0,Overture|meta
+5db332b2-7ae7-445c-a6e1-b0389afa520d,ÇEPİK CAFE,CAFE,40.654537,41.659016,balıklı mahallesi teyin sokak Uzundere/ERZURUM,Uzundere,CDLA-Permissive-2.0,Overture|meta
+e00e5dd6-5517-480e-8cc3-b264a9d7c6ad,Tortum gölü Uzundere,SIGHT,40.655849,41.65929,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+4cb1970b-9662-4201-97e9-c742793040be,Şirince Tesisleri Oba Restorant,RESTAURANT,40.65583,41.659439,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+e39e3703-b3ec-41af-952b-ffc345ab6c27,"Balıklı, Uzundere",SIGHT,40.644169,41.631302,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+d3611364-3fe3-4af2-8179-c1e16ecea11a,Tortum Şelalesi,SIGHT,40.660767,41.668587,Artvin - Erzurum Yolu,Uzundere,CDLA-Permissive-2.0,Overture|meta
+08863fc2-2d5d-40b1-b17b-7b6684b325f2,Tortum Golü İskele Et Balık Ve Camping Alanı,SIGHT,40.670635,41.666111,Tortum Gölü Uzundere,Uzundere,CDLA-Permissive-2.0,Overture|meta
+e1b8f62f-723e-4ea2-8f1f-8bb62d8cf751,Yedigöller,SIGHT,40.670635,41.666538,,Uzundere,CDLA-Permissive-2.0,Overture|meta
+a1ed50b6-2f37-4573-82d6-64a9e84cd85c,Yedigöller Balik Restorant,RESTAURANT,40.670616,41.666451,,Uzundere,CDLA-Permissive-2.0,Overture|meta

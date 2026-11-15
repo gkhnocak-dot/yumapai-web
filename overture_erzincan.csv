@@ -1,0 +1,396 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets
+137d46e9-a95d-4f17-92a2-66b3604bfbf5,Semaverci BABA,CAFE,39.926243,38.524391,Semaverci Baba,Refahiye,CDLA-Permissive-2.0,Overture|meta
+e61f973a-2854-4da9-8d8d-2ff477ab501b,Kırkbulak Yaylası,SIGHT,39.826111,38.904999,Erzincan Kırkbulak Köyü,Refahiye,CDLA-Permissive-2.0,Overture|meta
+c6848345-2703-47df-a5d6-7d93848e8a5c,Erzincan Refahiye Dadaslar Dinlenme Tesisi,RESTAURANT,39.902451,38.896473,Çevre Yolu,Refahiye,CDLA-Permissive-2.0,Overture|meta
+d76d32f8-c2b7-4f22-8b30-12f1ec791b7c,Dadaş Dinlenme Tesisleri,SIGHT,39.902241,38.89645,Sivas Erzincan Yolu,Refahiye,CDLA-Permissive-2.0,Overture|meta
+36e2eaac-114a-4033-b189-532aa63e3ffb,Aişem Cafe Resaurant,CAFE,39.905155,38.772797,,Refahiye,CDLA-Permissive-2.0,Overture|meta
+c20d8972-82cf-453c-96a6-c6fdc30f8c05,Esadaş Konaklama Tesisleri,RESTAURANT,39.910019,38.770691,,Refahiye,CDLA-Permissive-2.0,Overture|meta
+c1e1ead6-723b-40fe-aadf-822de5546643,Refaiye Esadas Dinlenme T,HOTEL,39.910313,38.771,,Refahiye,CDLA-Permissive-2.0,Overture|meta
+dac86dd1-9947-41a4-b76a-d6807ea46e4e,Refahiye Ogretmenevi,HOTEL,39.90221,38.76754,Binali Yıldırım Cd. No:33/1,Refahiye,CDLA-Permissive-2.0,Overture|meta
+97a5f68b-ac62-425d-ac13-d420d5e78775,Erzincan Kemaliye,SIGHT,39.90123,38.767769,Kemaliye,Refahiye,CDLA-Permissive-2.0,Overture|meta
+35c9659a-faa8-4d9a-9f22-f525dd1e9ac8,Altun Otel,HOTEL,39.901363,38.767994,"""Erzincan Cad, No: 54""",Refahiye,CDLA-Permissive-2.0,Overture|meta
+a7658bfd-38bb-4a61-a62f-d952ec29a1cc,Kuşoğlu Restaurant,RESTAURANT,39.901157,38.768047,Binali Yıldırım Cd. No:32,Refahiye,CDLA-Permissive-2.0,Overture|meta
+c1011776-bcab-4ea4-be6a-2e5b80b821a1,Koç Dinlenme Tesisi,RESTAURANT,39.899849,38.767727,erzincan refahiye e-80 karayol üzeri,Refahiye,CDLA-Permissive-2.0,Overture|meta
+fb07cf3a-a464-496d-809b-9bff52fc91ce,"Yaşar USTA ET DÖNER , KAVURMA , BEĞENMEDİĞİNİZ YEMEK OLURSA MUTLAKA DEĞİŞTİRELİM",RESTAURANT,39.89996,38.768112,Binali Yıldırım Cd. No : 4/B,Refahiye,CDLA-Permissive-2.0,Overture|meta
+669f5782-3923-4646-b8d6-a17379cf06cb,Ustaoglu Restaurant,RESTAURANT,39.900837,38.768059,Binali Yıldırım Cd. 26a,Refahiye,CDLA-Permissive-2.0,Overture|meta
+83633445-14ba-4b26-863d-6a93f19f984d,Balkaya Şelalesi,SIGHT,39.972919,39.473858,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+97c77591-184d-43a2-a75e-ce858ee8ea11,Varlı Balık Çiftliği,RESTAURANT,39.97403,39.342194,Çimenli Köyü,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4fabd888-3294-4cfe-8e6e-386ce6712a1d,Karaşahin Alabalık,RESTAURANT,39.973969,39.341446,no :103,Erzincan,CDLA-Permissive-2.0,Overture|meta
+9a72c4d8-9696-4ede-860a-82a129bd474e,Sakaltutan Alabalik Cengizin Yeri,RESTAURANT,39.884029,39.195118,Sivas karayolu üzerinde,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2ddb52cf-7ab8-4000-b882-5426d70fe1f5,Sakaltutan Et Mangal,RESTAURANT,39.88427,39.20129,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f43b583b-5bf4-4411-82dc-d7bf08b4b7ad,Tazelim Süt Ürünleri Tesisleri Kemah/Erzincan,RESTAURANT,39.628799,39.029793,Erzincan Kemah,Kemah,CDLA-Permissive-2.0,Overture|meta
+a6d31093-e1d4-41f2-aab1-2af970d955f5,Erzincan Baraj Gölü,SIGHT,39.832264,39.343922,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+89601e81-5948-4659-b8c4-07acbc25933d,Erzincan Baraji,SIGHT,39.806015,39.292233,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6561776b-c881-40ba-bbd5-996903d164e8,Erzincan Baraji,SIGHT,39.803997,39.292797,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+417b5dc6-fddb-45a4-910f-e2a7b95342f9,Bahaş Otel,HOTEL,39.804863,39.377037,Yalnızbağ Kampüsü,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4008981a-de14-4068-a8a0-745334951964,Rowan Arwen Cafe,CAFE,39.805359,39.377357,Erzincan Üniversitesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+86418dcc-918c-45eb-95d1-793f0de5b687,Erzincan Kemah Kalesi,SIGHT,39.792461,39.388344,kemah ilceso,Erzincan,CDLA-Permissive-2.0,Overture|meta
+320a4804-1e7b-461f-b336-68ebc6e5e954,Erzincan Işıkpınar,RESTAURANT,39.792065,39.469971,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6313e495-371e-4655-b7d6-a1d922327207,Pembe Köşk Restoran,RESTAURANT,39.793011,39.470261,Işıkpınar Köyü,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1feda2df-c73c-45f1-8eda-a55df890cd75,Akdeniz Tantuni Cemal Usta,RESTAURANT,39.758987,39.491138,"yeni 95 A eski mit kavşağı altı, Ordu Cd.",Erzincan,CDLA-Permissive-2.0,Overture|meta
+3ba441d8-42da-4f21-b76b-e3d5b0bb6a34,Erzincan Aslanli Mah,SIGHT,39.757885,39.485214,225. Sokak,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e02e1b79-e294-40f8-95c6-f63859e18fd5,erzincan barajı,SIGHT,39.755493,39.486549,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2a979a3e-198e-4bdb-a953-12760e5d8525,Coşarlar Market - Alış Veriş Merkezi,SHOPPING,39.758904,39.483112,219. Sokak 20/1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5e243ef2-64ea-4ba7-962a-c37c495c19d5,Kantin Toptan Gıda,RESTAURANT,39.754898,39.476925,6. Sokak 31,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a2fe4881-c0b7-438f-948c-f8869838253f,Garden Park 69/1,SIGHT,39.749607,39.473534,69. Sk. No:1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e8985e70-4e07-4924-9e02-2967dc878c5a,Mehtap Muzikhol,RESTAURANT,39.74828,39.474812,Atatürk Parkı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+61d20f17-cbb8-4202-b0e1-348c070ca65d,Romm Coffee,CAFE,39.747402,39.473534,Halitpaşa Caddesi 119,Erzincan,CDLA-Permissive-2.0,Overture|meta
+030bbaa0-b514-463a-9fd9-4f4bbdc441a5,Tat Göreme Çağ Kebap,RESTAURANT,39.747547,39.474701,Fevzi Paşa Caddesi No:115,Erzincan,CDLA-Permissive-2.0,Overture|meta
+252436b2-b7bc-4334-85a0-6a1e9bf36f3e,Çınaraltı Sosyal Tesisleri & Aile Çay Bahçesi,CAFE,39.74815,39.474716,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ccd9d7e7-30ea-49c2-827d-284bc8002555,Atatürk Parkı,SIGHT,39.748001,39.474998,69. Sk. No:4,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b038e6ba-e187-42b6-8c6a-a285e7f54fa5,Kasapoğlu Cağ Kebap Erzincan,RESTAURANT,39.747532,39.474762,Halit Paşa Cad,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e553a015-4e44-4ab9-bc57-37af8f3856b0,İliç Neva Otel,HOTEL,39.746761,39.479046,Hükümet Caddesi 23A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+493069c4-abd7-4550-88ce-425fd284cf70,Meva Hotel,HOTEL,39.7472,39.477722,"Halitpaşa, 1271. Sokak, Belediye Sarayı, Karşısı No:1",Erzincan,CDLA-Permissive-2.0,Overture|meta
+eed29427-d48b-4a50-a9b8-e78b8060f729,Erzincan Kök Cağ Kebap,RESTAURANT,39.747299,39.4781,Halitpaşa Caddesi 83,Erzincan,CDLA-Permissive-2.0,Overture|meta
+622afcb9-dc16-4355-8fa9-c093871e1a98,Közz Cağ Kebap,RESTAURANT,39.747272,39.478184,"Halitpaşa Mahallesi Merkez, Halit Paşa Cd. No:83",Erzincan,CDLA-Permissive-2.0,Overture|meta
+cbbb9e89-d5f8-47b2-92ed-8609a9d3c50b,Özsüt Erzincan,CAFE,39.747349,39.478863,Fevzi Paşa Cd. No:70,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f3627abe-b551-4073-857f-c8ebe5624a44,Kahvehan,CAFE,39.747242,39.479034,Halitpaşa Mahallesi,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+dabd5f2d-27d4-42d9-82cb-2f63b52e525a,Liman Cafe Bistro,CAFE,39.747131,39.47982,Halitpaşa Caddesi,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+4f32c9db-cde9-4fca-83b7-057fc3133b4e,Erzade Kebap & Corba,RESTAURANT,39.747166,39.480461,Zeki Paşa Caddesi 63/a,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dcdb66f7-d857-439c-8842-34ee2fc5a6cf,Çağlayan Şelalesi,SIGHT,39.747643,39.480068,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2b71bc0f-f599-4e5a-a838-98f779757b8f,Bal_et,RESTAURANT,39.748119,39.482239,Kemah Yolu 1. Cadde 11,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4fdea847-b171-4e40-b620-f46bf17d9290,Kebapistan,RESTAURANT,39.748119,39.482239,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5d3955c1-1651-4b0d-8ec6-b525fc3ce886,Abonun Kahvesi,CAFE,39.745323,39.482727,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4c18c765-abd2-409f-9309-10c1c3f307e0,Simay Restaurant,RESTAURANT,39.74696,39.482296,Fevzi Paşa Cd. Grand Simay Hotel No:53,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d73b2e5a-c586-4452-beeb-11276e769f7c,Erzincan Umut Otel,HOTEL,39.747227,39.484711,Halit Paşa Cd. No:42,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4536f322-6e02-4958-8317-817ea89bd53c,Umut Pansiyon,HOTEL,39.74728,39.484741,Halit Paşa Cad,Erzincan,CDLA-Permissive-2.0,Overture|meta
+759a6b26-6d4c-40bc-9f4e-53baa49c2a3e,Mefido Dondurma,CAFE,39.747246,39.486004,Halit Paşa Cd. No:30 D:C,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8a2ffc55-46ca-40af-a9d8-b6cf6729a680,Özel Merkez Kız Yurdu,HOTEL,39.747189,39.486526,İzzet Paşa Caddesi 42,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dd558550-7486-467f-bf24-eded012a2081,Konak Mazlum Restaurant,RESTAURANT,39.747387,39.483459,Halitpaşa Caddesi 51,Erzincan,CDLA-Permissive-2.0,Overture|meta
+09b141c4-007d-4004-bc99-5ff78ded54f7,Acıbadem Fırın Kafe,CAFE,39.747391,39.483494,Halit Paşa Cd. NO:52,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a8000d66-bf80-463c-8926-ac14895fe6e0,Grand Simay Hotel,HOTEL,39.747021,39.48233,"Halitpaşa Mahallesi No: 53, Fevzi Paşa Cd. Grand Simay Hotel No:53",Erzincan,CDLA-Permissive-2.0,Overture|meta
+f52c941f-aa59-412e-a6ac-8547f7444245,Mantar Pizza,RESTAURANT,39.747963,39.482544,2. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+27efa989-873f-4ec0-9f7d-121ef9c43572,Seyridem Park,RESTAURANT,39.748154,39.482262,Erzincan,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1f8c1c50-0abe-42d4-a5ac-1feb11e48653,Ziya Gökalp Ilkokulu,SIGHT,39.750748,39.486813,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3cb8ed50-54a7-4415-be72-66e2da044ccf,Moonstar Cafe,CAFE,39.750408,39.486694,İzzet Paşa Caddesi 23,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b19977ef-1656-481b-9d22-4613ca7e510e,Çıtırım24 Fırın & Cafe,CAFE,39.751575,39.487129,İzzet Paşa Cd. 56/A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b5d3843f-1052-4193-9816-0f208604ef75,Brod&Bread,CAFE,39.752995,39.487862,Timur Taş Cd. No:9-B,Erzincan,CDLA-Permissive-2.0,Overture|meta
+598b418e-5e08-4d1c-8c3b-1a4c2fef33c0,The Çayfather,CAFE,39.752918,39.486919,309. Sk. No:51,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c9497b97-a7a4-417c-a132-0a250b2a8a60,Sedat Usta Pide,RESTAURANT,39.753014,39.48938,inönü mah ömer parmaksızoğlu cad. no:10,Erzincan,CDLA-Permissive-2.0,Overture|meta
+385d1bbe-6dfe-4007-972c-2e08ba9bc325,Cadde 24 Kokoreç,RESTAURANT,39.753994,39.4907,Uğurhan Tunçata Cd. No:5,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a0ec19fb-0fee-40fe-a6b4-66a79762e69f,Alemdaroğlu Yöresel Ürünler,RESTAURANT,39.75042,39.490261,Vali Recep Yazıcıoğlu Cd. Alparslan türkeş iş merkezi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c3190e72-8e81-425a-a755-f1b9ae6f52ac,Erzincan Inönü Parkı,SIGHT,39.750153,39.490059,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8e7e7691-8d0f-485e-8c33-7bbf29f413c1,Moonlıght Apart Otel,HOTEL,39.749939,39.490162,Vali Recep Yazıcıoğlu Cd. No:69,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c9873645-11da-4db9-8196-769ba9db9b00,Sefa Yüksek Öğrenim Öğrenci Yurdu,HOTEL,39.750034,39.49012,3. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0b587d3e-e236-4531-bd94-f8f9e977b9e3,Cafe Beyza,CAFE,39.749691,39.49102,Ordu Caddesi 12,Erzincan,CDLA-Permissive-2.0,Overture|meta
+78195ad6-e6c1-494a-bd97-0fb73a5cb258,Çınar Restaurant,RESTAURANT,39.749485,39.491234,Ordu Cd. No:1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4724dda8-ef38-4435-b172-5e1ca2d154fe,Burger King,RESTAURANT,39.749218,39.49147,Ataturk Mahallesi Ordu Caddesi No: 34,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+e30a87f5-2d4d-4e9e-8759-19858e6e5cb4,Erdoğanlar Pasta,CAFE,39.749119,39.491493,352. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a8eba6ee-0cbb-4c5b-957c-32aebfa1e60e,Pizza Real,RESTAURANT,39.748962,39.491421,Ordu Cd. No:30/B,Erzincan,CDLA-Permissive-2.0,Overture|meta
+37330ce3-148c-4a10-a26d-67df62c152c5,Erzincan Döner,RESTAURANT,39.74897,39.491104,Ordu Cd. No:19,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2553c7ca-5ae5-4acc-b708-9c2518dbdfb1,Sıla Cafe,CAFE,39.749054,39.491039,Muhsin Yazıcıoğlu Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1f2129b0-810c-4276-aafb-e020624fe41e,Uzun Çarşı,SHOPPING,39.748398,39.490894,Ordu Cd. No:13,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5f4aa2c1-43cf-4b68-9e25-9a1f202f7b5e,Babacan Cay Evi,CAFE,39.748299,39.49086,Ordu Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d4eaaa43-e874-406b-9c44-66fe2bcaaa25,Döner FastFood,RESTAURANT,39.748756,39.491405,Ordu Cd. No: 24/B,Erzincan,CDLA-Permissive-2.0,Overture|meta
+363438d2-552e-436e-b50f-f55620e5244c,M'meetaly,RESTAURANT,39.748585,39.491421,Ordu Cd. No:22/A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+cb89c7ac-d777-49d6-a43d-cf9c27f0ee80,Gezegen Internet Cafe,CAFE,39.748531,39.491341,Ordu Cd. No:22,Erzincan,CDLA-Permissive-2.0,Overture|meta
+743cb1fc-c74a-41f9-9280-1b8b006489a4,Paradise Pastanesi,CAFE,39.748444,39.491348,Ordu Cd. 20/A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+43d16b45-c0f4-46e4-b0ae-104cb28f24ec,Adil Usta Kadayif Ve Kunefe Salonu,CAFE,39.748253,39.491337,Halit Paşa Cd. No:50/B,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e259f30f-1529-479a-8136-b05eb9564882,Adda Cafe,CAFE,39.748127,39.491356,Ordu Caddesi 14,Erzincan,CDLA-Permissive-2.0,Overture|meta
+7b5a0de2-bac3-4f53-8405-17012007de7b,Erzincan Çarşı Döner Kebap,RESTAURANT,39.748127,39.491062,Ordu Caddesi 9,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a2a79575-8098-4d89-8585-bbfbd7da60d0,Erzincan kirpidesi,CAFE,39.747765,39.491421,Ordu Caddesi 8,Erzincan,CDLA-Permissive-2.0,Overture|meta
+17635dda-422e-4991-ade1-34ecbb7e1ae9,Seyridem Cafe Restaurant,RESTAURANT,39.747231,39.491203,Vakıflar İşhanı Kat:1 No:1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+20fdfde5-a00c-4f30-b12e-d18b0eb8a137,Recep Yazicioglu Garden,SIGHT,39.747093,39.490967,Fevzi Paşa Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3dfefdeb-f152-4725-b80f-7ac064365202,Millet Bahçesi Erzincan,CAFE,39.747257,39.490391,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+26588bfa-2b7c-49a8-b4b2-13d18929959a,Damla Çay Evi Erzincan,CAFE,39.748081,39.490551,İnönü Mahallesi 1.sokak ,Erzincan,CDLA-Permissive-2.0,Overture|meta
+af1b4ade-4332-4cbd-848f-a4c7a95bdb5c,Gemi AVM,SHOPPING,39.748123,39.4902,Vali Recep Yazıcıoğlu Caddesi 25B,Erzincan,CDLA-Permissive-2.0,Overture|meta
+225b77b2-f0b3-48b8-bf87-db15a4a157ee,Kardeşler Unlu Mamuller,CAFE,39.748234,39.490108,Vali Recep Yazıcıoğlu Caddesi 29,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6e8ca31a-aad1-47df-99b2-bcc0a78c345d,Erzincan Tantuni Can Tantuni,RESTAURANT,39.747952,39.489937,Vali Recep Yazıcıoğlu Cd. No:25,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6f509d00-a3b3-452f-9eea-ece380a096c2,Özel24 AVM,SHOPPING,39.747837,39.489887,Vali Recep Yazıcıoğlu Cd. No:19,Erzincan,CDLA-Permissive-2.0,Overture|meta
+fd30f984-db76-4694-b90e-14280fdabf67,Millet Bahçesi Erzincan,CAFE,39.747147,39.490318,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a191078a-8afe-4627-ae63-ea4a84115d29,Coffee Hagen,CAFE,39.747124,39.489792,Vali Recep Yazıcıoğlu Cd. No: 3/A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+66625e1e-0e77-45ef-9cd1-fe050e904480,Kebapistan,RESTAURANT,39.747234,39.489864,Vali Recep Yazıcıoğlu Cd. No:5,Erzincan,CDLA-Permissive-2.0,Overture|meta
+acd645d9-c735-44ac-9b04-c45cb4e7ff6c,Demirkent çay evi,CAFE,39.74725,39.489483,5. Sokak 3,Erzincan,CDLA-Permissive-2.0,Overture|meta
+79e0ff68-640e-4734-a88a-8b6d4336a4ff,ErzİNcan RÜYa Kiz ÖĞRencİ Yurdu,HOTEL,39.748344,39.489201,"Ermat Ofset, Vali Recep Yazıcıoğlu Caddesi 57/B",Erzincan,CDLA-Permissive-2.0,Overture|meta
+32a5502f-2947-47b6-a625-fd44e8326962,Cebeciler Pansiyon,HOTEL,39.74836,39.489563,no 34 daire 1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+33bdea76-c7e8-4784-9fd4-ff41b5b2ff51,Saray Cafe,CAFE,39.748241,39.489952,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+9981ecaf-2219-4cff-8849-d1b56484d4dd,Asaf Bey Kahvecisi,CAFE,39.748718,39.49004,İnönü Mahallesi Vali Recep Yazıcıoğlu Caddesi 41/1 Erzincan/Merkez,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ceb2f706-1a53-47f9-85b4-61b069a2a9eb,Toaster,RESTAURANT,39.749153,39.490189,Vali Recep Yazıcıoğlu Cd. 51/1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4d7118d9-c7ff-4971-90e0-20e86b09b714,Hayat Palas,HOTEL,39.74921,39.489159,"merkez çarşısı, 5. Sk. no :48",Erzincan,CDLA-Permissive-2.0,Overture|meta
+53953902-a5ec-4687-a8d6-eb46ccc6023e,EMİR Çay Ocağı,CAFE,39.748608,39.48901,5. Sk. No:14 D:30,Erzincan,CDLA-Permissive-2.0,Overture|meta
+59396d8f-81e9-4ab4-95a6-c03a6a89dca5,Saklı Bahçe,CAFE,39.748268,39.489048,5. Sk. No:24,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d79a34a0-f05b-4d31-af63-876bfd311501,Erzincan Sefa Kofte Restoran,RESTAURANT,39.748554,39.488701,6. Sokak 12,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c8466637-7de5-4cc2-a719-b6cf70268c8e,Merkez Carsısı Erzincan,SHOPPING,39.748753,39.488888,15. Sokak 110,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ddd93f83-0977-434f-983d-570cb86fa6c2,AKA EKMEK UNLU Mamulleri,CAFE,39.748669,39.488342,15. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+26b141d2-47c9-424c-b3a9-c8224f16e81a,Merkez Köfte,RESTAURANT,39.74894,39.488426,15. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ccb4c0d2-e052-46dd-8be6-1988e0f3b4b7,Kantin Toptan Gıda,RESTAURANT,39.748928,39.487263,6. Sokak 31,Erzincan,CDLA-Permissive-2.0,Overture|meta
+843920a7-d23f-47a7-a9d9-87d31bdb6103,Erzincan Otelleri,HOTEL,39.747173,39.487595,"Merkez Bufe, Halitpaşa Caddesi 2/A",Erzincan,CDLA-Permissive-2.0,Overture|meta
+8d723e84-02c6-4ab6-ac20-1bea40ce40f9,Gülistan Otel,HOTEL,39.747463,39.487644,,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e0b00725-a823-4308-9ceb-5b50866068cf,Safir Restaurant,RESTAURANT,39.747189,39.488014,Halit Paşa Cd. No:18/B,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8a383e2c-5db5-4c23-a744-5f8e7286fb0c,Sefir Corbacısı,RESTAURANT,39.747074,39.488117,15. Sokak,Erzincan,CDLA-Permissive-2.0,Overture|meta
+80ce520b-6ca0-4c24-8972-7a1f4d0812d5,Battalbey Çiğköfte Tepe Mezarı Işıklar Yanı,RESTAURANT,39.747807,39.488304,15. Cadde 27/a,Erzincan,CDLA-Permissive-2.0,Overture|meta
+de5f5016-429d-4994-b63e-53ae07db06af,Erzincan Kugu Cafe,CAFE,39.747826,39.489159,Vali Recep Yazıcıoğlu Caddesi 13,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e781846c-08fb-4739-b4d4-ad82a58a84d2,Hotel Mete,HOTEL,39.747715,39.489109,5. Sk. No:14,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dd682aa6-5d6d-46fa-a261-d557766d61bd,Mete Otel Erzincan,HOTEL,39.747646,39.489162,Merkez,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+a92d3eea-2f89-46eb-aadf-ba235b65062f,Trabzon Balikhanesi,RESTAURANT,39.747002,39.489071,İnönü mahallesi merkez çarşısı sokak 7 no 4 merkez,Erzincan,CDLA-Permissive-2.0,Overture|meta
+bee0431a-9aa4-48f9-8b2c-f11ee470b286,Eser Restorant,RESTAURANT,39.746529,39.488636,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+7a5eae99-28a3-46e8-9057-e376bb7a7ec5,Buhara Ocakbaşı,RESTAURANT,39.746758,39.488251,Kızılay Mahallesi,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+29216f6a-b323-4ab7-a163-03ec7326b5c7,Meşhur Buhara Ocakbaşı adnan usta,RESTAURANT,39.746792,39.488178,Kızılay mahallesi 1021 sok Buhar Ocakbaşı Adnan usta Erzincan merkez 24000 24000 Merkez,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2242ebe1-54e6-44ac-9364-a40a7818a95b,Erzincan Ali Eren Aile Pansiyonu,HOTEL,39.74625,39.487984,1002. Sk. No:11,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f2628349-9491-4a13-8a1a-a5d54f418391,Evindonerkebap,RESTAURANT,39.745068,39.486946,Sultan melik caddesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+7eeff449-6d9d-4c28-998d-390951515415,Meshur erzıncan cıgercısı,RESTAURANT,39.745239,39.488819,1029. Sokak 20C,Erzincan,CDLA-Permissive-2.0,Overture|meta
+08ab0223-82b1-45da-98fa-e8ba133c7b78,Canmer Odun Ek Ekmeği,CAFE,39.745552,39.488754,1029. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0066d2fd-b8cf-4803-a001-cd777d957fb7,Nusretçetinkaya Caddesi,SIGHT,39.744514,39.489605,Nusret Çetinkaya Cad,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c4ec67da-7e69-4f1a-91f0-650ad600aa5b,Evin Doner,RESTAURANT,39.744682,39.490311,Sultan Melik Cd. No:13,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0a086e35-68a8-4690-9a83-5734bdcd690a,Evfon Avm,SHOPPING,39.746723,39.489719,Halit Paşa Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0f535b8f-a5f8-41b6-b695-ff87bbc2c32b,Ergan Dörtyol Şubesi,SHOPPING,39.745815,39.490486,Cumhuriyet Meydani,Erzincan,CDLA-Permissive-2.0,Overture|meta
+53491aff-789d-4518-a798-d7563168767d,Erzincan Özel Pırıl Kız Öğrenci Yurdu,HOTEL,39.74593,39.490402,Cumhuriyet Caddesi 1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a5a7e691-42cc-4bf1-ba9e-93fd1e80d441,Lıman Cafe,CAFE,39.746456,39.491127,Halit Paşa Caddesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+baee04e8-6104-47d6-9114-aad973689197,Usta Dönerci,RESTAURANT,39.746796,39.491123,Mimar Sinan Mahallesi Halitpaşa Caddesi No: 151 Erzincan Park AVM Mağaza No: 224,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+8a3a2189-4621-409d-8ca2-03972da6a8c1,Kardesler Lokantası,RESTAURANT,39.746864,39.491497,Kervansaray Cad.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ea135960-15f8-4be6-a39a-4e67ee216fa0,Burger King,RESTAURANT,39.745193,39.491299,KARAAĞAÇ MAH. 13 ŞUBAT CAD. NO:9 İÇ KAPI NO: 306,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+c8601bd8-0eac-48b2-8b42-36cfa1f240de,ERZİNCAN MEYDAN 24 AVM,RESTAURANT,39.745296,39.491299,KARAAĞAÇ MAH. 13 ŞUBAT CAD. NO:9İÇ KAPI NO: 306,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+1c71e9a2-d912-4f39-a3ba-9bb3855ad037,Tavuk Dünyası,RESTAURANT,39.745316,39.491127,"Karaağaç Mahallesi, 13 Şubat Caddesi, No:9",Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+65eab0d0-32db-42ec-b0fa-71e57b9a9bbf,Kuşoğlu Döner 1948 Erzincan,RESTAURANT,39.745258,39.491108,13 Şubat Cd. No:9,Erzincan,CDLA-Permissive-2.0,Overture|meta
+38d836d0-2900-4e18-a4aa-a7a46a8abc04,Eriza Hotel,HOTEL,39.745384,39.490627,13 Şubat Cd. No:6 D:1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dbe43826-1bf1-424b-a21d-aabcfc488ad9,Starbucks,CAFE,39.744823,39.490993,meydan24avm,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+483e562d-17da-4d34-bf04-7cfd5ce852f7,Kebapçı,RESTAURANT,39.745884,39.493786,750. Sk. No:18,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5e49f83c-c062-44dc-b918-687a8d451402,Balcoon Cafe,CAFE,39.746037,39.493446,,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b1d9bb4c-28bd-4bf7-9f8b-8a71161526c1,Saraycık Çay Evi,CAFE,39.746101,39.493279,750. Sk. No:13,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5ad2d547-a40a-4f66-8cb0-f97070d6369c,Zeytunizade Cafe,CAFE,39.746384,39.493576,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+fa9fec1d-19c7-47fa-890c-556ca7da188a,Crazy DÖNer ErzİNcan,RESTAURANT,39.7467,39.493809,Fevzi Paşa Cd. no:25,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ba63d1ce-8c2f-4f52-8808-febf8cdaa521,Cafetelli,RESTAURANT,39.746704,39.492966,Fevzi Paşa Cd. No:17,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ddc4ab33-f36b-40c7-a8f5-17748390cef0,Istanbul Kir Pidesi,RESTAURANT,39.74651,39.493176,Fevzi Paşa Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0668a967-4577-4ade-9efe-0de0c50c4f44,24 Salınca,CAFE,39.746552,39.492882,Fevzi Paşa Cd. No:14 D:4,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e59e01bd-0b7c-41b3-ab36-8ab2ad50802f,DONAS,RESTAURANT,39.746822,39.492386,Fevzi Paşa Cd. No:9,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f2aa6fb4-78db-4ad8-8eec-82b9fca60acc,Miya Cafe,CAFE,39.746738,39.492306,Erzincan Dörtyol,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d9debac3-8698-4c6c-a24d-cc22ea8f86eb,Yemen Kahvesi,CAFE,39.746475,39.492409,"Ermerkez AVM, Fevzi Paşa Cd. Kat:2 No : 205",Erzincan,CDLA-Permissive-2.0,Overture|meta
+4047d359-e961-4716-a430-06762c34019a,ETS TUR Erzincan,HOTEL,39.746513,39.492558,Ordu Caddesi 10,Erzincan,CDLA-Permissive-2.0,Overture|meta
+abf45681-d9e4-4943-a092-c09442c85a24,Arabica Coffee Erzincan,CAFE,39.746471,39.492645,"ermerkez avm, Fevzi Paşa Cd. no:1",Erzincan,CDLA-Permissive-2.0,Overture|meta
+f72b0af9-e4a1-4f10-aa10-03a6aef517b2,Arabica Coffee House,CAFE,39.746452,39.49263,Erzincan,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+b2771984-4e7b-4486-979b-b9d1a2362b41,Dürüm,RESTAURANT,39.746471,39.492542,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b2bc944e-dace-42d7-af90-47957f1f4a24,Ermerkez Shopping Center,SHOPPING,39.746109,39.492447,Fevzipaşa Cad.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b35accff-957b-4f8b-8a4f-78b195276fa1,Florida Coffee Co.,CAFE,39.746201,39.491848,Arif Sağır Sokak No:3C,Erzincan,CDLA-Permissive-2.0,Overture|meta
+bcf9dcb1-1b04-45ce-b617-5bc9d842521d,Florida Coffee Co. Erzincan ,CAFE,39.746201,39.491848,Arif Sağır Sokak 3c,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dc3ba4af-6c89-4445-914a-4224cdfd8625,Gold Garden Cafee,CAFE,39.745979,39.49202,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+805440b3-7077-41f9-9907-cf6fcfdc4bb6,Erzincan Lavinia Waffle Chocolate,CAFE,39.74585,39.491596,Arif Sağır Sokak 3/d,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a3785978-0489-41b7-ac8c-8a7bcd42faaf,Cafe Zu,CAFE,39.747292,39.491623,"Nermi, Nermi Tombul Cd Vakıf İş Hanı No:4 D:C",Erzincan,CDLA-Permissive-2.0,Overture|meta
+c725ff3b-04b4-4a50-8f3e-640148a97856,Usta Lahmacun,RESTAURANT,39.747456,39.492306,Nermi Tombul Caddesi 4,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c45f52a6-2bba-4815-acb0-a3c6ce3ca9b5,Tiesto Coffee,CAFE,39.747314,39.492344,Nermi Tombul Caddesi 8,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5e0d3e47-0758-4006-a19a-e091179af09c,Cafe Latte,CAFE,39.747307,39.492233,Nermi Tombul Cd No:8,Erzincan,CDLA-Permissive-2.0,Overture|meta
+419b9063-ee04-4fb2-b53d-232418918157,Paradise otel kafe,CAFE,39.749123,39.49157,352. Sk. No:2 D:6,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ff9ebaf9-8c76-48be-846d-678c9dc82588,Alaçatı Premium Bowling & Coffee,CAFE,39.74855,39.492432,Muhsin Yazıcıoğlu Cd. No:14,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c25779bc-acc8-449b-8100-a3b5ddc8de40,Beyefendi Bistro & Nargile,CAFE,39.748024,39.493359,353. Sk. No:7,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6c1f8224-223f-4817-9063-f925a5ec5223,Domino's Pizza,RESTAURANT,39.747425,39.492878,"Ataturk Mh. Nerim Tombul Cd. No:5 Z:1 Merkez Polat İş Merkezi, D:2,3",Erzincan,CDLA-Permissive-2.0,Overture|meta
+4fe82d9e-83e7-4701-b575-a8be465d9c2e,Cafe Nova,RESTAURANT,39.747181,39.49284,Nermi Tombul Caddesi 12,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8e6900d5-7c3b-4bc7-b76e-c9260e7cad45,Coffee Buckhorn,CAFE,39.747002,39.493088,Nermi Tombul Caddesi 12A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3300d4ad-2cbe-401d-a63a-152d8622f0cf,CoffeeWorks Erzincan,CAFE,39.74699,39.494118,Nermi Tombul Cd No: 20/d,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b964890f-c973-4f2f-a5dc-54c7583271ac,Mer Plaza Erzincan,SHOPPING,39.747017,39.494453,atatürk mah,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8ef7b825-8642-487f-9cbb-c0cc70ce5f82,Üçü Bir Arada,CAFE,39.748798,39.495518,Ali Kemali Cd No:15,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ded375c8-a41f-4fab-8d91-411be0679bb4,Yildiz Çerçeve,SIGHT,39.749382,39.495087,13 Şubat Caddesi 16,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f8562ae2-b4a4-4918-97d7-3aabdad409ca,Adıyamanlı Çiğ Köfteci Erkan Usta,RESTAURANT,39.749348,39.495663,Zübeyde Hanım Cd. No:14/C,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f9b0f2e8-c9bf-4ad5-af90-5df9f2896a51,Halı Sarayı 24,HOTEL,39.747765,39.495041,Ali Kemali Caddesi 7,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e47b2368-c869-4dcf-94ff-8d4b69db7e05,Gaziantep Sofrası Erzincan,RESTAURANT,39.747269,39.495174,Nermi Tombul Cd No: 13/C,Erzincan,CDLA-Permissive-2.0,Overture|meta
+564e4fd2-c6b9-4cfe-a3a6-dbaf7206f170,Bayramefendi Osmanlı Kahvecisi,CAFE,39.74704,39.495262,Atatürk mahallesi,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+3df38b13-c4fe-4f31-9c61-571c807c72d3,Ciğerci Yusuf,RESTAURANT,39.747238,39.495956,Nermi Tombul Cd,Erzincan,CDLA-Permissive-2.0,Overture|meta
+433fe547-6dd0-4c8a-98e2-588e7fb8e927,Kardeşler Lokantası,RESTAURANT,39.745934,39.496002,785. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a6100d88-5d23-4f85-9069-e64fca85c964,CP Pilic Market Bugday Meydani Subesi,SHOPPING,39.745941,39.495602,785. Sk. No:8,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a8877441-b783-483b-ba45-ad9e299f656c,Erzincan Sosyal Tesisleri,HOTEL,39.746098,39.495377,758 sok no:1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f92d6ee6-1017-4673-a004-414e1f3550af,İlkyıldız Fırın ve Cafe,CAFE,39.746727,39.495125,Ali Kemali Caddesi Mer Plaza No:1/Z1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c8b1adc4-d5c6-4479-8e9f-4608f075e3a1,Erzincan Kent Otel,HOTEL,39.746758,39.494213,"Atatürk Mah Fevzipaşa Caddesi, 357. Sk. NO:1",Erzincan,CDLA-Permissive-2.0,Overture|meta
+0569e6f7-0995-4fcc-820b-8f48fbf16ac1,Beyrut hotel,HOTEL,39.746632,39.493828,Fevzi Paşa Caddesi 27,Erzincan,CDLA-Permissive-2.0,Overture|meta
+aac51992-ea01-46ce-b8d1-d757644e6985,Damak Lahmacun,RESTAURANT,39.74625,39.494186,755. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+31dd7268-8c4e-47e7-9419-04835924f4ad,Harman Çay ve Kahve Evi,CAFE,39.74588,39.493931,750. Sk. No:20,Erzincan,CDLA-Permissive-2.0,Overture|meta
+75ca893a-6656-4e25-b7a2-4a97df06d91d,Erzincan Cayevi Dursun Babanın Yeri,CAFE,39.745819,39.494095,755. Sokak 4C,Erzincan,CDLA-Permissive-2.0,Overture|meta
+84bfe103-dd52-4e0c-8c19-43e5d48f226b,Seven Kevser Lokantası,RESTAURANT,39.745834,39.494301,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+de681464-cc39-4af6-9f01-4bb5b8a324e8,Akpınar Tulum Peynirleri,SHOPPING,39.745556,39.495232,Fabrika Caddesi Nedim Muratoğlu İş Merkezi No:8 (Boyacılar Camii Karşısı),Erzincan,CDLA-Permissive-2.0,Overture|meta
+2e72850e-24fa-43cf-a5d4-7d23f39a7790,Şehr-i Can Bay Bayan Okey Café,RESTAURANT,39.745659,39.496948,Fevzi Paşa cad. Erzincan Döviz Karşısı Hatipoğlu Kunduranın Üst Katı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c3cca496-0ebf-42e1-a013-1aded40884e4,Otel Karakaya,HOTEL,39.746304,39.496334,Fevzi Paşa Caddesi 40,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4fb4be0f-5b01-45d8-a80c-d09d7004336d,Kırıntı Kahvaltı Salonu,RESTAURANT,39.74696,39.496819,"Atatürk Mahallesi. Fevzipaşa Caddesi.Büyük Çarşı, No.44",Erzincan,CDLA-Permissive-2.0,Overture|meta
+25a5382a-957f-4191-970f-3d796a0dbaae,Erzincan İrem Yufka,RESTAURANT,39.746944,39.497032,"İrem Yufka ve Kadayıf, Nermi Tombul Caddesi 25/C",Erzincan,CDLA-Permissive-2.0,Overture|meta
+a35df59a-6d8a-4a18-a2c0-dbf3bd8fe1d1,Meşhur Adıyaman Çiğköftecisi,RESTAURANT,39.746758,39.497215,Zeki Paşa Cd. Büyük çarşı No:12,Erzincan,CDLA-Permissive-2.0,Overture|meta
+7de25b2d-0297-41ff-995a-f126e75010b1,Sayan Restoran,RESTAURANT,39.746273,39.497032,Fevzi Paşa Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+85481a4a-77f5-49e9-a8d0-6fda623e46b9,Yildiz Cafe & Feast Food,CAFE,39.745857,39.496819,785. Sk. No:42,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2739f1b7-93f2-4c31-8460-b1e643b6e7d4,Erzincan Şehir Restaurant,RESTAURANT,39.746868,39.497494,Fevzi Paşa Caddesi 41,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c35bcac3-baff-4624-a787-a6581523ec63,istanbul Ucuzluk Pazarı,SHOPPING,39.746468,39.49765,Fevzi Paşa Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+176b1a43-5302-40e4-a43c-3f2a843e5510,ErMerkez,SHOPPING,39.746422,39.497604,"Karaağaç Mahallesi, Fevzipaşa Caddesi",Erzincan,CDLA-Permissive-2.0,Overture|meta
+cbaff988-77f2-4c91-926e-9ba1ed3969d4,Salih Büfe,RESTAURANT,39.744987,39.498222,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+93ea5115-3a23-4bed-8e75-5f1a6df13d6a,Erzincan Eski Terminal Karsisi,CAFE,39.746426,39.500519,Kırklar Caddesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6eda3294-65e4-4f8b-a273-44e40e345556,hass döner,RESTAURANT,39.746288,39.499527,Fevzi Paşa Cd. No:53,Erzincan,CDLA-Permissive-2.0,Overture|meta
+bce0fdac-23da-4569-a8ad-19ce797c9703,Otel Kervan,HOTEL,39.74601,39.498512,Girne Otel,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b2b494b9-2279-4b81-afe5-5651a5a4322f,Er Sat Home Suit,HOTEL,39.747501,39.498173,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+06b5f72b-9302-4656-90f2-8c7d17558e19,Erzincan Seymer Apart Otel ve Oto Kiralama,HOTEL,39.747059,39.497959,361. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a7ba3ac4-ede0-44b6-96ca-ca88e3fab5ee,Çağlayan gül restaurant,RESTAURANT,39.74939,39.497051,çağlayan beldesi atatürk mah.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+acd18c65-84ff-4dfe-bd7e-a98518159a5d,Avlu 1919 RESTORAN,RESTAURANT,39.750469,39.497612,"Atatürk, Zeki Paşa Cd., 13, Şubat Stadı No: 27 D:E",Erzincan,CDLA-Permissive-2.0,Overture|meta
+6527cf6c-5170-4466-aa93-7ad17d5de3b7,Karakaya Çermik,RESTAURANT,39.749981,39.499943,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+fa089cba-2d8f-4332-8493-2b2aea15848f,Erzincan Kızlar Kalesi,SIGHT,39.749981,39.499943,"Erzincan'ın Kuzeybatısında, Başpınar Köyü Üzerinde, Keşiş dağı yamacında.",Erzincan,CDLA-Permissive-2.0,Overture|meta
+a3cc0d9c-430c-4ab0-a044-fe72d3bd4c96,Erzincan Giyvelik Şelalesi,SIGHT,39.749981,39.499943,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+796a7f58-93ce-46d1-bae9-663553a2558f,Çatalarmut Barajı,SIGHT,39.750881,39.498631,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a3000e42-1110-49ef-9929-ceff4061d233,Gerçekler Unlu Mamülleri,CAFE,39.750057,39.495453,354. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1f295aca-4c75-4be7-a8fb-84831f11c5b3,Melek Aile&Bayan Pansiyonu,HOTEL,39.750084,39.4953,Hekimoğlu İsmail kültür sokak no24/1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b9d2c8b1-9e23-4f92-8cca-cd7f91d310aa,Pepito Cafe,CAFE,39.749683,39.49538,Ali Kemali Cd No:19,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5bcec9c5-6e35-4d26-a0ac-7552063fd78c,Köfteci BAKİ,RESTAURANT,39.749512,39.493149,Zübeyde Hanım Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d722744d-160a-496f-996b-518d7d36ed79,Gloria Park Coffee,CAFE,39.749794,39.492649,Barış Manço Park İç Yolu,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b742007e-8bd5-4668-a932-89d8aac7dd29,Kahve Dünyası,CAFE,39.752907,39.491508,İnönü Mahallesi Ordu Caddesi 37/2 Erzincan Müze Evi Merkez,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+157d6214-bae4-4d51-816d-55ae40e8348c,My Künefe ve Katmer,CAFE,39.754074,39.492065,Ordu Cd. No:52,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3a8ce87e-efda-484f-86a0-16bcefcd626c,Konya Etli Ekmek,RESTAURANT,39.756104,39.491882,Ordu Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f5992aba-c457-4f3b-9a7a-82c02c8b1597,Özer Kahve Evim,CAFE,39.756081,39.491905,Ordu Caddesi 67,Erzincan,CDLA-Permissive-2.0,Overture|meta
+91cd66e1-6896-40e4-be87-df59460f4fc7,Mersin Tantuni Haluk Usta,RESTAURANT,39.756153,39.491928,Ordu Cd. No: 61/D,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b2d64356-8874-4e69-9ae5-ce08cafb0db5,Erzincan Starbucks,RESTAURANT,39.757,39.491905,,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+8d8d1dd3-8a22-4a21-9d51-84d7497c0e63,OTEL 24,HOTEL,39.756828,39.492126,Ordu caddesi yeni ziraat bankası yan caddesi ERZİNCAN,Erzincan,CDLA-Permissive-2.0,Overture|meta
+423867d6-7068-420a-83a8-405a12bd2eda,Erzincan Cigkoftem,RESTAURANT,39.755905,39.492153,Ordu Cd. No:70/A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+9896ce3b-3ab9-40b1-a155-3e2a6a501c27,Erzincan Mesut Hotel,HOTEL,39.757149,39.492332,Ordu Cd. No:82,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3f0743d0-6c82-4d3c-85ff-5955e4c44fa7,Karamanogullari Et ve Gida Sanayi Ticaret Ltd. Sti,RESTAURANT,39.757423,39.492363,Ordu Cd. No:82A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+9b8416be-54fb-4db7-9e81-4631b5819640,Ersin Büfe,RESTAURANT,39.757656,39.492081,Ordu Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+70489065-3452-427a-8400-eb9bc6a97e7e,Çıtır Patisserie 1992,CAFE,39.760017,39.492176,Milli Egemenlik Caddesi 1D,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f712fd30-4b78-4c7d-a260-2a427f2df955,Cumhuriyet Köyevi,HOTEL,39.762733,39.492641,Cumhuriyet Köyü,Erzincan,CDLA-Permissive-2.0,Overture|meta
+9071f80a-6d6b-42cf-b264-b0f49c5c023e,General Necati Tacan Kışlası Nizamiye Kapısı,SIGHT,39.764366,39.491932,Erzincan Merkez Komutanlığı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0fe10f09-ba6f-4745-bb74-276270f736a4,Eflatun Alışveriş Merkezi,SHOPPING,39.759632,39.49667,Tekin Civaş Blv. No:19,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d423ad82-9b76-4062-8260-fb1ef153e801,Ehl-i Keyf Cafe,CAFE,39.758495,39.499962,1410. Sk. No:2,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e4125959-9e5f-49a2-929f-1eed3e8988c3,Divane Erzincan,CAFE,39.757702,39.499996,Kırklar Caddesi 96A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+abb854ed-f076-4247-8387-352da2e87918,Ekin Cafe,CAFE,39.757179,39.50005,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+860de4bb-7113-4f46-998d-6e7cf8ca8a28,Wowffles Plus Kırklar Caddesi,CAFE,39.757935,39.499474,Kırklar Cd. No:125,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8554f567-7bb9-4add-baf2-6c13a58833a2,Taş Kahve,CAFE,39.758545,39.499451,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+cf4bd6f4-5712-4ff4-95e4-f5d6f317d6f7,Özerzade Kahvevim,CAFE,39.759422,39.497009,Tekin Civaş Blv. No:34/A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d4ef7fda-cfaa-4801-85ed-322c38338c6c,Şahane CAFE,CAFE,39.759571,39.496796,CUMHURİYET MAHALLESİ ERİMPAŞ KARSISI (ESKİ VALENTİNO CAFE ),Erzincan,CDLA-Permissive-2.0,Overture|meta
+aaa78c72-b56a-45ef-a395-99ac59ba0a81,Mac Viper Coffee,CAFE,39.758636,39.503006,"Başbağlar, 1414. Sk",Erzincan,CDLA-Permissive-2.0,Overture|meta
+e682c9ec-7a55-492c-ab75-8e6559342324,Cunda Cafe,CAFE,39.759842,39.504967,1416 SOKAK NO:4 A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+69120d69-107d-4940-92c2-31c7c6807955,Erzincan KYK Yurdu,HOTEL,39.758381,39.508457,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+fe9b1579-8ab0-408f-bcee-4835ad94a492,Erzincan Bakırevi,CAFE,39.758125,39.505459,Erzincan Ünv.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3f17c1f5-a66a-4cab-974a-67b19519a95a,Hancı Cafe,CAFE,39.748657,39.505363,374. Sokağı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c7084eb2-7984-442f-b5e8-6f01aa222d89,Tarihi Simitçi Şahin Usta,CAFE,39.747044,39.501358,Atatürk Mah.Ali Kemali Cad.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6bae1a86-943c-4c78-a548-b131e7c4a6c3,Özel Erzincan Kız Yurdu,HOTEL,39.746155,39.503212,375. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+7b9dc967-f18b-406b-b7b3-f64724b2b80c,Grand Alemdar Hotel,HOTEL,39.746223,39.504223,Fevzi Paşa Caddesi.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+bb0d81e8-b6bf-4688-92d8-1e61d8cadeeb,Erzincan Olivya Restoran,RESTAURANT,39.74292,39.509911,İzzetpaşa Sokak 4/c,Erzincan,CDLA-Permissive-2.0,Overture|meta
+03d6b665-45d2-4025-bf43-319aa764c107,AzİRİS Hotel,HOTEL,39.74115,39.50169,798. Sk. No:4,Erzincan,CDLA-Permissive-2.0,Overture|meta
+de5f5b67-9fe4-4790-add3-a2b28a34a50d,Zuhma Cafe & Restaurant,RESTAURANT,39.74102,39.502323,798. Sk. No:2,Erzincan,CDLA-Permissive-2.0,Overture|meta
+826f8fb2-82c7-4bf8-b446-b96d438f1c10,Gunes Otel,HOTEL,39.741199,39.499836,"Dede Korkut Cad., Otogar Karşısı, Erzincan Merkez, Erzincan",Erzincan,CDLA-Permissive-2.0,Overture|meta
+a3884a5a-a059-4f9c-8f71-db2f562975c3,Özcan Baba Kebap Salonu,RESTAURANT,39.743725,39.496906,Demirci Zahid Usta Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b498540f-e894-477f-ad33-00a695c525dc,şen döner,RESTAURANT,39.744312,39.496284,Sanayi çarşısı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+670f8a0c-1ee2-4df3-bf65-9ac5bbc04f05,Fatih Unlu Mamüllerı,CAFE,39.743279,39.491859,"Karaağaç Mahallesi 784 sok. No:7/2, Ali Coşkun Caddesi No:5B",Erzincan,CDLA-Permissive-2.0,Overture|meta
+955329de-7a77-4ead-9394-929a08c62d89,Ayaydın Gross Market,SHOPPING,39.739658,39.495979,Sümerbank Cd. No: 17/4,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f376c63f-8ed3-4ccc-a840-b9f0eb86baea,EKSAŞ unlu mamüller,CAFE,39.738861,39.494835,,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+fd19d306-933f-44ef-8553-8fd167b711e0,Matbah Restoran Erzincan,RESTAURANT,39.722946,39.490498,"Tarihi Çadırcı Hamamı, Beybağı Mahallesi",Erzincan,CDLA-Permissive-2.0,Overture|meta
+cfab0a3e-a3cc-46b5-a820-c1619d76a9a9,Erzincan Zigana Et Mangal,RESTAURANT,39.720745,39.488022,Mimar Sinan 1. Sokak 10,Erzincan,CDLA-Permissive-2.0,Overture|meta
+29a07a0f-1d37-44f1-825d-62cda4fd1db3,Erzincan Tatlı Dünyası,CAFE,39.743122,39.490479,13 Şubat Cad,Erzincan,CDLA-Permissive-2.0,Overture|meta
+58200211-8b06-4f32-a042-4e4d6a57234c,Komagene,RESTAURANT,39.744152,39.49094,13 Şubat Cd. No:17 D:b,Erzincan,CDLA-Permissive-2.0,Overture|meta
+415bf4ee-8759-46f2-a964-74913bad4a0d,İlk Yıldız Ekmek ve Unlu Mamuller,CAFE,39.743977,39.490517,13 Şubat Caddesi 20A,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0b314427-8c56-4391-8ee6-1fa72aefc246,Çeşni Ev Yemekleri,RESTAURANT,39.743496,39.486923,"yeni şehir hamamı karşısı, 1008. Sk.",Erzincan,CDLA-Permissive-2.0,Overture|meta
+4ffd10f3-4e28-4c6c-9c1e-cfb517c59602,Sesame Uzak DoĞU Lezzetlerİ,RESTAURANT,39.743683,39.483253,1008. Sk. NO43/CB,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a10ec5ae-8580-4851-a221-c567cbac0357,Cafe by Millo,CAFE,39.743179,39.475479,Talip Kaban Blv. 62 Yanyolu,Erzincan,CDLA-Permissive-2.0,Overture|meta
+2a046065-50f4-4c39-84c8-a3ab870e6fa2,Kemaliye/Eğin Etnografya Müzesi,SIGHT,39.739048,39.459869,Cumhuriyet Caddesi 115/c,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4e97b100-54b1-4387-9dd2-ae49d9463c7f,Grand Emir Hotel Salon,HOTEL,39.739388,39.459709,"Cumhuriyet Caddesi, 24002, Ulalar, Erzincan, Türkiye",Erzincan,CDLA-Permissive-2.0,Overture|meta
+c28de6c7-e2d9-4d85-a664-7f21380d555b,Piri Sami Erkek Öğrenci Yurdu,HOTEL,39.759071,39.442642,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+40076d20-2099-4b45-9df6-a2ffaa6734ca,Vera Cafe & Bar,CAFE,39.756256,39.447765,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c13fbd54-4bb2-43bd-b581-796af78e085a,Başocak,CAFE,39.753334,39.445984,Ulalar beldesi ermar market yanı. Ulalar erzincan,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0c4ccd68-ed37-49a7-ad28-a7e671c42b80,Gazi Sabit Özmen Parkı,SIGHT,39.748802,39.445366,"Otobüs Durağı, Prof. Dr. İzzettin Doğan Cd.",Erzincan,CDLA-Permissive-2.0,Overture|meta
+b2335e84-36c3-47db-b83c-4eb63c59b7ed,Melisa Havuzlu Bar,RESTAURANT,39.74662,39.457413,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5748fd3a-10bc-4fcb-a7cc-21ba1fadd27b,Erzincan Özel Pırıl Kız Öğrenci Yurdu,HOTEL,39.752193,39.454777,Cumhuriyet Caddesi 1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e3fef2c7-8cc2-461e-a4c2-644827d424ab,Seyridem Teras Cafe,CAFE,39.750813,39.459934,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f39556e9-bf25-4f55-8b39-122a264f744a,Seyridem Park,RESTAURANT,39.750839,39.459644,No:1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+c370567c-d637-458e-8ab6-34d9205a49b2,Komagene,RESTAURANT,39.747414,39.467175,Erzincan Park AVM,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+f6a28349-3c5d-4022-a45d-d55443d4302b,Akbank ATM,SHOPPING,39.74757,39.466671,Mimar Sinan Mahallesi Halit Paşa Caddesi No:151,Erzincan,CDLA-Permissive-2.0,Microsoft|Overture
+a4d90166-aea6-486b-90e2-9ee2f1d609ac,Erzincanpark Mall,SHOPPING,39.747887,39.466732,Halit Paşa Cd. No:151,Erzincan,CDLA-Permissive-2.0,Overture|meta
+b1c49277-cbde-4197-b560-cd593fc74b36,KFC,RESTAURANT,39.747768,39.466908,Mimar Sinan Mah. Halit Paşa Cad. Erzincan Park AVM No: 151,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+e10f04f1-d751-41f8-b119-6241ad80cbcb,Espressolab,CAFE,39.74778,39.466969,"Mimar Sinan Mah. Halit Paşa Cad. No:151, 24070 Erzincan/Merkez",Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+b81aa32e-00e7-419e-85bc-e8287f825a49,Usta Dönerci - Erzincan Park Avm,RESTAURANT,39.747978,39.466808,"Park AVM, Halit Paşa Cd. No:151 D:224",Erzincan,CDLA-Permissive-2.0,Overture|meta
+772d40b0-b538-4510-8b74-ed63a5631b3e,Madame Coco Erzincan Park AVM,SIGHT,39.748112,39.466743,Erzincan Park Avm Mimar Sinan Mah. Halit Paşa Cad. No:51 Merkez Erzincan,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dc154c26-d876-4221-ba87-14b69f3a0829,Beyoğlu Chocolate & Coffee,CAFE,39.747971,39.466377,Erzincan Park AVM  Kat:2,Erzincan,CDLA-Permissive-2.0,Overture|meta
+6600bdd1-8fd9-48a5-8645-ba812d7ab93b,Burger King,RESTAURANT,39.74807,39.466476,Mimar Sinan Mahallesi Halit Paşa Caddesi No: 151-225 Erzincan Park AVM,Erzincan,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture
+ad7a15a9-9885-4df3-8b07-24c75a9bec51,Popeyes Louisiana Kitchen,RESTAURANT,39.747849,39.466587,Mimar Sinan Mahallesi Halit Paşa Caddesi No: 151 228 Erzincan Park Avm,Erzincan,CDLA-Permissive-2.0,Overture|meta
+f8ad210a-41c3-4e59-bdf6-a6bc4b2dcc07,Cafe Zero,CAFE,39.747875,39.466553,Halit Paşa Cd. No:151,Erzincan,CDLA-Permissive-2.0,Overture|meta
+ccdf96d9-adf7-4d62-8c5e-c4d42e32885d,Ermot Bosch Car Service,CAFE,39.747616,39.466518,Sivas Karayolu 2.Km,Erzincan,CDLA-Permissive-2.0,Overture|meta
+951eed2b-a151-41d3-abf6-5dacb757cdfa,Bolulu Hasan Usta Süt Tatlıları,CAFE,39.748169,39.46629,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+df22114d-e9d3-4739-8b5f-8e77cb4f13f1,Göyne Barajı,SIGHT,39.745823,39.469818,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+39a68e1b-9f00-4365-bf74-7f75acce1099,Paradise Pastanesi,RESTAURANT,39.747665,39.470924,Olgunlar Mah,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a6092512-7c7e-4cd6-823f-25ae1ed33710,Kocatepe Kahve Evi,CAFE,39.747639,39.469337,Halitpaşa Cd. Ergan AVM,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+9195db88-574d-4b81-95b4-21b68fbbaafc,Ergan Alisveris Merkezi,SHOPPING,39.747501,39.468952,Sivas Yol Ayrımı D-7 Kavşağı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+3bb0a75c-9136-46b9-bc40-271b0704057d,Qubi Coffee Bistro,CAFE,39.750423,39.469482,Adnan Ercan Caddesi No:9,Erzincan,CDLA-Permissive-2.0,Overture|meta
+0bf44e84-139e-4e6b-a69f-e16ec0a41720,Maraşal,CAFE,39.751991,39.46904,Ergenekon Mah,Erzincan,CDLA-Permissive-2.0,Overture|meta
+8c58ca64-6dee-4351-8b9c-e9294fbca58c,Ekmekçim Unlu Mamulleri,CAFE,39.750809,39.469753,Bahçesaray Cd.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+35826a67-7008-4f94-b56c-b1d816445c20,Bozoğlu Yunus Emre Unlu Mamülleri,CAFE,39.753109,39.469315,Bahçesaray Cd. No:32,Erzincan,CDLA-Permissive-2.0,Overture|meta
+9fb91ca6-b13d-424c-bf42-29cfcf36a495,Cigkofte Evi,RESTAURANT,39.753468,39.468979,Bahçesaray Caddesi 29,Erzincan,CDLA-Permissive-2.0,Overture|meta
+dfa904f5-ab09-4eb4-b8c0-619b7c4d6887,Salim Usta Lahmacun Pide Çorba Salonu,RESTAURANT,39.753647,39.469028,"Bahçesaray Cd. No:29, 24050",Erzincan,CDLA-Permissive-2.0,Overture|meta
+91f08b3a-af27-4c79-bf21-aa084a437f72,Muhammediye Çay bahcesi,CAFE,39.750385,39.464066,"106. Sk. No:20, 24050",Erzincan,CDLA-Permissive-2.0,Overture|meta
+749eb5ce-a3a9-409f-b7ce-84ca73ba6096,Starbucks,CAFE,39.758778,39.471054,Bahçeşehir,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+acb03651-3652-4672-a6b6-5ad905834587,Pizza Master,RESTAURANT,39.761314,39.468624,"Demirkent, Turan Engin Cd. No:17",Erzincan,CDLA-Permissive-2.0,Overture|meta
+5b5fe033-116c-41bf-99b9-fc4699e30e8d,KILINÇ SAZ EVİ ( ErzincaN ),CAFE,39.761864,39.468758,13 Şubat Caddesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+473b2a74-3842-4244-aeb7-020f5d0d2d01,Demirkent Parkı,SIGHT,39.763847,39.463531,Demirkent Beldesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+a1222613-1bf2-4779-ba80-ad347c12c300,kebabci2424,RESTAURANT,39.759418,39.462162,Mehmet Akif Ersoy Caddesi 1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+4bc671fb-b8d3-4a68-947c-b5d2fcc51842,Erzincan Nar Konutları,SIGHT,39.769421,39.47192,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+946689f1-f719-4995-b16c-d8a099eb2c3b,Mobil Servis Erzincan,HOTEL,39.766655,39.447815,Halilpaşa cad. Otobüs durakları kat 1,Erzincan,CDLA-Permissive-2.0,Overture|meta
+5892ded4-8ee7-446b-8d43-136f73c41820,Erzincan Cukurkuyu Beldem Cafe,CAFE,39.78043,39.431549,Erzincan Cukurkuyu,Erzincan,CDLA-Permissive-2.0,Overture|meta
+fe16e263-3681-4226-b80b-0f3e02c77155,Âlâ Balık Restaurant & Cafe,RESTAURANT,39.702454,39.465385,Gıda Kontrol Müfreze Komutanlığı Aşağısı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1350cb04-048c-44c8-b629-cf610e763be7,Kosk Balık Cifligi&Restorant,RESTAURANT,39.702324,39.465275,Kemah Yol Uzeri,Erzincan,CDLA-Permissive-2.0,Overture|meta
+e4832ffc-fa9c-4354-9e40-324afb67f0b6,Arduçlu Cebel Sultan Seydi Acepşir Gazi Türbesi,SIGHT,39.643139,39.485634,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+7e77e49f-f371-4c1b-a30b-5ba890533186,Arduçlu Cebel Sultan Seydi Acepşir Gazi Türbesi,SIGHT,39.640541,39.480957,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1d5196f1-7c0c-4b39-a1be-c9895c37f3b6,Ergan Dağı Göl Cafe,CAFE,39.631493,39.499687,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+1d20a469-9e76-4bad-a79e-959a624728ae,Ramada by Wyndham,HOTEL,39.631207,39.501152,Ergan Dağı Kayak Merkezi,Erzincan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+ddeed708-3af1-44fd-80db-952301b9618f,Kemah Ayazma Sancak aile Lokantası,RESTAURANT,39.598827,39.033813,,Kemah,CDLA-Permissive-2.0,Overture|meta
+017109d7-ed24-4771-9e04-2964289a7774,Sancak kafe,CAFE,39.602791,39.03624,korutürk meydanı,Kemah,CDLA-Permissive-2.0,Overture|meta
+e03f7a81-e09a-4858-80cf-4ed75c3fb64c,Erzincan Kemah Sancaktepe Kalesi,SIGHT,39.602615,39.036213,Kemah,Kemah,CDLA-Permissive-2.0,Overture|meta
+dc68fb2b-7183-4f49-b670-f287d7d2f988,Durak Aile Çay Bahçesi,CAFE,39.602524,39.036427,,Kemah,CDLA-Permissive-2.0,Overture|meta
+0b825698-caa5-43cc-8761-475f7af689ac,Gülabibey HAMAM CAFE,CAFE,39.602299,39.03611,Erzincan kemah ,Kemah,CDLA-Permissive-2.0,Overture|meta
+db69a576-de4b-479e-a692-59cb9d814f41,Kemah Tarihi Mengücek Sofrası & Hediyelik Eşya Dükkanı,RESTAURANT,39.602047,39.036007,Camii yanı,Kemah,CDLA-Permissive-2.0,Overture|meta
+20208d6e-1b5a-410e-9540-37ccb71ef3a9,Kemah Çarşı,SIGHT,39.602406,39.035725,,Kemah,CDLA-Permissive-2.0,Overture|meta
+0cf41c37-3889-42ec-a8c5-86f44d5bc7bf,Kemah Kalesi,SIGHT,39.602413,39.036106,,Kemah,CDLA-Permissive-2.0,Overture|meta
+9858dde0-88fc-470e-9a8f-001a524b38a1,Tostçu Bayram Usta,RESTAURANT,39.602322,39.03553,,Kemah,CDLA-Permissive-2.0,Overture|meta
+45150f46-0a8f-4fbf-8c47-adfd4fb67217,Seyyid İbrahim Dede Türbesi,SIGHT,39.601692,39.032646,Aksakal Köyü,Kemah,CDLA-Permissive-2.0,Overture|meta
+1fe303bb-d18f-44c1-8727-326ce487a6ec,Kemah Alabalik Restorani,RESTAURANT,39.601692,39.032646,Cirgişin Mah Küme Evler No:17 ,Kemah,CDLA-Permissive-2.0,Overture|meta
+0adfe7e6-3e36-49ae-b4fe-fea846bcaafa,Zeytindalı Cafe & Restaurant,CAFE,39.60421,39.029942,,Kemah,CDLA-Permissive-2.0,Overture|meta
+0f659415-b77a-4f57-9424-fa8dc62d9eae,Köroğlu Mağarası,SIGHT,39.608654,39.033218,,Kemah,CDLA-Permissive-2.0,Overture|meta
+061d988c-fd6e-48b5-a7db-b2f85eed38a4,Acemoğlu Köprüsü,SIGHT,39.609543,39.039089,Kemah Yolu-1. Cadde 12,Kemah,CDLA-Permissive-2.0,Overture|meta
+8a9e1ce7-88f0-4dfb-bfca-372c00dc933d,"Leventpınarı, İliç",SIGHT,39.618889,38.612778,,Refahiye,CDLA-Permissive-2.0,Overture|meta
+8298098a-8c07-4de6-b15f-6fc8e24c4cfa,Leventpınar Eyaleti,SIGHT,39.618336,38.614296,Leventpınar Köyü,Refahiye,CDLA-Permissive-2.0,Overture|meta
+b2b6b9e7-dcc5-430c-9cfd-fa046d17b538,Leventpınar Eyaleti,SIGHT,39.607784,38.590004,Leventpınar Köyü,Refahiye,CDLA-Permissive-2.0,Overture|meta
+4ee72946-a661-48a8-9825-11715f6cffbe,Yesilyurt Alabalık Tesisleri,RESTAURANT,39.476521,38.595127,,İliç,CDLA-Permissive-2.0,Overture|meta
+ac9e0bbc-f508-4ed7-894c-479ddd779ded,İLİÇ Gold Otel,HOTEL,39.457184,38.564034,İstasyon Caddesi 13,İliç,CDLA-Permissive-2.0,Overture|meta
+a0b15119-60c5-4624-ae18-af6181625dfe,İliç Köşebaşı Kebap Kokoreç,RESTAURANT,39.456459,38.564651,abdullah paşa mah. Hükümet Cad ,İliç,CDLA-Permissive-2.0,Overture|meta
+09eb8f40-7056-47b8-b1fe-b8252227dd37,Taçmahal Evleri,SIGHT,39.454964,38.564983,,İliç,CDLA-Permissive-2.0,Overture|meta
+e1bce0cb-5d3b-424b-844d-70d78643d6da,Osmanağa Konağı,HOTEL,39.455456,38.563118,,İliç,CDLA-Permissive-2.0,Overture|meta
+d043f834-93fd-4564-8ea8-7cb7a5ffdb1d,Otel Gedaşoğulları,HOTEL,39.451008,38.561169,Karataş Sokak 18/1,İliç,CDLA-Permissive-2.0,Overture|meta
+77421c62-0068-4a5e-b072-bc1b7c0549a9,Doğaperest Cafe Bıstro,CAFE,39.246429,38.502033,,Kemaliye,CDLA-Permissive-2.0,Overture|meta
+61f5cabc-1032-4da6-870a-67d802bf88cb,Tatuta Yalçıner Çiftliği / Kemaliye,RESTAURANT,39.240479,38.503174,Bağlar Sokak 4,Kemaliye,CDLA-Permissive-2.0,Overture|meta
+fc433974-1a11-4c6c-bfbf-00b09f4fdfc9,Özden Gazetesi Şifabağı Tesisleri,HOTEL,39.239964,38.51025,,Kemaliye,CDLA-Permissive-2.0,Overture|meta
+e150601e-3021-4fc9-a9b6-e8c95df19e26,"Süleymanuşağı, Pülümür",SIGHT,39.550438,39.993183,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+229cf7f9-ff86-4811-8baa-9b662f4a9333,Mutu Köprüsü,SIGHT,39.591793,39.874374,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+8e432c1d-df64-45b1-8f6f-a19df14c4b24,Şölen Aile Restaurant,RESTAURANT,39.587471,39.716404,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+2ae54673-f565-40bd-bc9c-38ff0e4e509b,Çağlayan Kırklar Türbesi,SIGHT,39.588669,39.714363,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+5ef7ac4b-610c-420a-b0f6-61456db5e0b7,Çağlar Şelale Restoran,RESTAURANT,39.588676,39.714214,suntras köyü,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+3a4551a9-432c-41cb-ae47-e811db7f0067,çağlayan Gül Restaurant,RESTAURANT,39.588882,39.713249,Şelale Cd.,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+0502b838-c12c-4b49-b93e-552077036850,Çağlar Restaurant,RESTAURANT,39.587563,39.717873,Şelale Cd. No : 179,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+9d92b712-c139-4c19-ae95-c6f8616f1e8a,Açelya Bahçe Restaurant,RESTAURANT,39.588829,39.721733,Şelale Cd. No:107,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+351388b6-ce44-4e94-98f8-1316da3ac11f,Çağlayan Kırklar Türbesi,SIGHT,39.586388,39.731144,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+5348a082-7cb2-4779-818a-e459998f03ee,Mertekli Köprüsü,SIGHT,39.643242,39.73399,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+42ea89d3-13af-4bd8-8df4-ed1a6d30b177,Mertekli Baraj,SIGHT,39.645668,39.732807,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+5fc5a73a-0a8b-49c6-8ab1-f84e827951c6,Çaglayan Girlevik Selalesi,SIGHT,39.609325,39.659489,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+fb5fccca-02eb-450a-a3c0-7bc42be491a8,Sibel Cafe,CAFE,39.717381,39.521339,Erzincan Havalimanı,Erzincan,CDLA-Permissive-2.0,Overture|meta
+135c2352-c047-440b-96f1-bbb87c0ea2f9,Erzincan Alptekin Tesisleri,RESTAURANT,39.707359,39.596085,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+739de93f-1808-409d-b596-4599a3e5889b,Saklıbahçe Restoran,RESTAURANT,39.735306,39.615479,Ekşisu Mesire Alanı Park İç Yolu,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+e410ab00-3ef1-4c32-b7e5-1cc3f254dd09,Eksisu Restaurant,RESTAURANT,39.734299,39.616161,Ekşisu Mesire Alanı Park İç Yolu,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+c4d7e2ee-e261-4f32-8eb5-25ce7367f98e,Erzincan Kızlar Kalesi,SIGHT,39.786888,39.585442,"Erzincan'ın Kuzeybatısında, Başpınar Köyü Üzerinde, Keşiş dağı yamacında.",Erzincan,CDLA-Permissive-2.0,Overture|meta
+c87d6623-c8c4-4922-a118-d11baed6a001,Kiraz Restaurant,RESTAURANT,39.730881,39.54335,"""Mardin Cad, No: 9 / E""",Erzincan,CDLA-Permissive-2.0,Overture|meta
+b9d3aa10-af11-4bd5-a78b-977fe0c11d1d,Kassap,RESTAURANT,39.73634,39.531132,3. Sk.,Erzincan,CDLA-Permissive-2.0,Overture|meta
+afa44eea-201a-4c1e-aa3a-2b6b7debf2fb,Meşhur Sanayi Köftecisi,RESTAURANT,39.735302,39.532234,Sanayi Sitesi,Erzincan,CDLA-Permissive-2.0,Overture|meta
+d416fd96-d0fc-4595-82b9-5e8cff83512b,Erzincan Bereket Ciğer,RESTAURANT,39.734955,39.532867,"ptt yanı, 2.sokak no 13/a, yeni sanayi sitesi",Erzincan,CDLA-Permissive-2.0,Overture|meta
+a2c8f268-5d71-4c05-9ac1-a97ae7ad5488,Büyük Erzincan Oteli,HOTEL,39.741352,39.518784,"Erzurum Karayolu Üzeri Tedaş Karşısı, Erzurum Karayolu Üzeri",Erzincan,CDLA-Permissive-2.0,Overture|meta
+089d2094-881d-44b5-8bc6-e12e4508c667,Hilton Garden Inn Erzincan,HOTEL,39.741016,39.515144,Fevzi Paşa Cd. No:36,Erzincan,CDLA-Permissive-2.0,OpenTravel|Overture|meta
+c2dd1d5f-fb1a-4053-aa42-8ec8b555d24b,Binali Yıldırım Parkı,SIGHT,39.750629,39.51862,,Erzincan,CDLA-Permissive-2.0,Overture|meta
+29070ce6-2c26-4c31-ad17-09a44cf4ddb1,Uzumlu Park Cay Bahcesi,CAFE,39.709888,39.700798,Cumhuriyet Cad.,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+89272eb3-185e-48a6-8655-75a5cf10ae04,Uzumlu Sefam Hotel,HOTEL,39.70084,39.686684,Erzincan BLV No:133,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+fcad43d8-c30e-4087-b83b-2fd681bdf6ab,Altıntepe Höyük,SIGHT,39.696346,39.646629,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+21a23879-f94e-4808-ad5a-8deec4c162c8,Cumhuriyet Myd.,SIGHT,39.804306,40.036869,,Çayırlı,CDLA-Permissive-2.0,Overture|meta
+f49d6b1a-7b9d-4d4d-8e33-6083057557dc,Çayırlı Parkı,SIGHT,39.806736,40.036789,,Çayırlı,CDLA-Permissive-2.0,Overture|meta
+500514bc-cade-4ccc-86ed-96fa028166f2,Altin Restaurant,RESTAURANT,39.805607,40.037071,Kazım Karabekir Cd.,Çayırlı,CDLA-Permissive-2.0,Overture|meta
+93b0ab6d-e6d1-4bb8-a03d-e6cc99a1a34b,Aygır Gölü Erzincan,SIGHT,39.808411,40.039116,,Çayırlı,CDLA-Permissive-2.0,Overture|meta
+e324af91-d543-4977-a5cd-829333e29c73,Çayırlı Öğretmenevi,HOTEL,39.807304,40.035431,,Çayırlı,CDLA-Permissive-2.0,Overture|meta
+682921fe-b6cd-4f4f-8001-43f6f2ec9ac6,"Aşağı Çamurdere, Çayırlı",SIGHT,39.8228,39.955898,,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+fc8bc3f9-05ef-4ded-a0bf-10abf13f0915,Konaklar Apart,HOTEL,39.978958,39.688107,HALİL ŞİŞMAN CADD.NO.15,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+c8d5e286-06a0-412c-aa34-59183c6befbc,Konaklar Apart,HOTEL,39.978905,39.688049,HALİL ŞİŞMAN CADD.NO.15,Üzümlü,CDLA-Permissive-2.0,Overture|meta
+5f474aa7-f781-4303-afc7-0a170b4363dc,Karaçay (Tercan),SIGHT,39.898163,40.28978,,Tercan,CDLA-Permissive-2.0,Overture|meta
+8b681695-294b-4813-a25b-284a75a90997,Çadırkaya,SIGHT,39.842941,40.22385,Çadırkaya,Tercan,CDLA-Permissive-2.0,Overture|meta
+4b3196dd-96ee-4830-920b-bbd9a78b2fdc,Tercan Cadirkaya Kalesi,SIGHT,39.843372,40.225368,,Tercan,CDLA-Permissive-2.0,Overture|meta
+56009d0b-bb6e-4cb6-a9ce-a49fe1d5ea3b,"Aşağı Kartalı, Çayırlı",SIGHT,39.776226,40.187927,,Çayırlı,CDLA-Permissive-2.0,Overture|meta
+cfad2025-cc95-4c03-a7c8-36b6e25602dc,Erzincân Mercan Karakum Tesisleri,RESTAURANT,39.742954,40.269917,100.26,Tercan,CDLA-Permissive-2.0,Overture|meta
+f04b0ce5-4727-4b0b-a754-c48635925eda,Karagül Dinlenme Tesisleri,RESTAURANT,39.741161,40.267666,,Tercan,CDLA-Permissive-2.0,Overture|meta
+09742906-e720-4dc1-812e-0a5e8a1027c9,Kardeşler Lokantası,RESTAURANT,39.746155,40.260101,Zübeyde Hanım Caddesi 55A,Tercan,CDLA-Permissive-2.0,Overture|meta
+e0817b66-2f13-4eb0-8bf0-95811e846bbb,Mercan Cevher Dudayev Parkı,SIGHT,39.747288,40.260292,,Tercan,CDLA-Permissive-2.0,Overture|meta
+8e4e2060-a08d-455e-b619-43a3450603c2,Grand Karagül Hotel ,HOTEL,39.744625,40.272797,Akşemsettin Mahallesi E-80 Karayolu NO:13 ,Tercan,CDLA-Permissive-2.0,Overture|meta
+828e4aba-cca4-4a11-8b33-364343a6066a,Otlukbeli Gölü,SIGHT,39.713882,40.239571,,Tercan,CDLA-Permissive-2.0,Overture|meta
+7ab86093-bc2c-420b-ac56-4d7c40f52921,Tercan Barajı ve Hidroelektrik Santrali,SIGHT,39.75161,40.400139,,Tercan,CDLA-Permissive-2.0,Overture|meta
+bb76b53f-6dc7-4ff1-b43c-cdca39fb509c,Mamahatun Kervansarayı,SIGHT,39.777199,40.38612,,Tercan,CDLA-Permissive-2.0,Overture|meta
+63fbdc8b-41a1-43da-8ff6-d8502674564e,Polat pastanesi,CAFE,39.777596,40.383797,Kervansaray Cd. No:107,Tercan,CDLA-Permissive-2.0,Overture|meta
+d75308fd-a7ee-479b-9eeb-926336792e92,Tercan Kervan saray,SIGHT,39.776501,40.384064,,Tercan,CDLA-Permissive-2.0,Overture|meta
+1e00c9bf-38cf-4b94-b597-f21992fed385,Tercan Çarşı,SIGHT,39.776802,40.383526,,Tercan,CDLA-Permissive-2.0,Overture|meta
+fc89546a-6048-4346-afe9-c66bbf644def,Tercan Kervansaray Hotel,HOTEL,39.776958,40.382633,,Tercan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture
+7e5a3b2c-2b7b-4fd5-9cfe-0fcb9b994b6c,Köroglu Dinlenme Tesisleri  Tercan/ Erzincan,RESTAURANT,39.780201,40.3745,,Tercan,CDLA-Permissive-2.0,Overture|meta
