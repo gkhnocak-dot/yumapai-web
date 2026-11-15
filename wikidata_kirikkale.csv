@@ -1,22 +1,22 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q557517,Ankuwa,SIGHT,40.083333,33.500000,,,CC0-1.0,13,Ankuwa,,arkeolojik_sit,antik kent
-Q114734090,Büklükale,SIGHT,39.583528,33.428417,,Karakeçili (ilçe),CC0-1.0,5,Büklükale,,arkeolojik_sit | anıt_heykel,höyük | tepe | insan yerleşimi
-Q19613355,Çeşnigir Köprüsü,SIGHT,39.580860,33.429390,,,CC0-1.0,4,Çeşnigir Bridge,,köprü,yaya köprüsü | taş köprü | kemerli köprü
-Q56301989,Ecobriga,SIGHT,40.038365,33.752152,,,CC0-1.0,3,Ecobriga,,arkeolojik_sit,antik kent
-Q28136374,MKE Silahsan Özel Müzesi,SIGHT,39.846667,33.515278,,,CC0-1.0,3,Kırıkkale MKE Weapons Industry Museum,,müze,müze | özel müze | endüstri müzesi
-Q61077823,Karaahmetli Tabiat Parkı,ACTIVITY,39.659430,33.453084,,,CC0-1.0,2,Karaahmetli Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
-Q20472639,Kırıkkale Nur Camii,SIGHT,39.840826,33.503051,,,CC0-1.0,2,Kırıkkale Nur Mosque,,cami,cami
-Q21528301,Çerikli Saat Kulesi,SIGHT,39.894222,34.000583,,,CC0-1.0,1,Çerikli Clock Tower,,kule | kule_saat,saat kulesi
-Q121345065,Şeyh Şami Camii ve Türbesi,SIGHT,40.155444,33.715972,,,CC0-1.0,1,Şeyh Şami Mosque and Türbe,,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe
-Q134960553,Armutlu Höyük,SIGHT,39.519325,33.623277,,,CC0-1.0,0,Armutlu Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131391826,Ballı Baba Türbesi,SIGHT,39.923431,33.717861,,,CC0-1.0,0,Tomb of Ballı Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960554,Fasıl Özü 1 Höyüğü,SIGHT,39.602607,33.578203,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q134960756,Gültepe Höyüğü,SIGHT,40.127849,33.819649,,,CC0-1.0,0,Gültepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q131390681,Haydar Baba Türbesi,SIGHT,39.586095,33.499761,,Keskin (ilçe),CC0-1.0,0,Tomb of Haydar Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390863,Koçu Baba Türbesi,SIGHT,40.069711,33.880033,,,CC0-1.0,0,Koçu Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960492,"Kültepe Höyüğü, Çongar",SIGHT,39.862967,33.911719,,Delice,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q135959757,Seydintepe Tümülüsü,SIGHT,40.095513,33.829479,,,CC0-1.0,0,Seydintepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139420648,Seyit Şeyh Mustafa Türbesi,SIGHT,40.056510,33.991723,,Delice,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132682044,Silah Sanayi Müzesi,SIGHT,39.850274,33.453622,,,CC0-1.0,0,,,müze,müze
-Q134960883,Yaşçayır Höyük,SIGHT,39.564798,33.588378,,,CC0-1.0,0,Yaşçayır Höyük,,anıt_heykel | arkeolojik_sit,höyük
-Q132752662,Çeşnigir Hanı,SIGHT,39.580355,33.428095,,,CC0-1.0,0,Çeşnigir Hanı,,han_hamam_çarşı,kervansaray
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q557517,Ankuwa,SIGHT,40.083333,33.500000,,,CC0-1.0,13,Ankuwa,,arkeolojik_sit,antik kent,Q15661340
+Q114734090,Büklükale,SIGHT,39.583528,33.428417,,Karakeçili (ilçe),CC0-1.0,5,Büklükale,,arkeolojik_sit | anıt_heykel,höyük | tepe | insan yerleşimi,"Q54050,Q486972,Q755017"
+Q19613355,Çeşnigir Köprüsü,SIGHT,39.580860,33.429390,,,CC0-1.0,4,Çeşnigir Bridge,,köprü,yaya köprüsü | taş köprü | kemerli köprü,"Q158438,Q1068842,Q3397526"
+Q56301989,Ecobriga,SIGHT,40.038365,33.752152,,,CC0-1.0,3,Ecobriga,,arkeolojik_sit,antik kent,Q15661340
+Q28136374,MKE Silahsan Özel Müzesi,SIGHT,39.846667,33.515278,,,CC0-1.0,3,Kırıkkale MKE Weapons Industry Museum,,müze,müze | özel müze | endüstri müzesi,"Q33506,Q614316,Q1662089"
+Q61077823,Karaahmetli Tabiat Parkı,ACTIVITY,39.659430,33.453084,,,CC0-1.0,2,Karaahmetli Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye),Q108060572
+Q20472639,Kırıkkale Nur Camii,SIGHT,39.840826,33.503051,,,CC0-1.0,2,Kırıkkale Nur Mosque,,cami,cami,Q32815
+Q21528301,Çerikli Saat Kulesi,SIGHT,39.894222,34.000583,,,CC0-1.0,1,Çerikli Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q121345065,Şeyh Şami Camii ve Türbesi,SIGHT,40.155444,33.715972,,,CC0-1.0,1,Şeyh Şami Mosque and Türbe,,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe,"Q32815,Q838159"
+Q134960553,Armutlu Höyük,SIGHT,39.519325,33.623277,,,CC0-1.0,0,Armutlu Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391826,Ballı Baba Türbesi,SIGHT,39.923431,33.717861,,,CC0-1.0,0,Tomb of Ballı Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960554,Fasıl Özü 1 Höyüğü,SIGHT,39.602607,33.578203,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960756,Gültepe Höyüğü,SIGHT,40.127849,33.819649,,,CC0-1.0,0,Gültepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390681,Haydar Baba Türbesi,SIGHT,39.586095,33.499761,,Keskin (ilçe),CC0-1.0,0,Tomb of Haydar Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390863,Koçu Baba Türbesi,SIGHT,40.069711,33.880033,,,CC0-1.0,0,Koçu Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960492,"Kültepe Höyüğü, Çongar",SIGHT,39.862967,33.911719,,Delice,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135959757,Seydintepe Tümülüsü,SIGHT,40.095513,33.829479,,,CC0-1.0,0,Seydintepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139420648,Seyit Şeyh Mustafa Türbesi,SIGHT,40.056510,33.991723,,Delice,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132682044,Silah Sanayi Müzesi,SIGHT,39.850274,33.453622,,,CC0-1.0,0,,,müze,müze,Q33506
+Q134960883,Yaşçayır Höyük,SIGHT,39.564798,33.588378,,,CC0-1.0,0,Yaşçayır Höyük,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q132752662,Çeşnigir Hanı,SIGHT,39.580355,33.428095,,,CC0-1.0,0,Çeşnigir Hanı,,han_hamam_çarşı,kervansaray,Q186347

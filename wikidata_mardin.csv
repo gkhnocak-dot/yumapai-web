@@ -1,161 +1,161 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q188022,Mardin,SIGHT,37.313056,40.735000,,,CC0-1.0,78,Mardin,,,Türkiye'de büyükşehir belediyeleri | şehir | büyük şehir (100+)
-Q585145,Dara,SIGHT,37.183333,40.933333,,,CC0-1.0,26,Dara,,arkeolojik_sit,arkeolojik sit
-Q1434981,Mor Gabriel Manastırı,SIGHT,37.321778,41.538500,,Midyat,CC0-1.0,22,Mor Gabriel Monastery,Deyrulumur | Deyrulumur Manastırı,manastır_sinagog,manastır
-Q1776325,Deyrulzafarân Manastırı,SIGHT,37.299389,40.792611,,,CC0-1.0,15,Mor Hananyo Monastery,Deyrülzeferan Manastırı | Deyrulzafarân manastırı,manastır_sinagog,manastır
-Q11009071,Mor Evgin Manastırı,SIGHT,37.193889,41.430278,,,CC0-1.0,9,Monastery of Mor Augin,Mor Augin Manastırı,manastır_sinagog,manastır
-Q104823057,Boncuklu Tarla,SIGHT,37.529444,41.832361,,Dargeçit,CC0-1.0,7,Boncuklu Tarla,,arkeolojik_sit,arkeolojik sit
-Q6036823,Mardin Kalesi,SIGHT,37.315441,40.738393,,,CC0-1.0,7,Mardin Castle,,kale_sur | arkeolojik_sit,iç kale | kale | arkeolojik sit
-Q28136311,Mardin Müzesi,SIGHT,37.313500,40.734806,,,CC0-1.0,7,Mardin Museum,Süryani Katolik Patrikhanesi,müze,müze
-Q1966853,Mor Yakup Kilisesi,SIGHT,37.067000,41.215200,,,CC0-1.0,6,Saint Jacob of Nisibis church,,kilise,kilise
-Q23774723,Mor Yakup Manastırı,SIGHT,37.483278,41.396694,,Midyat,CC0-1.0,5,Mor Yakup Monastery,Barıştepe Kilisesi | Barıştepe Mor Yakup Manastırı | Salah Mor Yakup Manastırı,manastır_sinagog,manastır
-Q14524112,Nisibis,SIGHT,37.070000,41.214444,,,CC0-1.0,5,Nisibis,,arkeolojik_sit,antik kent
-Q16950631,Mardin Eşiği,SIGHT,37.408056,40.716111,,,CC0-1.0,4,Mardin Plateau,Mardin Platosu,,yayla
-Q3585872,Meryem Ana Kilisesi,SIGHT,37.474889,41.609556,,Midyat,CC0-1.0,4,St. Mary Church,Yoldath Aloho | Anıtlı (Hah) Meryem Ana Manastırı,manastır_sinagog | kilise,kilise | manastır
-Q31188387,Zeynel Abidin Camii,SIGHT,37.067222,41.214167,,,CC0-1.0,4,Zeynel Abidin Mosque,"Zeynel Abidin Camii, Nusaybin",cami | külliye_medrese_türbe,cami | külliye
-Q1165614,Dara Barajı,SIGHT,37.182972,40.951222,,,CC0-1.0,3,Dara Dam,,arkeolojik_sit,Antik Roma barajı | arch dam
-Q5857908,Kırklar Kilisesi,SIGHT,37.313272,40.732358,,,CC0-1.0,3,Kırklar Church,Mor Benham,kilise,kilise
-Q111972948,Matiate,SIGHT,37.416667,41.353056,,Midyat,CC0-1.0,3,Matiate,,arkeolojik_sit,arkeolojik sit | yeraltı şehri
-Q113563327,Mor Abrohom Manastırı,SIGHT,37.412556,41.385444,,Midyat,CC0-1.0,3,Mor Hobil Mor Abrohom Monastery,Mor Hobil Mor Abrohom Manastırı | Mor Hobil-Mor Abrohom Manastırı,manastır_sinagog,manastır | bina
-Q6035976,Mor Loozor Manastırı,SIGHT,37.468320,41.334671,,Midyat,CC0-1.0,3,Mor Loozor Monastery,,manastır_sinagog,manastır
-Q131527185,Mor İzozoel Kilisesi,SIGHT,37.445167,41.527028,,Midyat,CC0-1.0,3,Mor Azozoel Church,Mor Azozo Kilisesi,kilise,kilise
-Q136717885,Bethil Kilisesi,SIGHT,37.417722,41.377722,,Midyat,CC0-1.0,2,Bethel Church,,kilise,kilise
-Q20471610,Mardin Surp Kevork Kilisesi,SIGHT,37.368938,40.270571,,Derik,CC0-1.0,2,Mardin Surp Kevork Church,,kilise,kilise
-Q65220334,Mardin Ulu Camii,SIGHT,37.312722,40.739306,,,CC0-1.0,2,Great Mosque of Mardin,,cami,cami
-Q98091600,Midyat Ulu Camii,SIGHT,37.414278,41.373250,,Midyat,CC0-1.0,2,Great Mosque of Midyat,Cevat Paşa Camii,cami,cami
-Q134500889,Mor Abay Manastırı,SIGHT,37.557417,40.958389,,Savur,CC0-1.0,2,Mor Abai Monastery,,manastır_sinagog,manastır
-Q136730925,Mor Ahısnoya Kilisesi,SIGHT,37.412413,41.379051,,Midyat,CC0-1.0,2,Mor Ahısnoya Church,,kilise,kilise
-Q125407751,Mor Dimet Kilisesi,SIGHT,37.512722,41.538361,,Midyat,CC0-1.0,2,Mor Dimet Church,,kilise,kilise
-Q131527174,Mor Kuryakos Kilisesi,SIGHT,37.456472,41.459583,,Midyat,CC0-1.0,2,Mor Quryaqos Church,,kilise,kilise
-Q131527192,Mor Mihail Kilisesi,SIGHT,37.307644,40.733269,,,CC0-1.0,2,Mor Mihail Church,Burç Manastırı,kilise,kilise
-Q134499768,Mor Sobo Kilisesi,SIGHT,37.476444,41.610111,,Midyat,CC0-1.0,2,Mor Sobo Church,Hah Katedrali | Mor Sobo Katedrali,kilise,kilise
-Q49319049,Aşağımitvan Mağaraları,ACTIVITY,37.186111,41.587778,,,CC0-1.0,1,Aşağımitvan Caves,,doğa,mağara
-Q49319058,Baskaya Mağaraları,ACTIVITY,37.150556,41.370556,,,CC0-1.0,1,Başkaya Caves,,doğa,mağara
-Q49319068,Berraha Mağarası,ACTIVITY,37.501389,40.766944,,,CC0-1.0,1,Berraha Cave,,doğa,mağara
-Q49319118,Davrik Mağarası,ACTIVITY,37.228889,41.648056,,,CC0-1.0,1,Davrik Cave,,doğa,mağara
-Q6099910,Girharrin Höyüğü,SIGHT,37.225425,40.784275,,,CC0-1.0,1,Girharrin Höyük,Ortaköy Höyüğü | Girharrin Höyük,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q49319218,Güvenli Mağaraları,ACTIVITY,37.456944,41.732778,,,CC0-1.0,1,Güvenli Caves,,doğa,mağara
-Q6101667,Gırnavaz Höyüğü,SIGHT,37.105138,41.230617,,,CC0-1.0,1,Girnavaz Mound,Girnavaz Höyüğü | Girnavaz Höyük | Gırnavaz Höyük | Girnewaz Höyüğü | Girnewaz Höyük,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q49319224,Han Mağaraları,ACTIVITY,37.444722,40.841111,,,CC0-1.0,1,Han Caves,,doğa,mağara
-Q49319241,Hatun Mağarası,ACTIVITY,37.645833,40.705000,,,CC0-1.0,1,Hatun Cave,,doğa,mağara
-Q49319253,Hemi Mağarası,ACTIVITY,37.586111,40.921389,,,CC0-1.0,1,Hemi Cave,,doğa,mağara
-Q49319300,Kafilmardin Mağarası,ACTIVITY,37.556111,41.072222,,,CC0-1.0,1,Kafilmardin Cave,,doğa,mağara
-Q49319340,Katırmağaraları,ACTIVITY,37.626667,40.674167,,,CC0-1.0,1,Katır Caves,,doğa,mağara
-Q6083618,Kerküşti Höyük,SIGHT,37.205278,40.178436,,,CC0-1.0,1,Kerküşti Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q49319366,Kırkdirek Mağaraları,ACTIVITY,37.671111,40.726111,,,CC0-1.0,1,Kırkdirek Caves,,doğa,mağara
-Q125536834,Mardin Sakıp Sabancı Kent Müzesi,SIGHT,37.314868,40.746211,,,CC0-1.0,1,Sakıp Sabancı Mardin City Museum,"Sakıp Sabancı Mardin Kent Müzesi, Dilek Sabancı Sanat Galerisi",müze,müze
-Q131738758,Mardin Ulu Camii Hamamı,SIGHT,37.312633,40.739620,,,CC0-1.0,1,Mardin Grande Mosque Hamam,,han_hamam_çarşı,hamam
-Q125536786,Mardin Yaşayan Müze,SIGHT,37.314330,40.741621,,,CC0-1.0,1,,Yaşayan Müze Mardin,müze,müze | özel müze
-Q49343022,Marinboğazı,ACTIVITY,37.172500,41.390000,,,CC0-1.0,1,Marinboğazı,,doğa,defile
-Q131523726,Mor Yakup D’Karno Manastırı,SIGHT,37.200729,41.445396,,,CC0-1.0,1,,Deyr Gazelke,manastır_sinagog,manastır
-Q49319598,Muhammedi Mağarası,ACTIVITY,37.458333,40.309167,,,CC0-1.0,1,Muhammedi Cave,,doğa,mağara
-Q49319743,Sefa Mağarası,ACTIVITY,37.299167,40.568889,,,CC0-1.0,1,Sefa Cave,,doğa,mağara
-Q21527346,Yeşilli Saat Kulesi,SIGHT,37.339056,40.820139,,,CC0-1.0,1,Yeşilli Clock Tower,,kule | kule_saat,saat kulesi
-Q49319912,Çibbilraz Mağarası,ACTIVITY,37.577222,40.931944,,,CC0-1.0,1,Çibbilraz Cave,,doğa,mağara
-Q49319914,Çile Mağaraları,ACTIVITY,37.304722,40.785278,,,CC0-1.0,1,Çile Caves,,doğa,mağara
-Q49319941,Şehriate Mağaraları,ACTIVITY,37.193333,41.525556,,,CC0-1.0,1,Şehriate Caves,,doğa,mağara
-Q139852948,Akbalan Mezrası Gözetleme Kulesi,SIGHT,37.644469,41.767949,,Dargeçit ilçesi,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q134960311,Akziyaret Höyüğü,SIGHT,37.190932,40.507599,,,CC0-1.0,0,Akziyaret Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q134960296,Akça Höyük,SIGHT,37.197017,40.445760,,,CC0-1.0,0,Akça Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q134960302,Araköy Höyüğü,SIGHT,37.205722,40.530043,,,CC0-1.0,0,Araköy Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139420992,Arap Çelebi Höyüğü,SIGHT,37.334682,40.154556,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q132752977,"Artuklu Kervansarayı, Mardin",SIGHT,37.314415,40.748360,,,CC0-1.0,0,Artuklu Caravanserai (Mardin),,han_hamam_çarşı,kervansaray
-Q131901939,Aznavur Kalesi,SIGHT,37.083119,41.516819,,,CC0-1.0,0,Aznavur Castle,,kale_sur,kale
-Q139428985,Bab’ussor Hamamı,SIGHT,37.314943,40.747732,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q134960301,Bektaş Höyük,SIGHT,37.124539,40.441043,,,CC0-1.0,0,Bektaş Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q134960305,Büyükboğaziye Höyüğü,SIGHT,36.966089,40.296633,,,CC0-1.0,0,Büyükboğaziye Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139428524,Büyükdere Höyük,SIGHT,37.056728,40.462941,,Kızıltepe,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139419197,Bırç Kulesi,SIGHT,37.501872,40.179488,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q139428550,Cillin Kalesi,SIGHT,37.614043,40.697833,,Savur,CC0-1.0,0,,,kale_sur,kale
-Q139436121,Dara Ören Yeri,SIGHT,37.175835,40.953621,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri
-Q139436122,Dara Ören Yeri Nekropolü,SIGHT,37.177536,40.948769,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q139421769,Dede Garkın Türbesi,SIGHT,37.164080,40.076866,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131901938,Dermetinan Kalesi,SIGHT,37.478954,40.202000,,,CC0-1.0,0,Dermetinan Castle,,kale_sur,kale
-Q134960297,Dikmen Höyük,SIGHT,37.090306,40.412712,,,CC0-1.0,0,Dikmen Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139420981,Dumanlı Höyüğü,SIGHT,37.329303,40.159832,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139437227,Eminüddin Külliyesi,SIGHT,37.311462,40.731663,,,CC0-1.0,0,,,külliye_medrese_türbe,külliye
-Q131738451,Emir Hamamı,SIGHT,37.313705,40.741756,,,CC0-1.0,0,Emir Baths,,han_hamam_çarşı,hamam
-Q134960304,Eymirli Höyüğü,SIGHT,37.170768,40.685982,,,CC0-1.0,0,Eymirli Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139421958,Fittin Harabeleri,SIGHT,37.387426,40.202443,,Derik,CC0-1.0,0,,,arkeolojik_sit,antik kent
-Q139422226,Gavur Fırını (Derik),SIGHT,37.363889,40.281971,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q134960310,Gırbel Höyük,SIGHT,37.085198,40.441791,,,CC0-1.0,0,Gırbel Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139420983,Gıre Cumayi Höyüğü,SIGHT,37.282015,40.279327,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139421780,Gıre Çala Höyüğü,SIGHT,37.342149,40.268928,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139853010,Harabe Tepe Höyüğü,SIGHT,37.540104,41.813370,,Dargeçit,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139421718,Harami Höyüğü,SIGHT,37.167750,40.242135,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q131902233,Hatem Tai Kalesi,SIGHT,37.243263,41.654015,,,CC0-1.0,0,,Rhabdion Kalesi,kale_sur,kale
-Q139428555,Hisarkaya Kalesi,SIGHT,37.643453,40.907151,,Savur,CC0-1.0,0,,,kale_sur,kale
-Q139421951,Hofi ve Zarova Tepe Üstü Yerleşimi,SIGHT,37.360292,40.159347,,Derik,CC0-1.0,0,,,arkeolojik_sit,antik kent
-Q139421742,Hz. Seydoş Türbesi,SIGHT,37.431530,40.116576,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139420986,Hırbe Gura Höyüğü,SIGHT,37.273987,40.256415,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139429162,Hıseynika Kalesi,SIGHT,37.420588,41.474185,,Midyat,CC0-1.0,0,,,kale_sur,kale
-Q139428528,Kalecik Kalesi (Nusaybin),SIGHT,37.150974,41.242142,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q139421684,Kal’at Mara Kalesi,SIGHT,37.301645,40.774854,,Derik,CC0-1.0,0,,,kale_sur,kale
-Q134960309,Katarlı Höyük,SIGHT,37.152248,40.419647,,,CC0-1.0,0,Katarlı Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139432600,Kaya Mezarları ve Arkeolojik Yerleşim Alanı (Midyat),SIGHT,37.409012,41.385101,,Midyat,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139421707,Keleke Höyüğü,SIGHT,37.249933,40.395662,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139421477,Kesrik Tepeüstü Yerleşimi,SIGHT,37.421159,40.237575,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q134728081,Kesrika Nazukê Nekropol Alanı Anıtsal Mezar,SIGHT,37.639767,40.915800,,Savur,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q134960312,Koca Höyük,SIGHT,37.725909,40.671948,,Savur,CC0-1.0,0,Koca Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139421720,Kocatepe Höyüğü,SIGHT,37.236933,40.164095,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139421765,Kral Kızının Tahtı,SIGHT,37.379235,40.270185,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q139421775,Kuyuburnu Kalesi,SIGHT,37.298649,40.342364,,Derik,CC0-1.0,0,,,kale_sur,kale
-Q139420984,Küçük Selme Höyüğü,SIGHT,37.219650,40.184183,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q134960300,Kıleybin Höyüğü,SIGHT,37.148790,40.591557,,,CC0-1.0,0,Kıleybin Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139421508,Kızlar Yerleşimi,SIGHT,37.136701,40.096960,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139420419,Mancel Kaya Mezarları,SIGHT,37.374939,40.284163,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
-Q132681798,Mardin Kışlası,SIGHT,37.314526,40.746090,,,CC0-1.0,0,Mardin Barracks,Sakıp Sabancı Mardin Kent Müzesi,müze,müze
-Q21526560,Mardin Saat Kulesi,SIGHT,37.325250,40.717056,,,CC0-1.0,0,Mardin Clock Tower,,kule | kule_saat,saat kulesi
-Q139421704,Marin Harabeleri ve Kalesi,SIGHT,37.167092,41.386023,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q139429160,Masare Kalesi,SIGHT,37.245797,41.310469,,Midyat,CC0-1.0,0,,,kale_sur,kale
-Q139419193,Mavan Kaya Mezarı,SIGHT,37.375473,40.332812,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
-Q135393214,Midyat Saat Kulesi,SIGHT,37.415298,41.373386,,Midyat,CC0-1.0,0,Midyat Clock Tower,,kule | kule_saat,saat kulesi
-Q125398668,Midyat Telkari Müzesi,SIGHT,37.415410,41.375700,,Midyat,CC0-1.0,0,Midyat Filigree Museum,,müze,sanat müzesi
-Q135582874,Mir Türbesi,SIGHT,37.179123,40.958465,,,CC0-1.0,0,Mir Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131523746,Mor Malke Manastırı,SIGHT,37.238563,41.432896,,,CC0-1.0,0,Monastery of Mor Malke,,manastır_sinagog,manastır
-Q139429172,Mor Yakup Manastırı,SIGHT,37.303572,40.797940,,,CC0-1.0,0,Mor Yakup Monastery,,manastır_sinagog,manastır
-Q139421705,Mor Yuhanon Tayyoyo Manastırı,SIGHT,37.171684,41.418264,,Nusaybin (ilçe),CC0-1.0,0,,,manastır_sinagog,manastır
-Q139429167,Mor Yusuf Sevması Kaya Manastırı,SIGHT,37.300721,40.799945,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139435586,Necmeddin Külliyesi,SIGHT,37.311092,40.732613,,,CC0-1.0,0,,,külliye_medrese_türbe,külliye
-Q135582865,Pirê Merdan Türbesi,SIGHT,37.476626,40.683713,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139421715,Pınarcık Nekropol Alanı,SIGHT,37.385941,40.205708,,Derik,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q131901937,"Rabat Kalesi, Mardin",SIGHT,37.404426,40.198782,,Derik,CC0-1.0,0,Rabat Castle (Mardin),,kale_sur,kale
-Q139428558,Savur Kalesi,SIGHT,37.541244,40.886794,,Savur,CC0-1.0,0,,,kale_sur,kale
-Q139853550,Sağır Kadın Harabeleri Kaya Mezarı,SIGHT,37.530178,41.712708,,Dargeçit,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q132182939,Sere Şippe Höyük,SIGHT,37.561771,41.844261,,Dargeçit,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139428525,Servan Kalesi,SIGHT,37.151271,41.639194,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q139428527,Serçehan Kalesi,SIGHT,37.106517,41.073037,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q135582864,Seyyid Muhammed El Hüseyn-i Türbesi,SIGHT,37.178652,40.956601,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139421743,Sin Hazretleri Türbesi,SIGHT,37.445402,40.085464,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960299,Sinera Höyüğü,SIGHT,37.138762,40.394450,,,CC0-1.0,0,Sinera Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139421955,Sisan Harabeleri ve Tapınağı,SIGHT,37.458526,40.292301,,Derik,CC0-1.0,0,,,arkeolojik_sit,antik kent
-Q131391384,Sultan Hamza Türbesi,SIGHT,37.316448,40.750481,,,CC0-1.0,0,Tomb of Sultan Hamza,Hamza-i Kebir Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132752947,"Surur Hanı, Mardin",SIGHT,37.313776,40.740614,,,CC0-1.0,0,Surur Hanı (Mardin),Hacı Sadık Ağa Hanı,han_hamam_çarşı,kervansaray
-Q134960298,Sürekli Höyük,SIGHT,37.197964,40.399068,,,CC0-1.0,0,Sürekli Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139421764,Telbısım Harabeleri,SIGHT,37.339356,40.272257,,Derik,CC0-1.0,0,,,kale_sur,kale
-Q134960307,Tell Arrada Höyük,SIGHT,37.019820,40.412385,,,CC0-1.0,0,Tell Arrada Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q134960306,Timurçiftliği Höyük,SIGHT,37.074176,40.477871,,,CC0-1.0,0,Timurçiftliği Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139419201,Tumık Gözetleme Kalesi,SIGHT,37.365895,40.219041,,Derik,CC0-1.0,0,,,kale_sur,kale
-Q134960978,Uzunköy Kalesi,SIGHT,37.310910,40.853875,,,CC0-1.0,0,Uzunköy Castle,,arkeolojik_sit | anıt_heykel,höyük
-Q134960308,Yaşar Höyük,SIGHT,37.085683,40.544861,,,CC0-1.0,0,Yaşar Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139428984,Yenikapı Hamamı,SIGHT,37.310662,40.736208,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q131390923,Zeynel Abidin Türbesi,SIGHT,37.067062,41.214043,,,CC0-1.0,0,Zeynel Abidin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139421706,Çadırlı Höyüğü,SIGHT,37.173193,40.293156,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q134960303,Çağıl Höyüğü,SIGHT,37.122125,40.678661,,,CC0-1.0,0,Çağıl Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139420990,Çekem Höyük,SIGHT,37.240414,40.202199,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q132182967,Çemka Höyük,SIGHT,37.522854,41.840618,,Dargeçit,CC0-1.0,0,Çemka Höyük,Su Kenarı Höyük,arkeolojik_sit | anıt_heykel,höyük
-Q134960803,Çitlibağ Höyüğü,SIGHT,37.208734,40.491445,,,CC0-1.0,0,Çitlibağ Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139421778,Çıldız Höyük,SIGHT,37.254145,40.263330,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139421741,Ömer Baba Türbesi,SIGHT,37.386040,40.149740,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139420988,İnselke Höyüğü,SIGHT,37.293257,40.193995,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q135582877,Şahkulubey Kümbeti,SIGHT,37.191807,40.581257,,,CC0-1.0,0,Şahkulubey Kümbeti,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
-Q139421768,Şahsuvar Türbesi,SIGHT,37.292723,40.319308,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582872,Şeyh Hamidi Türbesi,SIGHT,37.179387,40.956499,,,CC0-1.0,0,Şeyh Hamidi Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582870,Şeyh Hamit Türbesi,SIGHT,37.317180,40.756413,,,CC0-1.0,0,Şeyh Hamit Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582871,Şeyh Kasım Halveti ve Türbesi,SIGHT,37.310602,40.736603,,,CC0-1.0,0,Şeyh Kasım Halveti ve Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582866,Şeyh Mehmet Hekim Türbesi,SIGHT,37.325915,40.736381,,,CC0-1.0,0,Şeyh Mehmet Hekim Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582867,Şeyh Muhammed Nur Türbesi,SIGHT,37.227335,40.975799,,,CC0-1.0,0,Şeyh Muhammed Nur Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582869,Şeyh Muhammed Türbesi,SIGHT,37.312792,40.747975,,,CC0-1.0,0,Şeyh Muhammed Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582868,Şeyh Salih Türbesi,SIGHT,37.310246,40.743689,,,CC0-1.0,0,Şeyh Salih Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582863,Şeyh Yusuf Hemedani Türbesi,SIGHT,37.181784,40.951542,,,CC0-1.0,0,Şeyh Yusuf Hemedani Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582875,Şeyh İmameddin Türbesi,SIGHT,37.313736,40.748048,,,CC0-1.0,0,Şeyh İmameddin Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q188022,Mardin,SIGHT,37.313056,40.735000,,,CC0-1.0,78,Mardin,,,Türkiye'de büyükşehir belediyeleri | şehir | büyük şehir (100+),"Q515,Q1549591,Q2716259"
+Q585145,Dara,SIGHT,37.183333,40.933333,,,CC0-1.0,26,Dara,,arkeolojik_sit,arkeolojik sit,Q839954
+Q1434981,Mor Gabriel Manastırı,SIGHT,37.321778,41.538500,,Midyat,CC0-1.0,22,Mor Gabriel Monastery,Deyrulumur | Deyrulumur Manastırı,manastır_sinagog,manastır,Q44613
+Q1776325,Deyrulzafarân Manastırı,SIGHT,37.299389,40.792611,,,CC0-1.0,15,Mor Hananyo Monastery,Deyrülzeferan Manastırı | Deyrulzafarân manastırı,manastır_sinagog,manastır,Q44613
+Q11009071,Mor Evgin Manastırı,SIGHT,37.193889,41.430278,,,CC0-1.0,9,Monastery of Mor Augin,Mor Augin Manastırı,manastır_sinagog,manastır,Q44613
+Q104823057,Boncuklu Tarla,SIGHT,37.529444,41.832361,,Dargeçit,CC0-1.0,7,Boncuklu Tarla,,arkeolojik_sit,arkeolojik sit,Q839954
+Q6036823,Mardin Kalesi,SIGHT,37.315441,40.738393,,,CC0-1.0,7,Mardin Castle,,kale_sur | arkeolojik_sit,iç kale | kale | arkeolojik sit,"Q23413,Q57831,Q88291,Q839954"
+Q28136311,Mardin Müzesi,SIGHT,37.313500,40.734806,,,CC0-1.0,7,Mardin Museum,Süryani Katolik Patrikhanesi,müze,müze,Q33506
+Q1966853,Mor Yakup Kilisesi,SIGHT,37.067000,41.215200,,,CC0-1.0,6,Saint Jacob of Nisibis church,,kilise,kilise,Q16970
+Q23774723,Mor Yakup Manastırı,SIGHT,37.483278,41.396694,,Midyat,CC0-1.0,5,Mor Yakup Monastery,Barıştepe Kilisesi | Barıştepe Mor Yakup Manastırı | Salah Mor Yakup Manastırı,manastır_sinagog,manastır,Q44613
+Q14524112,Nisibis,SIGHT,37.070000,41.214444,,,CC0-1.0,5,Nisibis,,arkeolojik_sit,antik kent,Q15661340
+Q16950631,Mardin Eşiği,SIGHT,37.408056,40.716111,,,CC0-1.0,4,Mardin Plateau,Mardin Platosu,,yayla,Q75520
+Q3585872,Meryem Ana Kilisesi,SIGHT,37.474889,41.609556,,Midyat,CC0-1.0,4,St. Mary Church,Yoldath Aloho | Anıtlı (Hah) Meryem Ana Manastırı,manastır_sinagog | kilise,kilise | manastır,"Q16970,Q44613"
+Q31188387,Zeynel Abidin Camii,SIGHT,37.067222,41.214167,,,CC0-1.0,4,Zeynel Abidin Mosque,"Zeynel Abidin Camii, Nusaybin",cami | külliye_medrese_türbe,cami | külliye,"Q32815,Q71974"
+Q1165614,Dara Barajı,SIGHT,37.182972,40.951222,,,CC0-1.0,3,Dara Dam,,arkeolojik_sit,Antik Roma barajı | arch dam,"Q890545,Q95463156"
+Q5857908,Kırklar Kilisesi,SIGHT,37.313272,40.732358,,,CC0-1.0,3,Kırklar Church,Mor Benham,kilise,kilise,Q16970
+Q111972948,Matiate,SIGHT,37.416667,41.353056,,Midyat,CC0-1.0,3,Matiate,,arkeolojik_sit,arkeolojik sit | yeraltı şehri,"Q839954,Q1348073"
+Q113563327,Mor Abrohom Manastırı,SIGHT,37.412556,41.385444,,Midyat,CC0-1.0,3,Mor Hobil Mor Abrohom Monastery,Mor Hobil Mor Abrohom Manastırı | Mor Hobil-Mor Abrohom Manastırı,manastır_sinagog,manastır | bina,"Q41176,Q44613"
+Q6035976,Mor Loozor Manastırı,SIGHT,37.468320,41.334671,,Midyat,CC0-1.0,3,Mor Loozor Monastery,,manastır_sinagog,manastır,Q44613
+Q131527185,Mor İzozoel Kilisesi,SIGHT,37.445167,41.527028,,Midyat,CC0-1.0,3,Mor Azozoel Church,Mor Azozo Kilisesi,kilise,kilise,Q16970
+Q136717885,Bethil Kilisesi,SIGHT,37.417722,41.377722,,Midyat,CC0-1.0,2,Bethel Church,,kilise,kilise,Q16970
+Q20471610,Mardin Surp Kevork Kilisesi,SIGHT,37.368938,40.270571,,Derik,CC0-1.0,2,Mardin Surp Kevork Church,,kilise,kilise,Q16970
+Q65220334,Mardin Ulu Camii,SIGHT,37.312722,40.739306,,,CC0-1.0,2,Great Mosque of Mardin,,cami,cami,Q32815
+Q98091600,Midyat Ulu Camii,SIGHT,37.414278,41.373250,,Midyat,CC0-1.0,2,Great Mosque of Midyat,Cevat Paşa Camii,cami,cami,Q32815
+Q134500889,Mor Abay Manastırı,SIGHT,37.557417,40.958389,,Savur,CC0-1.0,2,Mor Abai Monastery,,manastır_sinagog,manastır,Q44613
+Q136730925,Mor Ahısnoya Kilisesi,SIGHT,37.412413,41.379051,,Midyat,CC0-1.0,2,Mor Ahısnoya Church,,kilise,kilise,Q16970
+Q125407751,Mor Dimet Kilisesi,SIGHT,37.512722,41.538361,,Midyat,CC0-1.0,2,Mor Dimet Church,,kilise,kilise,Q16970
+Q131527174,Mor Kuryakos Kilisesi,SIGHT,37.456472,41.459583,,Midyat,CC0-1.0,2,Mor Quryaqos Church,,kilise,kilise,Q16970
+Q131527192,Mor Mihail Kilisesi,SIGHT,37.307644,40.733269,,,CC0-1.0,2,Mor Mihail Church,Burç Manastırı,kilise,kilise,Q16970
+Q134499768,Mor Sobo Kilisesi,SIGHT,37.476444,41.610111,,Midyat,CC0-1.0,2,Mor Sobo Church,Hah Katedrali | Mor Sobo Katedrali,kilise,kilise,Q16970
+Q49319049,Aşağımitvan Mağaraları,ACTIVITY,37.186111,41.587778,,,CC0-1.0,1,Aşağımitvan Caves,,doğa,mağara,Q35509
+Q49319058,Baskaya Mağaraları,ACTIVITY,37.150556,41.370556,,,CC0-1.0,1,Başkaya Caves,,doğa,mağara,Q35509
+Q49319068,Berraha Mağarası,ACTIVITY,37.501389,40.766944,,,CC0-1.0,1,Berraha Cave,,doğa,mağara,Q35509
+Q49319118,Davrik Mağarası,ACTIVITY,37.228889,41.648056,,,CC0-1.0,1,Davrik Cave,,doğa,mağara,Q35509
+Q6099910,Girharrin Höyüğü,SIGHT,37.225425,40.784275,,,CC0-1.0,1,Girharrin Höyük,Ortaköy Höyüğü | Girharrin Höyük,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q49319218,Güvenli Mağaraları,ACTIVITY,37.456944,41.732778,,,CC0-1.0,1,Güvenli Caves,,doğa,mağara,Q35509
+Q6101667,Gırnavaz Höyüğü,SIGHT,37.105138,41.230617,,,CC0-1.0,1,Girnavaz Mound,Girnavaz Höyüğü | Girnavaz Höyük | Gırnavaz Höyük | Girnewaz Höyüğü | Girnewaz Höyük,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q49319224,Han Mağaraları,ACTIVITY,37.444722,40.841111,,,CC0-1.0,1,Han Caves,,doğa,mağara,Q35509
+Q49319241,Hatun Mağarası,ACTIVITY,37.645833,40.705000,,,CC0-1.0,1,Hatun Cave,,doğa,mağara,Q35509
+Q49319253,Hemi Mağarası,ACTIVITY,37.586111,40.921389,,,CC0-1.0,1,Hemi Cave,,doğa,mağara,Q35509
+Q49319300,Kafilmardin Mağarası,ACTIVITY,37.556111,41.072222,,,CC0-1.0,1,Kafilmardin Cave,,doğa,mağara,Q35509
+Q49319340,Katırmağaraları,ACTIVITY,37.626667,40.674167,,,CC0-1.0,1,Katır Caves,,doğa,mağara,Q35509
+Q6083618,Kerküşti Höyük,SIGHT,37.205278,40.178436,,,CC0-1.0,1,Kerküşti Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q49319366,Kırkdirek Mağaraları,ACTIVITY,37.671111,40.726111,,,CC0-1.0,1,Kırkdirek Caves,,doğa,mağara,Q35509
+Q125536834,Mardin Sakıp Sabancı Kent Müzesi,SIGHT,37.314868,40.746211,,,CC0-1.0,1,Sakıp Sabancı Mardin City Museum,"Sakıp Sabancı Mardin Kent Müzesi, Dilek Sabancı Sanat Galerisi",müze,müze,Q33506
+Q131738758,Mardin Ulu Camii Hamamı,SIGHT,37.312633,40.739620,,,CC0-1.0,1,Mardin Grande Mosque Hamam,,han_hamam_çarşı,hamam,Q28077
+Q125536786,Mardin Yaşayan Müze,SIGHT,37.314330,40.741621,,,CC0-1.0,1,,Yaşayan Müze Mardin,müze,müze | özel müze,"Q33506,Q614316"
+Q49343022,Marinboğazı,ACTIVITY,37.172500,41.390000,,,CC0-1.0,1,Marinboğazı,,doğa,defile,Q3699460
+Q131523726,Mor Yakup D’Karno Manastırı,SIGHT,37.200729,41.445396,,,CC0-1.0,1,,Deyr Gazelke,manastır_sinagog,manastır,Q44613
+Q49319598,Muhammedi Mağarası,ACTIVITY,37.458333,40.309167,,,CC0-1.0,1,Muhammedi Cave,,doğa,mağara,Q35509
+Q49319743,Sefa Mağarası,ACTIVITY,37.299167,40.568889,,,CC0-1.0,1,Sefa Cave,,doğa,mağara,Q35509
+Q21527346,Yeşilli Saat Kulesi,SIGHT,37.339056,40.820139,,,CC0-1.0,1,Yeşilli Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q49319912,Çibbilraz Mağarası,ACTIVITY,37.577222,40.931944,,,CC0-1.0,1,Çibbilraz Cave,,doğa,mağara,Q35509
+Q49319914,Çile Mağaraları,ACTIVITY,37.304722,40.785278,,,CC0-1.0,1,Çile Caves,,doğa,mağara,Q35509
+Q49319941,Şehriate Mağaraları,ACTIVITY,37.193333,41.525556,,,CC0-1.0,1,Şehriate Caves,,doğa,mağara,Q35509
+Q139852948,Akbalan Mezrası Gözetleme Kulesi,SIGHT,37.644469,41.767949,,Dargeçit ilçesi,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q134960311,Akziyaret Höyüğü,SIGHT,37.190932,40.507599,,,CC0-1.0,0,Akziyaret Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960296,Akça Höyük,SIGHT,37.197017,40.445760,,,CC0-1.0,0,Akça Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960302,Araköy Höyüğü,SIGHT,37.205722,40.530043,,,CC0-1.0,0,Araköy Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139420992,Arap Çelebi Höyüğü,SIGHT,37.334682,40.154556,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132752977,"Artuklu Kervansarayı, Mardin",SIGHT,37.314415,40.748360,,,CC0-1.0,0,Artuklu Caravanserai (Mardin),,han_hamam_çarşı,kervansaray,Q186347
+Q131901939,Aznavur Kalesi,SIGHT,37.083119,41.516819,,,CC0-1.0,0,Aznavur Castle,,kale_sur,kale,Q23413
+Q139428985,Bab’ussor Hamamı,SIGHT,37.314943,40.747732,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q134960301,Bektaş Höyük,SIGHT,37.124539,40.441043,,,CC0-1.0,0,Bektaş Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960305,Büyükboğaziye Höyüğü,SIGHT,36.966089,40.296633,,,CC0-1.0,0,Büyükboğaziye Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139428524,Büyükdere Höyük,SIGHT,37.056728,40.462941,,Kızıltepe,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139419197,Bırç Kulesi,SIGHT,37.501872,40.179488,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q139428550,Cillin Kalesi,SIGHT,37.614043,40.697833,,Savur,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139436121,Dara Ören Yeri,SIGHT,37.175835,40.953621,,,CC0-1.0,0,,,arkeolojik_sit,ören yeri,Q1708422
+Q139436122,Dara Ören Yeri Nekropolü,SIGHT,37.177536,40.948769,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q139421769,Dede Garkın Türbesi,SIGHT,37.164080,40.076866,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131901938,Dermetinan Kalesi,SIGHT,37.478954,40.202000,,,CC0-1.0,0,Dermetinan Castle,,kale_sur,kale,Q23413
+Q134960297,Dikmen Höyük,SIGHT,37.090306,40.412712,,,CC0-1.0,0,Dikmen Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139420981,Dumanlı Höyüğü,SIGHT,37.329303,40.159832,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139437227,Eminüddin Külliyesi,SIGHT,37.311462,40.731663,,,CC0-1.0,0,,,külliye_medrese_türbe,külliye,Q71974
+Q131738451,Emir Hamamı,SIGHT,37.313705,40.741756,,,CC0-1.0,0,Emir Baths,,han_hamam_çarşı,hamam,Q28077
+Q134960304,Eymirli Höyüğü,SIGHT,37.170768,40.685982,,,CC0-1.0,0,Eymirli Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421958,Fittin Harabeleri,SIGHT,37.387426,40.202443,,Derik,CC0-1.0,0,,,arkeolojik_sit,antik kent,Q15661340
+Q139422226,Gavur Fırını (Derik),SIGHT,37.363889,40.281971,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q134960310,Gırbel Höyük,SIGHT,37.085198,40.441791,,,CC0-1.0,0,Gırbel Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139420983,Gıre Cumayi Höyüğü,SIGHT,37.282015,40.279327,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421780,Gıre Çala Höyüğü,SIGHT,37.342149,40.268928,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139853010,Harabe Tepe Höyüğü,SIGHT,37.540104,41.813370,,Dargeçit,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421718,Harami Höyüğü,SIGHT,37.167750,40.242135,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131902233,Hatem Tai Kalesi,SIGHT,37.243263,41.654015,,,CC0-1.0,0,,Rhabdion Kalesi,kale_sur,kale,Q23413
+Q139428555,Hisarkaya Kalesi,SIGHT,37.643453,40.907151,,Savur,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139421951,Hofi ve Zarova Tepe Üstü Yerleşimi,SIGHT,37.360292,40.159347,,Derik,CC0-1.0,0,,,arkeolojik_sit,antik kent,Q15661340
+Q139421742,Hz. Seydoş Türbesi,SIGHT,37.431530,40.116576,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139420986,Hırbe Gura Höyüğü,SIGHT,37.273987,40.256415,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139429162,Hıseynika Kalesi,SIGHT,37.420588,41.474185,,Midyat,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139428528,Kalecik Kalesi (Nusaybin),SIGHT,37.150974,41.242142,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139421684,Kal’at Mara Kalesi,SIGHT,37.301645,40.774854,,Derik,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q134960309,Katarlı Höyük,SIGHT,37.152248,40.419647,,,CC0-1.0,0,Katarlı Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139432600,Kaya Mezarları ve Arkeolojik Yerleşim Alanı (Midyat),SIGHT,37.409012,41.385101,,Midyat,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139421707,Keleke Höyüğü,SIGHT,37.249933,40.395662,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421477,Kesrik Tepeüstü Yerleşimi,SIGHT,37.421159,40.237575,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q134728081,Kesrika Nazukê Nekropol Alanı Anıtsal Mezar,SIGHT,37.639767,40.915800,,Savur,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q134960312,Koca Höyük,SIGHT,37.725909,40.671948,,Savur,CC0-1.0,0,Koca Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421720,Kocatepe Höyüğü,SIGHT,37.236933,40.164095,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421765,Kral Kızının Tahtı,SIGHT,37.379235,40.270185,,Derik,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q139421775,Kuyuburnu Kalesi,SIGHT,37.298649,40.342364,,Derik,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139420984,Küçük Selme Höyüğü,SIGHT,37.219650,40.184183,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960300,Kıleybin Höyüğü,SIGHT,37.148790,40.591557,,,CC0-1.0,0,Kıleybin Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421508,Kızlar Yerleşimi,SIGHT,37.136701,40.096960,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139420419,Mancel Kaya Mezarları,SIGHT,37.374939,40.284163,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı,Q1404229
+Q132681798,Mardin Kışlası,SIGHT,37.314526,40.746090,,,CC0-1.0,0,Mardin Barracks,Sakıp Sabancı Mardin Kent Müzesi,müze,müze,Q33506
+Q21526560,Mardin Saat Kulesi,SIGHT,37.325250,40.717056,,,CC0-1.0,0,Mardin Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q139421704,Marin Harabeleri ve Kalesi,SIGHT,37.167092,41.386023,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139429160,Masare Kalesi,SIGHT,37.245797,41.310469,,Midyat,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139419193,Mavan Kaya Mezarı,SIGHT,37.375473,40.332812,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı,Q1404229
+Q135393214,Midyat Saat Kulesi,SIGHT,37.415298,41.373386,,Midyat,CC0-1.0,0,Midyat Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q125398668,Midyat Telkari Müzesi,SIGHT,37.415410,41.375700,,Midyat,CC0-1.0,0,Midyat Filigree Museum,,müze,sanat müzesi,Q207694
+Q135582874,Mir Türbesi,SIGHT,37.179123,40.958465,,,CC0-1.0,0,Mir Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131523746,Mor Malke Manastırı,SIGHT,37.238563,41.432896,,,CC0-1.0,0,Monastery of Mor Malke,,manastır_sinagog,manastır,Q44613
+Q139429172,Mor Yakup Manastırı,SIGHT,37.303572,40.797940,,,CC0-1.0,0,Mor Yakup Monastery,,manastır_sinagog,manastır,Q44613
+Q139421705,Mor Yuhanon Tayyoyo Manastırı,SIGHT,37.171684,41.418264,,Nusaybin (ilçe),CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139429167,Mor Yusuf Sevması Kaya Manastırı,SIGHT,37.300721,40.799945,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139435586,Necmeddin Külliyesi,SIGHT,37.311092,40.732613,,,CC0-1.0,0,,,külliye_medrese_türbe,külliye,Q71974
+Q135582865,Pirê Merdan Türbesi,SIGHT,37.476626,40.683713,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139421715,Pınarcık Nekropol Alanı,SIGHT,37.385941,40.205708,,Derik,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q131901937,"Rabat Kalesi, Mardin",SIGHT,37.404426,40.198782,,Derik,CC0-1.0,0,Rabat Castle (Mardin),,kale_sur,kale,Q23413
+Q139428558,Savur Kalesi,SIGHT,37.541244,40.886794,,Savur,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139853550,Sağır Kadın Harabeleri Kaya Mezarı,SIGHT,37.530178,41.712708,,Dargeçit,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q132182939,Sere Şippe Höyük,SIGHT,37.561771,41.844261,,Dargeçit,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139428525,Servan Kalesi,SIGHT,37.151271,41.639194,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139428527,Serçehan Kalesi,SIGHT,37.106517,41.073037,,Nusaybin (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q135582864,Seyyid Muhammed El Hüseyn-i Türbesi,SIGHT,37.178652,40.956601,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139421743,Sin Hazretleri Türbesi,SIGHT,37.445402,40.085464,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960299,Sinera Höyüğü,SIGHT,37.138762,40.394450,,,CC0-1.0,0,Sinera Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421955,Sisan Harabeleri ve Tapınağı,SIGHT,37.458526,40.292301,,Derik,CC0-1.0,0,,,arkeolojik_sit,antik kent,Q15661340
+Q131391384,Sultan Hamza Türbesi,SIGHT,37.316448,40.750481,,,CC0-1.0,0,Tomb of Sultan Hamza,Hamza-i Kebir Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132752947,"Surur Hanı, Mardin",SIGHT,37.313776,40.740614,,,CC0-1.0,0,Surur Hanı (Mardin),Hacı Sadık Ağa Hanı,han_hamam_çarşı,kervansaray,Q186347
+Q134960298,Sürekli Höyük,SIGHT,37.197964,40.399068,,,CC0-1.0,0,Sürekli Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421764,Telbısım Harabeleri,SIGHT,37.339356,40.272257,,Derik,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q134960307,Tell Arrada Höyük,SIGHT,37.019820,40.412385,,,CC0-1.0,0,Tell Arrada Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960306,Timurçiftliği Höyük,SIGHT,37.074176,40.477871,,,CC0-1.0,0,Timurçiftliği Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139419201,Tumık Gözetleme Kalesi,SIGHT,37.365895,40.219041,,Derik,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q134960978,Uzunköy Kalesi,SIGHT,37.310910,40.853875,,,CC0-1.0,0,Uzunköy Castle,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960308,Yaşar Höyük,SIGHT,37.085683,40.544861,,,CC0-1.0,0,Yaşar Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139428984,Yenikapı Hamamı,SIGHT,37.310662,40.736208,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q131390923,Zeynel Abidin Türbesi,SIGHT,37.067062,41.214043,,,CC0-1.0,0,Zeynel Abidin Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139421706,Çadırlı Höyüğü,SIGHT,37.173193,40.293156,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960303,Çağıl Höyüğü,SIGHT,37.122125,40.678661,,,CC0-1.0,0,Çağıl Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139420990,Çekem Höyük,SIGHT,37.240414,40.202199,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182967,Çemka Höyük,SIGHT,37.522854,41.840618,,Dargeçit,CC0-1.0,0,Çemka Höyük,Su Kenarı Höyük,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960803,Çitlibağ Höyüğü,SIGHT,37.208734,40.491445,,,CC0-1.0,0,Çitlibağ Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421778,Çıldız Höyük,SIGHT,37.254145,40.263330,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139421741,Ömer Baba Türbesi,SIGHT,37.386040,40.149740,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139420988,İnselke Höyüğü,SIGHT,37.293257,40.193995,,Derik,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135582877,Şahkulubey Kümbeti,SIGHT,37.191807,40.581257,,,CC0-1.0,0,Şahkulubey Kümbeti,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q139421768,Şahsuvar Türbesi,SIGHT,37.292723,40.319308,,Derik,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582872,Şeyh Hamidi Türbesi,SIGHT,37.179387,40.956499,,,CC0-1.0,0,Şeyh Hamidi Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582870,Şeyh Hamit Türbesi,SIGHT,37.317180,40.756413,,,CC0-1.0,0,Şeyh Hamit Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582871,Şeyh Kasım Halveti ve Türbesi,SIGHT,37.310602,40.736603,,,CC0-1.0,0,Şeyh Kasım Halveti ve Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582866,Şeyh Mehmet Hekim Türbesi,SIGHT,37.325915,40.736381,,,CC0-1.0,0,Şeyh Mehmet Hekim Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582867,Şeyh Muhammed Nur Türbesi,SIGHT,37.227335,40.975799,,,CC0-1.0,0,Şeyh Muhammed Nur Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582869,Şeyh Muhammed Türbesi,SIGHT,37.312792,40.747975,,,CC0-1.0,0,Şeyh Muhammed Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582868,Şeyh Salih Türbesi,SIGHT,37.310246,40.743689,,,CC0-1.0,0,Şeyh Salih Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582863,Şeyh Yusuf Hemedani Türbesi,SIGHT,37.181784,40.951542,,,CC0-1.0,0,Şeyh Yusuf Hemedani Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582875,Şeyh İmameddin Türbesi,SIGHT,37.313736,40.748048,,,CC0-1.0,0,Şeyh İmameddin Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159

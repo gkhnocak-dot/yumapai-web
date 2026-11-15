@@ -1,28 +1,28 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q2866118,Erzen,SIGHT,37.977720,41.384264,,,CC0-1.0,10,Arzen,,arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | gavar
-Q85969042,Botan Vadisi Millî Parkı,ACTIVITY,37.911389,41.966472,,Siirt,CC0-1.0,5,Botan Valley National Park,Botan Vadisi,milli_park_tabiat,millî park (Türkiye)
-Q21528395,İsmail Fakirullah Türbesi,SIGHT,37.949139,42.009778,,,CC0-1.0,3,Tomb of İsmail Fakirullah,İbrahim Hakkı Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,dini yapı | türbe
-Q6100419,Başur Höyük,SIGHT,37.980000,41.779000,,,CC0-1.0,2,Başur Höyük,,anıt_heykel | arkeolojik_sit,arkeolojik sit | höyük
-Q97125006,Beğendik Köprüsü,SIGHT,37.964722,42.649167,,,CC0-1.0,2,Beğendik Bridge,Botan Köprüsü,köprü,çıkmalı köprü | karayol köprüsü | beton köprü
-Q98091621,Siirt Ulu Camii,SIGHT,37.925056,41.945333,,,CC0-1.0,2,Great Mosque of Siirt,,cami,cami
-Q49319065,Berhamis Mağarası,ACTIVITY,37.698056,41.857778,,,CC0-1.0,1,Berhamis Cave,,doğa,mağara
-Q49342882,Gehaşin Boğazı,ACTIVITY,37.812778,42.745000,,,CC0-1.0,1,,,doğa,defile
-Q49319317,Kara Mağarası (Türkiye),ACTIVITY,37.910833,41.984167,,,CC0-1.0,1,Kara Cave,,doğa,mağara
-Q21526471,Kurtalan Saat Kulesi,SIGHT,37.927111,41.699667,,,CC0-1.0,1,Kurtalan Clock Tower,,kule | kule_saat,saat kulesi
-Q49319416,Lifmağaraları,ACTIVITY,37.870833,41.825556,,,CC0-1.0,1,Lifmağaraları,,doğa,mağara
-Q49319734,Sarımsak Mağarası,ACTIVITY,37.774722,42.073889,,,CC0-1.0,1,Sarımsak Cave,,doğa,mağara
-Q21526984,Siirt Saat Kulesi,SIGHT,37.929278,41.940306,,,CC0-1.0,1,Siirt Clock Tower,,kule | kule_saat,saat kulesi
-Q6101802,Türbe Höyük,SIGHT,37.774399,41.811001,,,CC0-1.0,1,Türbe Höyük,,arkeolojik_sit,arkeolojik sit
-Q49319898,Zokarasmağaraları,ACTIVITY,37.847778,41.873611,,,CC0-1.0,1,Zokaras Caves,,doğa,mağara
-Q135582862,Şeyh Hasan El Fatirin Türbesi,SIGHT,37.949443,42.010644,,,CC0-1.0,1,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960580,"Bozhöyük, Kurtalan",SIGHT,37.981331,41.412092,,,CC0-1.0,0,Bozhöyük (Kurtalan),,arkeolojik_sit | anıt_heykel,höyük
-Q132182711,Gusir Höyük,SIGHT,37.727081,41.821152,,,CC0-1.0,0,Gusir Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q134960500,Güzir Höyük,SIGHT,37.721773,41.841662,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q131901935,"Kormas Kalesi, Şirvan",SIGHT,38.031788,42.130527,,,CC0-1.0,0,,,kale_sur,kale
-Q135582852,"Roma Tiyatrosu, Kurtalan",SIGHT,37.977951,41.384914,,,CC0-1.0,0,Roman theatre in Kurtalan,,arkeolojik_sit,Antik Roma tiyatrosu
-Q131390939,Sultan Memduh Türbesi,SIGHT,37.946700,42.008200,,,CC0-1.0,0,Tomb of Sultan Memduh,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391202,Veysel Karani Türbesi,SIGHT,38.131426,41.715899,,,CC0-1.0,0,Veysel Karani Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131902060,İrun Kalesi,SIGHT,38.167229,42.221813,,,CC0-1.0,0,,,kale_sur,kale
-Q139420592,Şeyh Alameddin Türbesi,SIGHT,37.922895,41.943148,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139420596,Şeyh Mahmut Türbesi (Siirt),SIGHT,37.924743,41.943871,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390937,Şeyh Osman Türbesi,SIGHT,38.131611,41.710833,,,CC0-1.0,0,Tomb of Sheikh Osman,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q2866118,Erzen,SIGHT,37.977720,41.384264,,,CC0-1.0,10,Arzen,,arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | gavar,Q839954
+Q85969042,Botan Vadisi Millî Parkı,ACTIVITY,37.911389,41.966472,,Siirt,CC0-1.0,5,Botan Valley National Park,Botan Vadisi,milli_park_tabiat,millî park (Türkiye),Q108060568
+Q21528395,İsmail Fakirullah Türbesi,SIGHT,37.949139,42.009778,,,CC0-1.0,3,Tomb of İsmail Fakirullah,İbrahim Hakkı Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,dini yapı | türbe,"Q838159,Q24398318"
+Q6100419,Başur Höyük,SIGHT,37.980000,41.779000,,,CC0-1.0,2,Başur Höyük,,anıt_heykel | arkeolojik_sit,arkeolojik sit | höyük,"Q839954,Q1584134"
+Q97125006,Beğendik Köprüsü,SIGHT,37.964722,42.649167,,,CC0-1.0,2,Beğendik Bridge,Botan Köprüsü,köprü,çıkmalı köprü | karayol köprüsü | beton köprü,"Q537127,Q1429218,Q5159064"
+Q98091621,Siirt Ulu Camii,SIGHT,37.925056,41.945333,,,CC0-1.0,2,Great Mosque of Siirt,,cami,cami,Q32815
+Q49319065,Berhamis Mağarası,ACTIVITY,37.698056,41.857778,,,CC0-1.0,1,Berhamis Cave,,doğa,mağara,Q35509
+Q49342882,Gehaşin Boğazı,ACTIVITY,37.812778,42.745000,,,CC0-1.0,1,,,doğa,defile,Q3699460
+Q49319317,Kara Mağarası (Türkiye),ACTIVITY,37.910833,41.984167,,,CC0-1.0,1,Kara Cave,,doğa,mağara,Q35509
+Q21526471,Kurtalan Saat Kulesi,SIGHT,37.927111,41.699667,,,CC0-1.0,1,Kurtalan Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q49319416,Lifmağaraları,ACTIVITY,37.870833,41.825556,,,CC0-1.0,1,Lifmağaraları,,doğa,mağara,Q35509
+Q49319734,Sarımsak Mağarası,ACTIVITY,37.774722,42.073889,,,CC0-1.0,1,Sarımsak Cave,,doğa,mağara,Q35509
+Q21526984,Siirt Saat Kulesi,SIGHT,37.929278,41.940306,,,CC0-1.0,1,Siirt Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q6101802,Türbe Höyük,SIGHT,37.774399,41.811001,,,CC0-1.0,1,Türbe Höyük,,arkeolojik_sit,arkeolojik sit,Q839954
+Q49319898,Zokarasmağaraları,ACTIVITY,37.847778,41.873611,,,CC0-1.0,1,Zokaras Caves,,doğa,mağara,Q35509
+Q135582862,Şeyh Hasan El Fatirin Türbesi,SIGHT,37.949443,42.010644,,,CC0-1.0,1,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960580,"Bozhöyük, Kurtalan",SIGHT,37.981331,41.412092,,,CC0-1.0,0,Bozhöyük (Kurtalan),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182711,Gusir Höyük,SIGHT,37.727081,41.821152,,,CC0-1.0,0,Gusir Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960500,Güzir Höyük,SIGHT,37.721773,41.841662,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131901935,"Kormas Kalesi, Şirvan",SIGHT,38.031788,42.130527,,,CC0-1.0,0,,,kale_sur,kale,Q23413
+Q135582852,"Roma Tiyatrosu, Kurtalan",SIGHT,37.977951,41.384914,,,CC0-1.0,0,Roman theatre in Kurtalan,,arkeolojik_sit,Antik Roma tiyatrosu,Q19757
+Q131390939,Sultan Memduh Türbesi,SIGHT,37.946700,42.008200,,,CC0-1.0,0,Tomb of Sultan Memduh,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391202,Veysel Karani Türbesi,SIGHT,38.131426,41.715899,,,CC0-1.0,0,Veysel Karani Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131902060,İrun Kalesi,SIGHT,38.167229,42.221813,,,CC0-1.0,0,,,kale_sur,kale,Q23413
+Q139420592,Şeyh Alameddin Türbesi,SIGHT,37.922895,41.943148,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139420596,Şeyh Mahmut Türbesi (Siirt),SIGHT,37.924743,41.943871,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390937,Şeyh Osman Türbesi,SIGHT,38.131611,41.710833,,,CC0-1.0,0,Tomb of Sheikh Osman,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159

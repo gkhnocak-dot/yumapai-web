@@ -1,86 +1,86 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q2964401,Homa (Bizans kalesi),SIGHT,40.000000,30.000000,,,CC0-1.0,6,Choma,,kale_sur,kale
-Q38251268,Harmankaya Kanyonu Tabiat Parkı,ACTIVITY,40.148611,30.440833,,,CC0-1.0,5,Harmankaya Canyon Nature Park,Harmankaya Kanyonu,milli_park_tabiat,tabiat parkı (Türkiye)
-Q6085562,Ertuğrul Gazi Türbesi,SIGHT,40.025500,30.179400,,,CC0-1.0,4,Tomb of Ertuğrul Gazi,,anıt_heykel | külliye_medrese_türbe | mezar,mezar odası | türbe
-Q28220997,Söğüt Ertuğrul Gazi Müzesi,SIGHT,40.015278,30.181667,,,CC0-1.0,4,Söğüt Ertuğrul Gazi Museum,Söğüt Ertuğrul Gazi Etnografya Müzesi | Bilecik Söğüt Müzesi | Memiş Ağa Sargı Evi,müze,müze
-Q28220994,Bilecik Müzesi,SIGHT,40.143611,29.981944,,Bilecik,CC0-1.0,3,Bilecik Museum,Bilecik Eski Cezaevi,müze,arkeoloji müzesi | müze | tarihî bina
-Q105474252,İsa Sofi türbesi,SIGHT,40.044348,30.216802,,,CC0-1.0,3,Tomb of Isa Sofi,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q6027628,Şeyh Edebali Türbesi,SIGHT,40.143611,29.988194,,Bilecik,CC0-1.0,3,Sheikh Edebali Tomb,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
-Q85742526,Apsoda,SIGHT,40.214551,30.745892,,,CC0-1.0,2,Apsoda,,arkeolojik_sit,antik kent
-Q85758757,Eirakla,SIGHT,40.337610,30.180503,,,CC0-1.0,2,Eirakla,,arkeolojik_sit,antik kent
-Q85773754,Katapaspanas,SIGHT,40.238261,30.603109,,Yenipazar,CC0-1.0,2,Katapaspanas,,arkeolojik_sit,antik kent
-Q6089719,"Kınık Höyük, Bilecik",SIGHT,40.017858,29.854778,,,CC0-1.0,2,Kınık Höyük,,arkeolojik_sit,arkeolojik sit
-Q85786428,Mossynea,SIGHT,40.301383,30.375942,,,CC0-1.0,2,Mossynea,,arkeolojik_sit,antik kent
-Q85790384,Oka,SIGHT,40.132310,30.411202,,İnhisar,CC0-1.0,2,Oka,,arkeolojik_sit,antik kent
-Q85790816,Ontoraita,SIGHT,40.264410,30.537402,,Yenipazar,CC0-1.0,2,Ontoraita,Ontoraitōn kōmē,arkeolojik_sit,antik kent
-Q6029758,Orhan Gazi Camii,SIGHT,40.143056,29.987833,,Bilecik,CC0-1.0,2,Orhan Gazi Mosque,Kurşunlu Cami,cami,cami | imaret
-Q31188616,Osmaneli Aya Yorgi Kilisesi,SIGHT,40.355278,30.012500,,,CC0-1.0,2,St George Church of Osmaneli,Ayios Giorgios Kilisesi,kilise,kilise | Eastern Orthodox church building
-Q5998377,Agrilion,SIGHT,40.132824,29.937744,,Bilecik,CC0-1.0,1,Agrilion,Agrileion,arkeolojik_sit,antik kent
-Q6056525,Bilecik Saat Kulesi,SIGHT,40.137833,29.983417,,Bilecik,CC0-1.0,1,Bilecik Clock Tower,,kule | kule_saat,saat kulesi
-Q85804599,Syllanta,SIGHT,40.317895,30.321874,,,CC0-1.0,1,Syllanta,,arkeolojik_sit,antik kent
-Q85805280,Tattaios,SIGHT,40.286922,30.342955,,,CC0-1.0,1,Tattaios,,arkeolojik_sit,antik kent
-Q135583298,Abdullah Mihal Gazi Türbesi,SIGHT,40.126133,30.422408,,İnhisar,CC0-1.0,0,Abdullah Mihal Gazi Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q137170067,Ahmeded 1 Neolitik Yerleşimi,SIGHT,40.139992,30.095820,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q137170068,Ahmeded 2 Neolitik Yerleşim Alanı,SIGHT,40.140160,30.096371,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q134728180,Akbayırlar Kaya Mezarları,SIGHT,40.203579,29.956921,,Bilecik,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
-Q127632919,Akçasu Köyü Camii,SIGHT,40.084209,30.308104,,,CC0-1.0,0,Akçasu Village Mosque,,cami,cami
-Q139436524,Arapuçtu Gözetleme Kulesi,SIGHT,40.399502,29.940886,,Osmaneli İlçesi,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q131738800,Aşağıköy Köy Hamamı,SIGHT,40.115826,30.004129,,Bilecik,CC0-1.0,0,Aşağıköy Köy Baths,,han_hamam_çarşı,hamam
-Q137170069,Bahçelievler Neolitik Yerleşimi,SIGHT,40.164478,29.975630,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q131738787,Baki Hamamı,SIGHT,40.142876,29.983873,,Bilecik,CC0-1.0,0,Baki Baths,Bakı Hamamı,han_hamam_çarşı,hamam
-Q139433345,Bağlar Roma Nekropolü,SIGHT,40.355030,30.387293,,Gölpazarı İlçesi,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q131738797,Başköy Hamamı,SIGHT,40.091190,30.011923,,Bilecik,CC0-1.0,0,Başköy Baths,,han_hamam_çarşı,hamam
-Q133236623,Bilecik Kalesi,SIGHT,40.143944,29.988829,,Bilecik,CC0-1.0,0,Bilecik Castle,Belikoma | Belokome,kale_sur,kale
-Q132681917,Bilecik Yaşayan Şehir Müzesi,SIGHT,40.156166,29.977589,,Bilecik,CC0-1.0,0,,,müze,müze
-Q132682149,Bozüyük Şehir Müzesi ve Arşivi,SIGHT,39.911591,30.027063,,,CC0-1.0,0,,Albay İbrahim Çolak Köşkü,müze,müze | mimari yapı
-Q132182534,Demirköy,SIGHT,40.006839,30.021153,,,CC0-1.0,0,Demirköy,,arkeolojik_sit | anıt_heykel,höyük
-Q134728391,Dodurga Tümülüsü,SIGHT,39.803223,29.913572,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q134728390,Dübekli Tümülüsü,SIGHT,39.884178,30.168592,,,CC0-1.0,0,Dübekli Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q139436549,Düzdağ Köyü Nekropol Alanı,SIGHT,39.930729,30.127390,,Bozüyük İlçesi,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q133245761,"Emirler Hamamı, Bilecik",SIGHT,40.139889,29.986530,,Bilecik,CC0-1.0,0,Emirler Baths (Bilecik),,han_hamam_çarşı,hamam
-Q139418992,Göksu Gözetleme Kuleleri,SIGHT,40.348674,29.892134,,Osmaneli İlçesi,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q131391405,Hamza Bey Türbesi,SIGHT,39.914105,30.037077,,,CC0-1.0,0,Tomb of Hamza Bey,Karadona Türbesi | Çok Verenler Tekkesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q133236620,Harmankaya Kalesi (Bilecik),SIGHT,40.142864,30.426426,,İnhisar,CC0-1.0,0,"Harmankaya Castle, Bilecik",,kale_sur,kale
-Q132182533,Hüyücek,SIGHT,39.895233,30.078550,,,CC0-1.0,0,Hüyücek,,arkeolojik_sit | anıt_heykel,höyük
-Q131391468,Kamuran Gazi Türbesi,SIGHT,39.928040,30.172579,,,CC0-1.0,0,Kamuran Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q133236621,Kandilli Kalesi,SIGHT,39.822506,30.032797,,,CC0-1.0,0,Kandilli Castle,kaletepe mevkii kalesi,kale_sur,kale
-Q131738790,Karaağaç Köyü Hamamı,SIGHT,40.231640,30.153645,,,CC0-1.0,0,Karaağaç Köyü Baths,Eski Hamam,han_hamam_çarşı,hamam
-Q134728387,Karaağaç Tümülüsü,SIGHT,39.833061,30.006701,,,CC0-1.0,0,Karaağaç Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q139436575,Karaoğlan Roma Ören Yeri,SIGHT,40.192520,30.240170,,Gölpazarı İlçesi,CC0-1.0,0,,,arkeolojik_sit,ören yeri
-Q131738786,Kasım Paşa Hamamı,SIGHT,39.905960,30.036423,,,CC0-1.0,0,Kasım Paşa Baths,,han_hamam_çarşı,hamam
-Q132752819,Kasım Paşa Kervansarayı,SIGHT,39.906479,30.038122,,,CC0-1.0,0,Kasım Paşa Caravanserai,,han_hamam_çarşı,kervansaray
-Q132752784,Kelemcioğlu Hanı,SIGHT,40.358818,30.011751,,,CC0-1.0,0,Kelemcioğlu Hanı,Ellez Mehmet Hanı | Ellezler Hanı,han_hamam_çarşı,kervansaray
-Q132182707,Killi Höyük,SIGHT,39.753269,29.926649,,,CC0-1.0,0,Killi Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131391406,Kumral Abdal Türbesi,SIGHT,39.886543,30.046333,,,CC0-1.0,0,Kumral Abdal Tomb,Yediler Tekkesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135583304,Kümbet Türbe,SIGHT,39.907059,30.033489,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
-Q131738794,Küçük Hamam,SIGHT,40.144001,29.986773,,Bilecik,CC0-1.0,0,,Tarihi Küçük Hamam,han_hamam_çarşı,hamam
-Q135959879,Küçükyenice Tümülüsü,SIGHT,40.232391,30.077187,,,CC0-1.0,0,Küçükyenice Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q132182537,Kınık,SIGHT,40.015883,29.834733,,,CC0-1.0,0,Kınık,,arkeolojik_sit | anıt_heykel,höyük
-Q135960971,Kıyaklar Tümülüsü,SIGHT,40.088940,30.068729,,Yenipazar,CC0-1.0,0,Kıyaklar Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236618,"Lefke Kalesi, Bilecik",SIGHT,40.375050,30.026831,,,CC0-1.0,0,Lefke Castle (Bilecik),,kale_sur,kale
-Q131391408,Malhun Hatun Türbesi,SIGHT,40.143715,29.988386,,Bilecik,CC0-1.0,0,Malhun Hatun Tomb,Mal Hatun Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132752945,Mihal Bey Hanı,SIGHT,40.283824,30.316743,,,CC0-1.0,0,Mihal Bey Hanı,Mihal Gazi Hanı | Gazi Mihal Hanı | Taş Han,han_hamam_çarşı,kervansaray
-Q132134447,Mihal Gazi Camii,SIGHT,40.283455,30.316725,,,CC0-1.0,0,Mihal Gazi Mosque,Mihal Bey Camii | Mihalgazi Camii,cami | külliye_medrese_türbe,cami | külliye
-Q131738788,Mihal Gazi Hamamı,SIGHT,40.283215,30.317963,,,CC0-1.0,0,Mihal Gazi Baths,Mihal Bey Hamamı | Mihalgazi Hamamı | Gölpazarı Hamamı,han_hamam_çarşı,hamam
-Q112960651,Mygdum,SIGHT,40.366364,29.983562,,,CC0-1.0,0,Mygdum,,arkeolojik_sit,tarihi yer | mansio
-Q136387141,Otroea,SIGHT,40.284653,29.810629,,,CC0-1.0,0,Otroea,,arkeolojik_sit,antik kent
-Q134728181,Paulina Kaya Mezarı,SIGHT,40.194000,30.223833,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
-Q132182535,Pazaryeri 1,SIGHT,39.990450,29.929550,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q132182536,Pazaryeri 2,SIGHT,39.991383,29.932700,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139436572,Paşaboğazı Mevkii Geç Roma Nekropolü,SIGHT,40.294270,30.050949,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q139436570,Paşalar Boğazı Yedi Mezar Tepe Nekropolü,SIGHT,40.287651,30.051559,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q131738799,Pelitözü Köyü Hamamı,SIGHT,40.294270,30.050949,,Bilecik,CC0-1.0,0,Pelitözü Köyü Baths,,han_hamam_çarşı,hamam
-Q134728165,Poyra Köyü Tümülüsü,SIGHT,39.876942,30.193670,,,CC0-1.0,0,Poyra Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | hazire | tümülüs
-Q133236013,Pınarcık Kalesi,SIGHT,40.290619,30.052610,,Bilecik,CC0-1.0,0,Pınarcık Castle,Paşaboğazı Kalesi,kale_sur | arkeolojik_sit,kale | antik kent | arkeolojik sit
-Q131391407,Savcı Bey Türbesi,SIGHT,39.824123,30.034683,,,CC0-1.0,0,Prosecutor Bey Tomb,Saruyatı Türbesi | Saruyatı Savcı Bey Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131738792,Selöz Köyü Hamamı,SIGHT,40.131931,29.924847,,Bilecik,CC0-1.0,0,Selöz Köyü Baths,,han_hamam_çarşı,hamam
-Q133245759,"Süleyman Paşa Hamamı, Bilecik",SIGHT,40.142601,29.987419,,Bilecik,CC0-1.0,0,Süleyman Paşa Baths (Bilecik),,han_hamam_çarşı,hamam
-Q132134446,Vezirhan Camii,SIGHT,40.243450,30.022303,,Bilecik,CC0-1.0,0,Köprülü Mehmet Paşa Mosque,Vezirhan Camii,cami | külliye_medrese_türbe,cami | külliye
-Q139436588,Vezirhan Nekropol Alanı,SIGHT,40.247067,30.025068,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q133236616,Yarhisar Kalesi,SIGHT,40.185532,29.880709,,Bilecik,CC0-1.0,0,Yarhisar Castle,,kale_sur,kale
-Q132182530,Yassı Höyük,SIGHT,40.255146,30.264387,,,CC0-1.0,0,Yassı Höyük (Gölpazarı),,arkeolojik_sit | anıt_heykel,höyük
-Q132182705,Çerkezçetmi Höyüğü,SIGHT,39.884941,30.174641,,,CC0-1.0,0,Çerkezçetmi Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q132182706,Çokçapınar Höyüğü,SIGHT,39.780754,29.967861,,,CC0-1.0,0,Çokçapınar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q134728386,Üyücük Tümülüsü,SIGHT,40.134201,30.099369,,Bilecik,CC0-1.0,0,Üyücük Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q132182624,"Üyük, Gölpazarı",SIGHT,40.249765,30.109741,,,CC0-1.0,0,Üyük (Gölpazarı),,arkeolojik_sit | anıt_heykel,höyük
-Q131738789,İlyasbey Köy Hamamı,SIGHT,40.218082,29.868343,,Bilecik,CC0-1.0,0,İlyasbey Köy Baths,,han_hamam_çarşı,hamam
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q2964401,Homa (Bizans kalesi),SIGHT,40.000000,30.000000,,,CC0-1.0,6,Choma,,kale_sur,kale,Q57831
+Q38251268,Harmankaya Kanyonu Tabiat Parkı,ACTIVITY,40.148611,30.440833,,,CC0-1.0,5,Harmankaya Canyon Nature Park,Harmankaya Kanyonu,milli_park_tabiat,tabiat parkı (Türkiye),Q108060572
+Q6085562,Ertuğrul Gazi Türbesi,SIGHT,40.025500,30.179400,,,CC0-1.0,4,Tomb of Ertuğrul Gazi,,anıt_heykel | külliye_medrese_türbe | mezar,mezar odası | türbe,"Q381885,Q838159"
+Q28220997,Söğüt Ertuğrul Gazi Müzesi,SIGHT,40.015278,30.181667,,,CC0-1.0,4,Söğüt Ertuğrul Gazi Museum,Söğüt Ertuğrul Gazi Etnografya Müzesi | Bilecik Söğüt Müzesi | Memiş Ağa Sargı Evi,müze,müze,Q33506
+Q28220994,Bilecik Müzesi,SIGHT,40.143611,29.981944,,Bilecik,CC0-1.0,3,Bilecik Museum,Bilecik Eski Cezaevi,müze,arkeoloji müzesi | müze | tarihî bina,"Q33506,Q3329412,Q35112127"
+Q105474252,İsa Sofi türbesi,SIGHT,40.044348,30.216802,,,CC0-1.0,3,Tomb of Isa Sofi,,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q6027628,Şeyh Edebali Türbesi,SIGHT,40.143611,29.988194,,Bilecik,CC0-1.0,3,Sheikh Edebali Tomb,,külliye_medrese_türbe | anıt_heykel | mezar,türbe,Q838159
+Q85742526,Apsoda,SIGHT,40.214551,30.745892,,,CC0-1.0,2,Apsoda,,arkeolojik_sit,antik kent,Q15661340
+Q85758757,Eirakla,SIGHT,40.337610,30.180503,,,CC0-1.0,2,Eirakla,,arkeolojik_sit,antik kent,Q15661340
+Q85773754,Katapaspanas,SIGHT,40.238261,30.603109,,Yenipazar,CC0-1.0,2,Katapaspanas,,arkeolojik_sit,antik kent,Q15661340
+Q6089719,"Kınık Höyük, Bilecik",SIGHT,40.017858,29.854778,,,CC0-1.0,2,Kınık Höyük,,arkeolojik_sit,arkeolojik sit,Q839954
+Q85786428,Mossynea,SIGHT,40.301383,30.375942,,,CC0-1.0,2,Mossynea,,arkeolojik_sit,antik kent,Q15661340
+Q85790384,Oka,SIGHT,40.132310,30.411202,,İnhisar,CC0-1.0,2,Oka,,arkeolojik_sit,antik kent,Q15661340
+Q85790816,Ontoraita,SIGHT,40.264410,30.537402,,Yenipazar,CC0-1.0,2,Ontoraita,Ontoraitōn kōmē,arkeolojik_sit,antik kent,Q15661340
+Q6029758,Orhan Gazi Camii,SIGHT,40.143056,29.987833,,Bilecik,CC0-1.0,2,Orhan Gazi Mosque,Kurşunlu Cami,cami,cami | imaret,"Q32815,Q2302791"
+Q31188616,Osmaneli Aya Yorgi Kilisesi,SIGHT,40.355278,30.012500,,,CC0-1.0,2,St George Church of Osmaneli,Ayios Giorgios Kilisesi,kilise,kilise | Eastern Orthodox church building,"Q16970,Q2031836"
+Q5998377,Agrilion,SIGHT,40.132824,29.937744,,Bilecik,CC0-1.0,1,Agrilion,Agrileion,arkeolojik_sit,antik kent,Q15661340
+Q6056525,Bilecik Saat Kulesi,SIGHT,40.137833,29.983417,,Bilecik,CC0-1.0,1,Bilecik Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q85804599,Syllanta,SIGHT,40.317895,30.321874,,,CC0-1.0,1,Syllanta,,arkeolojik_sit,antik kent,Q15661340
+Q85805280,Tattaios,SIGHT,40.286922,30.342955,,,CC0-1.0,1,Tattaios,,arkeolojik_sit,antik kent,Q15661340
+Q135583298,Abdullah Mihal Gazi Türbesi,SIGHT,40.126133,30.422408,,İnhisar,CC0-1.0,0,Abdullah Mihal Gazi Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q137170067,Ahmeded 1 Neolitik Yerleşimi,SIGHT,40.139992,30.095820,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q137170068,Ahmeded 2 Neolitik Yerleşim Alanı,SIGHT,40.140160,30.096371,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q134728180,Akbayırlar Kaya Mezarları,SIGHT,40.203579,29.956921,,Bilecik,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı,"Q162875,Q1404229"
+Q127632919,Akçasu Köyü Camii,SIGHT,40.084209,30.308104,,,CC0-1.0,0,Akçasu Village Mosque,,cami,cami,Q32815
+Q139436524,Arapuçtu Gözetleme Kulesi,SIGHT,40.399502,29.940886,,Osmaneli İlçesi,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q131738800,Aşağıköy Köy Hamamı,SIGHT,40.115826,30.004129,,Bilecik,CC0-1.0,0,Aşağıköy Köy Baths,,han_hamam_çarşı,hamam,Q28077
+Q137170069,Bahçelievler Neolitik Yerleşimi,SIGHT,40.164478,29.975630,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q131738787,Baki Hamamı,SIGHT,40.142876,29.983873,,Bilecik,CC0-1.0,0,Baki Baths,Bakı Hamamı,han_hamam_çarşı,hamam,Q28077
+Q139433345,Bağlar Roma Nekropolü,SIGHT,40.355030,30.387293,,Gölpazarı İlçesi,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q131738797,Başköy Hamamı,SIGHT,40.091190,30.011923,,Bilecik,CC0-1.0,0,Başköy Baths,,han_hamam_çarşı,hamam,Q28077
+Q133236623,Bilecik Kalesi,SIGHT,40.143944,29.988829,,Bilecik,CC0-1.0,0,Bilecik Castle,Belikoma | Belokome,kale_sur,kale,Q57831
+Q132681917,Bilecik Yaşayan Şehir Müzesi,SIGHT,40.156166,29.977589,,Bilecik,CC0-1.0,0,,,müze,müze,Q33506
+Q132682149,Bozüyük Şehir Müzesi ve Arşivi,SIGHT,39.911591,30.027063,,,CC0-1.0,0,,Albay İbrahim Çolak Köşkü,müze,müze | mimari yapı,"Q33506,Q811979"
+Q132182534,Demirköy,SIGHT,40.006839,30.021153,,,CC0-1.0,0,Demirköy,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134728391,Dodurga Tümülüsü,SIGHT,39.803223,29.913572,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q134728390,Dübekli Tümülüsü,SIGHT,39.884178,30.168592,,,CC0-1.0,0,Dübekli Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q139436549,Düzdağ Köyü Nekropol Alanı,SIGHT,39.930729,30.127390,,Bozüyük İlçesi,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q133245761,"Emirler Hamamı, Bilecik",SIGHT,40.139889,29.986530,,Bilecik,CC0-1.0,0,Emirler Baths (Bilecik),,han_hamam_çarşı,hamam,Q28077
+Q139418992,Göksu Gözetleme Kuleleri,SIGHT,40.348674,29.892134,,Osmaneli İlçesi,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q131391405,Hamza Bey Türbesi,SIGHT,39.914105,30.037077,,,CC0-1.0,0,Tomb of Hamza Bey,Karadona Türbesi | Çok Verenler Tekkesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q133236620,Harmankaya Kalesi (Bilecik),SIGHT,40.142864,30.426426,,İnhisar,CC0-1.0,0,"Harmankaya Castle, Bilecik",,kale_sur,kale,Q57831
+Q132182533,Hüyücek,SIGHT,39.895233,30.078550,,,CC0-1.0,0,Hüyücek,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391468,Kamuran Gazi Türbesi,SIGHT,39.928040,30.172579,,,CC0-1.0,0,Kamuran Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q133236621,Kandilli Kalesi,SIGHT,39.822506,30.032797,,,CC0-1.0,0,Kandilli Castle,kaletepe mevkii kalesi,kale_sur,kale,Q57831
+Q131738790,Karaağaç Köyü Hamamı,SIGHT,40.231640,30.153645,,,CC0-1.0,0,Karaağaç Köyü Baths,Eski Hamam,han_hamam_çarşı,hamam,Q28077
+Q134728387,Karaağaç Tümülüsü,SIGHT,39.833061,30.006701,,,CC0-1.0,0,Karaağaç Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q139436575,Karaoğlan Roma Ören Yeri,SIGHT,40.192520,30.240170,,Gölpazarı İlçesi,CC0-1.0,0,,,arkeolojik_sit,ören yeri,Q1708422
+Q131738786,Kasım Paşa Hamamı,SIGHT,39.905960,30.036423,,,CC0-1.0,0,Kasım Paşa Baths,,han_hamam_çarşı,hamam,Q28077
+Q132752819,Kasım Paşa Kervansarayı,SIGHT,39.906479,30.038122,,,CC0-1.0,0,Kasım Paşa Caravanserai,,han_hamam_çarşı,kervansaray,Q186347
+Q132752784,Kelemcioğlu Hanı,SIGHT,40.358818,30.011751,,,CC0-1.0,0,Kelemcioğlu Hanı,Ellez Mehmet Hanı | Ellezler Hanı,han_hamam_çarşı,kervansaray,Q186347
+Q132182707,Killi Höyük,SIGHT,39.753269,29.926649,,,CC0-1.0,0,Killi Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391406,Kumral Abdal Türbesi,SIGHT,39.886543,30.046333,,,CC0-1.0,0,Kumral Abdal Tomb,Yediler Tekkesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135583304,Kümbet Türbe,SIGHT,39.907059,30.033489,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q131738794,Küçük Hamam,SIGHT,40.144001,29.986773,,Bilecik,CC0-1.0,0,,Tarihi Küçük Hamam,han_hamam_çarşı,hamam,Q28077
+Q135959879,Küçükyenice Tümülüsü,SIGHT,40.232391,30.077187,,,CC0-1.0,0,Küçükyenice Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q132182537,Kınık,SIGHT,40.015883,29.834733,,,CC0-1.0,0,Kınık,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135960971,Kıyaklar Tümülüsü,SIGHT,40.088940,30.068729,,Yenipazar,CC0-1.0,0,Kıyaklar Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236618,"Lefke Kalesi, Bilecik",SIGHT,40.375050,30.026831,,,CC0-1.0,0,Lefke Castle (Bilecik),,kale_sur,kale,Q57831
+Q131391408,Malhun Hatun Türbesi,SIGHT,40.143715,29.988386,,Bilecik,CC0-1.0,0,Malhun Hatun Tomb,Mal Hatun Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132752945,Mihal Bey Hanı,SIGHT,40.283824,30.316743,,,CC0-1.0,0,Mihal Bey Hanı,Mihal Gazi Hanı | Gazi Mihal Hanı | Taş Han,han_hamam_çarşı,kervansaray,Q186347
+Q132134447,Mihal Gazi Camii,SIGHT,40.283455,30.316725,,,CC0-1.0,0,Mihal Gazi Mosque,Mihal Bey Camii | Mihalgazi Camii,cami | külliye_medrese_türbe,cami | külliye,"Q32815,Q71974"
+Q131738788,Mihal Gazi Hamamı,SIGHT,40.283215,30.317963,,,CC0-1.0,0,Mihal Gazi Baths,Mihal Bey Hamamı | Mihalgazi Hamamı | Gölpazarı Hamamı,han_hamam_çarşı,hamam,Q28077
+Q112960651,Mygdum,SIGHT,40.366364,29.983562,,,CC0-1.0,0,Mygdum,,arkeolojik_sit,tarihi yer | mansio,"Q1891165,Q27916659"
+Q136387141,Otroea,SIGHT,40.284653,29.810629,,,CC0-1.0,0,Otroea,,arkeolojik_sit,antik kent,Q15661340
+Q134728181,Paulina Kaya Mezarı,SIGHT,40.194000,30.223833,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı,"Q162875,Q1404229"
+Q132182535,Pazaryeri 1,SIGHT,39.990450,29.929550,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182536,Pazaryeri 2,SIGHT,39.991383,29.932700,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139436572,Paşaboğazı Mevkii Geç Roma Nekropolü,SIGHT,40.294270,30.050949,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q139436570,Paşalar Boğazı Yedi Mezar Tepe Nekropolü,SIGHT,40.287651,30.051559,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q131738799,Pelitözü Köyü Hamamı,SIGHT,40.294270,30.050949,,Bilecik,CC0-1.0,0,Pelitözü Köyü Baths,,han_hamam_çarşı,hamam,Q28077
+Q134728165,Poyra Köyü Tümülüsü,SIGHT,39.876942,30.193670,,,CC0-1.0,0,Poyra Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | hazire | tümülüs,"Q34023,Q162875,Q6034438"
+Q133236013,Pınarcık Kalesi,SIGHT,40.290619,30.052610,,Bilecik,CC0-1.0,0,Pınarcık Castle,Paşaboğazı Kalesi,kale_sur | arkeolojik_sit,kale | antik kent | arkeolojik sit,"Q57831,Q839954,Q15661340"
+Q131391407,Savcı Bey Türbesi,SIGHT,39.824123,30.034683,,,CC0-1.0,0,Prosecutor Bey Tomb,Saruyatı Türbesi | Saruyatı Savcı Bey Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131738792,Selöz Köyü Hamamı,SIGHT,40.131931,29.924847,,Bilecik,CC0-1.0,0,Selöz Köyü Baths,,han_hamam_çarşı,hamam,Q28077
+Q133245759,"Süleyman Paşa Hamamı, Bilecik",SIGHT,40.142601,29.987419,,Bilecik,CC0-1.0,0,Süleyman Paşa Baths (Bilecik),,han_hamam_çarşı,hamam,Q28077
+Q132134446,Vezirhan Camii,SIGHT,40.243450,30.022303,,Bilecik,CC0-1.0,0,Köprülü Mehmet Paşa Mosque,Vezirhan Camii,cami | külliye_medrese_türbe,cami | külliye,"Q32815,Q71974"
+Q139436588,Vezirhan Nekropol Alanı,SIGHT,40.247067,30.025068,,Bilecik,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q133236616,Yarhisar Kalesi,SIGHT,40.185532,29.880709,,Bilecik,CC0-1.0,0,Yarhisar Castle,,kale_sur,kale,Q57831
+Q132182530,Yassı Höyük,SIGHT,40.255146,30.264387,,,CC0-1.0,0,Yassı Höyük (Gölpazarı),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182705,Çerkezçetmi Höyüğü,SIGHT,39.884941,30.174641,,,CC0-1.0,0,Çerkezçetmi Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182706,Çokçapınar Höyüğü,SIGHT,39.780754,29.967861,,,CC0-1.0,0,Çokçapınar Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134728386,Üyücük Tümülüsü,SIGHT,40.134201,30.099369,,Bilecik,CC0-1.0,0,Üyücük Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q132182624,"Üyük, Gölpazarı",SIGHT,40.249765,30.109741,,,CC0-1.0,0,Üyük (Gölpazarı),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131738789,İlyasbey Köy Hamamı,SIGHT,40.218082,29.868343,,Bilecik,CC0-1.0,0,İlyasbey Köy Baths,,han_hamam_çarşı,hamam,Q28077

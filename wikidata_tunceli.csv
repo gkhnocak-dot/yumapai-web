@@ -1,33 +1,33 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q1682878,Munzur Vadisi Millî Parkı,ACTIVITY,39.489167,39.625000,,,CC0-1.0,11,Munzur Valley National Park,,milli_park_tabiat,millî park (Türkiye)
-Q1953415,Munzur Dağları,SIGHT,39.432370,39.077960,,,CC0-1.0,8,Munzur Mountains,Munzur Dağı | Munzur (dağ) | Munzur dağları,,sıradağ
-Q6025389,Pertek Kalesi,SIGHT,38.844444,39.271667,,,CC0-1.0,5,Pertek Castle,,kale_sur,kale
-Q6078467,Düzgün Baba,SIGHT,39.124298,39.791161,,Nazımiye (ilçe),CC0-1.0,4,Bava Duzgı,,külliye_medrese_türbe | anıt_heykel | mezar,türbe
-Q34894335,Keban Baraj Gölü,ACTIVITY,38.649167,39.488056,,,CC0-1.0,4,Keban Reservoir,,göl,baraj gölü
-Q123493861,Surbehan Kilisesi,SIGHT,38.979444,39.483889,,Tunceli,CC0-1.0,3,,Surp Astvatsatsin Manastırı (Surp Ohan),kilise,kilise
-Q124607331,Surp Harutyun Kilisesi (Yerkan),SIGHT,39.030758,39.267483,,,CC0-1.0,2,Surp Harutyun Church (Yerkan),,kilise,kilise
-Q6093268,Pulur / Sakyol Höyük,SIGHT,38.903297,38.862854,,,CC0-1.0,1,pulur sakyol,Sakyol Höyük,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q109530766,Tunceli Müzesi,SIGHT,39.104229,39.547810,,Tunceli,CC0-1.0,1,Tunceli Museum,,müze,müze
-Q131902229,Ambar Kalesi,SIGHT,39.083469,39.637287,,Tunceli,CC0-1.0,0,Ambar Castle,Anbar Kalesi,kale_sur,kale
-Q139420504,Ağuiçen Türbesi,SIGHT,38.994823,39.213499,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139420483,Basıkkaya Kaya Mezarı,SIGHT,39.062339,38.908788,,Çemişgezek ilçesi,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı
-Q131902194,"Bağın Kalesi, Mazgirt",SIGHT,39.003651,39.899971,,,CC0-1.0,0,Bağın Castle (Mazgirt),,kale_sur,kale
-Q139420518,Besime Hatun Türbesi,SIGHT,38.862653,39.309810,,Pertek,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139420512,Demrik Kalesi,SIGHT,38.895410,39.186584,,Pertek,CC0-1.0,0,,,kale_sur,kale
-Q131902159,Derun-i Hisar Kalesi,SIGHT,38.916966,39.299305,,,CC0-1.0,0,Derun-i Hisar Castle,Sağman Kalesi,kale_sur,kale
-Q132182787,Efkartepe Höyük,SIGHT,39.354984,39.217880,,,CC0-1.0,0,Efkartepe Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q135582803,"Elti Hatun Türbesi, Mazgirt",SIGHT,39.021305,39.605469,,,CC0-1.0,0,Elti Hatun Türbesi (Mazgirt),,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe
-Q139420498,Emin Ağa Hamamı,SIGHT,39.108467,39.217466,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139435211,Ergan Surp Garabed Manastırı,SIGHT,39.030300,39.266201,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139420476,Eski Hamam (Çemişgezek),SIGHT,39.063351,38.911059,,Çemişgezek ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q131390487,Ferruh Şad Bey Türbesi,SIGHT,39.029140,39.051601,,,CC0-1.0,0,Tomb of Ferruh Şad Bey,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131902193,"Kaleköy Kalesi, Mazgirt",SIGHT,39.026989,39.661331,,,CC0-1.0,0,Kaleköy Castle (Mazgirt),,kale_sur,kale
-Q131901873,Mazgirt Kalesi,SIGHT,39.023626,39.600692,,,CC0-1.0,0,Mazgirt Castle,,kale_sur,kale
-Q131391589,Salih Bey Türbesi,SIGHT,38.918869,39.297379,,,CC0-1.0,0,Tomb of Salih Bey,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391586,Sarı Saltuk Türbesi,SIGHT,39.173099,39.220600,,,CC0-1.0,0,Sari Saltuk Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132182785,"Til Höyük, Mazgirt",SIGHT,38.859673,39.756825,,,CC0-1.0,0,Til Höyük (Mazgirt),,arkeolojik_sit | anıt_heykel,höyük
-Q132182789,"Tozkoparan Höyük, Pertek",SIGHT,38.929367,39.438328,,,CC0-1.0,0,Tozkoparan Höyük (Pertek),,arkeolojik_sit | anıt_heykel,höyük
-Q139420490,Uzun Hasan Türbesi,SIGHT,39.056622,38.912610,,Çemişgezek ilçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139420491,Yeni Hamam (Çemişgezek),SIGHT,39.062037,38.910770,,Çemişgezek ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q131391585,Çoban Dede Türbesi,SIGHT,39.020077,39.609890,,,CC0-1.0,0,Shepherd Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132182788,"Çukurca Höyük, Pertek",SIGHT,38.919567,39.075211,,,CC0-1.0,0,Çukurca Höyük (Pertek),,arkeolojik_sit | anıt_heykel,höyük
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1682878,Munzur Vadisi Millî Parkı,ACTIVITY,39.489167,39.625000,,,CC0-1.0,11,Munzur Valley National Park,,milli_park_tabiat,millî park (Türkiye),Q108060568
+Q1953415,Munzur Dağları,SIGHT,39.432370,39.077960,,,CC0-1.0,8,Munzur Mountains,Munzur Dağı | Munzur (dağ) | Munzur dağları,,sıradağ,Q46831
+Q6025389,Pertek Kalesi,SIGHT,38.844444,39.271667,,,CC0-1.0,5,Pertek Castle,,kale_sur,kale,Q23413
+Q6078467,Düzgün Baba,SIGHT,39.124298,39.791161,,Nazımiye (ilçe),CC0-1.0,4,Bava Duzgı,,külliye_medrese_türbe | anıt_heykel | mezar,türbe,Q838159
+Q34894335,Keban Baraj Gölü,ACTIVITY,38.649167,39.488056,,,CC0-1.0,4,Keban Reservoir,,göl,baraj gölü,Q131681
+Q123493861,Surbehan Kilisesi,SIGHT,38.979444,39.483889,,Tunceli,CC0-1.0,3,,Surp Astvatsatsin Manastırı (Surp Ohan),kilise,kilise,Q16970
+Q124607331,Surp Harutyun Kilisesi (Yerkan),SIGHT,39.030758,39.267483,,,CC0-1.0,2,Surp Harutyun Church (Yerkan),,kilise,kilise,Q16970
+Q6093268,Pulur / Sakyol Höyük,SIGHT,38.903297,38.862854,,,CC0-1.0,1,pulur sakyol,Sakyol Höyük,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q109530766,Tunceli Müzesi,SIGHT,39.104229,39.547810,,Tunceli,CC0-1.0,1,Tunceli Museum,,müze,müze,Q33506
+Q131902229,Ambar Kalesi,SIGHT,39.083469,39.637287,,Tunceli,CC0-1.0,0,Ambar Castle,Anbar Kalesi,kale_sur,kale,Q23413
+Q139420504,Ağuiçen Türbesi,SIGHT,38.994823,39.213499,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139420483,Basıkkaya Kaya Mezarı,SIGHT,39.062339,38.908788,,Çemişgezek ilçesi,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel | mezar,kaya mezarı,Q1404229
+Q131902194,"Bağın Kalesi, Mazgirt",SIGHT,39.003651,39.899971,,,CC0-1.0,0,Bağın Castle (Mazgirt),,kale_sur,kale,Q23413
+Q139420518,Besime Hatun Türbesi,SIGHT,38.862653,39.309810,,Pertek,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139420512,Demrik Kalesi,SIGHT,38.895410,39.186584,,Pertek,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131902159,Derun-i Hisar Kalesi,SIGHT,38.916966,39.299305,,,CC0-1.0,0,Derun-i Hisar Castle,Sağman Kalesi,kale_sur,kale,Q23413
+Q132182787,Efkartepe Höyük,SIGHT,39.354984,39.217880,,,CC0-1.0,0,Efkartepe Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135582803,"Elti Hatun Türbesi, Mazgirt",SIGHT,39.021305,39.605469,,,CC0-1.0,0,Elti Hatun Türbesi (Mazgirt),,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q139420498,Emin Ağa Hamamı,SIGHT,39.108467,39.217466,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139435211,Ergan Surp Garabed Manastırı,SIGHT,39.030300,39.266201,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139420476,Eski Hamam (Çemişgezek),SIGHT,39.063351,38.911059,,Çemişgezek ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q131390487,Ferruh Şad Bey Türbesi,SIGHT,39.029140,39.051601,,,CC0-1.0,0,Tomb of Ferruh Şad Bey,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131902193,"Kaleköy Kalesi, Mazgirt",SIGHT,39.026989,39.661331,,,CC0-1.0,0,Kaleköy Castle (Mazgirt),,kale_sur,kale,Q23413
+Q131901873,Mazgirt Kalesi,SIGHT,39.023626,39.600692,,,CC0-1.0,0,Mazgirt Castle,,kale_sur,kale,Q23413
+Q131391589,Salih Bey Türbesi,SIGHT,38.918869,39.297379,,,CC0-1.0,0,Tomb of Salih Bey,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391586,Sarı Saltuk Türbesi,SIGHT,39.173099,39.220600,,,CC0-1.0,0,Sari Saltuk Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132182785,"Til Höyük, Mazgirt",SIGHT,38.859673,39.756825,,,CC0-1.0,0,Til Höyük (Mazgirt),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182789,"Tozkoparan Höyük, Pertek",SIGHT,38.929367,39.438328,,,CC0-1.0,0,Tozkoparan Höyük (Pertek),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139420490,Uzun Hasan Türbesi,SIGHT,39.056622,38.912610,,Çemişgezek ilçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139420491,Yeni Hamam (Çemişgezek),SIGHT,39.062037,38.910770,,Çemişgezek ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q131391585,Çoban Dede Türbesi,SIGHT,39.020077,39.609890,,,CC0-1.0,0,Shepherd Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132182788,"Çukurca Höyük, Pertek",SIGHT,38.919567,39.075211,,,CC0-1.0,0,Çukurca Höyük (Pertek),,arkeolojik_sit | anıt_heykel,höyük,Q755017

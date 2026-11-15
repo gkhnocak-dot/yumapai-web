@@ -1,113 +1,113 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q3457705,Arpaçay Baraj Gölü,ACTIVITY,40.605120,43.692420,,,CC0-1.0,18,Akhurian Reservoir,,göl,baraj gölü
-Q4833028,Kümbet Camii,SIGHT,40.611306,43.091444,,,CC0-1.0,16,Cathedral of Kars,Havariler Kilisesi,cami | kilise,kilise | miras | cami
-Q2626115,Beşkilise,SIGHT,40.380556,43.376389,,,CC0-1.0,14,Khtzkonk Monastery,Khidskonk,manastır_sinagog,manastır
-Q195422,Menuçihr Camii,SIGHT,40.505200,43.570100,,,CC0-1.0,13,Menüçehr Mosque,Ebul Manucehr Cami | Ebul Manucehr | Ani Menûçihr Camii | Ebu’l Manuçehr Camii | Manuçehr Camii | Ani Ulu Camii | Menucehr Camii,cami,cami
-Q4305538,Mren Katedrali,SIGHT,40.242125,43.662953,,,CC0-1.0,13,Cathedral of Mren,,kilise,katedral | kilise
-Q2727504,Horomos Manastırı,SIGHT,40.519689,43.629158,,,CC0-1.0,12,Horomos,,manastır_sinagog,manastır
-Q7695481,Tekor Bazilikası,SIGHT,40.371389,43.414722,,,CC0-1.0,12,Tekor Basilica,Aziz Sargis Kilisesi,kilise,kilise
-Q5050393,Kars Kalesi,SIGHT,40.613611,43.089722,,,CC0-1.0,9,Castle of Kars,,kale_sur,kale
-Q196156,Ani Kutsal Havariler Kilisesi,SIGHT,40.508700,43.570700,,,CC0-1.0,8,Church of the Holy Apostles of Ani,Ani Apostol Kilisesi,kilise,kilise | harabe
-Q195948,Aziz Gregory Tigran Honents Kilisesi,SIGHT,40.505900,43.578700,,,CC0-1.0,8,Church of Saint Gregory of Tigran Honents,,kilise,kilise
-Q6373388,Kars Müzesi,SIGHT,40.613056,43.110000,,,CC0-1.0,8,Kars Museum,,müze,arkeoloji müzesi | Etnografya müzesi | müze
-Q5347949,Çengilli Kilisesi,SIGHT,40.123483,42.913334,,,CC0-1.0,8,Eghegnamor monastery,Eğeknamor Manastırı,kilise | manastır_sinagog,manastır | kilise | harabe
-Q195430,Aziz Gregory Gagkashen Kilisesi,SIGHT,40.510000,43.568700,,,CC0-1.0,7,Church of Saint Gregory of Gagkashen,,kilise,kilise
-Q195876,"İpek Yolu Köprüsü, Ani",SIGHT,40.504400,43.572800,,,CC0-1.0,7,"Silk Road Bridge, Ani",Ani Köprüsü | İpek Yolu Köprüsü,köprü,köprü | harabe
-Q195431,Ani Kutsal Kurtarıcı Kilisesi,SIGHT,40.507100,43.576800,,,CC0-1.0,6,Church of the Holy Redeemer of Ani,,kilise,kilise
-Q20471086,Aygır Gölü,ACTIVITY,40.763056,43.003056,,,CC0-1.0,6,Aygır Gölü,,göl,göl
-Q195419,Aziz Gregory Abughamrents Kilisesi,SIGHT,40.507400,43.569000,,,CC0-1.0,6,Church of Saint Gregory of Abughamrents,Ani Abughamrents Kilisesi | Polatoğlu Kilisesi | Abukhamrents Kilisesi | Abugamir Pahlavuni Kilisesi,kilise,kilise
-Q16372234,Bagaran,SIGHT,40.201700,43.654700,,,CC0-1.0,6,Bagaran,,arkeolojik_sit,arkeolojik sit
-Q12837416,Bagnayr Manastırı,SIGHT,40.513406,43.484321,,,CC0-1.0,6,Bagnayr monastery,,manastır_sinagog,harabe | manastır
-Q195425,Bakireler Manastırı,SIGHT,40.504500,43.575800,,,CC0-1.0,6,Monastery of the Virgins,,manastır_sinagog,manastır
-Q20476559,Sarıkamış-Allahüekber Dağları Millî Parkı,ACTIVITY,40.302019,42.614456,,,CC0-1.0,6,Sarıkamış-Allahuekber Mountains National Park,,milli_park_tabiat,millî park (Türkiye)
-Q2781868,"Aziz Grigor Manastırı (Ağkaberd, Ani)",SIGHT,40.496407,43.568474,,,CC0-1.0,5,"Saint Grigor Monastery (Aghkaberd, Ani)",,kilise,kilise
-Q17515431,Kuyucuk Gölü,ACTIVITY,40.738900,43.454300,,,CC0-1.0,5,Lake Kuyucuk,,göl,göl
-Q5886067,Yerazgavors Kutsal Kurtarıcı Manastırı,SIGHT,40.693800,43.736300,,,CC0-1.0,5,Holy Saviour's monastery of Yerazgavors,,manastır_sinagog,manastır
-Q18785722,Maghasberd,SIGHT,40.471800,43.538500,,,CC0-1.0,4,Magazberd,,arkeolojik_sit,arkeolojik sit
-Q4457108,Tygnis Kalesi,SIGHT,40.713139,43.716636,,,CC0-1.0,4,Tygnis Fortress,,kale_sur,kale
-Q116758037,Alaman Kilisesi,SIGHT,40.427307,43.509402,,,CC0-1.0,3,Alaman Church,,kilise,kilise | dini yapı
-Q48741681,Boğatepe Peynir Müzesi,SIGHT,40.800000,42.900000,,,CC0-1.0,3,Boğatepe Cheese Museum,,müze,yemek müzesi
-Q56244780,"Fethiye Camii, Kars",SIGHT,40.600952,43.099396,,,CC0-1.0,3,"Fethiye Mosque, Kars",Alexander Nevsky Katedrali | Kazak Kilisesi,kilise | cami,Eastern Orthodox church building | spor salonu | cami
-Q24915219,Soğuksu Tabiat Parkı,ACTIVITY,40.310000,42.634722,,,CC0-1.0,3,Soğuksu Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye)
-Q65293171,Çala Kilisesi (Arpaçay),SIGHT,41.061528,43.334000,,,CC0-1.0,3,Ch'ala church,,kilise,kilise
-Q107690042,Ani Kalesi,SIGHT,40.501420,43.567170,,,CC0-1.0,2,Citadel of Ani,,kale_sur,kale harabesi
-Q77670221,Kars Kutsal Ana Meryem Kilisesi,SIGHT,40.612611,43.088278,,,CC0-1.0,2,Church of the Holy Mother of God,,kilise,kilise
-Q97947295,Kars Ulu Camii,SIGHT,40.612028,43.092056,,,CC0-1.0,2,Great Mosque of Kars,,cami,cami
-Q6036177,Katherina Köşkü,SIGHT,40.326639,42.574306,,,CC0-1.0,2,Katherina Villa,,ev_konak,tarihî bina | konak
-Q124340634,Katolik Kilisesi (Argina),SIGHT,40.711111,43.632222,,,CC0-1.0,2,Argina Catholic Church,,kilise,kilise
-Q21695305,Lavaş Gölü,ACTIVITY,40.936111,43.261111,,,CC0-1.0,2,Lake Lavaş,,göl,göl
-Q38252212,Taşköprü (Kars),SIGHT,40.611667,43.088611,,,CC0-1.0,2,Taşköprü,,köprü,kemerli köprü
-Q131390853,Alperenler Türbesi,SIGHT,40.612477,43.088725,,,CC0-1.0,1,Alperenler Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131901860,Ani Kalesi,SIGHT,40.505740,43.569589,,,CC0-1.0,1,Ani Castle,,kale_sur,kale
-Q49319046,Azizbey Mağarası,ACTIVITY,40.583333,43.210556,,,CC0-1.0,1,Azizbey Cave,,doğa,mağara
-Q123479480,Lelusi Manastırı,SIGHT,40.965586,43.284714,,,CC0-1.0,1,,,manastır_sinagog,manastır
-Q131738419,Topçuoğlu Hamamı,SIGHT,40.610623,43.088977,,,CC0-1.0,1,Topçuoğlu Baths,,han_hamam_çarşı,hamam
-Q131738417,İlbeyoğlu Hamamı,SIGHT,40.611942,43.088414,,,CC0-1.0,1,İlbeyoğlu Baths,Muradiye Hamamı | Balkonlu Hamam,han_hamam_çarşı,hamam
-Q132752821,Ani Kervansarayı,SIGHT,40.508839,43.570759,,,CC0-1.0,0,Ani Caravanserai,,han_hamam_çarşı,kervansaray
-Q131738759,Ani Küçük Hamam,SIGHT,40.505913,43.578823,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q131738756,Ani Menuçehr Hamamı,SIGHT,40.506226,43.574394,,,CC0-1.0,0,,Menucehr Hamamı,han_hamam_çarşı,hamam
-Q139437166,Ani Selçuklu Sarayı,SIGHT,40.511051,43.566856,,,CC0-1.0,0,,,ev_konak | saray_köşk,saray
-Q131902359,Ani İç Kale,SIGHT,40.502131,43.567060,,,CC0-1.0,0,,,kale_sur,kale
-Q139437187,Arap Tabya Kars,SIGHT,40.619186,43.111008,,,CC0-1.0,0,,,kale_sur,tabya
-Q132182781,Azat Höyük,SIGHT,40.530159,43.112679,,,CC0-1.0,0,Azat Höyük,Dündartepe,arkeolojik_sit | anıt_heykel,höyük
-Q139422335,Ağca Kalesi,SIGHT,40.291363,43.230236,,Kağızman İlçesi,CC0-1.0,0,,,kale_sur,kale
-Q131523737,Bagnayr Manastırı,SIGHT,40.514011,43.483223,,,CC0-1.0,0,,Kozluca Manastırı,manastır_sinagog,manastır
-Q139419867,Beylerbeyi Sarayı Hamamı,SIGHT,40.612753,43.091224,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139419876,Boğazköy Köyü Kalesi,SIGHT,40.600695,43.004830,,,CC0-1.0,0,,,kale_sur,kale
-Q139419816,Büyük Hamam (Ani),SIGHT,40.508337,43.572979,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q131390854,Celal Baba Türbesi,SIGHT,40.613550,43.089698,,,CC0-1.0,0,Tomb of Celal Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390852,Ebul Hasan Harakani Türbesi,SIGHT,40.610600,43.092000,,,CC0-1.0,0,Tomb of Abul Hasan Harakani,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139419921,Eren Köyü Kalesi,SIGHT,40.420125,43.449732,,,CC0-1.0,0,,,kale_sur,kale
-Q139419871,Hamam (Kars),SIGHT,40.611298,43.094064,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139429999,II.Dünya Savaşı Sığınağı,SIGHT,40.614527,43.093043,,,CC0-1.0,0,,,kale_sur,sığınak
-Q139437186,Kanlı Tabya (Kars),SIGHT,40.591175,43.095829,,,CC0-1.0,0,,,kale_sur,tabya
-Q139437188,Karadağ Tabyası,SIGHT,40.627266,43.105431,,,CC0-1.0,0,,,kale_sur,tabya
-Q139419450,Karakale Kalesi (Kars),SIGHT,40.469398,43.375355,,,CC0-1.0,0,,,kale_sur,kale
-Q139419434,Karakurt Köyü Kaya Şapeli,SIGHT,40.246918,42.569693,,Sarıkamış (ilçe),CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q139422327,Karavenk Manastırı,SIGHT,40.095872,43.057442,,Kağızman İlçesi,CC0-1.0,0,,,manastır_sinagog,manastır
-Q133504443,Kars Eski Emniyet Müdürlüğü,SIGHT,40.602608,43.093689,,,CC0-1.0,0,,,kale_sur,askeri karakol | tarihî bina | kamu binası
-Q139437185,Kerimpaşa Tabyası,SIGHT,40.616470,43.097938,,,CC0-1.0,0,,,kale_sur,tabya
-Q131902065,"Keçivan Kalesi, Kağızman",SIGHT,40.275894,42.864292,,,CC0-1.0,0,Keçivan Castle (Kağızman),Geçivan-ı Dudman Kalesi,kale_sur,kale
-Q139430001,Korugan 1 (Kars),SIGHT,40.613670,43.091963,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429980,Korugan 10 (Kars),SIGHT,40.619304,43.112596,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429978,Korugan 11 (Kars),SIGHT,40.613387,43.080040,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429976,Korugan 12 (Kars),SIGHT,40.606084,43.056268,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429972,Korugan 13 (Kars),SIGHT,40.627998,43.105147,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429970,Korugan 14 (Kars),SIGHT,40.616576,43.082072,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429968,Korugan 15 (Kars),SIGHT,40.616992,43.099204,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429966,Korugan 16 (Kars),SIGHT,40.628278,43.086283,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429964,Korugan 17 (Kars),SIGHT,40.643732,43.103740,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429962,Korugan 18 (Kars),SIGHT,40.643844,43.104017,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429960,Korugan 19 (Kars),SIGHT,40.634316,43.109343,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429997,Korugan 2 (Kars),SIGHT,40.615542,43.095601,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429958,Korugan 20 (Kars),SIGHT,40.616493,43.082708,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429995,Korugan 3 (Kars),SIGHT,40.624094,43.117711,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429993,Korugan 4 (Kars),SIGHT,40.624303,43.118528,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429991,Korugan 5 (Kars),SIGHT,40.622329,43.118950,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429990,Korugan 6 (Kars),SIGHT,40.636720,43.114150,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429986,Korugan 7 (Kars),SIGHT,40.625757,43.085202,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429984,Korugan 8 (Kars),SIGHT,40.638387,43.115031,,,CC0-1.0,0,,,kale_sur,korugan
-Q139429982,Korugan 9 (Kars),SIGHT,40.620224,43.114380,,,CC0-1.0,0,,,kale_sur,korugan
-Q131902249,Kurdun Deresi Kalesi,SIGHT,40.559582,42.957893,,,CC0-1.0,0,Kurdun Deresi Castle,,kale_sur,kale
-Q139419906,Kurgan Mezar (Kağızman),SIGHT,40.257085,42.856525,,Kağızman İlçesi,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,kurgan
-Q139421752,Kuzeyhan Kalesi,SIGHT,40.439821,43.415781,,,CC0-1.0,0,,,kale_sur,kale
-Q131902064,"Köroğlu Kalesi, Kağızman",SIGHT,40.240524,42.985332,,,CC0-1.0,0,Köroğlu Castle (Kağızman),Morpet Kalesi,kale_sur,kale
-Q133236353,"Köroğlu Kalesi, Sarıkamış",SIGHT,40.343002,42.364246,,,CC0-1.0,0,Köroğlu Castle (Sarıkamış),,kale_sur,kale
-Q139419723,Kız Kalesi (Kars),SIGHT,40.268639,42.655409,,Sarıkamış (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q131738418,Mazlumoğlu Hamamı,SIGHT,40.611480,43.087920,,,CC0-1.0,0,Mazlumoğlu Baths,,han_hamam_çarşı,hamam
-Q131902248,Mağazberd Kalesi,SIGHT,40.475216,43.541344,,,CC0-1.0,0,Magazberd Castle,,kale_sur,kale
-Q131901987,"Micingerd Kalesi, Sarıkamış",SIGHT,40.194721,42.369240,,,CC0-1.0,0,,İnkaya Kalesi | Micingirt Kalesi,kale_sur,kale
-Q139422336,Micingirt Kümbeti,SIGHT,40.194715,42.371117,,Sarıkamış (ilçe),CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel,kümbet
-Q131902056,Süngütaşı Zivin Kalesi,SIGHT,40.214100,42.246800,,,CC0-1.0,0,Süngütaşı Zivin Castle,,kale_sur,kale
-Q131901943,Sürgütüs Zivin Kalesi,SIGHT,40.234624,42.275434,,,CC0-1.0,0,Sürgütüs Zivin Castle,,kale_sur,kale
-Q139433616,Süvari Tabyası,SIGHT,40.601295,43.090534,,,CC0-1.0,0,,,kale_sur,tabya
-Q133236356,Sırataşlar Kalesi,SIGHT,40.296169,42.301991,,,CC0-1.0,0,Sırataşlar Castle (Sarıkamış),,kale_sur,kale
-Q139429974,Tabya (Fevziçakmak),SIGHT,40.606091,43.057924,,,CC0-1.0,0,,,kale_sur,tabya
-Q139422192,Tayyare Kulesi (Kars),SIGHT,40.591431,43.084617,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q133236358,Taşlıgüney Kalesi,SIGHT,40.144173,42.402824,,,CC0-1.0,0,Taşlıgüney Castle,,kale_sur,kale
-Q139422332,Tepeköy Kümbetleri,SIGHT,40.871491,43.561290,,Arpaçay İlçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131523722,Tzarakar Manastırı,SIGHT,40.247574,42.913738,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q133236351,Yenigazi Kalesi,SIGHT,40.417999,42.703861,,,CC0-1.0,0,Yenigazi Castle,,kale_sur,kale
-Q133236762,Yoğunhasan Kalesi,SIGHT,40.116412,42.570751,,,CC0-1.0,0,Yoğunhasan Castle,,kale_sur,kale
-Q131902251,Ziyarettepe Kalesi,SIGHT,40.547188,43.490494,,,CC0-1.0,0,Ziyarettepe Castle,,kale_sur,kale
-Q131391696,Çağlayan Köyü Kümbeti,SIGHT,40.555618,42.959717,,,CC0-1.0,0,Çağlayan Village Gonbad,,külliye_medrese_türbe | anıt_heykel,kümbet
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q3457705,Arpaçay Baraj Gölü,ACTIVITY,40.605120,43.692420,,,CC0-1.0,18,Akhurian Reservoir,,göl,baraj gölü,Q131681
+Q4833028,Kümbet Camii,SIGHT,40.611306,43.091444,,,CC0-1.0,16,Cathedral of Kars,Havariler Kilisesi,cami | kilise,kilise | miras | cami,"Q16970,Q32815,Q2434238"
+Q2626115,Beşkilise,SIGHT,40.380556,43.376389,,,CC0-1.0,14,Khtzkonk Monastery,Khidskonk,manastır_sinagog,manastır,Q44613
+Q195422,Menuçihr Camii,SIGHT,40.505200,43.570100,,,CC0-1.0,13,Menüçehr Mosque,Ebul Manucehr Cami | Ebul Manucehr | Ani Menûçihr Camii | Ebu’l Manuçehr Camii | Manuçehr Camii | Ani Ulu Camii | Menucehr Camii,cami,cami,Q32815
+Q4305538,Mren Katedrali,SIGHT,40.242125,43.662953,,,CC0-1.0,13,Cathedral of Mren,,kilise,katedral | kilise,"Q2977,Q16970"
+Q2727504,Horomos Manastırı,SIGHT,40.519689,43.629158,,,CC0-1.0,12,Horomos,,manastır_sinagog,manastır,Q44613
+Q7695481,Tekor Bazilikası,SIGHT,40.371389,43.414722,,,CC0-1.0,12,Tekor Basilica,Aziz Sargis Kilisesi,kilise,kilise,Q16970
+Q5050393,Kars Kalesi,SIGHT,40.613611,43.089722,,,CC0-1.0,9,Castle of Kars,,kale_sur,kale,Q23413
+Q196156,Ani Kutsal Havariler Kilisesi,SIGHT,40.508700,43.570700,,,CC0-1.0,8,Church of the Holy Apostles of Ani,Ani Apostol Kilisesi,kilise,kilise | harabe,"Q16970,Q109607"
+Q195948,Aziz Gregory Tigran Honents Kilisesi,SIGHT,40.505900,43.578700,,,CC0-1.0,8,Church of Saint Gregory of Tigran Honents,,kilise,kilise,Q16970
+Q6373388,Kars Müzesi,SIGHT,40.613056,43.110000,,,CC0-1.0,8,Kars Museum,,müze,arkeoloji müzesi | Etnografya müzesi | müze,"Q33506,Q3329412,Q12104174"
+Q5347949,Çengilli Kilisesi,SIGHT,40.123483,42.913334,,,CC0-1.0,8,Eghegnamor monastery,Eğeknamor Manastırı,kilise | manastır_sinagog,manastır | kilise | harabe,"Q16970,Q44613,Q109607"
+Q195430,Aziz Gregory Gagkashen Kilisesi,SIGHT,40.510000,43.568700,,,CC0-1.0,7,Church of Saint Gregory of Gagkashen,,kilise,kilise,Q16970
+Q195876,"İpek Yolu Köprüsü, Ani",SIGHT,40.504400,43.572800,,,CC0-1.0,7,"Silk Road Bridge, Ani",Ani Köprüsü | İpek Yolu Köprüsü,köprü,köprü | harabe,"Q12280,Q109607"
+Q195431,Ani Kutsal Kurtarıcı Kilisesi,SIGHT,40.507100,43.576800,,,CC0-1.0,6,Church of the Holy Redeemer of Ani,,kilise,kilise,Q16970
+Q20471086,Aygır Gölü,ACTIVITY,40.763056,43.003056,,,CC0-1.0,6,Aygır Gölü,,göl,göl,Q23397
+Q195419,Aziz Gregory Abughamrents Kilisesi,SIGHT,40.507400,43.569000,,,CC0-1.0,6,Church of Saint Gregory of Abughamrents,Ani Abughamrents Kilisesi | Polatoğlu Kilisesi | Abukhamrents Kilisesi | Abugamir Pahlavuni Kilisesi,kilise,kilise,Q16970
+Q16372234,Bagaran,SIGHT,40.201700,43.654700,,,CC0-1.0,6,Bagaran,,arkeolojik_sit,arkeolojik sit,Q839954
+Q12837416,Bagnayr Manastırı,SIGHT,40.513406,43.484321,,,CC0-1.0,6,Bagnayr monastery,,manastır_sinagog,harabe | manastır,"Q44613,Q109607"
+Q195425,Bakireler Manastırı,SIGHT,40.504500,43.575800,,,CC0-1.0,6,Monastery of the Virgins,,manastır_sinagog,manastır,Q44613
+Q20476559,Sarıkamış-Allahüekber Dağları Millî Parkı,ACTIVITY,40.302019,42.614456,,,CC0-1.0,6,Sarıkamış-Allahuekber Mountains National Park,,milli_park_tabiat,millî park (Türkiye),Q108060568
+Q2781868,"Aziz Grigor Manastırı (Ağkaberd, Ani)",SIGHT,40.496407,43.568474,,,CC0-1.0,5,"Saint Grigor Monastery (Aghkaberd, Ani)",,kilise,kilise,Q16970
+Q17515431,Kuyucuk Gölü,ACTIVITY,40.738900,43.454300,,,CC0-1.0,5,Lake Kuyucuk,,göl,göl,Q23397
+Q5886067,Yerazgavors Kutsal Kurtarıcı Manastırı,SIGHT,40.693800,43.736300,,,CC0-1.0,5,Holy Saviour's monastery of Yerazgavors,,manastır_sinagog,manastır,Q44613
+Q18785722,Maghasberd,SIGHT,40.471800,43.538500,,,CC0-1.0,4,Magazberd,,arkeolojik_sit,arkeolojik sit,Q839954
+Q4457108,Tygnis Kalesi,SIGHT,40.713139,43.716636,,,CC0-1.0,4,Tygnis Fortress,,kale_sur,kale,Q57831
+Q116758037,Alaman Kilisesi,SIGHT,40.427307,43.509402,,,CC0-1.0,3,Alaman Church,,kilise,kilise | dini yapı,"Q16970,Q24398318"
+Q48741681,Boğatepe Peynir Müzesi,SIGHT,40.800000,42.900000,,,CC0-1.0,3,Boğatepe Cheese Museum,,müze,yemek müzesi,Q5465500
+Q56244780,"Fethiye Camii, Kars",SIGHT,40.600952,43.099396,,,CC0-1.0,3,"Fethiye Mosque, Kars",Alexander Nevsky Katedrali | Kazak Kilisesi,kilise | cami,Eastern Orthodox church building | spor salonu | cami,"Q14092,Q32815,Q2031836"
+Q24915219,Soğuksu Tabiat Parkı,ACTIVITY,40.310000,42.634722,,,CC0-1.0,3,Soğuksu Nature Park,,milli_park_tabiat,tabiat parkı (Türkiye),Q108060572
+Q65293171,Çala Kilisesi (Arpaçay),SIGHT,41.061528,43.334000,,,CC0-1.0,3,Ch'ala church,,kilise,kilise,Q16970
+Q107690042,Ani Kalesi,SIGHT,40.501420,43.567170,,,CC0-1.0,2,Citadel of Ani,,kale_sur,kale harabesi,Q17715832
+Q77670221,Kars Kutsal Ana Meryem Kilisesi,SIGHT,40.612611,43.088278,,,CC0-1.0,2,Church of the Holy Mother of God,,kilise,kilise,Q16970
+Q97947295,Kars Ulu Camii,SIGHT,40.612028,43.092056,,,CC0-1.0,2,Great Mosque of Kars,,cami,cami,Q32815
+Q6036177,Katherina Köşkü,SIGHT,40.326639,42.574306,,,CC0-1.0,2,Katherina Villa,,ev_konak,tarihî bina | konak,"Q522124,Q35112127"
+Q124340634,Katolik Kilisesi (Argina),SIGHT,40.711111,43.632222,,,CC0-1.0,2,Argina Catholic Church,,kilise,kilise,Q16970
+Q21695305,Lavaş Gölü,ACTIVITY,40.936111,43.261111,,,CC0-1.0,2,Lake Lavaş,,göl,göl,Q23397
+Q38252212,Taşköprü (Kars),SIGHT,40.611667,43.088611,,,CC0-1.0,2,Taşköprü,,köprü,kemerli köprü,Q158438
+Q131390853,Alperenler Türbesi,SIGHT,40.612477,43.088725,,,CC0-1.0,1,Alperenler Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131901860,Ani Kalesi,SIGHT,40.505740,43.569589,,,CC0-1.0,1,Ani Castle,,kale_sur,kale,Q23413
+Q49319046,Azizbey Mağarası,ACTIVITY,40.583333,43.210556,,,CC0-1.0,1,Azizbey Cave,,doğa,mağara,Q35509
+Q123479480,Lelusi Manastırı,SIGHT,40.965586,43.284714,,,CC0-1.0,1,,,manastır_sinagog,manastır,Q44613
+Q131738419,Topçuoğlu Hamamı,SIGHT,40.610623,43.088977,,,CC0-1.0,1,Topçuoğlu Baths,,han_hamam_çarşı,hamam,Q28077
+Q131738417,İlbeyoğlu Hamamı,SIGHT,40.611942,43.088414,,,CC0-1.0,1,İlbeyoğlu Baths,Muradiye Hamamı | Balkonlu Hamam,han_hamam_çarşı,hamam,Q28077
+Q132752821,Ani Kervansarayı,SIGHT,40.508839,43.570759,,,CC0-1.0,0,Ani Caravanserai,,han_hamam_çarşı,kervansaray,Q186347
+Q131738759,Ani Küçük Hamam,SIGHT,40.505913,43.578823,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q131738756,Ani Menuçehr Hamamı,SIGHT,40.506226,43.574394,,,CC0-1.0,0,,Menucehr Hamamı,han_hamam_çarşı,hamam,Q28077
+Q139437166,Ani Selçuklu Sarayı,SIGHT,40.511051,43.566856,,,CC0-1.0,0,,,ev_konak | saray_köşk,saray,Q16560
+Q131902359,Ani İç Kale,SIGHT,40.502131,43.567060,,,CC0-1.0,0,,,kale_sur,kale,Q23413
+Q139437187,Arap Tabya Kars,SIGHT,40.619186,43.111008,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q132182781,Azat Höyük,SIGHT,40.530159,43.112679,,,CC0-1.0,0,Azat Höyük,Dündartepe,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139422335,Ağca Kalesi,SIGHT,40.291363,43.230236,,Kağızman İlçesi,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131523737,Bagnayr Manastırı,SIGHT,40.514011,43.483223,,,CC0-1.0,0,,Kozluca Manastırı,manastır_sinagog,manastır,Q44613
+Q139419867,Beylerbeyi Sarayı Hamamı,SIGHT,40.612753,43.091224,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139419876,Boğazköy Köyü Kalesi,SIGHT,40.600695,43.004830,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139419816,Büyük Hamam (Ani),SIGHT,40.508337,43.572979,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q131390854,Celal Baba Türbesi,SIGHT,40.613550,43.089698,,,CC0-1.0,0,Tomb of Celal Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390852,Ebul Hasan Harakani Türbesi,SIGHT,40.610600,43.092000,,,CC0-1.0,0,Tomb of Abul Hasan Harakani,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139419921,Eren Köyü Kalesi,SIGHT,40.420125,43.449732,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139419871,Hamam (Kars),SIGHT,40.611298,43.094064,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139429999,II.Dünya Savaşı Sığınağı,SIGHT,40.614527,43.093043,,,CC0-1.0,0,,,kale_sur,sığınak,Q91122
+Q139437186,Kanlı Tabya (Kars),SIGHT,40.591175,43.095829,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437188,Karadağ Tabyası,SIGHT,40.627266,43.105431,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139419450,Karakale Kalesi (Kars),SIGHT,40.469398,43.375355,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139419434,Karakurt Köyü Kaya Şapeli,SIGHT,40.246918,42.569693,,Sarıkamış (ilçe),CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q139422327,Karavenk Manastırı,SIGHT,40.095872,43.057442,,Kağızman İlçesi,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q133504443,Kars Eski Emniyet Müdürlüğü,SIGHT,40.602608,43.093689,,,CC0-1.0,0,,,kale_sur,askeri karakol | tarihî bina | kamu binası,"Q294422,Q1321241,Q35112127"
+Q139437185,Kerimpaşa Tabyası,SIGHT,40.616470,43.097938,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q131902065,"Keçivan Kalesi, Kağızman",SIGHT,40.275894,42.864292,,,CC0-1.0,0,Keçivan Castle (Kağızman),Geçivan-ı Dudman Kalesi,kale_sur,kale,Q23413
+Q139430001,Korugan 1 (Kars),SIGHT,40.613670,43.091963,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429980,Korugan 10 (Kars),SIGHT,40.619304,43.112596,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429978,Korugan 11 (Kars),SIGHT,40.613387,43.080040,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429976,Korugan 12 (Kars),SIGHT,40.606084,43.056268,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429972,Korugan 13 (Kars),SIGHT,40.627998,43.105147,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429970,Korugan 14 (Kars),SIGHT,40.616576,43.082072,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429968,Korugan 15 (Kars),SIGHT,40.616992,43.099204,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429966,Korugan 16 (Kars),SIGHT,40.628278,43.086283,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429964,Korugan 17 (Kars),SIGHT,40.643732,43.103740,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429962,Korugan 18 (Kars),SIGHT,40.643844,43.104017,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429960,Korugan 19 (Kars),SIGHT,40.634316,43.109343,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429997,Korugan 2 (Kars),SIGHT,40.615542,43.095601,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429958,Korugan 20 (Kars),SIGHT,40.616493,43.082708,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429995,Korugan 3 (Kars),SIGHT,40.624094,43.117711,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429993,Korugan 4 (Kars),SIGHT,40.624303,43.118528,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429991,Korugan 5 (Kars),SIGHT,40.622329,43.118950,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429990,Korugan 6 (Kars),SIGHT,40.636720,43.114150,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429986,Korugan 7 (Kars),SIGHT,40.625757,43.085202,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429984,Korugan 8 (Kars),SIGHT,40.638387,43.115031,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139429982,Korugan 9 (Kars),SIGHT,40.620224,43.114380,,,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q131902249,Kurdun Deresi Kalesi,SIGHT,40.559582,42.957893,,,CC0-1.0,0,Kurdun Deresi Castle,,kale_sur,kale,Q23413
+Q139419906,Kurgan Mezar (Kağızman),SIGHT,40.257085,42.856525,,Kağızman İlçesi,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,kurgan,Q5737
+Q139421752,Kuzeyhan Kalesi,SIGHT,40.439821,43.415781,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131902064,"Köroğlu Kalesi, Kağızman",SIGHT,40.240524,42.985332,,,CC0-1.0,0,Köroğlu Castle (Kağızman),Morpet Kalesi,kale_sur,kale,Q23413
+Q133236353,"Köroğlu Kalesi, Sarıkamış",SIGHT,40.343002,42.364246,,,CC0-1.0,0,Köroğlu Castle (Sarıkamış),,kale_sur,kale,Q57831
+Q139419723,Kız Kalesi (Kars),SIGHT,40.268639,42.655409,,Sarıkamış (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131738418,Mazlumoğlu Hamamı,SIGHT,40.611480,43.087920,,,CC0-1.0,0,Mazlumoğlu Baths,,han_hamam_çarşı,hamam,Q28077
+Q131902248,Mağazberd Kalesi,SIGHT,40.475216,43.541344,,,CC0-1.0,0,Magazberd Castle,,kale_sur,kale,Q23413
+Q131901987,"Micingerd Kalesi, Sarıkamış",SIGHT,40.194721,42.369240,,,CC0-1.0,0,,İnkaya Kalesi | Micingirt Kalesi,kale_sur,kale,Q23413
+Q139422336,Micingirt Kümbeti,SIGHT,40.194715,42.371117,,Sarıkamış (ilçe),CC0-1.0,0,,,külliye_medrese_türbe | anıt_heykel,kümbet,Q1521433
+Q131902056,Süngütaşı Zivin Kalesi,SIGHT,40.214100,42.246800,,,CC0-1.0,0,Süngütaşı Zivin Castle,,kale_sur,kale,Q23413
+Q131901943,Sürgütüs Zivin Kalesi,SIGHT,40.234624,42.275434,,,CC0-1.0,0,Sürgütüs Zivin Castle,,kale_sur,kale,Q23413
+Q139433616,Süvari Tabyası,SIGHT,40.601295,43.090534,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q133236356,Sırataşlar Kalesi,SIGHT,40.296169,42.301991,,,CC0-1.0,0,Sırataşlar Castle (Sarıkamış),,kale_sur,kale,Q57831
+Q139429974,Tabya (Fevziçakmak),SIGHT,40.606091,43.057924,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139422192,Tayyare Kulesi (Kars),SIGHT,40.591431,43.084617,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q133236358,Taşlıgüney Kalesi,SIGHT,40.144173,42.402824,,,CC0-1.0,0,Taşlıgüney Castle,,kale_sur,kale,Q57831
+Q139422332,Tepeköy Kümbetleri,SIGHT,40.871491,43.561290,,Arpaçay İlçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131523722,Tzarakar Manastırı,SIGHT,40.247574,42.913738,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q133236351,Yenigazi Kalesi,SIGHT,40.417999,42.703861,,,CC0-1.0,0,Yenigazi Castle,,kale_sur,kale,Q57831
+Q133236762,Yoğunhasan Kalesi,SIGHT,40.116412,42.570751,,,CC0-1.0,0,Yoğunhasan Castle,,kale_sur,kale,Q57831
+Q131902251,Ziyarettepe Kalesi,SIGHT,40.547188,43.490494,,,CC0-1.0,0,Ziyarettepe Castle,,kale_sur,kale,Q23413
+Q131391696,Çağlayan Köyü Kümbeti,SIGHT,40.555618,42.959717,,,CC0-1.0,0,Çağlayan Village Gonbad,,külliye_medrese_türbe | anıt_heykel,kümbet,Q1521433

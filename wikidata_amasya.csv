@@ -1,108 +1,108 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q893292,Boraboy Gölü,ACTIVITY,40.803880,36.153740,,,CC0-1.0,12,Lake Boraboy,,göl,göl
-Q2635905,Gaziura,SIGHT,40.404051,36.059111,,,CC0-1.0,10,Gaziura,,arkeolojik_sit,antik kent
-Q14089145,Merzifonlu Kara Mustafa Paşa Camii,SIGHT,40.872694,35.463889,,,CC0-1.0,9,"Merzifonlu Kara Mustafa Paşa Mosque, Merzifon",Merzifon Paşa Cami | Paşa Cami | Kara Mustafa Paşa Cami | Paşa Camii,cami,cami
-Q25472502,Amasya Arkeoloji ve Mumya Müzesi,SIGHT,40.649444,35.824722,,,CC0-1.0,7,Amasya Museum,Amasya Arkeoloji Müzesi,müze,arkeoloji müzesi | müze
-Q16255881,Amasya Ulu Camii,SIGHT,40.650100,35.832400,,,CC0-1.0,7,Burmalı Amasya Mosque,,cami,cami
-Q6022363,Kral Kaya Mezarları,SIGHT,40.653601,35.830415,,,CC0-1.0,7,Tombs of the Kings of Pontus,,anıt_heykel | arkeolojik_sit | mezar,arkeolojik sit | kaya mezarı | tarihi mekân
-Q15197697,İkinci Beyazıt Camii,SIGHT,40.650000,35.827000,,,CC0-1.0,7,Bayezid II Mosque,Amasya ikinci beyazıt külliyesi,külliye_medrese_türbe | anıt_heykel | cami,cami | külliye | tarihi mekân
-Q16255962,Büyük Ağa Medresesi,SIGHT,40.658580,35.834892,,,CC0-1.0,6,Büyük Aga Medrese,Kapı Ağa Medresesi[,anıt_heykel,medrese | tarihi mekân
-Q1091559,Yedikır Barajı,SIGHT,40.775600,35.570300,,,CC0-1.0,6,Yedikır Dam,,,baraj
-Q21524009,Amasya Kalesi,SIGHT,40.655280,35.826670,,,CC0-1.0,5,Amasya Castle,Harşena Kalesi,kale_sur | anıt_heykel,kale | tarihi mekân | kale
-Q6104469,Oluz Höyük,SIGHT,40.545700,35.628500,,,CC0-1.0,5,Oluz Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q28220617,Ferhat ile Şirin Anıtı,SIGHT,40.632500,35.811900,,,CC0-1.0,4,Farhad and Shirin Monument,,anıt_heykel,anıt
-Q30632561,İstasyon Köprüsü,SIGHT,40.652025,35.822943,,,CC0-1.0,4,İstasyon Bridge,,köprü,karayol köprüsü | köprü | tarihî bina
-Q21524010,Amasya Saat Kulesi,SIGHT,40.652861,35.833472,,,CC0-1.0,3,Amasya Clock Tower,,kule | kule_saat,saat kulesi
-Q116169871,Aynalı Mağara,SIGHT,40.671738,35.842578,,,CC0-1.0,3,Mirror Cave,,anıt_heykel | doğa | külliye_medrese_türbe,mağara | anıt mezar
-Q85764214,Gozalena,SIGHT,40.582908,36.044125,,,CC0-1.0,3,Gozalena,,arkeolojik_sit,antik kent
-Q137774229,Pir Sücaeddin İlyas Türbesi,SIGHT,40.653041,35.838424,,,CC0-1.0,3,Pir Sücaeddin İlyas Tomb,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q116780417,Abide Hatun Camii,SIGHT,40.878282,35.496223,,Merzifon İlçesi,CC0-1.0,2,Abide Hatun Mosque,,cami,cami
-Q116201086,Alçak Köprü,SIGHT,40.651928,35.830547,,,CC0-1.0,2,,"Alçak Köprü, Amasya",köprü,köprü | tarihî bina
-Q116884558,Amasya Bedesteni,SIGHT,40.651111,35.831667,,,CC0-1.0,2,"Bedesten, Amasya",,çarşı_pazar | han_hamam_çarşı,bina | kültür merkezi | bedesten
-Q6027957,Bayezid Paşa Camii,SIGHT,40.658028,35.836889,,,CC0-1.0,2,Bayezid Paşa Mosque,,cami,cami
-Q85754636,Cromen,SIGHT,40.700735,35.536702,,,CC0-1.0,2,Cromen,,arkeolojik_sit,antik kent
-Q118957813,Halifet Gazi Türbesi,SIGHT,40.649353,35.823185,,,CC0-1.0,2,,,külliye_medrese_türbe | anıt_heykel | mezar,kümbet | türbe
-Q6016566,Hatuniye Camii,SIGHT,40.652028,35.829417,,,CC0-1.0,2,"Hatuniye Mosque, Amasya",Bülbül Hatun Camii,cami,cami
-Q118957982,Kadılar Türbesi,SIGHT,40.649200,35.823196,,,CC0-1.0,2,Kadılar Tomb,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q116260117,Merzifon Taşhan,SIGHT,40.872848,35.464649,,Merzifon İlçesi,CC0-1.0,2,,"Taş Han, Merzifon | Merzifon Taşhan",han_hamam_çarşı,Han | kervansaray
-Q116792754,Merzifonlu Kara Mustafa Paşa Hamamı,SIGHT,40.876547,35.464119,,Merzifon İlçesi,CC0-1.0,2,Merzifonlu Kara Mustafa Paşa Hammam,Paşa Hamamı,han_hamam_çarşı,hamam
-Q19612520,Sofular Camii,SIGHT,40.878548,35.460989,,Merzifon İlçesi,CC0-1.0,2,Sofular Mosque,,cami,cami
-Q118957960,Sultan Mesud Türbesi,SIGHT,40.649333,35.824417,,,CC0-1.0,2,Tomb of Sultan Mesud,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q116922072,Taşhan (Amasya),SIGHT,40.650486,35.832146,,,CC0-1.0,2,Taşhan (Amasya),,han_hamam_çarşı,kervansaray
-Q118188334,Torumtay Türbesi,SIGHT,40.649778,35.820111,,,CC0-1.0,2,Torumtay Tomb,Gök Medrese Türbesi | Seyfeddin Torumtay Türbesi,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q61072933,Çelebi Mehmet Medresesi Camii,SIGHT,40.873833,35.461861,,Merzifon İlçesi,CC0-1.0,2,,Çelebi Sultan Mehmet Camii | Medrese Önü Camii,cami,cami
-Q85752652,İkizari,SIGHT,40.899440,35.874910,,,CC0-1.0,2,Cizari,,arkeolojik_sit,antik kent
-Q131738950,Altuntaş Hamamı,SIGHT,40.651894,35.826275,,,CC0-1.0,1,Altuntaş Hammam,Yukarı Hamam,han_hamam_çarşı,hamam
-Q6043868,Burmalı Minare Camii,SIGHT,40.650250,35.832438,,,CC0-1.0,1,Burmalı Minare Mosque,Mahkeme Camii | Burmalı Minare Camii,külliye_medrese_türbe | anıt_heykel | mezar | cami,cami | tarihi mekân | türbe
-Q21526148,Gümüşhacıköy Saat Kulesi,SIGHT,40.873000,35.216694,,,CC0-1.0,1,Gümüşhacıköy Clock Tower,Gümüşhacıköy Saat Kulesi,kule | kule_saat,saat kulesi
-Q118958033,Kaleköy kalesi,SIGHT,40.604389,35.934194,,,CC0-1.0,1,,,kale_sur,kale
-Q118946533,Kızlar Sarayı,SIGHT,40.653398,35.830047,,,CC0-1.0,1,,,ev_konak | saray_köşk,saray
-Q137774013,Kızlar Sarayı Hamamı 1,SIGHT,40.653407,35.830952,,,CC0-1.0,1,Kızlar Palace Hammam 1,,han_hamam_çarşı,hamam
-Q131738864,Kızlar Sarayı Hamamı 2,SIGHT,40.652851,35.830837,,,CC0-1.0,1,Kızlar Palace Hammam 2,,han_hamam_çarşı,hamam
-Q132133873,Mehmet Paşa Camii,SIGHT,40.654575,35.835735,,,CC0-1.0,1,Mehmet Paşa Mosque,,cami | külliye_medrese_türbe,cami | külliye
-Q116149511,Merzifon Bedesteni,SIGHT,40.872494,35.464457,,Merzifon İlçesi,CC0-1.0,1,Merzifon Bedesteni,,çarşı_pazar | han_hamam_çarşı,bedesten
-Q6079726,Merzifon Saat Kulesi,SIGHT,40.874088,35.461768,,Merzifon İlçesi,CC0-1.0,1,Merzifon Clock Tower,,kule | kule_saat,saat kulesi
-Q116739730,Minyatür Amasya Müzesi,SIGHT,40.650516,35.825561,,,CC0-1.0,1,Miniature Amasya Museum,Maket Amasya,müze,müze | minyatür park
-Q131738481,Mustafa Bey Hamamı,SIGHT,40.654122,35.835467,,,CC0-1.0,1,Mustafa Bey Baths,,han_hamam_çarşı,hamam
-Q85813279,Virasia,SIGHT,40.615458,35.578596,,,CC0-1.0,1,Virasia,,arkeolojik_sit,antik kent
-Q131738482,Yıldız Hamamı,SIGHT,40.652034,35.829117,,,CC0-1.0,1,Yıldız Baths,,han_hamam_çarşı,hamam
-Q118957749,Çilehane Türbesi,SIGHT,40.653542,35.838168,,,CC0-1.0,1,Çilehane Tomb,Aşağı Pirler Türbesi,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q131391547,Şadgeldi Türbesi,SIGHT,40.649208,35.822994,,,CC0-1.0,1,Shadgeldi Tomb,Şadgeldi Paşa Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131720647,Şehzadeler Müzesi,SIGHT,40.652356,35.830322,,,CC0-1.0,1,Sehzadeler Museum,,müze,müze
-Q131391338,Ahi Kerim Sultan Türbesi,SIGHT,40.871342,35.466057,,Merzifon İlçesi,CC0-1.0,0,Tomb of Ahi Kerim Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390662,Aişe Hatun Türbesi,SIGHT,40.659200,35.832800,,,CC0-1.0,0,Aisha Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390656,Akça Dede Türbesi,SIGHT,40.591300,35.490400,,,CC0-1.0,0,Akça Dede Tomb,Ağca Dede,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132682004,Alpaslan Müzesi,SIGHT,40.807255,36.342537,,,CC0-1.0,0,Alpaslan Museum,,müze,müze
-Q139435443,Amasya Bedesteni,SIGHT,40.651123,35.831760,,,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten
-Q132682003,Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası,SIGHT,40.659081,35.835995,,,CC0-1.0,0,,,müze,müze
-Q134728154,Aynalı Mağara Kral Mezarı,SIGHT,40.672478,35.849228,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q134960572,Ayvalıpınar Höyük,SIGHT,40.461267,35.648919,,Göynücek ilçesi,CC0-1.0,0,Ayvalıpınar Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131738910,"Büyük Hamam, Gümüşhacıköy",SIGHT,40.872990,35.217274,,,CC0-1.0,0,Büyük Hamam (Gümüşhacıköy),,han_hamam_çarşı,hamam
-Q135582726,Cumudar Türbesi,SIGHT,40.650200,35.832500,,,CC0-1.0,0,Cumudar Türbesi,,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe
-Q131738734,Eski Hamam,SIGHT,40.873035,35.465500,,Merzifon İlçesi,CC0-1.0,0,Eski Hamam (Merzifon),Hamam-ı Köhne,han_hamam_çarşı,hamam
-Q132752967,Ezinepazar Hanı,SIGHT,40.568662,36.055659,,,CC0-1.0,0,Ezinepazar Hanı,Çavuş Han | İnepazarı Han,han_hamam_çarşı,kervansaray
-Q131390530,Fevzi Baba Türbesi,SIGHT,40.869463,35.458896,,Merzifon İlçesi,CC0-1.0,0,Tomb of Fevzi Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390465,Gazi Atik Ali Paşa Türbesi,SIGHT,40.654186,35.813798,,,CC0-1.0,0,Gazi Atik Ali Pasha Tomb,Vezir-i Âzam Atik Ali Paşa Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960798,Gökhöyük,SIGHT,40.586561,35.646383,,,CC0-1.0,0,Gökhöyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131390659,Habib Ömer Karamani Türbesi,SIGHT,40.654600,35.835500,,,CC0-1.0,0,Tomb of Habib Omer Karamani,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391799,Hamdullah Dede Türbesi,SIGHT,40.653313,35.837288,,,CC0-1.0,0,Tomb of Hamdullah Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q109521001,Hazeranlar Konağı,SIGHT,40.652344,35.829775,,,CC0-1.0,0,Hazeranlar Mansion,Etnografya Müzesi,müze | ev_konak,müze | konak | tarihî bina
-Q131390660,Hızır Baba Türbesi,SIGHT,40.654600,35.835600,,,CC0-1.0,0,Hızır Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131738954,Hızır Paşa Hamamı,SIGHT,40.657341,35.813251,,,CC0-1.0,0,Baths of Hızır Paşa,,han_hamam_çarşı,hamam
-Q139421424,Kos Hamamı,SIGHT,40.795403,35.285271,,Merzifon İlçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q134960768,Koşapınar  Höyük,SIGHT,40.571920,35.999747,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q131738480,Kumacık Hamamı,SIGHT,40.657484,35.836128,,,CC0-1.0,0,Kumacık Baths,,han_hamam_çarşı,hamam
-Q131390510,Kurtboğan Türbesi,SIGHT,40.654217,35.813591,,,CC0-1.0,0,Wolfsbane Tomb,Kurtboğan Türbesi | Şeyh Hamza Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391337,Künbet Hatun Türbesi,SIGHT,40.866303,35.468018,,Merzifon İlçesi,CC0-1.0,0,Künbet Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391195,Kılıç Dede Türbesi,SIGHT,40.875744,35.459672,,Merzifon İlçesi,CC0-1.0,0,Kılıç Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132134477,"Maden Camii, Gümüşhacıköy",SIGHT,40.844219,35.170261,,,CC0-1.0,0,Maden Mosque (Gümüşhacıköy),Surp Garabet Ermeni Kilisesi | Yeni Camii,kilise | cami | manastır_sinagog,cami | kilise | manastır
-Q131391264,Mehmet Paşa Türbesi,SIGHT,40.654640,35.835930,,,CC0-1.0,0,Mehmet Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390531,Melek İsmail Efendi Türbesi,SIGHT,40.864973,35.441388,,Merzifon İlçesi,CC0-1.0,0,Melek İsmail Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391464,Mir Hamza Nigârî Türbesi,SIGHT,40.656525,35.837994,,,CC0-1.0,0,Tomb of Mir Hamza Nigari,Mir Hacı Hamza Türbesi | Seyyid Nigârî Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q64735225,Mount Harşena and the Rock-tombs of the Pontic Kings,SIGHT,40.654720,35.826110,,,CC0-1.0,0,Mount Harşena and the Rock-tombs of the Pontic Kings,,,yapı veya bina grubu
-Q134960573,Onhoroz Höyük,SIGHT,40.822757,35.496093,,Merzifon İlçesi,CC0-1.0,0,Onhoroz Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q131390529,Piri Baba Türbesi,SIGHT,40.877200,35.469100,,Merzifon İlçesi,CC0-1.0,0,Tomb of Piri Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582710,Rumi Hâce Dede Sultan Türbesi,SIGHT,40.747814,35.274006,,Merzifon İlçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391183,Sahabe-i Kiram Türbesi,SIGHT,40.904800,35.469800,,Merzifon İlçesi,CC0-1.0,0,Tomb of Sahabe-i Kiram,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960797,Sallar Höyük,SIGHT,40.919715,35.166413,,,CC0-1.0,0,Sallar Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131391458,Selamet Hâtun Türbesi – İnâç Türbesi,SIGHT,40.656040,35.836006,,,CC0-1.0,0,Selamet Hâtun Tomb – İnâç Tomb,İnâç Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582709,Seyyid Necmettin Yahya Rifai Türbesi,SIGHT,40.759836,35.752234,,,CC0-1.0,0,Seyyid Necmettin Yahya Rifai Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131738795,Sinan Paşa Hamamı,SIGHT,40.784832,36.419533,,,CC0-1.0,0,Baths of Sinan Paşa,,han_hamam_çarşı,hamam
-Q131391336,Sofular Türbesi,SIGHT,40.878647,35.460869,,Merzifon İlçesi,CC0-1.0,0,Sofular Tomb,Üçler Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135582719,Taceddin Altunbaş Kümbeti,SIGHT,40.651009,35.833084,,,CC0-1.0,0,Taceddin Altunbaş Kümbeti,,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe
-Q134960520,"Tille Höyük, Gümüşhacıköy",SIGHT,40.793827,35.144818,,,CC0-1.0,0,Tille Höyük (Gümüşhacıköy,,arkeolojik_sit | anıt_heykel,höyük
-Q131390664,Topçu Dede Türbesi,SIGHT,40.870094,35.458535,,Merzifon İlçesi,CC0-1.0,0,Topçu Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131738736,Tuz Pazarı Hamamı,SIGHT,40.871407,35.464638,,Merzifon İlçesi,CC0-1.0,0,Tuz Pazarı Baths,,han_hamam_çarşı,hamam
-Q131391820,Türbe (Amasya merkez),SIGHT,40.649574,35.826237,,,CC0-1.0,0,Tomb (Amasya District),Anonim Türbe,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390661,Veli Abdullah Türbesi,SIGHT,40.654746,35.836195,,,CC0-1.0,0,Tomb of Veli Abdullah,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134960769,Yoğurtçu Baba Höyük,SIGHT,40.746214,35.615864,,,CC0-1.0,0,Yoğurtçu Baba Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131391548,Yusuf Sinaneddin Türbesi,SIGHT,40.648972,35.824616,,,CC0-1.0,0,Yusuf Sinaneddin Tomb,Sinaneddin Yusuf Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391549,Yörgüç Paşa Türbesi,SIGHT,40.650585,35.820278,,,CC0-1.0,0,Yörgüç Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q127431718,Zela,SIGHT,40.309234,35.899707,,,CC0-1.0,0,Zela,,arkeolojik_sit,antik kent
-Q131738735,Çifte Hamam,SIGHT,40.873180,35.463570,,Merzifon İlçesi,CC0-1.0,0,Çifte Baths (Merzifon),,han_hamam_çarşı,hamam
-Q131390657,İğneci Baba Türbesi,SIGHT,40.651927,35.832828,,,CC0-1.0,0,İğneci Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391274,Şehzâde Osman Çelebi Türbesi,SIGHT,40.650181,35.827328,,,CC0-1.0,0,Tomb of Prince Osman Çelebi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132682005,Şerefeddin Sabuncuoğlu Tıp Müzesi,SIGHT,40.653847,35.835503,,,CC0-1.0,0,,,müze,müze
-Q131390658,Şeyh Abdurrahman Çelebi Türbesi,SIGHT,40.653754,35.838333,,,CC0-1.0,0,Tomb of Sheikh Abdurrahman Çelebi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390655,Şeyh Sadi Türbesi,SIGHT,40.534594,36.106187,,,CC0-1.0,0,Tomb of Sheikh Sadi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390663,Şirvanlı Baba Türbesi,SIGHT,40.661300,35.830900,,,CC0-1.0,0,Tomb of Shirvanli Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q893292,Boraboy Gölü,ACTIVITY,40.803880,36.153740,,,CC0-1.0,12,Lake Boraboy,,göl,göl,Q23397
+Q2635905,Gaziura,SIGHT,40.404051,36.059111,,,CC0-1.0,10,Gaziura,,arkeolojik_sit,antik kent,Q15661340
+Q14089145,Merzifonlu Kara Mustafa Paşa Camii,SIGHT,40.872694,35.463889,,,CC0-1.0,9,"Merzifonlu Kara Mustafa Paşa Mosque, Merzifon",Merzifon Paşa Cami | Paşa Cami | Kara Mustafa Paşa Cami | Paşa Camii,cami,cami,Q32815
+Q25472502,Amasya Arkeoloji ve Mumya Müzesi,SIGHT,40.649444,35.824722,,,CC0-1.0,7,Amasya Museum,Amasya Arkeoloji Müzesi,müze,arkeoloji müzesi | müze,"Q33506,Q3329412"
+Q16255881,Amasya Ulu Camii,SIGHT,40.650100,35.832400,,,CC0-1.0,7,Burmalı Amasya Mosque,,cami,cami,Q32815
+Q6022363,Kral Kaya Mezarları,SIGHT,40.653601,35.830415,,,CC0-1.0,7,Tombs of the Kings of Pontus,,anıt_heykel | arkeolojik_sit | mezar,arkeolojik sit | kaya mezarı | tarihi mekân,"Q109607,Q839954,Q1081138,Q1404229"
+Q15197697,İkinci Beyazıt Camii,SIGHT,40.650000,35.827000,,,CC0-1.0,7,Bayezid II Mosque,Amasya ikinci beyazıt külliyesi,külliye_medrese_türbe | anıt_heykel | cami,cami | külliye | tarihi mekân,"Q32815,Q71974,Q1081138"
+Q16255962,Büyük Ağa Medresesi,SIGHT,40.658580,35.834892,,,CC0-1.0,6,Büyük Aga Medrese,Kapı Ağa Medresesi[,anıt_heykel,medrese | tarihi mekân,"Q132834,Q1081138"
+Q1091559,Yedikır Barajı,SIGHT,40.775600,35.570300,,,CC0-1.0,6,Yedikır Dam,,,baraj,Q12323
+Q21524009,Amasya Kalesi,SIGHT,40.655280,35.826670,,,CC0-1.0,5,Amasya Castle,Harşena Kalesi,kale_sur | anıt_heykel,kale | tarihi mekân | kale,"Q23413,Q57831,Q1081138"
+Q6104469,Oluz Höyük,SIGHT,40.545700,35.628500,,,CC0-1.0,5,Oluz Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q28220617,Ferhat ile Şirin Anıtı,SIGHT,40.632500,35.811900,,,CC0-1.0,4,Farhad and Shirin Monument,,anıt_heykel,anıt,Q4989906
+Q30632561,İstasyon Köprüsü,SIGHT,40.652025,35.822943,,,CC0-1.0,4,İstasyon Bridge,,köprü,karayol köprüsü | köprü | tarihî bina,"Q12280,Q537127,Q35112127"
+Q21524010,Amasya Saat Kulesi,SIGHT,40.652861,35.833472,,,CC0-1.0,3,Amasya Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q116169871,Aynalı Mağara,SIGHT,40.671738,35.842578,,,CC0-1.0,3,Mirror Cave,,anıt_heykel | doğa | külliye_medrese_türbe,mağara | anıt mezar,"Q35509,Q162875"
+Q85764214,Gozalena,SIGHT,40.582908,36.044125,,,CC0-1.0,3,Gozalena,,arkeolojik_sit,antik kent,Q15661340
+Q137774229,Pir Sücaeddin İlyas Türbesi,SIGHT,40.653041,35.838424,,,CC0-1.0,3,Pir Sücaeddin İlyas Tomb,,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q116780417,Abide Hatun Camii,SIGHT,40.878282,35.496223,,Merzifon İlçesi,CC0-1.0,2,Abide Hatun Mosque,,cami,cami,Q32815
+Q116201086,Alçak Köprü,SIGHT,40.651928,35.830547,,,CC0-1.0,2,,"Alçak Köprü, Amasya",köprü,köprü | tarihî bina,"Q12280,Q35112127"
+Q116884558,Amasya Bedesteni,SIGHT,40.651111,35.831667,,,CC0-1.0,2,"Bedesten, Amasya",,çarşı_pazar | han_hamam_çarşı,bina | kültür merkezi | bedesten,"Q41176,Q829896,Q1329623"
+Q6027957,Bayezid Paşa Camii,SIGHT,40.658028,35.836889,,,CC0-1.0,2,Bayezid Paşa Mosque,,cami,cami,Q32815
+Q85754636,Cromen,SIGHT,40.700735,35.536702,,,CC0-1.0,2,Cromen,,arkeolojik_sit,antik kent,Q15661340
+Q118957813,Halifet Gazi Türbesi,SIGHT,40.649353,35.823185,,,CC0-1.0,2,,,külliye_medrese_türbe | anıt_heykel | mezar,kümbet | türbe,"Q838159,Q1521433"
+Q6016566,Hatuniye Camii,SIGHT,40.652028,35.829417,,,CC0-1.0,2,"Hatuniye Mosque, Amasya",Bülbül Hatun Camii,cami,cami,Q32815
+Q118957982,Kadılar Türbesi,SIGHT,40.649200,35.823196,,,CC0-1.0,2,Kadılar Tomb,,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q116260117,Merzifon Taşhan,SIGHT,40.872848,35.464649,,Merzifon İlçesi,CC0-1.0,2,,"Taş Han, Merzifon | Merzifon Taşhan",han_hamam_çarşı,Han | kervansaray,"Q186347,Q256020"
+Q116792754,Merzifonlu Kara Mustafa Paşa Hamamı,SIGHT,40.876547,35.464119,,Merzifon İlçesi,CC0-1.0,2,Merzifonlu Kara Mustafa Paşa Hammam,Paşa Hamamı,han_hamam_çarşı,hamam,Q28077
+Q19612520,Sofular Camii,SIGHT,40.878548,35.460989,,Merzifon İlçesi,CC0-1.0,2,Sofular Mosque,,cami,cami,Q32815
+Q118957960,Sultan Mesud Türbesi,SIGHT,40.649333,35.824417,,,CC0-1.0,2,Tomb of Sultan Mesud,,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q116922072,Taşhan (Amasya),SIGHT,40.650486,35.832146,,,CC0-1.0,2,Taşhan (Amasya),,han_hamam_çarşı,kervansaray,Q186347
+Q118188334,Torumtay Türbesi,SIGHT,40.649778,35.820111,,,CC0-1.0,2,Torumtay Tomb,Gök Medrese Türbesi | Seyfeddin Torumtay Türbesi,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q61072933,Çelebi Mehmet Medresesi Camii,SIGHT,40.873833,35.461861,,Merzifon İlçesi,CC0-1.0,2,,Çelebi Sultan Mehmet Camii | Medrese Önü Camii,cami,cami,Q32815
+Q85752652,İkizari,SIGHT,40.899440,35.874910,,,CC0-1.0,2,Cizari,,arkeolojik_sit,antik kent,Q15661340
+Q131738950,Altuntaş Hamamı,SIGHT,40.651894,35.826275,,,CC0-1.0,1,Altuntaş Hammam,Yukarı Hamam,han_hamam_çarşı,hamam,Q28077
+Q6043868,Burmalı Minare Camii,SIGHT,40.650250,35.832438,,,CC0-1.0,1,Burmalı Minare Mosque,Mahkeme Camii | Burmalı Minare Camii,külliye_medrese_türbe | anıt_heykel | mezar | cami,cami | tarihi mekân | türbe,"Q32815,Q838159,Q1081138"
+Q21526148,Gümüşhacıköy Saat Kulesi,SIGHT,40.873000,35.216694,,,CC0-1.0,1,Gümüşhacıköy Clock Tower,Gümüşhacıköy Saat Kulesi,kule | kule_saat,saat kulesi,Q853854
+Q118958033,Kaleköy kalesi,SIGHT,40.604389,35.934194,,,CC0-1.0,1,,,kale_sur,kale,Q57831
+Q118946533,Kızlar Sarayı,SIGHT,40.653398,35.830047,,,CC0-1.0,1,,,ev_konak | saray_köşk,saray,Q16560
+Q137774013,Kızlar Sarayı Hamamı 1,SIGHT,40.653407,35.830952,,,CC0-1.0,1,Kızlar Palace Hammam 1,,han_hamam_çarşı,hamam,Q28077
+Q131738864,Kızlar Sarayı Hamamı 2,SIGHT,40.652851,35.830837,,,CC0-1.0,1,Kızlar Palace Hammam 2,,han_hamam_çarşı,hamam,Q28077
+Q132133873,Mehmet Paşa Camii,SIGHT,40.654575,35.835735,,,CC0-1.0,1,Mehmet Paşa Mosque,,cami | külliye_medrese_türbe,cami | külliye,"Q32815,Q71974"
+Q116149511,Merzifon Bedesteni,SIGHT,40.872494,35.464457,,Merzifon İlçesi,CC0-1.0,1,Merzifon Bedesteni,,çarşı_pazar | han_hamam_çarşı,bedesten,Q829896
+Q6079726,Merzifon Saat Kulesi,SIGHT,40.874088,35.461768,,Merzifon İlçesi,CC0-1.0,1,Merzifon Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q116739730,Minyatür Amasya Müzesi,SIGHT,40.650516,35.825561,,,CC0-1.0,1,Miniature Amasya Museum,Maket Amasya,müze,müze | minyatür park,"Q33506,Q974968"
+Q131738481,Mustafa Bey Hamamı,SIGHT,40.654122,35.835467,,,CC0-1.0,1,Mustafa Bey Baths,,han_hamam_çarşı,hamam,Q28077
+Q85813279,Virasia,SIGHT,40.615458,35.578596,,,CC0-1.0,1,Virasia,,arkeolojik_sit,antik kent,Q15661340
+Q131738482,Yıldız Hamamı,SIGHT,40.652034,35.829117,,,CC0-1.0,1,Yıldız Baths,,han_hamam_çarşı,hamam,Q28077
+Q118957749,Çilehane Türbesi,SIGHT,40.653542,35.838168,,,CC0-1.0,1,Çilehane Tomb,Aşağı Pirler Türbesi,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q131391547,Şadgeldi Türbesi,SIGHT,40.649208,35.822994,,,CC0-1.0,1,Shadgeldi Tomb,Şadgeldi Paşa Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131720647,Şehzadeler Müzesi,SIGHT,40.652356,35.830322,,,CC0-1.0,1,Sehzadeler Museum,,müze,müze,Q33506
+Q131391338,Ahi Kerim Sultan Türbesi,SIGHT,40.871342,35.466057,,Merzifon İlçesi,CC0-1.0,0,Tomb of Ahi Kerim Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390662,Aişe Hatun Türbesi,SIGHT,40.659200,35.832800,,,CC0-1.0,0,Aisha Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390656,Akça Dede Türbesi,SIGHT,40.591300,35.490400,,,CC0-1.0,0,Akça Dede Tomb,Ağca Dede,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132682004,Alpaslan Müzesi,SIGHT,40.807255,36.342537,,,CC0-1.0,0,Alpaslan Museum,,müze,müze,Q33506
+Q139435443,Amasya Bedesteni,SIGHT,40.651123,35.831760,,,CC0-1.0,0,,,çarşı_pazar | han_hamam_çarşı,bedesten,Q829896
+Q132682003,Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası,SIGHT,40.659081,35.835995,,,CC0-1.0,0,,,müze,müze,Q33506
+Q134728154,Aynalı Mağara Kral Mezarı,SIGHT,40.672478,35.849228,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q134960572,Ayvalıpınar Höyük,SIGHT,40.461267,35.648919,,Göynücek ilçesi,CC0-1.0,0,Ayvalıpınar Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131738910,"Büyük Hamam, Gümüşhacıköy",SIGHT,40.872990,35.217274,,,CC0-1.0,0,Büyük Hamam (Gümüşhacıköy),,han_hamam_çarşı,hamam,Q28077
+Q135582726,Cumudar Türbesi,SIGHT,40.650200,35.832500,,,CC0-1.0,0,Cumudar Türbesi,,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q131738734,Eski Hamam,SIGHT,40.873035,35.465500,,Merzifon İlçesi,CC0-1.0,0,Eski Hamam (Merzifon),Hamam-ı Köhne,han_hamam_çarşı,hamam,Q28077
+Q132752967,Ezinepazar Hanı,SIGHT,40.568662,36.055659,,,CC0-1.0,0,Ezinepazar Hanı,Çavuş Han | İnepazarı Han,han_hamam_çarşı,kervansaray,Q186347
+Q131390530,Fevzi Baba Türbesi,SIGHT,40.869463,35.458896,,Merzifon İlçesi,CC0-1.0,0,Tomb of Fevzi Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390465,Gazi Atik Ali Paşa Türbesi,SIGHT,40.654186,35.813798,,,CC0-1.0,0,Gazi Atik Ali Pasha Tomb,Vezir-i Âzam Atik Ali Paşa Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960798,Gökhöyük,SIGHT,40.586561,35.646383,,,CC0-1.0,0,Gökhöyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390659,Habib Ömer Karamani Türbesi,SIGHT,40.654600,35.835500,,,CC0-1.0,0,Tomb of Habib Omer Karamani,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391799,Hamdullah Dede Türbesi,SIGHT,40.653313,35.837288,,,CC0-1.0,0,Tomb of Hamdullah Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q109521001,Hazeranlar Konağı,SIGHT,40.652344,35.829775,,,CC0-1.0,0,Hazeranlar Mansion,Etnografya Müzesi,müze | ev_konak,müze | konak | tarihî bina,"Q33506,Q522124,Q35112127"
+Q131390660,Hızır Baba Türbesi,SIGHT,40.654600,35.835600,,,CC0-1.0,0,Hızır Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131738954,Hızır Paşa Hamamı,SIGHT,40.657341,35.813251,,,CC0-1.0,0,Baths of Hızır Paşa,,han_hamam_çarşı,hamam,Q28077
+Q139421424,Kos Hamamı,SIGHT,40.795403,35.285271,,Merzifon İlçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q134960768,Koşapınar  Höyük,SIGHT,40.571920,35.999747,,,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131738480,Kumacık Hamamı,SIGHT,40.657484,35.836128,,,CC0-1.0,0,Kumacık Baths,,han_hamam_çarşı,hamam,Q28077
+Q131390510,Kurtboğan Türbesi,SIGHT,40.654217,35.813591,,,CC0-1.0,0,Wolfsbane Tomb,Kurtboğan Türbesi | Şeyh Hamza Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391337,Künbet Hatun Türbesi,SIGHT,40.866303,35.468018,,Merzifon İlçesi,CC0-1.0,0,Künbet Hatun Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391195,Kılıç Dede Türbesi,SIGHT,40.875744,35.459672,,Merzifon İlçesi,CC0-1.0,0,Kılıç Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132134477,"Maden Camii, Gümüşhacıköy",SIGHT,40.844219,35.170261,,,CC0-1.0,0,Maden Mosque (Gümüşhacıköy),Surp Garabet Ermeni Kilisesi | Yeni Camii,kilise | cami | manastır_sinagog,cami | kilise | manastır,"Q16970,Q32815,Q44613"
+Q131391264,Mehmet Paşa Türbesi,SIGHT,40.654640,35.835930,,,CC0-1.0,0,Mehmet Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390531,Melek İsmail Efendi Türbesi,SIGHT,40.864973,35.441388,,Merzifon İlçesi,CC0-1.0,0,Melek İsmail Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391464,Mir Hamza Nigârî Türbesi,SIGHT,40.656525,35.837994,,,CC0-1.0,0,Tomb of Mir Hamza Nigari,Mir Hacı Hamza Türbesi | Seyyid Nigârî Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q64735225,Mount Harşena and the Rock-tombs of the Pontic Kings,SIGHT,40.654720,35.826110,,,CC0-1.0,0,Mount Harşena and the Rock-tombs of the Pontic Kings,,,yapı veya bina grubu,Q18247357
+Q134960573,Onhoroz Höyük,SIGHT,40.822757,35.496093,,Merzifon İlçesi,CC0-1.0,0,Onhoroz Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390529,Piri Baba Türbesi,SIGHT,40.877200,35.469100,,Merzifon İlçesi,CC0-1.0,0,Tomb of Piri Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582710,Rumi Hâce Dede Sultan Türbesi,SIGHT,40.747814,35.274006,,Merzifon İlçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391183,Sahabe-i Kiram Türbesi,SIGHT,40.904800,35.469800,,Merzifon İlçesi,CC0-1.0,0,Tomb of Sahabe-i Kiram,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960797,Sallar Höyük,SIGHT,40.919715,35.166413,,,CC0-1.0,0,Sallar Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391458,Selamet Hâtun Türbesi – İnâç Türbesi,SIGHT,40.656040,35.836006,,,CC0-1.0,0,Selamet Hâtun Tomb – İnâç Tomb,İnâç Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582709,Seyyid Necmettin Yahya Rifai Türbesi,SIGHT,40.759836,35.752234,,,CC0-1.0,0,Seyyid Necmettin Yahya Rifai Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131738795,Sinan Paşa Hamamı,SIGHT,40.784832,36.419533,,,CC0-1.0,0,Baths of Sinan Paşa,,han_hamam_çarşı,hamam,Q28077
+Q131391336,Sofular Türbesi,SIGHT,40.878647,35.460869,,Merzifon İlçesi,CC0-1.0,0,Sofular Tomb,Üçler Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135582719,Taceddin Altunbaş Kümbeti,SIGHT,40.651009,35.833084,,,CC0-1.0,0,Taceddin Altunbaş Kümbeti,,mezar | külliye_medrese_türbe | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q134960520,"Tille Höyük, Gümüşhacıköy",SIGHT,40.793827,35.144818,,,CC0-1.0,0,Tille Höyük (Gümüşhacıköy,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390664,Topçu Dede Türbesi,SIGHT,40.870094,35.458535,,Merzifon İlçesi,CC0-1.0,0,Topçu Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131738736,Tuz Pazarı Hamamı,SIGHT,40.871407,35.464638,,Merzifon İlçesi,CC0-1.0,0,Tuz Pazarı Baths,,han_hamam_çarşı,hamam,Q28077
+Q131391820,Türbe (Amasya merkez),SIGHT,40.649574,35.826237,,,CC0-1.0,0,Tomb (Amasya District),Anonim Türbe,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390661,Veli Abdullah Türbesi,SIGHT,40.654746,35.836195,,,CC0-1.0,0,Tomb of Veli Abdullah,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134960769,Yoğurtçu Baba Höyük,SIGHT,40.746214,35.615864,,,CC0-1.0,0,Yoğurtçu Baba Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391548,Yusuf Sinaneddin Türbesi,SIGHT,40.648972,35.824616,,,CC0-1.0,0,Yusuf Sinaneddin Tomb,Sinaneddin Yusuf Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391549,Yörgüç Paşa Türbesi,SIGHT,40.650585,35.820278,,,CC0-1.0,0,Yörgüç Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q127431718,Zela,SIGHT,40.309234,35.899707,,,CC0-1.0,0,Zela,,arkeolojik_sit,antik kent,Q15661340
+Q131738735,Çifte Hamam,SIGHT,40.873180,35.463570,,Merzifon İlçesi,CC0-1.0,0,Çifte Baths (Merzifon),,han_hamam_çarşı,hamam,Q28077
+Q131390657,İğneci Baba Türbesi,SIGHT,40.651927,35.832828,,,CC0-1.0,0,İğneci Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391274,Şehzâde Osman Çelebi Türbesi,SIGHT,40.650181,35.827328,,,CC0-1.0,0,Tomb of Prince Osman Çelebi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132682005,Şerefeddin Sabuncuoğlu Tıp Müzesi,SIGHT,40.653847,35.835503,,,CC0-1.0,0,,,müze,müze,Q33506
+Q131390658,Şeyh Abdurrahman Çelebi Türbesi,SIGHT,40.653754,35.838333,,,CC0-1.0,0,Tomb of Sheikh Abdurrahman Çelebi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390655,Şeyh Sadi Türbesi,SIGHT,40.534594,36.106187,,,CC0-1.0,0,Tomb of Sheikh Sadi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390663,Şirvanlı Baba Türbesi,SIGHT,40.661300,35.830900,,,CC0-1.0,0,Tomb of Shirvanli Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159

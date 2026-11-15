@@ -1,563 +1,563 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q658437,Gökçeada,SIGHT,40.162600,25.828900,,Gökçeada,CC0-1.0,55,Imbros,İmroz | Gökçeada (ada),arkeolojik_sit,ada | polis
-Q8077503,1915 Çanakkale Köprüsü,SIGHT,40.339889,26.636694,,Gelibolu,CC0-1.0,47,1915 Çanakkale Bridge,Çanakkale Boğazı Köprüsü,köprü,asma köprü | karayol köprüsü | geçiş ücretli köprü
-Q336446,Abidos,SIGHT,40.195278,26.405000,,Çanakkale (ilçe),CC0-1.0,34,Abydos,Abidos (Çanakkale) | Abidos | Abydus,arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | polis
-Q744631,Assos,SIGHT,39.490556,26.336667,,Ayvacık,CC0-1.0,31,Assos,"Behramkale | Behram, Ayvacık | Behram | Assos Antik Kenti",arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | antik kent
-Q1393407,Alexandria Troas,SIGHT,39.751944,26.158611,,Ezine,CC0-1.0,24,Alexandria Troas,Antigoia,arkeolojik_sit,antik kent | arkeolojik sit
-Q1229422,Lampsakos,SIGHT,40.343889,26.683611,,,CC0-1.0,24,Lampsacus,Lampsakos,arkeolojik_sit,antik kent | arkeolojik sit | polis
-Q2474092,Saros Körfezi,SIGHT,40.500000,26.333333,,,CC0-1.0,24,Gulf of Saros,Saros,,körfez | koy
-Q593737,Sestos,SIGHT,40.216667,26.383333,,,CC0-1.0,24,Sestos,,arkeolojik_sit,arkeolojik sit | polis | miras
-Q404513,Aegospotami,SIGHT,40.364072,26.630833,,Gelibolu,CC0-1.0,22,Aegospotami,,arkeolojik_sit,mythical river | polis | arkeolojik sit
-Q965581,Kardiya,SIGHT,40.547222,26.740833,,,CC0-1.0,20,Cardia,,arkeolojik_sit,polis | antik kent
-Q5994097,Troya Müzesi,SIGHT,39.955278,26.249167,,Çanakkale (ilçe),CC0-1.0,20,Troy Museum,Truva Müzesi,müze,arkeoloji müzesi | müze
-Q950952,Dardanos (antik kent),SIGHT,40.075833,26.362778,,Çanakkale (ilçe),CC0-1.0,19,Dardanos,,arkeolojik_sit,arkeolojik sit | polis
-Q517690,Lysimachia,SIGHT,40.580000,26.880000,,Gelibolu,CC0-1.0,19,Lysimachia,,arkeolojik_sit,insan yerleşimi | arkeolojik sit
-Q1564927,HMS Irresistible (1898),SIGHT,40.033283,26.316643,,Çanakkale (ilçe),CC0-1.0,17,HMS Irresistible,,arkeolojik_sit,Ön-dretnot | gemi enkazı
-Q2261221,Hisarlık,SIGHT,39.957222,26.238889,,,CC0-1.0,17,Hisarlik Hill,,arkeolojik_sit,tepe | arkeolojik sit
-Q8077504,Çanakkale Şehitleri Anıtı,SIGHT,40.050164,26.219280,,Eceabat ilçesi,CC0-1.0,17,Çanakkale Martyrs' Memorial,Çanakkale Şehitler Abidesi | Çanakkale Şehitler Anıtı | Çanakkale Şehitleri Abidesi | Çanakkale Anıtı | Çanakkale Şehitliği,anıt_heykel,savaş anıtı | anıt
-Q1411652,Parion,SIGHT,40.416200,27.070300,,Biga (ilçe),CC0-1.0,15,Parium,"Kemer, Biga | Parium",arkeolojik_sit,arkeolojik sit | antik kent | polis
-Q433110,Anzak Koyu,SIGHT,40.246111,26.277778,,,CC0-1.0,14,ANZAC Cove,ANZAK Koyu | Anzak koyu,,Buhta
-Q1258822,HMS Goliath,SIGHT,40.033272,26.199953,,Eceabat ilçesi,CC0-1.0,13,HMS Goliath,,arkeolojik_sit,Ön-dretnot | gemi enkazı
-Q1565048,HMS Majestic (1895),SIGHT,40.041667,26.183889,,Eceabat ilçesi,CC0-1.0,13,HMS Majestic,,arkeolojik_sit,Ön-dretnot | gemi enkazı
-Q1165641,HMS Ocean,SIGHT,40.016544,26.299791,,Çanakkale (ilçe),CC0-1.0,13,HMS Ocean,,arkeolojik_sit,Ön-dretnot | gemi enkazı
-Q1456648,HMS Triumph,SIGHT,40.033337,26.250017,,Eceabat ilçesi,CC0-1.0,13,HMS Triumph,,arkeolojik_sit,Ön-dretnot | gemi enkazı
-Q2292038,Skepsis,SIGHT,39.802778,26.686111,,,CC0-1.0,13,Scepsis,,arkeolojik_sit,arkeolojik sit | eski yerleşim yeri | polis
-Q340272,Akhilleion (Troas),SIGHT,39.913333,26.155556,,Ezine,CC0-1.0,11,Achilleion,Achilleion,arkeolojik_sit,insan yerleşimi | polis | arkeolojik sit
-Q1234913,Elaeus,SIGHT,40.059722,26.230556,,,CC0-1.0,10,Elaeus,,arkeolojik_sit,arkeolojik sit | polis | eski yerleşim yeri
-Q3558595,Perkote,SIGHT,40.273913,26.588806,,,CC0-1.0,10,Percote,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q5631418,HMS Arno (1915),SIGHT,40.241667,26.508333,,,CC0-1.0,9,HMS Arno,,arkeolojik_sit,Muhrip | gemi enkazı
-Q3566306,Kebrene,SIGHT,39.744167,26.566389,,,CC0-1.0,8,Cebrene,Kebrene | Çaldağ,arkeolojik_sit,insan yerleşimi | polis
-Q6058053,Kilitbahir Kalesi,SIGHT,40.147656,26.379565,,Eceabat ilçesi,CC0-1.0,8,Kilitbahir Castle,,kale_sur,kale | kale
-Q6728889,Madyto,SIGHT,40.183889,26.356389,,,CC0-1.0,8,Madytos,,arkeolojik_sit,antik kent | polis
-Q2717842,Agora (Trakya),SIGHT,40.513545,26.786353,,Gelibolu,CC0-1.0,7,Agora,Cherronesos | Chersonesos,arkeolojik_sit,insan yerleşimi | antik kent | polis
-Q4822608,Hamaxitos,SIGHT,39.536111,26.091944,,Ayvacık,CC0-1.0,7,Hamaxitus,Hamaksitos | Hamaxitia,arkeolojik_sit,antik kent | arkeolojik sit | polis
-Q18286282,Pesus,SIGHT,40.395248,26.790818,,,CC0-1.0,7,Paesus,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q3555969,Adrasteia (Misya),SIGHT,40.391980,27.268273,,,CC0-1.0,6,Adrasteia,,arkeolojik_sit,tarihi bölge | arkeolojik sit
-Q4734309,Alopeconnesus,SIGHT,40.313889,26.249444,,Gelibolu,CC0-1.0,6,Alokopennesos,Alopekonnesos,arkeolojik_sit,antik kent | polis
-Q16327781,Astyra (Biga),SIGHT,40.043192,26.682841,,,CC0-1.0,6,Astyra,,arkeolojik_sit,polis
-Q108513185,Athena Tapınağı (Assos),SIGHT,39.490833,26.336944,,Ayvacık,CC0-1.0,6,Temple of Athena (Assos),,arkeolojik_sit,harabe | tapınak | arkeolojik sit
-Q568043,Gargara,SIGHT,39.587082,26.537504,,Ayvacık,CC0-1.0,6,Gargara,Eski Gargara,arkeolojik_sit,antik kent | arkeolojik sit | polis
-Q6427503,Kolonai,SIGHT,39.689722,26.163333,,Ezine,CC0-1.0,6,Kolonai,,arkeolojik_sit,antik kent | arkeolojik sit
-Q17508384,Mehmetçiğe Saygı Anıtı,SIGHT,40.220059,26.284985,,Eceabat ilçesi,CC0-1.0,6,Respect to Mehmetçik Monument,,anıt_heykel,savaş anıtı
-Q6984286,Neandreia,SIGHT,39.723627,26.273117,,Ezine,CC0-1.0,6,Neandreia,Neandreia,arkeolojik_sit,eski yerleşim yeri | antik kent | polis
-Q7123145,Paktye,SIGHT,40.485384,26.780688,,Gelibolu,CC0-1.0,6,Pactya,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q12878026,Thymbra,SIGHT,39.889877,26.288217,,Ezine,CC0-1.0,6,Thymbra,,arkeolojik_sit | anıt_heykel,antik kent | höyük
-Q113509891,Yeşilyurt Köyü Camii,SIGHT,39.556958,26.569875,,Çanakkale (ilçe),CC0-1.0,6,Yeşilyurt Village Mosque,Yeşilyurt Camii | Yeşilyurt Camisi,cami,cami
-Q637114,Çanakkale Arkeoloji Müzesi,SIGHT,40.133333,26.410000,,Çanakkale (ilçe),CC0-1.0,6,Çanakkale Archaeological Museum,,müze,arkeoloji müzesi | müze
-Q42171362,Çanakkale Savaşları Gelibolu Tarihî Alanı,SIGHT,40.170321,26.367667,,Eceabat ilçesi,CC0-1.0,6,Gallipoli Peninsula Historic Site,Gelibolu Yarımadası Millî Parkı | Gelibolu Millî Parkı,anıt_heykel | milli_park_tabiat,millî park (Türkiye) | tarihi mekân
-Q4188870,Çimpe Kalesi,SIGHT,40.644447,27.011330,,Şarköy,CC0-1.0,6,Çimpe Castle,Çinpi | Cinbi | Tsympe,kale_sur,tahkimat | kale
-Q15781281,Abarnis,SIGHT,40.378253,26.734359,,,CC0-1.0,5,Abarnias,,arkeolojik_sit,arkeolojik sit | antik kent
-Q2861312,Arisba,SIGHT,40.199817,26.542314,,Çanakkale (ilçe),CC0-1.0,5,Arisba,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q6050068,Bozcaada Kalesi,SIGHT,39.833333,26.066667,,Bozcaada,CC0-1.0,5,Bozcaada Castle,,kale_sur,kale | askeri üs | kale
-Q6766045,Cape Helles Anıtı,SIGHT,40.045800,26.179200,,Eceabat ilçesi,CC0-1.0,5,Helles Memorial to the Missing,,anıt_heykel | mezar,Commonwealth War Graves Commission maintained memorial
-Q6343944,Kabatepe,SIGHT,40.207600,26.282400,,Eceabat ilçesi,CC0-1.0,5,Kabatepe,,müze,askeri müze | headland
-Q1088486,Khrysa (Troad),SIGHT,39.536389,26.117500,,Ayvacık,CC0-1.0,5,Chryse (Troad),Göztepe Höyüğü,arkeolojik_sit,antik kent
-Q12879221,Kokylion,SIGHT,39.672910,26.410152,,Ayvacık,CC0-1.0,5,Cocylium,,arkeolojik_sit,polis | arkeolojik sit
-Q15241433,Lamponeia,SIGHT,39.535833,26.408889,,,CC0-1.0,5,Lamponeia,Lamponeia,arkeolojik_sit,insan yerleşimi | polis
-Q6489418,Larisa,SIGHT,39.615278,26.145278,,Ayvacık,CC0-1.0,5,Larisa,,arkeolojik_sit,arkeolojik sit | polis
-Q17050733,Limnai (Trakya),SIGHT,40.270560,26.272679,,Eceabat ilçesi,CC0-1.0,5,Limnae,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q28136355,Çanakkale Deniz Müzesi,SIGHT,40.148056,26.399722,,Çanakkale (ilçe),CC0-1.0,5,Çanakkale Naval Museum,Çanakkale Askeri Deniz Müzesi ve Parkı | Çanakkale Eski Belediye Binası,müze,deniz kuvvetleri müzesi | müze | denizcilik müzesi
-Q3213827,Assos Tiyatrosu,SIGHT,39.488331,26.337823,,Ayvacık,CC0-1.0,4,theatre of Assos,,arkeolojik_sit,Yunan tiyatrosu
-Q112208753,Athena Ilias Tapınağı,SIGHT,39.957789,26.239213,,Çanakkale (ilçe),CC0-1.0,4,Temple of Athena at Ilion,,arkeolojik_sit,arkeolojik sit | tapınak
-Q18285621,Birytis,SIGHT,39.850278,26.375833,,Çanakkale (ilçe),CC0-1.0,4,Birytis,Biritis | Berytis | Berythis | Berysioi | Ada Tepe,arkeolojik_sit,antik kent
-Q21524488,Bozcaada Saat Kulesi,SIGHT,39.835316,26.068905,,,CC0-1.0,4,Bozcaada Clock Tower,,kule | kule_saat,saat kulesi
-Q4222817,Courtney's ve Steel's Post Mezarlığı,SIGHT,40.235600,26.288900,,Eceabat ilçesi,CC0-1.0,4,Courtney's and Steel's Post Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q6438560,Critote,SIGHT,40.406725,26.651664,,Gelibolu,CC0-1.0,4,Krithotai,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q5263157,Deris (Tracia),SIGHT,40.657809,26.808976,,Gelibolu,CC0-1.0,4,Derris,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q17629060,Didymoteikhos (Antik Anadolu),SIGHT,40.286031,27.274404,,,CC0-1.0,4,Didymateiche,,arkeolojik_sit,polis | arkeolojik sit
-Q65119757,Drabos,SIGHT,40.358138,26.335897,,Eceabat ilçesi,CC0-1.0,4,Drabus,,arkeolojik_sit,antik kent | arkeolojik sit
-Q28136539,Gelibolu Savaş Müzesi,SIGHT,40.406667,26.668056,,Gelibolu,CC0-1.0,4,Gelibolu War Museum,,müze,müze
-Q21515193,Gentinos,SIGHT,39.876943,26.279146,,,CC0-1.0,4,Gentinos,,arkeolojik_sit,polis
-Q17155131,Gergis (Troya),SIGHT,39.898491,26.609255,,,CC0-1.0,4,Gergis,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,polis | antik kent | anıt mezar
-Q17633577,Harpagion,SIGHT,40.334274,27.391984,,,CC0-1.0,4,Harpagion,Harpagia | Harpageia,arkeolojik_sit,polis
-Q5987818,Ide (Trakya),SIGHT,40.504079,26.689216,,Gelibolu,CC0-1.0,4,Ide,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q4222810,Johnston's Jolly Mezarlığı,SIGHT,40.232690,26.287410,,Eceabat ilçesi,CC0-1.0,4,Johnston's Jolly Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q17625751,Kolonai (Mysia),SIGHT,40.280800,26.910800,,,CC0-1.0,4,Colonae,,arkeolojik_sit,polis | antik kent
-Q6436822,Kressa (Traakya),SIGHT,40.351152,26.625855,,Gelibolu,CC0-1.0,4,Kressa,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q4222835,Lancashire Landing Mezarlığı,SIGHT,40.053760,26.173590,,Eceabat ilçesi,CC0-1.0,4,Lancashire Landing Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q1670784,Marpessos,SIGHT,39.880278,26.520278,,Bayramiç (ilçe),CC0-1.0,4,Marpessos,,arkeolojik_sit,arkeolojik sit | insan yerleşimi
-Q4222818,Pembe Çiftlik Mezarlığı,SIGHT,40.072530,26.190960,,Eceabat ilçesi,CC0-1.0,4,Pink Farm Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q4222816,Quinn's Post Mezarlığı,SIGHT,40.238150,26.291680,,Eceabat ilçesi,CC0-1.0,4,Quinn's Post Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q132735631,"Roma Köprüsü, Biga",SIGHT,40.372864,27.309811,,Gelibolu,CC0-1.0,4,Roman Bridge of Biga,Akköprü,arkeolojik_sit | köprü,köprü | tarihî bina | güverte kemer köprüsü
-Q941943,Truva VII,SIGHT,39.956417,26.239000,,,CC0-1.0,4,Troy VII,,arkeolojik_sit,arkeolojik sit
-Q4222819,Twelve Tree Copse Mezarlığı,SIGHT,40.087800,26.214700,,Eceabat ilçesi,CC0-1.0,4,Twelve Tree Copse Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q4222814,Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı,SIGHT,40.253100,26.280800,,Eceabat ilçesi,CC0-1.0,4,New Zealand No.2 Outpost Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q6103642,Zeytinlik Höyük,SIGHT,40.133510,25.714309,,Gökçeada,CC0-1.0,4,Zeytinlik Archeological Site,,arkeolojik_sit,arkeolojik sit
-Q4222807,7. Sahra Hastanesi Mezarlığı,SIGHT,40.261550,26.281175,,Eceabat ilçesi,CC0-1.0,3,7th Field Ambulance Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q39057885,Adatepe Zeytinyağı Müzesi,SIGHT,39.547500,26.601111,,Ayvacık,CC0-1.0,3,Adatepe Olive Oil Museum,,müze,müze
-Q4222808,Anzak Arı Burnu Mezarlığı,SIGHT,40.238830,26.277160,,Eceabat ilçesi,CC0-1.0,3,Ari Burnu Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q65051874,Aphrodisias (Trakya),SIGHT,40.538708,26.834645,,,CC0-1.0,3,Aphrodisias,,arkeolojik_sit,antik kent
-Q4222809,Azmak Mezarlığı,SIGHT,40.320880,26.271170,,Eceabat ilçesi,CC0-1.0,3,Azmak Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q20473200,Babakale Kalesi,SIGHT,39.479444,26.064167,,Ayvacık,CC0-1.0,3,Babakale Castle,,kale_sur,hisar
-Q112210724,Bouleuterion (İlion),SIGHT,39.957005,26.239264,,Çanakkale (ilçe),CC0-1.0,3,Bouleuterion (Troy),,arkeolojik_sit,bouleuterion | arkeolojik sit
-Q4222822,Conk Bayırı Mezarlığı,SIGHT,40.251890,26.308840,,Eceabat ilçesi,CC0-1.0,3,Chunuk Bair Cemetery,Chunuk Bair Cemetary,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık | mezarlık
-Q5602653,Green Hill Mezarlığı,SIGHT,40.293030,26.279830,,Eceabat ilçesi,CC0-1.0,3,Green Hill Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q49314090,Gökçeada Lagünü,ACTIVITY,40.132778,25.954444,,,CC0-1.0,3,Gökçeada Lagoon,Gökçeada Dalyanı | Gökçeada Tuz Gölü,göl,göl | deniz kulağı
-Q6043340,Kale-i Sultaniye,SIGHT,40.146361,26.399139,,,CC0-1.0,3,Çimenlik Castle,Kale-i Sultaniye,kale_sur,tahkimat
-Q65119714,Kóbrys,SIGHT,40.589514,26.848989,,Gelibolu,CC0-1.0,3,Cobrys,,arkeolojik_sit,antik kent | arkeolojik sit
-Q6671347,Lone Pine Mezarlığı,SIGHT,40.230700,26.287120,,Eceabat ilçesi,CC0-1.0,3,Lone Pine Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q3335058,Nara Kalesi,SIGHT,40.196300,26.404000,,Çanakkale (ilçe),CC0-1.0,3,Nara Castle,Nara kalesi,kale_sur,kale
-Q17155146,Ophryneion,SIGHT,40.022778,26.335000,,Çanakkale (ilçe),CC0-1.0,3,Ophryneion,Ofrinio | Ophrynium,arkeolojik_sit,insan yerleşimi | arkeolojik sit | polis
-Q7125109,Paion (Trakya),SIGHT,40.505429,26.639597,,Gelibolu,CC0-1.0,3,Paion,,arkeolojik_sit,antik kent | polis | arkeolojik sit
-Q4222815,Plugge's Plateau Mezarlığı,SIGHT,40.237500,26.280320,,Eceabat ilçesi,CC0-1.0,3,Plugge's Plateau Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q7306197,Redoubt Mezarlığı,SIGHT,40.078070,26.214030,,Eceabat ilçesi,CC0-1.0,3,Redoubt Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q4365991,Sahil Mezarlığı (ANZAK),SIGHT,40.232990,26.276390,,Eceabat ilçesi,CC0-1.0,3,"Beach Cemetery, ANZAC",,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q114310966,Seddülbahir Fransız Mezarlığı,SIGHT,40.057500,26.211111,,Eceabat ilçesi,CC0-1.0,3,French cemetery of Seddul Bahr,,anıt_heykel,French military cemetery in a foreign country
-Q7534787,Skew Bridge Mezarlığı,SIGHT,40.059730,26.199820,,Eceabat ilçesi,CC0-1.0,3,Skew Bridge Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q7753391,The Nek Mezarlığı,SIGHT,40.242330,26.290350,,Eceabat ilçesi,CC0-1.0,3,The Nek Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q115779157,Troya Tapınağı,SIGHT,39.956944,26.237500,,,CC0-1.0,3,Sanctuary of Troy,,arkeolojik_sit,hieron
-Q1616641,Troya Tarihî Millî Parkı,ACTIVITY,39.957222,26.238611,,Çanakkale (ilçe),CC0-1.0,3,Troy National Park,Truva Tarihî Millî Parkı | Troya Millî Parkı | Truva Millî Parkı,milli_park_tabiat,millî park (Türkiye)
-Q7907715,V Beach Mezarlığı,SIGHT,40.043560,26.183710,,Eceabat ilçesi,CC0-1.0,3,V Beach Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q7962182,Walker's Ridge Mezarlığı,SIGHT,40.241680,26.288220,,Eceabat ilçesi,CC0-1.0,3,Walker's Ridge Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q7503425,Şarapnel Vadisi Mezarlığı,SIGHT,40.233940,26.278370,,Eceabat ilçesi,CC0-1.0,3,Shrapnel Valley Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q131390755,Ahmed Bican Türbesi,SIGHT,40.408800,26.677300,,Gelibolu,CC0-1.0,2,Tomb of Ahmed-i Bican,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q65072726,Aianteion (Biga),SIGHT,39.993642,26.255600,,,CC0-1.0,2,Aianteion,,arkeolojik_sit,antik kent
-Q128034362,Antika Traktör Müzesi,SIGHT,40.407086,26.666838,,Gelibolu,CC0-1.0,2,Antique Tractor Museum,,müze,müze
-Q65043752,Argyria (Biga),SIGHT,39.750179,27.222332,,Yenice (Çanakkale),CC0-1.0,2,Argyria,,arkeolojik_sit,antik kent | arkeolojik sit
-Q6082227,Aynalı Çarşı,SIGHT,40.146194,26.403944,,,CC0-1.0,2,Aynalı Çarşı,Halyo Çarşısı,çarşı_pazar,mimari yapı | çarşı
-Q4222812,Baby 700 Mezarlığı,SIGHT,40.242778,26.294444,,Eceabat ilçesi,CC0-1.0,2,Baby 700 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q123764842,Bozcaada (antik kent),SIGHT,39.827778,26.049722,,,CC0-1.0,2,Tenedos,,arkeolojik_sit,polis
-Q4222834,Canterbury Mezarlığı (ANZAC),SIGHT,40.244400,26.283100,,Eceabat ilçesi,CC0-1.0,2,"Canterbury Cemetery, ANZAC",,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q65051904,Cypasis,SIGHT,40.625134,26.841143,,Gelibolu,CC0-1.0,2,Cypasis,,arkeolojik_sit,antik kent | arkeolojik sit
-Q19611037,Dur Yolcu,SIGHT,40.156224,26.373101,,Eceabat ilçesi,CC0-1.0,2,Stop Passenger! Monument,Dur Yolcu yazısı | Dur Yolcu Anıtı,anıt_heykel,yazıt | küçük anıt | Jeoglif
-Q134961438,Gelibolu Rus Anıtı,SIGHT,40.414682,26.662681,,Gelibolu,CC0-1.0,2,,,anıt_heykel,anıt
-Q134978988,Gelibolu Şehitliği,SIGHT,40.420112,26.681587,,Gelibolu,CC0-1.0,2,,,anıt_heykel,askeri mezarlık
-Q131391518,Hallac-ı Mansur Türbesi,SIGHT,40.409786,26.678103,,Gelibolu,CC0-1.0,2,Hallac-ı Mansur Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q65073206,Hermaion,SIGHT,40.326329,27.057312,,,CC0-1.0,2,Hermoton,,arkeolojik_sit,antik kent
-Q5762011,Hill 10 Mezarlığı,SIGHT,40.312560,26.252380,,Eceabat ilçesi,CC0-1.0,2,Hill 10 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q5762031,Hill 60 Mezarlığı,SIGHT,40.272760,26.292760,,Eceabat ilçesi,CC0-1.0,2,Hill 60 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q123168879,Imbros,SIGHT,40.233306,25.900806,,Gökçeada,CC0-1.0,2,Imbros,,arkeolojik_sit,polis | arkeolojik sit
-Q65043740,Kale Peuke,SIGHT,39.793768,26.983187,,Yenice (Çanakkale),CC0-1.0,2,Kale Peuke,,arkeolojik_sit,antik kent | arkeolojik sit
-Q60791302,Kenchreai,SIGHT,39.963522,26.628763,,,CC0-1.0,2,Cenchreae,,arkeolojik_sit,antik kent
-Q65051890,Koila (Trakya),SIGHT,40.207121,26.367552,,,CC0-1.0,2,Koila,,arkeolojik_sit,antik kent | liman
-Q65072773,Kremaste,SIGHT,40.090314,26.529575,,,CC0-1.0,2,Cremaste,,arkeolojik_sit,antik kent
-Q141133199,Kuzey Ege Deniz Millî Parkı,ACTIVITY,40.300000,25.820000,,,CC0-1.0,2,North Aegean Marine National Park,,milli_park_tabiat,millî park (Türkiye) | deniz millî parkı
-Q4222811,Lala Baba Mezarlığı,SIGHT,40.290000,26.239700,,Eceabat ilçesi,CC0-1.0,2,Lala Baba Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q65073212,Linus (Misya),SIGHT,40.431121,27.196542,,Biga (ilçe),CC0-1.0,2,Linus,Linos | Linum | Linon,arkeolojik_sit,antik kent
-Q116678078,Mıhlı şelalesi,ACTIVITY,39.584239,26.651730,,Ayvacık,CC0-1.0,2,Mıhlı Waterfall,,doğa,şelale
-Q65072494,Polymedion,SIGHT,39.461577,26.149028,,Ayvacık,CC0-1.0,2,Polymedium,Polymedium,arkeolojik_sit,tarihi yer | arkeolojik sit
-Q7321268,Rhoiteion,SIGHT,40.009200,26.300000,,Çanakkale (ilçe),CC0-1.0,2,Rhoiteion,,arkeolojik_sit,insan yerleşimi | arkeolojik sit | polis
-Q12811583,Rumeli Mecidiye Tabyası,SIGHT,40.142902,26.376995,,Eceabat ilçesi,CC0-1.0,2,Rumeli Mecidiye Tabyası,,kale_sur,tabya
-Q4222820,Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı,SIGHT,40.225980,26.280120,,Eceabat ilçesi,CC0-1.0,2,Shell Green Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q65072540,Skamandriya,SIGHT,39.837490,26.364872,,Ezine,CC0-1.0,2,Scamandria,,arkeolojik_sit,antik kent | arkeolojik sit
-Q65072495,Smintheion,SIGHT,39.536211,26.117750,,Ayvacık,CC0-1.0,2,Smintheion,Apollon Smintheion | Apollon Smintheion Ören Yeri,arkeolojik_sit | müze,antik kent | arkeolojik sit | müze
-Q131391519,Yazıcızade Mehmet Efendi Türbesi,SIGHT,40.408886,26.677212,,Gelibolu,CC0-1.0,2,Yazıcızade Mehmet Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q6101700,Yenibademli Höyük,SIGHT,40.217220,25.895529,,,CC0-1.0,2,Yenibademli Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q127386167,Çanakkale Kent Müzesi,SIGHT,40.148547,26.400813,,Çanakkale (ilçe),CC0-1.0,2,Çanakkale City Museum,Çanakkale Kent Müzesi ve Arşivi,müze,müze | özel müze
-Q21527403,Çanakkale Saat Kulesi,SIGHT,40.149618,26.402047,,Çanakkale (ilçe),CC0-1.0,2,Çanakkale Clock Tower,,kule | kule_saat,saat kulesi
-Q19613310,Çanakkale Televizyon Kulesi,SIGHT,40.106250,26.434639,,Çanakkale (ilçe),CC0-1.0,2,Çanakkale TV Tower,,kule,televizyon kulesi
-Q11705096,İlion,SIGHT,39.957500,26.238889,,,CC0-1.0,2,Ilium,,arkeolojik_sit,antik kent
-Q126741267,İlion,SIGHT,39.957222,26.238333,,,CC0-1.0,2,Ilion,,arkeolojik_sit,antik kent | arkeolojik sit | şehir-devlet
-Q65072757,İlion Kome,SIGHT,39.949075,26.343922,,,CC0-1.0,2,Ilieon Kome,,arkeolojik_sit,antik kent
-Q131391812,Şerbetçi Baba Türbesi,SIGHT,40.409019,26.676887,,Gelibolu,CC0-1.0,2,Tomb of Şerbetçi Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q4222821,Ферма (Военное кладбище),SIGHT,40.254010,26.304650,,Eceabat ilçesi,CC0-1.0,2,The Farm Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
-Q131738751,Alexandria Troas Herodes Atticus Hamamı,SIGHT,39.751156,26.166622,,Ezine,CC0-1.0,1,Alexandria Troas Herodes Atticus Baths,,han_hamam_çarşı,hamam
-Q130315278,Apollon Smintheus Tapınağı,SIGHT,39.536111,26.117500,,Ayvacık,CC0-1.0,1,Temple of Apollo Smintheus,Apollon Smintheus Kutsal Alanı,arkeolojik_sit,Apollon tapınağı | ören yeri | tapınak
-Q25472309,Asar Kalesi,SIGHT,39.897250,27.217611,,Yenice (Çanakkale),CC0-1.0,1,Asar Castle,Asar Dağı Kalesi | Asar Kale,kale_sur,kale
-Q139431425,Assos Nekropolis,SIGHT,39.490555,26.333344,,Ayvacık,CC0-1.0,1,,,arkeolojik_sit,Nekropol
-Q132182282,Ballı Dağ,SIGHT,39.875833,26.290233,,Ezine,CC0-1.0,1,Mount Ballı,,arkeolojik_sit | anıt_heykel,höyük
-Q131390756,Bayraklı Baba Türbesi,SIGHT,40.410000,26.679900,,Gelibolu,CC0-1.0,1,Bayraklı Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q6005930,Bigalı Kalesi,SIGHT,40.213398,26.389263,,Eceabat ilçesi,CC0-1.0,1,Bigalı Castle,,kale_sur,bina | kale harabesi | kale
-Q6020439,Bozcaada Yerel Tarih Müzesi,SIGHT,39.834970,26.069468,,Bozcaada,CC0-1.0,1,Bozcaada Local History Museum,,müze,müze
-Q49319088,Büyük Mağara,ACTIVITY,40.200000,26.476111,,,CC0-1.0,1,Büyük Mağara,,doğa,mağara
-Q56015616,Conkbayırı,SIGHT,40.250312,26.307811,,,CC0-1.0,1,Chunuk Bair‎,,cazibe_unesco,yön bulma işareti | tepe
-Q132134427,Gazi Yakup Bey Camii,SIGHT,40.374950,26.715837,,,CC0-1.0,1,Gazi Yakup Bey Mosque,,cami | külliye_medrese_türbe,cami | külliye
-Q21526093,Gelibolu Saat Kulesi,SIGHT,40.407083,26.671389,,Gelibolu,CC0-1.0,1,Gelibolu Clock Tower,,kule | kule_saat,saat kulesi
-Q139424476,Hamam (Smintheion),SIGHT,39.535922,26.117884,,Ayvacık,CC0-1.0,1,,,han_hamam_çarşı,hamam
-Q6098987,Hanay Tepe Höyüğü,SIGHT,39.833229,26.230308,,,CC0-1.0,1,Hanay Höyüğü,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q6078064,Kalanuro Tepesi,SIGHT,40.367567,26.629200,,,CC0-1.0,1,Kalanuro Hill,Kalanuro Höyüğü,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit
-Q6097817,Karaağaçtepe Höyüğü,SIGHT,40.058233,26.192917,,,CC0-1.0,1,Karaağaçtepe Mound,Protesilaos Tümülüsü,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q6090987,Kaynarca Mevkii,SIGHT,40.379768,26.615238,,Gelibolu,CC0-1.0,1,Kaynarca Mevkii,,arkeolojik_sit,arkeolojik sit
-Q131902412,Kilye Kalesi,SIGHT,40.200783,26.357033,,Eceabat ilçesi,CC0-1.0,1,Kilye Castle,,kale_sur,kale
-Q65121329,Krise (Aiolis),SIGHT,39.585106,26.928091,,,CC0-1.0,1,Chryse,,arkeolojik_sit,antik kent
-Q6098044,Maydos Kilisetepe Höyüğü,SIGHT,40.184900,26.355983,,,CC0-1.0,1,Maydos Kilisetepe mound,Madytus | Maydos Kilisetepe,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
-Q126959441,Mecidiye Kalesi,SIGHT,40.163528,26.404444,,Çanakkale (ilçe),CC0-1.0,1,Mecidiye Castle,Köseburnu Kalesi,kale_sur,kale
-Q131431119,Palaiperkote,SIGHT,40.236111,26.686389,,,CC0-1.0,1,Palaiperkote,,arkeolojik_sit,arkeolojik sit | antik kent
-Q118133746,Seddülbahir Kalesi,SIGHT,40.042039,26.187887,,Eceabat ilçesi,CC0-1.0,1,Seddülbahir Castle,,kale_sur,kale
-Q65072497,Tragasai,SIGHT,39.566516,26.172501,,Ayvacık,CC0-1.0,1,Tragasai,,arkeolojik_sit,antik kent | arkeolojik sit
-Q65072733,Traron,SIGHT,39.999871,26.280528,,,CC0-1.0,1,Traron,,arkeolojik_sit,antik kent
-Q131901869,Çanakkale Hisarı,SIGHT,40.118736,26.529312,,Çanakkale (ilçe),CC0-1.0,1,Atikhisar Castle (Çanakkale),Gavurhisar Kalesi,kale_sur,kale
-Q6063972,Çanakkale Piri Reis Müzesi ve Galerisi,SIGHT,40.152481,26.407242,,Çanakkale (ilçe),CC0-1.0,1,Çanakkale Piri Reis Museum and Gallery,Piri Reis Müzesi ve Galerisi,müze,üniversite müzesi | denizcilik müzesi
-Q6102393,Çoşkuntepe,SIGHT,39.472435,26.162807,,Ayvacık,CC0-1.0,1,Coskuntepe,,arkeolojik_sit | anıt_heykel,arkeolojik sit | Neolithic settlement | höyük
-Q138030468,Üvecik tepe,SIGHT,39.900234,26.199306,,Ezine,CC0-1.0,1,Tomb of Festus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs | mezar odası
-Q132681922,"1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi",SIGHT,40.045513,26.188627,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze
-Q137170050,Achaion,SIGHT,39.869656,26.148249,,Ezine,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q137170049,Agamnia Yerleşimi,SIGHT,39.962330,26.168550,,Ezine,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q139433477,Aianteion,SIGHT,39.999283,26.242949,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,antik kent
-Q139433468,Aigospotamoi,SIGHT,40.367641,26.629229,,Gelibolu,CC0-1.0,0,,,arkeolojik_sit,antik kent
-Q134728272,"Akhilleus Tümülüsü, Ezine",SIGHT,39.917099,26.159092,,Ezine,CC0-1.0,0,Tumulus of Achilles,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236754,Akköy Kaleyeri Yerleşimi,SIGHT,39.830761,26.357853,,Ezine,CC0-1.0,0,Akköy Kaleyeri,,kale_sur,kale
-Q135959765,Akpınar Mevkii Tümülüsleri,SIGHT,39.811675,26.860093,,,CC0-1.0,0,Akpınar Locality Tumuli,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135959860,Aktaş Mevkii Tümülüsü,SIGHT,39.728145,26.157877,,Ezine,CC0-1.0,0,Aktaş Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q132183040,Alacalıgöl Höyüğü,SIGHT,39.956986,26.176212,,Çanakkale (ilçe),CC0-1.0,0,Alacalıgöl Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q139430273,Alanköy 1 Tümülüsü,SIGHT,40.037430,26.792494,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135960175,Alanköy 2 Tümülüsü,SIGHT,40.035328,26.790136,,Çanakkale (ilçe),CC0-1.0,0,Alanköy 2 Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236429,Alanköy Kalesi,SIGHT,40.028027,26.788551,,Çanakkale (ilçe),CC0-1.0,0,Alanköy Castle,,kale_sur,kale
-Q135583297,Alem Sultan Türbesi ve Namazgah,SIGHT,40.376737,26.716493,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,namazgah | türbe
-Q131390480,Alemşah Türbesi,SIGHT,39.698100,26.172200,,Ezine,CC0-1.0,0,Alemşah Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q103139956,Alexandria Troas (Samian Ware Discovery Site),SIGHT,39.760000,26.160000,,,CC0-1.0,0,Alexandria Troas (Samian Ware Discovery Site),,arkeolojik_sit,Samian Ware Discovery Site | arkeolojik sit
-Q115285590,Alexandria Troas Antik Tiyatrosu,SIGHT,39.746922,26.158184,,Ezine,CC0-1.0,0,Ancient Theater of Alexandria Troas,,arkeolojik_sit,Antik Roma tiyatrosu | arkeolojik sit
-Q139433338,Alexandria Troas Stadyumu,SIGHT,39.754021,26.148874,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,antik stadyum
-Q134960292,Ambartarla Yerleşimi,SIGHT,40.125336,26.475956,,Çanakkale (ilçe),CC0-1.0,0,Ambartarla,,arkeolojik_sit | anıt_heykel,höyük
-Q139437190,Anadolu Hamidiye Tabyası,SIGHT,40.137730,26.403971,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q139437094,Anadolu Mecidiye Tabyası,SIGHT,40.163296,26.404762,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q134728083,"Antik Mezar Kalıntısı, Akçakeçili",SIGHT,39.697978,26.165434,,Ezine,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q131523754,Apalir Mevki Manastırı,SIGHT,40.191257,25.847033,,Gökçeada,CC0-1.0,0,Monastery of Apalir Mevkii,,manastır_sinagog,manastır
-Q133236093,Arabakonağı Kalesi,SIGHT,40.268650,26.971199,,,CC0-1.0,0,Arabakonağı Castle,,kale_sur,kale | harabe
-Q135959813,Arabakonağı Mevkii Tümülüs Bölgesi,SIGHT,40.111805,26.913502,,,CC0-1.0,0,Arabakonağı Locality Tumulus Area,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131390762,Arslan Dede Türbesi,SIGHT,40.148100,26.405000,,Çanakkale (ilçe),CC0-1.0,0,Tomb of Arslan Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q133236648,Asarkale Kalesi,SIGHT,40.396606,26.879093,,,CC0-1.0,0,Asarkale Castle,,kale_sur,kale
-Q139424885,Asarkaletepe Kalesi,SIGHT,40.749562,26.888734,,Gelibolu,CC0-1.0,0,,,kale_sur,kale
-Q132182281,Asarlık-Eski Hisarlık,SIGHT,39.881683,26.297300,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q132182304,Asartepe,SIGHT,40.270800,26.487917,,Eceabat ilçesi,CC0-1.0,0,Asartepe,,arkeolojik_sit | anıt_heykel,höyük
-Q131902067,Asartepe Kale Yerleşimi,SIGHT,39.964802,26.759501,,,CC0-1.0,0,Asartepe Castle,,kale_sur,kale
-Q103143701,Assos (Samian Ware Discovery Site),SIGHT,39.500000,26.310000,,,CC0-1.0,0,Assos (Samian Ware Discovery Site),,arkeolojik_sit,Samian Ware Discovery Site | arkeolojik sit
-Q131739003,Asılhan Bey Hamamı,SIGHT,39.759315,26.235409,,Ezine,CC0-1.0,0,Asılhan Bey Baths,Kemallı Hamamı,han_hamam_çarşı,hamam
-Q135960176,Atikhisar Tümülüsü,SIGHT,40.128921,26.509525,,Çanakkale (ilçe),CC0-1.0,0,Atikhisar Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139428700,Avtepe Mevkii Tümülüsü,SIGHT,39.948448,26.310484,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131523752,Aya Anastasia Manastırı,SIGHT,40.206780,25.809320,,Gökçeada,CC0-1.0,0,Monastery of Agia Anastasia,,manastır_sinagog,manastır
-Q131523781,Aya Arseni Manastırı,SIGHT,40.184101,25.816900,,Gökçeada,CC0-1.0,0,Monastery of Agia Eirini,,manastır_sinagog,manastır
-Q131523751,Aya Dimitri Manastırı (Gökçeada),SIGHT,40.207451,25.832277,,Gökçeada,CC0-1.0,0,Monastery of Agios Dimitrios (Gökçeada),,manastır_sinagog,manastır
-Q131523755,Aya Dimitri Manastırı (Zeytinli),SIGHT,40.190804,25.869657,,Gökçeada,CC0-1.0,0,Monastery of Agios Dimitrios (Zeytinli),,manastır_sinagog,manastır
-Q131523760,Aya Eftim Manastırı,SIGHT,40.155102,25.765499,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523758,Aya Eleni Manastırı,SIGHT,40.160301,25.766399,,Gökçeada,CC0-1.0,0,Monastery of Agia Eleni,,manastır_sinagog,manastır
-Q131523759,Aya Konstantin Manastırı,SIGHT,40.203201,25.788700,,Gökçeada,CC0-1.0,0,Monastery of Agios Konstantinos,,manastır_sinagog,manastır
-Q131523750,Aya Nikola Manastırı (Gökçeada),SIGHT,40.198944,25.783033,,Gökçeada,CC0-1.0,0,Monastery of Agios Nikolaos (Gökçeada),,manastır_sinagog,manastır
-Q131523778,Aya Padelemon Manastırı,SIGHT,40.143902,25.834000,,Gökçeada,CC0-1.0,0,Monastery of Agios Panteleimon,,manastır_sinagog,manastır
-Q131523753,Aya Panayia Manastırı,SIGHT,40.207684,25.820360,,Gökçeada,CC0-1.0,0,Monastery of Agia Panagia (Gökçeada),,manastır_sinagog,manastır
-Q131523777,Aya Panayia Manastırı (Tepeköy),SIGHT,40.153301,25.820400,,Gökçeada,CC0-1.0,0,Monastery of Agia Panagia (Tepeköy),,manastır_sinagog,manastır
-Q131523783,Aya Saradi Manastırı,SIGHT,40.153500,25.806500,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523782,Aya Triada Manastırı,SIGHT,40.173599,25.829100,,Gökçeada,CC0-1.0,0,Monastery of Agia Triada,,manastır_sinagog,manastır
-Q131523776,Aya Yani Manastırı,SIGHT,40.149898,25.815700,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523780,Aya İstirati Manastırı,SIGHT,40.168999,25.846300,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523787,Aya İstirati Manastırı (Tepeköy),SIGHT,40.177101,25.822300,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523757,Ayakuruna Mevki Manastırı,SIGHT,40.190487,25.836634,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523718,Ayazma Manastırı,SIGHT,39.813679,26.014700,,Bozcaada,CC0-1.0,0,Monastery of the Holy Well,,manastır_sinagog,manastır
-Q132182299,Ağaçköy Çiftlik Höyük,SIGHT,39.815733,26.570350,,,CC0-1.0,0,Ağaçköy Çiftlik Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131391204,Baba Sultan Türbesi,SIGHT,39.480000,26.064100,,Ayvacık,CC0-1.0,0,Tomb of Baba Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131738779,Babakale Hamamı,SIGHT,39.478901,26.065901,,Ayvacık,CC0-1.0,0,Babakale Baths,,han_hamam_çarşı,hamam
-Q131523756,Bahçeler Mevki Manastırı,SIGHT,40.219555,25.906158,,Gökçeada,CC0-1.0,0,Monastery of Bahçeler Mevkii,,manastır_sinagog,manastır
-Q131390753,Bahşi Yahya Türbesi,SIGHT,39.683500,26.277900,,Ezine,CC0-1.0,0,Tomb of Bahşi Yahya,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139430410,Bakacak Tümülüsleri,SIGHT,40.203960,27.069490,,Biga (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131523786,Balomeni Manastırı,SIGHT,40.196098,25.769199,,Gökçeada,CC0-1.0,0,Monastery of Balomeni,,manastır_sinagog,manastır
-Q134960314,Balontepe Höyüğü,SIGHT,39.792842,26.335818,,Ezine,CC0-1.0,0,Balontepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q115291915,Baths of Herodes Atticus,SIGHT,39.751385,26.166597,,,CC0-1.0,0,Baths of Herodes Atticus,,arkeolojik_sit,Roma hamamı | arkeolojik sit
-Q139437089,Baykuş Bataryası,SIGHT,40.105003,26.318888,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139437091,Baykuş Mesudiye Tabyası,SIGHT,40.107059,26.327639,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q131523775,Bağlar Mevki Manastırı,SIGHT,40.223202,25.910700,,Gökçeada,CC0-1.0,0,Monastery of Bağlar Mevkii,,manastır_sinagog,manastır
-Q135959864,Bağlimanı Mevkii Tümülüsü,SIGHT,39.888165,26.162006,,Ezine,CC0-1.0,0,Bağlimanı Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131901872,Behram Kale,SIGHT,39.492815,26.332566,,Ayvacık,CC0-1.0,0,Behram Castle,,kale_sur,kale
-Q132182302,Beşik Tepe (Kolonai),SIGHT,39.708850,26.159917,,Ezine,CC0-1.0,0,Beşik Hill (Kolonai),,arkeolojik_sit | anıt_heykel,höyük
-Q133236649,Biberler Kale Yerleşmesi,SIGHT,40.170013,26.746708,,,CC0-1.0,0,Biberler Kale Yerleşmesi,,kale_sur,kale
-Q132682019,Bigalı Köyü 19.Tümen Müzesi,SIGHT,40.236185,26.360078,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze
-Q132682018,Bigalı Köyü Atatürk Karargah Müzesi,SIGHT,40.236796,26.358849,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze
-Q139437104,Bolayır Ay Tabya,SIGHT,40.498596,26.753199,,Gelibolu,CC0-1.0,0,,,kale_sur,tabya
-Q139437110,Bolayır Merkez Tabya,SIGHT,40.496250,26.734316,,Gelibolu,CC0-1.0,0,,,kale_sur,tabya
-Q139437105,Bolayır Yıldız Tabya,SIGHT,40.503670,26.712952,,Gelibolu,CC0-1.0,0,,,kale_sur,tabya
-Q139437107,Bozcaada Tabyası,SIGHT,39.836647,26.073093,,Bozcaada,CC0-1.0,0,,,kale_sur,tabya
-Q139430156,Budaklar Köyü Nekropol Alanı,SIGHT,39.625488,26.374878,,Ayvacık,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q132682017,Büyük Anafarta Köyü Özay Gündoğan Müzesi,SIGHT,40.281709,26.328484,,Eceabat ilçesi,CC0-1.0,0,,10 Ağustos 1915 Anafartalar Savaş Koleksiyonu,müze,müze
-Q134728263,Büyük Anafarta Şehitliği,SIGHT,40.282272,26.324720,,Eceabat ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar | askeri mezarlık
-Q133245816,"Büyük Hamam, Seddülbahir",SIGHT,40.043282,26.188351,,Eceabat ilçesi,CC0-1.0,0,Büyük Hamam (Seddülbahir),,han_hamam_çarşı,hamam
-Q139430451,Büyükhusun Dolmen Bölgesi,SIGHT,39.514313,26.382612,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,dolmen
-Q134735169,Büyüktepe Köyü Nekropol Alanı,SIGHT,40.008078,27.051798,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q131523764,Cafer Çeşmesi Mevki Manastırı,SIGHT,40.186401,25.924101,,Gökçeada,CC0-1.0,0,Monastery of Cafer Çeşme Mevkii,,manastır_sinagog,manastır
-Q131390749,Cahidi Sultan Türbesi,SIGHT,40.147600,26.376800,,Eceabat ilçesi,CC0-1.0,0,Cahidi Sultan Tomb,Cahidi Ahmet Efendi Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131902089,"Damyeri Kale Yerleşimi, Çanakkale",SIGHT,40.174290,26.554640,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q139437097,Dardanos Tabyası,SIGHT,40.085728,26.371181,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q134728427,Dardanos Tümülüsü,SIGHT,40.076088,26.363083,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q134728306,Dede Tepe Tümülüsü,SIGHT,40.320202,27.342216,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q135959866,Dedeninyanı Tümülüsü,SIGHT,39.697475,26.410795,,Ezine,CC0-1.0,0,Dedeninyani Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q134728392,Demetrius Tümülüsü,SIGHT,39.960789,26.168167,,Ezine,CC0-1.0,0,Demetrius Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q139428347,Depetarla Mevkii Mezarlık Alanı,SIGHT,39.556523,26.487581,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q135959875,Dereköy Tümülüsü,SIGHT,40.110613,25.801665,,Gökçeada,CC0-1.0,0,Dereköy Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139437189,Değirmenburnu Tabyası Kilitbahir,SIGHT,40.158569,26.375828,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139437194,Domuzdere Tabyası Eceabat,SIGHT,40.074333,26.252483,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139430319,Elmalı Köyü III Tümülüsü,SIGHT,40.143829,27.262175,,Biga (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135959777,Elmalı Köyü VI Tümülüsü,SIGHT,40.163330,27.256233,,,CC0-1.0,0,Elmalı Village VI Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135959775,Elmalı Köyü VII Tümülüsü,SIGHT,40.163208,27.256506,,,CC0-1.0,0,Elmalı Village VII Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131390759,Emir Ali Baba Türbesi,SIGHT,40.417418,26.679948,,Gelibolu,CC0-1.0,0,Tomb of Emir Ali Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q133236235,Erecek Kalesi,SIGHT,39.570606,26.311201,,Ayvacık,CC0-1.0,0,Erecek Castle,,kale_sur,kale
-Q139437102,Ertuğrul Tabyası,SIGHT,40.044666,26.181190,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q135960965,Eski Bağlar Mevkii Tümülüsü,SIGHT,39.802569,27.215139,,Yenice (Çanakkale),CC0-1.0,0,Eski Bağlar Mevkii Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236430,Evkaya Kalesi Yerleşimi,SIGHT,40.116409,26.497862,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q139428946,Eğrek Başı Mevkii Nekropolü,SIGHT,40.407170,27.074380,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q139430383,Fenerbayırı Tepesi Nekropol Alanı,SIGHT,40.403065,26.770626,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q139430223,Fuğla Mevkii Gözetleme Kulesi,SIGHT,39.748596,26.563421,,Bayramiç (ilçe),CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q132182279,Fığla Tepe,SIGHT,39.895000,26.308917,,Ezine,CC0-1.0,0,Fığla Hill,,arkeolojik_sit | anıt_heykel,höyük
-Q137170030,Gargara,SIGHT,39.540577,26.520994,,Ayvacık,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q134590887,Gazi Süleyman Paşa Camii,SIGHT,40.514361,26.755575,,Gelibolu,CC0-1.0,0,,,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe
-Q131390760,Gazi Süleyman Paşa Türbesi,SIGHT,40.515800,26.755600,,Gelibolu,CC0-1.0,0,Gazi Suleyman Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132752835,Gazi Yakup Paşa Hanı,SIGHT,40.374600,26.716463,,,CC0-1.0,0,Gazi Yakup Paşa Hanı,Tarihi Çardak Hanı,han_hamam_çarşı,kervansaray
-Q133236670,Gelibolu Kalesi,SIGHT,40.406014,26.671242,,Gelibolu,CC0-1.0,0,Gelibolu Castle,,kale_sur,kale
-Q131738703,Geyikli Hamamı,SIGHT,39.803318,26.206509,,Ezine,CC0-1.0,0,Geyikli Baths,,han_hamam_çarşı,hamam
-Q132681916,Gökçeada Kent Müzesi,SIGHT,40.194134,25.903719,,Gökçeada,CC0-1.0,0,Gökçeada City Museum,,müze,müze
-Q139430404,Gözetleme Kulesi (Karabiga),SIGHT,40.465977,27.272707,,Biga (ilçe),CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q139429929,Gözetleme Kulesi (Sarıcaeli),SIGHT,40.107757,26.441370,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q132182691,Güneyli Limanı Yerleşimi,SIGHT,40.509769,26.697697,,Gelibolu,CC0-1.0,0,Güneyli Port,,arkeolojik_sit | anıt_heykel,höyük
-Q131523765,Güneytepe Mevki Manastırı,SIGHT,40.189301,25.940700,,Gökçeada,CC0-1.0,0,Monastery of Güneytepe Mevkii,,manastır_sinagog,manastır
-Q131523762,Güzelceköy Mevki Manastırı,SIGHT,40.184200,25.943300,,Gökçeada,CC0-1.0,0,Monastery of Güzelceköy Mevkii,,manastır_sinagog,manastır
-Q131523768,Güzelceköy Mevki Manastırı 2,SIGHT,40.185299,25.972799,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523769,Güzelceköy Mevki Manastırı 3,SIGHT,40.166599,25.963400,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139437049,HMS Bouvet Batığı,SIGHT,40.040466,26.296650,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,gemi enkazı
-Q131390751,Hacıbaba Celaleddin Topçu Türbesi,SIGHT,39.683010,26.277810,,Ezine,CC0-1.0,0,Hacıbaba Celaleddin Topçu Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132682046,Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi,SIGHT,39.810317,26.611705,,,CC0-1.0,0,,,müze,müze
-Q139436800,Halep Vapuru,SIGHT,40.219463,26.449245,,Eceabat ilçesi,CC0-1.0,0,,,arkeolojik_sit,gemi enkazı
-Q131390745,Halil İbrahim Efendi Türbesi,SIGHT,39.527700,26.326800,,Ayvacık,CC0-1.0,0,Halil İbrahim Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390748,Halil İbrahim Onbaşı Türbesi,SIGHT,40.044800,26.182300,,Eceabat ilçesi,CC0-1.0,0,Halil İbrahim Corporal Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132681921,Halimbey Konağı Kent Müzesi,SIGHT,40.227402,27.240839,,,CC0-1.0,0,,,müze,müze
-Q139425192,Hamam (Gelibolu),SIGHT,40.406910,26.669424,,Gelibolu,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139421944,Hamam (Umurbey),SIGHT,40.234227,26.607018,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139428594,Hamam (Çardak),SIGHT,40.374155,26.715973,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q133245755,"Hamam, Gökçebayır",SIGHT,39.790764,26.255798,,Ezine,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q133245788,"Hamam, Karainebeyli",SIGHT,40.349251,26.431711,,Gelibolu,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q133245857,"Hamam, Kösedere",SIGHT,39.629124,26.183872,,Ayvacık,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q133245753,"Hamam, Kızılkeçili",SIGHT,40.205678,26.595853,,Çanakkale (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q134960956,Hamamtepe Höyüğü,SIGHT,40.363850,26.506233,,Gelibolu,CC0-1.0,0,Hamamtepe Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
-Q132182273,Hanay Tepe,SIGHT,39.908533,26.293067,,Ezine,CC0-1.0,0,Hanay Hill,,arkeolojik_sit | anıt_heykel,höyük
-Q132182285,Hantepe,SIGHT,39.804867,26.157050,,Ezine,CC0-1.0,0,Hantepe,,arkeolojik_sit | anıt_heykel,höyük
-Q132182690,"Harmatos Antik Kenti, Koruoba",SIGHT,39.481106,26.260243,,Ayvacık,CC0-1.0,0,Harmatos,,arkeolojik_sit | anıt_heykel,höyük
-Q135960964,Haydaroba Bulamaç Mevkii Tümülüsü,SIGHT,39.906648,27.430216,,Yenice (Çanakkale),CC0-1.0,0,Haydaroba Bulamaç Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135960177,Hektor Tümülüsü,SIGHT,40.023910,26.341999,,Çanakkale (ilçe),CC0-1.0,0,Hektor Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131738746,Hıdırlar Hamam Kalıntısı ve Kaplıca,SIGHT,39.844959,27.155579,,Yenice (Çanakkale),CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139430389,Işıklar Köyü Nekropolü,SIGHT,40.154194,26.498346,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q132182284,"Işıldak Tepe, Çanakkale",SIGHT,40.005233,26.289950,,Çanakkale (ilçe),CC0-1.0,0,Işıldak Hill (Çanakkale),,arkeolojik_sit | anıt_heykel,höyük
-Q139428139,Işıldaktepe Altı Mevkii Tümülüsü,SIGHT,40.005858,26.289403,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q132682020,Kabatepe Tanıtma Merkezi Ve Müzesi,SIGHT,40.206794,26.281231,,Eceabat ilçesi,CC0-1.0,0,,Çanakkale Destanı Tanıtım Merkezi,müze,müze
-Q139430137,Kabaçyakası Mevkii Yerleşimi,SIGHT,39.548859,26.161047,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139425274,Kadir Baba Türbesi,SIGHT,40.137474,26.364182,,Eceabat ilçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131523761,Kalam Mevki Manastırı,SIGHT,40.140701,25.746000,,Gökçeada,CC0-1.0,0,Monastery of Kalam Mevkii,,manastır_sinagog,manastır
-Q131902307,Kalealtı Kalesi,SIGHT,40.693199,26.800226,,Gelibolu,CC0-1.0,0,Kalealtı Castle,,kale_sur,kale
-Q133236096,Kaleköy Kalesi,SIGHT,40.234409,25.897938,,Gökçeada,CC0-1.0,0,Kaleköy Castle,,kale_sur,kale | harabe
-Q133236431,"Kaletepe Kalesi, Gelibolu",SIGHT,40.659561,26.752453,,Gelibolu,CC0-1.0,0,Kaletepe Castle (Gelibolu),,kale_sur,kale
-Q133236756,"Kaletepe Yerleşimi, Ezine",SIGHT,39.868023,26.434258,,Ezine,CC0-1.0,0,Kaletepe (Ezine),,kale_sur,kale
-Q133236404,Kaleüstü Tepesi Kalesi,SIGHT,39.548607,26.379375,,Ayvacık,CC0-1.0,0,,,kale_sur,kale
-Q139429174,Kalıntı (Karaömerler),SIGHT,40.269357,26.796893,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q133245758,Kangırlı Köyü Hamamı,SIGHT,40.230267,26.579269,,,CC0-1.0,0,Kangırlı Köyü Baths,,han_hamam_çarşı,hamam
-Q131523766,Kanyeri Mevki Manastırı,SIGHT,40.198200,25.965200,,Gökçeada,CC0-1.0,0,Monastery of Kanyeri Mevkii,,manastır_sinagog,manastır
-Q131391520,Kaptan-ı Derya Saruca Paşa Türbesi,SIGHT,40.411099,26.678152,,Gelibolu,CC0-1.0,0,Tomb of Admiral Saruca Pasha,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391521,Kaptan-ı Derya Sinan Paşa Türbesi,SIGHT,40.418438,26.680166,,Gelibolu,CC0-1.0,0,Tomb of Admiral Sinan Pasha,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131901871,Karabiga Surlar,SIGHT,40.412303,27.324114,,,CC0-1.0,0,Karabiga Surlar,,kale_sur,kale
-Q131523749,Karabot Mevki Manastırı,SIGHT,40.157349,25.773718,,Gökçeada,CC0-1.0,0,Monastery of Karabot Mevkii,,manastır_sinagog,manastır
-Q139425194,Karaca Ahmed Dede Türbesi,SIGHT,40.407172,26.668995,,Gelibolu,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132182692,Karainbeyli Asarlık Tepe Yerleşimi,SIGHT,40.351467,26.393078,,Gelibolu,CC0-1.0,0,Karainbeyli,,arkeolojik_sit | anıt_heykel,höyük
-Q133235966,Karakaya Tepesi Kale Yerleşimi,SIGHT,39.938175,27.148537,,Yenice (Çanakkale),CC0-1.0,0,,,kale_sur,kale
-Q134728265,Karayörük Deresi Şehitliği,SIGHT,40.225513,26.291199,,Eceabat ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar | askeri mezarlık
-Q134960291,Kardia Antik Kenti,SIGHT,40.548824,26.741510,,Gelibolu,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q131738506,Kasap Hamamı,SIGHT,40.409766,26.673445,,Gelibolu,CC0-1.0,0,Kasap Baths,Kasapoğlu Ali Bey Hamamı,han_hamam_çarşı,hamam
-Q139430252,Kaya Mezarı (Cazgirler),SIGHT,39.965713,26.752233,,Bayramiç (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139430267,Kaya Mezarı (Halilağa),SIGHT,39.913254,26.859821,,Çan (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139429868,Kaya Mezarı (Kayadere),SIGHT,40.130143,26.542983,,Çanakkale (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139430046,Kaya Mezarı (Kemel),SIGHT,40.161190,26.547608,,Çanakkale (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139430387,Kaya Mezarı (Sazlı),SIGHT,39.550884,26.436773,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139430312,Kaya Mezarı (Söğütalan),SIGHT,39.882862,26.859569,,Çan (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q139430360,Kaya Mezarı (Çınarlı),SIGHT,40.157513,25.959789,,Gökçeada,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q133236753,Kayalı Tepe Kale Yerleşimi,SIGHT,39.916000,26.739845,,,CC0-1.0,0,,,kale_sur,kale
-Q131390750,Kaşıklı Baba Türbesi,SIGHT,40.150900,26.377800,,Eceabat ilçesi,CC0-1.0,0,Kaşıklı Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139430425,Kekliktepe Tümülüsü,SIGHT,40.565868,26.832355,,Gelibolu,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236380,Kepez Tepe Kalesi,SIGHT,39.538845,26.172384,,Ayvacık,CC0-1.0,0,Kepez Hill Castle,,kale_sur,kale
-Q139428131,Keçilen Mevkii Nekropol Alanı,SIGHT,40.073834,26.457022,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q132682027,Kilidbahir Namazgah Tabyası Müzesi,SIGHT,40.146100,26.380050,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze
-Q139437109,Kilye Lodos Tabyası,SIGHT,40.193573,26.356331,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139437108,Kilye Poyraz Tabyası,SIGHT,40.204304,26.368256,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q135959716,Kireçlik Mevkii Tümülüsü,SIGHT,39.528175,26.292612,,Ayvacık,CC0-1.0,0,Kireçlik Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135959763,Koca Tarla Tümülüsü,SIGHT,39.731838,26.580812,,,CC0-1.0,0,Koca Tarla Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139436999,Kocadere Korugan 1,SIGHT,40.232311,26.276033,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,korugan
-Q139428706,Korugan (Dalyan),SIGHT,39.761347,26.148207,,Ezine,CC0-1.0,0,,,kale_sur,korugan
-Q139433911,Korugan (Güneyli Köyü),SIGHT,40.509323,26.697201,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139435305,Korugan 1 (Çanakkale),SIGHT,40.599850,26.868551,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434509,Korugan 10 (Çanakkale),SIGHT,40.525234,26.778782,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434507,Korugan 11 (Çanakkale),SIGHT,40.523102,26.771519,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434506,Korugan 12 (Çanakkale),SIGHT,40.523830,26.770811,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434504,Korugan 15 (Çanakkale),SIGHT,40.514679,26.776987,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434500,Korugan 16 (Çanakkale),SIGHT,40.513317,26.775738,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434498,Korugan 17 (Çanakkale),SIGHT,40.507355,26.778711,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434497,Korugan 18 (Çanakkale),SIGHT,40.514965,26.768065,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139435304,Korugan 2 (Çanakkale),SIGHT,40.584423,26.846294,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434493,Korugan 21 (Çanakkale),SIGHT,40.516766,26.746935,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434492,Korugan 22 (Çanakkale),SIGHT,40.513145,26.740986,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434488,Korugan 23 (Çanakkale),SIGHT,40.513809,26.736839,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434486,Korugan 24 (Çanakkale),SIGHT,40.512463,26.731739,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434485,Korugan 25 (Çanakkale),SIGHT,40.509460,26.721886,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434483,Korugan 26 (Çanakkale),SIGHT,40.504887,26.712044,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434482,Korugan 27 (Çanakkale),SIGHT,40.499817,26.719515,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434480,Korugan 28 (Çanakkale),SIGHT,40.499462,26.720074,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434478,Korugan 29 (Çanakkale),SIGHT,40.499329,26.720610,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434520,Korugan 3 (Çanakkale),SIGHT,40.510120,26.758997,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434475,Korugan 30 (Çanakkale),SIGHT,40.499039,26.721237,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434474,Korugan 31 (Çanakkale),SIGHT,40.494988,26.726107,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434468,Korugan 32 (Çanakkale),SIGHT,40.495075,26.726851,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434466,Korugan 33 (Çanakkale),SIGHT,40.494965,26.727522,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434465,Korugan 34 (Çanakkale),SIGHT,40.494816,26.728315,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434463,Korugan 35 (Çanakkale),SIGHT,40.525116,26.765226,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434462,Korugan 36 (Çanakkale),SIGHT,40.521412,26.795374,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434460,Korugan 37 (Çanakkale),SIGHT,40.521702,26.795900,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434459,Korugan 38 (Çanakkale),SIGHT,40.521599,26.796173,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434519,Korugan 4 (Çanakkale),SIGHT,40.510498,26.759104,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434456,Korugan 40 (Çanakkale),SIGHT,40.521313,26.793390,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434455,Korugan 41 (Çanakkale),SIGHT,40.518570,26.803072,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434448,Korugan 42 (Çanakkale),SIGHT,40.519138,26.803457,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434445,Korugan 45 (Çanakkale),SIGHT,40.598869,26.867832,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434444,Korugan 46 (Çanakkale),SIGHT,40.581398,26.862228,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434443,Korugan 47 (Çanakkale),SIGHT,40.585453,26.859562,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434441,Korugan 48 (Çanakkale),SIGHT,40.583942,26.864895,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434440,Korugan 49 (Çanakkale),SIGHT,40.584206,26.865517,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434517,Korugan 5 (Çanakkale),SIGHT,40.514961,26.768093,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434438,Korugan 50 (Çanakkale),SIGHT,40.586510,26.869993,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434437,Korugan 51 (Çanakkale),SIGHT,40.586391,26.869717,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434436,Korugan 52 (Çanakkale),SIGHT,40.591694,26.865938,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434430,Korugan 53 (Çanakkale),SIGHT,40.591904,26.868366,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434427,Korugan 54 (Çanakkale),SIGHT,40.590603,26.869814,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434425,Korugan 55 (Çanakkale),SIGHT,40.591354,26.888620,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434424,Korugan 56 (Çanakkale),SIGHT,40.584263,26.890772,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434422,Korugan 57 (Çanakkale),SIGHT,40.595203,26.869755,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434420,Korugan 58 (Çanakkale),SIGHT,40.594803,26.873520,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434419,Korugan 59 (Çanakkale),SIGHT,40.594048,26.874729,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434513,Korugan 6 (Çanakkale),SIGHT,40.513340,26.775732,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434418,Korugan 60 (Çanakkale),SIGHT,40.594029,26.876347,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434417,Korugan 63 (Çanakkale),SIGHT,40.591034,26.885012,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434411,Korugan 64 (Çanakkale),SIGHT,40.590294,26.890999,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434408,Korugan 65 (Çanakkale),SIGHT,40.587730,26.896832,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434406,Korugan 66 (Çanakkale),SIGHT,40.586750,26.898869,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434404,Korugan 67 (Çanakkale),SIGHT,40.584278,26.900690,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434403,Korugan 68 (Çanakkale),SIGHT,40.582096,26.904400,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434402,Korugan 69 (Çanakkale),SIGHT,40.580444,26.907253,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434401,Korugan 70 (Çanakkale),SIGHT,40.580288,26.898142,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434400,Korugan 71 (Çanakkale),SIGHT,40.590462,26.879194,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434398,Korugan 72 (Çanakkale),SIGHT,40.590485,26.882872,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434393,Korugan 73 (Çanakkale),SIGHT,40.588493,26.855200,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434388,Korugan 74 (Çanakkale),SIGHT,40.582100,26.848936,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434387,Korugan 75 (Çanakkale),SIGHT,40.580322,26.848886,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434386,Korugan 76 (Çanakkale),SIGHT,40.512272,26.745895,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434384,Korugan 77 (Çanakkale),SIGHT,40.516804,26.748947,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434382,Korugan 82 (Çanakkale),SIGHT,40.500023,26.731117,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434381,Korugan 83 (Çanakkale),SIGHT,40.500484,26.731289,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434378,Korugan 84 (Çanakkale),SIGHT,40.501019,26.731064,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434377,Korugan 85 (Çanakkale),SIGHT,40.501343,26.730572,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434374,Korugan 87 (Çanakkale),SIGHT,40.491451,26.734047,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434512,Korugan 9 (Çanakkale),SIGHT,40.522926,26.776018,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434369,Korugan 90 (Çanakkale),SIGHT,40.489754,26.734755,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434368,Korugan 91 (Çanakkale),SIGHT,40.486755,26.727951,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434365,Korugan 92 (Çanakkale),SIGHT,40.486580,26.728396,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434363,Korugan 93 (Çanakkale),SIGHT,40.486298,26.728762,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434362,Korugan 94 (Çanakkale),SIGHT,40.580578,26.891228,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q139434360,Korugan 95 (Çanakkale),SIGHT,40.501072,26.737028,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan
-Q131901912,Kumkale Kalesi,SIGHT,40.006526,26.198691,,Çanakkale (ilçe),CC0-1.0,0,Kumkale Castle,Sultaniye Kalesi,kale_sur,kale
-Q133245856,Kumkale Kalesi Hamamı,SIGHT,40.006142,26.199810,,Çanakkale (ilçe),CC0-1.0,0,Kumkale Castle Baths,,han_hamam_çarşı,hamam
-Q139437095,Kumkale Tabyası,SIGHT,40.007927,26.198633,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q132856526,Kumkale Çakaltepe Battery,SIGHT,40.000182,26.260552,,Çanakkale (ilçe),CC0-1.0,0,Kumkale Çakaltepe Battery,,kale_sur,artillery battery
-Q132182277,"Kumtepe, Çanakkale",SIGHT,39.978917,26.195967,,Çanakkale (ilçe),CC0-1.0,0,Kumtepe (Çanakkale),,arkeolojik_sit | anıt_heykel,höyük
-Q133236107,Kuşaklıdağ Tepesi Kalesi,SIGHT,39.901301,26.587284,,,CC0-1.0,0,,,kale_sur,kale
-Q134960945,Kuşburnu Höyüğü,SIGHT,40.506374,26.634010,,Gelibolu,CC0-1.0,0,Kuşburnu Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
-Q132182301,Kümbet Kocabahce,SIGHT,39.764900,26.239617,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q137170033,Künk Dağı Yerleşimi,SIGHT,39.913899,26.805187,,,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q131739055,Küçük Hamam,SIGHT,40.043510,26.188824,,Eceabat ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139429935,Kırmacı Mevkii Tümülüsü,SIGHT,39.532171,26.341880,,Ayvacık,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139430385,Kırıklar Köyü Nekropol Alanı,SIGHT,39.776833,27.303087,,Yenice (Çanakkale),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q134728305,Kızöldün Tümülüsü,SIGHT,40.272717,27.304911,,,CC0-1.0,0,Kızöldün Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q132681822,Kızılay Ağadere Müzesi,SIGHT,40.160336,26.369781,,Eceabat ilçesi,CC0-1.0,0,Kızılay Ağadere Museum,,müze,müze
-Q134960293,Lysimacheia,SIGHT,40.577652,26.886848,,Gelibolu,CC0-1.0,0,Lysimacheia,,arkeolojik_sit | anıt_heykel,höyük
-Q131902091,"Madenkaya Kalesi, Çanakkale",SIGHT,40.046989,26.560614,,Çanakkale (ilçe),CC0-1.0,0,Madenkaya Castle (Çanakkale),Kaletaş Tepe Kale Yerleşimi,kale_sur,kale
-Q131523774,Manastır (Bademli),SIGHT,40.223064,25.905207,,Gökçeada,CC0-1.0,0,Monastery of Bademli,,manastır_sinagog,manastır
-Q139430308,Manastır 1 (Bozcaada),SIGHT,39.835861,26.069422,,Bozcaada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139430310,Manastır 2 (Bozcaada),SIGHT,39.828781,26.010382,,Bozcaada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523772,Manastır 2 – Çınarlı,SIGHT,40.183102,25.893700,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139433564,Manastır 3 – Çınarlı,SIGHT,40.175800,25.905701,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q131523763,Manastır – Çınarlı,SIGHT,40.188202,25.907499,,Gökçeada,CC0-1.0,0,Monastery of Çınarlı,,manastır_sinagog,manastır
-Q132182654,Marpessos Yerleşimi,SIGHT,39.880280,26.520279,,,CC0-1.0,0,Marpessos,,arkeolojik_sit | anıt_heykel,höyük
-Q131391197,Mersin Dede Türbesi,SIGHT,40.147300,26.404200,,Çanakkale (ilçe),CC0-1.0,0,Mersin Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139436795,Mesudiye Tabyası,SIGHT,40.055111,26.354586,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q134960952,Mezarlık Höyük,SIGHT,40.662827,26.883001,,Gelibolu,CC0-1.0,0,Mezarlık Höyük,,anıt_heykel | arkeolojik_sit,höyük
-Q131391660,Mustafa Aslan Efendi Türbesi,SIGHT,39.810406,26.613957,,,CC0-1.0,0,Mustafa Aslan Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139422142,Mıhlı Nekropolü,SIGHT,39.558549,26.628033,,Ayvacık,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q131901870,Naendria Kalesi,SIGHT,39.713047,26.272082,,Ezine,CC0-1.0,0,Naendria Castle,Çığrıdağı Kalesi,kale_sur,kale
-Q139437206,Namazgah Tabyası Kilitbahir,SIGHT,40.145958,26.380337,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139436798,Nara Tabyası,SIGHT,40.195705,26.404924,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q131391608,Nedime Hanım Türbesi,SIGHT,40.142765,26.404766,,Çanakkale (ilçe),CC0-1.0,0,Nedime Hanım Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139428702,Nekropol (Üçpınar),SIGHT,40.133672,26.718781,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q132681739,"Nuri Yamut Anıtı, Sığındere",SIGHT,40.101528,26.211117,,Eceabat ilçesi,CC0-1.0,0,Nuri Yamut Monument (Sığındere),,müze,müze
-Q132681931,Nusret Mayın Gemisi Replikası,SIGHT,40.148872,26.398718,,Çanakkale (ilçe),CC0-1.0,0,,Nusrat Mayın Gemisi,müze,müze
-Q139437193,Orhaniye Tabyası,SIGHT,39.993053,26.185995,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q137170071,Ortaca Köyü Asarlık Yerleşimi,SIGHT,40.071903,26.625696,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit
-Q131902090,Osmanlar Köyü Asarlıktepe Kale Yerleşimi,SIGHT,40.096481,26.678949,,,CC0-1.0,0,,Haliloğlu Köyü | Bodurlar Köyü,kale_sur,kale
-Q134728426,Palai Skepsis (Troad),SIGHT,39.852680,26.803461,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q139437080,Palazbaba Tabyası,SIGHT,40.145935,26.376705,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139430438,Paleo Perkote,SIGHT,40.227917,26.677185,,,CC0-1.0,0,,,arkeolojik_sit,antik kent
-Q135960081,Pamukderesi Mevkii Tümülüsleri,SIGHT,40.325380,26.754151,,,CC0-1.0,0,Pamukderesi Locality Tumuli,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
-Q139430443,Parion Güney Nekropolü,SIGHT,40.416412,27.070136,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q133245784,Parion Hamam,SIGHT,40.425659,27.069608,,,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q133245785,Parion Hamamı,SIGHT,40.425747,27.067759,,,CC0-1.0,0,Parion Baths,,han_hamam_çarşı,hamam
-Q135583030,Parion Odeon,SIGHT,40.424192,27.068000,,,CC0-1.0,0,Odeon of Parion,,arkeolojik_sit,Yunan tiyatrosu | odeon
-Q112662697,Parion Tiyatrosu,SIGHT,40.425751,27.066961,,,CC0-1.0,0,"Parion, Theatre",,arkeolojik_sit,Antik Roma tiyatrosu
-Q112662701,"Parion, Roman baths",SIGHT,40.425770,27.067709,,,CC0-1.0,0,"Parion, Roman baths",,arkeolojik_sit,arkeolojik sit | Roma hamamı
-Q134728393,Paşatepe Tümülüsü,SIGHT,39.946049,26.245930,,Çanakkale (ilçe),CC0-1.0,0,Paşatepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q139425188,Piri Baba Anıt Mezarı,SIGHT,40.408362,26.672019,,Gelibolu,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q134728085,Publius Varius Aquila Mezarı,SIGHT,39.489921,26.334371,,Ayvacık,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q131523771,Rosalado Mevki Manastırı,SIGHT,40.193600,25.872900,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139437103,Rumeli Hamidiye Tabyası,SIGHT,40.143005,26.377451,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q139437106,Rumeli Yıldız Tabyası,SIGHT,40.136955,26.361238,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q135959780,Rüzgarlıtepe Tümülüsü,SIGHT,40.353191,27.338383,,,CC0-1.0,0,Rüzgarlıtepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139432098,SS Milo Batığı,SIGHT,40.241306,26.279228,,Eceabat ilçesi,CC0-1.0,0,,,arkeolojik_sit,gemi enkazı
-Q132682028,Salim Mutlu Özel Harp Anıları Müzesi,SIGHT,40.094801,26.225258,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze
-Q139421933,Saltık Mevkii Tümülüsü,SIGHT,40.231052,26.548991,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139436582,Sapan Kalesi,SIGHT,40.120148,26.948816,,Çan (ilçe),CC0-1.0,0,,,kale_sur,kale
-Q139421408,Sarıcapaşa Çifte Hamam,SIGHT,40.408384,26.668648,,Gelibolu,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q132182305,Savrantepe,SIGHT,39.832267,26.320933,,Ezine,CC0-1.0,0,Savrantepe,,arkeolojik_sit | anıt_heykel,höyük
-Q131523785,Savur Mevki Manastırı,SIGHT,40.118698,25.775200,,Gökçeada,CC0-1.0,0,Monastery of Savur Mevkii,,manastır_sinagog,manastır
-Q139429397,Sazak Derealan Tümülüsü 1,SIGHT,39.899030,27.156324,,Yenice (Çanakkale),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139429396,Sazak Derealan Tümülüsü 2,SIGHT,39.898398,27.156254,,Yenice (Çanakkale),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135959764,Saçlı Tümülüsü,SIGHT,39.731008,26.567936,,,CC0-1.0,0,Saclı Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139436797,Seddülbahir Kalesi Tabyası,SIGHT,40.041477,26.189348,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya
-Q132682026,Seddülbahir Çanakkale Savaşları Galerisi,SIGHT,40.146442,26.407421,,Çanakkale (ilçe),CC0-1.0,0,,,müze,müze
-Q131738704,Seferşah Hamamı,SIGHT,39.787025,26.336130,,Ezine,CC0-1.0,0,Seferşah Baths,,han_hamam_çarşı,hamam
-Q132182689,"Serçeler Köyü Tepetarla Yerleşimi, Çanakkale",SIGHT,40.046257,26.572237,,Çanakkale (ilçe),CC0-1.0,0,Serçeler (Çanakkale),,arkeolojik_sit | anıt_heykel,höyük
-Q131390746,Seyyid Süleyman Türbesi,SIGHT,39.618113,26.427471,,Ayvacık,CC0-1.0,0,Seyyid Suleiman Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131902088,"Sivricetepe Kalesi, Çanakkale",SIGHT,40.046410,26.633177,,Çanakkale (ilçe),CC0-1.0,0,Sivricetepe Castle (Çanakkale),,kale_sur,kale
-Q134728124,Son Ok Anıtı,SIGHT,40.098274,26.222254,,Eceabat ilçesi,CC0-1.0,0,Son Ok Monument,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q134960953,Tadinin Höyüğü,SIGHT,40.641232,26.835699,,Gelibolu,CC0-1.0,0,Tadinin Höyüğü,,anıt_heykel | arkeolojik_sit,höyük
-Q131902070,Tavaklı Sakar Dağı Kalesi,SIGHT,39.663971,26.206436,,Ezine,CC0-1.0,0,,,kale_sur,kale
-Q121543499,Tomb of Protesilaus,SIGHT,40.044700,26.189000,,,CC0-1.0,0,Tomb of Protesilaus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q134960954,Trapezya,SIGHT,40.120991,25.913937,,Gökçeada,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,höyük
-Q139437191,Turgut Reis Tabyası,SIGHT,40.046890,26.361841,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q139428150,Tümbek Tepe Tümülüsü,SIGHT,39.733578,26.355425,,Ezine,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135960082,Tümbektepe Tümülüsü,SIGHT,40.349125,26.831772,,,CC0-1.0,0,Tumbektepe Tumulus,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
-Q135959774,Tümbelez Tepe Tümülüsü,SIGHT,40.397736,27.290371,,,CC0-1.0,0,Tumbelez Hill Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131390752,Ulu Sultan Türbesi,SIGHT,39.683510,26.277820,,Ezine,CC0-1.0,0,Tomb of the Great Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132183003,Uğurlu Höyük,SIGHT,37.306360,30.480206,,Gökçeada,CC0-1.0,0,Uğurlu Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131523779,Votar Mevki Manastırı,SIGHT,40.173302,25.846001,,Gökçeada,CC0-1.0,0,Monastery of Votar Mevkii,,manastır_sinagog,manastır
-Q131523784,Vurla Mevki Manastırı,SIGHT,40.148499,25.778000,,Gökçeada,CC0-1.0,0,Monastery of Vurla Mevkii,,manastır_sinagog,manastır
-Q135583291,Vuslan Dede Türbesi,SIGHT,40.301093,26.476248,,Gelibolu,CC0-1.0,0,Vuslan Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390747,Yahşi Bey Türbesi,SIGHT,39.750400,26.458600,,,CC0-1.0,0,Yahşi Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131738507,Yalı Hamamı,SIGHT,40.148235,26.400437,,Çanakkale (ilçe),CC0-1.0,0,Yalı Baths,,han_hamam_çarşı,hamam
-Q132752844,Yalı Han,SIGHT,40.148888,26.400661,,Çanakkale (ilçe),CC0-1.0,0,Yalı Han (Çanakkale),,han_hamam_çarşı,kervansaray
-Q133245685,"Yapı Kalıntısı, Akçakeçili",SIGHT,39.710396,26.187265,,Ezine,CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q134728264,Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği,SIGHT,40.283035,26.323359,,Eceabat ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar | askeri mezarlık
-Q133236675,Yeni Kale Bozcaada,SIGHT,39.836552,26.066019,,Bozcaada,CC0-1.0,0,,,kale_sur,kale
-Q135959773,Yeni Mahalle Tümülüsü,SIGHT,40.395843,27.295841,,,CC0-1.0,0,New Neighborhood Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139428074,Yolaltı Mevkii Höyüğü,SIGHT,39.837240,26.875751,,Bayramiç (ilçe),CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q135959761,Yukarıpalamut Tümülüsü,SIGHT,39.904105,26.533890,,,CC0-1.0,0,Yukarıpalamut Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236090,Yülüce Kalesi,SIGHT,40.726864,26.974604,,Gelibolu,CC0-1.0,0,Yülüce Castle,,kale_sur,kale | harabe
-Q131390757,Zeynel Arap Türbesi,SIGHT,40.412100,26.676900,,Gelibolu,CC0-1.0,0,Zeynel Arab Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q139437112,Çakaltepe Tabyası,SIGHT,40.010281,26.303585,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q139430330,Çakırlı Köyü Nekropol Alanı,SIGHT,40.374145,27.145569,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q133236650,Çal Kalesi,SIGHT,39.972210,27.154480,,Yenice (Çanakkale),CC0-1.0,0,Çal Castle,,kale_sur,kale
-Q132182716,Çalca Höyüğü,SIGHT,40.048641,26.964218,,,CC0-1.0,0,Çalca Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q131901911,Çamburnu Kalesi,SIGHT,40.169811,26.369205,,Eceabat ilçesi,CC0-1.0,0,Çamburnu Castle,,kale_sur,kale
-Q6059138,Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi,SIGHT,40.113052,26.420981,,Çanakkale (ilçe),CC0-1.0,0,"Çanakkale Onsekiz Mart University, Earth Science and Natural History Museum",ÇOMÜ Yer Bilimleri Müzesi,müze,üniversite müzesi
-Q131738785,Çanakkale Seramik Müzesi,SIGHT,40.157047,26.412329,,Çanakkale (ilçe),CC0-1.0,0,Çanakkale Museum of Ceramics,Hasan Rahmi Paşa Hamamı | Çanakkale Askeri Er Hamamı,han_hamam_çarşı,hamam
-Q139437117,Çanakkale Sinagogu,SIGHT,40.146374,26.405361,,Çanakkale (ilçe),CC0-1.0,0,,,manastır_sinagog,sinagog
-Q139437098,Çimenlik Tabyası,SIGHT,40.146309,26.398985,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya
-Q139429393,Çobantaşı Nekropolü,SIGHT,39.937492,26.690558,,Bayramiç (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q132182278,"Çobantepe, Çanakkale",SIGHT,40.000717,26.258000,,Çanakkale (ilçe),CC0-1.0,0,Çobantepe (Çanakkale),Tavolia Antik Şehri | Tektop Tepe,arkeolojik_sit | anıt_heykel,höyük
-Q139430044,Çınar Tarla Mevkii Nekropol Alanı,SIGHT,40.386762,27.171766,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q135583301,Çıplak Dede Türbesi,SIGHT,39.951250,26.261766,,Çanakkale (ilçe),CC0-1.0,0,Çıplak Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q135959869,Çıraktepe Tümülüsü,SIGHT,40.552254,26.799475,,Gelibolu,CC0-1.0,0,Çıraktepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236099,Çırpılar Kalesi,SIGHT,39.832451,27.339964,,Yenice (Çanakkale),CC0-1.0,0,Çırpılar Castle,Çırpılar Asarkale,kale_sur,kale | harabe
-Q139429229,Örenli Kazandibi Mevkii Tümülüsü,SIGHT,39.759992,26.643360,,Bayramiç (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q131738844,Özbek Köyü Hamamı ve Çeşmesi,SIGHT,40.166061,26.473618,,Çanakkale (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam
-Q139437115,Üsküfçü Mezarlığı,SIGHT,39.736055,26.313290,,Ezine,CC0-1.0,0,,,arkeolojik_sit,Nekropol
-Q100138106,Üvecik Tepe,SIGHT,39.900234,26.199306,,Ezine,CC0-1.0,0,Üvecik Tepe,Festus Tümülüsü,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q139429911,Üvek Bayırı Tümülüsü,SIGHT,40.269465,27.274429,,Biga (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q133236757,Üçpınar Kalesi,SIGHT,40.124065,26.717684,,,CC0-1.0,0,Üçpınar Castle,,kale_sur,kale
-Q132182275,İn Limanı,SIGHT,39.869000,26.149150,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük
-Q139433495,İnkaya Mağarası,ACTIVITY,40.033668,26.930872,,Çan (ilçe),CC0-1.0,0,,,doğa,mağara
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q658437,Gökçeada,SIGHT,40.162600,25.828900,,Gökçeada,CC0-1.0,55,Imbros,İmroz | Gökçeada (ada),arkeolojik_sit,ada | polis,"Q23442,Q148837"
+Q8077503,1915 Çanakkale Köprüsü,SIGHT,40.339889,26.636694,,Gelibolu,CC0-1.0,47,1915 Çanakkale Bridge,Çanakkale Boğazı Köprüsü,köprü,asma köprü | karayol köprüsü | geçiş ücretli köprü,"Q12570,Q537127,Q7814330,Q12042110,Q65045238"
+Q336446,Abidos,SIGHT,40.195278,26.405000,,Çanakkale (ilçe),CC0-1.0,34,Abydos,Abidos (Çanakkale) | Abidos | Abydus,arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | polis,"Q148837,Q839954,Q22674925"
+Q744631,Assos,SIGHT,39.490556,26.336667,,Ayvacık,CC0-1.0,31,Assos,"Behramkale | Behram, Ayvacık | Behram | Assos Antik Kenti",arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | antik kent,"Q148837,Q839954,Q15661340,Q22674925"
+Q1393407,Alexandria Troas,SIGHT,39.751944,26.158611,,Ezine,CC0-1.0,24,Alexandria Troas,Antigoia,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q1229422,Lampsakos,SIGHT,40.343889,26.683611,,,CC0-1.0,24,Lampsacus,Lampsakos,arkeolojik_sit,antik kent | arkeolojik sit | polis,"Q148837,Q839954,Q15661340"
+Q2474092,Saros Körfezi,SIGHT,40.500000,26.333333,,,CC0-1.0,24,Gulf of Saros,Saros,,körfez | koy,"Q39594,Q1322134"
+Q593737,Sestos,SIGHT,40.216667,26.383333,,,CC0-1.0,24,Sestos,,arkeolojik_sit,arkeolojik sit | polis | miras,"Q148837,Q839954,Q2434238,Q22674925"
+Q404513,Aegospotami,SIGHT,40.364072,26.630833,,Gelibolu,CC0-1.0,22,Aegospotami,,arkeolojik_sit,mythical river | polis | arkeolojik sit,"Q148837,Q839954,Q24336031"
+Q965581,Kardiya,SIGHT,40.547222,26.740833,,,CC0-1.0,20,Cardia,,arkeolojik_sit,polis | antik kent,"Q148837,Q15661340"
+Q5994097,Troya Müzesi,SIGHT,39.955278,26.249167,,Çanakkale (ilçe),CC0-1.0,20,Troy Museum,Truva Müzesi,müze,arkeoloji müzesi | müze,"Q33506,Q3329412"
+Q950952,Dardanos (antik kent),SIGHT,40.075833,26.362778,,Çanakkale (ilçe),CC0-1.0,19,Dardanos,,arkeolojik_sit,arkeolojik sit | polis,"Q148837,Q839954"
+Q517690,Lysimachia,SIGHT,40.580000,26.880000,,Gelibolu,CC0-1.0,19,Lysimachia,,arkeolojik_sit,insan yerleşimi | arkeolojik sit,"Q486972,Q839954"
+Q1564927,HMS Irresistible (1898),SIGHT,40.033283,26.316643,,Çanakkale (ilçe),CC0-1.0,17,HMS Irresistible,,arkeolojik_sit,Ön-dretnot | gemi enkazı,"Q852190,Q1051067"
+Q2261221,Hisarlık,SIGHT,39.957222,26.238889,,,CC0-1.0,17,Hisarlik Hill,,arkeolojik_sit,tepe | arkeolojik sit,"Q54050,Q839954"
+Q8077504,Çanakkale Şehitleri Anıtı,SIGHT,40.050164,26.219280,,Eceabat ilçesi,CC0-1.0,17,Çanakkale Martyrs' Memorial,Çanakkale Şehitler Abidesi | Çanakkale Şehitler Anıtı | Çanakkale Şehitleri Abidesi | Çanakkale Anıtı | Çanakkale Şehitliği,anıt_heykel,savaş anıtı | anıt,"Q575759,Q4989906"
+Q1411652,Parion,SIGHT,40.416200,27.070300,,Biga (ilçe),CC0-1.0,15,Parium,"Kemer, Biga | Parium",arkeolojik_sit,arkeolojik sit | antik kent | polis,"Q148837,Q839954,Q1529096,Q15661340"
+Q433110,Anzak Koyu,SIGHT,40.246111,26.277778,,,CC0-1.0,14,ANZAC Cove,ANZAK Koyu | Anzak koyu,,Buhta,Q31615
+Q1258822,HMS Goliath,SIGHT,40.033272,26.199953,,Eceabat ilçesi,CC0-1.0,13,HMS Goliath,,arkeolojik_sit,Ön-dretnot | gemi enkazı,"Q852190,Q1051067"
+Q1565048,HMS Majestic (1895),SIGHT,40.041667,26.183889,,Eceabat ilçesi,CC0-1.0,13,HMS Majestic,,arkeolojik_sit,Ön-dretnot | gemi enkazı,"Q852190,Q1051067"
+Q1165641,HMS Ocean,SIGHT,40.016544,26.299791,,Çanakkale (ilçe),CC0-1.0,13,HMS Ocean,,arkeolojik_sit,Ön-dretnot | gemi enkazı,"Q852190,Q1051067"
+Q1456648,HMS Triumph,SIGHT,40.033337,26.250017,,Eceabat ilçesi,CC0-1.0,13,HMS Triumph,,arkeolojik_sit,Ön-dretnot | gemi enkazı,"Q852190,Q1051067"
+Q2292038,Skepsis,SIGHT,39.802778,26.686111,,,CC0-1.0,13,Scepsis,,arkeolojik_sit,arkeolojik sit | eski yerleşim yeri | polis,"Q148837,Q839954,Q22674925"
+Q340272,Akhilleion (Troas),SIGHT,39.913333,26.155556,,Ezine,CC0-1.0,11,Achilleion,Achilleion,arkeolojik_sit,insan yerleşimi | polis | arkeolojik sit,"Q148837,Q486972,Q839954"
+Q1234913,Elaeus,SIGHT,40.059722,26.230556,,,CC0-1.0,10,Elaeus,,arkeolojik_sit,arkeolojik sit | polis | eski yerleşim yeri,"Q148837,Q839954,Q22674925"
+Q3558595,Perkote,SIGHT,40.273913,26.588806,,,CC0-1.0,10,Percote,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q5631418,HMS Arno (1915),SIGHT,40.241667,26.508333,,,CC0-1.0,9,HMS Arno,,arkeolojik_sit,Muhrip | gemi enkazı,"Q174736,Q852190"
+Q3566306,Kebrene,SIGHT,39.744167,26.566389,,,CC0-1.0,8,Cebrene,Kebrene | Çaldağ,arkeolojik_sit,insan yerleşimi | polis,"Q148837,Q486972"
+Q6058053,Kilitbahir Kalesi,SIGHT,40.147656,26.379565,,Eceabat ilçesi,CC0-1.0,8,Kilitbahir Castle,,kale_sur,kale | kale,"Q23413,Q57831"
+Q6728889,Madyto,SIGHT,40.183889,26.356389,,,CC0-1.0,8,Madytos,,arkeolojik_sit,antik kent | polis,"Q148837,Q15661340"
+Q2717842,Agora (Trakya),SIGHT,40.513545,26.786353,,Gelibolu,CC0-1.0,7,Agora,Cherronesos | Chersonesos,arkeolojik_sit,insan yerleşimi | antik kent | polis,"Q148837,Q486972,Q15661340"
+Q4822608,Hamaxitos,SIGHT,39.536111,26.091944,,Ayvacık,CC0-1.0,7,Hamaxitus,Hamaksitos | Hamaxitia,arkeolojik_sit,antik kent | arkeolojik sit | polis,"Q148837,Q839954,Q15661340"
+Q18286282,Pesus,SIGHT,40.395248,26.790818,,,CC0-1.0,7,Paesus,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q3555969,Adrasteia (Misya),SIGHT,40.391980,27.268273,,,CC0-1.0,6,Adrasteia,,arkeolojik_sit,tarihi bölge | arkeolojik sit,"Q839954,Q1620908"
+Q4734309,Alopeconnesus,SIGHT,40.313889,26.249444,,Gelibolu,CC0-1.0,6,Alokopennesos,Alopekonnesos,arkeolojik_sit,antik kent | polis,"Q148837,Q15661340"
+Q16327781,Astyra (Biga),SIGHT,40.043192,26.682841,,,CC0-1.0,6,Astyra,,arkeolojik_sit,polis,Q148837
+Q108513185,Athena Tapınağı (Assos),SIGHT,39.490833,26.336944,,Ayvacık,CC0-1.0,6,Temple of Athena (Assos),,arkeolojik_sit,harabe | tapınak | arkeolojik sit,"Q44539,Q109607,Q839954"
+Q568043,Gargara,SIGHT,39.587082,26.537504,,Ayvacık,CC0-1.0,6,Gargara,Eski Gargara,arkeolojik_sit,antik kent | arkeolojik sit | polis,"Q148837,Q839954,Q15661340"
+Q6427503,Kolonai,SIGHT,39.689722,26.163333,,Ezine,CC0-1.0,6,Kolonai,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q17508384,Mehmetçiğe Saygı Anıtı,SIGHT,40.220059,26.284985,,Eceabat ilçesi,CC0-1.0,6,Respect to Mehmetçik Monument,,anıt_heykel,savaş anıtı,Q575759
+Q6984286,Neandreia,SIGHT,39.723627,26.273117,,Ezine,CC0-1.0,6,Neandreia,Neandreia,arkeolojik_sit,eski yerleşim yeri | antik kent | polis,"Q148837,Q15661340,Q22674925"
+Q7123145,Paktye,SIGHT,40.485384,26.780688,,Gelibolu,CC0-1.0,6,Pactya,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q12878026,Thymbra,SIGHT,39.889877,26.288217,,Ezine,CC0-1.0,6,Thymbra,,arkeolojik_sit | anıt_heykel,antik kent | höyük,"Q755017,Q15661340"
+Q113509891,Yeşilyurt Köyü Camii,SIGHT,39.556958,26.569875,,Çanakkale (ilçe),CC0-1.0,6,Yeşilyurt Village Mosque,Yeşilyurt Camii | Yeşilyurt Camisi,cami,cami,Q32815
+Q637114,Çanakkale Arkeoloji Müzesi,SIGHT,40.133333,26.410000,,Çanakkale (ilçe),CC0-1.0,6,Çanakkale Archaeological Museum,,müze,arkeoloji müzesi | müze,"Q33506,Q3329412"
+Q42171362,Çanakkale Savaşları Gelibolu Tarihî Alanı,SIGHT,40.170321,26.367667,,Eceabat ilçesi,CC0-1.0,6,Gallipoli Peninsula Historic Site,Gelibolu Yarımadası Millî Parkı | Gelibolu Millî Parkı,anıt_heykel | milli_park_tabiat,millî park (Türkiye) | tarihi mekân,"Q1081138,Q108060568"
+Q4188870,Çimpe Kalesi,SIGHT,40.644447,27.011330,,Şarköy,CC0-1.0,6,Çimpe Castle,Çinpi | Cinbi | Tsympe,kale_sur,tahkimat | kale,"Q23413,Q57821"
+Q15781281,Abarnis,SIGHT,40.378253,26.734359,,,CC0-1.0,5,Abarnias,,arkeolojik_sit,arkeolojik sit | antik kent,"Q839954,Q15661340"
+Q2861312,Arisba,SIGHT,40.199817,26.542314,,Çanakkale (ilçe),CC0-1.0,5,Arisba,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q6050068,Bozcaada Kalesi,SIGHT,39.833333,26.066667,,Bozcaada,CC0-1.0,5,Bozcaada Castle,,kale_sur,kale | askeri üs | kale,"Q23413,Q57831,Q245016"
+Q6766045,Cape Helles Anıtı,SIGHT,40.045800,26.179200,,Eceabat ilçesi,CC0-1.0,5,Helles Memorial to the Missing,,anıt_heykel | mezar,Commonwealth War Graves Commission maintained memorial,Q65096167
+Q6343944,Kabatepe,SIGHT,40.207600,26.282400,,Eceabat ilçesi,CC0-1.0,5,Kabatepe,,müze,askeri müze | headland,"Q191992,Q2772772"
+Q1088486,Khrysa (Troad),SIGHT,39.536389,26.117500,,Ayvacık,CC0-1.0,5,Chryse (Troad),Göztepe Höyüğü,arkeolojik_sit,antik kent,Q15661340
+Q12879221,Kokylion,SIGHT,39.672910,26.410152,,Ayvacık,CC0-1.0,5,Cocylium,,arkeolojik_sit,polis | arkeolojik sit,"Q148837,Q839954"
+Q15241433,Lamponeia,SIGHT,39.535833,26.408889,,,CC0-1.0,5,Lamponeia,Lamponeia,arkeolojik_sit,insan yerleşimi | polis,"Q148837,Q486972"
+Q6489418,Larisa,SIGHT,39.615278,26.145278,,Ayvacık,CC0-1.0,5,Larisa,,arkeolojik_sit,arkeolojik sit | polis,"Q148837,Q839954"
+Q17050733,Limnai (Trakya),SIGHT,40.270560,26.272679,,Eceabat ilçesi,CC0-1.0,5,Limnae,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q28136355,Çanakkale Deniz Müzesi,SIGHT,40.148056,26.399722,,Çanakkale (ilçe),CC0-1.0,5,Çanakkale Naval Museum,Çanakkale Askeri Deniz Müzesi ve Parkı | Çanakkale Eski Belediye Binası,müze,deniz kuvvetleri müzesi | müze | denizcilik müzesi,"Q33506,Q1863818,Q26958661,Q35112127"
+Q3213827,Assos Tiyatrosu,SIGHT,39.488331,26.337823,,Ayvacık,CC0-1.0,4,theatre of Assos,,arkeolojik_sit,Yunan tiyatrosu,Q2860319
+Q112208753,Athena Ilias Tapınağı,SIGHT,39.957789,26.239213,,Çanakkale (ilçe),CC0-1.0,4,Temple of Athena at Ilion,,arkeolojik_sit,arkeolojik sit | tapınak,"Q44539,Q839954"
+Q18285621,Birytis,SIGHT,39.850278,26.375833,,Çanakkale (ilçe),CC0-1.0,4,Birytis,Biritis | Berytis | Berythis | Berysioi | Ada Tepe,arkeolojik_sit,antik kent,Q15661340
+Q21524488,Bozcaada Saat Kulesi,SIGHT,39.835316,26.068905,,,CC0-1.0,4,Bozcaada Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q4222817,Courtney's ve Steel's Post Mezarlığı,SIGHT,40.235600,26.288900,,Eceabat ilçesi,CC0-1.0,4,Courtney's and Steel's Post Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q6438560,Critote,SIGHT,40.406725,26.651664,,Gelibolu,CC0-1.0,4,Krithotai,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q5263157,Deris (Tracia),SIGHT,40.657809,26.808976,,Gelibolu,CC0-1.0,4,Derris,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q17629060,Didymoteikhos (Antik Anadolu),SIGHT,40.286031,27.274404,,,CC0-1.0,4,Didymateiche,,arkeolojik_sit,polis | arkeolojik sit,"Q148837,Q839954"
+Q65119757,Drabos,SIGHT,40.358138,26.335897,,Eceabat ilçesi,CC0-1.0,4,Drabus,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q28136539,Gelibolu Savaş Müzesi,SIGHT,40.406667,26.668056,,Gelibolu,CC0-1.0,4,Gelibolu War Museum,,müze,müze,Q33506
+Q21515193,Gentinos,SIGHT,39.876943,26.279146,,,CC0-1.0,4,Gentinos,,arkeolojik_sit,polis,Q148837
+Q17155131,Gergis (Troya),SIGHT,39.898491,26.609255,,,CC0-1.0,4,Gergis,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,polis | antik kent | anıt mezar,"Q34023,Q148837,Q162875,Q15661340"
+Q17633577,Harpagion,SIGHT,40.334274,27.391984,,,CC0-1.0,4,Harpagion,Harpagia | Harpageia,arkeolojik_sit,polis,Q148837
+Q5987818,Ide (Trakya),SIGHT,40.504079,26.689216,,Gelibolu,CC0-1.0,4,Ide,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q4222810,Johnston's Jolly Mezarlığı,SIGHT,40.232690,26.287410,,Eceabat ilçesi,CC0-1.0,4,Johnston's Jolly Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q17625751,Kolonai (Mysia),SIGHT,40.280800,26.910800,,,CC0-1.0,4,Colonae,,arkeolojik_sit,polis | antik kent,"Q148837,Q15661340"
+Q6436822,Kressa (Traakya),SIGHT,40.351152,26.625855,,Gelibolu,CC0-1.0,4,Kressa,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q4222835,Lancashire Landing Mezarlığı,SIGHT,40.053760,26.173590,,Eceabat ilçesi,CC0-1.0,4,Lancashire Landing Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q1670784,Marpessos,SIGHT,39.880278,26.520278,,Bayramiç (ilçe),CC0-1.0,4,Marpessos,,arkeolojik_sit,arkeolojik sit | insan yerleşimi,"Q486972,Q839954"
+Q4222818,Pembe Çiftlik Mezarlığı,SIGHT,40.072530,26.190960,,Eceabat ilçesi,CC0-1.0,4,Pink Farm Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q4222816,Quinn's Post Mezarlığı,SIGHT,40.238150,26.291680,,Eceabat ilçesi,CC0-1.0,4,Quinn's Post Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q132735631,"Roma Köprüsü, Biga",SIGHT,40.372864,27.309811,,Gelibolu,CC0-1.0,4,Roman Bridge of Biga,Akköprü,arkeolojik_sit | köprü,köprü | tarihî bina | güverte kemer köprüsü,"Q12280,Q1223230,Q14276458,Q35112127"
+Q941943,Truva VII,SIGHT,39.956417,26.239000,,,CC0-1.0,4,Troy VII,,arkeolojik_sit,arkeolojik sit,Q839954
+Q4222819,Twelve Tree Copse Mezarlığı,SIGHT,40.087800,26.214700,,Eceabat ilçesi,CC0-1.0,4,Twelve Tree Copse Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q4222814,Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı,SIGHT,40.253100,26.280800,,Eceabat ilçesi,CC0-1.0,4,New Zealand No.2 Outpost Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q6103642,Zeytinlik Höyük,SIGHT,40.133510,25.714309,,Gökçeada,CC0-1.0,4,Zeytinlik Archeological Site,,arkeolojik_sit,arkeolojik sit,Q839954
+Q4222807,7. Sahra Hastanesi Mezarlığı,SIGHT,40.261550,26.281175,,Eceabat ilçesi,CC0-1.0,3,7th Field Ambulance Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q39057885,Adatepe Zeytinyağı Müzesi,SIGHT,39.547500,26.601111,,Ayvacık,CC0-1.0,3,Adatepe Olive Oil Museum,,müze,müze,Q33506
+Q4222808,Anzak Arı Burnu Mezarlığı,SIGHT,40.238830,26.277160,,Eceabat ilçesi,CC0-1.0,3,Ari Burnu Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q65051874,Aphrodisias (Trakya),SIGHT,40.538708,26.834645,,,CC0-1.0,3,Aphrodisias,,arkeolojik_sit,antik kent,Q15661340
+Q4222809,Azmak Mezarlığı,SIGHT,40.320880,26.271170,,Eceabat ilçesi,CC0-1.0,3,Azmak Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q20473200,Babakale Kalesi,SIGHT,39.479444,26.064167,,Ayvacık,CC0-1.0,3,Babakale Castle,,kale_sur,hisar,Q1785071
+Q112210724,Bouleuterion (İlion),SIGHT,39.957005,26.239264,,Çanakkale (ilçe),CC0-1.0,3,Bouleuterion (Troy),,arkeolojik_sit,bouleuterion | arkeolojik sit,"Q751024,Q839954"
+Q4222822,Conk Bayırı Mezarlığı,SIGHT,40.251890,26.308840,,Eceabat ilçesi,CC0-1.0,3,Chunuk Bair Cemetery,Chunuk Bair Cemetary,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık | mezarlık,"Q39614,Q14750991"
+Q5602653,Green Hill Mezarlığı,SIGHT,40.293030,26.279830,,Eceabat ilçesi,CC0-1.0,3,Green Hill Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q49314090,Gökçeada Lagünü,ACTIVITY,40.132778,25.954444,,,CC0-1.0,3,Gökçeada Lagoon,Gökçeada Dalyanı | Gökçeada Tuz Gölü,göl,göl | deniz kulağı,"Q23397,Q187223"
+Q6043340,Kale-i Sultaniye,SIGHT,40.146361,26.399139,,,CC0-1.0,3,Çimenlik Castle,Kale-i Sultaniye,kale_sur,tahkimat,Q57821
+Q65119714,Kóbrys,SIGHT,40.589514,26.848989,,Gelibolu,CC0-1.0,3,Cobrys,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q6671347,Lone Pine Mezarlığı,SIGHT,40.230700,26.287120,,Eceabat ilçesi,CC0-1.0,3,Lone Pine Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q3335058,Nara Kalesi,SIGHT,40.196300,26.404000,,Çanakkale (ilçe),CC0-1.0,3,Nara Castle,Nara kalesi,kale_sur,kale,Q57831
+Q17155146,Ophryneion,SIGHT,40.022778,26.335000,,Çanakkale (ilçe),CC0-1.0,3,Ophryneion,Ofrinio | Ophrynium,arkeolojik_sit,insan yerleşimi | arkeolojik sit | polis,"Q148837,Q486972,Q839954"
+Q7125109,Paion (Trakya),SIGHT,40.505429,26.639597,,Gelibolu,CC0-1.0,3,Paion,,arkeolojik_sit,antik kent | polis | arkeolojik sit,"Q148837,Q839954,Q15661340"
+Q4222815,Plugge's Plateau Mezarlığı,SIGHT,40.237500,26.280320,,Eceabat ilçesi,CC0-1.0,3,Plugge's Plateau Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q7306197,Redoubt Mezarlığı,SIGHT,40.078070,26.214030,,Eceabat ilçesi,CC0-1.0,3,Redoubt Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q4365991,Sahil Mezarlığı (ANZAK),SIGHT,40.232990,26.276390,,Eceabat ilçesi,CC0-1.0,3,"Beach Cemetery, ANZAC",,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q114310966,Seddülbahir Fransız Mezarlığı,SIGHT,40.057500,26.211111,,Eceabat ilçesi,CC0-1.0,3,French cemetery of Seddul Bahr,,anıt_heykel,French military cemetery in a foreign country,Q97367384
+Q7534787,Skew Bridge Mezarlığı,SIGHT,40.059730,26.199820,,Eceabat ilçesi,CC0-1.0,3,Skew Bridge Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q7753391,The Nek Mezarlığı,SIGHT,40.242330,26.290350,,Eceabat ilçesi,CC0-1.0,3,The Nek Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q115779157,Troya Tapınağı,SIGHT,39.956944,26.237500,,,CC0-1.0,3,Sanctuary of Troy,,arkeolojik_sit,hieron,Q1617500
+Q1616641,Troya Tarihî Millî Parkı,ACTIVITY,39.957222,26.238611,,Çanakkale (ilçe),CC0-1.0,3,Troy National Park,Truva Tarihî Millî Parkı | Troya Millî Parkı | Truva Millî Parkı,milli_park_tabiat,millî park (Türkiye),Q108060568
+Q7907715,V Beach Mezarlığı,SIGHT,40.043560,26.183710,,Eceabat ilçesi,CC0-1.0,3,V Beach Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q7962182,Walker's Ridge Mezarlığı,SIGHT,40.241680,26.288220,,Eceabat ilçesi,CC0-1.0,3,Walker's Ridge Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q7503425,Şarapnel Vadisi Mezarlığı,SIGHT,40.233940,26.278370,,Eceabat ilçesi,CC0-1.0,3,Shrapnel Valley Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q131390755,Ahmed Bican Türbesi,SIGHT,40.408800,26.677300,,Gelibolu,CC0-1.0,2,Tomb of Ahmed-i Bican,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q65072726,Aianteion (Biga),SIGHT,39.993642,26.255600,,,CC0-1.0,2,Aianteion,,arkeolojik_sit,antik kent,Q15661340
+Q128034362,Antika Traktör Müzesi,SIGHT,40.407086,26.666838,,Gelibolu,CC0-1.0,2,Antique Tractor Museum,,müze,müze,Q33506
+Q65043752,Argyria (Biga),SIGHT,39.750179,27.222332,,Yenice (Çanakkale),CC0-1.0,2,Argyria,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q6082227,Aynalı Çarşı,SIGHT,40.146194,26.403944,,,CC0-1.0,2,Aynalı Çarşı,Halyo Çarşısı,çarşı_pazar,mimari yapı | çarşı,"Q219760,Q811979"
+Q4222812,Baby 700 Mezarlığı,SIGHT,40.242778,26.294444,,Eceabat ilçesi,CC0-1.0,2,Baby 700 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q123764842,Bozcaada (antik kent),SIGHT,39.827778,26.049722,,,CC0-1.0,2,Tenedos,,arkeolojik_sit,polis,Q148837
+Q4222834,Canterbury Mezarlığı (ANZAC),SIGHT,40.244400,26.283100,,Eceabat ilçesi,CC0-1.0,2,"Canterbury Cemetery, ANZAC",,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q65051904,Cypasis,SIGHT,40.625134,26.841143,,Gelibolu,CC0-1.0,2,Cypasis,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q19611037,Dur Yolcu,SIGHT,40.156224,26.373101,,Eceabat ilçesi,CC0-1.0,2,Stop Passenger! Monument,Dur Yolcu yazısı | Dur Yolcu Anıtı,anıt_heykel,yazıt | küçük anıt | Jeoglif,"Q45791,Q1640824,Q4989906,Q5003624"
+Q134961438,Gelibolu Rus Anıtı,SIGHT,40.414682,26.662681,,Gelibolu,CC0-1.0,2,,,anıt_heykel,anıt,Q4989906
+Q134978988,Gelibolu Şehitliği,SIGHT,40.420112,26.681587,,Gelibolu,CC0-1.0,2,,,anıt_heykel,askeri mezarlık,Q1241568
+Q131391518,Hallac-ı Mansur Türbesi,SIGHT,40.409786,26.678103,,Gelibolu,CC0-1.0,2,Hallac-ı Mansur Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q65073206,Hermaion,SIGHT,40.326329,27.057312,,,CC0-1.0,2,Hermoton,,arkeolojik_sit,antik kent,Q15661340
+Q5762011,Hill 10 Mezarlığı,SIGHT,40.312560,26.252380,,Eceabat ilçesi,CC0-1.0,2,Hill 10 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q5762031,Hill 60 Mezarlığı,SIGHT,40.272760,26.292760,,Eceabat ilçesi,CC0-1.0,2,Hill 60 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q123168879,Imbros,SIGHT,40.233306,25.900806,,Gökçeada,CC0-1.0,2,Imbros,,arkeolojik_sit,polis | arkeolojik sit,"Q148837,Q839954"
+Q65043740,Kale Peuke,SIGHT,39.793768,26.983187,,Yenice (Çanakkale),CC0-1.0,2,Kale Peuke,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q60791302,Kenchreai,SIGHT,39.963522,26.628763,,,CC0-1.0,2,Cenchreae,,arkeolojik_sit,antik kent,Q15661340
+Q65051890,Koila (Trakya),SIGHT,40.207121,26.367552,,,CC0-1.0,2,Koila,,arkeolojik_sit,antik kent | liman,"Q283202,Q15661340"
+Q65072773,Kremaste,SIGHT,40.090314,26.529575,,,CC0-1.0,2,Cremaste,,arkeolojik_sit,antik kent,Q15661340
+Q141133199,Kuzey Ege Deniz Millî Parkı,ACTIVITY,40.300000,25.820000,,,CC0-1.0,2,North Aegean Marine National Park,,milli_park_tabiat,millî park (Türkiye) | deniz millî parkı,"Q63352727,Q108060568"
+Q4222811,Lala Baba Mezarlığı,SIGHT,40.290000,26.239700,,Eceabat ilçesi,CC0-1.0,2,Lala Baba Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q65073212,Linus (Misya),SIGHT,40.431121,27.196542,,Biga (ilçe),CC0-1.0,2,Linus,Linos | Linum | Linon,arkeolojik_sit,antik kent,Q15661340
+Q116678078,Mıhlı şelalesi,ACTIVITY,39.584239,26.651730,,Ayvacık,CC0-1.0,2,Mıhlı Waterfall,,doğa,şelale,Q34038
+Q65072494,Polymedion,SIGHT,39.461577,26.149028,,Ayvacık,CC0-1.0,2,Polymedium,Polymedium,arkeolojik_sit,tarihi yer | arkeolojik sit,"Q839954,Q27916659"
+Q7321268,Rhoiteion,SIGHT,40.009200,26.300000,,Çanakkale (ilçe),CC0-1.0,2,Rhoiteion,,arkeolojik_sit,insan yerleşimi | arkeolojik sit | polis,"Q148837,Q486972,Q839954"
+Q12811583,Rumeli Mecidiye Tabyası,SIGHT,40.142902,26.376995,,Eceabat ilçesi,CC0-1.0,2,Rumeli Mecidiye Tabyası,,kale_sur,tabya,Q90754
+Q4222820,Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı,SIGHT,40.225980,26.280120,,Eceabat ilçesi,CC0-1.0,2,Shell Green Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q65072540,Skamandriya,SIGHT,39.837490,26.364872,,Ezine,CC0-1.0,2,Scamandria,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q65072495,Smintheion,SIGHT,39.536211,26.117750,,Ayvacık,CC0-1.0,2,Smintheion,Apollon Smintheion | Apollon Smintheion Ören Yeri,arkeolojik_sit | müze,antik kent | arkeolojik sit | müze,"Q33506,Q839954,Q15661340"
+Q131391519,Yazıcızade Mehmet Efendi Türbesi,SIGHT,40.408886,26.677212,,Gelibolu,CC0-1.0,2,Yazıcızade Mehmet Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q6101700,Yenibademli Höyük,SIGHT,40.217220,25.895529,,,CC0-1.0,2,Yenibademli Höyük,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q127386167,Çanakkale Kent Müzesi,SIGHT,40.148547,26.400813,,Çanakkale (ilçe),CC0-1.0,2,Çanakkale City Museum,Çanakkale Kent Müzesi ve Arşivi,müze,müze | özel müze,"Q33506,Q614316"
+Q21527403,Çanakkale Saat Kulesi,SIGHT,40.149618,26.402047,,Çanakkale (ilçe),CC0-1.0,2,Çanakkale Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q19613310,Çanakkale Televizyon Kulesi,SIGHT,40.106250,26.434639,,Çanakkale (ilçe),CC0-1.0,2,Çanakkale TV Tower,,kule,televizyon kulesi,Q11166728
+Q11705096,İlion,SIGHT,39.957500,26.238889,,,CC0-1.0,2,Ilium,,arkeolojik_sit,antik kent,Q15661340
+Q126741267,İlion,SIGHT,39.957222,26.238333,,,CC0-1.0,2,Ilion,,arkeolojik_sit,antik kent | arkeolojik sit | şehir-devlet,"Q133442,Q148837,Q839954,Q15661340"
+Q65072757,İlion Kome,SIGHT,39.949075,26.343922,,,CC0-1.0,2,Ilieon Kome,,arkeolojik_sit,antik kent,Q15661340
+Q131391812,Şerbetçi Baba Türbesi,SIGHT,40.409019,26.676887,,Gelibolu,CC0-1.0,2,Tomb of Şerbetçi Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q4222821,Ферма (Военное кладбище),SIGHT,40.254010,26.304650,,Eceabat ilçesi,CC0-1.0,2,The Farm Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık,Q14750991
+Q131738751,Alexandria Troas Herodes Atticus Hamamı,SIGHT,39.751156,26.166622,,Ezine,CC0-1.0,1,Alexandria Troas Herodes Atticus Baths,,han_hamam_çarşı,hamam,Q28077
+Q130315278,Apollon Smintheus Tapınağı,SIGHT,39.536111,26.117500,,Ayvacık,CC0-1.0,1,Temple of Apollo Smintheus,Apollon Smintheus Kutsal Alanı,arkeolojik_sit,Apollon tapınağı | ören yeri | tapınak,"Q44539,Q344162,Q1708422"
+Q25472309,Asar Kalesi,SIGHT,39.897250,27.217611,,Yenice (Çanakkale),CC0-1.0,1,Asar Castle,Asar Dağı Kalesi | Asar Kale,kale_sur,kale,Q57831
+Q139431425,Assos Nekropolis,SIGHT,39.490555,26.333344,,Ayvacık,CC0-1.0,1,,,arkeolojik_sit,Nekropol,Q200141
+Q132182282,Ballı Dağ,SIGHT,39.875833,26.290233,,Ezine,CC0-1.0,1,Mount Ballı,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390756,Bayraklı Baba Türbesi,SIGHT,40.410000,26.679900,,Gelibolu,CC0-1.0,1,Bayraklı Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q6005930,Bigalı Kalesi,SIGHT,40.213398,26.389263,,Eceabat ilçesi,CC0-1.0,1,Bigalı Castle,,kale_sur,bina | kale harabesi | kale,"Q41176,Q57831,Q17715832"
+Q6020439,Bozcaada Yerel Tarih Müzesi,SIGHT,39.834970,26.069468,,Bozcaada,CC0-1.0,1,Bozcaada Local History Museum,,müze,müze,Q33506
+Q49319088,Büyük Mağara,ACTIVITY,40.200000,26.476111,,,CC0-1.0,1,Büyük Mağara,,doğa,mağara,Q35509
+Q56015616,Conkbayırı,SIGHT,40.250312,26.307811,,,CC0-1.0,1,Chunuk Bair‎,,cazibe_unesco,yön bulma işareti | tepe,"Q54050,Q2319498"
+Q132134427,Gazi Yakup Bey Camii,SIGHT,40.374950,26.715837,,,CC0-1.0,1,Gazi Yakup Bey Mosque,,cami | külliye_medrese_türbe,cami | külliye,"Q32815,Q71974"
+Q21526093,Gelibolu Saat Kulesi,SIGHT,40.407083,26.671389,,Gelibolu,CC0-1.0,1,Gelibolu Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q139424476,Hamam (Smintheion),SIGHT,39.535922,26.117884,,Ayvacık,CC0-1.0,1,,,han_hamam_çarşı,hamam,Q28077
+Q6098987,Hanay Tepe Höyüğü,SIGHT,39.833229,26.230308,,,CC0-1.0,1,Hanay Höyüğü,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q6078064,Kalanuro Tepesi,SIGHT,40.367567,26.629200,,,CC0-1.0,1,Kalanuro Hill,Kalanuro Höyüğü,arkeolojik_sit | anıt_heykel,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q6097817,Karaağaçtepe Höyüğü,SIGHT,40.058233,26.192917,,,CC0-1.0,1,Karaağaçtepe Mound,Protesilaos Tümülüsü,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q6090987,Kaynarca Mevkii,SIGHT,40.379768,26.615238,,Gelibolu,CC0-1.0,1,Kaynarca Mevkii,,arkeolojik_sit,arkeolojik sit,Q839954
+Q131902412,Kilye Kalesi,SIGHT,40.200783,26.357033,,Eceabat ilçesi,CC0-1.0,1,Kilye Castle,,kale_sur,kale,Q23413
+Q65121329,Krise (Aiolis),SIGHT,39.585106,26.928091,,,CC0-1.0,1,Chryse,,arkeolojik_sit,antik kent,Q15661340
+Q6098044,Maydos Kilisetepe Höyüğü,SIGHT,40.184900,26.355983,,,CC0-1.0,1,Maydos Kilisetepe mound,Madytus | Maydos Kilisetepe,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit,"Q839954,Q1584134"
+Q126959441,Mecidiye Kalesi,SIGHT,40.163528,26.404444,,Çanakkale (ilçe),CC0-1.0,1,Mecidiye Castle,Köseburnu Kalesi,kale_sur,kale,Q57831
+Q131431119,Palaiperkote,SIGHT,40.236111,26.686389,,,CC0-1.0,1,Palaiperkote,,arkeolojik_sit,arkeolojik sit | antik kent,"Q839954,Q15661340"
+Q118133746,Seddülbahir Kalesi,SIGHT,40.042039,26.187887,,Eceabat ilçesi,CC0-1.0,1,Seddülbahir Castle,,kale_sur,kale,Q57831
+Q65072497,Tragasai,SIGHT,39.566516,26.172501,,Ayvacık,CC0-1.0,1,Tragasai,,arkeolojik_sit,antik kent | arkeolojik sit,"Q839954,Q15661340"
+Q65072733,Traron,SIGHT,39.999871,26.280528,,,CC0-1.0,1,Traron,,arkeolojik_sit,antik kent,Q15661340
+Q131901869,Çanakkale Hisarı,SIGHT,40.118736,26.529312,,Çanakkale (ilçe),CC0-1.0,1,Atikhisar Castle (Çanakkale),Gavurhisar Kalesi,kale_sur,kale,Q23413
+Q6063972,Çanakkale Piri Reis Müzesi ve Galerisi,SIGHT,40.152481,26.407242,,Çanakkale (ilçe),CC0-1.0,1,Çanakkale Piri Reis Museum and Gallery,Piri Reis Müzesi ve Galerisi,müze,üniversite müzesi | denizcilik müzesi,"Q866133,Q1863818"
+Q6102393,Çoşkuntepe,SIGHT,39.472435,26.162807,,Ayvacık,CC0-1.0,1,Coskuntepe,,arkeolojik_sit | anıt_heykel,arkeolojik sit | Neolithic settlement | höyük,"Q755017,Q839954,Q106491339"
+Q138030468,Üvecik tepe,SIGHT,39.900234,26.199306,,Ezine,CC0-1.0,1,Tomb of Festus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs | mezar odası,"Q34023,Q381885"
+Q132681922,"1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi",SIGHT,40.045513,26.188627,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze,Q33506
+Q137170050,Achaion,SIGHT,39.869656,26.148249,,Ezine,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q137170049,Agamnia Yerleşimi,SIGHT,39.962330,26.168550,,Ezine,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q139433477,Aianteion,SIGHT,39.999283,26.242949,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,antik kent,Q15661340
+Q139433468,Aigospotamoi,SIGHT,40.367641,26.629229,,Gelibolu,CC0-1.0,0,,,arkeolojik_sit,antik kent,Q15661340
+Q134728272,"Akhilleus Tümülüsü, Ezine",SIGHT,39.917099,26.159092,,Ezine,CC0-1.0,0,Tumulus of Achilles,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236754,Akköy Kaleyeri Yerleşimi,SIGHT,39.830761,26.357853,,Ezine,CC0-1.0,0,Akköy Kaleyeri,,kale_sur,kale,Q57831
+Q135959765,Akpınar Mevkii Tümülüsleri,SIGHT,39.811675,26.860093,,,CC0-1.0,0,Akpınar Locality Tumuli,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135959860,Aktaş Mevkii Tümülüsü,SIGHT,39.728145,26.157877,,Ezine,CC0-1.0,0,Aktaş Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q132183040,Alacalıgöl Höyüğü,SIGHT,39.956986,26.176212,,Çanakkale (ilçe),CC0-1.0,0,Alacalıgöl Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139430273,Alanköy 1 Tümülüsü,SIGHT,40.037430,26.792494,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135960175,Alanköy 2 Tümülüsü,SIGHT,40.035328,26.790136,,Çanakkale (ilçe),CC0-1.0,0,Alanköy 2 Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236429,Alanköy Kalesi,SIGHT,40.028027,26.788551,,Çanakkale (ilçe),CC0-1.0,0,Alanköy Castle,,kale_sur,kale,Q57831
+Q135583297,Alem Sultan Türbesi ve Namazgah,SIGHT,40.376737,26.716493,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,namazgah | türbe,"Q838159,Q6028970"
+Q131390480,Alemşah Türbesi,SIGHT,39.698100,26.172200,,Ezine,CC0-1.0,0,Alemşah Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q103139956,Alexandria Troas (Samian Ware Discovery Site),SIGHT,39.760000,26.160000,,,CC0-1.0,0,Alexandria Troas (Samian Ware Discovery Site),,arkeolojik_sit,Samian Ware Discovery Site | arkeolojik sit,"Q839954,Q102202066"
+Q115285590,Alexandria Troas Antik Tiyatrosu,SIGHT,39.746922,26.158184,,Ezine,CC0-1.0,0,Ancient Theater of Alexandria Troas,,arkeolojik_sit,Antik Roma tiyatrosu | arkeolojik sit,"Q19757,Q839954"
+Q139433338,Alexandria Troas Stadyumu,SIGHT,39.754021,26.148874,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,antik stadyum,Q124302244
+Q134960292,Ambartarla Yerleşimi,SIGHT,40.125336,26.475956,,Çanakkale (ilçe),CC0-1.0,0,Ambartarla,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139437190,Anadolu Hamidiye Tabyası,SIGHT,40.137730,26.403971,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437094,Anadolu Mecidiye Tabyası,SIGHT,40.163296,26.404762,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q134728083,"Antik Mezar Kalıntısı, Akçakeçili",SIGHT,39.697978,26.165434,,Ezine,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q131523754,Apalir Mevki Manastırı,SIGHT,40.191257,25.847033,,Gökçeada,CC0-1.0,0,Monastery of Apalir Mevkii,,manastır_sinagog,manastır,Q44613
+Q133236093,Arabakonağı Kalesi,SIGHT,40.268650,26.971199,,,CC0-1.0,0,Arabakonağı Castle,,kale_sur,kale | harabe,"Q57831,Q109607"
+Q135959813,Arabakonağı Mevkii Tümülüs Bölgesi,SIGHT,40.111805,26.913502,,,CC0-1.0,0,Arabakonağı Locality Tumulus Area,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131390762,Arslan Dede Türbesi,SIGHT,40.148100,26.405000,,Çanakkale (ilçe),CC0-1.0,0,Tomb of Arslan Dede,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q133236648,Asarkale Kalesi,SIGHT,40.396606,26.879093,,,CC0-1.0,0,Asarkale Castle,,kale_sur,kale,Q57831
+Q139424885,Asarkaletepe Kalesi,SIGHT,40.749562,26.888734,,Gelibolu,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q132182281,Asarlık-Eski Hisarlık,SIGHT,39.881683,26.297300,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182304,Asartepe,SIGHT,40.270800,26.487917,,Eceabat ilçesi,CC0-1.0,0,Asartepe,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131902067,Asartepe Kale Yerleşimi,SIGHT,39.964802,26.759501,,,CC0-1.0,0,Asartepe Castle,,kale_sur,kale,Q23413
+Q103143701,Assos (Samian Ware Discovery Site),SIGHT,39.500000,26.310000,,,CC0-1.0,0,Assos (Samian Ware Discovery Site),,arkeolojik_sit,Samian Ware Discovery Site | arkeolojik sit,"Q839954,Q102202066"
+Q131739003,Asılhan Bey Hamamı,SIGHT,39.759315,26.235409,,Ezine,CC0-1.0,0,Asılhan Bey Baths,Kemallı Hamamı,han_hamam_çarşı,hamam,Q28077
+Q135960176,Atikhisar Tümülüsü,SIGHT,40.128921,26.509525,,Çanakkale (ilçe),CC0-1.0,0,Atikhisar Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139428700,Avtepe Mevkii Tümülüsü,SIGHT,39.948448,26.310484,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131523752,Aya Anastasia Manastırı,SIGHT,40.206780,25.809320,,Gökçeada,CC0-1.0,0,Monastery of Agia Anastasia,,manastır_sinagog,manastır,Q44613
+Q131523781,Aya Arseni Manastırı,SIGHT,40.184101,25.816900,,Gökçeada,CC0-1.0,0,Monastery of Agia Eirini,,manastır_sinagog,manastır,Q44613
+Q131523751,Aya Dimitri Manastırı (Gökçeada),SIGHT,40.207451,25.832277,,Gökçeada,CC0-1.0,0,Monastery of Agios Dimitrios (Gökçeada),,manastır_sinagog,manastır,Q44613
+Q131523755,Aya Dimitri Manastırı (Zeytinli),SIGHT,40.190804,25.869657,,Gökçeada,CC0-1.0,0,Monastery of Agios Dimitrios (Zeytinli),,manastır_sinagog,manastır,Q44613
+Q131523760,Aya Eftim Manastırı,SIGHT,40.155102,25.765499,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523758,Aya Eleni Manastırı,SIGHT,40.160301,25.766399,,Gökçeada,CC0-1.0,0,Monastery of Agia Eleni,,manastır_sinagog,manastır,Q44613
+Q131523759,Aya Konstantin Manastırı,SIGHT,40.203201,25.788700,,Gökçeada,CC0-1.0,0,Monastery of Agios Konstantinos,,manastır_sinagog,manastır,Q44613
+Q131523750,Aya Nikola Manastırı (Gökçeada),SIGHT,40.198944,25.783033,,Gökçeada,CC0-1.0,0,Monastery of Agios Nikolaos (Gökçeada),,manastır_sinagog,manastır,Q44613
+Q131523778,Aya Padelemon Manastırı,SIGHT,40.143902,25.834000,,Gökçeada,CC0-1.0,0,Monastery of Agios Panteleimon,,manastır_sinagog,manastır,Q44613
+Q131523753,Aya Panayia Manastırı,SIGHT,40.207684,25.820360,,Gökçeada,CC0-1.0,0,Monastery of Agia Panagia (Gökçeada),,manastır_sinagog,manastır,Q44613
+Q131523777,Aya Panayia Manastırı (Tepeköy),SIGHT,40.153301,25.820400,,Gökçeada,CC0-1.0,0,Monastery of Agia Panagia (Tepeköy),,manastır_sinagog,manastır,Q44613
+Q131523783,Aya Saradi Manastırı,SIGHT,40.153500,25.806500,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523782,Aya Triada Manastırı,SIGHT,40.173599,25.829100,,Gökçeada,CC0-1.0,0,Monastery of Agia Triada,,manastır_sinagog,manastır,Q44613
+Q131523776,Aya Yani Manastırı,SIGHT,40.149898,25.815700,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523780,Aya İstirati Manastırı,SIGHT,40.168999,25.846300,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523787,Aya İstirati Manastırı (Tepeköy),SIGHT,40.177101,25.822300,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523757,Ayakuruna Mevki Manastırı,SIGHT,40.190487,25.836634,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523718,Ayazma Manastırı,SIGHT,39.813679,26.014700,,Bozcaada,CC0-1.0,0,Monastery of the Holy Well,,manastır_sinagog,manastır,Q44613
+Q132182299,Ağaçköy Çiftlik Höyük,SIGHT,39.815733,26.570350,,,CC0-1.0,0,Ağaçköy Çiftlik Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391204,Baba Sultan Türbesi,SIGHT,39.480000,26.064100,,Ayvacık,CC0-1.0,0,Tomb of Baba Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131738779,Babakale Hamamı,SIGHT,39.478901,26.065901,,Ayvacık,CC0-1.0,0,Babakale Baths,,han_hamam_çarşı,hamam,Q28077
+Q131523756,Bahçeler Mevki Manastırı,SIGHT,40.219555,25.906158,,Gökçeada,CC0-1.0,0,Monastery of Bahçeler Mevkii,,manastır_sinagog,manastır,Q44613
+Q131390753,Bahşi Yahya Türbesi,SIGHT,39.683500,26.277900,,Ezine,CC0-1.0,0,Tomb of Bahşi Yahya,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139430410,Bakacak Tümülüsleri,SIGHT,40.203960,27.069490,,Biga (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131523786,Balomeni Manastırı,SIGHT,40.196098,25.769199,,Gökçeada,CC0-1.0,0,Monastery of Balomeni,,manastır_sinagog,manastır,Q44613
+Q134960314,Balontepe Höyüğü,SIGHT,39.792842,26.335818,,Ezine,CC0-1.0,0,Balontepe Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q115291915,Baths of Herodes Atticus,SIGHT,39.751385,26.166597,,,CC0-1.0,0,Baths of Herodes Atticus,,arkeolojik_sit,Roma hamamı | arkeolojik sit,"Q839954,Q6581615"
+Q139437089,Baykuş Bataryası,SIGHT,40.105003,26.318888,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437091,Baykuş Mesudiye Tabyası,SIGHT,40.107059,26.327639,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q131523775,Bağlar Mevki Manastırı,SIGHT,40.223202,25.910700,,Gökçeada,CC0-1.0,0,Monastery of Bağlar Mevkii,,manastır_sinagog,manastır,Q44613
+Q135959864,Bağlimanı Mevkii Tümülüsü,SIGHT,39.888165,26.162006,,Ezine,CC0-1.0,0,Bağlimanı Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131901872,Behram Kale,SIGHT,39.492815,26.332566,,Ayvacık,CC0-1.0,0,Behram Castle,,kale_sur,kale,Q23413
+Q132182302,Beşik Tepe (Kolonai),SIGHT,39.708850,26.159917,,Ezine,CC0-1.0,0,Beşik Hill (Kolonai),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q133236649,Biberler Kale Yerleşmesi,SIGHT,40.170013,26.746708,,,CC0-1.0,0,Biberler Kale Yerleşmesi,,kale_sur,kale,Q57831
+Q132682019,Bigalı Köyü 19.Tümen Müzesi,SIGHT,40.236185,26.360078,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze,Q33506
+Q132682018,Bigalı Köyü Atatürk Karargah Müzesi,SIGHT,40.236796,26.358849,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze,Q33506
+Q139437104,Bolayır Ay Tabya,SIGHT,40.498596,26.753199,,Gelibolu,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437110,Bolayır Merkez Tabya,SIGHT,40.496250,26.734316,,Gelibolu,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437105,Bolayır Yıldız Tabya,SIGHT,40.503670,26.712952,,Gelibolu,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437107,Bozcaada Tabyası,SIGHT,39.836647,26.073093,,Bozcaada,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139430156,Budaklar Köyü Nekropol Alanı,SIGHT,39.625488,26.374878,,Ayvacık,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q132682017,Büyük Anafarta Köyü Özay Gündoğan Müzesi,SIGHT,40.281709,26.328484,,Eceabat ilçesi,CC0-1.0,0,,10 Ağustos 1915 Anafartalar Savaş Koleksiyonu,müze,müze,Q33506
+Q134728263,Büyük Anafarta Şehitliği,SIGHT,40.282272,26.324720,,Eceabat ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar | askeri mezarlık,"Q162875,Q1241568"
+Q133245816,"Büyük Hamam, Seddülbahir",SIGHT,40.043282,26.188351,,Eceabat ilçesi,CC0-1.0,0,Büyük Hamam (Seddülbahir),,han_hamam_çarşı,hamam,Q28077
+Q139430451,Büyükhusun Dolmen Bölgesi,SIGHT,39.514313,26.382612,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,dolmen,Q101659
+Q134735169,Büyüktepe Köyü Nekropol Alanı,SIGHT,40.008078,27.051798,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q131523764,Cafer Çeşmesi Mevki Manastırı,SIGHT,40.186401,25.924101,,Gökçeada,CC0-1.0,0,Monastery of Cafer Çeşme Mevkii,,manastır_sinagog,manastır,Q44613
+Q131390749,Cahidi Sultan Türbesi,SIGHT,40.147600,26.376800,,Eceabat ilçesi,CC0-1.0,0,Cahidi Sultan Tomb,Cahidi Ahmet Efendi Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131902089,"Damyeri Kale Yerleşimi, Çanakkale",SIGHT,40.174290,26.554640,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,kale,Q23413
+Q139437097,Dardanos Tabyası,SIGHT,40.085728,26.371181,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q134728427,Dardanos Tümülüsü,SIGHT,40.076088,26.363083,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q134728306,Dede Tepe Tümülüsü,SIGHT,40.320202,27.342216,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q135959866,Dedeninyanı Tümülüsü,SIGHT,39.697475,26.410795,,Ezine,CC0-1.0,0,Dedeninyani Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q134728392,Demetrius Tümülüsü,SIGHT,39.960789,26.168167,,Ezine,CC0-1.0,0,Demetrius Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q139428347,Depetarla Mevkii Mezarlık Alanı,SIGHT,39.556523,26.487581,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q135959875,Dereköy Tümülüsü,SIGHT,40.110613,25.801665,,Gökçeada,CC0-1.0,0,Dereköy Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139437189,Değirmenburnu Tabyası Kilitbahir,SIGHT,40.158569,26.375828,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437194,Domuzdere Tabyası Eceabat,SIGHT,40.074333,26.252483,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139430319,Elmalı Köyü III Tümülüsü,SIGHT,40.143829,27.262175,,Biga (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135959777,Elmalı Köyü VI Tümülüsü,SIGHT,40.163330,27.256233,,,CC0-1.0,0,Elmalı Village VI Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135959775,Elmalı Köyü VII Tümülüsü,SIGHT,40.163208,27.256506,,,CC0-1.0,0,Elmalı Village VII Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131390759,Emir Ali Baba Türbesi,SIGHT,40.417418,26.679948,,Gelibolu,CC0-1.0,0,Tomb of Emir Ali Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q133236235,Erecek Kalesi,SIGHT,39.570606,26.311201,,Ayvacık,CC0-1.0,0,Erecek Castle,,kale_sur,kale,Q57831
+Q139437102,Ertuğrul Tabyası,SIGHT,40.044666,26.181190,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q135960965,Eski Bağlar Mevkii Tümülüsü,SIGHT,39.802569,27.215139,,Yenice (Çanakkale),CC0-1.0,0,Eski Bağlar Mevkii Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236430,Evkaya Kalesi Yerleşimi,SIGHT,40.116409,26.497862,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139428946,Eğrek Başı Mevkii Nekropolü,SIGHT,40.407170,27.074380,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q139430383,Fenerbayırı Tepesi Nekropol Alanı,SIGHT,40.403065,26.770626,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q139430223,Fuğla Mevkii Gözetleme Kulesi,SIGHT,39.748596,26.563421,,Bayramiç (ilçe),CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q132182279,Fığla Tepe,SIGHT,39.895000,26.308917,,Ezine,CC0-1.0,0,Fığla Hill,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q137170030,Gargara,SIGHT,39.540577,26.520994,,Ayvacık,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q134590887,Gazi Süleyman Paşa Camii,SIGHT,40.514361,26.755575,,Gelibolu,CC0-1.0,0,,,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe,"Q32815,Q838159"
+Q131390760,Gazi Süleyman Paşa Türbesi,SIGHT,40.515800,26.755600,,Gelibolu,CC0-1.0,0,Gazi Suleyman Pasha Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132752835,Gazi Yakup Paşa Hanı,SIGHT,40.374600,26.716463,,,CC0-1.0,0,Gazi Yakup Paşa Hanı,Tarihi Çardak Hanı,han_hamam_çarşı,kervansaray,Q186347
+Q133236670,Gelibolu Kalesi,SIGHT,40.406014,26.671242,,Gelibolu,CC0-1.0,0,Gelibolu Castle,,kale_sur,kale,Q57831
+Q131738703,Geyikli Hamamı,SIGHT,39.803318,26.206509,,Ezine,CC0-1.0,0,Geyikli Baths,,han_hamam_çarşı,hamam,Q28077
+Q132681916,Gökçeada Kent Müzesi,SIGHT,40.194134,25.903719,,Gökçeada,CC0-1.0,0,Gökçeada City Museum,,müze,müze,Q33506
+Q139430404,Gözetleme Kulesi (Karabiga),SIGHT,40.465977,27.272707,,Biga (ilçe),CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q139429929,Gözetleme Kulesi (Sarıcaeli),SIGHT,40.107757,26.441370,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q132182691,Güneyli Limanı Yerleşimi,SIGHT,40.509769,26.697697,,Gelibolu,CC0-1.0,0,Güneyli Port,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131523765,Güneytepe Mevki Manastırı,SIGHT,40.189301,25.940700,,Gökçeada,CC0-1.0,0,Monastery of Güneytepe Mevkii,,manastır_sinagog,manastır,Q44613
+Q131523762,Güzelceköy Mevki Manastırı,SIGHT,40.184200,25.943300,,Gökçeada,CC0-1.0,0,Monastery of Güzelceköy Mevkii,,manastır_sinagog,manastır,Q44613
+Q131523768,Güzelceköy Mevki Manastırı 2,SIGHT,40.185299,25.972799,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523769,Güzelceköy Mevki Manastırı 3,SIGHT,40.166599,25.963400,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139437049,HMS Bouvet Batığı,SIGHT,40.040466,26.296650,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,gemi enkazı,Q852190
+Q131390751,Hacıbaba Celaleddin Topçu Türbesi,SIGHT,39.683010,26.277810,,Ezine,CC0-1.0,0,Hacıbaba Celaleddin Topçu Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132682046,Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi,SIGHT,39.810317,26.611705,,,CC0-1.0,0,,,müze,müze,Q33506
+Q139436800,Halep Vapuru,SIGHT,40.219463,26.449245,,Eceabat ilçesi,CC0-1.0,0,,,arkeolojik_sit,gemi enkazı,Q852190
+Q131390745,Halil İbrahim Efendi Türbesi,SIGHT,39.527700,26.326800,,Ayvacık,CC0-1.0,0,Halil İbrahim Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390748,Halil İbrahim Onbaşı Türbesi,SIGHT,40.044800,26.182300,,Eceabat ilçesi,CC0-1.0,0,Halil İbrahim Corporal Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132681921,Halimbey Konağı Kent Müzesi,SIGHT,40.227402,27.240839,,,CC0-1.0,0,,,müze,müze,Q33506
+Q139425192,Hamam (Gelibolu),SIGHT,40.406910,26.669424,,Gelibolu,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139421944,Hamam (Umurbey),SIGHT,40.234227,26.607018,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139428594,Hamam (Çardak),SIGHT,40.374155,26.715973,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q133245755,"Hamam, Gökçebayır",SIGHT,39.790764,26.255798,,Ezine,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q133245788,"Hamam, Karainebeyli",SIGHT,40.349251,26.431711,,Gelibolu,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q133245857,"Hamam, Kösedere",SIGHT,39.629124,26.183872,,Ayvacık,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q133245753,"Hamam, Kızılkeçili",SIGHT,40.205678,26.595853,,Çanakkale (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q134960956,Hamamtepe Höyüğü,SIGHT,40.363850,26.506233,,Gelibolu,CC0-1.0,0,Hamamtepe Höyüğü,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q132182273,Hanay Tepe,SIGHT,39.908533,26.293067,,Ezine,CC0-1.0,0,Hanay Hill,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182285,Hantepe,SIGHT,39.804867,26.157050,,Ezine,CC0-1.0,0,Hantepe,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132182690,"Harmatos Antik Kenti, Koruoba",SIGHT,39.481106,26.260243,,Ayvacık,CC0-1.0,0,Harmatos,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135960964,Haydaroba Bulamaç Mevkii Tümülüsü,SIGHT,39.906648,27.430216,,Yenice (Çanakkale),CC0-1.0,0,Haydaroba Bulamaç Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135960177,Hektor Tümülüsü,SIGHT,40.023910,26.341999,,Çanakkale (ilçe),CC0-1.0,0,Hektor Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131738746,Hıdırlar Hamam Kalıntısı ve Kaplıca,SIGHT,39.844959,27.155579,,Yenice (Çanakkale),CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139430389,Işıklar Köyü Nekropolü,SIGHT,40.154194,26.498346,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q132182284,"Işıldak Tepe, Çanakkale",SIGHT,40.005233,26.289950,,Çanakkale (ilçe),CC0-1.0,0,Işıldak Hill (Çanakkale),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139428139,Işıldaktepe Altı Mevkii Tümülüsü,SIGHT,40.005858,26.289403,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q132682020,Kabatepe Tanıtma Merkezi Ve Müzesi,SIGHT,40.206794,26.281231,,Eceabat ilçesi,CC0-1.0,0,,Çanakkale Destanı Tanıtım Merkezi,müze,müze,Q33506
+Q139430137,Kabaçyakası Mevkii Yerleşimi,SIGHT,39.548859,26.161047,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139425274,Kadir Baba Türbesi,SIGHT,40.137474,26.364182,,Eceabat ilçesi,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131523761,Kalam Mevki Manastırı,SIGHT,40.140701,25.746000,,Gökçeada,CC0-1.0,0,Monastery of Kalam Mevkii,,manastır_sinagog,manastır,Q44613
+Q131902307,Kalealtı Kalesi,SIGHT,40.693199,26.800226,,Gelibolu,CC0-1.0,0,Kalealtı Castle,,kale_sur,kale,Q23413
+Q133236096,Kaleköy Kalesi,SIGHT,40.234409,25.897938,,Gökçeada,CC0-1.0,0,Kaleköy Castle,,kale_sur,kale | harabe,"Q57831,Q109607"
+Q133236431,"Kaletepe Kalesi, Gelibolu",SIGHT,40.659561,26.752453,,Gelibolu,CC0-1.0,0,Kaletepe Castle (Gelibolu),,kale_sur,kale,Q57831
+Q133236756,"Kaletepe Yerleşimi, Ezine",SIGHT,39.868023,26.434258,,Ezine,CC0-1.0,0,Kaletepe (Ezine),,kale_sur,kale,Q57831
+Q133236404,Kaleüstü Tepesi Kalesi,SIGHT,39.548607,26.379375,,Ayvacık,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139429174,Kalıntı (Karaömerler),SIGHT,40.269357,26.796893,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q133245758,Kangırlı Köyü Hamamı,SIGHT,40.230267,26.579269,,,CC0-1.0,0,Kangırlı Köyü Baths,,han_hamam_çarşı,hamam,Q28077
+Q131523766,Kanyeri Mevki Manastırı,SIGHT,40.198200,25.965200,,Gökçeada,CC0-1.0,0,Monastery of Kanyeri Mevkii,,manastır_sinagog,manastır,Q44613
+Q131391520,Kaptan-ı Derya Saruca Paşa Türbesi,SIGHT,40.411099,26.678152,,Gelibolu,CC0-1.0,0,Tomb of Admiral Saruca Pasha,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391521,Kaptan-ı Derya Sinan Paşa Türbesi,SIGHT,40.418438,26.680166,,Gelibolu,CC0-1.0,0,Tomb of Admiral Sinan Pasha,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131901871,Karabiga Surlar,SIGHT,40.412303,27.324114,,,CC0-1.0,0,Karabiga Surlar,,kale_sur,kale,Q23413
+Q131523749,Karabot Mevki Manastırı,SIGHT,40.157349,25.773718,,Gökçeada,CC0-1.0,0,Monastery of Karabot Mevkii,,manastır_sinagog,manastır,Q44613
+Q139425194,Karaca Ahmed Dede Türbesi,SIGHT,40.407172,26.668995,,Gelibolu,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132182692,Karainbeyli Asarlık Tepe Yerleşimi,SIGHT,40.351467,26.393078,,Gelibolu,CC0-1.0,0,Karainbeyli,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q133235966,Karakaya Tepesi Kale Yerleşimi,SIGHT,39.938175,27.148537,,Yenice (Çanakkale),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q134728265,Karayörük Deresi Şehitliği,SIGHT,40.225513,26.291199,,Eceabat ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar | askeri mezarlık,"Q162875,Q1241568"
+Q134960291,Kardia Antik Kenti,SIGHT,40.548824,26.741510,,Gelibolu,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131738506,Kasap Hamamı,SIGHT,40.409766,26.673445,,Gelibolu,CC0-1.0,0,Kasap Baths,Kasapoğlu Ali Bey Hamamı,han_hamam_çarşı,hamam,Q28077
+Q139430252,Kaya Mezarı (Cazgirler),SIGHT,39.965713,26.752233,,Bayramiç (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139430267,Kaya Mezarı (Halilağa),SIGHT,39.913254,26.859821,,Çan (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139429868,Kaya Mezarı (Kayadere),SIGHT,40.130143,26.542983,,Çanakkale (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139430046,Kaya Mezarı (Kemel),SIGHT,40.161190,26.547608,,Çanakkale (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139430387,Kaya Mezarı (Sazlı),SIGHT,39.550884,26.436773,,Ayvacık,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139430312,Kaya Mezarı (Söğütalan),SIGHT,39.882862,26.859569,,Çan (ilçe),CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q139430360,Kaya Mezarı (Çınarlı),SIGHT,40.157513,25.959789,,Gökçeada,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q133236753,Kayalı Tepe Kale Yerleşimi,SIGHT,39.916000,26.739845,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131390750,Kaşıklı Baba Türbesi,SIGHT,40.150900,26.377800,,Eceabat ilçesi,CC0-1.0,0,Kaşıklı Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139430425,Kekliktepe Tümülüsü,SIGHT,40.565868,26.832355,,Gelibolu,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236380,Kepez Tepe Kalesi,SIGHT,39.538845,26.172384,,Ayvacık,CC0-1.0,0,Kepez Hill Castle,,kale_sur,kale,Q57831
+Q139428131,Keçilen Mevkii Nekropol Alanı,SIGHT,40.073834,26.457022,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q132682027,Kilidbahir Namazgah Tabyası Müzesi,SIGHT,40.146100,26.380050,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze,Q33506
+Q139437109,Kilye Lodos Tabyası,SIGHT,40.193573,26.356331,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437108,Kilye Poyraz Tabyası,SIGHT,40.204304,26.368256,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q135959716,Kireçlik Mevkii Tümülüsü,SIGHT,39.528175,26.292612,,Ayvacık,CC0-1.0,0,Kireçlik Locality Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135959763,Koca Tarla Tümülüsü,SIGHT,39.731838,26.580812,,,CC0-1.0,0,Koca Tarla Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139436999,Kocadere Korugan 1,SIGHT,40.232311,26.276033,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139428706,Korugan (Dalyan),SIGHT,39.761347,26.148207,,Ezine,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139433911,Korugan (Güneyli Köyü),SIGHT,40.509323,26.697201,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139435305,Korugan 1 (Çanakkale),SIGHT,40.599850,26.868551,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434509,Korugan 10 (Çanakkale),SIGHT,40.525234,26.778782,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434507,Korugan 11 (Çanakkale),SIGHT,40.523102,26.771519,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434506,Korugan 12 (Çanakkale),SIGHT,40.523830,26.770811,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434504,Korugan 15 (Çanakkale),SIGHT,40.514679,26.776987,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434500,Korugan 16 (Çanakkale),SIGHT,40.513317,26.775738,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434498,Korugan 17 (Çanakkale),SIGHT,40.507355,26.778711,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434497,Korugan 18 (Çanakkale),SIGHT,40.514965,26.768065,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139435304,Korugan 2 (Çanakkale),SIGHT,40.584423,26.846294,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434493,Korugan 21 (Çanakkale),SIGHT,40.516766,26.746935,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434492,Korugan 22 (Çanakkale),SIGHT,40.513145,26.740986,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434488,Korugan 23 (Çanakkale),SIGHT,40.513809,26.736839,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434486,Korugan 24 (Çanakkale),SIGHT,40.512463,26.731739,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434485,Korugan 25 (Çanakkale),SIGHT,40.509460,26.721886,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434483,Korugan 26 (Çanakkale),SIGHT,40.504887,26.712044,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434482,Korugan 27 (Çanakkale),SIGHT,40.499817,26.719515,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434480,Korugan 28 (Çanakkale),SIGHT,40.499462,26.720074,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434478,Korugan 29 (Çanakkale),SIGHT,40.499329,26.720610,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434520,Korugan 3 (Çanakkale),SIGHT,40.510120,26.758997,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434475,Korugan 30 (Çanakkale),SIGHT,40.499039,26.721237,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434474,Korugan 31 (Çanakkale),SIGHT,40.494988,26.726107,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434468,Korugan 32 (Çanakkale),SIGHT,40.495075,26.726851,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434466,Korugan 33 (Çanakkale),SIGHT,40.494965,26.727522,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434465,Korugan 34 (Çanakkale),SIGHT,40.494816,26.728315,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434463,Korugan 35 (Çanakkale),SIGHT,40.525116,26.765226,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434462,Korugan 36 (Çanakkale),SIGHT,40.521412,26.795374,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434460,Korugan 37 (Çanakkale),SIGHT,40.521702,26.795900,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434459,Korugan 38 (Çanakkale),SIGHT,40.521599,26.796173,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434519,Korugan 4 (Çanakkale),SIGHT,40.510498,26.759104,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434456,Korugan 40 (Çanakkale),SIGHT,40.521313,26.793390,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434455,Korugan 41 (Çanakkale),SIGHT,40.518570,26.803072,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434448,Korugan 42 (Çanakkale),SIGHT,40.519138,26.803457,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434445,Korugan 45 (Çanakkale),SIGHT,40.598869,26.867832,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434444,Korugan 46 (Çanakkale),SIGHT,40.581398,26.862228,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434443,Korugan 47 (Çanakkale),SIGHT,40.585453,26.859562,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434441,Korugan 48 (Çanakkale),SIGHT,40.583942,26.864895,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434440,Korugan 49 (Çanakkale),SIGHT,40.584206,26.865517,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434517,Korugan 5 (Çanakkale),SIGHT,40.514961,26.768093,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434438,Korugan 50 (Çanakkale),SIGHT,40.586510,26.869993,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434437,Korugan 51 (Çanakkale),SIGHT,40.586391,26.869717,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434436,Korugan 52 (Çanakkale),SIGHT,40.591694,26.865938,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434430,Korugan 53 (Çanakkale),SIGHT,40.591904,26.868366,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434427,Korugan 54 (Çanakkale),SIGHT,40.590603,26.869814,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434425,Korugan 55 (Çanakkale),SIGHT,40.591354,26.888620,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434424,Korugan 56 (Çanakkale),SIGHT,40.584263,26.890772,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434422,Korugan 57 (Çanakkale),SIGHT,40.595203,26.869755,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434420,Korugan 58 (Çanakkale),SIGHT,40.594803,26.873520,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434419,Korugan 59 (Çanakkale),SIGHT,40.594048,26.874729,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434513,Korugan 6 (Çanakkale),SIGHT,40.513340,26.775732,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434418,Korugan 60 (Çanakkale),SIGHT,40.594029,26.876347,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434417,Korugan 63 (Çanakkale),SIGHT,40.591034,26.885012,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434411,Korugan 64 (Çanakkale),SIGHT,40.590294,26.890999,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434408,Korugan 65 (Çanakkale),SIGHT,40.587730,26.896832,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434406,Korugan 66 (Çanakkale),SIGHT,40.586750,26.898869,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434404,Korugan 67 (Çanakkale),SIGHT,40.584278,26.900690,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434403,Korugan 68 (Çanakkale),SIGHT,40.582096,26.904400,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434402,Korugan 69 (Çanakkale),SIGHT,40.580444,26.907253,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434401,Korugan 70 (Çanakkale),SIGHT,40.580288,26.898142,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434400,Korugan 71 (Çanakkale),SIGHT,40.590462,26.879194,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434398,Korugan 72 (Çanakkale),SIGHT,40.590485,26.882872,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434393,Korugan 73 (Çanakkale),SIGHT,40.588493,26.855200,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434388,Korugan 74 (Çanakkale),SIGHT,40.582100,26.848936,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434387,Korugan 75 (Çanakkale),SIGHT,40.580322,26.848886,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434386,Korugan 76 (Çanakkale),SIGHT,40.512272,26.745895,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434384,Korugan 77 (Çanakkale),SIGHT,40.516804,26.748947,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434382,Korugan 82 (Çanakkale),SIGHT,40.500023,26.731117,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434381,Korugan 83 (Çanakkale),SIGHT,40.500484,26.731289,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434378,Korugan 84 (Çanakkale),SIGHT,40.501019,26.731064,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434377,Korugan 85 (Çanakkale),SIGHT,40.501343,26.730572,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434374,Korugan 87 (Çanakkale),SIGHT,40.491451,26.734047,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434512,Korugan 9 (Çanakkale),SIGHT,40.522926,26.776018,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434369,Korugan 90 (Çanakkale),SIGHT,40.489754,26.734755,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434368,Korugan 91 (Çanakkale),SIGHT,40.486755,26.727951,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434365,Korugan 92 (Çanakkale),SIGHT,40.486580,26.728396,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434363,Korugan 93 (Çanakkale),SIGHT,40.486298,26.728762,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434362,Korugan 94 (Çanakkale),SIGHT,40.580578,26.891228,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q139434360,Korugan 95 (Çanakkale),SIGHT,40.501072,26.737028,,Gelibolu,CC0-1.0,0,,,kale_sur,korugan,Q92069
+Q131901912,Kumkale Kalesi,SIGHT,40.006526,26.198691,,Çanakkale (ilçe),CC0-1.0,0,Kumkale Castle,Sultaniye Kalesi,kale_sur,kale,Q23413
+Q133245856,Kumkale Kalesi Hamamı,SIGHT,40.006142,26.199810,,Çanakkale (ilçe),CC0-1.0,0,Kumkale Castle Baths,,han_hamam_çarşı,hamam,Q28077
+Q139437095,Kumkale Tabyası,SIGHT,40.007927,26.198633,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q132856526,Kumkale Çakaltepe Battery,SIGHT,40.000182,26.260552,,Çanakkale (ilçe),CC0-1.0,0,Kumkale Çakaltepe Battery,,kale_sur,artillery battery,Q56344492
+Q132182277,"Kumtepe, Çanakkale",SIGHT,39.978917,26.195967,,Çanakkale (ilçe),CC0-1.0,0,Kumtepe (Çanakkale),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q133236107,Kuşaklıdağ Tepesi Kalesi,SIGHT,39.901301,26.587284,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q134960945,Kuşburnu Höyüğü,SIGHT,40.506374,26.634010,,Gelibolu,CC0-1.0,0,Kuşburnu Höyüğü,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q132182301,Kümbet Kocabahce,SIGHT,39.764900,26.239617,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q137170033,Künk Dağı Yerleşimi,SIGHT,39.913899,26.805187,,,CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q131739055,Küçük Hamam,SIGHT,40.043510,26.188824,,Eceabat ilçesi,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139429935,Kırmacı Mevkii Tümülüsü,SIGHT,39.532171,26.341880,,Ayvacık,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139430385,Kırıklar Köyü Nekropol Alanı,SIGHT,39.776833,27.303087,,Yenice (Çanakkale),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q134728305,Kızöldün Tümülüsü,SIGHT,40.272717,27.304911,,,CC0-1.0,0,Kızöldün Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q132681822,Kızılay Ağadere Müzesi,SIGHT,40.160336,26.369781,,Eceabat ilçesi,CC0-1.0,0,Kızılay Ağadere Museum,,müze,müze,Q33506
+Q134960293,Lysimacheia,SIGHT,40.577652,26.886848,,Gelibolu,CC0-1.0,0,Lysimacheia,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131902091,"Madenkaya Kalesi, Çanakkale",SIGHT,40.046989,26.560614,,Çanakkale (ilçe),CC0-1.0,0,Madenkaya Castle (Çanakkale),Kaletaş Tepe Kale Yerleşimi,kale_sur,kale,Q23413
+Q131523774,Manastır (Bademli),SIGHT,40.223064,25.905207,,Gökçeada,CC0-1.0,0,Monastery of Bademli,,manastır_sinagog,manastır,Q44613
+Q139430308,Manastır 1 (Bozcaada),SIGHT,39.835861,26.069422,,Bozcaada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139430310,Manastır 2 (Bozcaada),SIGHT,39.828781,26.010382,,Bozcaada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523772,Manastır 2 – Çınarlı,SIGHT,40.183102,25.893700,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139433564,Manastır 3 – Çınarlı,SIGHT,40.175800,25.905701,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q131523763,Manastır – Çınarlı,SIGHT,40.188202,25.907499,,Gökçeada,CC0-1.0,0,Monastery of Çınarlı,,manastır_sinagog,manastır,Q44613
+Q132182654,Marpessos Yerleşimi,SIGHT,39.880280,26.520279,,,CC0-1.0,0,Marpessos,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391197,Mersin Dede Türbesi,SIGHT,40.147300,26.404200,,Çanakkale (ilçe),CC0-1.0,0,Mersin Dede Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139436795,Mesudiye Tabyası,SIGHT,40.055111,26.354586,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q134960952,Mezarlık Höyük,SIGHT,40.662827,26.883001,,Gelibolu,CC0-1.0,0,Mezarlık Höyük,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q131391660,Mustafa Aslan Efendi Türbesi,SIGHT,39.810406,26.613957,,,CC0-1.0,0,Mustafa Aslan Efendi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139422142,Mıhlı Nekropolü,SIGHT,39.558549,26.628033,,Ayvacık,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q131901870,Naendria Kalesi,SIGHT,39.713047,26.272082,,Ezine,CC0-1.0,0,Naendria Castle,Çığrıdağı Kalesi,kale_sur,kale,Q23413
+Q139437206,Namazgah Tabyası Kilitbahir,SIGHT,40.145958,26.380337,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139436798,Nara Tabyası,SIGHT,40.195705,26.404924,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q131391608,Nedime Hanım Türbesi,SIGHT,40.142765,26.404766,,Çanakkale (ilçe),CC0-1.0,0,Nedime Hanım Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139428702,Nekropol (Üçpınar),SIGHT,40.133672,26.718781,,,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q132681739,"Nuri Yamut Anıtı, Sığındere",SIGHT,40.101528,26.211117,,Eceabat ilçesi,CC0-1.0,0,Nuri Yamut Monument (Sığındere),,müze,müze,Q33506
+Q132681931,Nusret Mayın Gemisi Replikası,SIGHT,40.148872,26.398718,,Çanakkale (ilçe),CC0-1.0,0,,Nusrat Mayın Gemisi,müze,müze,Q33506
+Q139437193,Orhaniye Tabyası,SIGHT,39.993053,26.185995,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q137170071,Ortaca Köyü Asarlık Yerleşimi,SIGHT,40.071903,26.625696,,Çanakkale (ilçe),CC0-1.0,0,,,arkeolojik_sit,arkeolojik sit,Q839954
+Q131902090,Osmanlar Köyü Asarlıktepe Kale Yerleşimi,SIGHT,40.096481,26.678949,,,CC0-1.0,0,,Haliloğlu Köyü | Bodurlar Köyü,kale_sur,kale,Q23413
+Q134728426,Palai Skepsis (Troad),SIGHT,39.852680,26.803461,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q139437080,Palazbaba Tabyası,SIGHT,40.145935,26.376705,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139430438,Paleo Perkote,SIGHT,40.227917,26.677185,,,CC0-1.0,0,,,arkeolojik_sit,antik kent,Q15661340
+Q135960081,Pamukderesi Mevkii Tümülüsleri,SIGHT,40.325380,26.754151,,,CC0-1.0,0,Pamukderesi Locality Tumuli,,anıt_heykel | mezar | arkeolojik_sit,tümülüs,Q34023
+Q139430443,Parion Güney Nekropolü,SIGHT,40.416412,27.070136,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q133245784,Parion Hamam,SIGHT,40.425659,27.069608,,,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q133245785,Parion Hamamı,SIGHT,40.425747,27.067759,,,CC0-1.0,0,Parion Baths,,han_hamam_çarşı,hamam,Q28077
+Q135583030,Parion Odeon,SIGHT,40.424192,27.068000,,,CC0-1.0,0,Odeon of Parion,,arkeolojik_sit,Yunan tiyatrosu | odeon,"Q1143046,Q2860319"
+Q112662697,Parion Tiyatrosu,SIGHT,40.425751,27.066961,,,CC0-1.0,0,"Parion, Theatre",,arkeolojik_sit,Antik Roma tiyatrosu,Q19757
+Q112662701,"Parion, Roman baths",SIGHT,40.425770,27.067709,,,CC0-1.0,0,"Parion, Roman baths",,arkeolojik_sit,arkeolojik sit | Roma hamamı,"Q839954,Q6581615"
+Q134728393,Paşatepe Tümülüsü,SIGHT,39.946049,26.245930,,Çanakkale (ilçe),CC0-1.0,0,Paşatepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q139425188,Piri Baba Anıt Mezarı,SIGHT,40.408362,26.672019,,Gelibolu,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q134728085,Publius Varius Aquila Mezarı,SIGHT,39.489921,26.334371,,Ayvacık,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q131523771,Rosalado Mevki Manastırı,SIGHT,40.193600,25.872900,,Gökçeada,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139437103,Rumeli Hamidiye Tabyası,SIGHT,40.143005,26.377451,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139437106,Rumeli Yıldız Tabyası,SIGHT,40.136955,26.361238,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q135959780,Rüzgarlıtepe Tümülüsü,SIGHT,40.353191,27.338383,,,CC0-1.0,0,Rüzgarlıtepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139432098,SS Milo Batığı,SIGHT,40.241306,26.279228,,Eceabat ilçesi,CC0-1.0,0,,,arkeolojik_sit,gemi enkazı,Q852190
+Q132682028,Salim Mutlu Özel Harp Anıları Müzesi,SIGHT,40.094801,26.225258,,Eceabat ilçesi,CC0-1.0,0,,,müze,müze,Q33506
+Q139421933,Saltık Mevkii Tümülüsü,SIGHT,40.231052,26.548991,,Çanakkale (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139436582,Sapan Kalesi,SIGHT,40.120148,26.948816,,Çan (ilçe),CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139421408,Sarıcapaşa Çifte Hamam,SIGHT,40.408384,26.668648,,Gelibolu,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q132182305,Savrantepe,SIGHT,39.832267,26.320933,,Ezine,CC0-1.0,0,Savrantepe,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131523785,Savur Mevki Manastırı,SIGHT,40.118698,25.775200,,Gökçeada,CC0-1.0,0,Monastery of Savur Mevkii,,manastır_sinagog,manastır,Q44613
+Q139429397,Sazak Derealan Tümülüsü 1,SIGHT,39.899030,27.156324,,Yenice (Çanakkale),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139429396,Sazak Derealan Tümülüsü 2,SIGHT,39.898398,27.156254,,Yenice (Çanakkale),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135959764,Saçlı Tümülüsü,SIGHT,39.731008,26.567936,,,CC0-1.0,0,Saclı Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139436797,Seddülbahir Kalesi Tabyası,SIGHT,40.041477,26.189348,,Eceabat ilçesi,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q132682026,Seddülbahir Çanakkale Savaşları Galerisi,SIGHT,40.146442,26.407421,,Çanakkale (ilçe),CC0-1.0,0,,,müze,müze,Q33506
+Q131738704,Seferşah Hamamı,SIGHT,39.787025,26.336130,,Ezine,CC0-1.0,0,Seferşah Baths,,han_hamam_çarşı,hamam,Q28077
+Q132182689,"Serçeler Köyü Tepetarla Yerleşimi, Çanakkale",SIGHT,40.046257,26.572237,,Çanakkale (ilçe),CC0-1.0,0,Serçeler (Çanakkale),,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390746,Seyyid Süleyman Türbesi,SIGHT,39.618113,26.427471,,Ayvacık,CC0-1.0,0,Seyyid Suleiman Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131902088,"Sivricetepe Kalesi, Çanakkale",SIGHT,40.046410,26.633177,,Çanakkale (ilçe),CC0-1.0,0,Sivricetepe Castle (Çanakkale),,kale_sur,kale,Q23413
+Q134728124,Son Ok Anıtı,SIGHT,40.098274,26.222254,,Eceabat ilçesi,CC0-1.0,0,Son Ok Monument,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q134960953,Tadinin Höyüğü,SIGHT,40.641232,26.835699,,Gelibolu,CC0-1.0,0,Tadinin Höyüğü,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q131902070,Tavaklı Sakar Dağı Kalesi,SIGHT,39.663971,26.206436,,Ezine,CC0-1.0,0,,,kale_sur,kale,Q23413
+Q121543499,Tomb of Protesilaus,SIGHT,40.044700,26.189000,,,CC0-1.0,0,Tomb of Protesilaus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q134960954,Trapezya,SIGHT,40.120991,25.913937,,Gökçeada,CC0-1.0,0,,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q139437191,Turgut Reis Tabyası,SIGHT,40.046890,26.361841,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139428150,Tümbek Tepe Tümülüsü,SIGHT,39.733578,26.355425,,Ezine,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135960082,Tümbektepe Tümülüsü,SIGHT,40.349125,26.831772,,,CC0-1.0,0,Tumbektepe Tumulus,,anıt_heykel | mezar | arkeolojik_sit,tümülüs,Q34023
+Q135959774,Tümbelez Tepe Tümülüsü,SIGHT,40.397736,27.290371,,,CC0-1.0,0,Tumbelez Hill Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131390752,Ulu Sultan Türbesi,SIGHT,39.683510,26.277820,,Ezine,CC0-1.0,0,Tomb of the Great Sultan,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132183003,Uğurlu Höyük,SIGHT,37.306360,30.480206,,Gökçeada,CC0-1.0,0,Uğurlu Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131523779,Votar Mevki Manastırı,SIGHT,40.173302,25.846001,,Gökçeada,CC0-1.0,0,Monastery of Votar Mevkii,,manastır_sinagog,manastır,Q44613
+Q131523784,Vurla Mevki Manastırı,SIGHT,40.148499,25.778000,,Gökçeada,CC0-1.0,0,Monastery of Vurla Mevkii,,manastır_sinagog,manastır,Q44613
+Q135583291,Vuslan Dede Türbesi,SIGHT,40.301093,26.476248,,Gelibolu,CC0-1.0,0,Vuslan Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390747,Yahşi Bey Türbesi,SIGHT,39.750400,26.458600,,,CC0-1.0,0,Yahşi Bey Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131738507,Yalı Hamamı,SIGHT,40.148235,26.400437,,Çanakkale (ilçe),CC0-1.0,0,Yalı Baths,,han_hamam_çarşı,hamam,Q28077
+Q132752844,Yalı Han,SIGHT,40.148888,26.400661,,Çanakkale (ilçe),CC0-1.0,0,Yalı Han (Çanakkale),,han_hamam_çarşı,kervansaray,Q186347
+Q133245685,"Yapı Kalıntısı, Akçakeçili",SIGHT,39.710396,26.187265,,Ezine,CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q134728264,Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği,SIGHT,40.283035,26.323359,,Eceabat ilçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar | askeri mezarlık,"Q162875,Q1241568"
+Q133236675,Yeni Kale Bozcaada,SIGHT,39.836552,26.066019,,Bozcaada,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q135959773,Yeni Mahalle Tümülüsü,SIGHT,40.395843,27.295841,,,CC0-1.0,0,New Neighborhood Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139428074,Yolaltı Mevkii Höyüğü,SIGHT,39.837240,26.875751,,Bayramiç (ilçe),CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135959761,Yukarıpalamut Tümülüsü,SIGHT,39.904105,26.533890,,,CC0-1.0,0,Yukarıpalamut Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236090,Yülüce Kalesi,SIGHT,40.726864,26.974604,,Gelibolu,CC0-1.0,0,Yülüce Castle,,kale_sur,kale | harabe,"Q57831,Q109607"
+Q131390757,Zeynel Arap Türbesi,SIGHT,40.412100,26.676900,,Gelibolu,CC0-1.0,0,Zeynel Arab Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q139437112,Çakaltepe Tabyası,SIGHT,40.010281,26.303585,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139430330,Çakırlı Köyü Nekropol Alanı,SIGHT,40.374145,27.145569,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q133236650,Çal Kalesi,SIGHT,39.972210,27.154480,,Yenice (Çanakkale),CC0-1.0,0,Çal Castle,,kale_sur,kale,Q57831
+Q132182716,Çalca Höyüğü,SIGHT,40.048641,26.964218,,,CC0-1.0,0,Çalca Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131901911,Çamburnu Kalesi,SIGHT,40.169811,26.369205,,Eceabat ilçesi,CC0-1.0,0,Çamburnu Castle,,kale_sur,kale,Q23413
+Q6059138,Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi,SIGHT,40.113052,26.420981,,Çanakkale (ilçe),CC0-1.0,0,"Çanakkale Onsekiz Mart University, Earth Science and Natural History Museum",ÇOMÜ Yer Bilimleri Müzesi,müze,üniversite müzesi,Q866133
+Q131738785,Çanakkale Seramik Müzesi,SIGHT,40.157047,26.412329,,Çanakkale (ilçe),CC0-1.0,0,Çanakkale Museum of Ceramics,Hasan Rahmi Paşa Hamamı | Çanakkale Askeri Er Hamamı,han_hamam_çarşı,hamam,Q28077
+Q139437117,Çanakkale Sinagogu,SIGHT,40.146374,26.405361,,Çanakkale (ilçe),CC0-1.0,0,,,manastır_sinagog,sinagog,Q34627
+Q139437098,Çimenlik Tabyası,SIGHT,40.146309,26.398985,,Çanakkale (ilçe),CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q139429393,Çobantaşı Nekropolü,SIGHT,39.937492,26.690558,,Bayramiç (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q132182278,"Çobantepe, Çanakkale",SIGHT,40.000717,26.258000,,Çanakkale (ilçe),CC0-1.0,0,Çobantepe (Çanakkale),Tavolia Antik Şehri | Tektop Tepe,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139430044,Çınar Tarla Mevkii Nekropol Alanı,SIGHT,40.386762,27.171766,,Biga (ilçe),CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q135583301,Çıplak Dede Türbesi,SIGHT,39.951250,26.261766,,Çanakkale (ilçe),CC0-1.0,0,Çıplak Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q135959869,Çıraktepe Tümülüsü,SIGHT,40.552254,26.799475,,Gelibolu,CC0-1.0,0,Çıraktepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236099,Çırpılar Kalesi,SIGHT,39.832451,27.339964,,Yenice (Çanakkale),CC0-1.0,0,Çırpılar Castle,Çırpılar Asarkale,kale_sur,kale | harabe,"Q57831,Q109607"
+Q139429229,Örenli Kazandibi Mevkii Tümülüsü,SIGHT,39.759992,26.643360,,Bayramiç (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q131738844,Özbek Köyü Hamamı ve Çeşmesi,SIGHT,40.166061,26.473618,,Çanakkale (ilçe),CC0-1.0,0,,,han_hamam_çarşı,hamam,Q28077
+Q139437115,Üsküfçü Mezarlığı,SIGHT,39.736055,26.313290,,Ezine,CC0-1.0,0,,,arkeolojik_sit,Nekropol,Q200141
+Q100138106,Üvecik Tepe,SIGHT,39.900234,26.199306,,Ezine,CC0-1.0,0,Üvecik Tepe,Festus Tümülüsü,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q139429911,Üvek Bayırı Tümülüsü,SIGHT,40.269465,27.274429,,Biga (ilçe),CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q133236757,Üçpınar Kalesi,SIGHT,40.124065,26.717684,,,CC0-1.0,0,Üçpınar Castle,,kale_sur,kale,Q57831
+Q132182275,İn Limanı,SIGHT,39.869000,26.149150,,Ezine,CC0-1.0,0,,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139433495,İnkaya Mağarası,ACTIVITY,40.033668,26.930872,,Çan (ilçe),CC0-1.0,0,,,doğa,mağara,Q35509

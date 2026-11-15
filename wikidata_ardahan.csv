@@ -1,64 +1,64 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q421825,Aktaş Gölü,ACTIVITY,41.214722,43.214722,,,CC0-1.0,26,Kartsakhi Lake,Hazapin Gölü,göl,göl
-Q272986,Çıldır Gölü,ACTIVITY,41.044600,43.255600,,,CC0-1.0,25,Lake Çıldır,,göl,göl
-Q2725241,Yalnızçam Dağları,SIGHT,41.391150,42.520100,,,CC0-1.0,21,Yalnızçam Mountains,,,sıradağ
-Q7265250,Kol Kalesi,SIGHT,41.441544,42.630692,,,CC0-1.0,6,Queli Castle,Kol Kalesi | Kuveli Kalesi,kale_sur,kale
-Q6034823,Ardahan Kalesi,SIGHT,41.118333,42.703028,,,CC0-1.0,5,Ardahan Castle,,kale_sur,kale
-Q61952652,Ali Manastırı,SIGHT,41.491995,42.770537,,,CC0-1.0,4,Ali Monastery,Ali Aziz Giorgi Manastırı,manastır_sinagog,manastır
-Q16379628,Caki Kalesi,SIGHT,41.507333,42.802028,,,CC0-1.0,4,Jaki Fortress,,kale_sur,kale
-Q65293071,Dadaşeni Kilisesi,SIGHT,40.905056,42.534889,,Göle İlçesi,CC0-1.0,3,Dadaşeni Church,,kilise,kilise
-Q31355461,Guguba Kilisesi,SIGHT,41.201611,43.019583,,,CC0-1.0,3,Goguba church,Gogiuba Kilisesi,kilise,kilise
-Q65285973,Mere Kilisesi,SIGHT,41.495788,42.717145,,,CC0-1.0,3,Mere Church,Mere Kalesi Kilisesi,kilise,kilise
-Q85973078,Mgeltsihe,SIGHT,41.258500,43.139778,,,CC0-1.0,3,Mgeltsihe Fortress,,kale_sur,kale
-Q16379552,Tskarostavi Kilisesi,SIGHT,41.239139,43.164528,,,CC0-1.0,3,Tskarostavi Church,,kilise,kilise
-Q65293153,Çaisi Kilisesi,SIGHT,41.207056,43.135917,,,CC0-1.0,3,Chaisi Church,Çayis Kilisesi | Kayabeyi Köyü Camii,kilise,kilise
-Q65293183,Cicori,SIGHT,40.960833,42.535833,,,CC0-1.0,2,,,kilise,kilise
-Q117487013,Gönülaçan Köyü Camii,SIGHT,41.573250,42.729028,,,CC0-1.0,2,Gönülaçan Mosque,Gönülaçan Köyü Camii,kilise,kilise
-Q6539122,Mevlüt Efendi Camii,SIGHT,41.117972,42.699889,,,CC0-1.0,2,Mevlüt Efendi Mosque,Yanık Camii | Halil Efendi Camii,cami,cami
-Q123120275,Mglinavi Kalesi,SIGHT,41.199917,42.839806,,,CC0-1.0,2,,Kırnav Kalesi | Mglivani Kalesi,kale_sur,kale
-Q125223015,Tuya Kalesi,SIGHT,41.515000,42.785261,,,CC0-1.0,2,Tuya Castle,,kale_sur,kale
-Q65286089,Vardosani Kalesi,SIGHT,41.266694,42.739056,,,CC0-1.0,2,Vardosani Castle,,kale_sur,kale
-Q31355448,Zegani Kilisesi,SIGHT,41.266667,43.087083,,,CC0-1.0,2,Zegani Church,Zaki Kilisesi,kilise,kilise
-Q118955936,Çançahi Kalesi,SIGHT,41.463643,42.854302,,,CC0-1.0,2,Çançahi Castle,Savaşır Kalesi,kale_sur,kale
-Q110259734,İ.G. Papaskir Anı Müzesi,SIGHT,41.008200,42.996800,,,CC0-1.0,2,,,müze,müze
-Q117488407,Şuatzkali Kilisesi,SIGHT,41.573250,42.729028,,,CC0-1.0,2,,,kilise,kilise
-Q118957354,Arila Kalesi,SIGHT,41.463272,42.867697,,,CC0-1.0,1,Arila Castle,,kale_sur,kale
-Q136486695,Beberi Kalesi,SIGHT,41.027214,42.816739,,,CC0-1.0,1,Beberi Castle,,kale_sur,hisar
-Q136520883,Beçi Kalesi,SIGHT,40.968889,42.481639,,,CC0-1.0,1,Beçi Castle,,kale_sur,hisar
-Q123193106,Harosman Mağaraları,ACTIVITY,41.183972,42.892444,,,CC0-1.0,1,Harosman Caves,Tzkarosmani Mağaraları | Mağaro Mağaraları | Harosmani Mağaraları,doğa,mağara
-Q119844004,Hunamisi Kalesi,SIGHT,41.475944,42.679639,,,CC0-1.0,1,,Hunemis Kalesi,kale_sur,kale
-Q119166160,Kinzi Kalesi,SIGHT,41.063694,42.375778,,,CC0-1.0,1,Kinzi Castle,Kindzotamali Kalesi,kale_sur,kale
-Q131765309,Kvabistsihe,SIGHT,41.148382,42.790007,,Ardahan (ilçe),CC0-1.0,1,,Kazan Kale,kale_sur,kale
-Q118929922,Mağlisa,SIGHT,41.209957,43.002049,,,CC0-1.0,1,,,kale_sur | kule,gözetleme kulesi
-Q118955873,Mere Kalesi,SIGHT,41.496139,42.717583,,,CC0-1.0,1,Mere Castle,Çakırkoç Kalesi,kale_sur,kale
-Q120117136,Orbuha Kalesi,SIGHT,41.267361,42.743972,,,CC0-1.0,1,,,kale_sur,kale
-Q126489830,Petrisi Kalesi,SIGHT,41.241200,43.062717,,,CC0-1.0,1,Petrisi Castle,Petresi Kalesi,kale_sur | kule,gözetleme kulesi
-Q124611402,Uri Kalesi,SIGHT,41.160564,42.881744,,,CC0-1.0,1,Uri Castle,Altaş Kalesi | Uri Kalesi,kale_sur,kale
-Q123535897,Uğurtaşı Dörtkilise Kilisesi,SIGHT,40.933892,42.470625,,,CC0-1.0,1,Uğurtaşı Dörtkilise Church,Dört Kilise Manastırı,manastır_sinagog | kilise,kilise | manastır | harabe
-Q6101472,Veli Kalesi,SIGHT,41.156104,42.979127,,,CC0-1.0,1,Veli Castle,Sevimli Kalesi,kale_sur,tahkimat
-Q133236375,"Ana Kapı, Ardahan Kalesi",SIGHT,41.117134,42.701744,,,CC0-1.0,0,Main Gate of the Ardahan Castle,,kale_sur,kale
-Q126915862,Ardahan Kalesi,SIGHT,41.117828,42.702614,,,CC0-1.0,0,Ardahan Castle,,kale_sur,kale
-Q131901961,Ardanyak Kalesi,SIGHT,41.054436,42.439480,,,CC0-1.0,0,Ardanyak Castle,,kale_sur,kale
-Q133236147,Aşağı Çançahi Kalesi,SIGHT,41.466381,42.853153,,,CC0-1.0,0,Aşağı Çançahi Castle,,kale_sur,kale
-Q139421422,Bellitepe Köyü Kalesi,SIGHT,40.920802,42.542280,,,CC0-1.0,0,,,kale_sur,kale
-Q139429205,Chuanteli Kalesi,SIGHT,41.563889,42.780242,,,CC0-1.0,0,,,kale_sur,kale
-Q133236155,Erema Kalesi,SIGHT,41.590333,42.745075,,,CC0-1.0,0,Erema Castle,,kale_sur,kale
-Q139429223,Gudaneti Kalesi,SIGHT,41.281857,42.802556,,,CC0-1.0,0,,,kale_sur,kale
-Q139433653,Harosman Mağaraları,ACTIVITY,41.184059,42.892208,,,CC0-1.0,0,,,doğa,mağara
-Q133236378,"Huruç Kapısı, Ardahan Kalesi",SIGHT,41.118088,42.704533,,,CC0-1.0,0,Huruç Gate (Ardahan Castle,,kale_sur,kale
-Q131901980,"Kale, Gülistan",SIGHT,40.846333,42.783360,,,CC0-1.0,0,,,kale_sur,kale
-Q131901843,"Kalecik Kalesi, Ardahan",SIGHT,40.968655,42.481213,,,CC0-1.0,0,Ardahan Kalecik Castle,,kale_sur,kale
-Q131901958,Kan Kalesi,SIGHT,41.014555,43.226645,,,CC0-1.0,0,Kan Castle,,kale_sur,kale
-Q139431705,Kaznafar Kulesi,SIGHT,41.004623,42.427666,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi
-Q131901957,Kotanlı Kalesi,SIGHT,41.154037,43.044338,,,CC0-1.0,0,Kotanlı Castle,,kale_sur,kale
-Q131901948,Kurt Kale,SIGHT,41.258243,43.139180,,,CC0-1.0,0,Kurt Castle,,kale_sur,kale
-Q139429251,Kveli Manastırı,SIGHT,41.454728,42.630347,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q133236511,Munus Kalesi,SIGHT,41.342278,42.925190,,,CC0-1.0,0,Munus Castle,,kale_sur,kale
-Q139429215,Orgharta Manastırı,SIGHT,41.446914,42.780217,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139437165,Ramazan Tabyası,SIGHT,41.151653,42.713833,,,CC0-1.0,0,,,kale_sur,tabya
-Q131901960,Sarma Kalesi,SIGHT,40.911924,42.595704,,,CC0-1.0,0,Sarma Castle,,kale_sur,kale
-Q133236377,"Su Kapısı, Ardahan Kalesi",SIGHT,41.117504,42.704704,,,CC0-1.0,0,,,kale_sur,kale
-Q133236150,Tsurtskabi Kalesi,SIGHT,41.433147,42.660293,,,CC0-1.0,0,,,kale_sur,kale
-Q133236153,Zemo Khanaki Kalesi,SIGHT,41.263436,42.826792,,,CC0-1.0,0,,,kale_sur,kale
-Q131902126,Çıldır Akçakale Kalesi,SIGHT,41.078892,43.284759,,,CC0-1.0,0,Çıldır Akçakale Castle,Ağca Kala,kale_sur,kale
-Q133236152,Ğvinia Kalesi,SIGHT,41.497614,42.697233,,,CC0-1.0,0,,,kale_sur,kale
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q421825,Aktaş Gölü,ACTIVITY,41.214722,43.214722,,,CC0-1.0,26,Kartsakhi Lake,Hazapin Gölü,göl,göl,Q23397
+Q272986,Çıldır Gölü,ACTIVITY,41.044600,43.255600,,,CC0-1.0,25,Lake Çıldır,,göl,göl,Q23397
+Q2725241,Yalnızçam Dağları,SIGHT,41.391150,42.520100,,,CC0-1.0,21,Yalnızçam Mountains,,,sıradağ,Q46831
+Q7265250,Kol Kalesi,SIGHT,41.441544,42.630692,,,CC0-1.0,6,Queli Castle,Kol Kalesi | Kuveli Kalesi,kale_sur,kale,Q57831
+Q6034823,Ardahan Kalesi,SIGHT,41.118333,42.703028,,,CC0-1.0,5,Ardahan Castle,,kale_sur,kale,Q57831
+Q61952652,Ali Manastırı,SIGHT,41.491995,42.770537,,,CC0-1.0,4,Ali Monastery,Ali Aziz Giorgi Manastırı,manastır_sinagog,manastır,Q44613
+Q16379628,Caki Kalesi,SIGHT,41.507333,42.802028,,,CC0-1.0,4,Jaki Fortress,,kale_sur,kale,Q23413
+Q65293071,Dadaşeni Kilisesi,SIGHT,40.905056,42.534889,,Göle İlçesi,CC0-1.0,3,Dadaşeni Church,,kilise,kilise,Q16970
+Q31355461,Guguba Kilisesi,SIGHT,41.201611,43.019583,,,CC0-1.0,3,Goguba church,Gogiuba Kilisesi,kilise,kilise,Q16970
+Q65285973,Mere Kilisesi,SIGHT,41.495788,42.717145,,,CC0-1.0,3,Mere Church,Mere Kalesi Kilisesi,kilise,kilise,Q16970
+Q85973078,Mgeltsihe,SIGHT,41.258500,43.139778,,,CC0-1.0,3,Mgeltsihe Fortress,,kale_sur,kale,Q57831
+Q16379552,Tskarostavi Kilisesi,SIGHT,41.239139,43.164528,,,CC0-1.0,3,Tskarostavi Church,,kilise,kilise,Q16970
+Q65293153,Çaisi Kilisesi,SIGHT,41.207056,43.135917,,,CC0-1.0,3,Chaisi Church,Çayis Kilisesi | Kayabeyi Köyü Camii,kilise,kilise,Q16970
+Q65293183,Cicori,SIGHT,40.960833,42.535833,,,CC0-1.0,2,,,kilise,kilise,Q16970
+Q117487013,Gönülaçan Köyü Camii,SIGHT,41.573250,42.729028,,,CC0-1.0,2,Gönülaçan Mosque,Gönülaçan Köyü Camii,kilise,kilise,Q16970
+Q6539122,Mevlüt Efendi Camii,SIGHT,41.117972,42.699889,,,CC0-1.0,2,Mevlüt Efendi Mosque,Yanık Camii | Halil Efendi Camii,cami,cami,Q32815
+Q123120275,Mglinavi Kalesi,SIGHT,41.199917,42.839806,,,CC0-1.0,2,,Kırnav Kalesi | Mglivani Kalesi,kale_sur,kale,Q57831
+Q125223015,Tuya Kalesi,SIGHT,41.515000,42.785261,,,CC0-1.0,2,Tuya Castle,,kale_sur,kale,Q57831
+Q65286089,Vardosani Kalesi,SIGHT,41.266694,42.739056,,,CC0-1.0,2,Vardosani Castle,,kale_sur,kale,Q57831
+Q31355448,Zegani Kilisesi,SIGHT,41.266667,43.087083,,,CC0-1.0,2,Zegani Church,Zaki Kilisesi,kilise,kilise,Q16970
+Q118955936,Çançahi Kalesi,SIGHT,41.463643,42.854302,,,CC0-1.0,2,Çançahi Castle,Savaşır Kalesi,kale_sur,kale,Q57831
+Q110259734,İ.G. Papaskir Anı Müzesi,SIGHT,41.008200,42.996800,,,CC0-1.0,2,,,müze,müze,Q33506
+Q117488407,Şuatzkali Kilisesi,SIGHT,41.573250,42.729028,,,CC0-1.0,2,,,kilise,kilise,Q16970
+Q118957354,Arila Kalesi,SIGHT,41.463272,42.867697,,,CC0-1.0,1,Arila Castle,,kale_sur,kale,Q57831
+Q136486695,Beberi Kalesi,SIGHT,41.027214,42.816739,,,CC0-1.0,1,Beberi Castle,,kale_sur,hisar,Q1785071
+Q136520883,Beçi Kalesi,SIGHT,40.968889,42.481639,,,CC0-1.0,1,Beçi Castle,,kale_sur,hisar,Q1785071
+Q123193106,Harosman Mağaraları,ACTIVITY,41.183972,42.892444,,,CC0-1.0,1,Harosman Caves,Tzkarosmani Mağaraları | Mağaro Mağaraları | Harosmani Mağaraları,doğa,mağara,Q35509
+Q119844004,Hunamisi Kalesi,SIGHT,41.475944,42.679639,,,CC0-1.0,1,,Hunemis Kalesi,kale_sur,kale,Q57831
+Q119166160,Kinzi Kalesi,SIGHT,41.063694,42.375778,,,CC0-1.0,1,Kinzi Castle,Kindzotamali Kalesi,kale_sur,kale,Q57831
+Q131765309,Kvabistsihe,SIGHT,41.148382,42.790007,,Ardahan (ilçe),CC0-1.0,1,,Kazan Kale,kale_sur,kale,Q57831
+Q118929922,Mağlisa,SIGHT,41.209957,43.002049,,,CC0-1.0,1,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q118955873,Mere Kalesi,SIGHT,41.496139,42.717583,,,CC0-1.0,1,Mere Castle,Çakırkoç Kalesi,kale_sur,kale,Q57831
+Q120117136,Orbuha Kalesi,SIGHT,41.267361,42.743972,,,CC0-1.0,1,,,kale_sur,kale,Q57831
+Q126489830,Petrisi Kalesi,SIGHT,41.241200,43.062717,,,CC0-1.0,1,Petrisi Castle,Petresi Kalesi,kale_sur | kule,gözetleme kulesi,Q947103
+Q124611402,Uri Kalesi,SIGHT,41.160564,42.881744,,,CC0-1.0,1,Uri Castle,Altaş Kalesi | Uri Kalesi,kale_sur,kale,Q57831
+Q123535897,Uğurtaşı Dörtkilise Kilisesi,SIGHT,40.933892,42.470625,,,CC0-1.0,1,Uğurtaşı Dörtkilise Church,Dört Kilise Manastırı,manastır_sinagog | kilise,kilise | manastır | harabe,"Q16970,Q44613,Q109607"
+Q6101472,Veli Kalesi,SIGHT,41.156104,42.979127,,,CC0-1.0,1,Veli Castle,Sevimli Kalesi,kale_sur,tahkimat,Q57821
+Q133236375,"Ana Kapı, Ardahan Kalesi",SIGHT,41.117134,42.701744,,,CC0-1.0,0,Main Gate of the Ardahan Castle,,kale_sur,kale,Q57831
+Q126915862,Ardahan Kalesi,SIGHT,41.117828,42.702614,,,CC0-1.0,0,Ardahan Castle,,kale_sur,kale,Q23413
+Q131901961,Ardanyak Kalesi,SIGHT,41.054436,42.439480,,,CC0-1.0,0,Ardanyak Castle,,kale_sur,kale,Q23413
+Q133236147,Aşağı Çançahi Kalesi,SIGHT,41.466381,42.853153,,,CC0-1.0,0,Aşağı Çançahi Castle,,kale_sur,kale,Q57831
+Q139421422,Bellitepe Köyü Kalesi,SIGHT,40.920802,42.542280,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139429205,Chuanteli Kalesi,SIGHT,41.563889,42.780242,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q133236155,Erema Kalesi,SIGHT,41.590333,42.745075,,,CC0-1.0,0,Erema Castle,,kale_sur,kale,Q57831
+Q139429223,Gudaneti Kalesi,SIGHT,41.281857,42.802556,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q139433653,Harosman Mağaraları,ACTIVITY,41.184059,42.892208,,,CC0-1.0,0,,,doğa,mağara,Q35509
+Q133236378,"Huruç Kapısı, Ardahan Kalesi",SIGHT,41.118088,42.704533,,,CC0-1.0,0,Huruç Gate (Ardahan Castle,,kale_sur,kale,Q57831
+Q131901980,"Kale, Gülistan",SIGHT,40.846333,42.783360,,,CC0-1.0,0,,,kale_sur,kale,Q23413
+Q131901843,"Kalecik Kalesi, Ardahan",SIGHT,40.968655,42.481213,,,CC0-1.0,0,Ardahan Kalecik Castle,,kale_sur,kale,Q23413
+Q131901958,Kan Kalesi,SIGHT,41.014555,43.226645,,,CC0-1.0,0,Kan Castle,,kale_sur,kale,Q23413
+Q139431705,Kaznafar Kulesi,SIGHT,41.004623,42.427666,,,CC0-1.0,0,,,kale_sur | kule,gözetleme kulesi,Q947103
+Q131901957,Kotanlı Kalesi,SIGHT,41.154037,43.044338,,,CC0-1.0,0,Kotanlı Castle,,kale_sur,kale,Q23413
+Q131901948,Kurt Kale,SIGHT,41.258243,43.139180,,,CC0-1.0,0,Kurt Castle,,kale_sur,kale,Q23413
+Q139429251,Kveli Manastırı,SIGHT,41.454728,42.630347,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q133236511,Munus Kalesi,SIGHT,41.342278,42.925190,,,CC0-1.0,0,Munus Castle,,kale_sur,kale,Q57831
+Q139429215,Orgharta Manastırı,SIGHT,41.446914,42.780217,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139437165,Ramazan Tabyası,SIGHT,41.151653,42.713833,,,CC0-1.0,0,,,kale_sur,tabya,Q90754
+Q131901960,Sarma Kalesi,SIGHT,40.911924,42.595704,,,CC0-1.0,0,Sarma Castle,,kale_sur,kale,Q23413
+Q133236377,"Su Kapısı, Ardahan Kalesi",SIGHT,41.117504,42.704704,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q133236150,Tsurtskabi Kalesi,SIGHT,41.433147,42.660293,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q133236153,Zemo Khanaki Kalesi,SIGHT,41.263436,42.826792,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131902126,Çıldır Akçakale Kalesi,SIGHT,41.078892,43.284759,,,CC0-1.0,0,Çıldır Akçakale Castle,Ağca Kala,kale_sur,kale,Q23413
+Q133236152,Ğvinia Kalesi,SIGHT,41.497614,42.697233,,,CC0-1.0,0,,,kale_sur,kale,Q57831

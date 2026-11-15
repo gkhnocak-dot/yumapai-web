@@ -1,13 +1,13 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q4343512,Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi,SIGHT,39.936790,44.079480,,,CC0-1.0,12,Iğdır Genocide Memorial and Museum,Iğdır Soykırım Anıtı | Iğdır Soykırım Anıtı ve Müzesi | Ermeniler tarafından katledilen şehit türkler anıt ve müzesi,müze | anıt_heykel,müze | anıt
-Q4691307,Agarak Manastırı,SIGHT,39.962602,43.666436,,,CC0-1.0,7,Agarak monastery,,manastır_sinagog,manastır
-Q7401339,Ahura Manastırı,SIGHT,39.720100,44.378500,,,CC0-1.0,6,Saint Hakob of Akori monastery,,manastır_sinagog,manastır
-Q21526286,Iğdır Kervansarayı,SIGHT,39.836800,43.839200,,,CC0-1.0,4,Caravanserai of Zor,Ejder Han | Harman Döven Kervansarayı | Zor Köy Kervansarayı | Harmandöven Hanı,han_hamam_çarşı,kervansaray
-Q123026909,Hıdırmenteş Gölü,ACTIVITY,39.179000,43.773300,,,CC0-1.0,2,Lake Hıdırmenteş,,göl,göl
-Q135582798,Akkoyunlu İbrahim Gödek Kümbeti,SIGHT,39.787914,44.608656,,,CC0-1.0,0,,,mezar | külliye_medrese_türbe | anıt_heykel,türbe
-Q131902114,Karakale,SIGHT,40.046531,43.823060,,,CC0-1.0,0,Karakale,Sürmeli Kalesi,kale_sur,kale
-Q132681776,Karakoyunlu Koçbaşlı Açık Hava Müzesi,SIGHT,39.970629,44.176180,,,CC0-1.0,0,,,müze,müze
-Q139421316,Kolikent Kümbeti,SIGHT,39.904290,44.363485,,Aralık,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131902113,Korhan Kalesi,SIGHT,39.795425,44.250153,,,CC0-1.0,0,Korhan Castle,Iğdır Kalesi,kale_sur,kale
-Q135582819,Kul Yusuf Kümbeti,SIGHT,40.020271,44.071129,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
-Q131739060,Ortaköy Hamamı,SIGHT,39.850990,44.534119,,,CC0-1.0,0,Ortaköy Baths,,han_hamam_çarşı,hamam
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q4343512,Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi,SIGHT,39.936790,44.079480,,,CC0-1.0,12,Iğdır Genocide Memorial and Museum,Iğdır Soykırım Anıtı | Iğdır Soykırım Anıtı ve Müzesi | Ermeniler tarafından katledilen şehit türkler anıt ve müzesi,müze | anıt_heykel,müze | anıt,"Q33506,Q4989906"
+Q4691307,Agarak Manastırı,SIGHT,39.962602,43.666436,,,CC0-1.0,7,Agarak monastery,,manastır_sinagog,manastır,Q44613
+Q7401339,Ahura Manastırı,SIGHT,39.720100,44.378500,,,CC0-1.0,6,Saint Hakob of Akori monastery,,manastır_sinagog,manastır,Q44613
+Q21526286,Iğdır Kervansarayı,SIGHT,39.836800,43.839200,,,CC0-1.0,4,Caravanserai of Zor,Ejder Han | Harman Döven Kervansarayı | Zor Köy Kervansarayı | Harmandöven Hanı,han_hamam_çarşı,kervansaray,Q186347
+Q123026909,Hıdırmenteş Gölü,ACTIVITY,39.179000,43.773300,,,CC0-1.0,2,Lake Hıdırmenteş,,göl,göl,Q23397
+Q135582798,Akkoyunlu İbrahim Gödek Kümbeti,SIGHT,39.787914,44.608656,,,CC0-1.0,0,,,mezar | külliye_medrese_türbe | anıt_heykel,türbe,Q838159
+Q131902114,Karakale,SIGHT,40.046531,43.823060,,,CC0-1.0,0,Karakale,Sürmeli Kalesi,kale_sur,kale,Q23413
+Q132681776,Karakoyunlu Koçbaşlı Açık Hava Müzesi,SIGHT,39.970629,44.176180,,,CC0-1.0,0,,,müze,müze,Q33506
+Q139421316,Kolikent Kümbeti,SIGHT,39.904290,44.363485,,Aralık,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131902113,Korhan Kalesi,SIGHT,39.795425,44.250153,,,CC0-1.0,0,Korhan Castle,Iğdır Kalesi,kale_sur,kale,Q23413
+Q135582819,Kul Yusuf Kümbeti,SIGHT,40.020271,44.071129,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q131739060,Ortaköy Hamamı,SIGHT,39.850990,44.534119,,,CC0-1.0,0,Ortaköy Baths,,han_hamam_çarşı,hamam,Q28077

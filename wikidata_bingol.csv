@@ -1,22 +1,22 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q1093331,Citharizon,SIGHT,38.874000,40.642000,,,CC0-1.0,9,Citharizum,Citharizum | Kitharizon,arkeolojik_sit,Unvan piskoposluğu | antik kent
-Q20472614,Bingöl (Solhan) Yüzen Adaları,ACTIVITY,38.972360,40.945300,,,CC0-1.0,5,Floating islands,,milli_park_tabiat,tabiat anıtı (Türkiye)
-Q25473210,33 Şehit Anıtı,SIGHT,38.928971,40.361506,,,CC0-1.0,4,33 Martyrs Memorial,,anıt_heykel,anıt | küçük anıt
-Q108936763,Gerendal Gölü,ACTIVITY,38.829950,40.334530,,,CC0-1.0,4,Gerendal Lake,,göl,göl
-Q123310246,Bahri Gölü,ACTIVITY,39.304000,41.142050,,,CC0-1.0,2,Lake Bahri,,göl,göl
-Q6019628,Çır Şelalesi,ACTIVITY,39.048650,40.662470,,,CC0-1.0,1,Çır Falls,,doğa,şelale
-Q133236454,Dinarbey Köyü Kalesi,SIGHT,39.370815,40.652187,,,CC0-1.0,0,Dinarbey Castle,Pozikale | Bozigeli Kalesi,kale_sur,kale
-Q131739059,Fultan Hamamı,SIGHT,39.318008,40.348972,,,CC0-1.0,0,Fultan Baths,Kerek Hamamı | Fülten Bey Hamamı | Kerek Sultan Hamamı,han_hamam_çarşı,hamam
-Q133236456,Geloşkan Kale,SIGHT,39.228416,40.975380,,,CC0-1.0,0,,,kale_sur,kale
-Q135582826,Genç Kümbeti,SIGHT,38.756252,40.576771,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe
-Q131902265,Ginc Kalesi,SIGHT,38.796795,41.053398,,,CC0-1.0,0,,Kale Köy Kalesi,kale_sur,kale
-Q131902411,Görgeç Kalesi,SIGHT,39.326160,40.375530,,,CC0-1.0,0,Görgeç Castle,Şehitler Kalesi | Kiğı Kalesi,kale_sur,kale
-Q139436752,Kiğı Eskikavak Manastır Kalıntısı,SIGHT,39.292172,40.438919,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q139436360,Kiğı Topraklı Köyü Manastırı,SIGHT,39.367672,40.367828,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q133236544,Kral Kızı Kalesi,SIGHT,38.752472,40.583412,,,CC0-1.0,0,,Dara-Hini Kalesi,kale_sur,kale
-Q139432764,Kuba Kümbeti,SIGHT,38.755344,40.580143,,Genç İlçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,kümbet
-Q132182942,Murat Höyük,SIGHT,38.890488,40.961952,,,CC0-1.0,0,Murat Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131902267,Sebeterias Kale Kalıntısı,SIGHT,38.751667,40.527844,,,CC0-1.0,0,,Senterius Kalesi | Diziktepe Kale Kalıntısı,kale_sur,kale
-Q139429349,Surp Asdvadzadzin Manastırı (Kiğı),SIGHT,39.278516,40.406073,,,CC0-1.0,0,,,manastır_sinagog,manastır
-Q133236440,Tokmarik Tepe Kalesi,SIGHT,39.444061,40.501858,,,CC0-1.0,0,,,kale_sur,kale
-Q131391642,Şeyh Ahmet Türbesi,SIGHT,38.961620,40.592091,,,CC0-1.0,0,Sheikh Ahmed Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1093331,Citharizon,SIGHT,38.874000,40.642000,,,CC0-1.0,9,Citharizum,Citharizum | Kitharizon,arkeolojik_sit,Unvan piskoposluğu | antik kent,"Q15217609,Q15661340"
+Q20472614,Bingöl (Solhan) Yüzen Adaları,ACTIVITY,38.972360,40.945300,,,CC0-1.0,5,Floating islands,,milli_park_tabiat,tabiat anıtı (Türkiye),Q108060573
+Q25473210,33 Şehit Anıtı,SIGHT,38.928971,40.361506,,,CC0-1.0,4,33 Martyrs Memorial,,anıt_heykel,anıt | küçük anıt,"Q4989906,Q5003624"
+Q108936763,Gerendal Gölü,ACTIVITY,38.829950,40.334530,,,CC0-1.0,4,Gerendal Lake,,göl,göl,Q23397
+Q123310246,Bahri Gölü,ACTIVITY,39.304000,41.142050,,,CC0-1.0,2,Lake Bahri,,göl,göl,Q23397
+Q6019628,Çır Şelalesi,ACTIVITY,39.048650,40.662470,,,CC0-1.0,1,Çır Falls,,doğa,şelale,Q34038
+Q133236454,Dinarbey Köyü Kalesi,SIGHT,39.370815,40.652187,,,CC0-1.0,0,Dinarbey Castle,Pozikale | Bozigeli Kalesi,kale_sur,kale,Q57831
+Q131739059,Fultan Hamamı,SIGHT,39.318008,40.348972,,,CC0-1.0,0,Fultan Baths,Kerek Hamamı | Fülten Bey Hamamı | Kerek Sultan Hamamı,han_hamam_çarşı,hamam,Q28077
+Q133236456,Geloşkan Kale,SIGHT,39.228416,40.975380,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q135582826,Genç Kümbeti,SIGHT,38.756252,40.576771,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,kümbet | türbe,"Q838159,Q1521433"
+Q131902265,Ginc Kalesi,SIGHT,38.796795,41.053398,,,CC0-1.0,0,,Kale Köy Kalesi,kale_sur,kale,Q23413
+Q131902411,Görgeç Kalesi,SIGHT,39.326160,40.375530,,,CC0-1.0,0,Görgeç Castle,Şehitler Kalesi | Kiğı Kalesi,kale_sur,kale,Q23413
+Q139436752,Kiğı Eskikavak Manastır Kalıntısı,SIGHT,39.292172,40.438919,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q139436360,Kiğı Topraklı Köyü Manastırı,SIGHT,39.367672,40.367828,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q133236544,Kral Kızı Kalesi,SIGHT,38.752472,40.583412,,,CC0-1.0,0,,Dara-Hini Kalesi,kale_sur,kale,Q57831
+Q139432764,Kuba Kümbeti,SIGHT,38.755344,40.580143,,Genç İlçesi,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,kümbet,Q1521433
+Q132182942,Murat Höyük,SIGHT,38.890488,40.961952,,,CC0-1.0,0,Murat Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131902267,Sebeterias Kale Kalıntısı,SIGHT,38.751667,40.527844,,,CC0-1.0,0,,Senterius Kalesi | Diziktepe Kale Kalıntısı,kale_sur,kale,Q23413
+Q139429349,Surp Asdvadzadzin Manastırı (Kiğı),SIGHT,39.278516,40.406073,,,CC0-1.0,0,,,manastır_sinagog,manastır,Q44613
+Q133236440,Tokmarik Tepe Kalesi,SIGHT,39.444061,40.501858,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q131391642,Şeyh Ahmet Türbesi,SIGHT,38.961620,40.592091,,,CC0-1.0,0,Sheikh Ahmed Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159

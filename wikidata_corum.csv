@@ -1,151 +1,151 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
-Q558861,Alacahöyük,SIGHT,40.233895,34.695575,,,CC0-1.0,32,Alacahöyük,Alaca Höyük | Arinna,arkeolojik_sit | anıt_heykel,arkeolojik sit | höyük | park
-Q529923,Yazılıkaya,SIGHT,40.025000,34.632780,,,CC0-1.0,26,Yazılıkaya,,arkeolojik_sit,arkeolojik sit | heykel
-Q3620,Şapinuva,SIGHT,40.252778,35.237500,,Ortaköy,CC0-1.0,12,Sapinuwa,Ortaköy,arkeolojik_sit,şehir | arkeolojik sit
-Q637119,Çorum Müzesi,SIGHT,40.541111,34.951111,,,CC0-1.0,7,Çorum Archaeological Museum,,müze,arkeoloji müzesi | müze
-Q391125,Šinahuttum,SIGHT,40.019722,34.615278,,,CC0-1.0,7,Šinahuttum,,arkeolojik_sit,şehir | arkeolojik sit
-Q6366659,Kapılıkaya Kaya Mezarı,SIGHT,40.756555,34.910427,,,CC0-1.0,5,Kapilikaya Rock Tomb,Komutan İkezios'un Mezarı,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,arkeolojik sit | kaya mezarı | türbe
-Q15664482,Hüseyindede Höyüğü,SIGHT,40.287000,34.232800,,,CC0-1.0,4,Hüseyindede Tepe,Hüseyindede Tepesi,arkeolojik_sit,arkeolojik sit
-Q31188759,Boğazköy Müzesi,SIGHT,40.025257,34.608177,,,CC0-1.0,3,Boğazköy Museum,Çorum Boğazköy Müzesi | Boğazkale Müzesi | Boğazköy Müzesi,müze,müze | arkeoloji müzesi
-Q20473289,Boğazköy-Alacahöyük Tarihî Millî Parkı,SIGHT,40.075278,34.610556,,Boğazkale İlçesi,CC0-1.0,3,Boğazkale Alaçahöyük Milli Parkı,,milli_park_tabiat | arkeolojik_sit,millî park (Türkiye) | arkeolojik sit
-Q118121340,Büyük Tapınak,SIGHT,40.019806,34.615444,,Boğazkale İlçesi,CC0-1.0,3,Great Temple (Ḫattuša),1 No'lu Tapınak,,tapınak
-Q67183183,Büyükkale,SIGHT,40.015000,34.618611,,Boğazkale İlçesi,CC0-1.0,3,Büyükkale,,arkeolojik_sit,arkeolojik sit | insan yerleşimi
-Q5039691,Carissa,SIGHT,40.527786,35.140618,,,CC0-1.0,3,Carissa,Garsi,arkeolojik_sit,antik kent
-Q6100895,Eskiyapar Höyüğü,SIGHT,40.158056,34.773056,,,CC0-1.0,3,Eskiyapar Höyük,,arkeolojik_sit,arkeolojik sit
-Q111609319,"Kral Kapısı, Hattuşa",SIGHT,40.009250,34.622611,,Boğazkale İlçesi,CC0-1.0,3,"King's Gate, Hattusa",,kale_sur,şehir kapısı
-Q6023334,Osmancık II. Beyazıt Köprüsü,SIGHT,40.970170,34.800560,,,CC0-1.0,3,Koyun Baba Bridge,Beyazıt II Köprüsü | Koyun Baba Köprüsü | Osmancık Köprüsü | II.Beyazıt Köprüsü | Koyunbaba Köprüsü,köprü,köprü | karayol köprüsü
-Q21528314,Çorum Saat Kulesi,SIGHT,40.549889,34.953722,,,CC0-1.0,3,Çorum Clock Tower,,kule | anıt_heykel | kule_saat,saat kulesi | tarihi mekân
-Q85756736,Diacopa,SIGHT,40.886520,35.200313,,,CC0-1.0,2,Diacopa,,arkeolojik_sit,antik kent
-Q96760008,Hattuşa Aslanlı Kapı,SIGHT,40.010139,34.610056,,Boğazkale İlçesi,CC0-1.0,2,"Lion Gate, Hattusa",,kale_sur,şehir kapısı | heykel
-Q111307346,Hattuşa Sfenksli Kapı,SIGHT,40.006180,34.616676,,Boğazkale İlçesi,CC0-1.0,2,"Sphinx Gate, Hattusa",,kale_sur,şehir kapısı
-Q109790342,Kesikkaya,SIGHT,40.018138,34.614370,,Boğazkale İlçesi,CC0-1.0,2,Kesikkaya,,arkeolojik_sit,kaya oluşumu | arkeolojik sit
-Q31840943,Nişantaş,SIGHT,40.013058,34.617542,,Boğazkale İlçesi,CC0-1.0,2,Nişantaş,Nişantaşı Yazıtı | Nişantaş Yazıtı,anıt_heykel,kaya | anıt
-Q85793338,Pimolisa,SIGHT,41.013237,34.709815,,,CC0-1.0,2,Pimolisa,Pimolison,arkeolojik_sit,antik kent
-Q21527049,Sungurlu Saat Kulesi,SIGHT,40.162528,34.374139,,Sungurlu,CC0-1.0,2,Sungurlu Clock Tower,,kule | kule_saat,saat kulesi
-Q57614738,Südburg (Ḫattuša),SIGHT,40.013194,34.619250,,Boğazkale İlçesi,CC0-1.0,2,Südburg (Ḫattuša),,kale_sur | arkeolojik_sit,arkeolojik sit | tahkimat | tapınak
-Q108228143,Sıklık Boğazı Tabiat Parkı,ACTIVITY,40.585185,35.037279,,,CC0-1.0,2,Sıklık,Sıklık Tabiat Parkı,milli_park_tabiat,korunan alan | tabiat parkı (Türkiye)
-Q125676352,Yamaçtaki Ev,SIGHT,40.018806,34.616583,,Boğazkale İlçesi,CC0-1.0,2,Haus am Hang,Hattuşa Yamaç Evi,ev_konak | arkeolojik_sit,mimari yapı | ev | arkeolojik sit
-Q61072563,Çorum Ulu Camii,SIGHT,40.551222,34.952472,,,CC0-1.0,2,"Ulu Mosque, Çorum",Cami-i Kebir | Sultan Alaaddin Camii | Murad-i Rabi Ulu Camii,cami,cami
-Q21523972,Alaca Saat Kulesi,SIGHT,40.169361,34.841778,,,CC0-1.0,1,Alaca Clock Tower,,kule | kule_saat,saat kulesi
-Q109518358,Alacahöyük Müzesi,SIGHT,40.233063,34.696003,,,CC0-1.0,1,Alacahöyük Museum,,müze,müze
-Q118177495,Ali Paşa Hamamı,SIGHT,40.549528,34.954194,,,CC0-1.0,1,Ali Paşa Baths,Yeni Hamam,han_hamam_çarşı,hamam
-Q6101569,Boyalı Höyük,SIGHT,40.321100,34.292200,,,CC0-1.0,1,Boyalı Höyük,,arkeolojik_sit,arkeolojik sit
-Q49319087,Büyük Laçin Mağarası,ACTIVITY,40.753056,34.886111,,,CC0-1.0,1,Büyük Laçin Cave,,doğa,mağara
-Q139436189,Büyükkaya Yerleşimi,SIGHT,40.023678,34.621075,,Boğazkale İlçesi,CC0-1.0,1,Büyükkaya,,arkeolojik_sit,insan yerleşimi | arkeolojik sit
-Q49319116,Damlataş Mağarası (Çorum),ACTIVITY,40.298056,35.284722,,,CC0-1.0,1,Damlataş Cave (Çorum),,doğa,mağara
-Q6098522,Fatmaören Höyüğü,SIGHT,40.310000,34.241000,,,CC0-1.0,1,Fatmaören,,arkeolojik_sit,arkeolojik sit
-Q118946493,Güpür Hamamı,SIGHT,40.551201,34.953426,,,CC0-1.0,1,Güpür Baths,,han_hamam_çarşı,hamam
-Q49342930,Hatip Boğazı,ACTIVITY,40.383889,34.800833,,,CC0-1.0,1,Hatip Straits,,doğa,defile
-Q131902125,Hattuşa Yenicekale,SIGHT,40.010551,34.612526,,Boğazkale İlçesi,CC0-1.0,1,"Yenicekale, Ḫattuša",,kale_sur,kale
-Q139436733,Hattuşa Yerkapı,SIGHT,40.006462,34.616676,,Boğazkale İlçesi,CC0-1.0,1,"Yerkapı, Ḫattuša",,kale_sur | arkeolojik_sit,şehir kapısı | arkeolojik sit | kent surları
-Q49319381,Koçhisar Mağarası,ACTIVITY,40.098889,34.941667,,,CC0-1.0,1,Koçhisar Cave,,doğa,mağara
-Q49319396,Köseeyüp Mağarası,ACTIVITY,40.560556,35.359722,,,CC0-1.0,1,Köseeyüp Cave,,doğa,mağara
-Q141877321,Lower City of Ḫattuša,SIGHT,40.020572,34.614432,,Boğazkale İlçesi,CC0-1.0,1,Lower City of Ḫattuša,,arkeolojik_sit,arkeolojik sit | insan yerleşimi
-Q118957804,Osmancık Kandiber Kalesi,SIGHT,40.972908,34.802134,,,CC0-1.0,1,Osmancık Kandiber Castle,Kandiber Kalesi,kale_sur,kale
-Q49319641,Pancarlık Mağarası,ACTIVITY,40.645556,34.296944,,,CC0-1.0,1,Pancarlık Cave,,doğa,mağara
-Q6094790,Pazarlı Höyük,SIGHT,40.325300,34.951600,,,CC0-1.0,1,Pazarlı Mound,,arkeolojik_sit,arkeolojik sit
-Q49319644,"Pazarlı Mağarası (40.30, 34.99)",ACTIVITY,40.299167,34.993611,,,CC0-1.0,1,,,doğa,mağara
-Q49319647,"Pazarlı Mağarası (40.31, 34.93)",ACTIVITY,40.310000,34.932222,,,CC0-1.0,1,,,doğa,mağara
-Q118395884,Paşa Hamamı (Çorum),SIGHT,40.550564,34.951654,,,CC0-1.0,1,Paşa Baths (Çorum),Tacettin Paşa Hamamı,han_hamam_çarşı,hamam
-Q6098698,Resuloğlu Höyük,SIGHT,40.429882,34.175602,,,CC0-1.0,1,Resuloğlu Höyük,,arkeolojik_sit,arkeolojik sit
-Q49319771,Sorgun Köyü Kaya,ACTIVITY,40.814444,34.260833,,,CC0-1.0,1,Sorgun Köyü Cave,,doğa,mağara
-Q141877509,Temple District of Ḫattuša,SIGHT,40.009882,34.616824,,Boğazkale İlçesi,CC0-1.0,1,Temple District of Ḫattuša,,arkeolojik_sit,arkeolojik sit | tapınak | insan yerleşimi
-Q141913667,Upper west gate (Ḫattuša),SIGHT,40.016559,34.611131,,Boğazkale İlçesi,CC0-1.0,1,Upper west gate (Ḫattuša),,kale_sur,şehir kapısı
-Q118957855,Veli Paşa Hanı,SIGHT,40.549556,34.952912,,,CC0-1.0,1,Veli Paşa Hanı,"Veli Paşa Hanı, Çorum",han_hamam_çarşı,kervansaray
-Q49319901,Çal Mağarası,ACTIVITY,40.545833,35.277500,,,CC0-1.0,1,Çal Cave,,doğa,mağara
-Q49319909,Çayköy Mağarası,ACTIVITY,40.389444,35.309167,,,CC0-1.0,1,Çayköy Cave,,doğa,mağara
-Q118180511,Çorum Kalesi,SIGHT,40.545498,34.957176,,,CC0-1.0,1,Çorum Castle,,kale_sur,kale
-Q49319917,Örencik Mağarası,ACTIVITY,40.376111,35.168056,,,CC0-1.0,1,Örencik Cave,,doğa,mağara
-Q49319923,İbekköyü Mağarası,ACTIVITY,40.371389,35.234444,,,CC0-1.0,1,İbekköyü Cave,,doğa,mağara
-Q134728106,Alacahöyük Tunç Çağı Mezarları,SIGHT,40.234035,34.695694,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar
-Q141926355,Altbau (Ḫattuša),SIGHT,40.018671,34.616356,,Boğazkale İlçesi,CC0-1.0,0,Altbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q132183021,Armutlu Höyük,SIGHT,40.212429,34.742676,,,CC0-1.0,0,Armutlu Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q132183016,Ağcakoyun Höyük,SIGHT,40.516270,35.182705,,,CC0-1.0,0,Ağcakoyun Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q132183011,Ağcaören Höyük,SIGHT,40.565208,35.193741,,,CC0-1.0,0,Ağcaören Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131738688,Aşağı Hamam,SIGHT,40.972103,34.798798,,,CC0-1.0,0,Aşağı Baths,Paşa Hamamı | Çarşı Hamamı,han_hamam_çarşı,hamam
-Q134960962,Bayındır Höyük,SIGHT,40.068378,34.758942,,,CC0-1.0,0,Bayındır Höyük,,anıt_heykel | arkeolojik_sit,höyük
-Q134960380,Bozdoğan Höyük,SIGHT,40.158933,35.054198,,,CC0-1.0,0,Bozdoğan Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q141912676,Building A (Ḫattuša),SIGHT,40.015357,34.619825,,Boğazkale İlçesi,CC0-1.0,0,Building A (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141912805,Building B (Ḫattuša),SIGHT,40.015837,34.619554,,Boğazkale İlçesi,CC0-1.0,0,Building B (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141912854,Building C (Ḫattuša),SIGHT,40.015979,34.619387,,Boğazkale İlçesi,CC0-1.0,0,Building C (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141912900,Building D (Ḫattuša),SIGHT,40.016148,34.619722,,Boğazkale İlçesi,CC0-1.0,0,Building D (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141912910,Building E (Ḫattuša),SIGHT,40.016485,34.620044,,Boğazkale İlçesi,CC0-1.0,0,Building E (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913159,Building F (Ḫattuša),SIGHT,40.016762,34.620337,,Boğazkale İlçesi,CC0-1.0,0,Building F (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913173,Building G (Ḫattuša),SIGHT,40.015235,34.619446,,Boğazkale İlçesi,CC0-1.0,0,Building G (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913192,Building H (Ḫattuša),SIGHT,40.015788,34.619230,,Boğazkale İlçesi,CC0-1.0,0,Building H (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913212,Building J (Ḫattuša),SIGHT,40.015063,34.619653,,Boğazkale İlçesi,CC0-1.0,0,Building J (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913225,Building K (Ḫattuša),SIGHT,40.015127,34.620103,,Boğazkale İlçesi,CC0-1.0,0,Building K (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913231,Building M (Ḫattuša),SIGHT,40.015525,34.618814,,Boğazkale İlçesi,CC0-1.0,0,Building M (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913246,Building N (Ḫattuša),SIGHT,40.015589,34.619033,,Boğazkale İlçesi,CC0-1.0,0,Building N (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q132183012,Büyüktepe Höyük ve Nekropolü,SIGHT,40.568806,35.435223,,,CC0-1.0,0,Büyüktepe Necropolis,,arkeolojik_sit | anıt_heykel,höyük
-Q141913253,Citadel gate (Ḫattuša),SIGHT,40.015092,34.618440,,Boğazkale İlçesi,CC0-1.0,0,Citadel gate (Ḫattuša),,arkeolojik_sit,burgtor | arkeolojik sit
-Q132182745,Dedepınar Höyük,SIGHT,40.130409,34.758087,,,CC0-1.0,0,Dedepınar Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131391301,Demirşeyh Türbesi,SIGHT,40.268368,34.510860,,,CC0-1.0,0,Demirsheikh Tomb,Demirşıh Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132183022,Deretarla Höyük,SIGHT,40.527386,34.824028,,,CC0-1.0,0,Deretarla Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131739016,Deri Hamamı,SIGHT,40.734398,34.474815,,,CC0-1.0,0,Deri Baths,,han_hamam_çarşı,hamam
-Q132183018,Dikmenintaş Höyük,SIGHT,40.476597,35.310425,,,CC0-1.0,0,Dikmenintaş Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q141899615,Eastern Ponds (Ḫattuša),SIGHT,40.012619,34.619435,,Boğazkale İlçesi,CC0-1.0,0,Eastern Ponds (Ḫattuša),,arkeolojik_sit,yapay gölet | arkeolojik sit | mabet
-Q132183024,Ebemçesmesi Höyük,SIGHT,40.546818,35.129188,,,CC0-1.0,0,Ebemçesmesi Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q132134372,Elvan Çelebi Zaviyesi,SIGHT,40.566400,35.164200,,,CC0-1.0,0,Elvan Çelebi Mosque,Elvan Çelebi Zaviyesi,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe | tekke
-Q135582714,Erzurum Dede Türbesi,SIGHT,40.532864,34.933006,,,CC0-1.0,0,Erzurum Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q134728169,Gerdek Kaya Mezarı,SIGHT,40.241226,34.879993,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
-Q132183008,Gökçebel Höyük,SIGHT,40.643608,35.325626,,,CC0-1.0,0,Gökçebel Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q134728270,Göztepe Tümülüsü,SIGHT,40.069063,34.791354,,,CC0-1.0,0,Göztepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs
-Q131902209,Hacıhamza Kalesi,SIGHT,41.076328,34.449337,,,CC0-1.0,0,Hacıhamza Castle,,kale_sur,kale
-Q139431319,Hattuşa Bizans Manastırı,SIGHT,40.011009,34.616531,,Boğazkale İlçesi,CC0-1.0,0,,,kilise | manastır_sinagog,manastır | kilise | mezarlık
-Q139436179,Hattuşa Hiyeroglifli Oda 2,SIGHT,40.013245,34.619354,,Boğazkale İlçesi,CC0-1.0,0,,,arkeolojik_sit,kutsal alan | arkeolojik sit
-Q131902285,Hattuşa Küçükkale,SIGHT,40.013901,34.619232,,Boğazkale İlçesi,CC0-1.0,0,,Güney Kale,kale_sur,kale
-Q131902124,Hattuşa Sarıkale,SIGHT,40.012731,34.614971,,Boğazkale İlçesi,CC0-1.0,0,"Sarıkale, Ḫattuša",,kale_sur | arkeolojik_sit,kale | arkeolojik sit | tahkimat
-Q141901908,Hattuşa suru,SIGHT,40.020899,34.613972,,Boğazkale İlçesi,CC0-1.0,0,City Walls of Ḫattuša,,kale_sur | arkeolojik_sit,kent surları | arkeolojik sit
-Q64699502,Hattuşa: Hitit Başkenti,SIGHT,40.013890,34.620560,,Boğazkale İlçesi,CC0-1.0,0,Hattusha: the Hittite Capital,,,yapı veya bina grubu
-Q141913295,Hittite citadel wall,SIGHT,40.015050,34.619087,,Boğazkale İlçesi,CC0-1.0,0,Hittite citadel wall,,kale_sur | arkeolojik_sit,sur | arkeolojik sit
-Q141898717,House of the GAL MEŠEDI,SIGHT,40.011272,34.614308,,Boğazkale İlçesi,CC0-1.0,0,House of the GAL MEŠEDI,,ev_konak | arkeolojik_sit,ev | arkeolojik sit
-Q131739196,Kalehisar Hamamı,SIGHT,40.266911,34.714001,,,CC0-1.0,0,Kalehisar Baths,,han_hamam_çarşı,hamam
-Q132752682,Kalehisar Hanı,SIGHT,40.267437,34.715153,,,CC0-1.0,0,Kalehisar Hanı,,han_hamam_çarşı,kervansaray
-Q133236708,Kalehisar Kalesi,SIGHT,40.268070,34.708569,,,CC0-1.0,0,Kalehisar Castle,Arinna?,kale_sur,kale | sunak
-Q139429773,Kapılıkaya Kaya Mezarı,SIGHT,40.107492,34.798321,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı
-Q132183017,Karacaören Höyük,SIGHT,40.650333,34.954819,,,CC0-1.0,0,Karacaören Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q141926272,Kartalkaya (Ḫattuša),SIGHT,40.011304,34.610543,,Boğazkale İlçesi,CC0-1.0,0,Kartalkaya (Ḫattuša),,arkeolojik_sit,arkeolojik sit | Mahmuz
-Q132182687,Kayabüget Demirci Höyük,SIGHT,40.096439,34.865143,,,CC0-1.0,0,Kayabüget Höyüğü,,arkeolojik_sit | anıt_heykel,höyük
-Q64699534,Kayalı Boğaz,SIGHT,40.003220,34.637220,,Boğazkale İlçesi,CC0-1.0,0,Kayalı Boğaz,,arkeolojik_sit,arkeolojik sit
-Q131390509,Kerebi Gazi Türbesi,SIGHT,40.547563,34.941826,,,CC0-1.0,0,Kerebi Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131391300,Koyun Baba Türbesi,SIGHT,40.979973,34.793362,,,CC0-1.0,0,Koyun Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q131390766,Kum Baba Türbesi,SIGHT,40.909521,34.847161,,,CC0-1.0,0,Tomb of Kum Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q132183009,Küçükçalönü Höyük,SIGHT,40.629822,35.333271,,,CC0-1.0,0,Küçükçalönü Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q141913650,Lower west gate (Ḫattuša),SIGHT,40.018013,34.612189,,Boğazkale İlçesi,CC0-1.0,0,Lower west gate (Ḫattuša),,kale_sur,şehir kapısı
-Q141913701,Nordbau (Ḫattuša),SIGHT,40.014086,34.617132,,Boğazkale İlçesi,CC0-1.0,0,Nordbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q64699535,Osmankayası Hitit Mezarlığı,SIGHT,40.024030,34.627310,,Boğazkale İlçesi,CC0-1.0,0,Osman Kayası,,anıt_heykel | arkeolojik_sit | mezar,arkeolojik sit | mezar odası
-Q141926459,Pithoshaus (Ḫattuša),SIGHT,40.018840,34.616340,,Boğazkale İlçesi,CC0-1.0,0,Pithoshaus (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q139428405,Sazak Kalesi,SIGHT,40.381274,35.062084,,,CC0-1.0,0,,,kale_sur,kale
-Q132182743,Serçe Höyük,SIGHT,40.572094,34.856068,,,CC0-1.0,0,Serçe Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q134960858,Serçehöyük,SIGHT,40.566744,34.848053,,,CC0-1.0,0,Serçehöyük,,anıt_heykel | arkeolojik_sit,höyük
-Q131738677,Sinan Paşa Hamamı,SIGHT,41.076603,34.448940,,,CC0-1.0,0,Baths of Sinan Paşa,,han_hamam_çarşı,hamam
-Q132752895,"Sinan Paşa Hanı, Hacıhamza",SIGHT,41.076172,34.448734,,,CC0-1.0,0,Sinan Paşa Hanı (Hacıhamza),,han_hamam_çarşı,kervansaray
-Q131738706,Sungurlu Tarihi Hamam,SIGHT,40.162151,34.373402,,,CC0-1.0,0,Sungurlu Hamam,,han_hamam_çarşı,hamam
-Q141913731,Südareal (Ḫattuša),SIGHT,40.019322,34.614428,,Boğazkale İlçesi,CC0-1.0,0,Südareal (Ḫattuša),,arkeolojik_sit,mimari yapı | arkeolojik sit
-Q132183010,Sülüklü Höyük,SIGHT,40.584427,35.330017,,,CC0-1.0,0,Sülüklü Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q132183019,Taşpınar Höyük,SIGHT,40.299458,34.861305,,,CC0-1.0,0,Taşpınar Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139429462,Toptepe,SIGHT,40.473673,34.812397,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q132183014,Topçam Höyük,SIGHT,40.522167,35.473934,,,CC0-1.0,0,Topçam Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q141900514,Upper City of Ḫattuša,SIGHT,40.008567,34.617940,,Boğazkale İlçesi,CC0-1.0,0,Upper City of Ḫattuša,,arkeolojik_sit,arkeolojik sit | insan yerleşimi
-Q141913422,Upper citadel court (Ḫattuša),SIGHT,40.015751,34.620160,,Boğazkale İlçesi,CC0-1.0,0,Upper citadel court (Ḫattuša),,arkeolojik_sit,avlu | arkeolojik sit
-Q139425748,Veli Rum Baba Türbesi,SIGHT,40.394440,34.876029,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
-Q141913545,Verbindungsbau (Ḫattuša),SIGHT,40.015755,34.619759,,Boğazkale İlçesi,CC0-1.0,0,Verbindungsbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q141913579,Water basin (Ḫattuša),SIGHT,40.015152,34.619650,,Boğazkale İlçesi,CC0-1.0,0,Water basin (Ḫattuša),,arkeolojik_sit,mabet | arkeolojik sit
-Q141913680,Westbau (Ḫattuša),SIGHT,40.013792,34.616489,,Boğazkale İlçesi,CC0-1.0,0,Westbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit
-Q139429772,Yatankavak Tümülüsü 1,SIGHT,40.106608,34.810666,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs
-Q135959692,Yatankavak Tümülüsü 2,SIGHT,40.107431,34.785552,,,CC0-1.0,0,Yatankavak Tumulus 2,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
-Q132182759,Yuğ Höyük,SIGHT,40.244762,35.242977,,Ortaköy,CC0-1.0,0,Yuğ Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q132183023,Çayhatap Höyük,SIGHT,40.428326,34.819840,,,CC0-1.0,0,Çayhatap Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q139428407,Çeşmeören Kalesi,SIGHT,40.395911,34.867731,,,CC0-1.0,0,,,kale_sur,kale
-Q137705242,Çorum Arkeoloji Müzesi,SIGHT,40.550600,34.955000,,,CC0-1.0,0,Çorum Archaeology Museum,,müze,müze
-Q132682009,Çorum Arkeoloji ve Etnografya Müzesi,SIGHT,40.542519,34.951126,,,CC0-1.0,0,Çorum Archaeological Museum,,müze,müze
-Q132182686,Çöplü Höyük,SIGHT,40.186840,34.995663,,,CC0-1.0,0,Çöplü Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q135959695,Örükaya Tümülüsü,SIGHT,40.105465,34.902401,,,CC0-1.0,0,Örükaya Tumulus,,anıt_heykel | mezar | arkeolojik_sit,tümülüs
-Q132183015,Ürfeçalı Höyük,SIGHT,40.528061,35.455070,,,CC0-1.0,0,Ürfeçalı Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q135035188,İncesu Mağara Kale,SIGHT,40.257194,35.343113,,Ortaköy,CC0-1.0,0,,,kale_sur,sur | tarihî bina
-Q131901887,İskilip Kalesi,SIGHT,40.735745,34.473896,,,CC0-1.0,0,İskilip Castle,,kale_sur,kale
-Q134728193,İskilip Kaya Mezarları,SIGHT,40.734470,34.473949,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı
-Q133475816,Şapinuva Tablet Arşivi,SIGHT,40.260479,35.236694,,Ortaköy,CC0-1.0,0,,Ortaköy Tablet Arşivi,arkeolojik_sit,arkeolojik sit
-Q132183020,Şavata Höyük,SIGHT,40.308590,34.917091,,,CC0-1.0,0,Şavata Höyük,,arkeolojik_sit | anıt_heykel,höyük
-Q131390765,Şeyh Muhiddin Yavsi Türbesi,SIGHT,40.730500,34.470800,,,CC0-1.0,0,Sheikh Muhiddin Yavsi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q558861,Alacahöyük,SIGHT,40.233895,34.695575,,,CC0-1.0,32,Alacahöyük,Alaca Höyük | Arinna,arkeolojik_sit | anıt_heykel,arkeolojik sit | höyük | park,"Q22698,Q755017,Q839954"
+Q529923,Yazılıkaya,SIGHT,40.025000,34.632780,,,CC0-1.0,26,Yazılıkaya,,arkeolojik_sit,arkeolojik sit | heykel,"Q839954,Q860861"
+Q3620,Şapinuva,SIGHT,40.252778,35.237500,,Ortaköy,CC0-1.0,12,Sapinuwa,Ortaköy,arkeolojik_sit,şehir | arkeolojik sit,"Q515,Q839954"
+Q637119,Çorum Müzesi,SIGHT,40.541111,34.951111,,,CC0-1.0,7,Çorum Archaeological Museum,,müze,arkeoloji müzesi | müze,"Q33506,Q3329412"
+Q391125,Šinahuttum,SIGHT,40.019722,34.615278,,,CC0-1.0,7,Šinahuttum,,arkeolojik_sit,şehir | arkeolojik sit,"Q515,Q839954"
+Q6366659,Kapılıkaya Kaya Mezarı,SIGHT,40.756555,34.910427,,,CC0-1.0,5,Kapilikaya Rock Tomb,Komutan İkezios'un Mezarı,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,arkeolojik sit | kaya mezarı | türbe,"Q838159,Q839954,Q1404229"
+Q15664482,Hüseyindede Höyüğü,SIGHT,40.287000,34.232800,,,CC0-1.0,4,Hüseyindede Tepe,Hüseyindede Tepesi,arkeolojik_sit,arkeolojik sit,Q839954
+Q31188759,Boğazköy Müzesi,SIGHT,40.025257,34.608177,,,CC0-1.0,3,Boğazköy Museum,Çorum Boğazköy Müzesi | Boğazkale Müzesi | Boğazköy Müzesi,müze,müze | arkeoloji müzesi,"Q33506,Q3329412"
+Q20473289,Boğazköy-Alacahöyük Tarihî Millî Parkı,SIGHT,40.075278,34.610556,,Boğazkale İlçesi,CC0-1.0,3,Boğazkale Alaçahöyük Milli Parkı,,milli_park_tabiat | arkeolojik_sit,millî park (Türkiye) | arkeolojik sit,"Q839954,Q108060568"
+Q118121340,Büyük Tapınak,SIGHT,40.019806,34.615444,,Boğazkale İlçesi,CC0-1.0,3,Great Temple (Ḫattuša),1 No'lu Tapınak,,tapınak,Q44539
+Q67183183,Büyükkale,SIGHT,40.015000,34.618611,,Boğazkale İlçesi,CC0-1.0,3,Büyükkale,,arkeolojik_sit,arkeolojik sit | insan yerleşimi,"Q486972,Q839954"
+Q5039691,Carissa,SIGHT,40.527786,35.140618,,,CC0-1.0,3,Carissa,Garsi,arkeolojik_sit,antik kent,Q15661340
+Q6100895,Eskiyapar Höyüğü,SIGHT,40.158056,34.773056,,,CC0-1.0,3,Eskiyapar Höyük,,arkeolojik_sit,arkeolojik sit,Q839954
+Q111609319,"Kral Kapısı, Hattuşa",SIGHT,40.009250,34.622611,,Boğazkale İlçesi,CC0-1.0,3,"King's Gate, Hattusa",,kale_sur,şehir kapısı,Q82117
+Q6023334,Osmancık II. Beyazıt Köprüsü,SIGHT,40.970170,34.800560,,,CC0-1.0,3,Koyun Baba Bridge,Beyazıt II Köprüsü | Koyun Baba Köprüsü | Osmancık Köprüsü | II.Beyazıt Köprüsü | Koyunbaba Köprüsü,köprü,köprü | karayol köprüsü,"Q12280,Q537127"
+Q21528314,Çorum Saat Kulesi,SIGHT,40.549889,34.953722,,,CC0-1.0,3,Çorum Clock Tower,,kule | anıt_heykel | kule_saat,saat kulesi | tarihi mekân,"Q853854,Q1081138"
+Q85756736,Diacopa,SIGHT,40.886520,35.200313,,,CC0-1.0,2,Diacopa,,arkeolojik_sit,antik kent,Q15661340
+Q96760008,Hattuşa Aslanlı Kapı,SIGHT,40.010139,34.610056,,Boğazkale İlçesi,CC0-1.0,2,"Lion Gate, Hattusa",,kale_sur,şehir kapısı | heykel,"Q82117,Q860861"
+Q111307346,Hattuşa Sfenksli Kapı,SIGHT,40.006180,34.616676,,Boğazkale İlçesi,CC0-1.0,2,"Sphinx Gate, Hattusa",,kale_sur,şehir kapısı,Q82117
+Q109790342,Kesikkaya,SIGHT,40.018138,34.614370,,Boğazkale İlçesi,CC0-1.0,2,Kesikkaya,,arkeolojik_sit,kaya oluşumu | arkeolojik sit,"Q631305,Q839954"
+Q31840943,Nişantaş,SIGHT,40.013058,34.617542,,Boğazkale İlçesi,CC0-1.0,2,Nişantaş,Nişantaşı Yazıtı | Nişantaş Yazıtı,anıt_heykel,kaya | anıt,"Q22731,Q4989906"
+Q85793338,Pimolisa,SIGHT,41.013237,34.709815,,,CC0-1.0,2,Pimolisa,Pimolison,arkeolojik_sit,antik kent,Q15661340
+Q21527049,Sungurlu Saat Kulesi,SIGHT,40.162528,34.374139,,Sungurlu,CC0-1.0,2,Sungurlu Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q57614738,Südburg (Ḫattuša),SIGHT,40.013194,34.619250,,Boğazkale İlçesi,CC0-1.0,2,Südburg (Ḫattuša),,kale_sur | arkeolojik_sit,arkeolojik sit | tahkimat | tapınak,"Q44539,Q57821,Q839954"
+Q108228143,Sıklık Boğazı Tabiat Parkı,ACTIVITY,40.585185,35.037279,,,CC0-1.0,2,Sıklık,Sıklık Tabiat Parkı,milli_park_tabiat,korunan alan | tabiat parkı (Türkiye),"Q473972,Q108060572"
+Q125676352,Yamaçtaki Ev,SIGHT,40.018806,34.616583,,Boğazkale İlçesi,CC0-1.0,2,Haus am Hang,Hattuşa Yamaç Evi,ev_konak | arkeolojik_sit,mimari yapı | ev | arkeolojik sit,"Q3947,Q811979,Q839954"
+Q61072563,Çorum Ulu Camii,SIGHT,40.551222,34.952472,,,CC0-1.0,2,"Ulu Mosque, Çorum",Cami-i Kebir | Sultan Alaaddin Camii | Murad-i Rabi Ulu Camii,cami,cami,Q32815
+Q21523972,Alaca Saat Kulesi,SIGHT,40.169361,34.841778,,,CC0-1.0,1,Alaca Clock Tower,,kule | kule_saat,saat kulesi,Q853854
+Q109518358,Alacahöyük Müzesi,SIGHT,40.233063,34.696003,,,CC0-1.0,1,Alacahöyük Museum,,müze,müze,Q33506
+Q118177495,Ali Paşa Hamamı,SIGHT,40.549528,34.954194,,,CC0-1.0,1,Ali Paşa Baths,Yeni Hamam,han_hamam_çarşı,hamam,Q28077
+Q6101569,Boyalı Höyük,SIGHT,40.321100,34.292200,,,CC0-1.0,1,Boyalı Höyük,,arkeolojik_sit,arkeolojik sit,Q839954
+Q49319087,Büyük Laçin Mağarası,ACTIVITY,40.753056,34.886111,,,CC0-1.0,1,Büyük Laçin Cave,,doğa,mağara,Q35509
+Q139436189,Büyükkaya Yerleşimi,SIGHT,40.023678,34.621075,,Boğazkale İlçesi,CC0-1.0,1,Büyükkaya,,arkeolojik_sit,insan yerleşimi | arkeolojik sit,"Q486972,Q839954"
+Q49319116,Damlataş Mağarası (Çorum),ACTIVITY,40.298056,35.284722,,,CC0-1.0,1,Damlataş Cave (Çorum),,doğa,mağara,Q35509
+Q6098522,Fatmaören Höyüğü,SIGHT,40.310000,34.241000,,,CC0-1.0,1,Fatmaören,,arkeolojik_sit,arkeolojik sit,Q839954
+Q118946493,Güpür Hamamı,SIGHT,40.551201,34.953426,,,CC0-1.0,1,Güpür Baths,,han_hamam_çarşı,hamam,Q28077
+Q49342930,Hatip Boğazı,ACTIVITY,40.383889,34.800833,,,CC0-1.0,1,Hatip Straits,,doğa,defile,Q3699460
+Q131902125,Hattuşa Yenicekale,SIGHT,40.010551,34.612526,,Boğazkale İlçesi,CC0-1.0,1,"Yenicekale, Ḫattuša",,kale_sur,kale,Q23413
+Q139436733,Hattuşa Yerkapı,SIGHT,40.006462,34.616676,,Boğazkale İlçesi,CC0-1.0,1,"Yerkapı, Ḫattuša",,kale_sur | arkeolojik_sit,şehir kapısı | arkeolojik sit | kent surları,"Q23418,Q82117,Q839954,Q16748868"
+Q49319381,Koçhisar Mağarası,ACTIVITY,40.098889,34.941667,,,CC0-1.0,1,Koçhisar Cave,,doğa,mağara,Q35509
+Q49319396,Köseeyüp Mağarası,ACTIVITY,40.560556,35.359722,,,CC0-1.0,1,Köseeyüp Cave,,doğa,mağara,Q35509
+Q141877321,Lower City of Ḫattuša,SIGHT,40.020572,34.614432,,Boğazkale İlçesi,CC0-1.0,1,Lower City of Ḫattuša,,arkeolojik_sit,arkeolojik sit | insan yerleşimi,"Q486972,Q839954"
+Q118957804,Osmancık Kandiber Kalesi,SIGHT,40.972908,34.802134,,,CC0-1.0,1,Osmancık Kandiber Castle,Kandiber Kalesi,kale_sur,kale,Q57831
+Q49319641,Pancarlık Mağarası,ACTIVITY,40.645556,34.296944,,,CC0-1.0,1,Pancarlık Cave,,doğa,mağara,Q35509
+Q6094790,Pazarlı Höyük,SIGHT,40.325300,34.951600,,,CC0-1.0,1,Pazarlı Mound,,arkeolojik_sit,arkeolojik sit,Q839954
+Q49319644,"Pazarlı Mağarası (40.30, 34.99)",ACTIVITY,40.299167,34.993611,,,CC0-1.0,1,,,doğa,mağara,Q35509
+Q49319647,"Pazarlı Mağarası (40.31, 34.93)",ACTIVITY,40.310000,34.932222,,,CC0-1.0,1,,,doğa,mağara,Q35509
+Q118395884,Paşa Hamamı (Çorum),SIGHT,40.550564,34.951654,,,CC0-1.0,1,Paşa Baths (Çorum),Tacettin Paşa Hamamı,han_hamam_çarşı,hamam,Q28077
+Q6098698,Resuloğlu Höyük,SIGHT,40.429882,34.175602,,,CC0-1.0,1,Resuloğlu Höyük,,arkeolojik_sit,arkeolojik sit,Q839954
+Q49319771,Sorgun Köyü Kaya,ACTIVITY,40.814444,34.260833,,,CC0-1.0,1,Sorgun Köyü Cave,,doğa,mağara,Q35509
+Q141877509,Temple District of Ḫattuša,SIGHT,40.009882,34.616824,,Boğazkale İlçesi,CC0-1.0,1,Temple District of Ḫattuša,,arkeolojik_sit,arkeolojik sit | tapınak | insan yerleşimi,"Q44539,Q486972,Q839954"
+Q141913667,Upper west gate (Ḫattuša),SIGHT,40.016559,34.611131,,Boğazkale İlçesi,CC0-1.0,1,Upper west gate (Ḫattuša),,kale_sur,şehir kapısı,Q82117
+Q118957855,Veli Paşa Hanı,SIGHT,40.549556,34.952912,,,CC0-1.0,1,Veli Paşa Hanı,"Veli Paşa Hanı, Çorum",han_hamam_çarşı,kervansaray,Q186347
+Q49319901,Çal Mağarası,ACTIVITY,40.545833,35.277500,,,CC0-1.0,1,Çal Cave,,doğa,mağara,Q35509
+Q49319909,Çayköy Mağarası,ACTIVITY,40.389444,35.309167,,,CC0-1.0,1,Çayköy Cave,,doğa,mağara,Q35509
+Q118180511,Çorum Kalesi,SIGHT,40.545498,34.957176,,,CC0-1.0,1,Çorum Castle,,kale_sur,kale,Q57831
+Q49319917,Örencik Mağarası,ACTIVITY,40.376111,35.168056,,,CC0-1.0,1,Örencik Cave,,doğa,mağara,Q35509
+Q49319923,İbekköyü Mağarası,ACTIVITY,40.371389,35.234444,,,CC0-1.0,1,İbekköyü Cave,,doğa,mağara,Q35509
+Q134728106,Alacahöyük Tunç Çağı Mezarları,SIGHT,40.234035,34.695694,,,CC0-1.0,0,,,anıt_heykel | külliye_medrese_türbe,anıt mezar,Q162875
+Q141926355,Altbau (Ḫattuša),SIGHT,40.018671,34.616356,,Boğazkale İlçesi,CC0-1.0,0,Altbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q132183021,Armutlu Höyük,SIGHT,40.212429,34.742676,,,CC0-1.0,0,Armutlu Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132183016,Ağcakoyun Höyük,SIGHT,40.516270,35.182705,,,CC0-1.0,0,Ağcakoyun Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132183011,Ağcaören Höyük,SIGHT,40.565208,35.193741,,,CC0-1.0,0,Ağcaören Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131738688,Aşağı Hamam,SIGHT,40.972103,34.798798,,,CC0-1.0,0,Aşağı Baths,Paşa Hamamı | Çarşı Hamamı,han_hamam_çarşı,hamam,Q28077
+Q134960962,Bayındır Höyük,SIGHT,40.068378,34.758942,,,CC0-1.0,0,Bayındır Höyük,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q134960380,Bozdoğan Höyük,SIGHT,40.158933,35.054198,,,CC0-1.0,0,Bozdoğan Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q141912676,Building A (Ḫattuša),SIGHT,40.015357,34.619825,,Boğazkale İlçesi,CC0-1.0,0,Building A (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141912805,Building B (Ḫattuša),SIGHT,40.015837,34.619554,,Boğazkale İlçesi,CC0-1.0,0,Building B (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141912854,Building C (Ḫattuša),SIGHT,40.015979,34.619387,,Boğazkale İlçesi,CC0-1.0,0,Building C (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141912900,Building D (Ḫattuša),SIGHT,40.016148,34.619722,,Boğazkale İlçesi,CC0-1.0,0,Building D (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141912910,Building E (Ḫattuša),SIGHT,40.016485,34.620044,,Boğazkale İlçesi,CC0-1.0,0,Building E (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913159,Building F (Ḫattuša),SIGHT,40.016762,34.620337,,Boğazkale İlçesi,CC0-1.0,0,Building F (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913173,Building G (Ḫattuša),SIGHT,40.015235,34.619446,,Boğazkale İlçesi,CC0-1.0,0,Building G (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913192,Building H (Ḫattuša),SIGHT,40.015788,34.619230,,Boğazkale İlçesi,CC0-1.0,0,Building H (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913212,Building J (Ḫattuša),SIGHT,40.015063,34.619653,,Boğazkale İlçesi,CC0-1.0,0,Building J (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913225,Building K (Ḫattuša),SIGHT,40.015127,34.620103,,Boğazkale İlçesi,CC0-1.0,0,Building K (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913231,Building M (Ḫattuša),SIGHT,40.015525,34.618814,,Boğazkale İlçesi,CC0-1.0,0,Building M (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913246,Building N (Ḫattuša),SIGHT,40.015589,34.619033,,Boğazkale İlçesi,CC0-1.0,0,Building N (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q132183012,Büyüktepe Höyük ve Nekropolü,SIGHT,40.568806,35.435223,,,CC0-1.0,0,Büyüktepe Necropolis,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q141913253,Citadel gate (Ḫattuša),SIGHT,40.015092,34.618440,,Boğazkale İlçesi,CC0-1.0,0,Citadel gate (Ḫattuša),,arkeolojik_sit,burgtor | arkeolojik sit,"Q839954,Q98141239"
+Q132182745,Dedepınar Höyük,SIGHT,40.130409,34.758087,,,CC0-1.0,0,Dedepınar Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131391301,Demirşeyh Türbesi,SIGHT,40.268368,34.510860,,,CC0-1.0,0,Demirsheikh Tomb,Demirşıh Türbesi,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132183022,Deretarla Höyük,SIGHT,40.527386,34.824028,,,CC0-1.0,0,Deretarla Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131739016,Deri Hamamı,SIGHT,40.734398,34.474815,,,CC0-1.0,0,Deri Baths,,han_hamam_çarşı,hamam,Q28077
+Q132183018,Dikmenintaş Höyük,SIGHT,40.476597,35.310425,,,CC0-1.0,0,Dikmenintaş Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q141899615,Eastern Ponds (Ḫattuša),SIGHT,40.012619,34.619435,,Boğazkale İlçesi,CC0-1.0,0,Eastern Ponds (Ḫattuša),,arkeolojik_sit,yapay gölet | arkeolojik sit | mabet,"Q697295,Q839954,Q3253281"
+Q132183024,Ebemçesmesi Höyük,SIGHT,40.546818,35.129188,,,CC0-1.0,0,Ebemçesmesi Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132134372,Elvan Çelebi Zaviyesi,SIGHT,40.566400,35.164200,,,CC0-1.0,0,Elvan Çelebi Mosque,Elvan Çelebi Zaviyesi,mezar | külliye_medrese_türbe | anıt_heykel | cami,cami | türbe | tekke,"Q32815,Q833913,Q838159"
+Q135582714,Erzurum Dede Türbesi,SIGHT,40.532864,34.933006,,,CC0-1.0,0,Erzurum Dede Türbesi,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q134728169,Gerdek Kaya Mezarı,SIGHT,40.241226,34.879993,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı,"Q162875,Q1404229"
+Q132183008,Gökçebel Höyük,SIGHT,40.643608,35.325626,,,CC0-1.0,0,Gökçebel Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134728270,Göztepe Tümülüsü,SIGHT,40.069063,34.791354,,,CC0-1.0,0,Göztepe Tumulus,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,anıt mezar | tümülüs,"Q34023,Q162875"
+Q131902209,Hacıhamza Kalesi,SIGHT,41.076328,34.449337,,,CC0-1.0,0,Hacıhamza Castle,,kale_sur,kale,Q23413
+Q139431319,Hattuşa Bizans Manastırı,SIGHT,40.011009,34.616531,,Boğazkale İlçesi,CC0-1.0,0,,,kilise | manastır_sinagog,manastır | kilise | mezarlık,"Q16970,Q39614,Q44613"
+Q139436179,Hattuşa Hiyeroglifli Oda 2,SIGHT,40.013245,34.619354,,Boğazkale İlçesi,CC0-1.0,0,,,arkeolojik_sit,kutsal alan | arkeolojik sit,"Q29553,Q839954"
+Q131902285,Hattuşa Küçükkale,SIGHT,40.013901,34.619232,,Boğazkale İlçesi,CC0-1.0,0,,Güney Kale,kale_sur,kale,Q23413
+Q131902124,Hattuşa Sarıkale,SIGHT,40.012731,34.614971,,Boğazkale İlçesi,CC0-1.0,0,"Sarıkale, Ḫattuša",,kale_sur | arkeolojik_sit,kale | arkeolojik sit | tahkimat,"Q23413,Q57821,Q839954"
+Q141901908,Hattuşa suru,SIGHT,40.020899,34.613972,,Boğazkale İlçesi,CC0-1.0,0,City Walls of Ḫattuša,,kale_sur | arkeolojik_sit,kent surları | arkeolojik sit,"Q839954,Q16748868"
+Q64699502,Hattuşa: Hitit Başkenti,SIGHT,40.013890,34.620560,,Boğazkale İlçesi,CC0-1.0,0,Hattusha: the Hittite Capital,,,yapı veya bina grubu,Q18247357
+Q141913295,Hittite citadel wall,SIGHT,40.015050,34.619087,,Boğazkale İlçesi,CC0-1.0,0,Hittite citadel wall,,kale_sur | arkeolojik_sit,sur | arkeolojik sit,"Q57346,Q839954"
+Q141898717,House of the GAL MEŠEDI,SIGHT,40.011272,34.614308,,Boğazkale İlçesi,CC0-1.0,0,House of the GAL MEŠEDI,,ev_konak | arkeolojik_sit,ev | arkeolojik sit,"Q3947,Q839954"
+Q131739196,Kalehisar Hamamı,SIGHT,40.266911,34.714001,,,CC0-1.0,0,Kalehisar Baths,,han_hamam_çarşı,hamam,Q28077
+Q132752682,Kalehisar Hanı,SIGHT,40.267437,34.715153,,,CC0-1.0,0,Kalehisar Hanı,,han_hamam_çarşı,kervansaray,Q186347
+Q133236708,Kalehisar Kalesi,SIGHT,40.268070,34.708569,,,CC0-1.0,0,Kalehisar Castle,Arinna?,kale_sur,kale | sunak,"Q57831,Q101687"
+Q139429773,Kapılıkaya Kaya Mezarı,SIGHT,40.107492,34.798321,,,CC0-1.0,0,,,anıt_heykel | mezar | arkeolojik_sit,kaya mezarı,Q1404229
+Q132183017,Karacaören Höyük,SIGHT,40.650333,34.954819,,,CC0-1.0,0,Karacaören Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q141926272,Kartalkaya (Ḫattuša),SIGHT,40.011304,34.610543,,Boğazkale İlçesi,CC0-1.0,0,Kartalkaya (Ḫattuša),,arkeolojik_sit,arkeolojik sit | Mahmuz,"Q839954,Q1400565"
+Q132182687,Kayabüget Demirci Höyük,SIGHT,40.096439,34.865143,,,CC0-1.0,0,Kayabüget Höyüğü,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q64699534,Kayalı Boğaz,SIGHT,40.003220,34.637220,,Boğazkale İlçesi,CC0-1.0,0,Kayalı Boğaz,,arkeolojik_sit,arkeolojik sit,Q839954
+Q131390509,Kerebi Gazi Türbesi,SIGHT,40.547563,34.941826,,,CC0-1.0,0,Kerebi Gazi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131391300,Koyun Baba Türbesi,SIGHT,40.979973,34.793362,,,CC0-1.0,0,Koyun Baba Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q131390766,Kum Baba Türbesi,SIGHT,40.909521,34.847161,,,CC0-1.0,0,Tomb of Kum Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q132183009,Küçükçalönü Höyük,SIGHT,40.629822,35.333271,,,CC0-1.0,0,Küçükçalönü Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q141913650,Lower west gate (Ḫattuša),SIGHT,40.018013,34.612189,,Boğazkale İlçesi,CC0-1.0,0,Lower west gate (Ḫattuša),,kale_sur,şehir kapısı,Q82117
+Q141913701,Nordbau (Ḫattuša),SIGHT,40.014086,34.617132,,Boğazkale İlçesi,CC0-1.0,0,Nordbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q64699535,Osmankayası Hitit Mezarlığı,SIGHT,40.024030,34.627310,,Boğazkale İlçesi,CC0-1.0,0,Osman Kayası,,anıt_heykel | arkeolojik_sit | mezar,arkeolojik sit | mezar odası,"Q381885,Q839954"
+Q141926459,Pithoshaus (Ḫattuša),SIGHT,40.018840,34.616340,,Boğazkale İlçesi,CC0-1.0,0,Pithoshaus (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q139428405,Sazak Kalesi,SIGHT,40.381274,35.062084,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q132182743,Serçe Höyük,SIGHT,40.572094,34.856068,,,CC0-1.0,0,Serçe Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q134960858,Serçehöyük,SIGHT,40.566744,34.848053,,,CC0-1.0,0,Serçehöyük,,anıt_heykel | arkeolojik_sit,höyük,Q755017
+Q131738677,Sinan Paşa Hamamı,SIGHT,41.076603,34.448940,,,CC0-1.0,0,Baths of Sinan Paşa,,han_hamam_çarşı,hamam,Q28077
+Q132752895,"Sinan Paşa Hanı, Hacıhamza",SIGHT,41.076172,34.448734,,,CC0-1.0,0,Sinan Paşa Hanı (Hacıhamza),,han_hamam_çarşı,kervansaray,Q186347
+Q131738706,Sungurlu Tarihi Hamam,SIGHT,40.162151,34.373402,,,CC0-1.0,0,Sungurlu Hamam,,han_hamam_çarşı,hamam,Q28077
+Q141913731,Südareal (Ḫattuša),SIGHT,40.019322,34.614428,,Boğazkale İlçesi,CC0-1.0,0,Südareal (Ḫattuša),,arkeolojik_sit,mimari yapı | arkeolojik sit,"Q811979,Q839954"
+Q132183010,Sülüklü Höyük,SIGHT,40.584427,35.330017,,,CC0-1.0,0,Sülüklü Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132183019,Taşpınar Höyük,SIGHT,40.299458,34.861305,,,CC0-1.0,0,Taşpınar Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139429462,Toptepe,SIGHT,40.473673,34.812397,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q132183014,Topçam Höyük,SIGHT,40.522167,35.473934,,,CC0-1.0,0,Topçam Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q141900514,Upper City of Ḫattuša,SIGHT,40.008567,34.617940,,Boğazkale İlçesi,CC0-1.0,0,Upper City of Ḫattuša,,arkeolojik_sit,arkeolojik sit | insan yerleşimi,"Q486972,Q839954"
+Q141913422,Upper citadel court (Ḫattuša),SIGHT,40.015751,34.620160,,Boğazkale İlçesi,CC0-1.0,0,Upper citadel court (Ḫattuša),,arkeolojik_sit,avlu | arkeolojik sit,"Q309250,Q839954"
+Q139425748,Veli Rum Baba Türbesi,SIGHT,40.394440,34.876029,,,CC0-1.0,0,,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
+Q141913545,Verbindungsbau (Ḫattuša),SIGHT,40.015755,34.619759,,Boğazkale İlçesi,CC0-1.0,0,Verbindungsbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q141913579,Water basin (Ḫattuša),SIGHT,40.015152,34.619650,,Boğazkale İlçesi,CC0-1.0,0,Water basin (Ḫattuša),,arkeolojik_sit,mabet | arkeolojik sit,"Q697295,Q839954"
+Q141913680,Westbau (Ḫattuša),SIGHT,40.013792,34.616489,,Boğazkale İlçesi,CC0-1.0,0,Westbau (Ḫattuša),,arkeolojik_sit,bina | arkeolojik sit,"Q41176,Q839954"
+Q139429772,Yatankavak Tümülüsü 1,SIGHT,40.106608,34.810666,,,CC0-1.0,0,,,mezar | anıt_heykel | arkeolojik_sit,tümülüs,Q34023
+Q135959692,Yatankavak Tümülüsü 2,SIGHT,40.107431,34.785552,,,CC0-1.0,0,Yatankavak Tumulus 2,,anıt_heykel | mezar | arkeolojik_sit,tümülüs,Q34023
+Q132182759,Yuğ Höyük,SIGHT,40.244762,35.242977,,Ortaköy,CC0-1.0,0,Yuğ Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q132183023,Çayhatap Höyük,SIGHT,40.428326,34.819840,,,CC0-1.0,0,Çayhatap Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q139428407,Çeşmeören Kalesi,SIGHT,40.395911,34.867731,,,CC0-1.0,0,,,kale_sur,kale,Q57831
+Q137705242,Çorum Arkeoloji Müzesi,SIGHT,40.550600,34.955000,,,CC0-1.0,0,Çorum Archaeology Museum,,müze,müze,Q33506
+Q132682009,Çorum Arkeoloji ve Etnografya Müzesi,SIGHT,40.542519,34.951126,,,CC0-1.0,0,Çorum Archaeological Museum,,müze,müze,Q33506
+Q132182686,Çöplü Höyük,SIGHT,40.186840,34.995663,,,CC0-1.0,0,Çöplü Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135959695,Örükaya Tümülüsü,SIGHT,40.105465,34.902401,,,CC0-1.0,0,Örükaya Tumulus,,anıt_heykel | mezar | arkeolojik_sit,tümülüs,Q34023
+Q132183015,Ürfeçalı Höyük,SIGHT,40.528061,35.455070,,,CC0-1.0,0,Ürfeçalı Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q135035188,İncesu Mağara Kale,SIGHT,40.257194,35.343113,,Ortaköy,CC0-1.0,0,,,kale_sur,sur | tarihî bina,"Q57346,Q35112127"
+Q131901887,İskilip Kalesi,SIGHT,40.735745,34.473896,,,CC0-1.0,0,İskilip Castle,,kale_sur,kale,Q23413
+Q134728193,İskilip Kaya Mezarları,SIGHT,40.734470,34.473949,,,CC0-1.0,0,,,anıt_heykel | mezar | külliye_medrese_türbe | arkeolojik_sit,anıt mezar | kaya mezarı,"Q162875,Q1404229"
+Q133475816,Şapinuva Tablet Arşivi,SIGHT,40.260479,35.236694,,Ortaköy,CC0-1.0,0,,Ortaköy Tablet Arşivi,arkeolojik_sit,arkeolojik sit,Q839954
+Q132183020,Şavata Höyük,SIGHT,40.308590,34.917091,,,CC0-1.0,0,Şavata Höyük,,arkeolojik_sit | anıt_heykel,höyük,Q755017
+Q131390765,Şeyh Muhiddin Yavsi Türbesi,SIGHT,40.730500,34.470800,,,CC0-1.0,0,Sheikh Muhiddin Yavsi Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe,Q838159
