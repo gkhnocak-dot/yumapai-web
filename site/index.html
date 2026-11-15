@@ -25,6 +25,8 @@
   <link rel="stylesheet" href="yu-web.css">
   <!-- the engine script is the same on every browser: start its download now instead of after flutter_bootstrap.js ran -->
   <link rel="preload" href="main.dart.js" as="script">
+  <!-- açılış plakası logosu: HTML plaka ve Flutter plakası aynı dosyayı kullanır (tek indirme) -->
+  <link rel="preload" href="assets/assets/images/yumapai-logo-tam.png" as="image">
   <!-- MapLibre GL JS 4.7.1 (BSD-3), self-hosted: harita (maplibre_gl web) CDN'den değil buradan yüklenir -->
   <link rel="stylesheet" href="maplibre/maplibre-gl.css">
   <script src="maplibre/maplibre-gl.js"></script>
@@ -32,7 +34,7 @@
   <script src="flutter_bootstrap.js" async></script>
 </head>
 <body>
-  <div id="yu-splash" aria-hidden="true"><img src="icons/Icon-192.png" alt="" width="96" height="96"></div>
+  <div id="yu-splash" aria-hidden="true"><img src="assets/assets/images/yumapai-logo-tam.png" alt="" width="168" height="168"></div>
   <noscript><p class="yu-noscript">YuMapAI'yi kullanmak için tarayıcında JavaScript açık olmalı.</p></noscript>
 </body>
 </html>
