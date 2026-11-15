@@ -1,157 +1,157 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy
-619e35b4-e318-45ad-9801-ca875c3bd62c,People's Coffee,CAFE,37.248276,43.614513,,Çukurca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-b7ddbdd1-650e-4b37-a08f-c8f69a10d21a,Çukurca Polisevi,RESTAURANT,37.246223,43.61245,Kaymakam Niyazi Erten Caddesi No:1,Çukurca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-eb906a0d-d1fd-415b-84a7-dbe205acc3b6,Zap Sofrası,RESTAURANT,37.246761,43.611252,Çukurca Yolu,Çukurca,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-a14340ab-de43-4637-852c-365c2b04b818,Çocuktepe Dam,SIGHT,37.290096,43.579498,,Çukurca,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f43c43c3-7104-4843-8694-9196c2cecce3,Zap Dinlenme Tesisi,RESTAURANT,37.518356,43.730648,"çem mevkii, 30110 çokurca yolu üzeri ağacdibi köyü yol ayrımı, Ağaçdibi Köyü Yolu",Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-dae4d71c-a3b2-41b8-ba24-a6f9367b62dc,Hakkari Doğu Koleji,HOTEL,37.563747,43.719154,"30000, Fırat Cd.",Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-08d5c2bf-8776-421d-98c6-af9b5239ffcd,Rüya Giyim,SHOPPING,37.57465,43.731346,Çölemerk Cd. No:14,Hakkari,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-ed737f34-4a49-47d4-8e88-9b9479ab0279,Grotto artisan coffee,CAFE,37.57539,43.73156,"hakim kaya apartmanı, çölemerik caddesi",Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-8eff99e4-7113-473d-9a88-235e4aec4b3b,Ade's Garden,CAFE,37.574894,43.731762,"55/1, çevre yolu üzeri çölemerik caddesi Kızılkaya apartmanı no",Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-06a48299-fc0e-4d18-a681-da7b31f35896,Tarhan Izgara,RESTAURANT,37.57378,43.733578,Kamil koç yazıhane yan tarafı kahvehane üstü ,Hakkari,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-7d72c5a4-9720-4dd2-9975-c14124fd510a,Çölemerik Park,SIGHT,37.57563,43.737759,,Hakkari,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-e42ae0b6-a0c4-4c43-9c7b-bc06bd127f88,Kent Park Yaşam Merkezi,SIGHT,37.575466,43.737545,,Hakkari,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-9120d8ef-8d7f-4fb1-ac33-d4e975839755,Meftun-u Hayal Cafe and Restaurant,CAFE,37.573887,43.73682,Cumhuriyet Cd. No:51,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-0c647d1a-1885-43e7-aeed-112caa1904ae,Bozkurtlar Yuvası,SIGHT,37.561474,43.746876,Hakkari Polis Özel Harekat Şube Müdürlüğü,Hakkari,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle
-e9a2b6d4-9e05-4fe2-b924-231ccecada9d,Hakkari Polis Evi,HOTEL,37.57542,43.739151,İstiklall Cd. No:40,Hakkari,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-9c22c3fe-1897-4582-9b2d-fdbd88948179,90+ playstation cafe,CAFE,37.574375,43.740788,valilik civarı defterdarlık yanı ,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-383dd204-706c-4198-ac29-3ddffe9044f1,Hakkari Depin Restorant,RESTAURANT,37.570282,43.768051,Çölemerk Caddesi,Hakkari,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-f0efd286-e1a7-4b30-bd9f-2f31a67e9e96,Hakkari Evi,RESTAURANT,37.576347,43.741684,,Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-514fe448-12d0-4c78-ab5c-ab2fad5e8b07,Maximus Pizza,RESTAURANT,37.576439,43.737926,İstiklall Cd. No:18,Hakkari,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
-7a6c3de3-260d-48b1-b824-05af88127186,Çiğ Köfteci Hasan Aybak 2,RESTAURANT,37.576721,43.738003,İstiklall Cd. No:17,Hakkari,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-5a33b25a-41df-4abb-a9a1-d67bed51742d,People's Coffee Hakkari,CAFE,37.578911,43.735043,Özdemirler Sokak No:13,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-3cd7223c-52a7-43e6-bcc0-d3b7b919c12a,Haci Baba Kebap,RESTAURANT,37.577557,43.736469,Bulvar Cd. NO:1,Hakkari,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-76c611b6-2342-4e99-a4e9-a3fb94f4cb7c,Cafe Barcelona,CAFE,37.576992,43.737438,İstiklal Cad,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-30ee0852-adc5-4424-ae91-128723185267,Yılmaz Dondurma & Tatlı,CAFE,37.576935,43.737286,"No:, İstiklall Cd. No:10",Hakkari,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-4bb64897-6f2d-4ab3-8d82-6e06f109c68d,star otel,HOTEL,37.576553,43.737076,"STAR OTEL, 1009. Sk.",Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-d9e5a2c3-808b-4627-b347-3168274f99bc,Sümbül Hotel,HOTEL,37.576565,43.737469,"1009. Sk. No:2, 30000",Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-7071b8f8-f5c3-459e-8424-f62b57ae6d41,YeşilÇam Cafe,CAFE,37.576836,43.73745,"ZiratBankası Yanı, HakkariMerkez, İstiklall Cd.",Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-8f6e376c-a569-4c74-be42-f7248da10c72,Hakkari Sofrası,RESTAURANT,37.576027,43.737244,Bulak Mah. Altay Cad. Ptt Kargo Yanı Boyner aprt zemin kat Merkez/,Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-d13fadb7-babb-4f6c-a518-f70b106b4b84,Colemerg,SIGHT,37.576385,43.73666,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-304fcd08-d866-4e12-9c27-d4f77e3ddb15,Hakkari Merkez Pansiyon,HOTEL,37.576389,43.736355,cumhuriyet cd.aydoğanlar işhanı MERKEZ PANSİYON,Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-4ab05982-a8d9-4fc2-8fea-ad5e4c475a51,Zeyno cafe,CAFE,37.577141,43.737022,Bulvar Caddesi 2,Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-566c46db-a621-461b-94a9-32346980fd8e,Hakkari Öğretmenevi,HOTEL,37.576916,43.736408,Bulak Mah. Cumhuriyet Cad.,Hakkari,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,lodging,lodging
-062d50da-2748-4593-8a2e-8690de07d719,Derya Kebap Salonu,RESTAURANT,37.577026,43.736309,Hakkari Bulak Mahallesi Ogretmen Evi Karşısı İs Bankası Yanı,Hakkari,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-c177ebe8-f94f-42ca-9207-43837c67337c,Qüba Cafe,CAFE,37.577168,43.735943,,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-c79e021d-2fcb-4a27-922b-c46424c52c4d,Zerya Balik Lokantasi,RESTAURANT,37.576702,43.735744,Kayacan caddesi idem market arası merkez,Hakkari,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
-613835df-9d10-4765-9d36-2748b7d6131c,The Cafe Of Cembeli & Bistro,CAFE,37.577843,43.735321,Bulvar Cad,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-626118c1-87b6-4ef5-bb1d-aef38aea439c,Kavanİ Coffee & Restaurant,CAFE,37.578163,43.735638,"Erdoğan Apt, Bulvar Cd. Kat:2",Hakkari,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
-58bbad49-611b-4e39-8355-1849ae14bc51,Burgering Fast Food Cafe,RESTAURANT,37.578026,43.735008,Bulvar Caddesi 3,Hakkari,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-bd4bc0a2-a077-4679-8802-2764dafafb12,Emek Simit Salonu,CAFE,37.577934,43.734711,Bulvar Cad.,Hakkari,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-fa7402a5-c44c-4aa4-97c8-35bc46954e9b,Elit Cafe,CAFE,37.578022,43.734497,Bulvar caddesi kaya plaza kat:3,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-84accd46-bc07-4ee0-af44-ad3863a480a3,Cömerd Ciğer Evi,RESTAURANT,37.577995,43.734486,Kaya Plaza Kat 2,Hakkari,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-12d209b9-b717-475c-b684-2f5e12814c8c,Cafedeyim,CAFE,37.578327,43.734322,"Oğuz Kurt Apt. Kat:2 Merkez/, 1102. Sk.",Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-ad87f327-f4d2-43c1-b24b-46626a093bae,Kahve Deryası,CAFE,37.578491,43.734093,Çölemerk Cd. No:2,Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-5544be79-367a-4dcf-928e-1187dcb7e13a,Şenler Otel,HOTEL,37.578369,43.734001,Çölemerk Cd.,Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-5baac6a2-e8ef-486e-a8f5-d948d3ec1fd2,AHS Cafe,CAFE,37.577877,43.733643,,Hakkari,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
-7f28abce-fa8c-4562-95f3-5723d4112c31,Valilik Parkı,SIGHT,37.577873,43.733692,,Hakkari,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-b8f96a65-f9e7-4183-b6d5-16e048e57859,SEFA Restaurant,RESTAURANT,37.578121,43.733891,Çölemerk Cd. No:1,Hakkari,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-4d973cf9-74fd-4c26-abd7-0d01318f42d8,Elif Yöresel Kahvaltı Salonu,RESTAURANT,37.578075,43.733963,Cumhuriyet Cad. Şenler Oteli Altı,Hakkari,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant
-8cd0c6c8-94d4-430c-a9b3-c825b4b3610e,Ustam Ciğer Ve Kebap,RESTAURANT,37.577026,43.732754,"Nisan İlkokulu Ortaokulu Arkası, Çölemerik Caddesi No:23",Hakkari,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-72d5e9b2-fa36-47cc-b332-fc6d7f6aa140,Kralın Yeri,CAFE,37.577095,43.732418,Çölemerik Cad,Hakkari,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
-e6e9d646-9269-47c7-b4d1-1cbd544f4bb4,Diyarbakir Cigercisi,RESTAURANT,37.57732,43.732628,813. Sk. No:3,Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-9bac8c89-f51a-4abe-a08b-794d0854592f,Sah-I Tat Kunefe,CAFE,37.577618,43.733032,Çölemerk Cd.,Hakkari,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-40637bbc-2808-4863-8e7b-1d53ebf97718,Reng-I KAHVE,CAFE,37.578602,43.734715,Bulvar Bulvar Caddesi Akış İş Merkezi HAKKARI,Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-3fa3169d-dde8-489f-8f62-a06ff1dd3649,"Geçitli, Hakkâri",SIGHT,37.592644,43.566162,Hakkari Merkez'in Batısinda Kalır Şehir Merkezine Uzaklığı 30 Km'dir.,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-d793a9ee-09d7-4da1-9c67-bfc8c8ca198d,Durankaya,SIGHT,37.566666,43.616665,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-7f0b2e95-1ae3-4f69-ab77-705e5923305e,Sine Köprüsü,SIGHT,37.465443,43.51004,Çukurca Yol,Çukurca,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-4be17b66-94ff-4b0e-a11f-a4e87e2c402d,Kolbaşı,SIGHT,37.671822,43.938042,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-faa87de2-8fd0-4f65-9706-ae3eee855559,Bazaar Market,SHOPPING,37.791698,44.125599,HÜKÜMET KONAĞI KARŞISI,Hakkari,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-b6f6d6f9-e066-4e99-aa2e-815704dad449,Ceme Awa Res,SIGHT,37.829075,44.102234,,Hakkari,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach
-774b3e2d-f8f1-4928-b22b-d5e99b22adfe,"Bağdaş, Yüksekova",SIGHT,37.70451,44.206013,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-b73e1aca-da19-40a4-bb3d-47f156198989,Dilimli Dam,SIGHT,37.619999,44.362778,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-b7ada185-9143-46dc-8356-93e6a146346e,"Dedeler, Yüksekova",SIGHT,37.505833,44.356937,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-c01fc596-6fdd-4a89-8590-b5119319f40e,Şemdinli Altınsu - Şapatan,SIGHT,37.344292,44.517006,Şemdinli Altınsu - Şapatan,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-577b31c4-6b0b-4d1d-ae38-43ef5fdf47c5,Nehri Şifa Alabalık Restoran,RESTAURANT,37.289417,44.520653,Bağlar Köyü Yolu,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-188ad913-e131-4550-8a1b-ba7776deeb61,"Bağlar, Şemdinli",SIGHT,37.287243,44.521282,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-66ae4233-4982-4c75-932b-e23dc141eaf0,Aslandağ Dam,SIGHT,37.324688,44.440784,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-e9c639d4-53ac-4773-a157-d33f03b4640e,Beyyurdu Dam,SIGHT,37.340397,44.433563,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-8cff6a87-b31e-4b46-92c5-01ee794643c5,dağdibi alabalık tesisi,RESTAURANT,37.511734,44.18652,Unnamed Road,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-785f6f94-3837-40eb-ac7b-8ee2e040c677,Gürdere,SIGHT,37.493927,44.214817,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-e4197437-69f9-4a54-805a-f187f33efe77,ÇAYIR seyrangah,RESTAURANT,37.546669,44.266167,"""baskınlar düğün salonu, Dağlıca yolu, karşısı üzeri""",Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-c596064c-200d-48f1-b8d5-8612429e828f,DoubleTree by Hilton Yuksekova,HOTEL,37.565868,44.260994,Ipek Yolu Cad No:292/1,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-4f58c6dc-7345-40a2-bbc4-c6fb8bd69212,Lavdar Organik Van Kahvaltı Salonu,RESTAURANT,37.569435,44.275063,esenyurt mahallesi ipekyolu caddesi,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-c25aed16-7acd-47cf-bc02-874369d2cf2b,Nişan Park Avm,SHOPPING,37.568626,44.272453,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-baa803e3-ec7e-4cce-9695-2bbfa23b34dc,Domino's Pizza Yüksekova,RESTAURANT,37.570652,44.278183,"İpekyolu Cd, Hakkari Yüksekova Yolu No:287",Yüksekova,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
-95436672-fca8-4289-87c9-f59bf688b459,Leyl Pub,RESTAURANT,37.573162,44.2813,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
-dedab74e-3e82-45bf-937c-a56a4a2cf9a2,Konak Kahvaltı Evi,RESTAURANT,37.572643,44.281239,Ziraat Bankadı Karşısı,Yüksekova,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant
-9c5b719c-8c53-4980-93bd-6443caabb8c9,nav doskiya,SIGHT,37.572613,44.28141,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-9d5bb1d3-1e73-454e-95f4-654c46dd72b8,Hotel Zafer,HOTEL,37.57188,44.281498,Cengiz Topel Cd.,Yüksekova,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel
-d8bd3496-5591-4dec-ab91-a39a5daf923e,Yüksekova Sur Ciğercisi,RESTAURANT,37.572227,44.28112,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant
-0db06aab-3c35-4e69-b88a-c2f62e31ce7a,Nojdarî Bistro,CAFE,37.572319,44.281269,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-938e8d2a-8ca4-4579-b84f-58a9f9afb8b5,Elite My Garden,HOTEL,37.57275,44.280071,İPEK YOLU CAD NO:146,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-4abe53bb-2b86-424f-b3cb-8a856a9df75f,People's Coffee,CAFE,37.571571,44.279362,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-a60f2eac-6681-4fad-8c8c-48b73e7a8230,Furkan Künefe,CAFE,37.57169,44.279087,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-a72c6d47-5f61-4efd-8382-72c9c79c7b86,Yuksekova Ogretmenevi,HOTEL,37.570507,44.280342,Milli Egemenlik Cd. No:7,Yüksekova,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-840ebf27-3a9a-4f1f-9c3f-f581ab58a726,Kültür Cafe & Restaurant,CAFE,37.569969,44.280949,Kültür Sanat Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-9cefcdbc-c738-4f37-82ff-5cc183c4f558,Soryan City,SHOPPING,37.568615,44.285748,Cengiz Topel Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-f9d9d074-69ba-46b6-98a0-491154d70bfe,Epilya Cafe,CAFE,37.568954,44.286549,Eski,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-ca834d7b-71bb-49fa-b88d-c4ccac49135d,Hotel Grand Yılmaz,HOTEL,37.569523,44.285252,Nedim Zeydan Cd Üzeri No:147/A,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-83defe7e-23a4-45e0-bae1-668799a795d2,Yeşilçam Konağı,CAFE,37.569679,44.285206,Kotteks Yanı,Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-78111707-a3a4-4051-9c63-cdcfc7b60be4,Zagros Business Center,SHOPPING,37.569733,44.284519,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-e68bf640-a8d1-42bf-a55d-d2038f1722e6,Kebapçı Celal Usta,RESTAURANT,37.570431,44.284595,Eski sebze hali,Yüksekova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-b4062b9d-9605-4827-b6b6-b8d16cf872e6,Kumeschchicken,RESTAURANT,37.570053,44.284199,"Gongur mahalesi, Nedim Zeydan Cd No:80",Yüksekova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-1843b878-5106-43b5-96c8-90d8c843eb92,Otel Ova,HOTEL,37.570229,44.284046,Nedim Zeydan Cd no:74/A,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-7195ed74-1cf8-41f3-99b1-81e6f48ef2da,Tuana Pastanesi,CAFE,37.570431,44.283813,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-01b64f09-0bc7-4603-8453-f0123223613e,Metro Cafe,CAFE,37.569664,44.284378,Hayattin Kesici Cd. Zagros İş Merkezi,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-9a9794b2-9653-476c-afab-36ad85d04da0,Hazeyi İş Merkezi,SHOPPING,37.569073,44.284336,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-236be3fc-a8f1-48da-a386-146ff950a0db,The Best Coffee,CAFE,37.571762,44.281982,"Milli Egemenlik Cd A D:no 2, 30300",Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-1698d758-222e-494b-8966-131f11b35d4b,Şölen lokantası,RESTAURANT,37.57156,44.282322,Nedim Zeydan Cd No:28 kat.2,Yüksekova,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant
-a669cfb7-b3c8-4eae-a858-9fd7ea655d9d,Tutku Pastanesi,CAFE,37.571548,44.28228,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-b768cb7c-b1d9-4dc9-bb82-f0646888431f,Populer Kafe,CAFE,37.571465,44.282387,Pasaj İçi,Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-2d05f5d4-79db-4ba6-9afb-35877731aa58,Milano Avm,SHOPPING,37.571529,44.282516,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-85ddd71c-ba76-401d-9a51-54c70f115c2c,Geverok,RESTAURANT,37.571724,44.282883,YÜKSEKOVA/MERKEZ,Yüksekova,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub
-ee79f44d-1f3f-4cbe-bc6d-e7f0bc595b4b,Yuksekova Oslo Otel,HOTEL,37.571278,44.28307,Cengiz Topel Caddesi 63,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-407a9d18-843b-4987-a2f5-070e296d4233,Opia Cafe,CAFE,37.57095,44.283051,"Murat Dara Office Teras, Hayattin Kesici Cd. Kat No 42",Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-35aa13a0-973d-439b-b94b-18705c8b72f7,Meşhur Çiğ Köfteci Ramazan Usta,RESTAURANT,37.570843,44.282745,Anafatlar cad. Altan basajı yanı,Yüksekova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-3d922699-0a34-40ec-818f-e571820cc5a5,Mevlana Kebap Salonu,RESTAURANT,37.571003,44.282871,Av. Hikmet Güngör Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-8ac7d865-9692-47e5-b806-fcb8632a0e73,La Cassa Cafe Bar,RESTAURANT,37.570896,44.282631,"Altanlar pasajı, Anafartalar caddesi kat:2",Yüksekova,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
-d0e637a4-9c42-4db0-9e78-fbabf13102e3,Terrace House Cafe Restaurant,RESTAURANT,37.570683,44.283154,Özgürlük Meydanı Milano İş Merkezi Kat:8,Yüksekova,CDLA-Permissive-2.0,Overture|meta,american_restaurant,food_and_drink>restaurant>north_american_restaurant>american_restaurant
-ece10213-dc70-467a-931b-92b23b73ad70,Chef coffee house,CAFE,37.570915,44.283157,"Chef Coffee House, Güngör mahallesi cengiz topel caddesi Erşan İş Merkezi, no.54",Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-5dcd824c-7857-4f93-ae7e-b68a8cb2ae38,Cadde Cafe,CAFE,37.570972,44.283432,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-4b26936c-3dd0-4e40-8910-b4a22f0c184d,Lawash,RESTAURANT,37.570492,44.28397,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-ab92d3a3-fdab-4281-9063-974658746228,Zagros Avm,SHOPPING,37.571346,44.283543,Nedim Zeydan Cd No:96,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-f091a32b-6e7e-43e3-8a06-862e7a4fa2ea,Huzur Restaurant,RESTAURANT,37.571259,44.283371,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-39954d25-cffa-4346-9a83-64ff7f0ec1f2,Yüksekova Haber,RESTAURANT,37.571262,44.283165,Cengiz Topel Cad. Fly Center Kat:4,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-5976477e-16f5-4a6e-9c78-5d8cddab71f1,Esen Hotel,HOTEL,37.571171,44.283131,Nedim Zeydan Cd No:71,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-badeee08-7521-4079-b26d-df8771c767c4,Öz Damak Restaurant,RESTAURANT,37.571331,44.283154,Özdamak ocakbaşı et ve balık lokantası ,Yüksekova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-1000ebf9-e7c2-403c-bc5d-68170fb2623c,Hacıbaba Kahvaltı Salonu,CAFE,37.572826,44.283611,Hacı Ömer Sabancı Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-0f1e5b59-6cd8-4325-a9ba-8d9f21bc5d93,Loca and Life Bistro,CAFE,37.571812,44.281979,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-995d1fd2-b63d-4d79-a231-34c482c3bb34,Adana Kebapçısı,RESTAURANT,37.57188,44.281818,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-a4317a7a-c2e6-4526-b02a-cdbf77a2f0aa,Tuana Cafe&Patisserie,CAFE,37.572056,44.281815,Cengiz Topel Caddesi Hükümet Konağı Karşıs,Yüksekova,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-1123d043-f773-426e-8ed9-8e78f9a2a61a,Arslan Otel,HOTEL,37.572079,44.281815,Yüksekova Hakkari,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-cea1aa98-60ea-4ce1-a511-25ef5621f478,Yüksekova Yeşil Çam Cafe & Pastane,CAFE,37.572094,44.281788,Cengiz Topel Caddesi 171A,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-2148e493-fb44-40fe-8d3d-22d07b79c36e,Cafe Tuana Hakkari Yuksekova,CAFE,37.572613,44.281731,Cafe Tuana,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-abd4d043-e146-42da-b56e-78fa1c9f83d9,Yüksekova Polis Evi,HOTEL,37.572876,44.281933,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-74adda98-1723-4763-9e7d-05fa22bceb75,Mega Nişan Avm,SHOPPING,37.573387,44.281796,İpek Yol Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-0c4d8a0d-2a6f-4f17-87e8-2bdce80e0c1f,DoubleTree by Hilton Yuksekova,HOTEL,37.571835,44.285851,Esenyurt mahallesi Ipekyolu Caddesi no:452/1 Yuksekova,Yüksekova,CDLA-Permissive-2.0,Microsoft|Overture,resort,lodging>resort
-c433e36a-4a65-4486-b565-ba42599b1080,Altiner Hotel,HOTEL,37.560444,44.346249,"NARLI KOYU, MIHLI MEVKII",Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-23d13b26-b3d6-414e-8b67-89e78d7cea48,Starbucks,CAFE,37.576263,44.288982,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-58cad014-db40-4059-a060-7d3649b57cca,Gever Ovası,SIGHT,37.568733,44.242832,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-79382258-c12c-439c-a2fd-9073e6125dbb,Plato Cafe,CAFE,37.560513,44.253105,Çevreyolu Cad No:38/1,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-a84cc4b8-a012-4561-8adf-9a67d2aba18f,Yaşar Et and Steak House,RESTAURANT,37.574741,44.202618,"opet petrol karşısı, Hakkari-Van Yolu üzeri",Hakkari,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-bd2bf572-2a43-4492-bc48-2c36a4eb4747,Aydın söke,CAFE,37.333912,43.965012,atmurgazı atatürk mahalesi,Çukurca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-99d451bd-9b70-4cbf-93ce-0b1eaafdad6f,Derecik Elif Otel,HOTEL,37.074703,44.304722,Derecik ,Derecik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-37be94d9-450d-410d-a562-a9d495de031b,Sedef Pastanesi,CAFE,37.080879,44.311237,Atatürk Caddesi 12,Derecik,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-fa2ea99c-769a-45f4-94ed-8af89e601e99,Dreibig CAFE,CAFE,37.110828,44.323013,hakkari şemdinli derecik yardım avm ustu,Derecik,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-685f894a-15cb-408c-ab5c-272988e43080,"Yaylapınar, Şemdinli",SIGHT,37.241207,44.425602,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-02d79407-fadd-4559-9e06-ab6f7f366d88,"Bağlar, Şemdinli",SIGHT,37.271133,44.523891,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-1c680e5c-c17b-48ad-b566-f74548cd0b8d,Şemdinli Öğretmenler Evi,HOTEL,37.30357,44.574043,Ali Fuat Güven Caddesi 17,Şemdinni,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-23fc7f12-9087-4f0b-8824-d7b9c5f8ada2,Sur çiğercisi,RESTAURANT,37.303566,44.572933,Şemdinli Yüksekova Yolu No:30800,Şemdinni,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-6685f37d-1861-4237-a652-df14d7811e05,Şemdinli Avcı Bal,SHOPPING,37.303516,44.574379,Cum cad Ulu Cami Karşısı şemdinli ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-384224f1-3a89-41bb-8f68-0578e0e7961c,Şelale Döner ve Çorba Salonu,RESTAURANT,37.303513,44.574379,Eski Şemdinli devlet hastanesi arkası/Hükümet konağı karşısı ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-4005754f-a7a6-4cc3-a0b0-bfefce81d93a,Van Avm,SHOPPING,37.303558,44.577068,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-3d71b8f5-12de-4111-8770-5cd7dd656a3f,Nehri Şifa Alabalık Tesisi,RESTAURANT,37.29752,44.565811,Şemdinli/ nehri bağlar köyü,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-332db847-54b8-4966-92ce-cb0b13ede539,Red cup cafe,CAFE,37.305237,44.574894,"Moda, Cumhuriyet Cd. no:56 merkez",Şemdinni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-480ec369-3238-4951-ad54-a9ad3ccc414f,Navşar Lokantası,RESTAURANT,37.305363,44.57478,Cumhuriyet Cd. No:52,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-287ee868-6957-44c7-a127-94d7f590b91f,Şemdinli Güven Pastanesi,CAFE,37.305393,44.574699,cumhuriyet cad.,Şemdinni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-8e5a4825-008a-4ce8-9659-30b258a9d4bf,PİYa Cafe & Restaurant,CAFE,37.306145,44.573277,Moda mah cumhuriyet cad merkez  hakkari / şemdinli ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-43359b32-c37a-4b3e-88ed-bdefc61261cc,Şelale Tantuni,RESTAURANT,37.30616,44.573471,Cumhuriyet Cd. 64b,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-db0aa8f5-7a5e-4d82-af2e-893a81affb08,Suvaroğlu Alabalık,RESTAURANT,37.306076,44.573719,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-edb2eaa5-88ae-4162-90d6-21cf08ba4378,Views Coffee,CAFE,37.306011,44.573723,YENİ MAH.Cumhuriyet CAD. 56.3ŞEMDİNLİ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-298a6715-0a8d-4473-9df7-8d0b45c8efd8,Peoples Cafe,CAFE,37.307514,44.572731,Çankaya Cd. No:7,Şemdinni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-4def4143-c42b-452e-8a70-1319a76e28b1,Şemdinli Boğazici Köprüsü,SIGHT,37.308521,44.570812,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-9ed083e2-5f86-4bf6-bb1e-4d82164aea88,Şemdinli  Çınar İş Merkezi,SHOPPING,37.307575,44.572071,Şemdinli  Çınar İş Merkezi,Şemdinni,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-89677ff7-4626-48bd-a4e1-2cf9ab8fa9c3,Nehri - Masi ALabalik tesisi,RESTAURANT,37.307224,44.572269,Baglar,Şemdinni,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-195001dc-a3bc-4cd8-8f41-4d7c6f4842e6,Bizbize cafe & pizza,CAFE,37.307247,44.572231,yeni mahalle cumhuriyet caddesi nawşar center iş merkezi kat :2,Şemdinni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-7d16b294-ac82-460d-aec4-9dce75aeba77,Şemdinli Altınsu - Şapatan,SIGHT,37.310802,44.568722,Şemdinli Altınsu - Şapatan,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
+619e35b4-e318-45ad-9801-ca875c3bd62c,People's Coffee,CAFE,37.248276,43.614513,,Çukurca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.802
+b7ddbdd1-650e-4b37-a08f-c8f69a10d21a,Çukurca Polisevi,RESTAURANT,37.246223,43.61245,Kaymakam Niyazi Erten Caddesi No:1,Çukurca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.925
+eb906a0d-d1fd-415b-84a7-dbe205acc3b6,Zap Sofrası,RESTAURANT,37.246761,43.611252,Çukurca Yolu,Çukurca,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.926
+a14340ab-de43-4637-852c-365c2b04b818,Çocuktepe Dam,SIGHT,37.290096,43.579498,,Çukurca,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.776
+f43c43c3-7104-4843-8694-9196c2cecce3,Zap Dinlenme Tesisi,RESTAURANT,37.518356,43.730648,"çem mevkii, 30110 çokurca yolu üzeri ağacdibi köyü yol ayrımı, Ağaçdibi Köyü Yolu",Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.947
+dae4d71c-a3b2-41b8-ba24-a6f9367b62dc,Hakkari Doğu Koleji,HOTEL,37.563747,43.719154,"30000, Fırat Cd.",Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
+08d5c2bf-8776-421d-98c6-af9b5239ffcd,Rüya Giyim,SHOPPING,37.57465,43.731346,Çölemerk Cd. No:14,Hakkari,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.890
+ed737f34-4a49-47d4-8e88-9b9479ab0279,Grotto artisan coffee,CAFE,37.57539,43.73156,"hakim kaya apartmanı, çölemerik caddesi",Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.835
+8eff99e4-7113-473d-9a88-235e4aec4b3b,Ade's Garden,CAFE,37.574894,43.731762,"55/1, çevre yolu üzeri çölemerik caddesi Kızılkaya apartmanı no",Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.947
+06a48299-fc0e-4d18-a681-da7b31f35896,Tarhan Izgara,RESTAURANT,37.57378,43.733578,Kamil koç yazıhane yan tarafı kahvehane üstü ,Hakkari,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.838
+7d72c5a4-9720-4dd2-9975-c14124fd510a,Çölemerik Park,SIGHT,37.57563,43.737759,,Hakkari,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.849
+e42ae0b6-a0c4-4c43-9c7b-bc06bd127f88,Kent Park Yaşam Merkezi,SIGHT,37.575466,43.737545,,Hakkari,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.849
+9120d8ef-8d7f-4fb1-ac33-d4e975839755,Meftun-u Hayal Cafe and Restaurant,CAFE,37.573887,43.73682,Cumhuriyet Cd. No:51,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.868
+0c647d1a-1885-43e7-aeed-112caa1904ae,Bozkurtlar Yuvası,SIGHT,37.561474,43.746876,Hakkari Polis Özel Harekat Şube Müdürlüğü,Hakkari,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.743
+e9a2b6d4-9e05-4fe2-b924-231ccecada9d,Hakkari Polis Evi,HOTEL,37.57542,43.739151,İstiklall Cd. No:40,Hakkari,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.924
+9c22c3fe-1897-4582-9b2d-fdbd88948179,90+ playstation cafe,CAFE,37.574375,43.740788,valilik civarı defterdarlık yanı ,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.778
+383dd204-706c-4198-ac29-3ddffe9044f1,Hakkari Depin Restorant,RESTAURANT,37.570282,43.768051,Çölemerk Caddesi,Hakkari,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.899
+f0efd286-e1a7-4b30-bd9f-2f31a67e9e96,Hakkari Evi,RESTAURANT,37.576347,43.741684,,Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
+514fe448-12d0-4c78-ab5c-ab2fad5e8b07,Maximus Pizza,RESTAURANT,37.576439,43.737926,İstiklall Cd. No:18,Hakkari,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.924
+7a6c3de3-260d-48b1-b824-05af88127186,Çiğ Köfteci Hasan Aybak 2,RESTAURANT,37.576721,43.738003,İstiklall Cd. No:17,Hakkari,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.820
+5a33b25a-41df-4abb-a9a1-d67bed51742d,People's Coffee Hakkari,CAFE,37.578911,43.735043,Özdemirler Sokak No:13,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.977
+3cd7223c-52a7-43e6-bcc0-d3b7b919c12a,Haci Baba Kebap,RESTAURANT,37.577557,43.736469,Bulvar Cd. NO:1,Hakkari,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
+76c611b6-2342-4e99-a4e9-a3fb94f4cb7c,Cafe Barcelona,CAFE,37.576992,43.737438,İstiklal Cad,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.936
+30ee0852-adc5-4424-ae91-128723185267,Yılmaz Dondurma & Tatlı,CAFE,37.576935,43.737286,"No:, İstiklall Cd. No:10",Hakkari,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.853
+4bb64897-6f2d-4ab3-8d82-6e06f109c68d,star otel,HOTEL,37.576553,43.737076,"STAR OTEL, 1009. Sk.",Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.790
+d9e5a2c3-808b-4627-b347-3168274f99bc,Sümbül Hotel,HOTEL,37.576565,43.737469,"1009. Sk. No:2, 30000",Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.968
+7071b8f8-f5c3-459e-8424-f62b57ae6d41,YeşilÇam Cafe,CAFE,37.576836,43.73745,"ZiratBankası Yanı, HakkariMerkez, İstiklall Cd.",Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.949
+8f6e376c-a569-4c74-be42-f7248da10c72,Hakkari Sofrası,RESTAURANT,37.576027,43.737244,Bulak Mah. Altay Cad. Ptt Kargo Yanı Boyner aprt zemin kat Merkez/,Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.926
+d13fadb7-babb-4f6c-a518-f70b106b4b84,Colemerg,SIGHT,37.576385,43.73666,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.874
+304fcd08-d866-4e12-9c27-d4f77e3ddb15,Hakkari Merkez Pansiyon,HOTEL,37.576389,43.736355,cumhuriyet cd.aydoğanlar işhanı MERKEZ PANSİYON,Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.922
+4ab05982-a8d9-4fc2-8fea-ad5e4c475a51,Zeyno cafe,CAFE,37.577141,43.737022,Bulvar Caddesi 2,Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.912
+566c46db-a621-461b-94a9-32346980fd8e,Hakkari Öğretmenevi,HOTEL,37.576916,43.736408,Bulak Mah. Cumhuriyet Cad.,Hakkari,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,lodging,lodging,0.770
+062d50da-2748-4593-8a2e-8690de07d719,Derya Kebap Salonu,RESTAURANT,37.577026,43.736309,Hakkari Bulak Mahallesi Ogretmen Evi Karşısı İs Bankası Yanı,Hakkari,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.822
+c177ebe8-f94f-42ca-9207-43837c67337c,Qüba Cafe,CAFE,37.577168,43.735943,,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.814
+c79e021d-2fcb-4a27-922b-c46424c52c4d,Zerya Balik Lokantasi,RESTAURANT,37.576702,43.735744,Kayacan caddesi idem market arası merkez,Hakkari,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.756
+613835df-9d10-4765-9d36-2748b7d6131c,The Cafe Of Cembeli & Bistro,CAFE,37.577843,43.735321,Bulvar Cad,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.805
+626118c1-87b6-4ef5-bb1d-aef38aea439c,Kavanİ Coffee & Restaurant,CAFE,37.578163,43.735638,"Erdoğan Apt, Bulvar Cd. Kat:2",Hakkari,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.915
+58bbad49-611b-4e39-8355-1849ae14bc51,Burgering Fast Food Cafe,RESTAURANT,37.578026,43.735008,Bulvar Caddesi 3,Hakkari,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.779
+bd4bc0a2-a077-4679-8802-2764dafafb12,Emek Simit Salonu,CAFE,37.577934,43.734711,Bulvar Cad.,Hakkari,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.940
+fa7402a5-c44c-4aa4-97c8-35bc46954e9b,Elit Cafe,CAFE,37.578022,43.734497,Bulvar caddesi kaya plaza kat:3,Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.861
+84accd46-bc07-4ee0-af44-ad3863a480a3,Cömerd Ciğer Evi,RESTAURANT,37.577995,43.734486,Kaya Plaza Kat 2,Hakkari,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.803
+12d209b9-b717-475c-b684-2f5e12814c8c,Cafedeyim,CAFE,37.578327,43.734322,"Oğuz Kurt Apt. Kat:2 Merkez/, 1102. Sk.",Hakkari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.906
+ad87f327-f4d2-43c1-b24b-46626a093bae,Kahve Deryası,CAFE,37.578491,43.734093,Çölemerk Cd. No:2,Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.973
+5544be79-367a-4dcf-928e-1187dcb7e13a,Şenler Otel,HOTEL,37.578369,43.734001,Çölemerk Cd.,Hakkari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
+5baac6a2-e8ef-486e-a8f5-d948d3ec1fd2,AHS Cafe,CAFE,37.577877,43.733643,,Hakkari,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
+7f28abce-fa8c-4562-95f3-5723d4112c31,Valilik Parkı,SIGHT,37.577873,43.733692,,Hakkari,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.950
+b8f96a65-f9e7-4183-b6d5-16e048e57859,SEFA Restaurant,RESTAURANT,37.578121,43.733891,Çölemerk Cd. No:1,Hakkari,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.990
+4d973cf9-74fd-4c26-abd7-0d01318f42d8,Elif Yöresel Kahvaltı Salonu,RESTAURANT,37.578075,43.733963,Cumhuriyet Cad. Şenler Oteli Altı,Hakkari,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.870
+8cd0c6c8-94d4-430c-a9b3-c825b4b3610e,Ustam Ciğer Ve Kebap,RESTAURANT,37.577026,43.732754,"Nisan İlkokulu Ortaokulu Arkası, Çölemerik Caddesi No:23",Hakkari,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.890
+72d5e9b2-fa36-47cc-b332-fc6d7f6aa140,Kralın Yeri,CAFE,37.577095,43.732418,Çölemerik Cad,Hakkari,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.765
+e6e9d646-9269-47c7-b4d1-1cbd544f4bb4,Diyarbakir Cigercisi,RESTAURANT,37.57732,43.732628,813. Sk. No:3,Hakkari,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.819
+9bac8c89-f51a-4abe-a08b-794d0854592f,Sah-I Tat Kunefe,CAFE,37.577618,43.733032,Çölemerk Cd.,Hakkari,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.857
+40637bbc-2808-4863-8e7b-1d53ebf97718,Reng-I KAHVE,CAFE,37.578602,43.734715,Bulvar Bulvar Caddesi Akış İş Merkezi HAKKARI,Hakkari,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.796
+3fa3169d-dde8-489f-8f62-a06ff1dd3649,"Geçitli, Hakkâri",SIGHT,37.592644,43.566162,Hakkari Merkez'in Batısinda Kalır Şehir Merkezine Uzaklığı 30 Km'dir.,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.790
+d793a9ee-09d7-4da1-9c67-bfc8c8ca198d,Durankaya,SIGHT,37.566666,43.616665,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.773
+7f0b2e95-1ae3-4f69-ab77-705e5923305e,Sine Köprüsü,SIGHT,37.465443,43.51004,Çukurca Yol,Çukurca,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.719
+4be17b66-94ff-4b0e-a11f-a4e87e2c402d,Kolbaşı,SIGHT,37.671822,43.938042,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.776
+faa87de2-8fd0-4f65-9706-ae3eee855559,Bazaar Market,SHOPPING,37.791698,44.125599,HÜKÜMET KONAĞI KARŞISI,Hakkari,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.789
+b6f6d6f9-e066-4e99-aa2e-815704dad449,Ceme Awa Res,SIGHT,37.829075,44.102234,,Hakkari,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.805
+774b3e2d-f8f1-4928-b22b-d5e99b22adfe,"Bağdaş, Yüksekova",SIGHT,37.70451,44.206013,,Hakkari,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.765
+b73e1aca-da19-40a4-bb3d-47f156198989,Dilimli Dam,SIGHT,37.619999,44.362778,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
+b7ada185-9143-46dc-8356-93e6a146346e,"Dedeler, Yüksekova",SIGHT,37.505833,44.356937,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.812
+c01fc596-6fdd-4a89-8590-b5119319f40e,Şemdinli Altınsu - Şapatan,SIGHT,37.344292,44.517006,Şemdinli Altınsu - Şapatan,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.965
+577b31c4-6b0b-4d1d-ae38-43ef5fdf47c5,Nehri Şifa Alabalık Restoran,RESTAURANT,37.289417,44.520653,Bağlar Köyü Yolu,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.953
+188ad913-e131-4550-8a1b-ba7776deeb61,"Bağlar, Şemdinli",SIGHT,37.287243,44.521282,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.805
+66ae4233-4982-4c75-932b-e23dc141eaf0,Aslandağ Dam,SIGHT,37.324688,44.440784,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.801
+e9c639d4-53ac-4773-a157-d33f03b4640e,Beyyurdu Dam,SIGHT,37.340397,44.433563,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.780
+8cff6a87-b31e-4b46-92c5-01ee794643c5,dağdibi alabalık tesisi,RESTAURANT,37.511734,44.18652,Unnamed Road,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.773
+785f6f94-3837-40eb-ac7b-8ee2e040c677,Gürdere,SIGHT,37.493927,44.214817,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.793
+e4197437-69f9-4a54-805a-f187f33efe77,ÇAYIR seyrangah,RESTAURANT,37.546669,44.266167,"""baskınlar düğün salonu, Dağlıca yolu, karşısı üzeri""",Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.767
+c596064c-200d-48f1-b8d5-8612429e828f,DoubleTree by Hilton Yuksekova,HOTEL,37.565868,44.260994,Ipek Yolu Cad No:292/1,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
+4f58c6dc-7345-40a2-bbc4-c6fb8bd69212,Lavdar Organik Van Kahvaltı Salonu,RESTAURANT,37.569435,44.275063,esenyurt mahallesi ipekyolu caddesi,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.801
+c25aed16-7acd-47cf-bc02-874369d2cf2b,Nişan Park Avm,SHOPPING,37.568626,44.272453,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.866
+baa803e3-ec7e-4cce-9695-2bbfa23b34dc,Domino's Pizza Yüksekova,RESTAURANT,37.570652,44.278183,"İpekyolu Cd, Hakkari Yüksekova Yolu No:287",Yüksekova,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.992
+95436672-fca8-4289-87c9-f59bf688b459,Leyl Pub,RESTAURANT,37.573162,44.2813,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.785
+dedab74e-3e82-45bf-937c-a56a4a2cf9a2,Konak Kahvaltı Evi,RESTAURANT,37.572643,44.281239,Ziraat Bankadı Karşısı,Yüksekova,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.927
+9c5b719c-8c53-4980-93bd-6443caabb8c9,nav doskiya,SIGHT,37.572613,44.28141,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.802
+9d5bb1d3-1e73-454e-95f4-654c46dd72b8,Hotel Zafer,HOTEL,37.57188,44.281498,Cengiz Topel Cd.,Yüksekova,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
+d8bd3496-5591-4dec-ab91-a39a5daf923e,Yüksekova Sur Ciğercisi,RESTAURANT,37.572227,44.28112,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.879
+0db06aab-3c35-4e69-b88a-c2f62e31ce7a,Nojdarî Bistro,CAFE,37.572319,44.281269,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.846
+938e8d2a-8ca4-4579-b84f-58a9f9afb8b5,Elite My Garden,HOTEL,37.57275,44.280071,İPEK YOLU CAD NO:146,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.919
+4abe53bb-2b86-424f-b3cb-8a856a9df75f,People's Coffee,CAFE,37.571571,44.279362,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.978
+a60f2eac-6681-4fad-8c8c-48b73e7a8230,Furkan Künefe,CAFE,37.57169,44.279087,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.924
+a72c6d47-5f61-4efd-8382-72c9c79c7b86,Yuksekova Ogretmenevi,HOTEL,37.570507,44.280342,Milli Egemenlik Cd. No:7,Yüksekova,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.985
+840ebf27-3a9a-4f1f-9c3f-f581ab58a726,Kültür Cafe & Restaurant,CAFE,37.569969,44.280949,Kültür Sanat Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.776
+9cefcdbc-c738-4f37-82ff-5cc183c4f558,Soryan City,SHOPPING,37.568615,44.285748,Cengiz Topel Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.792
+f9d9d074-69ba-46b6-98a0-491154d70bfe,Epilya Cafe,CAFE,37.568954,44.286549,Eski,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.843
+ca834d7b-71bb-49fa-b88d-c4ccac49135d,Hotel Grand Yılmaz,HOTEL,37.569523,44.285252,Nedim Zeydan Cd Üzeri No:147/A,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.957
+83defe7e-23a4-45e0-bae1-668799a795d2,Yeşilçam Konağı,CAFE,37.569679,44.285206,Kotteks Yanı,Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.865
+78111707-a3a4-4051-9c63-cdcfc7b60be4,Zagros Business Center,SHOPPING,37.569733,44.284519,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.859
+e68bf640-a8d1-42bf-a55d-d2038f1722e6,Kebapçı Celal Usta,RESTAURANT,37.570431,44.284595,Eski sebze hali,Yüksekova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.840
+b4062b9d-9605-4827-b6b6-b8d16cf872e6,Kumeschchicken,RESTAURANT,37.570053,44.284199,"Gongur mahalesi, Nedim Zeydan Cd No:80",Yüksekova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.933
+1843b878-5106-43b5-96c8-90d8c843eb92,Otel Ova,HOTEL,37.570229,44.284046,Nedim Zeydan Cd no:74/A,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.942
+7195ed74-1cf8-41f3-99b1-81e6f48ef2da,Tuana Pastanesi,CAFE,37.570431,44.283813,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.906
+01b64f09-0bc7-4603-8453-f0123223613e,Metro Cafe,CAFE,37.569664,44.284378,Hayattin Kesici Cd. Zagros İş Merkezi,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.785
+9a9794b2-9653-476c-afab-36ad85d04da0,Hazeyi İş Merkezi,SHOPPING,37.569073,44.284336,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.747
+236be3fc-a8f1-48da-a386-146ff950a0db,The Best Coffee,CAFE,37.571762,44.281982,"Milli Egemenlik Cd A D:no 2, 30300",Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.926
+1698d758-222e-494b-8966-131f11b35d4b,Şölen lokantası,RESTAURANT,37.57156,44.282322,Nedim Zeydan Cd No:28 kat.2,Yüksekova,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.900
+a669cfb7-b3c8-4eae-a858-9fd7ea655d9d,Tutku Pastanesi,CAFE,37.571548,44.28228,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.805
+b768cb7c-b1d9-4dc9-bb82-f0646888431f,Populer Kafe,CAFE,37.571465,44.282387,Pasaj İçi,Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.839
+2d05f5d4-79db-4ba6-9afb-35877731aa58,Milano Avm,SHOPPING,37.571529,44.282516,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.811
+85ddd71c-ba76-401d-9a51-54c70f115c2c,Geverok,RESTAURANT,37.571724,44.282883,YÜKSEKOVA/MERKEZ,Yüksekova,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.929
+ee79f44d-1f3f-4cbe-bc6d-e7f0bc595b4b,Yuksekova Oslo Otel,HOTEL,37.571278,44.28307,Cengiz Topel Caddesi 63,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
+407a9d18-843b-4987-a2f5-070e296d4233,Opia Cafe,CAFE,37.57095,44.283051,"Murat Dara Office Teras, Hayattin Kesici Cd. Kat No 42",Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.911
+35aa13a0-973d-439b-b94b-18705c8b72f7,Meşhur Çiğ Köfteci Ramazan Usta,RESTAURANT,37.570843,44.282745,Anafatlar cad. Altan basajı yanı,Yüksekova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.871
+3d922699-0a34-40ec-818f-e571820cc5a5,Mevlana Kebap Salonu,RESTAURANT,37.571003,44.282871,Av. Hikmet Güngör Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.874
+8ac7d865-9692-47e5-b806-fcb8632a0e73,La Cassa Cafe Bar,RESTAURANT,37.570896,44.282631,"Altanlar pasajı, Anafartalar caddesi kat:2",Yüksekova,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.942
+d0e637a4-9c42-4db0-9e78-fbabf13102e3,Terrace House Cafe Restaurant,RESTAURANT,37.570683,44.283154,Özgürlük Meydanı Milano İş Merkezi Kat:8,Yüksekova,CDLA-Permissive-2.0,Overture|meta,american_restaurant,food_and_drink>restaurant>north_american_restaurant>american_restaurant,0.926
+ece10213-dc70-467a-931b-92b23b73ad70,Chef coffee house,CAFE,37.570915,44.283157,"Chef Coffee House, Güngör mahallesi cengiz topel caddesi Erşan İş Merkezi, no.54",Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.916
+5dcd824c-7857-4f93-ae7e-b68a8cb2ae38,Cadde Cafe,CAFE,37.570972,44.283432,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855
+4b26936c-3dd0-4e40-8910-b4a22f0c184d,Lawash,RESTAURANT,37.570492,44.28397,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.809
+ab92d3a3-fdab-4281-9063-974658746228,Zagros Avm,SHOPPING,37.571346,44.283543,Nedim Zeydan Cd No:96,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.861
+f091a32b-6e7e-43e3-8a06-862e7a4fa2ea,Huzur Restaurant,RESTAURANT,37.571259,44.283371,Nedim Zeydan Cd,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.828
+39954d25-cffa-4346-9a83-64ff7f0ec1f2,Yüksekova Haber,RESTAURANT,37.571262,44.283165,Cengiz Topel Cad. Fly Center Kat:4,Yüksekova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.913
+5976477e-16f5-4a6e-9c78-5d8cddab71f1,Esen Hotel,HOTEL,37.571171,44.283131,Nedim Zeydan Cd No:71,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.852
+badeee08-7521-4079-b26d-df8771c767c4,Öz Damak Restaurant,RESTAURANT,37.571331,44.283154,Özdamak ocakbaşı et ve balık lokantası ,Yüksekova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.927
+1000ebf9-e7c2-403c-bc5d-68170fb2623c,Hacıbaba Kahvaltı Salonu,CAFE,37.572826,44.283611,Hacı Ömer Sabancı Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.775
+0f1e5b59-6cd8-4325-a9ba-8d9f21bc5d93,Loca and Life Bistro,CAFE,37.571812,44.281979,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.910
+995d1fd2-b63d-4d79-a231-34c482c3bb34,Adana Kebapçısı,RESTAURANT,37.57188,44.281818,Hayattin Kesici Cd.,Yüksekova,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.915
+a4317a7a-c2e6-4526-b02a-cdbf77a2f0aa,Tuana Cafe&Patisserie,CAFE,37.572056,44.281815,Cengiz Topel Caddesi Hükümet Konağı Karşıs,Yüksekova,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.948
+1123d043-f773-426e-8ed9-8e78f9a2a61a,Arslan Otel,HOTEL,37.572079,44.281815,Yüksekova Hakkari,Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.784
+cea1aa98-60ea-4ce1-a511-25ef5621f478,Yüksekova Yeşil Çam Cafe & Pastane,CAFE,37.572094,44.281788,Cengiz Topel Caddesi 171A,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.781
+2148e493-fb44-40fe-8d3d-22d07b79c36e,Cafe Tuana Hakkari Yuksekova,CAFE,37.572613,44.281731,Cafe Tuana,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.849
+abd4d043-e146-42da-b56e-78fa1c9f83d9,Yüksekova Polis Evi,HOTEL,37.572876,44.281933,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.803
+74adda98-1723-4763-9e7d-05fa22bceb75,Mega Nişan Avm,SHOPPING,37.573387,44.281796,İpek Yol Cad,Yüksekova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.731
+0c4d8a0d-2a6f-4f17-87e8-2bdce80e0c1f,DoubleTree by Hilton Yuksekova,HOTEL,37.571835,44.285851,Esenyurt mahallesi Ipekyolu Caddesi no:452/1 Yuksekova,Yüksekova,CDLA-Permissive-2.0,Microsoft|Overture,resort,lodging>resort,0.850
+c433e36a-4a65-4486-b565-ba42599b1080,Altiner Hotel,HOTEL,37.560444,44.346249,"NARLI KOYU, MIHLI MEVKII",Yüksekova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.851
+23d13b26-b3d6-414e-8b67-89e78d7cea48,Starbucks,CAFE,37.576263,44.288982,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.780
+58cad014-db40-4059-a060-7d3649b57cca,Gever Ovası,SIGHT,37.568733,44.242832,,Yüksekova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.711
+79382258-c12c-439c-a2fd-9073e6125dbb,Plato Cafe,CAFE,37.560513,44.253105,Çevreyolu Cad No:38/1,Yüksekova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.941
+a84cc4b8-a012-4561-8adf-9a67d2aba18f,Yaşar Et and Steak House,RESTAURANT,37.574741,44.202618,"opet petrol karşısı, Hakkari-Van Yolu üzeri",Hakkari,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.831
+bd2bf572-2a43-4492-bc48-2c36a4eb4747,Aydın söke,CAFE,37.333912,43.965012,atmurgazı atatürk mahalesi,Çukurca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.916
+99d451bd-9b70-4cbf-93ce-0b1eaafdad6f,Derecik Elif Otel,HOTEL,37.074703,44.304722,Derecik ,Derecik,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.967
+37be94d9-450d-410d-a562-a9d495de031b,Sedef Pastanesi,CAFE,37.080879,44.311237,Atatürk Caddesi 12,Derecik,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.967
+fa2ea99c-769a-45f4-94ed-8af89e601e99,Dreibig CAFE,CAFE,37.110828,44.323013,hakkari şemdinli derecik yardım avm ustu,Derecik,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.754
+685f894a-15cb-408c-ab5c-272988e43080,"Yaylapınar, Şemdinli",SIGHT,37.241207,44.425602,,Derecik,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.801
+02d79407-fadd-4559-9e06-ab6f7f366d88,"Bağlar, Şemdinli",SIGHT,37.271133,44.523891,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.805
+1c680e5c-c17b-48ad-b566-f74548cd0b8d,Şemdinli Öğretmenler Evi,HOTEL,37.30357,44.574043,Ali Fuat Güven Caddesi 17,Şemdinni,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
+23fc7f12-9087-4f0b-8824-d7b9c5f8ada2,Sur çiğercisi,RESTAURANT,37.303566,44.572933,Şemdinli Yüksekova Yolu No:30800,Şemdinni,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.960
+6685f37d-1861-4237-a652-df14d7811e05,Şemdinli Avcı Bal,SHOPPING,37.303516,44.574379,Cum cad Ulu Cami Karşısı şemdinli ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.880
+384224f1-3a89-41bb-8f68-0578e0e7961c,Şelale Döner ve Çorba Salonu,RESTAURANT,37.303513,44.574379,Eski Şemdinli devlet hastanesi arkası/Hükümet konağı karşısı ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.943
+4005754f-a7a6-4cc3-a0b0-bfefce81d93a,Van Avm,SHOPPING,37.303558,44.577068,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.734
+3d71b8f5-12de-4111-8770-5cd7dd656a3f,Nehri Şifa Alabalık Tesisi,RESTAURANT,37.29752,44.565811,Şemdinli/ nehri bağlar köyü,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.909
+332db847-54b8-4966-92ce-cb0b13ede539,Red cup cafe,CAFE,37.305237,44.574894,"Moda, Cumhuriyet Cd. no:56 merkez",Şemdinni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.973
+480ec369-3238-4951-ad54-a9ad3ccc414f,Navşar Lokantası,RESTAURANT,37.305363,44.57478,Cumhuriyet Cd. No:52,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.840
+287ee868-6957-44c7-a127-94d7f590b91f,Şemdinli Güven Pastanesi,CAFE,37.305393,44.574699,cumhuriyet cad.,Şemdinni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.908
+8e5a4825-008a-4ce8-9659-30b258a9d4bf,PİYa Cafe & Restaurant,CAFE,37.306145,44.573277,Moda mah cumhuriyet cad merkez  hakkari / şemdinli ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.909
+43359b32-c37a-4b3e-88ed-bdefc61261cc,Şelale Tantuni,RESTAURANT,37.30616,44.573471,Cumhuriyet Cd. 64b,Şemdinni,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.821
+db0aa8f5-7a5e-4d82-af2e-893a81affb08,Suvaroğlu Alabalık,RESTAURANT,37.306076,44.573719,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.854
+edb2eaa5-88ae-4162-90d6-21cf08ba4378,Views Coffee,CAFE,37.306011,44.573723,YENİ MAH.Cumhuriyet CAD. 56.3ŞEMDİNLİ,Şemdinni,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.955
+298a6715-0a8d-4473-9df7-8d0b45c8efd8,Peoples Cafe,CAFE,37.307514,44.572731,Çankaya Cd. No:7,Şemdinni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.819
+4def4143-c42b-452e-8a70-1319a76e28b1,Şemdinli Boğazici Köprüsü,SIGHT,37.308521,44.570812,,Şemdinni,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.752
+9ed083e2-5f86-4bf6-bb1e-4d82164aea88,Şemdinli  Çınar İş Merkezi,SHOPPING,37.307575,44.572071,Şemdinli  Çınar İş Merkezi,Şemdinni,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.963
+89677ff7-4626-48bd-a4e1-2cf9ab8fa9c3,Nehri - Masi ALabalik tesisi,RESTAURANT,37.307224,44.572269,Baglar,Şemdinni,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.979
+195001dc-a3bc-4cd8-8f41-4d7c6f4842e6,Bizbize cafe & pizza,CAFE,37.307247,44.572231,yeni mahalle cumhuriyet caddesi nawşar center iş merkezi kat :2,Şemdinni,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.979
+7d16b294-ac82-460d-aec4-9dce75aeba77,Şemdinli Altınsu - Şapatan,SIGHT,37.310802,44.568722,Şemdinli Altınsu - Şapatan,Şemdinni,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.965

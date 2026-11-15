@@ -1,167 +1,167 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy
-5d9012b9-181c-4020-b5b0-7c98f3de6625,Bozdağ Alabalık Tesisleri,RESTAURANT,40.142014,43.652519,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
-5b3c8dbc-e7b9-4146-8bb6-f3483675c2f7,Halıkışla Balık Tesisi,RESTAURANT,40.152191,43.653435,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-e6a3a338-e50b-4b53-943c-d7c5d43d4685,Tuz Mağarası,SIGHT,40.050194,43.664711,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument
-32c5b4f9-d1bf-4930-9047-efc445526cf3,BekİR Usta Exsperes,RESTAURANT,40.040859,43.662964,Mehmetcan Cd.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-8fa7d9e6-6224-4d4b-9966-04bc0de42f2f,Dönerci Hoca'nin Yeri Lades,RESTAURANT,40.040943,43.663734,Hastane Sk.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-3b6cf98f-3ba5-453f-b4c7-6b74aae77791,Yasin Ustanın Yeri,RESTAURANT,40.041386,43.662655,Mehmetcan Cd. 68/A,Tuzluca,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-15d387be-6248-4360-a05d-3b056760db1b,Akasya Lokantasi,RESTAURANT,40.041317,43.662651,Mehmetcan Cd. No:122,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-21ac634c-7693-4393-8359-790e04221495,Tuzluca Merkez Kasabı,SHOPPING,40.041542,43.662792,Tuzluca Merkez Camii Yanı,Tuzluca,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-9a40dd10-d805-4b0f-ae76-4b8725f60142,Hatay Tadim Dürüm,RESTAURANT,40.042004,43.662579,Mehmet Can Cad,Tuzluca,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-e0050d88-3601-4a97-8a57-42fece97e042,Oses Çiğ Köfte,RESTAURANT,40.042454,43.662579,Mehmetcan Cd.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-80e28db4-594f-49b0-9d7b-b3fd1bb89b22,Armoni Cafe,CAFE,40.043396,43.661221,Cumhuriyet Meydanı Sk.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-a143e77b-a196-494b-b747-263917af2238,Bozdag Alabalık Tesisleri Halimcan Tuzluca,RESTAURANT,40.044548,43.660671,Halimcan Halıkışla,Tuzluca,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-73b4e3bb-be0d-49d4-b8ca-73be284700b4,Bekir Usta seyir tepesi,RESTAURANT,40.04351,43.667656,İsmet Bey Sokak 19,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-f1ff021c-2bf2-451b-ab57-8904ba5f57dc,Ağrı Balıklı Göl,RESTAURANT,40.039448,43.663021,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant
-ec0c7fff-7ef9-421e-94c0-410473f3bc8d,Cafe seyir,CAFE,39.810139,44.074158,Iğdır üniversitesi şehit Bülent yurtsever kampüsü cafe seyir,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-8326806e-fbed-4ad6-9db3-a4f84adb003b,"Kuruağaç, Tuzluca",SIGHT,39.833332,44.0,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-5f767638-edf0-49cf-864c-4880903ce12a,"Aşağıerhacı, Iğdır",SIGHT,39.883183,44.083447,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f2135ce6-3c36-4c7b-9a0f-5933ab09308e,Gülekler Tır Garajı,HOTEL,39.933086,44.081936,Kılıçlar Karşısı,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-fb3a4aab-f5dc-4922-b854-9bcacfa31343,KYK Erkek Yurdu,HOTEL,39.936058,44.082344,,Iğdır,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-4945589c-2294-4029-bd80-7e44f5aa6bb6,Bizim Toptan,SHOPPING,39.933319,44.056499,Nihat Polat Caddesi 87,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-1a6b3ecf-b7bb-47f3-9950-4ca1ba1a4ad3,Semeni,RESTAURANT,39.939678,44.048004,Uluçınar Caddesi 189,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-10649a0f-9854-415a-8153-504664ea1f2a,Mehmet Çavuş Şehitlik Anıtı,SIGHT,39.934074,44.049477,,Iğdır,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument
-e86df272-2e71-488e-b219-9180bed21c1d,Şahzadebey Künefe Katmer,CAFE,39.923607,44.046467,vali yolu caddesi defterdarlık karşısı,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-9150e704-c28e-423e-99cd-35f49019144a,Salon Asya Et Lokantası,RESTAURANT,39.92416,44.04565,Mehmet Akif Cd. No:17,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-f8bc9282-3c35-4b20-846b-a4c0cb74a5b5,Yaren Cafe,CAFE,39.923447,44.044785,Haydar Aliev Parkı,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-a01ce591-5bd4-4e76-9433-571782166a52,PİZZA ROMA,RESTAURANT,39.923508,44.044258,"yeni kapalı otopark girişi, Bağlar mahallesi dr sadık Ahmet caddesi no beş Haydar Aliyev parkı, karşısı",Iğdır,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
-05c60f68-210c-4d7b-abf1-b482b04cddcf,Ozsanliurfa Gecem Lokantası,RESTAURANT,39.924007,44.044388,Dr. Sadık Ahmet Cd. No:21,Iğdır,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant
-308f57a0-24b2-4337-bcac-e76f2e7cd1dc,Granada Cafe,RESTAURANT,39.923988,44.044369,Dr. Sadık Ahmet Cd. No:15,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-37b850f9-4241-4d25-96b3-35c88dd4c195,İstanbul Kadıköy,SHOPPING,39.924137,44.044281,,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-03486939-c957-4c9f-9a91-4579e93391f4,Gokkusagı Restourant,RESTAURANT,39.924282,44.044277,Melekli Yol,Iğdır,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
-df26bd79-2a65-4c34-9f5f-c714337ddb5e,Iğdır Gold Yıldırım Hotel,HOTEL,39.924328,44.044285,Mehmet Akif Ersoy Caddesi 28,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-1fddcad5-63c1-402a-b91d-5a6ae506950a,My Story Kitap Kafe,CAFE,39.924591,44.044498,Dr. Sadık Ahmet Cd. NO:29,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-92fb8672-6022-4a0b-9c39-0dc2ea44238b,Cilgin Durum,RESTAURANT,39.924278,44.0453,"Bağlar Mah Mehmet Akif Ersoy Cad Haydar Aliyev Parkı krş, No : 14/1",Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-fd5deb2b-120c-4364-8d42-46dcc49f0bb9,E.Koç Cağ Kebabı,RESTAURANT,39.924744,44.044659,"Hotel Gold Karşısı, Dr. Sadık Ahmet Cd.",Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-3bb65650-f7c6-4ac9-96a2-a3799259992b,Nar Et ve Mangal,RESTAURANT,39.924721,44.044506,"Levin Cafe Üstü, Dr. Sadık Ahmet Cd. No:1 No:29 Kat",Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-db92fa09-088f-45b7-8ed8-1bf1afb13433,Hotel Azer,HOTEL,39.925232,44.045589,Vatan Cd. No:3,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-b16a732a-46cd-4d99-b0d9-73f394d06d1e,Öncü,RESTAURANT,39.925301,44.046043,146. Sk. No:1,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-ef2064b9-3994-4b51-b7de-505b553eb234,Dalyan Balık Evi,RESTAURANT,39.925362,44.046886,İrfan Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant
-d0006410-3d26-40b7-946d-c2b1ad090702,Balik Lokantasi,RESTAURANT,39.925495,44.046833,İrfan Cd. No:63,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-1deddd3a-1aa2-456a-94f6-7ab330423ae8,Otel Mir,HOTEL,39.925751,44.04641,Kurtuluş Cd. No:22,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-61b9cbb8-3125-4a7c-83fe-12cb228f7437,Yılay Otel - Iğdır Otel,HOTEL,39.925732,44.045906,Atatürk Cd. No:45,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-0d96b1ba-3cf6-4178-9bbd-55183faee462,Dünya Döner Iğdır,RESTAURANT,39.926083,44.045956,"Atatürk Cd. No:92, 76000",Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-3ee7f4cc-dc16-4344-8426-16a1bc29e17c,ATM DÖNER,RESTAURANT,39.926239,44.045895,Atatürk Cd. No:65,Iğdır,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-3742a9ef-a9ce-4718-9aae-363f95917afc,Hemdem Cafe Restaurant,CAFE,39.926144,44.046246,Kurtuluş Cd. No:9,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-864980e4-b1dc-4131-a95c-06305c1bc736,Iğdır Öğretmenevi,HOTEL,39.92635,44.046921,,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,lodging,lodging
-8d3b19f0-345b-4cd6-a525-2ee89c39cfa1,Gaga Cafe,CAFE,39.926201,44.044659,Dr. Sadık Ahmet Cd. No:151,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-bcd5b297-8607-489e-8577-7314250a54ad,Nahçıvan,SIGHT,39.927132,44.044769,,Iğdır,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-df70dc78-bd50-487e-b752-5caa1f4d99fd,Hotel Dedemin 2,HOTEL,39.927235,44.045959,Atatürk Cd. No:79 D:101,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-a93ad2e6-aebb-4ed3-a571-ee2cffaee4e7,Kokoreççi Kurban Usta,RESTAURANT,39.930214,44.046547,Bağlar Mah,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-da50f9e5-fa20-4011-87eb-804fdd4507d1,RmzFastfood76,RESTAURANT,39.92971,44.046127,Pazar Sokak 4,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-2d4314b0-10b6-47c9-a307-bdeea630ba51,konuk kahvesi ığdır,CAFE,39.928162,44.03339,Vali Konağı Yolu Cd. no:78 A,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-5310cc40-2f8d-429d-91ed-b0b7009fb867,Ottoman Nargile Atolyesi,CAFE,39.927631,44.034035,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-e2cd337b-9ec6-4b0e-b242-6b4cc83178d9,Cafe şahane,CAFE,39.927483,44.033665,Cumhuriyet Sk. No:14,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-09010fc9-c94b-417c-a651-b448613a1402,Suv Coffee and Tea,CAFE,39.927673,44.033691,Vali Konağı Yolu Cd. No:65,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-5608c062-e05e-4f8e-860f-7d053f4aa6b5,Ayça Park Bahçe Keyfi,CAFE,39.927238,44.033577,Kınık Sk. No:15,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-d4efa518-7ee1-4ec7-962c-2bb1bea78336,Fıstıkhan Künefe Katmer,CAFE,39.92712,44.034698,"Vali Migros Yanı, Vali Konağı Yolu Cd. No:61 D:H",Iğdır,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-3148987f-f261-435f-ab4e-5a18cde499c5,Nacaroğlu,CAFE,39.927349,44.034782,"Bağlar Mh. Vali Konağı Yolu Cd. Ahmet Ertaş Apt, No: 68/A",Iğdır,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-fe79ef9a-478f-4cf2-ab15-24211ac2b040,Cafe Pella,CAFE,39.927551,44.034298,vali yolu caddesi cafe lalezar karsisi,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
-30cfc0e1-2767-4b2d-bebc-a11084cb5e58,Kafedo,CAFE,39.927155,44.035023,,Iğdır,CDLA-Permissive-2.0,Overture|meta,,
-f92e43d7-51ad-4bb0-ad45-e04ac9dc36a1,Cheetah,RESTAURANT,39.927116,44.03503,Cheetah Cafe Iğdır,Iğdır,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
-b27f4290-3f1c-4963-a328-e2012163cfb2,Papilla Cafe Patisserie,CAFE,39.925484,44.03756,,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-c8f5f150-64cb-4e6a-9153-d8ac060e505a,Laos Coffee Iğdır,CAFE,39.925323,44.037342,Vali Konağı Yolu Cd. 45c,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-058b0af4-70eb-4320-8bd3-f3949086ee2c,girafflecafe,CAFE,39.925716,44.037277,31. Sk,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-936d9520-b98e-4f1f-b167-eb24221f17f2,Tavada Tavuk,RESTAURANT,39.925896,44.036888,Vali Konağı Yolu Cd. No 50/D,Iğdır,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant
-ee15a9d2-a879-4743-8257-115a7178c955,MaxiSos,RESTAURANT,39.925922,44.036842,Vali Konağı Yolu Cd. D:48/D,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-98602e20-f2a0-47ca-b3a8-8126844cd14c,Domino's Pizza,RESTAURANT,39.925972,44.036858,Vali Konağı Yolu Cd. No: 64/A,Iğdır,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
-266a5c0b-374b-47d8-94b9-cf2b97a1c30e,Kardeşler Kafe,CAFE,39.925804,44.03701,Vali Konağı Yolu Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-d17551dc-b498-440a-97e0-4234aa723120,İranlılar döner lokantası,RESTAURANT,39.925739,44.037117,,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-916a848f-709a-40ca-bb98-f73d69461b25,Iğdır Kafeler Caddesi,RESTAURANT,39.926029,44.036327,,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-8d36e7b3-9438-45f9-aaf6-666246649183,Kahve Diyarı,CAFE,39.926445,44.035908,"Topçular Mah. Tansu Çiller Sokağı, Vali Yolu",Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe
-3a86b4ce-16ef-4fa3-942e-58d9ae91e1f8,Sanliurfali Halil Ustanin Yeri,RESTAURANT,39.926392,44.036289,Vali Konağı Yolu Cd. No:64,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-652af91e-1de4-47f1-9b05-e63386c40ceb,Narin Kasap ve Restoran,RESTAURANT,39.926357,44.03624,Vali Konağı Yolu Cd. No:64,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-80b828b3-ebfc-44b2-99cc-f5e6772461af,MADO Iğdır Merkez,CAFE,39.926464,44.037003,Hürriyet Cd. No:34A,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-4b3932b3-d2e3-4337-82a5-9bb8df917009,Köşem Cafe,CAFE,39.926559,44.035622,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-bb61f094-60a6-4fd8-a2d4-fc6e6eab9f78,Sultan Sofrası,RESTAURANT,39.926922,44.034718,Vali Konağı Yolu Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-d22d528e-2088-4a4c-abfa-93b12fb5d0a8,Zevki Sefa Azerbaycan Sofrası,RESTAURANT,39.926865,44.034519,Topçular Mah,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-e0dc2218-d971-408d-bbf3-3927040229c6,Burger King,RESTAURANT,39.925091,44.038082,Vali Konağı Yolu Cd. No: 56/A,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-6a39e995-f217-4974-b737-73a664d8a608,STARBUCKS,CAFE,39.923367,44.039528,,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-36f5687b-fdea-4bc0-a97f-f2ee15b4bcb5,Iğdır Tuzluca Balıklı Gölü,SIGHT,39.924191,44.040352,Seçkin Sokak,Iğdır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
-b528853b-39b1-461a-9652-ae449f0e0561,Gloria Jean's Coffees Iğdır,CAFE,39.924408,44.039112,"Vali Konağı Karşısı, Şair Fuzuli Sk. No:34C",Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-eff6aa08-f62c-4e20-ac98-7b94f846493c,Prestij Bilardo,RESTAURANT,39.925426,44.043793,Vatan Cd. No:18,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-e26af830-78b2-47ea-9c47-7d133efc89d2,Hotel Dedemin,HOTEL,39.924271,44.043995,Mehmet Akif Cd. No:11,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-2c380dcc-e9c8-4b7e-95f8-37e7b87ef167,Gözde İnşaat Ltd. Şti,HOTEL,39.92461,44.042171,Bağlar Mah. m. Akif Ersoy Cad gözde apartmanı,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-e1b01eb9-6279-4731-93fe-272859ada80e,Başkancafebistro,CAFE,39.922466,44.042526,Seçkin Sk. No:16,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-9e48f7cb-0ac4-47ae-9927-94999506f7dc,Gazioglu Yufka,CAFE,39.922318,44.042465,Seçkin Sk. Aksoy Apt,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-bd912d09-16aa-45a6-bbad-054909f73139,Dağkapi Ciğercisi,RESTAURANT,39.921509,44.043392,Şair Fuzuli Sk. No:3,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-1d31bfee-1b60-4dcb-977b-9411406aea62,Bay Pideci,RESTAURANT,39.922237,44.043987,"yeni flo karşısı, Seçkin Sk. No:2",Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-3dc2bdcc-4d1d-4132-8fc0-4e405ee518d3,Hotel Star Royal,HOTEL,39.921619,44.044037,Av. İbrahim Bozyel Cd. No: 7,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-a57382e9-c63a-476b-9f56-8722799bce5c,Mersin Tantuni,RESTAURANT,39.921501,44.044086,ibrahim bozyel ceddesi no 9,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-af4480da-a41c-471b-a0ca-b76585b50570,Pasha Çay Evi,CAFE,39.921486,44.044186,Şube Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room
-65f432a1-1b8e-45fc-8259-20160474787e,Şölen Pastanesi,CAFE,39.920662,44.043011,Vali Konağı Yolu Cd. No:23,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-560beadf-022b-4fe5-847b-77d956f60747,Simitçi Dünyası,RESTAURANT,39.920418,44.043701,Bozyel Cad No:44/1A,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-568d2ed8-e553-4884-852c-9ec3b312095e,Iğdır Öz Adıyaman Çiğ Köfte,RESTAURANT,39.919861,44.043324,Kars Cd. No:38,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-66aa9aa9-e05c-4c2c-b34c-725eb065039d,Mavi Ay Cafe&Kahvaltı,CAFE,39.920273,44.042789,100. Sokak 8A,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-064846c4-881a-46f1-8384-7682b6a203cc,Ezel Lahmacun Pide Salonu,RESTAURANT,39.920204,44.043381,Vali Konağı Yolu Cd. No:7,Iğdır,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-ff0e75b7-d190-4540-8e2a-df6c10b134d6,Set Pide& Lahmacun,RESTAURANT,39.92054,44.042992,Vali Konağı Yolu Cd. No:5,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-08ba4c0a-bd2e-4d54-8708-903d7e169531,Mikel Coffee Iğdır,CAFE,39.92112,44.04258,Vali Konağı Yolu Caddesi 76/b,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-2af4236a-f048-4812-b160-1276bf198b54,Çamlı Kafe,CAFE,39.920059,44.040604,Tomurcuk Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-78810124-f109-4ee5-b239-3b9ac85a3aa9,Agrı Dogu Beyazıt Isa Paşa Sarayı,SIGHT,39.920052,44.04052,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-c981789c-c66f-46e8-9dd8-63a3d32431ed,Öz Olımpıa Otel No ; 201,HOTEL,39.919773,44.040329,,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,motel,lodging>hotel>motel
-07aadbe8-c69c-4318-a6ae-3a52941d36a9,Oz Olimpia Hotel,HOTEL,39.919853,44.040268,Evren Paşa Cd. No:13,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-aefeee8d-8838-4b05-8575-bc4303479b47,Adil Aşırım Çarşısı,SHOPPING,39.920246,44.040123,D080 No:18,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-296698f1-62a8-4374-9049-e1eb9a7d128f,Alkis Hotel,HOTEL,39.920498,44.039719,Evren Paşa Cd. No:32,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-24ab1f0c-09f2-4dce-ad2a-a3e2f9fde044,İkra Giyim,SHOPPING,39.921604,44.04129,Vali Yolu,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-22549ab7-6a2b-4a6d-b3d7-eade9749c284,Atlantis Oyun Dünyası & Cafe,ACTIVITY,39.923203,44.038994,106. Sokak 3A,Iğdır,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park
-1e8f55a8-1789-4dd1-811b-b810defb15cd,Urfa Şehzade Lahmacun Pide Kebap,RESTAURANT,39.923218,44.034084,,Iğdır,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant
-555f40cd-6ecf-4f1b-a1c3-117bc8223935,Garden Liva Hotel,HOTEL,39.921894,44.035568,Sultan Caddesi 7,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-7e0445f7-4129-4959-9e71-50fe54820bb8,Hilvan Ticaret,CAFE,39.921291,44.038189,Evren Paşa Cd. No:80/b,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-0b78bae9-94db-4554-8ae6-b6a4b55d5a3f,Rus Pazarı,SHOPPING,39.918999,44.040123,Evren Paşa Cd. No:32,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-ab61c7a1-0542-4bd5-9214-a41577d07898,Hotel Latif,HOTEL,39.919247,44.040802,Fatih Cd. No:1,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-b2d3314a-8f9f-46a5-abca-6e9e58ede92f,SALON OPERA ET Lokantasi,RESTAURANT,39.918812,44.043045,Kazım Karabekir Cd. No:12,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-a71cad80-95f6-4310-a63d-f8b7eb637909,Bit Pazari,SHOPPING,39.91819,44.043331,,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-70500bdb-78ff-4c08-835e-3421371389e7,RmzFastfood,RESTAURANT,39.916759,44.042599,Pazar Sokak 4,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-7af85613-738c-4840-8179-a75fc215788e,Alpengin Otel,HOTEL,39.917316,44.046619,,Iğdır,CDLA-Permissive-2.0,Overture|meta,hostel,lodging>hostel
-44e6ef9b-4e3c-4928-aab1-16cb9670710c,Guven Ekmek ve Unlu Mamulleri,CAFE,39.916252,44.048061,Kazım Karabekir Cd. No:317,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-a7b56f0f-e05d-4a5b-be43-f9f0ce20b989,Dıyarbakir Cığercısı,RESTAURANT,39.917191,44.047337,,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-afd7ff9a-8d42-404d-8d3f-8dfcff497915,Otel Grand Derya,HOTEL,39.917992,44.044724,Kazım Karabekir Cd. No:42 76000,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-56381b2e-a9ce-49ff-a28a-6013ece6564f,Sevgi pastanesi,CAFE,39.919949,44.046448,Rıza Yalçın Cd. No:9,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-ea0042b2-5a9e-4b17-b745-94ff104f183d,Esma Adana Sofrası Kebap Salonu,RESTAURANT,39.921391,44.045609,Cumhuriyet Caddesi 27,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-3061cdb6-55d7-42f3-98bc-1034a1d1b673,Bargello Perfume,RESTAURANT,39.922295,44.044319,İbrahim bozyel cad No:18,Iğdır,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar
-c9f48316-5e37-4334-882c-19ac65050cb1,İzafet Çiğköfte,RESTAURANT,39.922749,44.045792,Atatürk Cd. No:52,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-6c631f66-4845-4b5d-963d-0b2d2f72a23d,İstanbul Simit Sarayı,CAFE,39.92292,44.045841,Atatürk Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-e6570c37-ad58-4ec3-b07f-def97c3fd279,SARAY Lokantasi - Iranlilar,RESTAURANT,39.92271,44.046818,İrfan Caddesi 24,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-01eca6c9-f057-49a6-af8f-d1a2d6e2a51c,Cafe Balkon,CAFE,39.92234,44.046875,Yancar Iş Merkezi Üstü 6 Kat,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-9d4cf4c6-4404-4aba-99e5-711caac5cd9c,Siyabend özbadem pastanesi,CAFE,39.922062,44.046421,Fevzi Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-af4b2e8e-c2b3-4667-96a5-049ec907a028,Otel Barbaros,HOTEL,39.922127,44.046413,İrfan Cd. No:19,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-538d4d83-f642-4e49-99f9-d8abcb042fd6,Boğaz Cafe,CAFE,39.922142,44.046082,İrfan Caddesi 18,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-77fbfc85-ad68-4baa-b924-c8e68a8513a3,Hidayet Çay Evi - ığdır,CAFE,39.921864,44.046482,Fevzi Çakmak Caddesi 15,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-c9bc779e-2e11-4886-8f96-65c7d1565c2b,Has Şanlıurfa Lahmacun Pide ve Kebap,RESTAURANT,39.921658,44.047241,Fevzi Çakmak Cd. No:22/c,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-04adb4f9-b670-4d2e-91ed-672a2422ccc4,Akar Çayevi,CAFE,39.922092,44.047558,138. Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-0b0b0d2f-671e-4fad-a825-22bd4fdfb138,Kök cağ kebap ığdır,RESTAURANT,39.92313,44.047958,Hal Sk. No:6 D:C,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-c87a72ce-3ad2-4df8-9a7b-3be548f1bce8,Selale Sark Sofrasi,RESTAURANT,39.923206,44.048359,Hal Sk. No:4/C,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-613497e8-d121-4451-98d8-c633ba32d77e,Cafe Varil,CAFE,39.920464,44.047607,Itfaiye Karşısı,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-f2e486d9-e880-4d70-b988-611ed17eead3,Iranlilar Villa,SIGHT,39.917854,44.051414,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-c0f70cf2-5b02-4a3e-8754-6bb13921558c,Gönüloğlu Lokantası,RESTAURANT,39.927731,44.067776,,Iğdır,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-97556a15-c7a7-4c0d-94aa-9e93ec577669,Tuz Mağarasıı,SIGHT,39.915432,44.056049,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cave,geographic_entities>land_feature>cave
-689622d8-7bfd-45cf-9c9e-a5db162312c5,Devran Avm,SHOPPING,39.902294,44.06255,Konaklı Mah,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-1fbea126-9838-40c3-9ff9-29b84d118c0d,Hacıbaba Catering Toplu Yemek Hizmetleri,RESTAURANT,39.92606,44.028759,Evren Paşa Caddesi 113,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-fb1a65dd-5fc7-4b44-932d-0001c9468fe8,Lunapark,ACTIVITY,39.929577,44.030537,Vali Konağı Yolu Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park
-e495f83f-fcff-4925-94e0-1edc7dbb6ded,Bowling Cafe Poligon,CAFE,39.929775,44.030926,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-bd12e7b5-53df-465a-8a56-09c806e09cff,Kahve Diyarı Igdir,CAFE,39.929989,44.030319,Vali Konağı Yolu Cd. No:74,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-b8823a68-4d20-4b48-bb85-ada0671a16f1,Bike Kebap,RESTAURANT,39.927547,44.026936,12 Eylül Mah. Evren Paşa Cad Merkez,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-d0c4f7b2-c91a-4888-a830-a3abffde705e,Hotel Imparator,HOTEL,39.933033,44.013813,Igdir Girisi Dsi Karsisi,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-56d499e7-d34e-4bcf-a0c4-1e9715b2ffe2,Gua Coffee Company Iğdır,CAFE,39.931831,44.02618,Vali Konağı Yolu Caddesi 43/b,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-760e6a61-b471-4b62-a108-17b8de87c53c,Lora Çikolata & Kahve Iğdır,CAFE,39.931759,44.026329,Vali Konağı Yolu Caddesi 62/a,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-a1dd10ba-f0d5-41ec-86a1-05b4c270de75,Iğdır merkez,RESTAURANT,39.930706,44.02882,Vali Konağı Yolu Cd. No:81,Iğdır,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant
-e1b1d542-bee2-44b0-9027-9c72d7d5251a,Craft cafe,CAFE,39.931248,44.03241,"craft cafe, Uluçınar Cd. St No:23",Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-8056cff7-7111-41af-bcc8-19685a62f4c6,Gadai Coffee,CAFE,39.93129,44.032673,Uluçınar Cd. No:15-23/D,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-5911c327-b71f-4208-b59f-063bd7e67ec0,Pera Alakart,RESTAURANT,39.937721,44.002766,Vali Şemsettin Uzun Blv.,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-66f9c32b-7ce8-4673-991f-75087ab99377,Iğdır Orman Parkı,SIGHT,40.024357,43.87468,ÇALPALA,Tuzluca,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f90f743e-d650-40a1-96b8-03c28b33b564,Antep Kabap Lahmacun,RESTAURANT,39.946167,44.006901,Vali Konağı Karşısı,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-093e7dad-ef1b-48c7-8465-a6113ea9f2f1,"Enginalan, Iğdır",SIGHT,39.966663,44.033333,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f6d3d828-effc-4a20-a1b0-f3686f92a961,Melekli Ocak Bası Et Lokantası,RESTAURANT,39.952801,44.120399,Melekli Kasabası,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-820b47fa-0915-4012-9227-7084505fbfd4,"Gökçeli, Karakoyunlu",SIGHT,39.98333,44.168327,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-0ac62f03-f27a-4caa-b884-76a4bb348866,Işık Pansiyon,HOTEL,39.873119,44.517288,Atatürk Cd.,Aralık,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast
-16fc627f-7529-4d13-aa5b-5d308a047f6a,Asmar,RESTAURANT,39.875141,44.513626,Karşıyaka Mahallaesi,Aralık,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-72a3affd-7abc-4aee-8527-abb848f9f6a0,"Aşağıçamurlu, Aralık",SIGHT,39.926109,44.435555,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-3aa81a69-0d4a-457a-b05e-653a42734002,Bulakbaşı Milli Parkı,SIGHT,39.938251,44.258308,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
-d771ebc0-ecfd-42f8-9093-991ef9eb1db4,"Bulakbaşı, Karakoyunlu",SIGHT,39.933327,44.25,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-72173090-81e2-4577-b375-22ae8929912f,Bulakbaşı Milli Parkı,SIGHT,39.934151,44.254044,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park
-91b3029a-099e-46d4-8c03-898c3d9f6830,"Yenidoğan, Aralık",SIGHT,39.777222,44.381107,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-3d9ffbc8-d706-4fa4-8708-4cb845ff6ba6,Umut Köprüsü,SIGHT,39.654308,44.799713,,Aralık,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-9010ccc0-b686-47aa-b07a-77ffece64891,Umut Bridge,SIGHT,39.655277,44.803333,,Aralık,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-7fe522af-bb1a-4c62-ba2f-772c0cb7629e,Umut Köprüsü,SIGHT,39.655277,44.803333,,Aralık,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-ea4c9a79-9531-4541-96e2-6a78a71e0987,Süreyya Çeşmesi Iğdır - Aralık,SIGHT,39.790581,44.603725,"Aralık Kazım Karabekir Tarım İşletmeleri, İran Sınırı Sıfır Noktasıı",Aralık,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument
-e5b6a52d-9d0d-4ff6-8049-df87b812d24d,"Aşağıçiftlikköy, Aralık",SIGHT,39.849998,44.583332,,Aralık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
+5d9012b9-181c-4020-b5b0-7c98f3de6625,Bozdağ Alabalık Tesisleri,RESTAURANT,40.142014,43.652519,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.839
+5b3c8dbc-e7b9-4146-8bb6-f3483675c2f7,Halıkışla Balık Tesisi,RESTAURANT,40.152191,43.653435,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.846
+e6a3a338-e50b-4b53-943c-d7c5d43d4685,Tuz Mağarası,SIGHT,40.050194,43.664711,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.743
+32c5b4f9-d1bf-4930-9047-efc445526cf3,BekİR Usta Exsperes,RESTAURANT,40.040859,43.662964,Mehmetcan Cd.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
+8fa7d9e6-6224-4d4b-9966-04bc0de42f2f,Dönerci Hoca'nin Yeri Lades,RESTAURANT,40.040943,43.663734,Hastane Sk.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.798
+3b6cf98f-3ba5-453f-b4c7-6b74aae77791,Yasin Ustanın Yeri,RESTAURANT,40.041386,43.662655,Mehmetcan Cd. 68/A,Tuzluca,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.970
+15d387be-6248-4360-a05d-3b056760db1b,Akasya Lokantasi,RESTAURANT,40.041317,43.662651,Mehmetcan Cd. No:122,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.847
+21ac634c-7693-4393-8359-790e04221495,Tuzluca Merkez Kasabı,SHOPPING,40.041542,43.662792,Tuzluca Merkez Camii Yanı,Tuzluca,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.877
+9a40dd10-d805-4b0f-ae76-4b8725f60142,Hatay Tadim Dürüm,RESTAURANT,40.042004,43.662579,Mehmet Can Cad,Tuzluca,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.761
+e0050d88-3601-4a97-8a57-42fece97e042,Oses Çiğ Köfte,RESTAURANT,40.042454,43.662579,Mehmetcan Cd.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.764
+80e28db4-594f-49b0-9d7b-b3fd1bb89b22,Armoni Cafe,CAFE,40.043396,43.661221,Cumhuriyet Meydanı Sk.,Tuzluca,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.894
+a143e77b-a196-494b-b747-263917af2238,Bozdag Alabalık Tesisleri Halimcan Tuzluca,RESTAURANT,40.044548,43.660671,Halimcan Halıkışla,Tuzluca,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.942
+73b4e3bb-be0d-49d4-b8ca-73be284700b4,Bekir Usta seyir tepesi,RESTAURANT,40.04351,43.667656,İsmet Bey Sokak 19,Tuzluca,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.967
+f1ff021c-2bf2-451b-ab57-8904ba5f57dc,Ağrı Balıklı Göl,RESTAURANT,40.039448,43.663021,,Tuzluca,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.761
+ec0c7fff-7ef9-421e-94c0-410473f3bc8d,Cafe seyir,CAFE,39.810139,44.074158,Iğdır üniversitesi şehit Bülent yurtsever kampüsü cafe seyir,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.971
+8326806e-fbed-4ad6-9db3-a4f84adb003b,"Kuruağaç, Tuzluca",SIGHT,39.833332,44.0,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.801
+5f767638-edf0-49cf-864c-4880903ce12a,"Aşağıerhacı, Iğdır",SIGHT,39.883183,44.083447,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.809
+f2135ce6-3c36-4c7b-9a0f-5933ab09308e,Gülekler Tır Garajı,HOTEL,39.933086,44.081936,Kılıçlar Karşısı,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.761
+fb3a4aab-f5dc-4922-b854-9bcacfa31343,KYK Erkek Yurdu,HOTEL,39.936058,44.082344,,Iğdır,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.841
+4945589c-2294-4029-bd80-7e44f5aa6bb6,Bizim Toptan,SHOPPING,39.933319,44.056499,Nihat Polat Caddesi 87,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.920
+1a6b3ecf-b7bb-47f3-9950-4ca1ba1a4ad3,Semeni,RESTAURANT,39.939678,44.048004,Uluçınar Caddesi 189,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.989
+10649a0f-9854-415a-8153-504664ea1f2a,Mehmet Çavuş Şehitlik Anıtı,SIGHT,39.934074,44.049477,,Iğdır,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.831
+e86df272-2e71-488e-b219-9180bed21c1d,Şahzadebey Künefe Katmer,CAFE,39.923607,44.046467,vali yolu caddesi defterdarlık karşısı,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.770
+9150e704-c28e-423e-99cd-35f49019144a,Salon Asya Et Lokantası,RESTAURANT,39.92416,44.04565,Mehmet Akif Cd. No:17,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.848
+f8bc9282-3c35-4b20-846b-a4c0cb74a5b5,Yaren Cafe,CAFE,39.923447,44.044785,Haydar Aliev Parkı,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.778
+a01ce591-5bd4-4e76-9433-571782166a52,PİZZA ROMA,RESTAURANT,39.923508,44.044258,"yeni kapalı otopark girişi, Bağlar mahallesi dr sadık Ahmet caddesi no beş Haydar Aliyev parkı, karşısı",Iğdır,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.883
+05c60f68-210c-4d7b-abf1-b482b04cddcf,Ozsanliurfa Gecem Lokantası,RESTAURANT,39.924007,44.044388,Dr. Sadık Ahmet Cd. No:21,Iğdır,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.920
+308f57a0-24b2-4337-bcac-e76f2e7cd1dc,Granada Cafe,RESTAURANT,39.923988,44.044369,Dr. Sadık Ahmet Cd. No:15,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.798
+37b850f9-4241-4d25-96b3-35c88dd4c195,İstanbul Kadıköy,SHOPPING,39.924137,44.044281,,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.711
+03486939-c957-4c9f-9a91-4579e93391f4,Gokkusagı Restourant,RESTAURANT,39.924282,44.044277,Melekli Yol,Iğdır,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.793
+df26bd79-2a65-4c34-9f5f-c714337ddb5e,Iğdır Gold Yıldırım Hotel,HOTEL,39.924328,44.044285,Mehmet Akif Ersoy Caddesi 28,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
+1fddcad5-63c1-402a-b91d-5a6ae506950a,My Story Kitap Kafe,CAFE,39.924591,44.044498,Dr. Sadık Ahmet Cd. NO:29,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.974
+92fb8672-6022-4a0b-9c39-0dc2ea44238b,Cilgin Durum,RESTAURANT,39.924278,44.0453,"Bağlar Mah Mehmet Akif Ersoy Cad Haydar Aliyev Parkı krş, No : 14/1",Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.853
+fd5deb2b-120c-4364-8d42-46dcc49f0bb9,E.Koç Cağ Kebabı,RESTAURANT,39.924744,44.044659,"Hotel Gold Karşısı, Dr. Sadık Ahmet Cd.",Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.971
+3bb65650-f7c6-4ac9-96a2-a3799259992b,Nar Et ve Mangal,RESTAURANT,39.924721,44.044506,"Levin Cafe Üstü, Dr. Sadık Ahmet Cd. No:1 No:29 Kat",Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.791
+db92fa09-088f-45b7-8ed8-1bf1afb13433,Hotel Azer,HOTEL,39.925232,44.045589,Vatan Cd. No:3,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.921
+b16a732a-46cd-4d99-b0d9-73f394d06d1e,Öncü,RESTAURANT,39.925301,44.046043,146. Sk. No:1,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.852
+ef2064b9-3994-4b51-b7de-505b553eb234,Dalyan Balık Evi,RESTAURANT,39.925362,44.046886,İrfan Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.838
+d0006410-3d26-40b7-946d-c2b1ad090702,Balik Lokantasi,RESTAURANT,39.925495,44.046833,İrfan Cd. No:63,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.924
+1deddd3a-1aa2-456a-94f6-7ab330423ae8,Otel Mir,HOTEL,39.925751,44.04641,Kurtuluş Cd. No:22,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.845
+61b9cbb8-3125-4a7c-83fe-12cb228f7437,Yılay Otel - Iğdır Otel,HOTEL,39.925732,44.045906,Atatürk Cd. No:45,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.776
+0d96b1ba-3cf6-4178-9bbd-55183faee462,Dünya Döner Iğdır,RESTAURANT,39.926083,44.045956,"Atatürk Cd. No:92, 76000",Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.943
+3ee7f4cc-dc16-4344-8426-16a1bc29e17c,ATM DÖNER,RESTAURANT,39.926239,44.045895,Atatürk Cd. No:65,Iğdır,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.838
+3742a9ef-a9ce-4718-9aae-363f95917afc,Hemdem Cafe Restaurant,CAFE,39.926144,44.046246,Kurtuluş Cd. No:9,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.887
+864980e4-b1dc-4131-a95c-06305c1bc736,Iğdır Öğretmenevi,HOTEL,39.92635,44.046921,,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,lodging,lodging,0.770
+8d3b19f0-345b-4cd6-a525-2ee89c39cfa1,Gaga Cafe,CAFE,39.926201,44.044659,Dr. Sadık Ahmet Cd. No:151,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.934
+bcd5b297-8607-489e-8577-7314250a54ad,Nahçıvan,SIGHT,39.927132,44.044769,,Iğdır,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.852
+df70dc78-bd50-487e-b752-5caa1f4d99fd,Hotel Dedemin 2,HOTEL,39.927235,44.045959,Atatürk Cd. No:79 D:101,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.992
+a93ad2e6-aebb-4ed3-a571-ee2cffaee4e7,Kokoreççi Kurban Usta,RESTAURANT,39.930214,44.046547,Bağlar Mah,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.890
+da50f9e5-fa20-4011-87eb-804fdd4507d1,RmzFastfood76,RESTAURANT,39.92971,44.046127,Pazar Sokak 4,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.867
+2d4314b0-10b6-47c9-a307-bdeea630ba51,konuk kahvesi ığdır,CAFE,39.928162,44.03339,Vali Konağı Yolu Cd. no:78 A,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.988
+5310cc40-2f8d-429d-91ed-b0b7009fb867,Ottoman Nargile Atolyesi,CAFE,39.927631,44.034035,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.996
+e2cd337b-9ec6-4b0e-b242-6b4cc83178d9,Cafe şahane,CAFE,39.927483,44.033665,Cumhuriyet Sk. No:14,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.970
+09010fc9-c94b-417c-a651-b448613a1402,Suv Coffee and Tea,CAFE,39.927673,44.033691,Vali Konağı Yolu Cd. No:65,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.985
+5608c062-e05e-4f8e-860f-7d053f4aa6b5,Ayça Park Bahçe Keyfi,CAFE,39.927238,44.033577,Kınık Sk. No:15,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.865
+d4efa518-7ee1-4ec7-962c-2bb1bea78336,Fıstıkhan Künefe Katmer,CAFE,39.92712,44.034698,"Vali Migros Yanı, Vali Konağı Yolu Cd. No:61 D:H",Iğdır,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.899
+3148987f-f261-435f-ab4e-5a18cde499c5,Nacaroğlu,CAFE,39.927349,44.034782,"Bağlar Mh. Vali Konağı Yolu Cd. Ahmet Ertaş Apt, No: 68/A",Iğdır,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.803
+fe79ef9a-478f-4cf2-ab15-24211ac2b040,Cafe Pella,CAFE,39.927551,44.034298,vali yolu caddesi cafe lalezar karsisi,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
+30cfc0e1-2767-4b2d-bebc-a11084cb5e58,Kafedo,CAFE,39.927155,44.035023,,Iğdır,CDLA-Permissive-2.0,Overture|meta,,,0.757
+f92e43d7-51ad-4bb0-ad45-e04ac9dc36a1,Cheetah,RESTAURANT,39.927116,44.03503,Cheetah Cafe Iğdır,Iğdır,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.887
+b27f4290-3f1c-4963-a328-e2012163cfb2,Papilla Cafe Patisserie,CAFE,39.925484,44.03756,,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.939
+c8f5f150-64cb-4e6a-9153-d8ac060e505a,Laos Coffee Iğdır,CAFE,39.925323,44.037342,Vali Konağı Yolu Cd. 45c,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.922
+058b0af4-70eb-4320-8bd3-f3949086ee2c,girafflecafe,CAFE,39.925716,44.037277,31. Sk,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.937
+936d9520-b98e-4f1f-b167-eb24221f17f2,Tavada Tavuk,RESTAURANT,39.925896,44.036888,Vali Konağı Yolu Cd. No 50/D,Iğdır,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.940
+ee15a9d2-a879-4743-8257-115a7178c955,MaxiSos,RESTAURANT,39.925922,44.036842,Vali Konağı Yolu Cd. D:48/D,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.865
+98602e20-f2a0-47ca-b3a8-8126844cd14c,Domino's Pizza,RESTAURANT,39.925972,44.036858,Vali Konağı Yolu Cd. No: 64/A,Iğdır,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.990
+266a5c0b-374b-47d8-94b9-cf2b97a1c30e,Kardeşler Kafe,CAFE,39.925804,44.03701,Vali Konağı Yolu Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.825
+d17551dc-b498-440a-97e0-4234aa723120,İranlılar döner lokantası,RESTAURANT,39.925739,44.037117,,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.782
+916a848f-709a-40ca-bb98-f73d69461b25,Iğdır Kafeler Caddesi,RESTAURANT,39.926029,44.036327,,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.765
+8d36e7b3-9438-45f9-aaf6-666246649183,Kahve Diyarı,CAFE,39.926445,44.035908,"Topçular Mah. Tansu Çiller Sokağı, Vali Yolu",Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
+3a86b4ce-16ef-4fa3-942e-58d9ae91e1f8,Sanliurfali Halil Ustanin Yeri,RESTAURANT,39.926392,44.036289,Vali Konağı Yolu Cd. No:64,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.952
+652af91e-1de4-47f1-9b05-e63386c40ceb,Narin Kasap ve Restoran,RESTAURANT,39.926357,44.03624,Vali Konağı Yolu Cd. No:64,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.966
+80b828b3-ebfc-44b2-99cc-f5e6772461af,MADO Iğdır Merkez,CAFE,39.926464,44.037003,Hürriyet Cd. No:34A,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.989
+4b3932b3-d2e3-4337-82a5-9bb8df917009,Köşem Cafe,CAFE,39.926559,44.035622,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.761
+bb61f094-60a6-4fd8-a2d4-fc6e6eab9f78,Sultan Sofrası,RESTAURANT,39.926922,44.034718,Vali Konağı Yolu Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.909
+d22d528e-2088-4a4c-abfa-93b12fb5d0a8,Zevki Sefa Azerbaycan Sofrası,RESTAURANT,39.926865,44.034519,Topçular Mah,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.818
+e0dc2218-d971-408d-bbf3-3927040229c6,Burger King,RESTAURANT,39.925091,44.038082,Vali Konağı Yolu Cd. No: 56/A,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.997
+6a39e995-f217-4974-b737-73a664d8a608,STARBUCKS,CAFE,39.923367,44.039528,,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
+36f5687b-fdea-4bc0-a97f-f2ee15b4bcb5,Iğdır Tuzluca Balıklı Gölü,SIGHT,39.924191,44.040352,Seçkin Sokak,Iğdır,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.815
+b528853b-39b1-461a-9652-ae449f0e0561,Gloria Jean's Coffees Iğdır,CAFE,39.924408,44.039112,"Vali Konağı Karşısı, Şair Fuzuli Sk. No:34C",Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.971
+eff6aa08-f62c-4e20-ac98-7b94f846493c,Prestij Bilardo,RESTAURANT,39.925426,44.043793,Vatan Cd. No:18,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.897
+e26af830-78b2-47ea-9c47-7d133efc89d2,Hotel Dedemin,HOTEL,39.924271,44.043995,Mehmet Akif Cd. No:11,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.961
+2c380dcc-e9c8-4b7e-95f8-37e7b87ef167,Gözde İnşaat Ltd. Şti,HOTEL,39.92461,44.042171,Bağlar Mah. m. Akif Ersoy Cad gözde apartmanı,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.942
+e1b01eb9-6279-4731-93fe-272859ada80e,Başkancafebistro,CAFE,39.922466,44.042526,Seçkin Sk. No:16,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.763
+9e48f7cb-0ac4-47ae-9927-94999506f7dc,Gazioglu Yufka,CAFE,39.922318,44.042465,Seçkin Sk. Aksoy Apt,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.803
+bd912d09-16aa-45a6-bbad-054909f73139,Dağkapi Ciğercisi,RESTAURANT,39.921509,44.043392,Şair Fuzuli Sk. No:3,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.934
+1d31bfee-1b60-4dcb-977b-9411406aea62,Bay Pideci,RESTAURANT,39.922237,44.043987,"yeni flo karşısı, Seçkin Sk. No:2",Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.834
+3dc2bdcc-4d1d-4132-8fc0-4e405ee518d3,Hotel Star Royal,HOTEL,39.921619,44.044037,Av. İbrahim Bozyel Cd. No: 7,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.965
+a57382e9-c63a-476b-9f56-8722799bce5c,Mersin Tantuni,RESTAURANT,39.921501,44.044086,ibrahim bozyel ceddesi no 9,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.844
+af4480da-a41c-471b-a0ca-b76585b50570,Pasha Çay Evi,CAFE,39.921486,44.044186,Şube Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.836
+65f432a1-1b8e-45fc-8259-20160474787e,Şölen Pastanesi,CAFE,39.920662,44.043011,Vali Konağı Yolu Cd. No:23,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.887
+560beadf-022b-4fe5-847b-77d956f60747,Simitçi Dünyası,RESTAURANT,39.920418,44.043701,Bozyel Cad No:44/1A,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.942
+568d2ed8-e553-4884-852c-9ec3b312095e,Iğdır Öz Adıyaman Çiğ Köfte,RESTAURANT,39.919861,44.043324,Kars Cd. No:38,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.902
+66aa9aa9-e05c-4c2c-b34c-725eb065039d,Mavi Ay Cafe&Kahvaltı,CAFE,39.920273,44.042789,100. Sokak 8A,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.807
+064846c4-881a-46f1-8384-7682b6a203cc,Ezel Lahmacun Pide Salonu,RESTAURANT,39.920204,44.043381,Vali Konağı Yolu Cd. No:7,Iğdır,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.878
+ff0e75b7-d190-4540-8e2a-df6c10b134d6,Set Pide& Lahmacun,RESTAURANT,39.92054,44.042992,Vali Konağı Yolu Cd. No:5,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.959
+08ba4c0a-bd2e-4d54-8708-903d7e169531,Mikel Coffee Iğdır,CAFE,39.92112,44.04258,Vali Konağı Yolu Caddesi 76/b,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.948
+2af4236a-f048-4812-b160-1276bf198b54,Çamlı Kafe,CAFE,39.920059,44.040604,Tomurcuk Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.936
+78810124-f109-4ee5-b239-3b9ac85a3aa9,Agrı Dogu Beyazıt Isa Paşa Sarayı,SIGHT,39.920052,44.04052,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.941
+c981789c-c66f-46e8-9dd8-63a3d32431ed,Öz Olımpıa Otel No ; 201,HOTEL,39.919773,44.040329,,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,motel,lodging>hotel>motel,0.770
+07aadbe8-c69c-4318-a6ae-3a52941d36a9,Oz Olimpia Hotel,HOTEL,39.919853,44.040268,Evren Paşa Cd. No:13,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.945
+aefeee8d-8838-4b05-8575-bc4303479b47,Adil Aşırım Çarşısı,SHOPPING,39.920246,44.040123,D080 No:18,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.754
+296698f1-62a8-4374-9049-e1eb9a7d128f,Alkis Hotel,HOTEL,39.920498,44.039719,Evren Paşa Cd. No:32,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
+24ab1f0c-09f2-4dce-ad2a-a3e2f9fde044,İkra Giyim,SHOPPING,39.921604,44.04129,Vali Yolu,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.830
+22549ab7-6a2b-4a6d-b3d7-eade9749c284,Atlantis Oyun Dünyası & Cafe,ACTIVITY,39.923203,44.038994,106. Sokak 3A,Iğdır,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.987
+1e8f55a8-1789-4dd1-811b-b810defb15cd,Urfa Şehzade Lahmacun Pide Kebap,RESTAURANT,39.923218,44.034084,,Iğdır,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.773
+555f40cd-6ecf-4f1b-a1c3-117bc8223935,Garden Liva Hotel,HOTEL,39.921894,44.035568,Sultan Caddesi 7,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.900
+7e0445f7-4129-4959-9e71-50fe54820bb8,Hilvan Ticaret,CAFE,39.921291,44.038189,Evren Paşa Cd. No:80/b,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.867
+0b78bae9-94db-4554-8ae6-b6a4b55d5a3f,Rus Pazarı,SHOPPING,39.918999,44.040123,Evren Paşa Cd. No:32,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.846
+ab61c7a1-0542-4bd5-9214-a41577d07898,Hotel Latif,HOTEL,39.919247,44.040802,Fatih Cd. No:1,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.898
+b2d3314a-8f9f-46a5-abca-6e9e58ede92f,SALON OPERA ET Lokantasi,RESTAURANT,39.918812,44.043045,Kazım Karabekir Cd. No:12,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.956
+a71cad80-95f6-4310-a63d-f8b7eb637909,Bit Pazari,SHOPPING,39.91819,44.043331,,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.862
+70500bdb-78ff-4c08-835e-3421371389e7,RmzFastfood,RESTAURANT,39.916759,44.042599,Pazar Sokak 4,Iğdır,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.875
+7af85613-738c-4840-8179-a75fc215788e,Alpengin Otel,HOTEL,39.917316,44.046619,,Iğdır,CDLA-Permissive-2.0,Overture|meta,hostel,lodging>hostel,0.884
+44e6ef9b-4e3c-4928-aab1-16cb9670710c,Guven Ekmek ve Unlu Mamulleri,CAFE,39.916252,44.048061,Kazım Karabekir Cd. No:317,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.875
+a7b56f0f-e05d-4a5b-be43-f9f0ce20b989,Dıyarbakir Cığercısı,RESTAURANT,39.917191,44.047337,,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.858
+afd7ff9a-8d42-404d-8d3f-8dfcff497915,Otel Grand Derya,HOTEL,39.917992,44.044724,Kazım Karabekir Cd. No:42 76000,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
+56381b2e-a9ce-49ff-a28a-6013ece6564f,Sevgi pastanesi,CAFE,39.919949,44.046448,Rıza Yalçın Cd. No:9,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.768
+ea0042b2-5a9e-4b17-b745-94ff104f183d,Esma Adana Sofrası Kebap Salonu,RESTAURANT,39.921391,44.045609,Cumhuriyet Caddesi 27,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.939
+3061cdb6-55d7-42f3-98bc-1034a1d1b673,Bargello Perfume,RESTAURANT,39.922295,44.044319,İbrahim bozyel cad No:18,Iğdır,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.975
+c9f48316-5e37-4334-882c-19ac65050cb1,İzafet Çiğköfte,RESTAURANT,39.922749,44.045792,Atatürk Cd. No:52,Iğdır,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.887
+6c631f66-4845-4b5d-963d-0b2d2f72a23d,İstanbul Simit Sarayı,CAFE,39.92292,44.045841,Atatürk Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.943
+e6570c37-ad58-4ec3-b07f-def97c3fd279,SARAY Lokantasi - Iranlilar,RESTAURANT,39.92271,44.046818,İrfan Caddesi 24,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.988
+01eca6c9-f057-49a6-af8f-d1a2d6e2a51c,Cafe Balkon,CAFE,39.92234,44.046875,Yancar Iş Merkezi Üstü 6 Kat,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.755
+9d4cf4c6-4404-4aba-99e5-711caac5cd9c,Siyabend özbadem pastanesi,CAFE,39.922062,44.046421,Fevzi Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.854
+af4b2e8e-c2b3-4667-96a5-049ec907a028,Otel Barbaros,HOTEL,39.922127,44.046413,İrfan Cd. No:19,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.912
+538d4d83-f642-4e49-99f9-d8abcb042fd6,Boğaz Cafe,CAFE,39.922142,44.046082,İrfan Caddesi 18,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.907
+77fbfc85-ad68-4baa-b924-c8e68a8513a3,Hidayet Çay Evi - ığdır,CAFE,39.921864,44.046482,Fevzi Çakmak Caddesi 15,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.864
+c9bc779e-2e11-4886-8f96-65c7d1565c2b,Has Şanlıurfa Lahmacun Pide ve Kebap,RESTAURANT,39.921658,44.047241,Fevzi Çakmak Cd. No:22/c,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.944
+04adb4f9-b670-4d2e-91ed-672a2422ccc4,Akar Çayevi,CAFE,39.922092,44.047558,138. Sk.,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.943
+0b0b0d2f-671e-4fad-a825-22bd4fdfb138,Kök cağ kebap ığdır,RESTAURANT,39.92313,44.047958,Hal Sk. No:6 D:C,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.776
+c87a72ce-3ad2-4df8-9a7b-3be548f1bce8,Selale Sark Sofrasi,RESTAURANT,39.923206,44.048359,Hal Sk. No:4/C,Iğdır,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.941
+613497e8-d121-4451-98d8-c633ba32d77e,Cafe Varil,CAFE,39.920464,44.047607,Itfaiye Karşısı,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.874
+f2e486d9-e880-4d70-b988-611ed17eead3,Iranlilar Villa,SIGHT,39.917854,44.051414,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.881
+c0f70cf2-5b02-4a3e-8754-6bb13921558c,Gönüloğlu Lokantası,RESTAURANT,39.927731,44.067776,,Iğdır,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.836
+97556a15-c7a7-4c0d-94aa-9e93ec577669,Tuz Mağarasıı,SIGHT,39.915432,44.056049,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cave,geographic_entities>land_feature>cave,0.704
+689622d8-7bfd-45cf-9c9e-a5db162312c5,Devran Avm,SHOPPING,39.902294,44.06255,Konaklı Mah,Iğdır,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.749
+1fbea126-9838-40c3-9ff9-29b84d118c0d,Hacıbaba Catering Toplu Yemek Hizmetleri,RESTAURANT,39.92606,44.028759,Evren Paşa Caddesi 113,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.906
+fb1a65dd-5fc7-4b44-932d-0001c9468fe8,Lunapark,ACTIVITY,39.929577,44.030537,Vali Konağı Yolu Cd.,Iğdır,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.820
+e495f83f-fcff-4925-94e0-1edc7dbb6ded,Bowling Cafe Poligon,CAFE,39.929775,44.030926,,Iğdır,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.891
+bd12e7b5-53df-465a-8a56-09c806e09cff,Kahve Diyarı Igdir,CAFE,39.929989,44.030319,Vali Konağı Yolu Cd. No:74,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.949
+b8823a68-4d20-4b48-bb85-ada0671a16f1,Bike Kebap,RESTAURANT,39.927547,44.026936,12 Eylül Mah. Evren Paşa Cad Merkez,Iğdır,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
+d0c4f7b2-c91a-4888-a830-a3abffde705e,Hotel Imparator,HOTEL,39.933033,44.013813,Igdir Girisi Dsi Karsisi,Iğdır,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.938
+56d499e7-d34e-4bcf-a0c4-1e9715b2ffe2,Gua Coffee Company Iğdır,CAFE,39.931831,44.02618,Vali Konağı Yolu Caddesi 43/b,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.962
+760e6a61-b471-4b62-a108-17b8de87c53c,Lora Çikolata & Kahve Iğdır,CAFE,39.931759,44.026329,Vali Konağı Yolu Caddesi 62/a,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.772
+a1dd10ba-f0d5-41ec-86a1-05b4c270de75,Iğdır merkez,RESTAURANT,39.930706,44.02882,Vali Konağı Yolu Cd. No:81,Iğdır,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.816
+e1b1d542-bee2-44b0-9027-9c72d7d5251a,Craft cafe,CAFE,39.931248,44.03241,"craft cafe, Uluçınar Cd. St No:23",Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.925
+8056cff7-7111-41af-bcc8-19685a62f4c6,Gadai Coffee,CAFE,39.93129,44.032673,Uluçınar Cd. No:15-23/D,Iğdır,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.939
+5911c327-b71f-4208-b59f-063bd7e67ec0,Pera Alakart,RESTAURANT,39.937721,44.002766,Vali Şemsettin Uzun Blv.,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.916
+66f9c32b-7ce8-4673-991f-75087ab99377,Iğdır Orman Parkı,SIGHT,40.024357,43.87468,ÇALPALA,Tuzluca,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.932
+f90f743e-d650-40a1-96b8-03c28b33b564,Antep Kabap Lahmacun,RESTAURANT,39.946167,44.006901,Vali Konağı Karşısı,Iğdır,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.806
+093e7dad-ef1b-48c7-8465-a6113ea9f2f1,"Enginalan, Iğdır",SIGHT,39.966663,44.033333,,Iğdır,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.809
+f6d3d828-effc-4a20-a1b0-f3686f92a961,Melekli Ocak Bası Et Lokantası,RESTAURANT,39.952801,44.120399,Melekli Kasabası,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.982
+820b47fa-0915-4012-9227-7084505fbfd4,"Gökçeli, Karakoyunlu",SIGHT,39.98333,44.168327,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.779
+0ac62f03-f27a-4caa-b884-76a4bb348866,Işık Pansiyon,HOTEL,39.873119,44.517288,Atatürk Cd.,Aralık,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast,0.829
+16fc627f-7529-4d13-aa5b-5d308a047f6a,Asmar,RESTAURANT,39.875141,44.513626,Karşıyaka Mahallaesi,Aralık,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.912
+72a3affd-7abc-4aee-8527-abb848f9f6a0,"Aşağıçamurlu, Aralık",SIGHT,39.926109,44.435555,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.813
+3aa81a69-0d4a-457a-b05e-653a42734002,Bulakbaşı Milli Parkı,SIGHT,39.938251,44.258308,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.863
+d771ebc0-ecfd-42f8-9093-991ef9eb1db4,"Bulakbaşı, Karakoyunlu",SIGHT,39.933327,44.25,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.813
+72173090-81e2-4577-b375-22ae8929912f,Bulakbaşı Milli Parkı,SIGHT,39.934151,44.254044,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.865
+91b3029a-099e-46d4-8c03-898c3d9f6830,"Yenidoğan, Aralık",SIGHT,39.777222,44.381107,,Karakoyunlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.774
+3d9ffbc8-d706-4fa4-8708-4cb845ff6ba6,Umut Köprüsü,SIGHT,39.654308,44.799713,,Aralık,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.790
+9010ccc0-b686-47aa-b07a-77ffece64891,Umut Bridge,SIGHT,39.655277,44.803333,,Aralık,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.784
+7fe522af-bb1a-4c62-ba2f-772c0cb7629e,Umut Köprüsü,SIGHT,39.655277,44.803333,,Aralık,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.790
+ea4c9a79-9531-4541-96e2-6a78a71e0987,Süreyya Çeşmesi Iğdır - Aralık,SIGHT,39.790581,44.603725,"Aralık Kazım Karabekir Tarım İşletmeleri, İran Sınırı Sıfır Noktasıı",Aralık,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.793
+e5b6a52d-9d0d-4ff6-8049-df87b812d24d,"Aşağıçiftlikköy, Aralık",SIGHT,39.849998,44.583332,,Aralık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763

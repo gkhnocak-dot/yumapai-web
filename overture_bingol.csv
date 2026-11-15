@@ -1,125 +1,125 @@
-sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy
-ceeba13c-cc9f-464a-9abb-15a7e04f33b2,Tigris tunnel,SIGHT,38.529652,40.547443,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-c5ef1409-d5b5-437c-b887-c59028bc766f,Lice Bırkleyn Mağarasi,SIGHT,38.529804,40.5457,,Genç,CDLA-Permissive-2.0,Overture|meta,cave,geographic_entities>land_feature>cave
-3179872c-fc79-40be-8163-ff76a854bb50,Beyler sofrası,CAFE,38.750957,40.540134,Genç bingöl yolu üzeri,Genç,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-8bff34ff-171f-4274-b033-1f91e2d36142,Ciğer-Ma Ocakbaşı,RESTAURANT,38.749004,40.551113,Kültür Cd. üzeri,Genç,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-ef5a8d67-4053-4749-bf20-bead8dfe2f29,Cordon cafe&restaurant,RESTAURANT,38.746864,40.5504,Kültür Cd.,Genç,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-d3b12276-29c2-423a-980b-03b54238b89c,Şark Künefe,CAFE,38.749378,40.54829,Diyarbakır Bingöl Yolu,Genç,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-f0a8d943-e493-4266-90fc-f171b1c73fc2,Divan Pastanesi,CAFE,38.749775,40.557423,Cumhuriyet Cd.,Genç,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery
-e48c52a3-c866-4662-82a7-f653cac29103,Miliamall Avm,SHOPPING,38.751534,40.555759,Genç Caddesi Merkez/ Bingöl,Genç,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-31a39a70-2008-4e81-aecf-b0b09afcaec2,Cafe İkiye On Kala,CAFE,38.903259,40.500416,"mahlesi, Şht. Mustafa Gündoğdu Cd. şirin apt D:33/1A",Bingöl,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-8968430d-f2b8-405e-a94e-26497c699032,Kafe moda,CAFE,38.903282,40.500423,"Ciğerci osman karşısı, Şht. Mustafa Gündoğdu Cd.",Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-b4184767-af35-4445-b92b-72ecd3faa58d,Palet Waffle,CAFE,38.902969,40.502197,Müjde Sk. No:9,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-c04a95ef-6c19-46e7-958e-48b66cf60993,Çorba Dünyasi,RESTAURANT,38.901966,40.502487,Nesve Yani,Bingöl,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-688bb881-8683-44db-9c09-f8dd69b7677f,Simitçi Dünyası,RESTAURANT,38.901787,40.502506,Şht. Mustafa Gündoğdu Cd. No:15,Bingöl,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant
-7fd79cf7-67da-4a33-b56f-62b2588f9475,Neşve,CAFE,38.902634,40.501186,,Bingöl,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-281ead40-136d-4691-a749-f0e8a7ce2b25,Şahin Künefe,RESTAURANT,38.901451,40.502945,Çilem Sk. No:11,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-e61b6ca8-bb08-468c-9965-10ce1195983b,Aydoğdu Sarar,SHOPPING,38.886105,40.501663,Genç Cad,Bingöl,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-8d397e92-32d6-41a2-bb56-41ff54e1ad75,Bingöl Atatürk Kültür Parkı,SIGHT,38.88409,40.501469,SEBAT SOKAK,Bingöl,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-d4917d10-b567-4ae2-ab76-eebde3f91b31,Bingöl Doğa Alabalık Tesisleri,RESTAURANT,38.880829,40.500923,Beşyol Yukarısı Fevzi Çakmak Cad Mazrafaki Mezarlığı Yol 2 Km,Bingöl,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant
-c57011db-089b-460d-8de6-aa2fbf66d723,Hacı'Nın Yeri Aile Kır Bahcesi,CAFE,38.884468,40.544323,Çevre Yol Kavşağı 500 Mah,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-fe492134-bfac-4a4e-901d-ab377c6ef5b8,Bingöl Ot Cafe,RESTAURANT,38.90184,40.526081,"Grand Berti Otel, Elazığ Muş Yolu Caddesi 103",Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-fec08912-b623-4adc-9347-1714dc57e6bb,Bingöl Grand Berti Otel,HOTEL,38.901634,40.526291,"Zes, Elazığ Muş Yolu Caddesi 77",Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-b34843e4-4da4-4f55-b37f-176ee77aec54,Sogukçeşme Kavurma,RESTAURANT,38.89819,40.520893,Bingöl Merkez Temel Yapı Karayolari Karsisi,Bingöl,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-a1b92d55-1dce-46a8-9fb7-372115039aa8,Bahçeşehir Konakları,SIGHT,38.886597,40.520695,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-d75493ca-1655-4bf0-8c64-9bc6060fd352,Kent Kafe,CAFE,38.885864,40.520115,Ahmet Kaya Cd. 46/1,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-88280bfd-5d17-4609-8650-2b526baf7e2f,Bingöl Mürsel Paşa Erkek Öğrenci  Yurdu,HOTEL,38.885929,40.522118,,Bingöl,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-f1d159fe-76ba-4907-a4ab-e22b44aee377,Aftor Alabalık ve Restaurant,RESTAURANT,38.883465,40.536049,Kültür mahallesi çevre yolu altı AFTOR mevkii,Bingöl,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant
-c811275e-59df-428a-b606-66b84914071b,Köz Moda Restoran,RESTAURANT,38.883476,40.520874,Ahmet Kaya Cd. 30 H,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-9784b9d5-8b9a-4410-a275-9edb5e4dab3b,Tavuk Dünyası,RESTAURANT,38.871914,40.516232,"Yenişehir Mahallesi, Genç Caddesi, No:13/ 203",Bingöl,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant
-265411b7-ef8b-4494-8fe6-c177a5186bfe,Safir Künefe&Baklava,CAFE,38.882648,40.508694,Kurtuluş Cd. No:2,Bingöl,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-86ff1a4d-f4f7-40d0-881b-fc2f7d145b29,Çapakçur Viyadüğü,SIGHT,38.889095,40.50687,D950 No:32,Bingöl,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-1b09f404-97c1-4287-a149-7a4e03db231a,Bingol Ogretmenevi ve Aksam Sanat Okulu,HOTEL,38.894703,40.504204,Vali Konağı Caddesi,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-d4c36ac5-e281-4dc9-a656-295e12543426,Kaplıcalar,HOTEL,38.886238,40.512394,Bingol Kaplıcaları,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-5dfa211a-917b-4e9f-96e5-f8908827dbd8,Saklıbahçe cafe restaurant - Kültür halısaha,CAFE,38.889156,40.515945,Esen Cad,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-40ac56ba-dda6-4596-ac6d-ebbe9966df9f,Bayram Büfe,CAFE,38.895329,40.513382,Sağlık Cd.,Bingöl,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-b03497c6-4589-4c78-8604-a0dc8984c428,Hacıbey Künefe,CAFE,38.897301,40.513371,Düzağaç ,Bingöl,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop
-c33208a2-1324-462e-ba00-3ffd13b8f1b7,Bingol Selale Park Cafe Restaurant,RESTAURANT,38.897114,40.511799,Bingöl - Elazığ Yolu,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-bec9bf54-a180-4b4b-8f83-b06585797d49,Özlüce Barajı - Karakoçan/elazığ,SIGHT,38.897499,40.511986,,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
-27284b2e-78ee-42e9-8caf-1c47780e9873,Bingöl KYK Erkek Öğrenci Yurdu C Blok,HOTEL,38.896549,40.514957,Bingöl Muş Cad Yol,Bingöl,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-18df88e9-6c23-4020-9a13-83e9eb79e27b,Bingol Beledives Rabia Parki,SIGHT,38.89653,40.514877,Çapakçur Cd. No:4,Bingöl,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-98247b64-806f-456d-8bb7-d90c840a338d,Pizzeria Fellini,RESTAURANT,38.896389,40.514885,Çapakçur Cd. No:4,Bingöl,CDLA-Permissive-2.0,Overture|meta,italian_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant
-ac33171f-ec6b-4afa-8c72-3a204cd2ddb4,Saray Cadde Döner,RESTAURANT,38.896137,40.515118,Sağlık Cd. No:26 H,Bingöl,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant
-190c80d0-24a8-4399-a84b-61fe29d01a26,Cuma Kutan Sogukcesme Kavurma,RESTAURANT,38.89698,40.507473,Bingöl - Elazığ Yolu No:19,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-2106fd0a-4cd2-4c3a-b1a1-23ce2fa27ba6,Soğuk Çeşme Kavurma Ve Et Lokantası,RESTAURANT,38.897152,40.507717,,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-40a6d40d-ff49-41c5-9ce2-03ba7c87d2fb,Bingol Pir Ali Bey Kız Yurdu,HOTEL,38.905464,40.548729,Kaleönü mah. Bingöl,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-5d2e4df6-3459-487d-b302-010c1c5427ff,Yeşilbelen,SIGHT,39.09433,40.157452,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-ea5440d2-8bc0-4ffe-aa1f-bdcfe042cf1f,Özlüce Barajı ve Hidroelektrik Santrali,SIGHT,39.130554,40.088608,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f4abf723-ae5e-4402-9877-0c205cad5c3f,SÜLbÜS DaĞI,SIGHT,39.227951,40.069077,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-74ad1d64-e569-48cc-85a8-a07671f07722,Croydon pizza- Müslüm Ergün,RESTAURANT,39.22646,40.068352,Bingöl Yayladere,Yayladere,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
-b1a780e8-fac6-4312-9285-2e66086a2137,Çatalkaya,SIGHT,39.300804,40.088711,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f168d809-70fd-478c-8634-221fabe47e09,Gökçedal,SIGHT,39.236862,40.138325,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-27fa1a87-4bf2-4b33-8406-710ae6c3b257,Yaylabağ,SIGHT,39.185272,40.11348,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-a89c0d4e-878e-4d78-9ab5-74a4a95e68d0,Tiyaran,SIGHT,39.184166,40.141483,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-e44697ba-5c02-4bbe-ac86-da67f047e543,Korlu,SIGHT,39.184166,40.141483,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-0a7baec1-87fe-4358-86fd-0f8557c0f55b,"Güneşlik, Yayladere",SIGHT,39.197227,40.182701,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-7e9bebe8-d0ac-41af-83d5-885978224881,"Güneşlik, Yayladere",SIGHT,39.210049,40.174412,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-456431c9-147e-4739-841a-4dc0903635ee,Sabırtaşı,SIGHT,39.287464,40.188869,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f2ca1ba5-4a1c-42af-b2f7-33b55e280825,Ağaçöven,SIGHT,39.262012,40.273277,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-b0cb9e3e-81ec-4431-a938-e47732dd0276,Dallıca,SIGHT,39.253147,40.294636,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f2dbda4c-4108-4429-9b3a-b8d73059a1fe,Gayt Dam,SIGHT,39.024754,40.339924,,Adaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-6d6a2d13-1302-4099-a888-fb03f49b7c01,"Sırmaçek, Kiğı",SIGHT,39.150848,40.326519,,Adaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-2bbade48-cff9-4920-a863-7c1f367b65f7,"Adaklı, Bingöl",SIGHT,39.230827,40.478054,,Adaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-29cd2350-6eb6-4706-8e56-ca80385b991d,Adaklı Atıştır Cafe & Restaurant,CAFE,39.228558,40.482426,Bağlar Caddesi 4A,Adaklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-ede88b1b-d642-416d-8f1f-f396e558bb11,Atatürk Parkı,SIGHT,39.228481,40.482216,,Adaklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park
-e1b0b663-2382-4803-bf06-fe8cda9f7b35,Yedisu Dam,SIGHT,39.276413,40.37289,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-a556867c-7b71-4be2-aaf5-788f16e4a566,Selenk Köprüsü,SIGHT,39.287952,40.359352,,Kiğı,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge
-0d79a229-246b-411c-bcba-481642aacd75,Hanımeli pizza cafe,RESTAURANT,39.311512,40.349106,"Yenişehir mahallesi cumhuriyet caddesi numara, D:108",Kiğı,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant
-49ff108d-677c-4706-b8a8-89f571994a2a,Eylül İskender Cafe Restaurant,RESTAURANT,39.310116,40.348911,Kığı Yolu,Kiğı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-c1a7d012-06dd-48ad-bc81-f4d91d87cb8c,Yedisu Lokantası,RESTAURANT,39.31044,40.349083,Kığı Yolu,Kiğı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-40372da6-a89f-4045-98f0-b25fdedc8a52,Keyf-i Cafe,CAFE,39.307983,40.348961,,Kiğı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-50f90c30-7799-47d6-b6a8-3f51a14009a5,"Güneyağıl, Kiğı",SIGHT,39.289986,40.335182,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-a5548f97-2b3e-41ec-93a0-1a9243df3828,"Kadıköy, Kiğı",HOTEL,39.291176,40.323746,,Kiğı,CDLA-Permissive-2.0,Overture|meta,lodging,lodging
-e2e2e541-d1ed-41d1-91fd-29f176db78f4,Değirmen Cafe,CAFE,39.320503,40.345951,Alişan Engin Sokak 31,Kiğı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-c409303a-bb74-4dab-81d0-3d6a5434ab43,Kiğı Cevizli Konak,RESTAURANT,39.319645,40.34798,"Eskişehir mahallesi şükrü altan sokak no:40, KEREK YOLU ÜZERİ",Kiğı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant
-ae17fcab-7dc6-4f5c-a947-1c73e8f1e1f9,Eskiçarsı Kiğı,CAFE,39.318405,40.348839,,Kiğı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-692816cb-a858-471d-bd7c-e3d93a811517,Kiğı Barajı ve Hidroelektrik Santrali,SIGHT,39.368332,40.351944,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-1a107195-7672-492f-9d75-c929ca32ba9c,Tekbaş,SIGHT,39.360962,40.334213,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-ee5d4dea-f36a-4270-b5fe-8ce419784af9,"Kırklar, Pülümür",SIGHT,39.469791,40.043373,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-3a7d5fd1-3779-4fd4-a194-80f7dc320bdc,Mollaşakir,SIGHT,39.40173,41.077896,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-fc8553f0-6a2a-439d-8f9f-72a466d0a144,Tuzluca (Karlıova),SIGHT,39.368027,41.053417,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-8a0d54ab-e09b-454a-9229-e075bd58416e,Güneşin Doğuşu dinlenme tesisleri,RESTAURANT,39.357063,41.027287,Kantarkaya Köyü Yolu,Karlıova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-6e1f92c5-4c56-40b5-886f-19d26a9226b2,Cillo dayı Dinlenme Tesisi Kavurma yeri,RESTAURANT,39.378345,40.976307,Karlıova - Erzurum Yolunda,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-e0f9ba12-d884-4740-a3e7-e2c036bb0823,"Sarıkuşak, Karlıova",SIGHT,39.40554,40.8344,,Yedisu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-205f63b0-d426-499d-9db2-16b3ee32a72c,Yukarıyağmurlu,SIGHT,39.201519,40.771496,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f6cf1236-ddd1-40a8-a9f2-5b925c46ea8c,"Karlıca, Karlıova",SIGHT,39.227093,40.75629,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-f0de421f-8b43-4b60-98da-2f087fc56702,Bingöl Binkap Termal Otel,HOTEL,38.988609,40.672695,,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-6164241e-293a-4fb2-8bc1-5027e9998327,Binkap Termal Otel Ve Rehabilitasyon Merkezi,HOTEL,38.991756,40.683666,Erzurum Caddesi 18B,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-0c73c260-a39e-4902-8d0f-af94ba4c303d,Osman Usta'nın Yeri,RESTAURANT,39.01981,40.724934,BİNGÖL/MERKEZ/ELMALI KÖYÜ,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant
-20176d87-812f-40f1-a5d8-2f1f3258ecd5,Bingöl Tava ve Kahvaltı Bahçesi,RESTAURANT,39.021843,40.729816,"Elmalı, Aşağı, Bingöl Merkez",Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-c2883b88-e8aa-4163-9169-b899c93f56bc,Soguk Cesme Kavurma,RESTAURANT,39.058262,40.789513,,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-a2a58ecc-f333-44c3-ad48-8f2efa7e7ece,Derinçay,SIGHT,39.138447,40.864082,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-e7df0dba-a8b3-4203-a9f2-b7c0e6df0de5,Devecik,SIGHT,39.162476,40.858276,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-5a927158-1ffd-471e-bbd8-80876206e8bd,"Kıraçtepe, Karlıova",SIGHT,39.205067,40.95673,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-1642fe77-b231-4b6a-9852-ff1e49b4ffe6,Boncukgöze,SIGHT,39.23288,40.980141,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-c9609628-2589-4701-9534-0a7958d1b1ae,Karlıova Öğretmenevi,HOTEL,39.296864,41.011276,Fatih Cd.,Karlıova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-f4d225f4-2c90-400f-a297-1b31a96bdb33,Karliova Dörtyol Pide Ve Kebap Salonu,RESTAURANT,39.298294,41.014198,hükümet konağı Karşısı,Karlıova,CDLA-Permissive-2.0,Overture|meta,american_restaurant,food_and_drink>restaurant>north_american_restaurant>american_restaurant
-0d3712f8-a9c2-4a0a-b7c9-1cbaf6b1d483,OvaPark AVM,SHOPPING,39.300476,41.019367,,Karlıova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall
-3ab1a1ec-84c0-44c6-aa17-634278afc3cc,Bingol Karlıova Kanires Alabalık Tesisleri,HOTEL,39.303623,41.024582,Kanireş Alabalık Tesisleri,Karlıova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-bb7edb90-39b5-4857-b205-f068da4cda54,Bingol Karlıova Kanires Alabalık Tesisleri,HOTEL,39.299553,41.027634,Kanireş Alabalık Tesisleri,Karlıova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-f39d3cc1-6c96-4f24-852e-a3cefa436987,"Serpmekaya, Karlıova",SIGHT,39.259804,41.046577,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-88ae1bc9-af6c-4b5d-8e08-0230a00d0431,Sakaören,SIGHT,39.281208,41.075287,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-6acd8c3b-41c5-4c48-8b07-4f0765f0cb74,Wesar,CAFE,38.960667,41.040134,"hashan apartman, Şehit Mehmet, turksever bulvarı D:130 /e",Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-1d0ebfc1-294a-4d08-9294-f352e14c0d02,ElİT Cafe Restaurant,CAFE,38.960007,41.039017,SOLHAN DEVLET HASTANESİ KARŞISI,Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-47c8ab49-6d68-44ce-a038-1ee67992598e,Palet Cafe,CAFE,38.95998,41.039124,"Devlet Hastanesi Karşısı, Mehmet Türksever Bulvarı",Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-047616c0-d646-4898-b679-eba36b40eb86,Kahve Köpüğü,CAFE,38.962746,41.044071,311. Sk. No:9,Solhan,CDLA-Permissive-2.0,Overture|meta,,
-32d4a929-96ee-4d00-984b-a3237cfb6d09,Kentmar Cafe,CAFE,38.962566,41.044006,Kentmarket Üsttü,Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-6bc948ce-0fd6-4d37-8af0-29bfb78c0bd1,Cafe mar,CAFE,38.962479,41.043785,"CAFE MAR, BİNGÖL SOLHAN ŞEHİT MEHMET TÜRKSEVER BULVARI KENTMAR AVM ÜSTÜ",Solhan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop
-d46c3338-51bf-464c-8713-2f359b625649,ALMER Restaurant&cafe,RESTAURANT,38.966064,41.051285,yeni mahalle sehit mehmet turksever bulvari SOLHAN,Solhan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant
-0d9d754f-f85f-46e9-b0de-f45eea26a53e,Şeref Meydanı Konaklama Tesisleri,HOTEL,38.967251,41.054398,Bingöl-Solhan karayolu 34. km,Solhan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-17744069-61ce-41c7-b1a2-61bfa319172b,Meşhur Bingöl Kadayif Ve Künefe Salonu,CAFE,38.967144,41.05492,Bingöl MUŞ yolu üzeri yolcu apt. altı /SOLHAN,Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe
-d2246542-d5d2-4e49-a694-a9af35bc93fd,Grand Konak Otel - Solhan Bingöl,HOTEL,38.968681,41.058617,Boğlan Mahallesi Muş yolu köprü başı Solhan,Solhan,CDLA-Permissive-2.0,Microsoft|Overture,resort,lodging>resort
-b68eb27a-f4ae-4a00-ba44-47c9f4616305,Upper Kaleköy Dam,SIGHT,38.811226,41.042896,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-20f11bcc-6075-426d-b8df-6ed14b56c511,Yüzen Adalar,SIGHT,38.946465,40.946194,,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
-58358b6e-faf8-4aba-8c0e-ae92ddd93e6d,Yüzen Adalar Tabiat Anıtı,SIGHT,38.972794,40.945015,Solhan,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
-a237cf6e-9df9-417b-ae68-df290c360c4b,Şeref Meydanı Şehitliği,SIGHT,38.914944,40.854214,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-36cc9760-6f29-425d-9ad6-83cea34401da,Lower Kaleköy Dam,SIGHT,38.83075,40.709354,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-4f8e0dc2-62a8-4d45-a483-066b6e075893,Or-et Tava Ilıcalar,RESTAURANT,38.987259,40.674019,,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-aba9b4a4-891f-4111-aa46-f5d04b7853d6,Bingol Soguk Cesmede Kavurma Keyfi,RESTAURANT,38.980488,40.676109,Ilıcalar,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse
-e64ef90e-793e-4132-a3dc-b10f1ac89ff4,Bingöl Saricicek Gölü,SIGHT,38.884415,40.59008,Sarıçiçek Koyu,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake
-9ba2a7c0-d5b8-49ca-a628-ed070df5b373,"Aşağıelmalı, Kulp",SIGHT,38.528851,40.871418,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-3c25db21-42fa-40ab-a6a2-80afc50b0857,"Ağıllı, Kulp",SIGHT,38.563889,40.869438,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-d8837076-3920-4436-bef7-12c05c3f8ad9,Ozan Apart,HOTEL,38.500187,41.013378,Diyarbakır Caddesi Kulp Lisesi Yanı,Solhan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel
-17ccb122-4c10-4595-a21f-7235370eeeff,Kulp,SIGHT,38.501663,41.011665,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-c7594712-979b-4405-a651-42f9fbf5ff71,"Yaylak, Kulp",SIGHT,38.58305,41.04916,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
-d82aa177-1aec-427e-8704-07f05d6f8c48,"Karabulak, Kulp",SIGHT,38.511665,41.062775,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site
+sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
+ceeba13c-cc9f-464a-9abb-15a7e04f33b2,Tigris tunnel,SIGHT,38.529652,40.547443,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.806
+c5ef1409-d5b5-437c-b887-c59028bc766f,Lice Bırkleyn Mağarasi,SIGHT,38.529804,40.5457,,Genç,CDLA-Permissive-2.0,Overture|meta,cave,geographic_entities>land_feature>cave,0.704
+3179872c-fc79-40be-8163-ff76a854bb50,Beyler sofrası,CAFE,38.750957,40.540134,Genç bingöl yolu üzeri,Genç,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.756
+8bff34ff-171f-4274-b033-1f91e2d36142,Ciğer-Ma Ocakbaşı,RESTAURANT,38.749004,40.551113,Kültür Cd. üzeri,Genç,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.841
+ef5a8d67-4053-4749-bf20-bead8dfe2f29,Cordon cafe&restaurant,RESTAURANT,38.746864,40.5504,Kültür Cd.,Genç,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.768
+d3b12276-29c2-423a-980b-03b54238b89c,Şark Künefe,CAFE,38.749378,40.54829,Diyarbakır Bingöl Yolu,Genç,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.877
+f0a8d943-e493-4266-90fc-f171b1c73fc2,Divan Pastanesi,CAFE,38.749775,40.557423,Cumhuriyet Cd.,Genç,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.964
+e48c52a3-c866-4662-82a7-f653cac29103,Miliamall Avm,SHOPPING,38.751534,40.555759,Genç Caddesi Merkez/ Bingöl,Genç,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.714
+31a39a70-2008-4e81-aecf-b0b09afcaec2,Cafe İkiye On Kala,CAFE,38.903259,40.500416,"mahlesi, Şht. Mustafa Gündoğdu Cd. şirin apt D:33/1A",Bingöl,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.932
+8968430d-f2b8-405e-a94e-26497c699032,Kafe moda,CAFE,38.903282,40.500423,"Ciğerci osman karşısı, Şht. Mustafa Gündoğdu Cd.",Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.817
+b4184767-af35-4445-b92b-72ecd3faa58d,Palet Waffle,CAFE,38.902969,40.502197,Müjde Sk. No:9,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.756
+c04a95ef-6c19-46e7-958e-48b66cf60993,Çorba Dünyasi,RESTAURANT,38.901966,40.502487,Nesve Yani,Bingöl,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.943
+688bb881-8683-44db-9c09-f8dd69b7677f,Simitçi Dünyası,RESTAURANT,38.901787,40.502506,Şht. Mustafa Gündoğdu Cd. No:15,Bingöl,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.922
+7fd79cf7-67da-4a33-b56f-62b2588f9475,Neşve,CAFE,38.902634,40.501186,,Bingöl,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.885
+281ead40-136d-4691-a749-f0e8a7ce2b25,Şahin Künefe,RESTAURANT,38.901451,40.502945,Çilem Sk. No:11,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.920
+e61b6ca8-bb08-468c-9965-10ce1195983b,Aydoğdu Sarar,SHOPPING,38.886105,40.501663,Genç Cad,Bingöl,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.739
+8d397e92-32d6-41a2-bb56-41ff54e1ad75,Bingöl Atatürk Kültür Parkı,SIGHT,38.88409,40.501469,SEBAT SOKAK,Bingöl,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.809
+d4917d10-b567-4ae2-ab76-eebde3f91b31,Bingöl Doğa Alabalık Tesisleri,RESTAURANT,38.880829,40.500923,Beşyol Yukarısı Fevzi Çakmak Cad Mazrafaki Mezarlığı Yol 2 Km,Bingöl,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.843
+c57011db-089b-460d-8de6-aa2fbf66d723,Hacı'Nın Yeri Aile Kır Bahcesi,CAFE,38.884468,40.544323,Çevre Yol Kavşağı 500 Mah,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.892
+fe492134-bfac-4a4e-901d-ab377c6ef5b8,Bingöl Ot Cafe,RESTAURANT,38.90184,40.526081,"Grand Berti Otel, Elazığ Muş Yolu Caddesi 103",Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.980
+fec08912-b623-4adc-9347-1714dc57e6bb,Bingöl Grand Berti Otel,HOTEL,38.901634,40.526291,"Zes, Elazığ Muş Yolu Caddesi 77",Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
+b34843e4-4da4-4f55-b37f-176ee77aec54,Sogukçeşme Kavurma,RESTAURANT,38.89819,40.520893,Bingöl Merkez Temel Yapı Karayolari Karsisi,Bingöl,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.981
+a1b92d55-1dce-46a8-9fb7-372115039aa8,Bahçeşehir Konakları,SIGHT,38.886597,40.520695,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
+d75493ca-1655-4bf0-8c64-9bc6060fd352,Kent Kafe,CAFE,38.885864,40.520115,Ahmet Kaya Cd. 46/1,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.838
+88280bfd-5d17-4609-8650-2b526baf7e2f,Bingöl Mürsel Paşa Erkek Öğrenci  Yurdu,HOTEL,38.885929,40.522118,,Bingöl,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.800
+f1d159fe-76ba-4907-a4ab-e22b44aee377,Aftor Alabalık ve Restaurant,RESTAURANT,38.883465,40.536049,Kültür mahallesi çevre yolu altı AFTOR mevkii,Bingöl,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.752
+c811275e-59df-428a-b606-66b84914071b,Köz Moda Restoran,RESTAURANT,38.883476,40.520874,Ahmet Kaya Cd. 30 H,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.769
+9784b9d5-8b9a-4410-a275-9edb5e4dab3b,Tavuk Dünyası,RESTAURANT,38.871914,40.516232,"Yenişehir Mahallesi, Genç Caddesi, No:13/ 203",Bingöl,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
+265411b7-ef8b-4494-8fe6-c177a5186bfe,Safir Künefe&Baklava,CAFE,38.882648,40.508694,Kurtuluş Cd. No:2,Bingöl,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.838
+86ff1a4d-f4f7-40d0-881b-fc2f7d145b29,Çapakçur Viyadüğü,SIGHT,38.889095,40.50687,D950 No:32,Bingöl,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.728
+1b09f404-97c1-4287-a149-7a4e03db231a,Bingol Ogretmenevi ve Aksam Sanat Okulu,HOTEL,38.894703,40.504204,Vali Konağı Caddesi,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
+d4c36ac5-e281-4dc9-a656-295e12543426,Kaplıcalar,HOTEL,38.886238,40.512394,Bingol Kaplıcaları,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.839
+5dfa211a-917b-4e9f-96e5-f8908827dbd8,Saklıbahçe cafe restaurant - Kültür halısaha,CAFE,38.889156,40.515945,Esen Cad,Bingöl,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.767
+40ac56ba-dda6-4596-ac6d-ebbe9966df9f,Bayram Büfe,CAFE,38.895329,40.513382,Sağlık Cd.,Bingöl,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.855
+b03497c6-4589-4c78-8604-a0dc8984c428,Hacıbey Künefe,CAFE,38.897301,40.513371,Düzağaç ,Bingöl,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.818
+c33208a2-1324-462e-ba00-3ffd13b8f1b7,Bingol Selale Park Cafe Restaurant,RESTAURANT,38.897114,40.511799,Bingöl - Elazığ Yolu,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.994
+bec9bf54-a180-4b4b-8f83-b06585797d49,Özlüce Barajı - Karakoçan/elazığ,SIGHT,38.897499,40.511986,,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.705
+27284b2e-78ee-42e9-8caf-1c47780e9873,Bingöl KYK Erkek Öğrenci Yurdu C Blok,HOTEL,38.896549,40.514957,Bingöl Muş Cad Yol,Bingöl,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.842
+18df88e9-6c23-4020-9a13-83e9eb79e27b,Bingol Beledives Rabia Parki,SIGHT,38.89653,40.514877,Çapakçur Cd. No:4,Bingöl,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.865
+98247b64-806f-456d-8bb7-d90c840a338d,Pizzeria Fellini,RESTAURANT,38.896389,40.514885,Çapakçur Cd. No:4,Bingöl,CDLA-Permissive-2.0,Overture|meta,italian_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant,0.923
+ac33171f-ec6b-4afa-8c72-3a204cd2ddb4,Saray Cadde Döner,RESTAURANT,38.896137,40.515118,Sağlık Cd. No:26 H,Bingöl,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.933
+190c80d0-24a8-4399-a84b-61fe29d01a26,Cuma Kutan Sogukcesme Kavurma,RESTAURANT,38.89698,40.507473,Bingöl - Elazığ Yolu No:19,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.911
+2106fd0a-4cd2-4c3a-b1a1-23ce2fa27ba6,Soğuk Çeşme Kavurma Ve Et Lokantası,RESTAURANT,38.897152,40.507717,,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.805
+40a6d40d-ff49-41c5-9ce2-03ba7c87d2fb,Bingol Pir Ali Bey Kız Yurdu,HOTEL,38.905464,40.548729,Kaleönü mah. Bingöl,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.924
+5d2e4df6-3459-487d-b302-010c1c5427ff,Yeşilbelen,SIGHT,39.09433,40.157452,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.768
+ea5440d2-8bc0-4ffe-aa1f-bdcfe042cf1f,Özlüce Barajı ve Hidroelektrik Santrali,SIGHT,39.130554,40.088608,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
+f4abf723-ae5e-4402-9877-0c205cad5c3f,SÜLbÜS DaĞI,SIGHT,39.227951,40.069077,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.881
+74ad1d64-e569-48cc-85a8-a07671f07722,Croydon pizza- Müslüm Ergün,RESTAURANT,39.22646,40.068352,Bingöl Yayladere,Yayladere,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.955
+b1a780e8-fac6-4312-9285-2e66086a2137,Çatalkaya,SIGHT,39.300804,40.088711,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.745
+f168d809-70fd-478c-8634-221fabe47e09,Gökçedal,SIGHT,39.236862,40.138325,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.813
+27fa1a87-4bf2-4b33-8406-710ae6c3b257,Yaylabağ,SIGHT,39.185272,40.11348,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.804
+a89c0d4e-878e-4d78-9ab5-74a4a95e68d0,Tiyaran,SIGHT,39.184166,40.141483,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.788
+e44697ba-5c02-4bbe-ac86-da67f047e543,Korlu,SIGHT,39.184166,40.141483,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.722
+0a7baec1-87fe-4358-86fd-0f8557c0f55b,"Güneşlik, Yayladere",SIGHT,39.197227,40.182701,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.771
+7e9bebe8-d0ac-41af-83d5-885978224881,"Güneşlik, Yayladere",SIGHT,39.210049,40.174412,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.771
+456431c9-147e-4739-841a-4dc0903635ee,Sabırtaşı,SIGHT,39.287464,40.188869,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.778
+f2ca1ba5-4a1c-42af-b2f7-33b55e280825,Ağaçöven,SIGHT,39.262012,40.273277,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.776
+b0cb9e3e-81ec-4431-a938-e47732dd0276,Dallıca,SIGHT,39.253147,40.294636,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.823
+f2dbda4c-4108-4429-9b3a-b8d73059a1fe,Gayt Dam,SIGHT,39.024754,40.339924,,Adaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.781
+6d6a2d13-1302-4099-a888-fb03f49b7c01,"Sırmaçek, Kiğı",SIGHT,39.150848,40.326519,,Adaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.772
+2bbade48-cff9-4920-a863-7c1f367b65f7,"Adaklı, Bingöl",SIGHT,39.230827,40.478054,,Adaklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.822
+29cd2350-6eb6-4706-8e56-ca80385b991d,Adaklı Atıştır Cafe & Restaurant,CAFE,39.228558,40.482426,Bağlar Caddesi 4A,Adaklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.792
+ede88b1b-d642-416d-8f1f-f396e558bb11,Atatürk Parkı,SIGHT,39.228481,40.482216,,Adaklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
+e1b0b663-2382-4803-bf06-fe8cda9f7b35,Yedisu Dam,SIGHT,39.276413,40.37289,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.728
+a556867c-7b71-4be2-aaf5-788f16e4a566,Selenk Köprüsü,SIGHT,39.287952,40.359352,,Kiğı,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.765
+0d79a229-246b-411c-bcba-481642aacd75,Hanımeli pizza cafe,RESTAURANT,39.311512,40.349106,"Yenişehir mahallesi cumhuriyet caddesi numara, D:108",Kiğı,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.878
+49ff108d-677c-4706-b8a8-89f571994a2a,Eylül İskender Cafe Restaurant,RESTAURANT,39.310116,40.348911,Kığı Yolu,Kiğı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.919
+c1a7d012-06dd-48ad-bc81-f4d91d87cb8c,Yedisu Lokantası,RESTAURANT,39.31044,40.349083,Kığı Yolu,Kiğı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.899
+40372da6-a89f-4045-98f0-b25fdedc8a52,Keyf-i Cafe,CAFE,39.307983,40.348961,,Kiğı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.944
+50f90c30-7799-47d6-b6a8-3f51a14009a5,"Güneyağıl, Kiğı",SIGHT,39.289986,40.335182,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.801
+a5548f97-2b3e-41ec-93a0-1a9243df3828,"Kadıköy, Kiğı",HOTEL,39.291176,40.323746,,Kiğı,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.813
+e2e2e541-d1ed-41d1-91fd-29f176db78f4,Değirmen Cafe,CAFE,39.320503,40.345951,Alişan Engin Sokak 31,Kiğı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.997
+c409303a-bb74-4dab-81d0-3d6a5434ab43,Kiğı Cevizli Konak,RESTAURANT,39.319645,40.34798,"Eskişehir mahallesi şükrü altan sokak no:40, KEREK YOLU ÜZERİ",Kiğı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.980
+ae17fcab-7dc6-4f5c-a947-1c73e8f1e1f9,Eskiçarsı Kiğı,CAFE,39.318405,40.348839,,Kiğı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.798
+692816cb-a858-471d-bd7c-e3d93a811517,Kiğı Barajı ve Hidroelektrik Santrali,SIGHT,39.368332,40.351944,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.805
+1a107195-7672-492f-9d75-c929ca32ba9c,Tekbaş,SIGHT,39.360962,40.334213,,Kiğı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.772
+ee5d4dea-f36a-4270-b5fe-8ce419784af9,"Kırklar, Pülümür",SIGHT,39.469791,40.043373,,Yayladere,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.793
+3a7d5fd1-3779-4fd4-a194-80f7dc320bdc,Mollaşakir,SIGHT,39.40173,41.077896,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.783
+fc8553f0-6a2a-439d-8f9f-72a466d0a144,Tuzluca (Karlıova),SIGHT,39.368027,41.053417,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.795
+8a0d54ab-e09b-454a-9229-e075bd58416e,Güneşin Doğuşu dinlenme tesisleri,RESTAURANT,39.357063,41.027287,Kantarkaya Köyü Yolu,Karlıova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.953
+6e1f92c5-4c56-40b5-886f-19d26a9226b2,Cillo dayı Dinlenme Tesisi Kavurma yeri,RESTAURANT,39.378345,40.976307,Karlıova - Erzurum Yolunda,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
+e0f9ba12-d884-4740-a3e7-e2c036bb0823,"Sarıkuşak, Karlıova",SIGHT,39.40554,40.8344,,Yedisu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.780
+205f63b0-d426-499d-9db2-16b3ee32a72c,Yukarıyağmurlu,SIGHT,39.201519,40.771496,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.801
+f6cf1236-ddd1-40a8-a9f2-5b925c46ea8c,"Karlıca, Karlıova",SIGHT,39.227093,40.75629,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.770
+f0de421f-8b43-4b60-98da-2f087fc56702,Bingöl Binkap Termal Otel,HOTEL,38.988609,40.672695,,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
+6164241e-293a-4fb2-8bc1-5027e9998327,Binkap Termal Otel Ve Rehabilitasyon Merkezi,HOTEL,38.991756,40.683666,Erzurum Caddesi 18B,Bingöl,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
+0c73c260-a39e-4902-8d0f-af94ba4c303d,Osman Usta'nın Yeri,RESTAURANT,39.01981,40.724934,BİNGÖL/MERKEZ/ELMALI KÖYÜ,Bingöl,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.871
+20176d87-812f-40f1-a5d8-2f1f3258ecd5,Bingöl Tava ve Kahvaltı Bahçesi,RESTAURANT,39.021843,40.729816,"Elmalı, Aşağı, Bingöl Merkez",Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.915
+c2883b88-e8aa-4163-9169-b899c93f56bc,Soguk Cesme Kavurma,RESTAURANT,39.058262,40.789513,,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.948
+a2a58ecc-f333-44c3-ad48-8f2efa7e7ece,Derinçay,SIGHT,39.138447,40.864082,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.736
+e7df0dba-a8b3-4203-a9f2-b7c0e6df0de5,Devecik,SIGHT,39.162476,40.858276,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.775
+5a927158-1ffd-471e-bbd8-80876206e8bd,"Kıraçtepe, Karlıova",SIGHT,39.205067,40.95673,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.775
+1642fe77-b231-4b6a-9852-ff1e49b4ffe6,Boncukgöze,SIGHT,39.23288,40.980141,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.814
+c9609628-2589-4701-9534-0a7958d1b1ae,Karlıova Öğretmenevi,HOTEL,39.296864,41.011276,Fatih Cd.,Karlıova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
+f4d225f4-2c90-400f-a297-1b31a96bdb33,Karliova Dörtyol Pide Ve Kebap Salonu,RESTAURANT,39.298294,41.014198,hükümet konağı Karşısı,Karlıova,CDLA-Permissive-2.0,Overture|meta,american_restaurant,food_and_drink>restaurant>north_american_restaurant>american_restaurant,0.865
+0d3712f8-a9c2-4a0a-b7c9-1cbaf6b1d483,OvaPark AVM,SHOPPING,39.300476,41.019367,,Karlıova,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.734
+3ab1a1ec-84c0-44c6-aa17-634278afc3cc,Bingol Karlıova Kanires Alabalık Tesisleri,HOTEL,39.303623,41.024582,Kanireş Alabalık Tesisleri,Karlıova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.940
+bb7edb90-39b5-4857-b205-f068da4cda54,Bingol Karlıova Kanires Alabalık Tesisleri,HOTEL,39.299553,41.027634,Kanireş Alabalık Tesisleri,Karlıova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.932
+f39d3cc1-6c96-4f24-852e-a3cefa436987,"Serpmekaya, Karlıova",SIGHT,39.259804,41.046577,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.759
+88ae1bc9-af6c-4b5d-8e08-0230a00d0431,Sakaören,SIGHT,39.281208,41.075287,,Karlıova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.786
+6acd8c3b-41c5-4c48-8b07-4f0765f0cb74,Wesar,CAFE,38.960667,41.040134,"hashan apartman, Şehit Mehmet, turksever bulvarı D:130 /e",Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.907
+1d0ebfc1-294a-4d08-9294-f352e14c0d02,ElİT Cafe Restaurant,CAFE,38.960007,41.039017,SOLHAN DEVLET HASTANESİ KARŞISI,Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.860
+47c8ab49-6d68-44ce-a038-1ee67992598e,Palet Cafe,CAFE,38.95998,41.039124,"Devlet Hastanesi Karşısı, Mehmet Türksever Bulvarı",Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.783
+047616c0-d646-4898-b679-eba36b40eb86,Kahve Köpüğü,CAFE,38.962746,41.044071,311. Sk. No:9,Solhan,CDLA-Permissive-2.0,Overture|meta,,,0.753
+32d4a929-96ee-4d00-984b-a3237cfb6d09,Kentmar Cafe,CAFE,38.962566,41.044006,Kentmarket Üsttü,Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.779
+6bc948ce-0fd6-4d37-8af0-29bfb78c0bd1,Cafe mar,CAFE,38.962479,41.043785,"CAFE MAR, BİNGÖL SOLHAN ŞEHİT MEHMET TÜRKSEVER BULVARI KENTMAR AVM ÜSTÜ",Solhan,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.799
+d46c3338-51bf-464c-8713-2f359b625649,ALMER Restaurant&cafe,RESTAURANT,38.966064,41.051285,yeni mahalle sehit mehmet turksever bulvari SOLHAN,Solhan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.927
+0d9d754f-f85f-46e9-b0de-f45eea26a53e,Şeref Meydanı Konaklama Tesisleri,HOTEL,38.967251,41.054398,Bingöl-Solhan karayolu 34. km,Solhan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.844
+17744069-61ce-41c7-b1a2-61bfa319172b,Meşhur Bingöl Kadayif Ve Künefe Salonu,CAFE,38.967144,41.05492,Bingöl MUŞ yolu üzeri yolcu apt. altı /SOLHAN,Solhan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.837
+d2246542-d5d2-4e49-a694-a9af35bc93fd,Grand Konak Otel - Solhan Bingöl,HOTEL,38.968681,41.058617,Boğlan Mahallesi Muş yolu köprü başı Solhan,Solhan,CDLA-Permissive-2.0,Microsoft|Overture,resort,lodging>resort,0.850
+b68eb27a-f4ae-4a00-ba44-47c9f4616305,Upper Kaleköy Dam,SIGHT,38.811226,41.042896,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.811
+20f11bcc-6075-426d-b8df-6ed14b56c511,Yüzen Adalar,SIGHT,38.946465,40.946194,,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.712
+58358b6e-faf8-4aba-8c0e-ae92ddd93e6d,Yüzen Adalar Tabiat Anıtı,SIGHT,38.972794,40.945015,Solhan,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.714
+a237cf6e-9df9-417b-ae68-df290c360c4b,Şeref Meydanı Şehitliği,SIGHT,38.914944,40.854214,,Bingöl,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.751
+36cc9760-6f29-425d-9ad6-83cea34401da,Lower Kaleköy Dam,SIGHT,38.83075,40.709354,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.736
+4f8e0dc2-62a8-4d45-a483-066b6e075893,Or-et Tava Ilıcalar,RESTAURANT,38.987259,40.674019,,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.842
+aba9b4a4-891f-4111-aa46-f5d04b7853d6,Bingol Soguk Cesmede Kavurma Keyfi,RESTAURANT,38.980488,40.676109,Ilıcalar,Bingöl,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.919
+e64ef90e-793e-4132-a3dc-b10f1ac89ff4,Bingöl Saricicek Gölü,SIGHT,38.884415,40.59008,Sarıçiçek Koyu,Bingöl,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.817
+9ba2a7c0-d5b8-49ca-a628-ed070df5b373,"Aşağıelmalı, Kulp",SIGHT,38.528851,40.871418,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.801
+3c25db21-42fa-40ab-a6a2-80afc50b0857,"Ağıllı, Kulp",SIGHT,38.563889,40.869438,,Genç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.814
+d8837076-3920-4436-bef7-12c05c3f8ad9,Ozan Apart,HOTEL,38.500187,41.013378,Diyarbakır Caddesi Kulp Lisesi Yanı,Solhan,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.789
+17ccb122-4c10-4595-a21f-7235370eeeff,Kulp,SIGHT,38.501663,41.011665,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.754
+c7594712-979b-4405-a651-42f9fbf5ff71,"Yaylak, Kulp",SIGHT,38.58305,41.04916,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.752
+d82aa177-1aec-427e-8704-07f05d6f8c48,"Karabulak, Kulp",SIGHT,38.511665,41.062775,,Solhan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.794
