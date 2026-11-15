@@ -46,7 +46,6 @@ affbce8c-d933-4886-b677-5084ea9c5ac8,Köfteci Nihat Usta,RESTAURANT,40.333214,42
 b91add6e-aa4c-44c6-8dda-f1377f285e0a,Gozde cag kebap corba,RESTAURANT,40.334095,42.589767,Şht. Kemal Mutlu Cd.,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.962
 87e8919e-08ed-4253-b98a-ab85101c98ed,Lina Döner Pide ve Lahmacun,RESTAURANT,40.334038,42.589836,Gaziler meydanı iş bankası karşısı,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.756
 8d7ca6c6-dc54-4485-ab66-f7b2702354df,Otel Sarıçam,HOTEL,40.333279,42.591621,Halk Caddesi 38,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.862
-42a604ab-4c52-4dac-9c13-ce8296e236b8,Trabzon Çay Evi,CAFE,40.333435,42.592411,,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.829
 5dd78646-c96f-44cc-a056-a4ec31ded9ff,GAZELLE Lounge,CAFE,40.333328,42.592575,Şht. Kemal Mutlu Cd. No:182,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.968
 b085d76a-66f1-4860-ab85-8c5a4cde7126,Yakupoğlu Hotel,HOTEL,40.334759,42.591183,14. Sokak No:4,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.927
 f76ddc61-8389-49ce-a913-200ec9c90214,Cafe Rönesans,CAFE,40.327789,42.620342,,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.870
@@ -109,7 +108,6 @@ c7775a22-1680-4cda-9432-a11d630bef6a,Şeytan Pazarı,SHOPPING,40.607052,43.09784
 bc483405-d53f-4ec8-92e6-29350df90a11,Kars center hotel,HOTEL,40.607105,43.097301,Yeni Pazar Sokak 27,Kars,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.962
 eb8e3a10-8140-47ab-b821-455c467f6f06,"Katerina köşkü ,sarıkamış",SIGHT,40.607582,43.097301,Sarıkamış,Kars,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.884
 696cc6e0-4463-4d17-9398-ddbd7d71e080,Hotel Kent Ani,HOTEL,40.607574,43.097374,Bakırcılar Caddesi Hapan Mevkii No.60,Kars,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
-18b28b09-4d47-4be0-b77c-fa5d5766e4d4,Pazar İstanbul,SHOPPING,40.60717,43.096268,,Kars,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.898
 881dff3b-1d53-4e59-afbf-e40db2ef39b5,Künefeci Çerkez Usta,CAFE,40.606823,43.096817,Kazım Karabekir Cd. No:176,Kars,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.885
 e0032dcd-666a-43b1-84f7-f588d2c57fba,Antep 2 pide ve lahmacun salonu,RESTAURANT,40.606647,43.097004,Atatürk Caddesi 107,Kars,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.959
 eb4eedbc-77ae-48bb-9b8f-ecd2bda6c380,Qrista Managed by Dedeman,HOTEL,40.606468,43.095413,Ortakapı Mahallesi Atatürk Caddesi No:105 Merkez / Kars,Kars,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,hotel,lodging>hotel,0.800
