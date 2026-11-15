@@ -16,6 +16,8 @@ Q17621054,Kadıkalesi,SIGHT,37.791470,27.270300,,Kuşadası,CC0-1.0,8,Anaea,,ark
 Q462630,Tralleis,SIGHT,37.859993,27.835472,,Efeler,CC0-1.0,8,Tralleis,Üçgözler | Tralles,arkeolojik_sit,antik kent | polis | colonia (Roma)
 Q3983229,Athena Tapınağı (Priene),SIGHT,37.659303,27.296430,,,CC0-1.0,7,Temple of Athena (Priene),,arkeolojik_sit,arkeolojik sit | Antik Yunan tapınağı
 Q1799887,Lade Adası,SIGHT,37.529444,27.225000,,,CC0-1.0,7,Lade,,arkeolojik_sit,ada | arkeolojik sit
+Q11935066,Maratesium,SIGHT,37.829287,27.254483,,,CC0-1.0,7,Marathesium,,arkeolojik_sit,polis
+Q17266554,Pygela,SIGHT,37.862209,27.263729,,Kuşadası,CC0-1.0,7,Pygela,Pygale | Pigela | Pigale,arkeolojik_sit,polis
 Q4808759,Assesos,SIGHT,37.488611,27.337222,,Didim,CC0-1.0,6,Assesos,,arkeolojik_sit,antik kent
 Q20988313,Aydın Arkeoloji Müzesi,SIGHT,37.846667,27.862500,,Efeler,CC0-1.0,6,Aydın Archaeological Museum,,müze,müze | arkeoloji müzesi
 Q12874234,Acharaka,SIGHT,37.900000,28.100000,,,CC0-1.0,5,Acharaca,,arkeolojik_sit,antik kent
@@ -31,6 +33,7 @@ Q996150,Nysa Köprüsü,SIGHT,37.903405,28.145514,,,CC0-1.0,5,Nysa Bridge,,köpr
 Q2375573,Priene Sinagogu,SIGHT,37.658556,27.295667,,,CC0-1.0,5,Priene Synagogue,,manastır_sinagog,sinagog
 Q96232770,Afrodisias Müzesi,SIGHT,37.709444,28.727222,,,CC0-1.0,4,Aphrodisias Museum,Afrodisyas Müzesi,müze | arkeolojik_sit,arkeoloji müzesi | antik kent | müze
 Q65070125,Melia (İyonya),SIGHT,37.709368,27.218019,,,CC0-1.0,4,Melia,,arkeolojik_sit,arkeolojik sit | antik kent
+Q3857824,Milas,SIGHT,37.316667,27.783333,,,CC0-1.0,4,Mylasa,,arkeolojik_sit,polis
 Q78213626,Milet Nymphaionu,SIGHT,37.528611,27.280278,,,CC0-1.0,4,Miletus Nymphaeum,,arkeolojik_sit,arkeolojik sit | nymphaeum
 Q17462724,Naksia (Karya),SIGHT,37.552756,27.659145,,,CC0-1.0,4,Naxia (Caria),,arkeolojik_sit,antik kent | polis
 Q17623370,Naulokhos (İyonya),SIGHT,37.639080,27.246170,,Söke İlçesi,CC0-1.0,4,Naulochus (Ionia),,arkeolojik_sit,antik kent | polis
@@ -123,6 +126,7 @@ Q133236731,Kuşadası Kale Kalıntıları 1,SIGHT,37.860401,27.259966,,Kuşadas�
 Q131739080,Milet Capito Hamamı,SIGHT,37.529224,27.281136,,Didim,CC0-1.0,1,,,han_hamam_çarşı,hamam
 Q131739081,Milet Türk Hamamı,SIGHT,37.529575,27.280523,,Didim,CC0-1.0,1,,,han_hamam_çarşı,hamam
 Q141742808,North Agora of Aphrodisias,SIGHT,37.708557,28.723393,,Karacasu (ilçe),CC0-1.0,1,North Agora of Aphrodisias,,çarşı_pazar | arkeolojik_sit,arkeolojik sit | agora
+Q101554017,Parpariotai,SIGHT,37.350000,27.300000,,,CC0-1.0,1,Parpariotai,,arkeolojik_sit,polis
 Q135288259,Sanctuary of Asclepius,SIGHT,37.658495,27.298182,,,CC0-1.0,1,Sanctuary of Asclepius,,arkeolojik_sit,hieron | harabe
 Q135283715,Sanctuary of Athena,SIGHT,37.659229,27.296615,,,CC0-1.0,1,Sanctuary of Athena,,arkeolojik_sit,hieron | kültürel miras topluluğu | harabe
 Q78231712,Serapis Tapınağı (Milet),SIGHT,37.528056,27.277778,,Didim,CC0-1.0,1,Temple of Serapis in Miletus,,arkeolojik_sit,arkeolojik sit | serapeum | tapınak

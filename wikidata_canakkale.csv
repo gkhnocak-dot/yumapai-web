@@ -1,4 +1,5 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q658437,Gökçeada,SIGHT,40.162600,25.828900,,Gökçeada,CC0-1.0,55,Imbros,İmroz | Gökçeada (ada),arkeolojik_sit,ada | polis
 Q8077503,1915 Çanakkale Köprüsü,SIGHT,40.339889,26.636694,,Gelibolu,CC0-1.0,47,1915 Çanakkale Bridge,Çanakkale Boğazı Köprüsü,köprü,asma köprü | karayol köprüsü | geçiş ücretli köprü
 Q336446,Abidos,SIGHT,40.195278,26.405000,,Çanakkale (ilçe),CC0-1.0,34,Abydos,Abidos (Çanakkale) | Abidos | Abydus,arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | polis
 Q744631,Assos,SIGHT,39.490556,26.336667,,Ayvacık,CC0-1.0,31,Assos,"Behramkale | Behram, Ayvacık | Behram | Assos Antik Kenti",arkeolojik_sit,eski yerleşim yeri | arkeolojik sit | antik kent
@@ -33,6 +34,7 @@ Q4822608,Hamaxitos,SIGHT,39.536111,26.091944,,Ayvacık,CC0-1.0,7,Hamaxitus,Hamak
 Q18286282,Pesus,SIGHT,40.395248,26.790818,,,CC0-1.0,7,Paesus,,arkeolojik_sit,antik kent | polis | arkeolojik sit
 Q3555969,Adrasteia (Misya),SIGHT,40.391980,27.268273,,,CC0-1.0,6,Adrasteia,,arkeolojik_sit,tarihi bölge | arkeolojik sit
 Q4734309,Alopeconnesus,SIGHT,40.313889,26.249444,,Gelibolu,CC0-1.0,6,Alokopennesos,Alopekonnesos,arkeolojik_sit,antik kent | polis
+Q16327781,Astyra (Biga),SIGHT,40.043192,26.682841,,,CC0-1.0,6,Astyra,,arkeolojik_sit,polis
 Q108513185,Athena Tapınağı (Assos),SIGHT,39.490833,26.336944,,Ayvacık,CC0-1.0,6,Temple of Athena (Assos),,arkeolojik_sit,harabe | tapınak | arkeolojik sit
 Q568043,Gargara,SIGHT,39.587082,26.537504,,Ayvacık,CC0-1.0,6,Gargara,Eski Gargara,arkeolojik_sit,antik kent | arkeolojik sit | polis
 Q6427503,Kolonai,SIGHT,39.689722,26.163333,,Ezine,CC0-1.0,6,Kolonai,,arkeolojik_sit,antik kent | arkeolojik sit
@@ -65,7 +67,9 @@ Q5263157,Deris (Tracia),SIGHT,40.657809,26.808976,,Gelibolu,CC0-1.0,4,Derris,,ar
 Q17629060,Didymoteikhos (Antik Anadolu),SIGHT,40.286031,27.274404,,,CC0-1.0,4,Didymateiche,,arkeolojik_sit,polis | arkeolojik sit
 Q65119757,Drabos,SIGHT,40.358138,26.335897,,Eceabat ilçesi,CC0-1.0,4,Drabus,,arkeolojik_sit,antik kent | arkeolojik sit
 Q28136539,Gelibolu Savaş Müzesi,SIGHT,40.406667,26.668056,,Gelibolu,CC0-1.0,4,Gelibolu War Museum,,müze,müze
+Q21515193,Gentinos,SIGHT,39.876943,26.279146,,,CC0-1.0,4,Gentinos,,arkeolojik_sit,polis
 Q17155131,Gergis (Troya),SIGHT,39.898491,26.609255,,,CC0-1.0,4,Gergis,,mezar | anıt_heykel | arkeolojik_sit | külliye_medrese_türbe,polis | antik kent | anıt mezar
+Q17633577,Harpagion,SIGHT,40.334274,27.391984,,,CC0-1.0,4,Harpagion,Harpagia | Harpageia,arkeolojik_sit,polis
 Q5987818,Ide (Trakya),SIGHT,40.504079,26.689216,,Gelibolu,CC0-1.0,4,Ide,,arkeolojik_sit,antik kent | polis | arkeolojik sit
 Q4222810,Johnston's Jolly Mezarlığı,SIGHT,40.232690,26.287410,,Eceabat ilçesi,CC0-1.0,4,Johnston's Jolly Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
 Q17625751,Kolonai (Mysia),SIGHT,40.280800,26.910800,,,CC0-1.0,4,Colonae,,arkeolojik_sit,polis | antik kent
@@ -112,6 +116,7 @@ Q128034362,Antika Traktör Müzesi,SIGHT,40.407086,26.666838,,Gelibolu,CC0-1.0,2
 Q65043752,Argyria (Biga),SIGHT,39.750179,27.222332,,Yenice (Çanakkale),CC0-1.0,2,Argyria,,arkeolojik_sit,antik kent | arkeolojik sit
 Q6082227,Aynalı Çarşı,SIGHT,40.146194,26.403944,,,CC0-1.0,2,Aynalı Çarşı,Halyo Çarşısı,çarşı_pazar,mimari yapı | çarşı
 Q4222812,Baby 700 Mezarlığı,SIGHT,40.242778,26.294444,,Eceabat ilçesi,CC0-1.0,2,Baby 700 Cemetery,,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
+Q123764842,Bozcaada (antik kent),SIGHT,39.827778,26.049722,,,CC0-1.0,2,Tenedos,,arkeolojik_sit,polis
 Q4222834,Canterbury Mezarlığı (ANZAC),SIGHT,40.244400,26.283100,,Eceabat ilçesi,CC0-1.0,2,"Canterbury Cemetery, ANZAC",,anıt_heykel,İngiliz Milletler Topluluğu Savaş Mezarları Komisyonu tarafından bakımı yapılan mezarlık
 Q65051904,Cypasis,SIGHT,40.625134,26.841143,,Gelibolu,CC0-1.0,2,Cypasis,,arkeolojik_sit,antik kent | arkeolojik sit
 Q19611037,Dur Yolcu,SIGHT,40.156224,26.373101,,Eceabat ilçesi,CC0-1.0,2,Stop Passenger! Monument,Dur Yolcu yazısı | Dur Yolcu Anıtı,anıt_heykel,yazıt | küçük anıt | Jeoglif

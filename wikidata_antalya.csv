@@ -1,4 +1,5 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass
+Q152405,Side,SIGHT,36.766667,31.388611,,Manavgat (ilçe),CC0-1.0,51,Side,Side Antik Kenti | Selimiye,arkeolojik_sit,polis | mahalle
 Q464936,Ksantos,SIGHT,36.357132,29.319255,,Kaş ilçesi,CC0-1.0,43,Xanthos,Xanthos | Ksantos | Arnna,arkeolojik_sit,antik kent | arkeolojik sit | şehir-devlet
 Q652024,Myra,SIGHT,36.259167,29.985278,,,CC0-1.0,41,Myra,Mira | Demre,arkeolojik_sit,antik kent | arkeolojik sit
 Q719815,Perge,SIGHT,36.960353,30.853686,,,CC0-1.0,35,Perge,,arkeolojik_sit,arkeolojik sit | antik kent | polis
@@ -12,6 +13,7 @@ Q2666468,Düden Şelalesi,ACTIVITY,36.963800,30.726900,,,CC0-1.0,21,Düden Water
 Q81593,Alanya Kalesi,SIGHT,36.533333,31.993333,,,CC0-1.0,20,Alanya Castle,,kale_sur | arkeolojik_sit,kale | arkeolojik sit
 Q1283114,Hadrian Kapısı,SIGHT,36.885310,30.708350,,,CC0-1.0,20,Hadrian's Gate,Hadrianus Kapısı | Üçkapılar,anıt_heykel,zafer takı
 Q79753,Saklıkent Kanyonu,ACTIVITY,36.468784,29.403419,,Fethiye (ilçe),CC0-1.0,19,Saklıkent Canyon,Saklıkent | Saklıkent Millî Parkı | Saklıkent Milli Park,milli_park_tabiat,millî park | millî park (Türkiye)
+Q2666727,Doliche,SIGHT,36.183333,29.883333,,,CC0-1.0,18,Kekova,Doliche,,ada
 Q1062421,Karain Mağarası,SIGHT,37.077778,30.570833,,,CC0-1.0,18,Karain Cave,,doğa | arkeolojik_sit,mağara | arkeolojik sit | damlataş mağarası
 Q3671440,Noel Baba Kilisesi,SIGHT,36.244722,29.985556,,,CC0-1.0,18,"St. Nicholas Church, Demre",Aziz Nikolaos,müze | kilise,kilise | müze
 Q2470666,Kızılkule,SIGHT,36.536444,31.998308,,,CC0-1.0,17,Kızıl Kule,Kızıl Kule | Alanya Limanı,kale_sur | anıt_heykel | müze | kule,kale | müze | kule

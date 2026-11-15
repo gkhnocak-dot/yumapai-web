@@ -12,6 +12,7 @@ Q1318876,Pinara,SIGHT,36.489150,29.258350,,Fethiye,CC0-1.0,16,Pinara,Pilleñni,a
 Q1325973,Tlos,SIGHT,36.553890,29.420790,,Fethiye,CC0-1.0,16,Tlos,,arkeolojik_sit,antik kent | arkeolojik sit
 Q18823111,Myndos,SIGHT,37.054722,27.228056,,Bodrum,CC0-1.0,15,Myndus,,arkeolojik_sit,insan yerleşimi | arkeolojik sit | polis
 Q279048,İassos,SIGHT,37.277778,27.586389,,Milas,CC0-1.0,15,Iasos,Iasos,arkeolojik_sit,şehir | arkeolojik sit | polis
+Q772555,Datça Yarımadası,SIGHT,36.716667,27.540833,,Datça,CC0-1.0,13,Datça Peninsula,,,yarımada
 Q1361187,Stratonikeia,SIGHT,37.313056,28.064167,,,CC0-1.0,13,Stratonicea,Eskihisar,arkeolojik_sit,antik kent | arkeolojik sit
 Q186373,Oinoanda,SIGHT,36.809628,29.550004,,,CC0-1.0,12,Oenoanda,Oenoanda,arkeolojik_sit,arkeolojik sit | antik kent
 Q1313279,Herakleia,SIGHT,37.501944,27.524722,,Milas,CC0-1.0,11,Heraclea at Latmus,Latmos Herakleia'sı | Heracleia ad Latmum,arkeolojik_sit,arkeolojik sit | miras | insan yerleşimi
@@ -34,12 +35,14 @@ Q1532991,Lagina,SIGHT,37.378611,28.039444,,,CC0-1.0,7,Lagina,Leyne | Lagina Heka
 Q15728104,Nimara Mağarası,ACTIVITY,36.813000,28.297000,,,CC0-1.0,7,Nimara Cave,,doğa,mağara
 Q2282045,Sidyma,SIGHT,36.408333,29.193333,,,CC0-1.0,7,Sidyma,Sidyma Antik Kenti,arkeolojik_sit,arkeolojik sit | şehir
 Q7818606,Amintas Kaya Mezarı,SIGHT,36.618300,29.117800,,Fethiye,CC0-1.0,6,Tomb of Amyntas,Amyntas,arkeolojik_sit,arkeolojik sit
+Q28380886,Bozburun Yarımadası,SIGHT,36.594722,28.013611,,,CC0-1.0,6,Bozburun Peninsula,,,yarımada
 Q5024669,Calynda,SIGHT,36.750652,28.835859,,Dalaman,CC0-1.0,6,Calynda,Kalynda | Calinda | Calydna | Karynda,arkeolojik_sit,antik kent | polis
 Q30621460,Gülük Körfezi,SIGHT,37.183889,27.496944,,,CC0-1.0,6,Güllük Gulf,,,körfez
 Q21526234,Hekatomnos Anıt Mezarı,SIGHT,37.315000,27.782750,,Milas,CC0-1.0,6,Mausoleum of Hecatomnus,Uzunyuva,anıt_heykel | külliye_medrese_türbe,anıt mezar
 Q1720231,Loryma,SIGHT,36.566111,28.015278,,Marmaris (ilçe),CC0-1.0,6,Loryma,,arkeolojik_sit,arkeolojik sit | antik kent
 Q6053676,Muğla Müzesi,SIGHT,37.217222,28.368056,,Menteşe,CC0-1.0,6,Muğla Museum,Muğla Eski Cezaevi,müze,müze | tarihî bina
 Q7624208,Strobilos,SIGHT,36.980600,27.316700,,,CC0-1.0,6,Strobilos,Aspat | Sıravolos,kale_sur,kale
+Q17462697,Aulae,SIGHT,36.760796,28.134462,,,CC0-1.0,5,Aulai,Aulai,arkeolojik_sit,polis
 Q28196026,Beçin Kalesi,SIGHT,37.275000,27.789167,,Milas,CC0-1.0,5,Beçin,,kale_sur | arkeolojik_sit,tahkimat | arkeolojik sit
 Q17993738,Cindye,SIGHT,37.191684,27.650052,,Milas (ilçe),CC0-1.0,5,Cindye,,arkeolojik_sit,antik kent | polis | arkeolojik sit
 Q1640541,Hyllarima,SIGHT,37.505000,28.349444,,,CC0-1.0,5,Hyllarima,Ullarima | Wallarima,arkeolojik_sit,arkeolojik sit | antik kent
@@ -54,6 +57,7 @@ Q56401673,Amynanda,SIGHT,37.002222,27.646111,,,CC0-1.0,4,Amynanda,,arkeolojik_si
 Q115768249,Apollo Karneios Tapınağı (Knidos),SIGHT,36.688611,27.373056,,Datça,CC0-1.0,4,Temple of Apollo Karneios (Knidos),,arkeolojik_sit,Antik Yunan tapınağı | arkeolojik sit
 Q626773,Araxa,SIGHT,36.746028,29.368972,,Seydikemer,CC0-1.0,4,Araxa,Araksa | Araththi,arkeolojik_sit,antik kent
 Q17623236,Bargasa,SIGHT,37.021985,27.773986,,Milas (ilçe),CC0-1.0,4,Bargasa,,arkeolojik_sit,polis | arkeolojik sit
+Q17633726,Hydissus,SIGHT,37.138837,27.811477,,Milas,CC0-1.0,4,Hydissus,Hydissos,arkeolojik_sit,polis
 Q996029,Kemerarası Köprüsü,SIGHT,36.825278,29.561944,,Seydikemer,CC0-1.0,4,Bridge at Oinoanda,Urluca Köprüsü | Kemerarası Köprüsü,köprü | arkeolojik_sit,güverte kemer köprüsü | taş köprü | miras
 Q17266413,Khalketor,SIGHT,37.349058,27.685712,,Milas (ilçe),CC0-1.0,4,Chalcetor,,arkeolojik_sit,polis | arkeolojik sit
 Q17628183,Krya (Karya),SIGHT,36.676530,28.857070,,Dalaman,CC0-1.0,4,Crya,,arkeolojik_sit,polis | arkeolojik sit
@@ -65,6 +69,7 @@ Q17623878,Olimos,SIGHT,37.378561,27.735578,,Milas,CC0-1.0,4,Olymos,Hylimeus,arke
 Q17462683,Passanda,SIGHT,36.781067,28.692880,,Ortaca (ilçe),CC0-1.0,4,Passanda,Pasanda | Pasada,arkeolojik_sit,polis | arkeolojik sit
 Q17625175,Pirno (Karya),SIGHT,36.885007,28.445529,,Marmaris (ilçe),CC0-1.0,4,Pyrnus (Caria),,arkeolojik_sit,polis | arkeolojik sit
 Q11950409,Syangela,SIGHT,37.019444,27.541111,,Bodrum,CC0-1.0,4,Syangela,,arkeolojik_sit,şehir | polis | arkeolojik sit
+Q1642438,Telmissus,SIGHT,37.048800,27.319000,,,CC0-1.0,4,Telmessos,Telmissus,arkeolojik_sit,polis
 Q12808348,Akdağlar,SIGHT,36.545420,29.571900,,,CC0-1.0,3,Akdağlar,,,sıradağ
 Q65066287,Amnista,SIGHT,36.945624,28.185205,,Marmaris (ilçe),CC0-1.0,3,Amnista,,arkeolojik_sit,antik kent | arkeolojik sit
 Q6040746,Arsada,SIGHT,36.491473,29.428815,,Seydikemer,CC0-1.0,3,Arsada,,arkeolojik_sit,antik kent
@@ -75,6 +80,7 @@ Q65068735,Kildara,SIGHT,37.181505,27.693076,,Milas (ilçe),CC0-1.0,3,Kildara,,ar
 Q115768694,Knidos Antik Tiyatrosu,SIGHT,36.685833,27.375278,,Datça,CC0-1.0,3,Ancient Greek theatre (Knidos),,arkeolojik_sit,Yunan tiyatrosu
 Q85775229,Kys (Karya),SIGHT,37.428882,28.423734,,,CC0-1.0,3,Kys,,arkeolojik_sit,antik kent
 Q6049621,Muğla Kurşunlu Camii,SIGHT,37.216667,28.364722,,,CC0-1.0,3,Kurşunlu Mosque,Kurşunlu Camii,cami,cami
+Q65068754,Olaeis,SIGHT,37.083333,28.333333,,Ula,CC0-1.0,3,Olaeis,,arkeolojik_sit,polis
 Q17625070,Pidasa,SIGHT,37.401041,27.572110,,Milas,CC0-1.0,3,Pidasa,Pedasa,arkeolojik_sit,polis | arkeolojik sit
 Q17625219,Pladasa,SIGHT,37.087317,28.079785,,,CC0-1.0,3,Pladasa,,arkeolojik_sit,antik kent
 Q20995005,Side (Karya),SIGHT,37.233236,27.849836,,Milas,CC0-1.0,3,Side,Sibde,arkeolojik_sit,antik kent
@@ -118,6 +124,7 @@ Q65068461,Pisye,SIGHT,37.186550,28.287227,,Menteşe,CC0-1.0,2,Pisye,,arkeolojik_
 Q7424070,Sarıgerme,ACTIVITY,36.700000,28.683333,,,CC0-1.0,2,Sarigerme,,doğa,plaj
 Q19612437,Sekibaşı Camii,SIGHT,37.219111,28.359444,,,CC0-1.0,2,Sekibaşı Mosque,,cami,cami
 Q2325984,Stadia (Karya),SIGHT,36.742208,27.648272,,Datça,CC0-1.0,2,Stadia,,arkeolojik_sit,arkeolojik sit | antik kent
+Q17631135,Telandra,SIGHT,36.674495,28.915850,,,CC0-1.0,2,Telandrus,,arkeolojik_sit,polis
 Q65068372,Tymnos,SIGHT,36.690466,28.062243,,,CC0-1.0,2,Tymnos,,arkeolojik_sit,antik kent
 Q97496781,Yediler Manastırı,SIGHT,37.497936,27.557099,,Milas,CC0-1.0,2,Kellibaron Monastery,Kellibara,manastır_sinagog,manastır
 Q19737976,Zeki Müren Sanat Müzesi,SIGHT,37.030258,27.439829,,,CC0-1.0,2,Zeki Müren Museum,Bodrum Zeki Müren Sanat Müzesi | Zeki Müren Müzesi,müze | ev_konak,müze ev | müze
@@ -435,6 +442,7 @@ Q131739032,Vakıflar Hamamı,SIGHT,37.217911,28.366032,,Menteşe,CC0-1.0,0,Vakı
 Q132396099,Xystis,SIGHT,37.494400,28.548900,,,CC0-1.0,0,Xystis,,arkeolojik_sit,antik kent
 Q131390927,Yakup Baba Türbesi,SIGHT,36.855981,28.283861,,,CC0-1.0,0,Tomb of Yakup Baba,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
 Q132752981,"Yanık Han, Milas",SIGHT,37.316326,27.780905,,Milas,CC0-1.0,0,Yanık Han (Milas),Tarihi Sefa Oteli,han_hamam_çarşı,kervansaray
+Q131361859,Yassıca Ada,SIGHT,36.704500,28.934528,,Fethiye,CC0-1.0,0,Yassıca Island,Büyük Yassıca,,ada
 Q131902115,Yazıköy Kalesi,SIGHT,36.688362,27.448200,,Datça,CC0-1.0,0,Yazıköy Castle,,kale_sur,kale
 Q131738936,Yelli Hamamı,SIGHT,37.269527,27.791418,,Milas,CC0-1.0,0,Yelli Baths,Kepez Hamamı,han_hamam_çarşı,hamam
 Q133245806,"Yeni Hamam, Beçin",SIGHT,37.274563,27.787558,,Milas,CC0-1.0,0,Yeni Hamam (Beçin),,han_hamam_çarşı,hamam
@@ -463,3 +471,4 @@ Q132681813,İyilik Kayalığı,SIGHT,36.854782,28.269003,,,CC0-1.0,0,,,müze,mü
 Q131391645,Şemsi Ana Türbesi,SIGHT,37.218521,28.369692,,Menteşe,CC0-1.0,0,Şemsi Ana Tomb,,külliye_medrese_türbe | mezar | anıt_heykel,türbe
 Q134735184,"Şeyh Bedreddin Türbesi, Şenköy",SIGHT,37.439465,27.606743,,Milas,CC0-1.0,0,Şeyh Bedreddin Türbesi (Şenköy),,külliye_medrese_türbe | mezar | anıt_heykel,türbe
 Q134735175,"Şeyh Dede Türbesi, Milas",SIGHT,37.315216,27.817270,,Milas,CC0-1.0,0,Şeyh Dede Türbesi (Milas),,külliye_medrese_türbe | mezar | anıt_heykel,türbe
+Q131361388,Şeytan Adası,SIGHT,36.695833,28.932500,,Fethiye,CC0-1.0,0,Şeytan Island,Şeytanlı Ada,,ada

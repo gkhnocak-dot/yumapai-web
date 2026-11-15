@@ -14,9 +14,11 @@ Q3696052,İzmir Saat Kulesi,SIGHT,38.418861,27.128667,,,CC0-1.0,20,İzmir Clock 
 Q1933754,Klaros,SIGHT,38.005000,27.193056,,,CC0-1.0,19,Claros,Claros,arkeolojik_sit,insan yerleşimi | arkeolojik sit | kahin
 Q302905,Lebedos,SIGHT,38.073611,26.967222,,Seferihisar,CC0-1.0,19,Lebedus,,arkeolojik_sit,insan yerleşimi | arkeolojik sit | polis
 Q1673689,İsa Bey Camii,SIGHT,37.952222,27.365833,,,CC0-1.0,19,İsa Bey Mosque,İsa Bey Camisi | Selçuk Ulu Camii | Ayasuluk İsabey Camii,arkeolojik_sit | cami,cami | arkeolojik sit
+Q3084314,Uzunada,SIGHT,38.501667,26.713889,,,CC0-1.0,17,Uzunada,Uzun Ada | Kösten Adası,,ada
 Q48816032,Atatürk Maskı,SIGHT,38.406056,27.145806,,Buca,CC0-1.0,15,Atatürk Mask,Atatürk Rölyefi,anıt_heykel,anıtsal heykel | outdoor sculpture | büst
 Q194810,Atarneus,SIGHT,39.091358,26.921310,,,CC0-1.0,14,Atarneus,Atarna,arkeolojik_sit,antik kent | arkeolojik sit | polis
 Q1346784,Efes Müzesi,SIGHT,37.948994,27.367854,,,CC0-1.0,14,Ephesus Archaeological Museum,,müze,arkeoloji müzesi | müze
+Q3119127,Karaburun Yarımadası,SIGHT,38.570180,26.475680,,,CC0-1.0,14,Karaburun Peninsula,,,yarımada
 Q2450228,Meryem Kilisesi,SIGHT,37.944939,27.339203,,,CC0-1.0,14,Church of Mary,,kilise | arkeolojik_sit,kilise | arkeolojik sit
 Q6418951,Aziz Yuhanna Katedrali,SIGHT,38.428667,27.139667,,,CC0-1.0,13,St. John's Cathedral,Aziz Yuhanna Katedral Bazilikası | Aziz Yuhanna Katolik Katedral Bazilikası,kilise,katedral
 Q4810717,Kadifekale,SIGHT,38.413889,27.145833,,,CC0-1.0,13,Kadifekale,Pagos,kale_sur,tepebaşı kalesi
@@ -53,6 +55,7 @@ Q8077492,Çamlık Buharlı Lokomotif Müzesi,SIGHT,37.885200,27.380600,,,CC0-1.0
 Q6086895,İzmir Atatürk Anıtı,SIGHT,38.428861,27.134389,,,CC0-1.0,7,Atatürk Monument,,anıt_heykel,anıt
 Q21526565,İzmir Kadın Müzesi,SIGHT,38.421083,27.142306,,,CC0-1.0,7,İzmir Women's Museum,,müze,kadın müzesi
 Q64827485,Achaion Limen,SIGHT,38.858153,27.039491,,Aliağa,CC0-1.0,6,Achaion Limen,,arkeolojik_sit,antik kent | arkeolojik sit
+Q17633635,Airai (İyonya),SIGHT,38.204500,26.685900,,,CC0-1.0,6,Airai,,arkeolojik_sit,polis
 Q6052546,Bergama Müzesi (İzmir),SIGHT,39.116667,27.175833,,Bergama,CC0-1.0,6,Bergama Museum,,müze,arkeoloji müzesi | müze
 Q969347,Gryneion,SIGHT,38.874444,27.069167,,,CC0-1.0,6,Gryneion,,arkeolojik_sit,arkeolojik sit | antik kent | polis
 Q6395213,Kestanepazarı Camii,SIGHT,38.420000,27.135000,,,CC0-1.0,6,Kestanepazarı Mosque,,cami,cami
@@ -67,8 +70,10 @@ Q105232353,Athena Tapınağı (Bergama),SIGHT,39.131667,27.183889,,Bergama,CC0-1
 Q6101813,Ayasuluk,SIGHT,37.955500,27.368111,,,CC0-1.0,5,Ayasuluk Hill,,anıt_heykel | arkeolojik_sit,höyük | arkeolojik sit
 Q17021192,Aziz Yuhanna Kilisesi,SIGHT,38.437056,27.147278,,,CC0-1.0,5,St. John the Evangelist's Anglican Church,,kilise,Anglikan kilisesi
 Q996170,Bodrum Köprüsü,SIGHT,39.121575,27.182674,,Bergama,CC0-1.0,5,Pergamon Bridge,Bodrum köprüsü | Musluk Köprüsü | Bodrum Üstü Köprüsü | Bergama Köprüsü,köprü | arkeolojik_sit,güverte kemer köprüsü | taş köprü | köprü (Antik Roma)
+Q17623230,Buthia,SIGHT,38.327245,26.307181,,,CC0-1.0,5,Boutheia,,arkeolojik_sit,polis
 Q56440191,Dionysos Tapınağı (Teos),SIGHT,38.177222,26.785000,,Seferihisar,CC0-1.0,5,Temple of Dionysos,,arkeolojik_sit,Antik Yunan tapınağı
 Q15723477,Efes Tiyatrosu,SIGHT,37.941010,27.342730,,,CC0-1.0,5,Theater (Ephesus),Büyük Tiyatro,arkeolojik_sit,Yunan tiyatrosu | arkeolojik sit
+Q6367485,Eşek Adası,SIGHT,38.436389,26.344167,,Karaburun,CC0-1.0,5,Eşek Island,Karaada | Kara Ada,,ada
 Q5957170,Hypaipa,SIGHT,38.276538,27.959999,,Ödemiş,CC0-1.0,5,Hypaepa,,arkeolojik_sit,antik kent | arkeolojik sit
 Q1743491,Leukai,SIGHT,38.559370,26.854880,,Menemen (ilçe),CC0-1.0,5,Leucae,,arkeolojik_sit,arkeolojik sit | polis
 Q4261739,Limantepe,SIGHT,38.363333,26.775833,,,CC0-1.0,5,Limantepe,Larisa,arkeolojik_sit,arkeolojik sit
@@ -90,10 +95,12 @@ Q14540869,Efes Varius Hamamı,SIGHT,37.938800,27.342130,,,CC0-1.0,4,Scholastikia
 Q108923214,Eski Smyrna,SIGHT,38.464444,27.170000,,Bayraklı,CC0-1.0,4,Old Smyrna,Bayraklı Höyüğü | Tepekule Höyüğü | Smyrna,arkeolojik_sit,arkeolojik sit
 Q20472767,Foça Kalesi,SIGHT,38.669218,26.750818,,Foça,CC0-1.0,4,Foça Castle,Beş Kapılar Kalesi,kale_sur,kale
 Q5519742,Gambrion,SIGHT,39.087569,27.351043,,,CC0-1.0,4,Gambrion,,arkeolojik_sit,insan yerleşimi | polis | arkeolojik sit
+Q28222013,Hekim Adası,SIGHT,38.445000,26.765833,,,CC0-1.0,4,Hekim Island,,,ada
 Q11925439,Herakleia (Lidya),SIGHT,38.614900,27.169300,,,CC0-1.0,4,Heraclea (Lydia),,arkeolojik_sit,antik kent | polis
 Q48791846,Karagöl Tabiat Parkı,ACTIVITY,38.556853,27.219067,,Menemen (ilçe),CC0-1.0,4,Karagöl Nature Park,İzmir Karagöl Tabiat Parkı,milli_park_tabiat,tabiat parkı (Türkiye)
 Q20657105,Karene (Misya),SIGHT,39.178980,26.842283,,,CC0-1.0,4,Carene,,arkeolojik_sit,antik kent | polis
 Q65070083,Kasystes,SIGHT,38.148389,26.556854,,,CC0-1.0,4,Casystes,,arkeolojik_sit,antik kent | arkeolojik sit
+Q17628457,"Korikos, İyonya",SIGHT,38.146389,26.585833,,,CC0-1.0,4,Corycus (Ionia),,arkeolojik_sit,polis
 Q17625221,Kyllene (Eolis),SIGHT,38.745271,26.831980,,,CC0-1.0,4,Kyllene,,arkeolojik_sit,antik kent
 Q60792268,Lysimachea (Misya),SIGHT,38.997165,26.833681,,,CC0-1.0,4,Lysimachia,Lysimachia | Lysimacheia,arkeolojik_sit,antik kent | arkeolojik sit
 Q17622145,Melampagos,SIGHT,38.565700,27.160600,,Menemen (ilçe),CC0-1.0,4,Melampagos,,arkeolojik_sit,polis | arkeolojik sit
@@ -304,6 +311,7 @@ Q131738966,Tarihi Karataş Hamamı,SIGHT,38.409698,27.121099,,,CC0-1.0,1,Karata�
 Q85805567,Tempsis,SIGHT,38.347120,27.814080,,Ödemiş,CC0-1.0,1,Tempsis,,arkeolojik_sit,antik kent | arkeolojik sit
 Q135581839,Teos Antik Tiyatrosu,SIGHT,38.179928,26.787541,,Seferihisar,CC0-1.0,1,Teos Theater,,arkeolojik_sit | anıt_heykel,Yunan tiyatrosu | antik anıt
 Q131738918,Terziler Hamamı,SIGHT,38.084480,27.735832,,,CC0-1.0,1,Terziler Baths,,han_hamam_çarşı,hamam
+Q11951693,Teuthrania,SIGHT,39.035223,27.054771,,,CC0-1.0,1,Teuthrania,,arkeolojik_sit,polis
 Q131738842,Tevfik Paşa Hamamı,SIGHT,38.420502,27.137974,,,CC0-1.0,1,Tevfik Paşa Baths,,han_hamam_çarşı,hamam
 Q104641912,Xystoi/ Verulanus Stoaları,SIGHT,37.944090,27.339919,,,CC0-1.0,1,Halls of Verulanus (Ephesus),,arkeolojik_sit,arkeolojik sit | stoa
 Q131738479,Yalınayak Hamamı,SIGHT,38.083225,27.731878,,,CC0-1.0,1,Yalınayak Baths,,han_hamam_çarşı,hamam
