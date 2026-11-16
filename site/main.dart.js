@@ -50167,7 +50167,7 @@ else{s=""+a
 r=""+b
 s=$.m().x!=="en"?"Mek\xe2n aramas\u0131: "+s+" / "+r:"Place searches: "+s+" / "+r}return s},
 doy(a,b){var s,r
-if(b<=0)s=""
+if(b<=0||b>=1000)s=""
 else{s=""+a
 r=""+b
 s=$.m().x!=="en"?"Rota: "+s+" / "+r:"Routes: "+s+" / "+r}return s},
