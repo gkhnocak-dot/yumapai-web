@@ -46,10 +46,14 @@ Header always set Content-Security-Policy "default-src 'self'; script-src 'self'
 <FilesMatch "\.(html|css|js|json)$">
 Header set Cache-Control "no-cache"
 </FilesMatch>
-# Flutter motoru ve yazı tipleri sürümler arasında nadiren değişir: telefonda 7 gün saklanır (yalnız bu klasörler).
-<If "%{REQUEST_URI} =~ m#^/(canvaskit|ff-fonts|assets/fonts|assets/packages)/#">
+# Flutter motoru ve emoji fontları sürümler arasında nadiren değişir: telefonda 7 gün saklanır.
+<If "%{REQUEST_URI} =~ m#^/(canvaskit|ff-fonts)/#">
 Header set Cache-Control "public, max-age=604800"
 </If>
+# Uygulamanın simge ve yazı tipleri sürümle değişebilir: her açılışta sunucuya sorulur (değişmediyse indirilmez).
+<ElseIf "%{REQUEST_URI} =~ m#^/assets/(fonts|packages)/#">
+Header set Cache-Control "no-cache"
+</ElseIf>
 # Görseller ve ikonlar: 1 gün
 <FilesMatch "\.(png|jpg|jpeg|webp|svg|ico)$">
 Header set Cache-Control "public, max-age=86400"

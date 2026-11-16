@@ -70,9 +70,36 @@ _flutter.buildConfig = {"engineRevision":"371f77202a73e8dff57a8b3bff75bca55c090a
 // Web shell (15.11.2026): CanvasKit is served from this origin (--no-web-resources-cdn) and the engine's fallback fonts
 // come from the first-party mirror ff-fonts/ next to index.html (no fonts.gstatic.com). No service worker.
 var yuFontBase = new URL('ff-fonts/', document.baseURI).href;
+
+// Yazı tipi tazeleme (16.11.2026): assets/fonts/* sabit adreste ve sunucuda 7 gün önbellekli. Sürüm 8'e kadar simge fontu
+// 32 KB'lık budanmış alt kümeydi (217 simge); 8.1'den beri tam font (8667) aynı adreste. Önceki sürümü açmış telefon eski
+// fontu 7 gün kullanıp yeni simgeleri (Geçmiş, Yer değiştir, takvim, araç) boş daire çizdi. Motor fontları istemeden önce
+// her açılışta koşullu (ETag/Last-Modified → 304, gövde inmez) doğrulanır; değişmişse önbellek yenilenir. Ağ hatası açılışı engellemez.
+function yuRefreshFonts() {
+  var abort = typeof AbortController === 'function' ? new AbortController() : null;
+  var timer = abort ? setTimeout(function () { abort.abort(); }, 4000) : null;
+  var opts = { cache: 'no-cache', credentials: 'same-origin' };
+  if (abort) opts.signal = abort.signal;
+  return fetch(new URL('assets/FontManifest.json', document.baseURI).href, opts)
+    .then(function (r) { return r.json(); })
+    .then(function (list) {
+      var jobs = [];
+      (list || []).forEach(function (fam) {
+        (fam.fonts || []).forEach(function (f) {
+          if (f.asset) jobs.push(fetch(new URL('assets/' + f.asset, document.baseURI).href, opts).then(function (r) { return r.arrayBuffer(); }));
+        });
+      });
+      return Promise.all(jobs);
+    })
+    .catch(function () {})
+    .then(function () { if (timer) clearTimeout(timer); });
+}
+var yuFontsFresh = yuRefreshFonts();
+
 _flutter.loader.load({
   config: { fontFallbackBaseUrl: yuFontBase },
   onEntrypointLoaded: async function (engineInitializer) {
+    await yuFontsFresh;
     const appRunner = await engineInitializer.initializeEngine({ useColorEmoji: true, fontFallbackBaseUrl: yuFontBase });
     await appRunner.runApp();
   },
