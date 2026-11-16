@@ -62531,7 +62531,7 @@ s=1
 break}j=$.dmV=""
 p=4
 i=t.N
-n=A.f(["p_from_lat",a,"p_from_lon",a0,"p_to_lat",a1,"p_to_lon",a2,"p_kinds",a3,"p_locale","tr","p_limit",120],i,t.K)
+n=A.f(["p_from_lat",a,"p_from_lon",a0,"p_to_lat",a1,"p_to_lon",a2,"p_kinds",a3,"p_locale","tr","p_limit",120,"p_edge_km",0],i,t.K)
 h=$.cp().b
 h===$&&A.t()
 g=t.z
@@ -219860,34 +219860,43 @@ aYd(){if(this.r)return
 this.r=!0
 var s=this.a.r
 if(s!=null)s.$0()},
-P(a){var s,r,q,p,o,n=this,m=null,l="Manrope",k=A.a(a).ax.a===B.a?A.b():A.c(),j=n.d,i=j==null,h=i?B.I9:n.AR(j),g=h.length===0?0:h[n.f].b,f=A.cN(A.d(m,m,B.b,m,m,new A.E(k.ga4(),m,m,A.H(2),m,m,m,B.m),m,4,m,m,m,m,m,36),m,m,m),e=$.m().x!=="en"?"Haritada a\xe7":"Open in a map app"
-e=A.k(e,m,m,m,m,m,m,m,A.i(new A.h(k).gaU(),m,l,m,B.a0,0,m),m,m,m,m)
-s=n.a.f
-r=$.m().x!=="en"?"yakla\u015f\u0131k":"approx."
-q=t.p
-r=A.e([f,B.dt,e,B.eo,A.k(s+" \xb7 "+r,B.b4R,m,m,m,m,m,m,A.i(new A.h(k).gE(),k.gn(),l,m,m,0,m),m,m,m,m),B.bH],q)
-for(p=0;p<3;++p)r.push(n.b0T(k,B.vv[p]))
-if(n.e===B.Xv&&!i){f=A.v(B.X,k.gel(),m,20)
-e=A.dhB(j)
-s=j===B.WO?"e":"a"
-o=""+g
-s=e+"'"+s+" aktar\u0131ld\u0131 \xb7 "+o+" durak"
-o="Sent to "+A.dhB(j)+" \xb7 "+o+" stops"
-e=$.m().x!=="en"?s:o
-e=A.u(A.e([f,B.bx,A.y(A.k(e,m,m,m,m,m,m,m,A.i(new A.h(k).gaa(),m,l,m,B.Y,0,m),m,m,m,m),1)],q),B.I,B.b4K,B.D,B.i,0,m,m)
+P(a){var s,r,q,p,o,n,m=this,l=null,k="Manrope",j=A.a(a).ax.a===B.a?A.b():A.c(),i=m.d,h=i==null,g=h?B.I9:m.AR(i),f=g.length,e=f===0,d=e?0:g[m.f].b,c=!e&&m.f===f-1,b=c?d-1:d
+if(!c){f=""+b
+e=f+" mola"
+f+=" stops"
+s=$.m().x!=="en"?e:f}else if(b<=0){f=$.m().x!=="en"?"var\u0131\u015f":"destination"
+s=f}else{f=""+b
+e=f+" mola + var\u0131\u015f"
+f+=" stops + destination"
+if($.m().x!=="en")f=e
+s=f}f=A.cN(A.d(l,l,B.b,l,l,new A.E(j.ga4(),l,l,A.H(2),l,l,l,B.m),l,4,l,l,l,l,l,36),l,l,l)
+e=$.m().x!=="en"?"Haritada a\xe7":"Open in a map app"
+e=A.k(e,l,l,l,l,l,l,l,A.i(new A.h(j).gaU(),l,k,l,B.a0,0,l),l,l,l,l)
+r=m.a.f
+q=$.m().x!=="en"?"yakla\u015f\u0131k":"approx."
+p=t.p
+q=A.e([f,B.dt,e,B.eo,A.k(r+" \xb7 "+q,B.b4R,l,l,l,l,l,l,A.i(new A.h(j).gE(),j.gn(),k,l,l,0,l),l,l,l,l),B.bH],p)
+for(o=0;o<3;++o)q.push(m.b0T(j,B.vv[o]))
+if(m.e===B.Xv&&!h){f=A.v(B.X,j.gel(),l,20)
+e=A.dhB(i)
+r=i===B.WO?"e":"a"
+r=e+"'"+r+" aktar\u0131ld\u0131 \xb7 "+s
+e="Sent to "+A.dhB(i)+" \xb7 "+s
+if($.m().x!=="en")e=r
+e=A.u(A.e([f,B.bx,A.y(A.k(e,l,l,l,l,l,l,l,A.i(new A.h(j).gaa(),l,k,l,B.Y,0,l),l,l,l,l),1)],p),B.I,B.b4K,B.D,B.i,0,l,l)
 f=$.m().x!=="en"?"Haritada":"On the map"
-f=A.k(f+": "+A.dhv(h[n.f].c),B.b4L,m,m,m,m,m,m,A.i(new A.h(k).gE(),k.gn(),l,m,m,0,m),m,m,m,m)
-s=$.m().x!=="en"?"Tekrar a\xe7":"Open again"
-s=A.e([n.aob(k,B.b4I,s,new A.cTk(n,j))],q)
-if(n.f+1<h.length){o=$.m().x!=="en"?"Sonraki b\xf6l\xfcm":"Next section"
-s.push(n.a2A(k,B.b4O,o,new A.cTl(n,j),!0))}B.q.a3(r,A.e([B.aV,e,B.cF,f,B.aV,A.i7(B.ax,s,B.b,B.bL,B.a5,B.ax,8,8,B.n)],q))}if(n.e===B.Xx&&!i){i=A.v(B.aw,k.gj(k),m,20)
+f=A.k(f+": "+A.dhv(g[m.f].c),B.b4L,l,l,l,l,l,l,A.i(new A.h(j).gE(),j.gn(),k,l,l,0,l),l,l,l,l)
+r=$.m().x!=="en"?"Tekrar a\xe7":"Open again"
+r=A.e([m.aob(j,B.b4I,r,new A.cTk(m,i))],p)
+if(m.f+1<g.length){n=$.m().x!=="en"?"Sonraki b\xf6l\xfcm":"Next section"
+r.push(m.a2A(j,B.b4O,n,new A.cTl(m,i),!0))}B.q.a3(q,A.e([B.aV,e,B.cF,f,B.aV,A.i7(B.ax,r,B.b,B.bL,B.a5,B.ax,8,8,B.n)],p))}if(m.e===B.Xx&&!h){h=A.v(B.aw,j.gj(j),l,20)
 f=$.m().x!=="en"?"A\xe7\u0131lamad\u0131, tekrar dene":"Could not open, try again"
-f=A.u(A.e([i,B.bx,A.y(A.k(f,m,m,m,m,m,m,m,A.i(new A.h(k).gaa(),k.gj(k),l,m,B.Y,0,m),m,m,m,m),1)],q),B.I,B.b4M,B.D,B.i,0,m,m)
-i=A.k(h[n.f].a,B.b4N,m,2,B.j,m,m,m,A.i(new A.h(k).gB(),k.gn(),l,m,m,0,m),m,m,m,m)
+f=A.u(A.e([h,B.bx,A.y(A.k(f,l,l,l,l,l,l,l,A.i(new A.h(j).gaa(),j.gj(j),k,l,B.Y,0,l),l,l,l,l),1)],p),B.I,B.b4M,B.D,B.i,0,l,l)
+h=A.k(g[m.f].a,B.b4N,l,2,B.j,l,l,l,A.i(new A.h(j).gB(),j.gn(),k,l,l,0,l),l,l,l,l)
 e=$.m().x!=="en"?"Tekrar dene":"Try again"
-e=n.a2A(k,B.b4P,e,new A.cTm(n,j),!0)
-s=$.m().x!=="en"?"Ba\u011flant\u0131y\u0131 kopyala":"Copy link"
-B.q.a3(r,A.e([B.aV,f,B.aV,i,B.aV,A.i7(B.ax,A.e([e,n.aob(k,B.b4J,s,new A.cTn(n,h,a))],q),B.b,B.bL,B.a5,B.ax,8,8,B.n)],q))}return A.c3(!0,new A.j(B.a5P,A.J(r,B.a7,m,B.D,B.o,0,m,B.n),m),!0,B.G,!0,!0)},
+e=m.a2A(j,B.b4P,e,new A.cTm(m,i),!0)
+r=$.m().x!=="en"?"Ba\u011flant\u0131y\u0131 kopyala":"Copy link"
+B.q.a3(q,A.e([B.aV,f,B.aV,h,B.aV,A.i7(B.ax,A.e([e,m.aob(j,B.b4J,r,new A.cTn(m,g,a))],p),B.b,B.bL,B.a5,B.ax,8,8,B.n)],p))}return A.c3(!0,new A.j(B.a5P,A.J(q,B.a7,l,B.D,B.o,0,l,B.n),l),!0,B.G,!0,!0)},
 b0T(a,b){var s,r,q,p,o=this,n=null,m="Manrope",l=o.e===B.Xu&&o.d===b,k=b===B.mV&&o.AR(b).length>1,j=A.dhB(b),i=b.b,h=t.O,g=A.H(14),f=o.e===B.Xu?n:new A.cTj(o,b),e=a.gR()
 e=A.d(n,A.v(A.e5M(b),a.gG(),n,22),B.b,n,n,new A.E(e,n,n,n,n,n,n,B.aO),n,40,n,n,n,n,n,40)
 s=t.p
@@ -221414,7 +221423,7 @@ i.push(B.q.gaC(i)+q)}for(l=this.c,p=0;p<l.length-1;p=o){o=p+1
 for(;;){n=o+1
 if(n<l.length){s=l[p]
 m=l[n]
-m=A.Pi(s.a,s.b,m.a,m.b)<=300
+m=A.Pi(s.a,s.b,m.a,m.b)<=160
 s=m}else s=!1
 if(!s)break
 o=n}s=l[p]
