@@ -15,14 +15,14 @@ e5da298e-aa87-44ca-a9a7-cbeb37cc84ae,Goynuk Zafer Kulesi,SIGHT,40.398773,30.7858
 43859692-28d9-4be0-82c8-6a3b7cc9889b,Tarihi Çınaraltı Aile Çay Bahçesi,CAFE,40.39809,30.785275,Belediye Meydanı,Göynük,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.985
 bfa2be3c-f109-4563-8750-ac5706cec29e,Caferler Konagi & Cafe,CAFE,40.397888,30.785545,Gazi Süleyman Paşa Bulvarı 16A,Göynük,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.812
 b62cbc1a-0cbc-47ec-9bc4-890dc90959eb,Goynuk Hotel,HOTEL,40.39735,30.784336,Gazi Süleyman Paşa Blv. No:8,Göynük,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.977
-10ee08b5-1173-405f-80ae-3ad5cb8a5f96,Göynük Yörük Çadırı,SIGHT,40.399559,30.787827,Gazi Süleyman Paşa Blv. No:50,Göynük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.867
+10ee08b5-1173-405f-80ae-3ad5cb8a5f96,Göynük Yörük Çadırı,ACTIVITY,40.399559,30.787827,Gazi Süleyman Paşa Blv. No:50,Göynük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.867
 8907b417-9f74-4dc1-8e19-70348a469fdb,Hanedan Butik Otel ve Yoresel Yemek Evi,HOTEL,40.399662,30.786972,Cuma Mahallesi Göynük Bolu,Göynük,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 8274fcf1-1c0d-4444-bd0e-a8535a855a08,Sular Butik Otel,HOTEL,40.400558,30.787914,Musalar Sk. No:13,Göynük,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 03634b57-f6d6-428c-ac18-799ee8e4e36c,Aksemsettinoğlu Konağı,HOTEL,40.400303,30.788015,Ankara Cd. No:38,Göynük,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
 7344117a-7821-4711-8fea-3a3a9e3efe61,İpekyolu Cafe ve Aile Çay Bahçesi,CAFE,40.400444,30.784817,Prof. Dr. Necmettin Erbakan Caddesi 30A,Göynük,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.953
 a8a0dc44-c7e2-4f0a-ae5b-97b9f9ba4a4d,Hanzade lokantası,RESTAURANT,40.39917,30.78569,Akşemseddin Cd.,Göynük,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.968
 b7065950-fbb4-4b03-a779-fd4611418005,Harun YÜKsel MÜZesİ,SIGHT,40.399563,30.785803,Ankara Cd. No:22,Göynük,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.754
-d40cc151-3257-4ac7-838a-f790b3d50416,Beybahcesi Park,SIGHT,40.407074,30.783218,"Gürcüler Çayı Sk. No:23, 14780",Göynük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.816
+d40cc151-3257-4ac7-838a-f790b3d50416,Beybahcesi Park,ACTIVITY,40.407074,30.783218,"Gürcüler Çayı Sk. No:23, 14780",Göynük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.816
 bdced10c-e0ee-4522-b36e-add10e24380a,Yaren'Imm Cafe,CAFE,40.411613,30.781672,Sofuali Mah,Göynük,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.869
 60793794-a625-4516-a7fa-04afaf2d1182,Abant Lotus Otel & Spa,HOTEL,40.479614,30.940952,Akçaalan Köyü Yolu 6,Göynük,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.908
 d901422e-562f-4325-8587-5932c656e3cf,Çubuk Göl Café & Restaurant,RESTAURANT,40.482372,30.832428,Bolu Göynük,Göynük,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.962
@@ -51,7 +51,6 @@ edaf3e82-bb73-4c65-8bba-7ecd763bdced,Masal Parkı,SIGHT,40.737652,31.56999,158.S
 00d7d2d3-0101-4c46-a4bf-2688ce4f7226,Kurabiyecizade,CAFE,40.734188,31.569225,,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 300807dc-2342-46dc-b4c3-6e263ba8194d,Boludağı Abant Gölü,SIGHT,40.734394,31.568274,Bolu-düzce Yolu,Bolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.779
 203f424d-4d76-48b3-a453-7928e50d30a1,Safahat Lokantası,RESTAURANT,40.734039,31.570513,Rauf Denktaş Bulvarı No : 30,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.989
-11178bee-0528-4be9-80d0-af10822af247,Paşaköy Konağı,SIGHT,40.729683,31.578032,,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.928
 cbe4eed1-ab9b-4a9d-a47d-d3db65658159,Haylaz Bistro Pub,RESTAURANT,40.731731,31.568163,D100 Karayolu Gölköy Sapağı Altınyıldız Garden yanı,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.925
 e03dafd5-7447-4053-9e6b-f49f7451242c,Hampton by Hilton Bolu,HOTEL,40.731434,31.568951,Eski İstanbul Cd. No:73,Bolu,CDLA-Permissive-2.0,OpenTravel|Overture|meta,hotel,lodging>hotel,1.000
 4b6422c7-0ea7-449b-b01b-acef7bba4714,Tuz Gölü,SIGHT,40.73151,31.568727,,Bolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.785
@@ -71,7 +70,6 @@ a6b54665-70da-48e7-87ba-c86b6b7828f0,Cafe De Marjin,CAFE,40.731998,31.563164,D-1
 d6acde51-f54e-49ae-a1cc-92a842f27f8a,David People,CAFE,40.732151,31.564156,Paşaköy Mah. D-100 Karayolu Cad. No:8-16,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 4960775c-a56a-4ba5-835a-e742b4788976,Mani Restaurant,RESTAURANT,40.732132,31.564291,D100 14 burda avm,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.956
 c3a2dc59-1295-48af-9d94-44c7437fd19f,Tavuk Dünyası,RESTAURANT,40.731815,31.563822,"Paşaköy Mh. No:8, D:128",Bolu,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.999
-1c77db03-7b31-444f-8a3d-47429876e2f7,At Yaylası,SIGHT,40.732754,31.554829,,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.703
 62482c78-1487-4314-9960-7c50683c1793,Karpalas City Hotel,HOTEL,40.729023,31.552851,D100 üzeri no:26,Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.992
 4dbc67a0-306b-4134-a24a-1ce21ea97e56,Haylazbistropubb,RESTAURANT,40.729763,31.547716,D100,Bolu,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.862
 b07c2387-c9d8-40e5-b152-17d7965a944a,Bolu Çatı Katı Bungalow,HOTEL,40.729832,31.546808,D100 Karayolu Üzeri No:61,Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.857
@@ -85,15 +83,13 @@ f46fc6d6-1b1c-4b56-ad89-0f8bdcb6697b,Tüttür Ocakbaşı,RESTAURANT,40.717484,31
 7650e807-853e-4a1a-8b1c-babdbacf0fa6,Starbucks,CAFE,40.716,31.52607,BAİBÜ,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 0d6e8ec4-6d96-4762-a681-219daf58c08a,Ciğerci Emin Bolu,RESTAURANT,40.728626,31.538027,Beşkavaklar Mah.D 100 karayolu 8. cd. no 29A-1,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
 017d9455-15f1-49f1-84cb-baa6e4ada07c,Ablanın YERİ,RESTAURANT,40.725658,31.53503,1. Etap TOKİ Konutları 2,Bolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.904
-1ece9486-0b68-4073-ab66-88cb14d235a2,Kahveci Kardesler Tekel,CAFE,40.72086,31.54348,15 temmuz demikrasi bulvari 54 a,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.775
 77fa89ae-f0a7-4b13-a2c1-f90b98fd6a64,"Abant Lake, Bolu",SIGHT,40.712139,31.570555,,Bolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.714
 2dc06793-aea6-4728-9bb0-5df6c9922d7e,Akşamsettin Camii,SIGHT,40.720703,31.584705,,Bolu,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.938
 062fe356-65f7-4799-8d7e-c562d325dd15,Pideci Ergün,RESTAURANT,40.723503,31.587187,"227, Cumhuriyet Cd.",Bolu,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.912
-c81bf076-fff3-49e7-b6a5-6b4669bde1ed,Catlak Cafe ve Kirtasiye,CAFE,40.725525,31.584171,Ahmet Baysal Blv. No:10,Bolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.879
 a3184ee1-28ca-4057-9d78-0dd592d50b27,Domino's Pizza,RESTAURANT,40.72707,31.588757,mecburiyet caddesi,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.770
 ad83f2eb-9e6d-4035-8299-b823f12461b0,Borekcioglu Pastane ve Cafe,CAFE,40.728523,31.589069,Mehmet Akif Ersoy Blv. No:50,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.887
 39003636-d526-401e-944b-89c71860503f,Tuna Emir Pastanesi,CAFE,40.727764,31.590115,"No 52 gümrah Apt B, Hattat Emin Barın Cd.",Bolu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.942
-24f03cee-b5c0-4a7d-a212-807449ab289d,Bilal-i Habeşi Parkı,SIGHT,40.728065,31.590857,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.922
+24f03cee-b5c0-4a7d-a212-807449ab289d,Bilal-i Habeşi Parkı,ACTIVITY,40.728065,31.590857,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.922
 ea5a78e1-851e-443e-80ec-c264d681a2b4,Can Yemek,RESTAURANT,40.725624,31.591194,Cumhuriyet Cd. No:179,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.767
 954a0d12-fd4b-4724-a092-3c8866d5a572,Lezzet pide,RESTAURANT,40.72559,31.590395,Cumhuriyet Cd. No:138,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.869
 da7e5b80-f13d-478c-939f-d5a0cd36827b,Fırınzade Cafe Sümer,CAFE,40.725464,31.589844,Cumhuriyet Cd. No:142,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.869
@@ -130,8 +126,8 @@ c6c4dedb-bebb-4314-aff3-30adc7ee61b6,Silver Inn,HOTEL,40.724045,31.597956,Çığ
 6e158a91-f7b3-4bb1-850b-904053173902,Gölcük Milli Parkı,SIGHT,40.721794,31.610018,14.25,Bolu,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.857
 66de12c0-4bb6-4ac3-a676-e2e0ddca5237,Şelale Park Cafe & Restaurant,RESTAURANT,40.72332,31.612881,Akıncı Sk. No:119,Bolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.996
 04165ad4-d2e5-4867-b799-680cc1b47698,Haydarpaşa Cafe,CAFE,40.725231,31.606018,Karaçayır Sk.,Bolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.960
-608fbbe9-189c-4540-9f38-577377c2765b,Tunalı Parkı,SIGHT,40.725571,31.605989,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.913
-e875a323-35fb-4815-b3ac-d53d98a90677,Karaçayır Park,SIGHT,40.726101,31.605812,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.813
+608fbbe9-189c-4540-9f38-577377c2765b,Tunalı Parkı,ACTIVITY,40.725571,31.605989,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.913
+e875a323-35fb-4815-b3ac-d53d98a90677,Karaçayır Park,ACTIVITY,40.726101,31.605812,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.813
 89ea3942-5d53-48b7-9982-d9e1744ee96a,Engelsiz Cay Bahcesi,CAFE,40.727142,31.605881,Şht. Selen Paşa Cd.,Bolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.983
 e4b56cce-bedb-4d76-a598-0d0555338c99,Bolu Park Avm,SHOPPING,40.7267,31.61134,Kızık Sk.,Bolu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.918
 a92b188a-6f19-4877-b986-16c096b4a8d2,Bolu Hanımeli Yemek Salonu,RESTAURANT,40.73608,31.633327,Aşağı Mahalle Sokak 2,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.994
@@ -165,7 +161,7 @@ d117907c-1de9-4477-9fd8-a432f17e3b9f,Yeniçağ Gölü,SIGHT,40.739548,31.60742,k
 5d5afa9f-051f-48df-a27d-f7c92e2117a1,Safran Borek Cafe,CAFE,40.738461,31.61067,Tavil Mehmet Paşa Caddesi 46B,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.920
 a28021ba-1a74-4799-b476-dcd7d662e990,Çorbacı Şaban Usta,RESTAURANT,40.738178,31.610689,"Gölyüzü Mahallesi Muhtarlığı, Bahar Sokak 29",Bolu,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.969
 fbc4b701-53d6-4ec9-85ca-692cbd3a5472,Asya Cafe Ataturk Orman Parkı,CAFE,40.73912,31.613766,Atatürk Orman Parkı,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.940
-b2209d4a-4fb8-4f34-9520-e14afac72593,Atatürk Orman Park,SIGHT,40.739227,31.616564,Atatürk Orman Parkı,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.922
+b2209d4a-4fb8-4f34-9520-e14afac72593,Atatürk Orman Park,ACTIVITY,40.739227,31.616564,Atatürk Orman Parkı,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.922
 e510a1b2-4e2e-4925-8a3c-a49c7a8d9596,Esinti Park Bufe,RESTAURANT,40.740307,31.61677,"ESİNTİ PARK BÜFE, Mehmet Zekai Konrapa Bv no:18",Bolu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.840
 97ae59dd-d764-4e01-bf8a-252b8b09bec3,Nar Cafe Gozleme Evi,CAFE,40.73888,31.617037,,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.858
 fd3dae66-305e-446d-a25b-6f7301f81e0f,Can Çiğköfte,RESTAURANT,40.739441,31.622351,Yıldırım Beyazıt Cd. No:16,Bolu,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.787
@@ -214,7 +210,6 @@ e29e8c95-21a4-4eb9-be27-0095504fff95,Efsane Mantı,RESTAURANT,40.731434,31.60767
 b16628d8-89ff-4313-b4b0-08227b7e28f6,Çınaraltı kıraathanesi,CAFE,40.7313,31.608494,Kocabey Sk. 11/B,Bolu,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.874
 7dc56aa7-2fb0-450d-87e3-d90b08f10f23,Boludağı Üç Kardeşler  Lokantası,RESTAURANT,40.7314,31.608355,Kocabey Sokak 11C,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.967
 a4282f17-9006-4fd3-880d-78d50d171ae5,Bolu Simit Dünyası,CAFE,40.731541,31.60895,Taşhancılar Cd.,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.925
-2b2f55d2-7ccb-4120-b421-63850bb9938c,Yurdaer Kalaycı Kültür & Sanat Merkezi,SIGHT,40.731358,31.609842,Süreyya Sk. No:12-A,Bolu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.938
 6204e425-eb60-408c-9df5-f4c5d0908d38,Inci Plaza,SHOPPING,40.731911,31.610615,İmaret Sk. No:4,Bolu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.761
 d78ff1b3-af08-4c23-a2c3-cfd1e098479d,mahzencafe14,CAFE,40.731987,31.609419,Doğuş Sokak 2A,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.873
 6f25b89a-4c53-43f2-8039-aada276334b5,Kebap 14,RESTAURANT,40.731831,31.609451,Öney Sk. No:12,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.997
@@ -232,7 +227,6 @@ a4441592-55f9-48b3-81dd-50091119488f,No14 Cafe and Bistro,CAFE,40.733055,31.6075
 5155f4d3-ffc3-42d1-88db-549da8b3fd51,Orta Hamam,SIGHT,40.732304,31.608017,İzzet Baysal Cd. No:106,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.969
 c29336a5-f9c4-4d08-829d-f8f5e8ed98a7,Usta Dönerci,RESTAURANT,40.73254,31.608206,Paşaköy Mahallesi D-100 Karayolu Caddesi No: 8 14 Burda AVM İç Kapı No: 133,Bolu,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 c2650412-0b44-4298-9c56-753865ac9f13,Gözlemecioğlu,RESTAURANT,40.732304,31.607643,İzzet Baysal Cad,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.832
-a8216c65-f580-4d8d-b42a-646db4fdd11e,Şanzelize Meydanı Bolu,SIGHT,40.732635,31.607763,,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.859
 014efb7d-8b7f-4e6f-b105-874657fd33b1,Bolu Museum,SIGHT,40.733585,31.606419,Stadyum Cd. Kültür Sitesi,Bolu,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.966
 e0d0f26c-f318-46bc-9035-9eba20cb6df5,Bol As Lokantasi,RESTAURANT,40.734077,31.607502,İsmet Paşa Cd. No:42,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.868
 8a9358d5-9070-4150-b284-92f2e5ff2681,Tat Lokantası,RESTAURANT,40.734512,31.607077,Yeni Hal Pazarı Sk No:13,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.936
@@ -249,7 +243,7 @@ e04cc44c-dc8d-4d29-a22a-d9983187ac4d,Hendek Parkshop,SHOPPING,40.734997,31.60969
 8f8c7ec0-3ae2-4238-b2b2-ef2d4cd9204a,Çitir Simit,CAFE,40.733803,31.610727,Fevzi Paşa Cd. No:8,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.846
 938e4e81-19fa-496a-aa06-6467ef8060a1,Uğur Pide,RESTAURANT,40.73344,31.612347,İzzet Baysal Cd. No:186,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.954
 da883233-ab51-40f3-8f21-cdd3d0f432c1,Caffe Pasta,CAFE,40.733776,31.614113,Şht. Abdülkadir Sk. No:1,Bolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.925
-28a38866-23b0-4a86-9d55-a3441a6a2763,Uğur Mumcu Parkı,SIGHT,40.73468,31.616516,İzzet Baysal Cd.,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.917
+28a38866-23b0-4a86-9d55-a3441a6a2763,Uğur Mumcu Parkı,ACTIVITY,40.73468,31.616516,İzzet Baysal Cd.,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.917
 30b8f092-76d9-48fc-98ee-420e9dbf49d4,Bolu GREEN SUIT,HOTEL,40.735638,31.613461,Şht. Kani Cd. BİNA NO 60,Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.983
 95ab47fd-834e-4e44-ae2b-0432f2f5bca8,Kardeşler Börek,CAFE,40.735523,31.612211,Şht. Kani Cd. No:38,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.913
 bf7dea16-cc07-4766-8f12-344bfb83858f,Köroğlu Kahvehanesi,CAFE,40.736816,31.612648,,Bolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.801
@@ -273,7 +267,6 @@ c7229d83-c358-4e54-809a-3d391642ca34,Üst Yaka Kebap,RESTAURANT,40.735893,31.605
 7227ff95-21e2-40c4-9fcc-dbd1eb424677,Oses Çiğ Köfte,RESTAURANT,40.736763,31.602783,"Merkez, Konuralp Cd. No:15/A",Bolu,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.781
 0280523c-0d51-48eb-b05a-45abd9fa2018,Gözde Pastanesi,CAFE,40.735996,31.599602,,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.921
 d5b5afe9-f373-4849-a055-ff01c3e3daeb,Bolu Ocakbaşi,RESTAURANT,40.735741,31.599211,,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.944
-7bffe55a-dc9b-4aa0-995d-4a10ebdcb92f,Galatasaraylılar Derneği Restaurant,RESTAURANT,40.736145,31.599115,"Atatürk Bulvarı, Tuser Apt 21/B-8",Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.859
 f04d9a98-b983-4c51-a8b7-f640043b40ef,Gaziantepli Gaziagam Baklavaları,CAFE,40.73798,31.599783,Beskavaklar mahallesi D100 karayolı üzerı Cici taksı yanı 107/A,Bolu,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.964
 7d69f619-b40e-44da-850f-4b69552e4657,Abant Kahvecisi,CAFE,40.737576,31.5973,D100 Üzeri D:No:95,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.950
 b4b4f0ec-9f03-4f55-9a50-26a3a5df423d,Fatih Hanı Et Lokantası,RESTAURANT,40.737473,31.598104,D100 Üzeri No:99,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.914
@@ -334,7 +327,7 @@ f5b652be-42a1-4d0a-823c-c72d983e791d,Bolu Sosyete Pazari,SHOPPING,40.730972,31.6
 31fb9a92-a407-4ec9-8f5b-b67d372a736c,Yeniyo Döner Bolu,RESTAURANT,40.730034,31.602341,Güzey Sk. No:8 D:8,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.839
 1dc74610-99ea-43b6-b9de-a2f6b135da13,Öz Adana Kebab Salonu,RESTAURANT,40.730026,31.602407,Güzey Sk. No:8 D:6,Bolu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.952
 83ee7e94-bad4-48ff-9a02-d17b55c9b8cc,Bolu Suit Otel,HOTEL,40.730034,31.602453,Güzey Sk. No 6,Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
-919c5a5e-2a12-47fb-a8c8-a7f7303ecf05,Bolu-Cumhuriyet-Park'i,SIGHT,40.730045,31.604202,Cumhuriyet Park'ı,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
+919c5a5e-2a12-47fb-a8c8-a7f7303ecf05,Bolu-Cumhuriyet-Park'i,ACTIVITY,40.730045,31.604202,Cumhuriyet Park'ı,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
 ca6d6993-0aab-4f55-963f-3f5dbce8de64,Boliva Pasta ve Tatli,CAFE,40.730038,31.604027,Cumhuriyet Cd. No:9,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.897
 e48aa458-b74f-44f3-a226-18cf1699149a,Bolu Park Cafe,CAFE,40.730076,31.604544,cumhuriyet caddesi,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.861
 9ba52522-13af-46c1-bc7f-50f56c1e732f,Coffee LAB Bolu,CAFE,40.730095,31.604292,Tabaklar Mah. Cumhuriyet Cad. Park Cafe 13 Bolu/Merkez,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.926
@@ -386,7 +379,7 @@ f12e6440-d6df-4c5f-a512-f88829748c85,Paradise Cofffee,CAFE,40.730961,31.601618,V
 a3165326-44c0-4c35-8a4c-4c4240d48f06,Sevore Kafe,CAFE,40.731075,31.60161,"Tabaklar mahallesi izzetbaysal caddesi, Vaysal Sk. no:59",Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.842
 ebcca961-1eac-439e-9cf9-15f1192ec06f,Dumancoffeeco,CAFE,40.731052,31.600765,Uygur Sokak 3,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.981
 7c2ccfed-7aae-4d84-9c9f-65bb21f0d668,Bahçe Cafe Bolu,CAFE,40.731037,31.600519,Dar Sk. No:6,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.982
-3d604712-a71d-48b3-b7ff-a174dcdb9f52,Kardelen Meydanı,SIGHT,40.730946,31.60014,"No:, Salim Gündoğan Cd. No:6",Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.931
+3d604712-a71d-48b3-b7ff-a174dcdb9f52,Kardelen Meydanı,ACTIVITY,40.730946,31.60014,"No:, Salim Gündoğan Cd. No:6",Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.931
 c67bf636-583c-4649-aacf-ecb0bc52ccba,Hakiki Roma Dondurmaları,CAFE,40.730976,31.60041,Salim Gündoğan Cd. No:6,Bolu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.910
 2904f285-ca40-4edc-8ea0-119567ce9e83,Cafe de Botanique,CAFE,40.730766,31.599592,Bahçelievler Mahallesi,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 3bd5a434-339b-439e-a4ad-77756539ff8e,Colombia Coffee Bolu,CAFE,40.730824,31.599569,,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.857
@@ -397,7 +390,6 @@ e1d047ab-445e-40f4-8701-f2af47ca519c,Kokoreççi Dede,RESTAURANT,40.730911,31.59
 da2e0dfc-c670-4bdf-81ce-38bdc6de8a91,Has tavuk Bolu bölge bayi,RESTAURANT,40.730438,31.598814,Cahit Dinçtürk Sokak 2A,Bolu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.758
 757a1e1a-facc-4293-926d-ddeca919bc83,Martı Pastanesi,CAFE,40.730835,31.594879,Hürriyet Cd.,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.841
 bf9331f9-6090-4c5a-85df-1d788e023c0e,Abant / Gölcük / Yedigöller | BOLU,SIGHT,40.732166,31.593933,Tabiatın Kalbi...,Bolu,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.926
-455946db-bad6-4d09-bfcc-3d3f7eb3ef00,Bolu Atatürk Meydani,SIGHT,40.731316,31.598034,,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.752
 aae40ac2-0d51-4bb7-b893-4359c6703636,Büfe Bahçeli,RESTAURANT,40.732006,31.598503,Bahçelievler Mahallesi Muzaffer Işın Caddesi Doktor Kutucuoğlu Apartmanı N0:6/A,Bolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
 c27d8c0d-beaa-4864-9a17-388355f0cf63,Ortaklar Pide Kebap,RESTAURANT,40.73222,31.598869,Kızılay Sokak 3,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.852
 004838e2-1ae7-4678-9793-f5a21dc3d5c4,GOLD Suites EMLAK,HOTEL,40.733074,31.596933,Bozkurt Sokak 17/1,Bolu,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.807
@@ -435,7 +427,7 @@ c8dfca0a-7007-40a4-8c82-24900ac19fca,Hacıbey et mangal,RESTAURANT,40.735577,31.
 0b4617e9-dab9-40b4-b222-19bc7c3de577,Kurunun Yeri,RESTAURANT,40.735634,31.587084,BOLU DAĞI,Bolu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.941
 e717167c-fc05-4fa3-8227-db95fa2adb9f,Soylu Otel,HOTEL,40.736702,31.591038,"Beskavaklar Mah D-100 Karayolu Uzeri, No 61",Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 c6046f89-2a23-4fb3-9723-1c57bdc9ba99,Biber Restoran,RESTAURANT,40.739124,31.580883,İzzet Baysal Devlet Hastanesi Bul. Gazi Konutları B-1 Blok No:3-4 Kılıçarslan Merkez,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
-93264709-4f0d-463f-b0c1-db1f9db3a895,Bolu Nilüfer Park,SIGHT,40.738873,31.580605,Nilüfer Parkı,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
+93264709-4f0d-463f-b0c1-db1f9db3a895,Bolu Nilüfer Park,ACTIVITY,40.738873,31.580605,Nilüfer Parkı,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
 63900097-1368-4162-9d2c-d5d4b79c879a,Bolu Eklercisi,CAFE,40.739048,31.582325,Kılıçarslan Mahallesi 155. Sokak No:16,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.881
 26279df7-adc3-4ff6-a851-a58d29acc7c8,Hakgül Künefe Katmer Baklava,CAFE,40.738407,31.58272,Beşkavaklar Mahallesi İzzet Baysal Devlet Hastanesi Bulvarı B Blok No:31,Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.770
 f8ead30e-5a66-4349-b9b2-beb2d30e689f,Firune Cafe Restaurant,CAFE,40.739277,31.581341,İzzet Baysal Devlet Hst. Blv.,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.777
@@ -460,18 +452,18 @@ b632f11a-8fdd-4570-bffa-4ba6bc0cc8e0,Ladeen Cafe,CAFE,40.739876,31.599842,Öksü
 fff29eff-42e0-4c12-8ead-4829a78d1411,Artı1 Alışveriş Merkezleri,SHOPPING,40.74464,31.594465,Ahmet Baysal Bulvarı 1,Bolu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.868
 3d368b83-2b93-4464-89f7-52406118b2a4,Inci Pasta ve Kafe,CAFE,40.743923,31.594946,Çakmaklar Cd. no 51/a,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.949
 9de6c680-cfff-4416-aef7-929bd691d0f8,Cahitbey pide&lahmacun,RESTAURANT,40.743469,31.596062,İZZET BAYSAL MAHALLESİ ÇAKMAKLAR CADDESİ NO:26 BOLU / MERKEZ,Bolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.988
-d96a01f7-fa50-400b-9cdc-29926e7441e5,Muhtarlar Parkı,SIGHT,40.745934,31.603224,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.868
+d96a01f7-fa50-400b-9cdc-29926e7441e5,Muhtarlar Parkı,ACTIVITY,40.745934,31.603224,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.868
 dea25aa2-b22b-444f-94c6-afa76d4bd170,777 Lezzeti Bereket,RESTAURANT,40.743347,31.588886,Behiye Baysal Cd. No:65,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.792
 24dc7c0d-2d98-402f-b24c-d5875972d6f8,Nors Coffee,CAFE,40.74474,31.580534,"Dr Oktay Söylemez iş merkezi, 174 Sk no:9/C",Bolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.928
 45903809-69aa-443c-9d4e-91c1bc664514,Nilüfer Restaurant,RESTAURANT,40.746021,31.583652,"Belgin Özer Nilüfer Parkı, 4031. Sok",Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.756
 45d95fd2-037a-4d5b-b081-58f04a90d298,Pastaze,CAFE,40.748333,31.611897,Dodurga Cd. no:65/5,Bolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.773
-52f4e2dd-aa71-49cd-aa6b-fd1ccb0f5073,Manolya Park,SIGHT,40.749851,31.607449,Sağık Mah Manolya Sok,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.891
+52f4e2dd-aa71-49cd-aa6b-fd1ccb0f5073,Manolya Park,ACTIVITY,40.749851,31.607449,Sağık Mah Manolya Sok,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.891
 e9d129fb-9dfd-4aa7-bc40-8154daf912e0,İstanbul Çiğköfte,RESTAURANT,40.749538,31.612247,Dodurga Cd. No:79,Bolu,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.891
 ff8e93f8-3d27-4e75-9ff4-e3fdc8ad160f,Beyoglu Cafe&Pasta,CAFE,40.748344,31.612238,Dodurga Caddesi 67A,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.877
 42ed9efe-2152-4b6c-ac51-9e7964eb3a28,Bolu Dagı Sabahattin'in Yeri,RESTAURANT,40.765892,31.638643,Bolu Dağı Tem Otoyolu 3 Kısım Park Alanı,Bolu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.868
 585eaed0-960b-4d8f-9127-2018d1ea3935,Bolu Akcaabat Kofte,RESTAURANT,40.765842,31.638885,,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.804
 08297f7c-974d-40e4-bb2f-b567259d62b4,Sari karavan filter coffee,CAFE,40.772438,31.631891,"yukarisoku mah Bolu, Türkiye",Bolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.919
-1db8fa92-0f06-40ff-a907-7a26e9b7dc1b,Bolu Park Alanı,SIGHT,40.765686,31.639338,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.928
+1db8fa92-0f06-40ff-a907-7a26e9b7dc1b,Bolu Park Alanı,ACTIVITY,40.765686,31.639338,,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.928
 f8ece70d-5db6-433b-bd79-a9acc559bdad,Beyzade,RESTAURANT,40.765572,31.639416,Dinlenme Tesisi,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.955
 88577b32-e352-484d-80bf-482abcb1d8d1,4 Mevsim Cafe,CAFE,40.76268,31.633186,768 Sk,Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.984
 55686e1c-7bb7-4b65-b948-e8fd3ac1b482,Berceste,RESTAURANT,40.779644,31.719145,Anadolu Otoyolu üzeri(O-4),Bolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -521,7 +513,6 @@ f2672830-2ad4-46d1-ac61-16b9777dca71,Berk Yaylası,SIGHT,40.57552,31.585997,,Bol
 48dfe039-c471-4b5d-8be6-e11269ab6c53,Bolu Aladağ Gölü,SIGHT,40.603767,31.673515,,Bolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.765
 dca6c614-1ae7-4261-8731-13ad4e16c8d6,Köprücüler Yaylası,SIGHT,40.635376,31.563667,,Bolu,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.816
 4fbeb140-1176-4e1a-8fae-886eebb9114c,Star Restorant,RESTAURANT,40.411842,31.569347,Çarşı İçi,Seben,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
-6588e820-f1b7-420d-8020-6904c283f575,Sesa Kitap Kırtasiye Kafe,CAFE,40.408234,31.572363,Çarşı Cd. NO:1/B,Seben,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.891
 9e7b4f27-c4a8-4ef7-baee-03316ca76c1d,Çınar Restoran,RESTAURANT,40.408775,31.570723,Cami Sk. No:675,Seben,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.934
 236ddf00-a43e-41c5-9c83-b61e0163f97b,Metin Ocakbasi Lokantası,RESTAURANT,40.40834,31.57205,Seyhan Sokak 3,Seben,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.825
 d9042279-eb27-404a-bdb3-b0e330303aaa,Seben Butik Otel,HOTEL,40.408829,31.573166,İzzet Baysal Cad,Seben,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.935
@@ -547,7 +538,7 @@ f7b727a7-90da-4991-96fe-fb64a0e610b3,CafeİN Lounge,CAFE,40.465626,31.212082,Bel
 a013776c-19c4-4fee-81af-33d1db657d34,Zindan Restaurant,RESTAURANT,40.465775,31.211494,Mudurnu Ataturk Meydani,Mudurnu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.814
 695fc7c7-14e0-42c9-97e2-e129be4539d8,İpekyolu Pastanesi ve Unlu Mamüller,CAFE,40.465023,31.211655,Yıldırım Beyazıt Cd. No:7,Mudurnu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.899
 001a22f5-74cd-4a6f-80e5-ee005078418c,Fuatbeyler Konagi,HOTEL,40.46521,31.211025,İmaret Sk. No:1,Mudurnu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.939
-06dbabde-7c26-4d1b-ac94-605929bceb82,Mudurnu Çarşı,SIGHT,40.465305,31.211365,,Mudurnu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.909
+06dbabde-7c26-4d1b-ac94-605929bceb82,Mudurnu Çarşı,ACTIVITY,40.465305,31.211365,,Mudurnu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.909
 b5594f30-995a-442d-a94c-2bd4244fae88,Mudurnu Tostçusu,CAFE,40.465092,31.211702,Hamam Sk. No:728,Mudurnu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.905
 84f23e35-67eb-48d5-a1d2-8b973685624f,Tarihi Demirciler Çarşısı,SIGHT,40.465237,31.212038,,Mudurnu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.878
 19847c31-dbcb-45dd-9d9c-b0998ec77f8e,Cofffee-m,CAFE,40.464607,31.212036,Ankara Cd.,Mudurnu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.828
@@ -565,7 +556,6 @@ bdf9ab57-cc09-4ce3-a65e-1c54bf2c659e,Erğünün yeri çukur meyhane,RESTAURANT,4
 d90595d1-780f-421c-b033-babc5540e2f4,Sarot Termal Park Resort & Spa,HOTEL,40.465755,31.223145,"Ilıca Köyü Yolu, 14810 Ilıca/Mudurnu/Bolu",Mudurnu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
 96a6aa43-42d0-4e1c-b1bd-ad9b2e0d5906,Ma Belle Cafe Bistro,CAFE,40.488449,31.201437,,Mudurnu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.784
 53693361-bfcd-4fa4-a95c-ff4b2d0334c5,Sarot Termal,HOTEL,40.486824,31.197849,"Karacasumandıra Köyü, 14800 Mudurnu/Bolu",Mudurnu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.917
-70742a3b-85e5-4971-91bd-e8f82d4cb8ef,Atölye Cafe,CAFE,40.474392,31.209696,Bolu Cd. No:110,Mudurnu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.953
 7e0fae38-cbc2-4250-86a6-526e7c8b8c01,YARiŞKAŞi KONAĞi,HOTEL,40.473152,31.209328,Bolu Caddesi 99,Mudurnu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.763
 c163a9e9-e675-4415-81f5-4921759ae790,Şeyh Ül İmran Veli Hz. Türbesi,SIGHT,40.470547,31.197739,Nilüfer Hatun Anaokulu Karşısından 2 Km Yukarıda,Mudurnu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.866
 b065302e-e8e4-4bb1-ad90-0ab59d92e692,Abant Country Mudurnu Dağ Evleri,HOTEL,40.484684,31.156193,Yalçın Ağrı Sokak,Mudurnu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.878
@@ -588,7 +578,6 @@ b5b04a78-cdba-4cb4-bf61-af17e2f41c1f,Sazlıgöl,SIGHT,40.938828,31.739384,Yedig�
 d3847679-02de-41b5-97b0-61db310235f5,Habitat Sincap Cafe,CAFE,40.944717,31.74757,"Yedigöller Yolu, Merkeşler",Bolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.958
 2b2c0f76-1e6b-4047-886b-fd880b3d6057,Buğra'mm gözleme ve çay evi,RESTAURANT,40.804287,31.648947,YEDİGÖLLER ,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.775
 b1ca7386-7750-4891-b3de-d467ca205954,Enişte'nin Dağ Evleri,HOTEL,40.78548,31.661055,Hamzabey Köyü yukarı mevkii,Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.950
-95adc87c-47cb-4bcc-aa5b-fb77614753ab,Yukari Soku Yaylasi,SIGHT,40.798416,31.697454,Yukari Soku,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.704
 d1282c54-3725-40fb-b551-93ec56b7f4e9,Bolu Gölcük,SIGHT,40.817074,31.697796,Bolu Gölcük,Bolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.857
 8439f535-1cdc-4c12-99e0-82a1fbf3be0e,Abant Yedigöller Mangalcı,RESTAURANT,40.817997,31.699406,Bolu Abant Yedigöller  Gölcük,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.841
 73def7e3-c85b-4e02-bc3c-77b4db9a13e5,Beypazarı Karagöl,SIGHT,40.354599,31.928049,,Kıbrıscık,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.831
@@ -613,10 +602,9 @@ ba21fce0-e685-45e6-b835-4cb393bd4f75,Köroğlu Konağı,HOTEL,40.632637,31.79452
 d64ae686-6c59-41a1-915f-5568cb9de9b9,Baysal Motel,HOTEL,40.647766,31.791639,"Sarialan Yaylasi, Kartalkaya Yolu Üzeri",Bolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
 17a02a37-a1de-41c7-a9d4-f15025cff5fd,Yeni Liman Restaurant Balıkhane Bolu,RESTAURANT,40.733341,31.80393,Ankara Bolu Yolu D.100 16 Km. Rüzgarlar Köyü Mevkii,Bolu,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.974
 e0666645-510c-4ff8-9475-364b6ffb3b20,Dipsiz Göl,SIGHT,40.742043,31.842825,,Bolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.718
-fc9d397c-be9a-49d3-87e5-25bf6e881c02,Köroğlu Parkı Dinnenme Tesisi Bolu,SIGHT,40.744877,31.862152,Ankara Yönü,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.876
+fc9d397c-be9a-49d3-87e5-25bf6e881c02,Köroğlu Parkı Dinnenme Tesisi Bolu,ACTIVITY,40.744877,31.862152,Ankara Yönü,Bolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.876
 2e9af3be-72b3-4777-aa2f-c43ba91a9bc5,Yedigöller Dinlenme Tesisi,RESTAURANT,40.743702,31.859724,Yedigöller Park Dinlenme Tesisleri,Bolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.937
 8a3e689a-52ec-4bba-a9c3-74660d490a8d,Yöresel Gözleme,RESTAURANT,40.742981,31.859715,,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.846
-59bfa08a-38b1-455c-b44c-15a8e183254c,Bolu Dağı Seyir Tepesi,SIGHT,40.742722,31.859953,,Bolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.903
 71a1c365-ad9e-439d-8176-ba7081d26afc,Bolu Et Mangal,RESTAURANT,40.742683,31.860043,Carrefour AVM - Batıkent,Bolu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.846
 271d7bd2-6909-428c-a663-3966376a7eaf,Bolu Köftecisi,RESTAURANT,40.742619,31.859932,,Bolu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.751
 6d66489f-d03d-4de3-a5e6-3c43d792c229,Yöresel Gözleme,RESTAURANT,40.743103,31.859777,,Bolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.852
@@ -647,7 +635,6 @@ a1610a40-77f5-47ba-ba0f-aeb1e8c4f73d,Keçi Gölü,SIGHT,40.82021,32.4664,,Gerede
 f3c6959d-e6ff-4f7b-a619-134c325165f0,Bolu dudu konak Tesisleri,RESTAURANT,40.836308,32.414783,,Gerede,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.875
 fe811a79-738b-4efb-9b5c-027efbf9976d,Sbarro,RESTAURANT,40.852425,32.128365,Duzce ili Merkez licesi Akinlar Mahallesi D Mall Shopping Mall,Yeniçağa,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 6344d157-986e-4d18-bd5a-6daace7c235e,Taşdeğirmen Alabalık & Köy Kahvaltısı,RESTAURANT,40.844311,32.060375,,Yeniçağa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.874
-b1bf1cb2-e083-4b47-b57d-008b1a3c7155,Bucak Yaylası Gerede,SIGHT,40.834511,32.225163,,Gerede,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.705
 d9d2b7a4-eef0-4c8e-8c00-c1e269bda19c,Esentepe Hotel Gerede,HOTEL,40.804512,32.192219,Kitirler Mah. Esentepe Mevkii,Yeniçağa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 44f3f6e8-a3e2-4fb2-a403-cf7c937c6d23,Park Esentepe Cafe Bistro Restaurant,RESTAURANT,40.806374,32.190956,Esentepe Mesireliği,Yeniçağa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.990
 79bccfd3-3e2b-454f-9781-6a7e46420682,Gerede Esentepe Restaurant,RESTAURANT,40.806061,32.190903,"Kitirler Mahallesi, Kitirler Mh., Kitirler, Esentepe Mesireliği,, Esentepe Havuzlu Bahçe, 14900",Yeniçağa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.909
@@ -680,7 +667,6 @@ f3e82f91-3cb4-4f33-abb1-06cbede21b61,Köroğlu süpermarket Ve Alışveriş Merk
 511ee284-37f3-496b-810e-d75e09da0526,Tuğba Fast Food,RESTAURANT,40.800621,32.195396,Yeni Hal Sk. No:128,Yeniçağa,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.872
 3852917e-73bd-4445-ac3f-978c90aa5b02,Esentepe Dinlenme Tesisleri,RESTAURANT,40.803932,32.244911,Karabük Samsun Yol Otoban Girişi,Gerede,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.842
 28fb5e6c-961e-4b5b-a1d3-4b4787b753d9,Sarıoğlu Et Lokantası,RESTAURANT,40.80394,32.245113,"Karabük Yolu Üzeri 4,km Gerede, Koçumlar Mevkii",Gerede,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.951
-043d796c-ddd0-4fae-a943-977889ca5d30,Koçumlar Yaylası,SIGHT,40.81337,32.25684,,Gerede,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.753
 e3a06a69-cf8f-4320-909c-2607d0bcdaac,Gerede Bistcore Cafe,CAFE,40.790508,32.201893,"Cafe 14, Kültür Sokak 8",Gerede,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.911
 794a7bdf-2bd2-4a96-870d-4544a6db9071,Fastfoodcafe14,RESTAURANT,40.790359,32.202412,Kültür Sokak 8,Gerede,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.856
 40fe0138-70ef-435b-b857-72a77d244db0,CAFE MOD,CAFE,40.789368,32.202019,Kültür Sk. no:10 A,Gerede,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.776
@@ -719,7 +705,6 @@ d0bd29b3-c078-4afc-92f7-a224846de608,mengen lezzet dünyası,RESTAURANT,40.92669
 803a1447-bfe8-4a35-96a0-9e91364aeb81,Ruhi Bey Mengen Sofrası,RESTAURANT,40.926754,32.071022,Zonguldak cad no1,Mengen,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
 20d055df-19fb-4536-9115-cfde8f34e17d,Panda Cafe Mengen,CAFE,40.93623,32.07362,Ankara Caddesi 9/1,Mengen,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.879
 0f1dd413-702c-4d29-8c2a-d295cf2de3ef,The Uzar Coffee,CAFE,40.932194,32.071617,Zonguldak Caddesi 2,Mengen,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.917
-48b6f577-d78e-457a-8619-9760d2ede631,Çam Pınarı Doğa Evleri & Restaurant,RESTAURANT,40.932449,32.060692,"Beşler Mahallesi, Mengen Akbük Yolu, 14860 Mengen/Bolu",Mengen,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 0cf3a881-3c98-4762-8bf2-e7e5ee7e1367,Havuzlu Kahve,CAFE,40.939621,32.07518,Pazarköy Cd. No:3,Mengen,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.911
 ba9f8a9a-8108-4ef9-8094-2012ad573905,Mahir Pastanesi,CAFE,40.939163,32.074505,Mahir Tatlı Sk. No:1 D:A,Mengen,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.939
 a60f8ce3-b404-49c9-b5d2-8d2e05a30a8a,Fikri Atalay Konağı,HOTEL,40.938808,32.071598,"ŞOK Market, Gökcesu Caddesi 15",Mengen,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.968
@@ -734,12 +719,10 @@ ea15b947-c12f-469c-868e-e426d33cf1a6,Selale Pastanesi,CAFE,40.938713,32.074909,A
 feb9677d-213e-4571-92ac-a71904f7fdbf,Bahçeli Cafe,CAFE,40.938271,32.074669,Atatürk Cd. No:12 D:b,Mengen,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.965
 634e47f9-6fad-4bad-823f-2d4f9e2e1414,Office coffee mengen,CAFE,40.937683,32.074276,Hükümet Cd. No:6,Mengen,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.852
 d3bab4ff-668c-48ad-b4ac-04e1b0a81e3d,Mengen Uzay Cafe,CAFE,40.937584,32.075253,,Mengen,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.795
-ae388967-34c3-4670-815f-cde5973949b4,Çampınarı Doğa Evleri & Restaurant ,RESTAURANT,40.942165,32.052971,hacıahmetler köyü aşağı mevki mah. no:16 Mengen/bolu,Mengen,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.833
 3589f8c0-0e5b-4b0a-a026-e66071fe243b,CK TaşFırın Restaurant,RESTAURANT,40.948162,32.079792,Zonguldak Caddesi 181/2,Mengen,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.770
 f1d450bd-18a8-4f7e-925b-b85a884f2e18,Ağalar Gölü,SIGHT,40.95752,32.085358,,Mengen,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.701
 17a09cfa-2f14-4fb2-bff4-c2dbfdc010c9,Mengen Ciftlik Et Mangal,RESTAURANT,40.957386,32.085278,Zonguldak cad No:186,Mengen,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.986
 bede108c-e30d-4280-9ee3-c6263ca78f56,Mengen Mangal Evi,RESTAURANT,40.955307,32.084915,Eski Zonguldak Yolu,Mengen,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.986
-b08cb5f0-9394-46d2-bd18-50c4065541eb,Mengen Seyir Tepesi,SIGHT,40.963856,32.081051,,Mengen,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.762
 5ad02efd-2273-43d2-9640-9c9d1a271a46,The Uzar Coffee,CAFE,40.963066,32.081841,Zonguldak Caddesi 2,Mengen,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.917
 b8dd57f4-b1c3-4fb8-8ab6-429ed0ab804e,Mengen'li Et Mangal,RESTAURANT,40.961903,32.082642,Zonguldak Cad No:204,Mengen,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.883
 6ff06c2a-e910-4abe-82ea-10f0e362bdd4,"Yedigoller, Mengen Bolu",SIGHT,40.990749,32.043411,,Mengen,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.746

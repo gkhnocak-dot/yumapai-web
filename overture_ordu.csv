@@ -11,7 +11,7 @@ a9d171fc-8736-4eb8-853f-589d0c24c08e,Dinc Petrol Turhan Kul Kamyoncular Lokantas
 9c6fb8cc-3bc5-4486-b8dc-69b53b2d6bea,Yalı Cafe,CAFE,41.192974,37.028053,Terme Belediyesi,İkizce,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.870
 c7ef03a1-51e3-417c-be20-69c2108052a3,Terme Sahil,SIGHT,41.19236,37.028645,,İkizce,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.760
 e2f2d65a-7cfe-4916-b5ec-fa3ef7f47030,cafe_hospital,CAFE,41.188763,37.029484,Terme Devlet Hastanesi karşısı A101 yanı,İkizce,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.930
-6365d4d5-a566-4093-9774-d14f2073c69f,Terme Çamlık,SIGHT,41.184975,37.033405,Terme,İkizce,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.836
+6365d4d5-a566-4093-9774-d14f2073c69f,Terme Çamlık,ACTIVITY,41.184975,37.033405,Terme,İkizce,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.836
 5436aebc-6a13-4a47-af91-03592f9c806c,Ordu Ünye Aydıntepe,SIGHT,41.177078,37.046463,,İkizce,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.703
 52996a47-3cfe-45b2-b7f4-8b23969a2f7c,Terme Ulusoy Tesisleri,RESTAURANT,41.169624,37.055573,Samsun-Ordu Yolu No:61,İkizce,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.978
 a8be6a09-c7c0-484e-9d9a-93402a66a848,Köfte Molasi,RESTAURANT,41.1693,37.05518,,İkizce,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.855
@@ -42,9 +42,8 @@ bf8824d5-14d4-469a-b8a2-7221683cb7bd,Kozluk Sahili,SIGHT,41.157307,37.102051,,İ
 d06cfb1b-70d3-4b30-85ff-aac8528f2922,İbo'nun Yeri,RESTAURANT,41.156231,37.099209,"Terme, Samsun, Türkiye",İkizce,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.959
 d7465dab-363e-4e97-8ce7-8edf305a6be1,Akçaabat Köfte Kuzu Pirzola,RESTAURANT,41.159515,37.090458,,İkizce,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.778
 84d4e051-82f2-4c31-ae63-92055b38867c,Adıyörem Çiğ Köfte ve Cafe,RESTAURANT,41.054237,37.077488,Asım Ovalı Cd. 4/A,İkizce,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.849
-1c06b7de-ccef-48d0-b49c-b7f56332e2c2,İkizce Meydan Parkı,SIGHT,41.052799,37.077183,,İkizce,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.802
+1c06b7de-ccef-48d0-b49c-b7f56332e2c2,İkizce Meydan Parkı,ACTIVITY,41.052799,37.077183,,İkizce,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.802
 2d139d6e-5f53-453e-aec4-dd94792c09f3,Şahin Kasap & Ocakbaşı,RESTAURANT,41.05283,37.077278,Irmak Cd.,İkizce,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.850
-a1c66bed-5d33-428f-8644-ded757ae0389,Tırfıl Tepesi,SIGHT,41.020622,37.103058,,Çaybaşı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.775
 293479b5-70fd-4b42-8ebc-e8e9b22ec18d,Kuzualabalık Tesisi Çaybaşı/Yenicuma,RESTAURANT,40.998413,37.122105,Caybasi Tekkiraz Yolu Köprüsü Yanı,Kumru,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.936
 9a1c6919-8417-4eb0-bb71-448de4621b36,Dumantepe Zirve Park Restoran,RESTAURANT,40.87709,37.05695,D850,Kumru,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.964
 b42dc5a9-6eba-4d94-8dca-85bf659c0177,Aşıklı Irmağı,SIGHT,40.932919,37.012966,,Kumru,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.809
@@ -56,7 +55,6 @@ e1e37916-e9f0-44d2-8aa4-c11b318e80ce,Akkus Nur Lokantası,RESTAURANT,40.793369,3
 2ddda276-fed2-4ea7-8f4b-360b21a31383,Mert Cafe,CAFE,40.792862,37.017048,"Mert Cafe, İstiklal caddesi Merkez Mahallesi Kat1 No:45",Kumru,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.868
 32cbf710-f4fa-4f83-8dd5-fdf77e6e3437,Şarlot Cafe,CAFE,40.792805,37.016972,,Kumru,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.796
 8a05102e-5e9f-4e18-ba4c-08aa8ca1f53f,Büyük Kertil Et Mangal,RESTAURANT,40.774948,37.037151,Ünye Niksar Yolu,Kumru,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.987
-3aa2c780-4364-48df-a1ce-439653a6c6b2,Uzundere Şelalesi,SIGHT,40.578026,37.420895,,Aybastı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.896
 0b4125c6-1799-47a2-a436-0697a36ed996,Kayadibi Restaurant,RESTAURANT,40.873898,37.271999,Demircili Mah,Kumru,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.829
 471b7305-e7ea-41c1-9efc-7609f3c0f181,Dodo Cafe Kumru,CAFE,40.875065,37.265408,DEMİRCİLİ MAH. ATATÜRK CADDESİ,Kumru,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.868
 4aaece5b-4cad-4cc9-9c0e-b6f2d57a1ec9,Kumru Çağlak,SIGHT,40.873676,37.265549,,Kumru,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.701
@@ -74,12 +72,12 @@ b11f61b4-9d1e-4063-9bc2-b6338fea30be,Hanımeli Restorant/Cafe,CAFE,40.872673,37.
 f9562d00-32dd-49de-a6b4-889e9d780a1b,Resume Cafe,CAFE,40.872219,37.259506,Kemal Kumru Caddesi 2A,Kumru,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.888
 0f29c72a-e484-4696-beb4-59fe472f3e2d,Kumru Alaturka Döner,RESTAURANT,40.872028,37.259045,Kemal Kumru Cd. 19/a,Kumru,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.785
 513e8d22-d2a1-459d-a383-5eba6fb1defc,Kınalı Çay Bahçesi Kumru,CAFE,40.872787,37.258236,,Kumru,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.928
-e0ea49a5-b0f6-4bcf-ba9a-249c87c93d29,Kınalı Park,SIGHT,40.872822,37.257881,,Kumru,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.852
+e0ea49a5-b0f6-4bcf-ba9a-249c87c93d29,Kınalı Park,ACTIVITY,40.872822,37.257881,,Kumru,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.852
 b139b7b8-d41e-4cb0-9983-c067664bd637,Tıkıçoğlu Ticaret Avm,SHOPPING,40.871399,37.255104,Niksar Caddesi 37,Kumru,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.840
 e7ae3577-9eaf-4a4a-a15c-d5cb887851b8,Cemo paşa döner,RESTAURANT,40.871349,37.25848,Korgan Cd. No:7,Kumru,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.815
 3f9488e4-b6c6-4e3e-a943-bd1ec12673a3,Yagmur Alabalık Ciftligi,RESTAURANT,40.771786,37.23801,Çiftlik Beldesi,Korgan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.783
 756a87c9-c3e0-4e81-abc3-e92d2cf3b202,Durali Koyü,SIGHT,40.780186,37.349209,Durali Köyü,Korgan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.767
-31412856-2f60-4fbc-b8ab-7a24bc60caee,Korgan Yukarı Pazar Doğa Park,SIGHT,40.819183,37.345104,Yayla Yolu Sokak,Korgan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.929
+31412856-2f60-4fbc-b8ab-7a24bc60caee,Korgan Yukarı Pazar Doğa Park,ACTIVITY,40.819183,37.345104,Yayla Yolu Sokak,Korgan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.929
 0a6c58ef-e59e-471b-9f33-f59c1c18b869,Doğa_caffe ,CAFE,40.820175,37.344753,Sülük Gölü Sokak 90/1,Korgan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.871
 4a37dfce-35fb-4deb-8e03-3fe0dfd507f9,Diyamar Avm Korgan,SHOPPING,40.821095,37.345158,Sülük Gölü Sokak 48,Korgan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.864
 4b012324-d1b8-4a88-b804-b50689019b0f,Komagene,RESTAURANT,40.821522,37.345474,Sülük Gölü Sokak 38,Korgan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.784
@@ -88,7 +86,6 @@ fd6c79cc-aa42-4c2f-8f9e-c208749bc8af,Ömür Pide Lahmacum,RESTAURANT,40.822174,3
 5c31fb31-bc1a-4235-99f0-7dafedf71c0c,Çemiçoğlu Cafe Restoran,CAFE,40.826302,37.347141,"Korgan Polis Merkezi Amirliği, Belediye Sokak 15",Korgan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.976
 7ff6810d-2c0b-4316-af25-2994f07f687f,Kılıçkaya Cafe & Restaurant,CAFE,40.82803,37.344944,Merkez Caddesi 39,Korgan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.969
 a39db8bd-69ec-4389-85be-ea2daf7575fc,Lezzet Pide Döner,RESTAURANT,40.827805,37.345379,Merkez Cad. No:54,Korgan,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.890
-b447315c-ad41-4244-a000-efd90fef315e,Korgan 15 Temmuz Demokrasi Meydanı,SIGHT,40.829094,37.344772,,Korgan,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 d84919c0-01cd-47e5-8887-7b4afc6cb13b,Gökkuşağı Alabalık Çiftliği,RESTAURANT,40.828651,37.344757,Korgan-Kumru Karayolu 3.Km Yukarı Yaylacık Mevki,Korgan,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.874
 a74d07e5-2186-42a6-ba3d-9f78dc747980,Manzara CAFE & Restoran,CAFE,40.830017,37.333729,Odayanı sokak No:107,Korgan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.960
 2702a460-e439-4a21-93d3-3bb728cb5e3c,Korgan Gökkuşağı alabalık çiftliği,RESTAURANT,40.819252,37.318245,"Mahallesi Cami, Yeşildere Sokak 23/1",Korgan,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.881
@@ -97,7 +94,7 @@ a74d07e5-2186-42a6-ba3d-9f78dc747980,Manzara CAFE & Restoran,CAFE,40.830017,37.3
 6ca8220d-557c-4b49-a40b-e58e3a2980ee,Alternatif Cafe & Restaurant,CAFE,40.748524,37.412823,efirli perşembe,Kabataş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.758
 563cd221-1095-4044-95ca-9400d9e666eb,Çendik Güneyi Balık Evi,RESTAURANT,40.683029,37.403728,,Aybastı,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.898
 3f326028-fa1e-4595-b554-1fee4e81ab82,Datlum Çay Ocagi,CAFE,40.68412,37.399242,"Esenli Maallesi, remzi efendi sk o3",Aybastı,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.900
-6c427851-12b4-4740-b593-df6378b7faa7,Aybastı Park,SIGHT,40.684406,37.399609,,Aybastı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.947
+6c427851-12b4-4740-b593-df6378b7faa7,Aybastı Park,ACTIVITY,40.684406,37.399609,,Aybastı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.947
 4b6b767a-f61e-49d1-a06f-a74577edaed5,Pasta Pella,CAFE,40.684765,37.39922,Hürriyet Cd. No:2,Aybastı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.963
 b8d759b6-4e83-41fa-9a82-d077be827986,Nehir Pastanesi,CAFE,40.684769,37.39922,Hürriyet Cd. No:2,Aybastı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.974
 23ee0401-13dd-478a-b3b8-6290967d9b23,çArşı Kebap,RESTAURANT,40.684822,37.399254,Orhan Gazi Sk.,Aybastı,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.859
@@ -116,7 +113,7 @@ a02ce9aa-c99d-4a9d-919b-51dba0d6467b,Çayhane,CAFE,40.684311,37.398487,,Aybastı
 f06fc950-5965-42d0-a215-f260fdd7c126,Aybastı Neu Grand Hotel,HOTEL,40.682117,37.398724,Torunoğulları Sk. :20/1,Aybastı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.866
 d4cea34e-b3dd-4d1a-bf7c-fd53a4b0df09,Harmanyeri Saklıbahçe,RESTAURANT,40.684029,37.398037,Garamanlı mahallesi değirmen yanı Saklı bahçe,Aybastı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.851
 3a4f6310-92fd-45f4-b0f6-3137d9eee44a,Perşembe yaylası tatil merkezi,SIGHT,40.707893,37.36504,Hükümet Caddesi 9A,Aybastı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.816
-c35d3f0e-551b-4d83-a277-497acef613b7,Atatürk Parkı,SIGHT,40.747086,37.396931,,Kabataş,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.874
+c35d3f0e-551b-4d83-a277-497acef613b7,Atatürk Parkı,ACTIVITY,40.747086,37.396931,,Kabataş,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.874
 d1332127-7bf4-4c02-b578-d40ffb565936,Kafe Kaan,CAFE,40.747246,37.397434,,Kabataş,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.751
 f12a0620-0131-40d9-b41f-ba28b512ecfa,Kardeşler Kıraathanesi,CAFE,40.747208,37.397305,,Kabataş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.854
 94e11e4f-88d7-49c2-b6cc-5aadd25528de,Endelek Pastanesi,CAFE,40.747635,37.396301,,Kabataş,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.769
@@ -143,7 +140,6 @@ adb37e88-0b5f-4924-bac6-fc9bfd0e79c8,Yeşil Yayla Izgara Ocağı,RESTAURANT,40.6
 8e216587-826d-4d19-b69b-82076af29d81,Paşa Restaurant,RESTAURANT,40.626133,37.296921,"""Haymana Yol BLV., No:168, Gölbaşı""",Aybastı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.895
 4a549c97-9998-4cbd-beee-21551f29df55,Yeşil Vadi Bungalov Otel,HOTEL,40.62915,37.339481,Perşembe Yaylası,Aybastı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.985
 d57cdcba-3637-407f-a26b-f304fe5d257b,Pelitözü Mızırevyanı Ordu,SIGHT,40.618572,37.368187,Mızırevyanı,Aybastı,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.798
-467de880-7847-49cb-b50b-0d73265156c4,Perşembe Yaylası /Erik Deresi,SIGHT,40.672062,37.380283,,Aybastı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.713
 bffffc1b-5d7e-4708-9595-46c8db726d75,Harmanyeri Saklıbahçe,RESTAURANT,40.66745,37.389946,Garamanlı mahallesi değirmen yanı Saklı bahçe,Aybastı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.850
 3d9fda9f-bb1b-47d7-a4f0-2860644239fb,Saklıbahçe Restaurant,RESTAURANT,40.667484,37.389996,,Aybastı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.885
 8860d8a7-2720-4cc5-b04e-3961d1e6cbf7,Köprübaşı,SIGHT,40.673683,37.404018,,Aybastı,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.718
@@ -179,22 +175,19 @@ e78732e8-f9ab-43a2-a833-fdc799f50125,Ordu Ulubey Degirmenderesi,SIGHT,40.864548,
 71b6baab-0db8-4068-812b-96aa42eeae78,Gölköy Castle,SIGHT,40.690716,37.588238,,Gölköy,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.973
 2e8e2dc7-d0d5-4097-9c32-c585d283993b,Arka Bahçe Cafe & Restaurant,CAFE,40.687672,37.607395,Konak Sokak 4A,Gölköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.860
 7913f469-e64e-45bb-9b53-8a8f8a2f22e6,Mesudiye Topçam Barajı,SIGHT,40.690578,37.61079,,Gölköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.828
-60bb4347-5575-4c14-9f66-27ea2e2923d1,Gökgöl Family Park,SIGHT,40.685234,37.612457,Fevzi Çakmak Cd.,Gölköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.870
+60bb4347-5575-4c14-9f66-27ea2e2923d1,Gökgöl Family Park,ACTIVITY,40.685234,37.612457,Fevzi Çakmak Cd.,Gölköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.870
 5cae139b-f54f-4599-b088-8ab805c8c554,Gölköy Saray Lokanta,RESTAURANT,40.686916,37.615223,,Gölköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.801
-63ed68f0-d968-4d21-91f7-7f5c80a4534f,Yunus Emre Aile Parkı,SIGHT,40.685661,37.614906,,Gölköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.908
+63ed68f0-d968-4d21-91f7-7f5c80a4534f,Yunus Emre Aile Parkı,ACTIVITY,40.685661,37.614906,,Gölköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.908
 0ad80d22-205e-48d9-8143-a2a67b9c817a,Kardelen Restaurant,RESTAURANT,40.686993,37.615002,"Gölköy mah. Mustafa Kemal Paşa cad, Garaj Sk. No:9",Gölköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.801
 33dfdf10-d865-4157-9905-b4115c6bcc7e,Lezzet sarayı,RESTAURANT,40.687607,37.616287,Mimar Sinan Cd.,Gölköy,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.863
 abfa3f37-8092-419c-a4cf-596e9862444c,Ozlem Cay Ocagi,CAFE,40.688072,37.614006,"Özlem Çay Ocağı, Garaj Sk. No:39/B",Gölköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.883
 b84a5e40-8983-4db7-a61b-16b2ce970090,Buğra Pastanesi,CAFE,40.686958,37.612747,Mustafa Kemal Paşa Caddesi 1,Gölköy,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.918
 fea8826d-0c94-4402-a15f-914aed2d79a0,Korgan Obası,SIGHT,40.694073,37.615437,,Gölköy,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.780
 35634f15-f019-40ba-897c-cc414ab08fb6,Gök Gölü,SIGHT,40.687977,37.617874,,Gölköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.828
-3ac9df73-9887-4c21-9dd3-1a3d91e36207,Gölcüvez Yaylası,SIGHT,40.650593,37.635498,,Gölköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.713
 9b15559f-0925-4b8c-aaef-834c556caae1,Enişdibi Şelalesi,SIGHT,40.665501,37.63089,,Gölköy,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.715
 d4b953ab-4463-44db-ab1a-4544686adab6,Tombiş Bey Canlı Alabalık,RESTAURANT,40.671944,37.614029,Tokat Ordu Yolu,Gölköy,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.914
-3ec7c5cb-bf3e-40da-8822-de9801d642bb,Gölcüvez Yaylası,SIGHT,40.619884,37.61993,,Gölköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.741
 b555883f-0a1a-4473-bb82-fa3c80aab275,Ordu Mesudiye Cukuralan Yaylası,SIGHT,40.60368,37.688824,Ordu Mesudiye,Gölköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.960
 cb17dd07-235d-462e-bdb7-649c926a04b9,topcam barajı,SIGHT,40.578899,37.672604,,Gölköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.860
-16ce05df-072e-4317-892e-68a154762bf1,Aydoğan Tepesi,SIGHT,40.553131,37.607109,,Gölköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.795
 09c46b4c-1aed-4f02-b392-392ed12e704b,Pınarbaşı Cafe,CAFE,40.500896,37.538658,Demircili Kasabası,Gölköy,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 d17d3191-3f35-495a-8d81-434ef6817fc7,Yastura Kalesi,SIGHT,40.411671,37.825298,,Mesudiye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.764
 b025ec4f-0220-44fa-a3d7-21c34c7c163e,Ulugöl YAYLASI,SIGHT,40.399372,37.833294,,Mesudiye,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.961
@@ -202,7 +195,6 @@ b025ec4f-0220-44fa-a3d7-21c34c7c163e,Ulugöl YAYLASI,SIGHT,40.399372,37.833294,,
 6028fcbb-47d4-49b0-b302-20133839285d,Göndeliç Restaurant & Kafe,RESTAURANT,40.464172,37.773754,Merkez Mustafa Kemal caddesi numara:1,Mesudiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.942
 f9935bb6-0c60-4ff8-8588-ca2c36a5e69e,Zafer Restoran,RESTAURANT,40.462578,37.773376,Kilise Cd. No:2,Mesudiye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.906
 3c2784b3-528f-49e7-930f-546dcd36e57a,Melet Cafe,CAFE,40.462944,37.772987,,Mesudiye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.904
-a43a94d7-7e2d-4b2d-a89e-372a3a8522b3,"Topçam Barajı ve Hidroelektrik Santrali, Ordu",SIGHT,40.601398,37.738499,,Gölköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.776
 5fd509f9-4e1b-40b7-a390-3bf79e54ac96,Tarihi Melet Yolu Köftecisi,RESTAURANT,40.676605,37.809113,,Gölköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.848
 928c49c9-791f-4000-9149-480fe1d067d2,Tarihi Deretam Köprüsü/ Daricabasi,SIGHT,40.708904,37.825298,darıcabaşı mah. Mesudiye/Ordu,Kabadüz,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.857
 79662fa4-4117-447f-8cb8-174e0497b5ef,Ulubey Çağlayan Şelalesi,SIGHT,40.737427,37.842659,,Kabadüz,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.725
@@ -215,7 +207,6 @@ b7b087bc-2b2b-4cf8-9eea-d848f95a458a,Özyurt kahvaltı,RESTAURANT,40.784222,37.9
 dd3f00a2-63b8-422f-aa5f-b503685110d8,Çekiçoğlu Gözleme,RESTAURANT,40.826031,37.895226,Kabadüz Yokuşdibi Yolu,Kabadüz,CDLA-Permissive-2.0,Overture|meta,lodge,lodging>lodge,0.937
 0a562ad9-5773-4734-ae94-8474f421714a,Ordu Tosunalan Yaylası,SIGHT,40.859711,37.890011,Ordu,Kabadüz,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
 9fa61212-87c6-4c26-8ee5-359e7cabf562,Side Ocakbaşı Restaurant,RESTAURANT,40.85849,37.88979,Side Mahallesi Barbaros Caddesi No:30,Kabadüz,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.885
-9b26b7b2-ec8f-4b2b-ba18-531af1b87638,Ordu Seyir Tepesi,SIGHT,40.872505,37.888008,,Kabadüz,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.891
 79ecfe49-eac5-4d1d-b26a-13293c12a838,Kurul Kalesi Kazı Evi,SIGHT,40.907967,37.895927,Bayadı Mah,Kabadüz,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.702
 f88b7469-f87d-4080-923f-81115baf83e5,Kurul Castle - Kurul Kalesi Ordu,SIGHT,40.903095,37.917191,turkey,Kabadüz,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.973
 878641ae-734c-4338-aa6c-5b3dbd6ee26f,Beyalan Çiseli Şelalesi,SIGHT,40.705532,37.972363,Beyalan Obası - Giresun,Kabadüz,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.866
@@ -260,7 +251,7 @@ e3e89a7d-b6a4-481f-866d-93b3f096ef94,Yoroz Kafe,CAFE,40.930984,38.018845,mercand
 a341706c-0746-4f13-a5dc-c23d3b3fb418,Çakra Cafe Bistro,CAFE,40.963871,38.079296,"Alibey Adası, Ordu Giresun Havalimanı",Gülyalı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.880
 1c3cc969-6e42-4231-b417-c51e1fc33f2b,Birbey Restaurant,RESTAURANT,40.966396,38.056084,Gülyalı ,Gülyalı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.917
 f484aafa-c21b-49ed-9be0-746aba5152ff,Kubaliç Hotel,HOTEL,40.966415,38.060169,Yeniköy Mah. Ürümbey Cad.,Gülyalı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-a1509c72-8d2d-4823-ac66-cf790b2b77e1,Saklı Bahçe,SIGHT,40.966148,38.060558,,Gülyalı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.813
+a1509c72-8d2d-4823-ac66-cf790b2b77e1,Saklı Bahçe,ACTIVITY,40.966148,38.060558,,Gülyalı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.813
 54f02af5-88a2-443b-a703-6db684208f1c,Kasap Bahrİ,RESTAURANT,40.966518,38.062759,1. Sokak 10,Gülyalı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.976
 d297ffd6-1efa-4fa0-aba6-a840f90510e5,Birbey Restaurant,RESTAURANT,40.966454,38.062832,Ordu Caddesi No:12/A,Gülyalı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.970
 52d771fe-a39b-4a24-9d98-7464b665fde3,Gurme Ocakbaşı Ordu Et Mangal,RESTAURANT,40.967144,38.059608,"Ürünbey mahallesi, karanfil sokak no :1çikolata, parkı yanı",Gülyalı,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.965
@@ -289,12 +280,11 @@ ac868745-a953-4850-bf2e-eddac7e2c2f8,Gül Dondurma,CAFE,40.973122,37.888046,,Alt
 88369c29-92c4-4668-92db-4123f3b2e2e5,OBA Dondurma Şirinevler,CAFE,40.972557,37.89883,679 nolu sokak no 1,Altınordu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.953
 d4cdd766-ae06-4cba-a4e6-8dd57aec318a,Ordu Tadım Dondurma,CAFE,40.972492,37.89893,679. Sk. No:1/b,Altınordu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.878
 23884121-3530-4c6a-a5a0-0ab5f2601a9d,Ramada Plaza Ordu,HOTEL,40.972458,37.893856,Zübeyde Hanım Cd. No:211,Altınordu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
-1969f4ff-dd32-4c23-9e89-573c36cffe2d,Elit Park,SIGHT,40.971153,37.898857,,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
+1969f4ff-dd32-4c23-9e89-573c36cffe2d,Elit Park,ACTIVITY,40.971153,37.898857,,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
 133ad664-3135-4306-9b62-a7f8bc24efa8,Yildiz Cay Evi,CAFE,40.970352,37.89896,687. Sokak 5A,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.844
 1d06598b-46be-49a9-b593-a95ff18bae3d,Resume Çiğ Köfte,RESTAURANT,40.97089,37.890163,doktor fahrettin Ünsal Caddesi no:55/A,Altınordu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.902
 73e48004-14c0-4921-9410-2d80eaf15f53,Sultan Sofrası,RESTAURANT,40.969536,37.88718,Dr. Fahrettin Önsel Cd. No:99,Altınordu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.822
 58afd235-5215-4565-9b75-3bce9d6e3445,Kafe Nova Corner coffe,CAFE,40.969734,37.895905,572. Sk. no:2/A,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.939
-e22a1528-0f5a-4a3c-be53-a36fdfe0ccce,Şahin Tepesi,SIGHT,40.968555,37.884892,,Altınordu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.856
 6dc89826-64bb-4e64-a777-61185d1e5b69,Elara Kebap,RESTAURANT,40.970081,37.927212,1159. Sk. No:38/E,Altınordu,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.890
 7de83dd7-4526-487d-a352-f18e158c9a37,Organizerestaurant,RESTAURANT,40.970486,37.931202,organize sanayi bölegesi,Altınordu,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.942
 fdcdf8f2-f5bf-4907-aa49-c921597d231f,Aktaşlar Lezzet Grubu,RESTAURANT,40.967655,37.936939,Karapınar Mah,Altınordu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.903
@@ -352,7 +342,7 @@ b872482f-bb39-4797-baf6-05ca62d4925f,Güzel Ordu Pastanesi,CAFE,40.98526,37.8784
 8ab89c8a-9bb8-41cb-bb9c-ac75c8f7c849,Çarşamba Pazarı,SHOPPING,40.984966,37.876293,,Altınordu,CDLA-Permissive-2.0,Overture|meta,flea_market,shopping>second_hand_store>flea_market,0.758
 531ef63e-95a2-49ae-a368-6f1787ec9f6d,Cihan Lokantası,RESTAURANT,40.985424,37.878929,Yıldız Sk. No:21,Altınordu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.888
 346d9c5f-0f28-435b-b66a-e173616979dd,Soslu Tava,RESTAURANT,40.985432,37.879307,"No:107, Süleyman Felek Cd. Novada AVM",Altınordu,CDLA-Permissive-2.0,Overture|meta,mexican_restaurant,food_and_drink>restaurant>latin_american_restaurant>mexican_restaurant,0.956
-33477c40-442f-41b9-8979-2471a54a93ae,Obb Sanat Galerisi,SIGHT,40.985416,37.879543,"Flo, Zübeyde Hanım Caddesi 6",Altınordu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.818
+33477c40-442f-41b9-8979-2471a54a93ae,Obb Sanat Galerisi,SHOPPING,40.985416,37.879543,"Flo, Zübeyde Hanım Caddesi 6",Altınordu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.818
 58866804-e6e8-43f7-9ee3-5c37cfb52c0a,Cafe Kervansaray,CAFE,40.985428,37.880062,Fabrikalar Sk. No:6,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.994
 e33be1d3-0aa2-4422-a434-e4f129fe292f,Happiness Coffee,CAFE,40.985424,37.880138,Fabrikalar Sk. No:18A,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.839
 e97ed9f5-2b7f-409e-b568-0b7fa1dfad75,Karlıbel Hotel Atlıhan,HOTEL,40.985435,37.880417,Şarkiye Mah.Kazım Karebekir. cd. B.Şehir Belediye arkası No:9,Altınordu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.990
@@ -378,7 +368,6 @@ fed9dab4-e1aa-49d6-b273-bd964cd79c6c,Nane Bistro,RESTAURANT,40.986717,37.879292,
 4380497e-9db5-44dd-8d55-de5fcffe8a4f,Atlantik Dondurma,CAFE,40.986961,37.876518,Uygunluk Sk. No:8,Altınordu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.995
 34ab8722-72d6-4aea-9514-3c658be82bb4,Rella Kafe,CAFE,40.987011,37.878799,"Leke Jean's, Zübeyde Hanım Caddesi 9/A",Altınordu,CDLA-Permissive-2.0,Overture|meta,afghani_restaurant,food_and_drink>restaurant>asian_restaurant>central_asian_restaurant>afghani_restaurant,0.831
 6cd974d0-d9ca-45c8-b74d-80d07f192a30,The Wyspy Hotel,HOTEL,40.98716,37.876427,Süleyman Felek Cd. 31/101,Altınordu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
-2265e6f8-86ad-4d4b-9645-8f69caf362db,Love Sanat Merkezi,SIGHT,40.987156,37.87513,Becelgen Sk.,Altınordu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.732
 abe3dc4d-2af1-44de-9c84-9699cde1a7e5,Cafe Mimino,CAFE,40.98708,37.876202,Sırrıpaşa Cad. No:5,Altınordu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 24546eb2-5a90-4e6d-b444-e5103061387d,Kybele Cikolata cafe,CAFE,40.986923,37.876148,Santral Sk. No:4,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.981
 128ebf77-d3eb-4d65-8e8b-fa54e9ca5465,Fidangör kahvecisi,CAFE,40.987583,37.875919,Becelgen Sk. no:2,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.873
@@ -386,7 +375,7 @@ abe3dc4d-2af1-44de-9c84-9699cde1a7e5,Cafe Mimino,CAFE,40.98708,37.876202,Sırrı
 273b5ed9-3502-489d-b4af-02b8a115c86a,Fincan Cafe,CAFE,40.987274,37.875908,Sırrıpaşa Caddesi 19 Eylül İlköğretim Karşısı,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.995
 b1f0e4a2-796d-4ccd-963b-48cb36003ff5,When Kitchen & Brasserie Ordu,CAFE,40.987328,37.876614,"Düz Mahalle, Süleyman Felek Caddesi No: 31/101 Wyspy Hotel Roof Altınordu",Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.998
 e837b4bf-1cf0-44b5-866a-29bbca427312,Kahve Dünyası,CAFE,40.9874,37.876724,Atatürk Blv. No:84,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.999
-6e25ffce-eb43-4fa6-9bd0-f1718aadb30d,Atatürk Parkı,SIGHT,40.987247,37.877968,Atatürk Blv.,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.804
+6e25ffce-eb43-4fa6-9bd0-f1718aadb30d,Atatürk Parkı,ACTIVITY,40.987247,37.877968,Atatürk Blv.,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.804
 a1254e0f-236d-4ad8-a9cf-0e3862015475,Colombia Coffee Ordu,CAFE,40.988094,37.875938,Atatürk Blv. No:104,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.986
 55ef6fed-3ef9-49df-b385-dc98ecd4a00d,Petrichor Cafe Ordu,CAFE,40.988052,37.87603,Atatürk Blv. No:70,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
 f7a5472f-1458-44ca-8e15-f1cc23c4a0df,Ordinary Us Coffee & Dessert,CAFE,40.988026,37.875896,,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.798
@@ -418,7 +407,7 @@ f9deb737-324e-4595-a126-551c330c535f,Tasbasi Butik Otel,HOTEL,40.993198,37.87466
 6ee1a61b-b0ef-4e3f-b3c5-d8b9e4f7a860,Akamoy Boztepe Otel&Restorant,HOTEL,40.993664,37.854454,Devecik Sokak 20,Altınordu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 166fe527-db8c-41b6-9529-2ddc8ca238fb,Ulugöl CAFE Restorant,CAFE,40.994709,37.847477,ORDU GÖLKÖY,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.776
 f04119f2-6ca3-46fb-8ebd-d51c11f2ca8f,Zeytuni Bistro,CAFE,40.989208,37.857346,"Radisson Blu Hotel, Ordu",Altınordu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-7f3ff427-5c98-404a-82e3-96cc238fae46,Raytapark Ordu,SIGHT,40.989655,37.858276,Boztepe Küme Evler 54/5D,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.953
+7f3ff427-5c98-404a-82e3-96cc238fae46,Raytapark Ordu,ACTIVITY,40.989655,37.858276,Boztepe Küme Evler 54/5D,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.953
 8f9467ba-0370-4ea1-b1ef-37ef44aa705e,Tepe Restaurant,RESTAURANT,40.990574,37.858501,Boztepe,Altınordu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 a1aa293d-fe6c-418b-8d2b-a3d2610f2806,Artı Nirvana Cafe Restaurant,RESTAURANT,40.990795,37.859737,Boztepe Kümeevleri No:100,Altınordu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.973
 641ada46-01b1-4f20-8931-144327e50a79,Panaromik Tepe Cafe Boztepe,CAFE,40.990604,37.858524,,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.755
@@ -441,7 +430,6 @@ b4eee114-0649-4fd4-8931-d017f5333151,Tabyabaşı Balık,RESTAURANT,40.989971,37.
 b58dd1c1-c619-4ff6-8892-55c956a10ca2,Magnolia Cafe Ordu,CAFE,40.989414,37.875042,Magnolia Cafe Ordu,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.790
 c37cab1e-c1ae-4357-9739-976ff93b4313,Cafe-in,CAFE,40.989475,37.875256,Atatürk Blv.,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.938
 170c8bcd-0978-44d2-9e05-a866d139f190,Cumhuriyet Plajı,SIGHT,40.981823,37.960163,Cumhuriyet Mah,Kabadüz,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.851
-79498cdc-f731-454f-91e9-a018c3e53cd7,Asarkaya Milli Park,SIGHT,40.986012,37.881622,,Altınordu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.718
 e37fcfce-59bf-4806-bd58-f2ef68794a36,Ordu Sahili,SIGHT,40.985619,37.882168,,Altınordu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.735
 367d3a78-a1cb-46f9-a0c1-7ad7973db578,Ordu Plajı,SIGHT,40.984299,37.913883,,Altınordu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.916
 994efb40-bb88-4c10-9178-f5d90c97a3df,OrduGardenyacrc,RESTAURANT,40.984234,37.917362,Org. İbrahim Fırtına Bulvarı 86,Altınordu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
@@ -466,7 +454,7 @@ dd0ee51f-2a0e-49ac-98a0-a63a7913252d,Mostar Köprüsü,SIGHT,40.983761,37.900909
 26ff67cb-ddf2-409d-a110-cfcda387475c,Mavi Bayrak Beach,SIGHT,40.985077,37.897369,Cumhuriyet Mahallesi,Altınordu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.708
 ab2c0335-045f-4537-b9c6-1935a9527f84,Fatsa Sahil,SIGHT,40.984921,37.885567,,Altınordu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.830
 3e5aa51e-4bd7-4d92-94d8-33028945d489,Ordu Sahil,SIGHT,40.984875,37.884018,,Altınordu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.723
-53362698-e524-4a7b-a3ea-8c6245b7c7d2,Ordu Atatürk Heykeli,SIGHT,40.984928,37.88345,,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.848
+53362698-e524-4a7b-a3ea-8c6245b7c7d2,Ordu Atatürk Heykeli,ACTIVITY,40.984928,37.88345,,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.848
 73ef13c6-a49c-4abb-aac2-729d6294964e,Fatsalı Hünkar Restoran,RESTAURANT,40.984852,37.882549,Atatürk Bulvarı 130,Altınordu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.917
 3c484517-91c2-4b84-8fb1-1df85b8e3eb9,La Pace Cafe,CAFE,40.984924,37.882168,,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
 7945c2d6-5350-4357-b09c-aee48cd77fd1,kingofpizzarella Ordu,RESTAURANT,40.984741,37.881378,şarkiye mh kazım karabekir cd,Altınordu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.967
@@ -530,7 +518,7 @@ b63c2748-bf26-4268-bd80-aa4755f5708b,Bakir Demlik Cay Salonu,CAFE,40.982441,37.8
 56f4c76a-fc2a-45e2-ac32-680a4be33f7e,Güney Kasap,RESTAURANT,40.982059,37.887234,Sanayiciler Cd. No:4,Altınordu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.879
 a579f5f7-baff-4ae3-8f12-f4661829add5,Red Restaurant,RESTAURANT,40.982124,37.889111,Bahçelievler Atatürk Blv No.173 /A,Altınordu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 a85ad0f8-3393-427b-aa24-4d5f6a71e524,Gaziantep Aşiyan Künefe,CAFE,40.982006,37.889713,277. Sk.,Altınordu,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.924
-eb880750-c172-4f36-978a-6b4ba206aed6,Ordu Sanat Galerisi Sanatsal Çerçeve - Tuval,SIGHT,40.982334,37.890789,284. Sokak 3,Altınordu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.858
+eb880750-c172-4f36-978a-6b4ba206aed6,Ordu Sanat Galerisi Sanatsal Çerçeve - Tuval,SHOPPING,40.982334,37.890789,284. Sokak 3,Altınordu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.858
 999d0ddd-6557-48e1-9e31-ccc93a862912,Liva Cafe,CAFE,40.982529,37.894199,Fatma Alkan Sk.,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.944
 cf16762c-dc4d-43f1-a2a8-a43acf6bc72e,Nevizade Restoran,RESTAURANT,40.981991,37.898556,291 nolu sokak no:10,Altınordu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
 b0046f4d-e4f5-48b3-bf76-5d892c309631,Ref Inn Hotel,HOTEL,40.981808,37.898643,291. Sk. No:10,Altınordu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
@@ -548,7 +536,7 @@ c1331eb9-9b13-4d26-bc80-0d3895ab9715,Chocolabs Ordu,CAFE,40.983551,37.911434,822
 d284b414-7d12-4cb2-b02c-fda6d7b75825,Biber Cafe Restaurant,RESTAURANT,40.98291,37.914219,Yavuz Sultan Selim Cd. no:61,Altınordu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.955
 d50bf13b-4860-44a0-90b2-dc97cfea56e4,Ordu Plaj Sahil,SIGHT,40.982365,37.909592,367. Sokak,Altınordu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.730
 51a8c546-a520-42ba-a688-08bb6f857ae6,Lumos Coffee & Croissant,CAFE,40.982197,37.909863,803. Sk. No: 15/A,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.915
-1d39ca7c-7b0f-477c-8699-2c7f63d21aad,Kör Nokta,SIGHT,40.982018,37.918087,Altınordu Durugöl piknik mesire alanı,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.805
+1d39ca7c-7b0f-477c-8699-2c7f63d21aad,Kör Nokta,ACTIVITY,40.982018,37.918087,Altınordu Durugöl piknik mesire alanı,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.805
 1805a6f6-3efa-4895-be02-c560412a969a,Şampiyon Kokoreç,RESTAURANT,40.98315,37.925774,Soya Cd. No:135,Altınordu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.944
 400b8723-7070-4cc5-914f-d98cf09c2462,Ordu Tıkıloğlu Restoran,RESTAURANT,40.98328,37.925011,Org. İbrahim Fırtına Bulvarı 8B,Altınordu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.836
 c6a39506-9711-4043-a00a-21c241a803c8,Aktug Hotel,HOTEL,40.983692,37.920216,Sabahnur Malatyalıoğlu Cd. No:2,Altınordu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
@@ -565,7 +553,7 @@ f15f5d05-0ba3-4710-b07c-53dbe4721a8a,Elif Pide Salonu,RESTAURANT,40.978867,37.92
 6bc5af5e-e02f-4d2f-8b06-3b6e8a12b471,Path Coffee Roastery,CAFE,40.979687,37.926685,1085. Sk. No:18,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.890
 6801f53a-2f84-454f-b9c6-09e946ebf482,Rain Cafe and Nargile,CAFE,40.979992,37.919048,gökkuşağı sitesi sosyal tesis,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.939
 a269e425-9d66-4417-9cd2-9989dcfbd34d,Karadeniz 52 Tost ve Çay Evi,RESTAURANT,40.980564,37.918419,Akyazı Mah. Rus PAzarı,Altınordu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.754
-87622570-f038-4d93-9e49-c5d8a84af9b9,Durugöl Park,SIGHT,40.980381,37.927139,,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.952
+87622570-f038-4d93-9e49-c5d8a84af9b9,Durugöl Park,ACTIVITY,40.980381,37.927139,,Altınordu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.952
 a5c4e580-7063-4edb-be33-510482516a6d,Akdamak Kahve ve Kuruyemiş,CAFE,40.981033,37.928909,Soya Caddesi 91A,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.931
 279429c9-71f5-4c10-90b4-9aa77c10bd13,Rumay Cafe ,CAFE,40.981667,37.925087,15 Temmuz Milli İrade Caddesi 84,Altınordu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.757
 044e9e7a-065b-40fe-a7c6-f76908e82d08,Vira Cafe,CAFE,40.981281,37.913376,844. Sokak 32,Altınordu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
@@ -659,7 +647,6 @@ ce001cc2-a24c-4ccf-8a2e-5922febfaa84,Akçay Çay Evi,CAFE,40.975922,37.89072,Zü
 f3e766c5-340a-4eb0-92d9-8ead52dfe196,Mercan Balik Evi Ordu,RESTAURANT,40.974571,37.891258,Zübeyde Hanım Caddesi 162B,Altınordu,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.975
 695c7747-a2b2-4583-a6a4-b06c957c37d9,Arsima Pastanesi,CAFE,40.974689,37.891125,Zübeyde Hanım Cd. 160/b,Altınordu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.956
 49073155-79ee-4ca7-9dae-4a00f09e13f7,Namlı Sarıyer Kır Pidesi,RESTAURANT,40.974895,37.890884,Zübeyde Hanım Caddesi 156,Altınordu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.951
-dc25b884-37d7-4cca-9a3f-5b9851f833aa,Turnalık Yaylası Ablaktaşı Kanyonu,SIGHT,40.975399,37.890297,,Altınordu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.704
 82c2b360-02fd-4d58-9816-3db6abe5d7cc,Mardin Kebapçısı,RESTAURANT,40.975239,37.895893,Ferhat Yılmaz Cd. 6/a,Altınordu,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.978
 5af8cae4-f6f3-48db-91c1-e41ec86c2d06,Resume Çiğköfte Şirinevler,RESTAURANT,40.974987,37.897835,Ferhat Yılmaz Cd. No:27/A,Altınordu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.919
 9db3dea4-01e0-4f31-83ce-690cd7efba16,NİDO Dondurmaları ORDU,CAFE,40.974846,37.904434,903. Sokak 19/a,Altınordu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.796
@@ -735,7 +722,6 @@ d2e19c71-ec48-4b46-bae5-4395a05a8964,Efirli Plajı,SIGHT,41.021667,37.822495,,Pe
 267356fb-500f-40ef-b8fe-351ca2b947e0,Efirli Oba Kamp,HOTEL,41.023235,37.815231,Efirli,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.927
 eaca270c-5544-493f-a727-ee0dd8599f56,Kaptan Cafe,CAFE,41.023254,37.811527,Efirli,Perşembe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.844
 2342311d-2b83-4371-9d0f-d1091bd537fc,Aktürk Beach,SIGHT,41.027836,37.805595,Dereiçi Mahallesi Gürsoy Fabrikası Arkası,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.936
-cb36ad7c-8966-4545-baa5-e718f2ab9775,Akise Tepesi,SIGHT,41.029125,37.602093,,Perşembe,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.740
 681b99cd-bb95-4c9d-9c00-dfc351211077,Fatsa Yıldız Apart & Otel,HOTEL,41.029278,37.584984,Bolaman Mahallesi No:21 Bolaman / Fatsa - ORDU,Perşembe,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.876
 a9fdf168-505f-4bc2-a32d-ccf173f063d5,Bayburtlu Et Restaurant,RESTAURANT,41.028812,37.573753,Bolaman Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.939
 f13ee7c6-044e-44ec-bce6-324717a6d51a,Ordu Bolaman Erol Kasap Et Mangal,RESTAURANT,41.028843,37.57386,Ordu-samsun otoyolu,Perşembe,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.805
@@ -747,8 +733,8 @@ c7c4c4a7-23cc-4ed8-b989-80c8243677fe,Alya Beach,SIGHT,41.030029,37.575832,Güver
 1ba40071-0512-4611-87aa-7f69f4d428f4,Köfteci Egemen Kasap Bolaman,RESTAURANT,41.025318,37.558754,,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.771
 3fba6ab2-6b46-4e34-88ce-f3cc2fba86d8,Hayri Dayi Et Restaurant,RESTAURANT,41.025612,37.559803,Fatsa,Perşembe,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.852
 90907bd3-7ab7-4b39-ae99-4ac8e5a8c3a6,Kokoreççi Hasan Usta,RESTAURANT,41.025955,37.517994,Sahil caddesi No 690,Perşembe,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.984
-d1a86100-2d06-45f6-b8f9-6de877de0997,Kurtuluş Parkı,SIGHT,41.02573,37.512859,Kurtulus Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
-f56e8eab-5c1a-4c7e-a901-8d0cf3d63e02,Kurtuluş Parkı,SIGHT,41.025829,37.512802,Kurtulus Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
+d1a86100-2d06-45f6-b8f9-6de877de0997,Kurtuluş Parkı,ACTIVITY,41.02573,37.512859,Kurtulus Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
+f56e8eab-5c1a-4c7e-a901-8d0cf3d63e02,Kurtuluş Parkı,ACTIVITY,41.025829,37.512802,Kurtulus Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
 ed8f3c93-6a02-4deb-8963-502f344cd114,Asos Kafe,CAFE,41.026516,37.511608,,Perşembe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.791
 e2073b92-4be2-440f-94d6-988c57aa71a5,Çekek,SIGHT,41.027153,37.51144,,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.715
 c6918ff8-3d8d-46cf-83a8-a4cc36584052,Kevser Çay Evi,CAFE,41.032066,37.499577,,Fatsa,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.870
@@ -785,7 +771,6 @@ fc421f4f-72b3-4b9d-98e2-16110befd1a9,Ömür Çayevi,CAFE,41.030144,37.501652,"Ö
 40952c76-7548-44a3-a81e-2e5b0c5ea92c,Domino's Pizza,RESTAURANT,41.028919,37.503811,"Dumlupınar Mh. Reşadiye CD no:82/A, Reşadiye Cd. No : 82/A",Perşembe,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.984
 4cb48a6f-1f66-42b9-88af-0f1d201c49e5,King Of Pizzarella,RESTAURANT,41.028912,37.503448,"Dumlupınar Mah. Reşadiye Cad, Rıza Dizdaroğlu Sk. 32//A",Perşembe,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.957
 fd929f67-e03e-40f1-8eab-27eb4bfbe502,1Ben Special Chocolate,CAFE,41.028786,37.501652,Şehit Muhittin Akyol Sokak,Perşembe,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-7562c8ca-2e32-4cc2-ab16-17871a850ac6,Ozel Sevgi Kultur Ve Sanat Evi,SIGHT,41.029263,37.502251,Dumlupınar Mh. Reşadiye Cd. Pk:52440 Fatsa/ordu,Perşembe,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.912
 e1e9de2a-5486-4888-af2c-9252681c2f45,Cafe Name,CAFE,41.029396,37.502922,Reşadiye Cd. 66/1,Perşembe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.831
 533c9983-1732-4002-9dc1-cedf2c56b601,Tadım Sac Döner,RESTAURANT,41.029301,37.500492,Hulusi Baba Cd.,Perşembe,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.939
 6bf37d4e-4656-47e9-a1d2-6d18db75103c,Mado,CAFE,41.028782,37.49976,Sakarya Mahallesi,Fatsa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
@@ -795,7 +780,7 @@ e1e9de2a-5486-4888-af2c-9252681c2f45,Cafe Name,CAFE,41.029396,37.502922,Reşadiy
 a2c882ac-2789-4920-86f0-4a42a89275f9,Antik Restoran,RESTAURANT,41.029747,37.501389,Plevne Cd.,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.865
 0b487b0c-18fd-444c-8277-96219fb62031,Köşem Restoran Ismail Usta,RESTAURANT,41.029999,37.498589,"Hacı, Hulusi Baba Cd. no:21",Fatsa,CDLA-Permissive-2.0,Overture|meta,health_food_restaurant,food_and_drink>restaurant>special_diet_restaurant>health_food_restaurant,0.939
 67047681-6fc1-4216-abda-c227b94579b7,Ara Kitap Kafe Kültür Sanat,CAFE,41.030098,37.500572,AYDINLIK SOK. KİĞILI ARKASI,Perşembe,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.960
-f658cf76-a01a-4042-b77c-2ec014136bc1,Kavlan Ağacı,SIGHT,41.030159,37.501152,MKP Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.890
+f658cf76-a01a-4042-b77c-2ec014136bc1,Kavlan Ağacı,ACTIVITY,41.030159,37.501152,MKP Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.890
 49b7fc7c-b3fb-4d2f-9fdd-2dec5f41f27d,"Ordu, Fatsa, Dolunay Sahil",SIGHT,41.030159,37.501152,Fatsa,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.752
 58289940-2536-4159-b947-607060c9965a,Öküz Burger,RESTAURANT,41.03027,37.500999,M.k.p Mah.,Perşembe,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.770
 cc69c45f-9489-4f77-9619-b990bd8fdb00,Meşhur Yalıköy Köftecisi Kudret Usta,RESTAURANT,41.030415,37.5009,Meydan Sokak no:21,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.910
@@ -820,10 +805,9 @@ a5614252-416e-4729-99c3-a731ec995c95,Cafe Sarmasik Fatsa,CAFE,41.028023,37.49758
 c0ce51d1-5294-4bba-8dc4-7f1095a908df,Fatsa Sahili Çay Evi,CAFE,41.028564,37.508312,Dumlupınar Mah,Perşembe,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.919
 d0bc81df-9b52-44c2-8194-c934237a43d0,Battibalik,RESTAURANT,41.028053,37.509686,"Kurtuluş mahallesi, Sahil caddesi No:303 Balıkhane",Perşembe,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.941
 e907111e-a19a-4f66-9c00-16c6664988d1,Kısmet Pastanesi,CAFE,41.028118,37.507568,Reşadiye Cd. No:133,Perşembe,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.892
-fc0813b3-acf6-4929-baa5-9c5759cd2733,Fatsa Sahilde,SIGHT,41.028011,37.508442,,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.847
+fc0813b3-acf6-4929-baa5-9c5759cd2733,Fatsa Sahilde,ACTIVITY,41.028011,37.508442,,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.847
 0bf3202b-0d7a-462c-9b25-89417769d16c,Sahil Restoran,RESTAURANT,41.027882,37.508163,,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
 2a5c1d2a-1374-4fd3-aaa4-d8717dd4d181,Serince İlhan Cig Kofte,RESTAURANT,41.027637,37.508564,,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.765
-d3a98067-2fd2-4088-be17-c3ee91781cfe,Fatsa Kule,SIGHT,41.027523,37.51033,Mustafa Kemal,Perşembe,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.884
 ab745544-ee45-475f-8a9b-50f7e841736f,Orkipa Pastaneleri 2,CAFE,41.027618,37.508106,Reşadiye Cd. no:143/A,Perşembe,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.954
 1ae39837-94a8-441d-a71e-338708e48adf,Ballıoğlu baklava,CAFE,41.027439,37.502628,Reşadiye Cd. No:21,Perşembe,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.852
 f497d4b2-32ff-4da6-ab14-a93334fd9baf,Kader Pastanesi,CAFE,41.027214,37.510578,No:570-A Sahil Caddesi,Perşembe,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.991
@@ -839,7 +823,7 @@ bd97ad72-36a6-4cd5-ae0c-6ff5485559c2,Meshur Corbaci Fatsa,RESTAURANT,41.020782,3
 78ea01b6-f6f2-4175-9ebe-9d93cbd57199,Fatsalı Hünkar Restoran,RESTAURANT,41.021004,37.532242,Konakbaşı Mah. Sahil Cad. No:802,Perşembe,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 6be219cc-98f0-4dce-ad5f-affaf2e56aef,Asma Köprü,SIGHT,41.024261,37.521629,Taşlıca Mahallesi,Perşembe,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.742
 eba7af6e-7e32-44b5-9cd1-9c8cdf873815,Fatsa Sahil Kumsal,SIGHT,41.024986,37.521938,,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.871
-fc1b68cc-1958-49a0-938f-20564efa0394,Bolaman Park,SIGHT,41.022659,37.545486,Bolaman,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
+fc1b68cc-1958-49a0-938f-20564efa0394,Bolaman Park,ACTIVITY,41.022659,37.545486,Bolaman,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
 ed355206-d58f-4ab9-88d0-02daf9f90dc2,Istasyon Kahvalti,RESTAURANT,41.021992,37.529465,Fatsa-Ordu karayolu üzeri 1.km Shell Akaryakıt istasyonu içi,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.989
 55c7c959-964b-43cd-97ab-35ffcb690bca,Deniz Balık Evi,RESTAURANT,41.021606,37.542805,D010 No:59,Perşembe,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.953
 bef43daa-5953-42a4-ac06-6a80469a3de1,Yalıköy Köftecisi Mehmet Ay,RESTAURANT,41.021717,37.543186,D010 No:59,Perşembe,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.877
@@ -860,7 +844,7 @@ bbc15212-d225-4c84-8534-ef1291a34abb,Örnek Kasap ve Ocakbaşı,RESTAURANT,40.98
 eac6c0a2-e4d5-4cb4-ab1f-80fc1f0e64d7,Şafak Ocakbaşı,RESTAURANT,40.985512,37.16143,,Kumru,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.821
 5540949b-c33d-4084-bbfd-3153cfe371e1,Tekkiraz Onur Ocakbasi,RESTAURANT,40.985458,37.161423,Tekkiraz Unye,Kumru,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.875
 5ec4de5a-2fc1-4af2-aac9-073abbe65170,Kazankaya Şelalesi,SIGHT,40.997433,37.160004,Caybasi,Kumru,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.790
-8e2103e0-7b68-4893-8e67-9ec927e4f194,Afrikalı Sanatsal Çerçeve Galeri,SIGHT,41.030243,37.290794,Elmalık Caddesi 32,Ünye,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.860
+8e2103e0-7b68-4893-8e67-9ec927e4f194,Afrikalı Sanatsal Çerçeve Galeri,SHOPPING,41.030243,37.290794,Elmalık Caddesi 32,Ünye,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.860
 2c722636-9261-4461-b995-080f8d50009e,Avrasya New Cafe,CAFE,41.033531,37.485435,Evkaf Mah,Fatsa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.900
 29ca2800-80c7-45b3-80ed-92e31fe317ee,Ewimm Cafee,CAFE,41.032375,37.489517,Yavuz Selim Caddesi 24A,Fatsa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.871
 24fb0dc3-0710-40f4-a6b0-e98d251dcd38,Big Boss Cafe,CAFE,41.032543,37.48925,Yavuz Selim Cd.,Fatsa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.935
@@ -887,7 +871,7 @@ b4ca5f4e-6700-459f-a426-9a614cd6c6cb,Zeytin CAFE Restoran,RESTAURANT,41.037117,3
 b643d6f9-fed5-4230-bd7e-98c7053e0243,Fatsa Lunapark,ACTIVITY,41.036522,37.493782,Elekçi Köprüsü,Fatsa,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.923
 94eee6c4-b942-44de-a78a-4e192cccbf8b,Çerkezler Tepesi Bungalov Otel & Restaurant,HOTEL,41.039188,37.489773,Sahil Caddesi 160,Fatsa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.877
 e43121af-d0de-4433-897c-05303cfd6722,BY Dondurmacım - BYDO,CAFE,41.044521,37.48196,Aslan Aydınlık Caddesi 23A,Fatsa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.787
-c2d88494-00a0-48bb-8f32-ef2f5bee6a32,Vizyon Park,SIGHT,41.046043,37.47831,Evkaf Mah,Fatsa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.919
+c2d88494-00a0-48bb-8f32-ef2f5bee6a32,Vizyon Park,ACTIVITY,41.046043,37.47831,Evkaf Mah,Fatsa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.919
 8027efb1-59ef-466d-8c94-d520e04a59f4,Kahv6 Cafe Fatsa,CAFE,41.045368,37.483482,Arslan Aydin Cad Fatsa,Fatsa,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.877
 62209ac7-ae84-44c3-88f8-25299c1e827f,Iceberry Fatsa,CAFE,41.045231,37.483887,,Fatsa,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.834
 a1e4b0cb-db84-465d-8843-de4c3188a1e8,Fatsa Dolunay Plaj,SIGHT,41.045174,37.483353,,Fatsa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.755
@@ -919,7 +903,6 @@ bba57e37-de79-4c2b-9ce3-eed50c193c94,Ordu Perşembe Çaka Sahili,SIGHT,41.050922
 1f82a03c-809c-404c-ac82-b485174a2183,Yalıköy Sahili,SIGHT,41.058067,37.614792,,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.954
 eed5c550-be10-402f-847a-8fd207133aa3,"Ordu, Fatsa, Dolunay Sahil",SIGHT,41.052856,37.475124,Fatsa,Fatsa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.752
 36adfba1-7268-493d-b9bd-932c67923293,Nestade Cafe,CAFE,41.051201,37.478062,Naz Sk,Fatsa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.938
-8c6789d7-f725-480b-b8f1-d3ecb2b0d755,Demas Plaj Cafe & Bistro,SIGHT,41.049171,37.481178,Demas Halk Plajı,Fatsa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.760
 5dba3d2e-89a4-4bb6-bd8b-0e7089b2d953,Uzunkum Plajı,SIGHT,41.048645,37.483044,Samsun-Ordu Yolu,Fatsa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 6ab4209b-d08f-477e-b7b0-317d020f2701,Fatsa dolanay,SIGHT,41.04948,37.475483,,Fatsa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.930
 b671d4ab-2104-4d49-8488-ea9ccbdb54b6,Fatsalı Hünkar Restoran,RESTAURANT,41.054562,37.478516,Dolunay Mah. Samsun Asfaltı Cad. No:209,Fatsa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.988
@@ -952,7 +935,6 @@ fab27326-ceb8-4c44-8b0a-ef61b13cd79b,Sultan Beach,SIGHT,41.076969,37.434109,,Fat
 33f4adf7-9b68-4020-a4b0-6de5b72233e3,Pusula Restoran,RESTAURANT,41.07674,37.435268,Kavaklar Sokak No:45,Fatsa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.911
 300632da-f3d9-47ec-b20b-28d58153a943,Pirpitoğlu Balik Osman'ın Yeri,RESTAURANT,41.07671,37.436687,Devlet Sahil Yolu No:713/A,Fatsa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.920
 db4e6291-fc2c-424c-9904-28435be7945a,Fatsa Mavi Deniz Plaji,SIGHT,41.076645,37.436073,,Fatsa,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.826
-17123fd2-d675-4e3b-b673-fe0a53c7fd7c,Ünye Burunucu Adası,SIGHT,41.076077,37.435192,,Fatsa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.805
 c11d4395-2d37-4de5-999a-3f021c13f674,May Villas Hotel,HOTEL,41.062946,37.194984,Çaloğlu Küme Evleri Sok No:11,Çaybaşı,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin,0.925
 035427fc-5587-47db-b4b0-448d4d1a5670,Bünyamin'in Yeri Kaledibi Cafe Restoran,RESTAURANT,41.09729,37.24279,Aşağı sok No 1,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.903
 2da2e82a-13fe-4c5a-bc2d-9bf832710e00,Kaledibi Et Mangal,RESTAURANT,41.097092,37.242725,,Ünye,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.823
@@ -993,18 +975,18 @@ d4956b6e-8e83-46fe-8d9d-382cca6a72cb,Cadde Alışveriş Merkezi,SHOPPING,41.1244
 1c98a4da-3cf2-4ff4-af45-12afcdc7bd48,Olimpiyat Restaurant Kebap Salonu,RESTAURANT,41.12537,37.284779,Akkuş Niksar Cd.,Ünye,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.947
 af2716b0-ee16-40b4-9825-d085ede37a75,Doubleshot Cafe ve Restaurant,RESTAURANT,41.125599,37.285252,"Mithat Kısacıklıoğlu Parkı, Akkuş Niksar Cd. 59a",Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.932
 c3348505-ee74-4fa9-aa19-fb71167a8267,Loca PlaystatİOn Cafe ÜNye,CAFE,41.125748,37.285702,Stadyum Cd. No:1 Kat: 1,Ünye,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.963
-527107a9-44cd-4461-b051-696742d2804a,Mithat Kısacıklıoğlu Parkı,SIGHT,41.126057,37.285248,Akkuş Niksar Cd. 59a,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
+527107a9-44cd-4461-b051-696742d2804a,Mithat Kısacıklıoğlu Parkı,ACTIVITY,41.126057,37.285248,Akkuş Niksar Cd. 59a,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
 40d2047f-0d7d-499e-86a5-5f5974c82825,Karagöz - Hal Kahvesi,CAFE,41.126163,37.28252,kaledere mahallesi arzanoglu caddesi  gogina sokak,Ünye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.926
 e3eff4d3-2107-4236-9bcb-31a48395c30e,Eren Pansiyonları,HOTEL,41.126114,37.233929,gölevi mah.devlet sah. yolu fakülte yanı,Ünye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.853
 1756826a-84dd-4dcc-8b58-0391eb344e2b,Köfteci Yusuf,RESTAURANT,41.126179,37.28371,Öznur Kartal Cd. No:5D,Ünye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.980
-ad69ff0f-23ce-480f-b81e-af2356cf93c3,Ünye Park Avm,SIGHT,41.12635,37.285801,Sağlık Ocağı Sokak 1,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.897
+ad69ff0f-23ce-480f-b81e-af2356cf93c3,Ünye Park Avm,ACTIVITY,41.12635,37.285801,Sağlık Ocağı Sokak 1,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.897
 13acd19b-17eb-46a3-a301-e1234da53649,Köşem Ocakbaşı - Ünye Köfte & Izgara,RESTAURANT,41.12619,37.286606,Belediye Caddesi 68A,Ünye,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.901
 a3cf9e9d-a4c7-483e-9cb1-99c47e31641f,Sofra,RESTAURANT,41.126255,37.286896,Belediye Caddesi 25A,Ünye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.863
 c68d1a5b-dc21-4d8b-902a-5aed67430c5c,Ustam pide ve kebab salonu,RESTAURANT,41.126495,37.288605,Hükümet Cd.,Ünye,CDLA-Permissive-2.0,Overture|meta,eastern_european_restaurant,food_and_drink>restaurant>european_restaurant>eastern_european_restaurant,0.797
 9d1cf7ec-100f-4b30-80d1-d5de1b7a9869,Adresim Kafe,CAFE,41.126553,37.284576,15 Temmuz Demokrasi Meydanı,Ünye,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.766
 d6a5f12a-bb4b-4a7a-8a21-29299a8898c1,Komagene Ünye (Teb Bankası karşısı),RESTAURANT,41.126858,37.288067,Akkuş Niksar Cd. No:5 D:b,Ünye,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.878
 97d6dfa4-19d1-4078-a661-ae6432551387,Yıldız Çay Evi,CAFE,41.12693,37.286369,Cengiz Topel Cd. no:14/b,Ünye,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.778
-e8aefd2e-6db2-4794-994b-0501a370ed26,Gogina Park,SIGHT,41.127014,37.281475,Çınarlık Caddesi,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.958
+e8aefd2e-6db2-4794-994b-0501a370ed26,Gogina Park,ACTIVITY,41.127014,37.281475,Çınarlık Caddesi,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.958
 132f6cff-8d07-40bc-b253-d2f7c0a9ef3d,Gurcuoglu Pastanesi Carsı,CAFE,41.127159,37.288334,Hükümet Caddesi,Ünye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
 7b738ddb-0a87-4766-b951-e1b57368a3bf,Sarıoğlu Çay Evi,CAFE,41.127502,37.286373,"Soysal Cami, Soysal Cami Sokak 5",Ünye,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.801
 9bb22edf-5a00-47db-8060-bf923557728f,Soylu AVM Ünye,SHOPPING,41.127502,37.286224,20 Temmuz Cd. No:17,Ünye,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.714
@@ -1016,7 +998,6 @@ ac5039fb-c99f-4f23-9ae1-42616206c0ad,Pump Coffee,CAFE,41.127632,37.288342,Beledi
 77ac9550-586d-4d98-8f86-0274c1958b8a,Tavuk Dünyası Ordu / Ünye,RESTAURANT,41.127899,37.288399,Kaledere Mahallesi Belediye Caddesi No:,Ünye,CDLA-Permissive-2.0,Microsoft|Overture,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.970
 61dc9c29-ea89-43a6-abbc-834b6bcb3dba,Burger King,RESTAURANT,41.127979,37.288406,Kaledere Mahallesi Belediye Caddesi No: 37/49,Ünye,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
 85603ddb-ade9-4847-8900-7f3fc6da046c,Arap Osmanin Yeri Ocakbasi,RESTAURANT,41.127808,37.286213,"Soysal Cami, Soysal Cami Sokak 5",Ünye,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.839
-a41551d6-8df4-4b83-8590-8d71caa905a3,Yeni Kizilcakese Köy Kozbükü,SIGHT,41.12822,37.282375,,Ünye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.808
 f150d16b-1a6a-4995-b803-0c10dcecbfdb,Onur Ocakbaşı Hacının Yeri,RESTAURANT,41.128189,37.286266,Çınarlık Cd. no:3,Ünye,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.984
 7d466063-5e25-4ae5-aeaa-f374999f036f,Kaptan Balikcilik Balik Restoran,RESTAURANT,41.128063,37.286079,"Orta Cami Karşısı, Orta Çarşı Cd.",Ünye,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.812
 a7008d79-00e0-4f74-8e40-60ca32507e8d,Islak Döner Ünye,RESTAURANT,41.128036,37.287533,Hükümet Cd. No:69/A,Ünye,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.942
@@ -1057,13 +1038,13 @@ a6d76521-8303-40a3-9d24-179e11d6fb25,Çalıkuşu Döner İskender,RESTAURANT,41.
 e6f35652-dfc6-440b-a3ae-2a2b74d75274,Espressolab,CAFE,41.130753,37.285294,Hacı Emin Cd. No:1,Ünye,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.992
 35163eab-0fa3-4061-ba66-6da4af75b275,Kiliç Otel,HOTEL,41.131298,37.285614,,Ünye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.825
 eae6ee04-0c36-46d4-b84d-4dc2409f7b51,Yunus Emre Gaziantep Sofrasi Cafe Restaurant,RESTAURANT,41.131321,37.287155,"no:28, Devlet Sahil Yolu",Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.982
-fe18a546-bd6a-4c3c-91e7-1d5e600fb7c9,Yunus Emre Parkı,SIGHT,41.131302,37.287357,Belediye Cd. 6a,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.941
+fe18a546-bd6a-4c3c-91e7-1d5e600fb7c9,Yunus Emre Parkı,ACTIVITY,41.131302,37.287357,Belediye Cd. 6a,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.941
 920b144d-2962-4884-afe6-deecd775bbde,PineSea Restaurant,RESTAURANT,41.131393,37.287251,Devlet Sahil Yolu No:28,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.888
 13010fb2-e102-43b0-8bc4-e6fb0939ba26,Emrah Usta Pastanesi,CAFE,41.131557,37.28595,Taşbaşı Cd. 1/A,Ünye,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.973
 5be715d5-f38a-4e03-b1d7-a8f25dae5d59,Chocolabs Ünye,CAFE,41.13158,37.285599,Saray Cd. No:3,Ünye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.937
 fa76d175-b034-491d-aab5-fa886b97b9ef,Bella Cafe,CAFE,41.131432,37.286091,Taşbaşı Sokak 1A,Ünye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.904
 affd9667-55e1-4879-9115-6644d021b9c9,Bülent Börek,RESTAURANT,41.131374,37.285618,,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.835
-8fdfa50e-dad2-4c8e-80b9-4f09d93b1e80,Ünye Atatürk Parkı,SIGHT,41.131393,37.282497,ünye sahil atatürk parkı,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.864
+8fdfa50e-dad2-4c8e-80b9-4f09d93b1e80,Ünye Atatürk Parkı,ACTIVITY,41.131393,37.282497,ünye sahil atatürk parkı,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.864
 01deaee7-f6c7-40ab-b938-3b076f75d28f,Karadeniz Sahili Ordu Sahilinde,SIGHT,41.131393,37.282497,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.781
 a9e1da39-1d74-46bc-a238-ae5bf8767481,Kahve Ateşi Ünye,CAFE,41.13237,37.286922,Devlet Sahil Yolu No:32,Ünye,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.982
 ee1e8ca5-cf11-4816-aef2-ebc33682114e,Ünye iskele restorant,RESTAURANT,41.132309,37.287067,,Ünye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.896
@@ -1075,7 +1056,7 @@ d68c57bf-16f4-4e39-874d-39eb90332096,Akçay Tarihi Köprüsü,SIGHT,41.137547,37
 ddff2cce-88cc-4731-95fa-136d96e12099,Akçay Sahil,SIGHT,41.146751,37.144928,,İkizce,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.811
 a5dfc341-1d23-453c-b1ac-7ed341b16919,Ünye Sahili,SIGHT,41.143646,37.205463,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.759
 78f5da54-677c-4260-ae93-ed0dddcb6fc9,Çiftlik Restaurant,RESTAURANT,41.142334,37.245495,Musa Güven Sk. no:10,Ünye,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.921
-76fd0196-f7e5-44c1-8fce-d59502e1979c,Doğa Park Gölevi,SIGHT,41.143513,37.243042,Doğa Park Gölevi,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.980
+76fd0196-f7e5-44c1-8fce-d59502e1979c,Doğa Park Gölevi,ACTIVITY,41.143513,37.243042,Doğa Park Gölevi,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.980
 433565bf-bf26-4a79-aec7-e99533bca5af,Ünye Sahili,SIGHT,41.1437,37.216019,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.759
 042f79fe-0285-47d5-84ef-5358f2c11e91,Gölevi Camping,HOTEL,41.145527,37.250801,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.783
 0de2d501-8a2e-410e-9c31-c44d3e678134,Ünye Kadınlar Plajı,SIGHT,41.1455,37.246597,Gölevi Motel Yanı,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.808
@@ -1088,10 +1069,8 @@ be6b390e-b901-4621-8c86-d0259c12ae04,Hotel Hasan Bey,HOTEL,41.145523,37.254242,D
 ee95d2c2-9611-424c-b840-7ef7b2d222a3,Lalezar Sea Garden Hotel,HOTEL,41.145416,37.255863,Gölevi Mahallesi Devlet Sahil Yolu No354AA,Ünye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 74d2ac53-f750-4aa1-a977-7f704778a735,Otel Alaaddin Bey Ünye,HOTEL,41.145588,37.255035,Devlet Sahil Yolu No:364,Ünye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.906
 91222da8-8c69-44f3-88af-ce72f71085d8,Yanıklar Apart Otel,HOTEL,41.145641,37.255653,,Ünye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
-7cd72a07-8be3-4618-a1fb-9f7d724715fd,Ayanikola Church,SIGHT,41.146389,37.280628,,Ünye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.733
 8983bbb4-1cd7-486c-807b-30ed69bd6dfb,Uzunkum Plajı,SIGHT,41.144829,37.276691,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.973
 f4a007b2-0e7e-4501-9b53-ba8b4a2f443a,Kardelen Beach,SIGHT,41.144558,37.2729,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.910
-508c311a-16b6-433f-8734-327e65ae70ff,Gülen Plaj Tatil Evleri Ünye,SIGHT,41.144672,37.27618,Atatürk mah.devlet sahil yolu,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.802
 c5805e05-66b7-48dd-b775-59d0e3612fb6,Çeşme Plajı Ünye,SIGHT,41.145058,37.282883,,Ünye,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.833
 c90471cd-5a1c-46d1-9227-39eee8729551,Lumare Restaurant,RESTAURANT,41.144909,37.284901,Bahar Sk. No:8,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.975
 a663a37c-cea5-40f8-b72d-923824a3b4c7,Mavi Marin Cafe Restaurant Boutique Hotel,HOTEL,41.144363,37.28487,Bahar Sk. No:8,Ünye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.967
@@ -1131,7 +1110,6 @@ d68eb4c8-a441-4005-ad68-6411723e66e0,Pasam Et Balik Restaurant,RESTAURANT,41.136
 1f77a99d-a656-46ba-8923-5aabb2cf0e17,Safari Bar,RESTAURANT,41.136414,37.290817,Kısacıkoğlu Sk. No:18,Ünye,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.899
 7621b4cf-04e9-4c07-b0fc-1188258dd097,Saklı Bahçe,CAFE,41.137691,37.292557,,Ünye,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.865
 890d9430-4e43-482e-919b-12055ca1a714,Ünye Cafe Asmalı Bahçe,CAFE,41.137924,37.292614,,Ünye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.896
-636ca180-6105-403e-baf0-7f218dcce428,Lezzet Atölyesi,RESTAURANT,41.138493,37.29269,,Ünye,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.930
 a1117091-9f9c-4b92-958c-7d0ae8165df9,Tadım yemek52,RESTAURANT,41.142212,37.293083,Orkide Sokak 3,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.908
 635ed9f5-5ae8-4f21-984a-327b24105859,OneyDikilitaş Pide,RESTAURANT,41.142513,37.293774,as,Ünye,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.854
 2e03f520-7d1c-4fb6-8d70-78052605b341,Dikilitaş Pide,RESTAURANT,41.142517,37.29353,"No:2, Orkide Sk. Ünye Meteoroloji Md. No:2",Ünye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.885
@@ -1140,7 +1118,7 @@ e84568d9-2b4f-4f11-8fb1-bf9153f1a238,Feneraltı Plajı,SIGHT,41.144764,37.293259
 beff6941-d12a-41f6-9469-cbff5138a68a,Taka balık cafe,RESTAURANT,41.128723,37.288918,,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.994
 c4f462b8-3afe-46b5-a463-55e2015b3d2b,Ünye Atatürk Parkı Restaurant,RESTAURANT,41.128284,37.290108,,Ünye,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.946
 97a3e9fa-cb86-4fc7-89be-4dada314b7cb,Atatürk Parki Sosyal Tesisleri,RESTAURANT,41.12785,37.289837,,Ünye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.822
-63b99b4c-3ea3-470a-92d5-8ac52d697713,Atatürk Parkı,SIGHT,41.126564,37.29023,,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
+63b99b4c-3ea3-470a-92d5-8ac52d697713,Atatürk Parkı,ACTIVITY,41.126564,37.29023,,Ünye,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
 d6940b47-6575-4dd1-9d99-85bd3a105faf,Haşmetlü Restoran,RESTAURANT,41.126354,37.289097,Belediye Cd. 86a,Ünye,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.877
 30eeac08-d28e-4cb2-8808-c83c3422c022,Emirgan Aile Çay Bahçesi,CAFE,41.125999,37.289391,Belediye Cd. 94a,Ünye,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.943
 4c67a5f9-8bb9-4073-89a8-0322e851e676,Meşhur Köfteci Hakki Ustanin,RESTAURANT,41.125427,37.289871,,Ünye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.952
@@ -1181,7 +1159,6 @@ e1b9ea44-71de-40c2-96ee-b20d43546a9c,Yeni Ay Restaurant,RESTAURANT,41.094501,37.
 ccdfd1a2-3c13-49f0-9466-feabcca98a4b,Çeşmeönü,SIGHT,41.095749,37.780167,,Perşembe,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.931
 be19e803-6024-4872-a63f-4afe4a190eaa,Çamburnu Restaurant,RESTAURANT,41.112331,37.775421,,Perşembe,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.944
 01d90917-9666-4bd8-99c3-f6986de94499,Günbatımı çay bahçesi,CAFE,41.11433,37.782425,Fener Sokak 7,Perşembe,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.799
-8c38abd8-e4d3-40f0-a8f9-bcc68e6749af,Çamburnu Feneri,SIGHT,41.115723,37.786049,"Çamburnu Feneri, Kaleyaka, Perşembe, Ordu",Perşembe,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.851
 72d0b468-a2c9-459d-89ab-74502cffd0a3,Yalıgıyısı Kafe,CAFE,41.115662,37.762646,,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.962
 2b9259ec-375f-4f98-bfcf-843521e20837,Çetinkaya Çiftliği Bungalov,HOTEL,41.085831,37.741512,,Perşembe,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin,0.773
 383a3543-79c2-4c65-8c11-fc77b5c00ed5,Ada Bahçe Cafe,CAFE,41.072948,37.772388,23 Nisan Cd. No:13,Perşembe,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.978
@@ -1200,7 +1177,7 @@ e96d487e-5eca-4f0b-952d-5ac4660ae56f,GÜN CAFE CixS DÖNER,RESTAURANT,41.066811,
 dde575b3-b0c9-43d4-a55c-61a0bfc5a3f7,Yılmaz Çay Evi,CAFE,41.066891,37.773022,Meydan Sok,Perşembe,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.784
 1c2952dd-057c-4b06-b099-17364948deeb,Bodi Balık Evi,RESTAURANT,41.067429,37.773098,,Perşembe,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.810
 87a28544-2787-4e78-b135-8f724967c856,Çetinkaya Et Ocakbaşı,RESTAURANT,41.067287,37.772758,Cumhuriyet Cd No13/A,Perşembe,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.953
-d612b9a5-3b75-4f0b-9255-38b7b8b4fbca,Perşembe Çarşı,SIGHT,41.067085,37.773369,,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.949
+d612b9a5-3b75-4f0b-9255-38b7b8b4fbca,Perşembe Çarşı,ACTIVITY,41.067085,37.773369,,Perşembe,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.949
 3226430a-53fe-4e40-9e3a-c9ac9b87cd38,Vona Aile Çay Bahçesi,CAFE,41.067081,37.773289,Köprü Yani,Perşembe,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.898
 18fb183a-00c1-46f3-853d-a84b283609ac,Polen Pastanesi,CAFE,41.067856,37.773411,Bolaman Yolu,Perşembe,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.876
 0c4814f0-c0b7-49f7-8890-31f7d763011f,Liman Pasta Baklava,CAFE,41.067833,37.772522,Cumhuriyet Cd NO16/A,Perşembe,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.939

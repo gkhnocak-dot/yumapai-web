@@ -8,7 +8,6 @@ b6b77b87-830b-4e72-9362-43dadac9cd94,Munzur Vadisi Milli Park,SIGHT,39.357315,39
 399c35c8-6bd4-48c3-bc05-4b6516add1b3,Doga Turistik Otel,HOTEL,39.357155,39.215054,Yeşil Yazı Cd. no:16,Ovacık,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.924
 9bc4e1c3-ea22-45ce-9be7-49108d90265c,Merkez Saray Lokantası,RESTAURANT,39.357346,39.215176,Maraşal Fevzi Çakmak Cd.,Ovacık,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.926
 df12ad2a-c210-42fb-85c6-6155fcfe81f0,Cuba Exclusive Bungalow,HOTEL,39.349636,39.249016,"Sarıtosun Köyü, Ovacık",Ovacık,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.930
-3099e33a-2525-414e-a116-41dfaf2a2a8d,Munzur Vadisi Milli Parkı,SIGHT,39.300747,39.364788,Ovacık-Tunceli Arası,Ovacık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.958
 26b3a85c-0db4-4c3f-8c1e-29086c2318b1,Merlot Cafe,CAFE,39.135399,39.494675,Dersim Ana Fatma Yanı,Hozat,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.959
 dfebf88f-b38d-43a4-8100-0c7e45fd1a79,"Karaca, Hozat",SIGHT,39.133766,39.234974,,Hozat,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.782
 66e54941-61a5-468e-9c3a-59ac500f2867,Sevgi sofrası hozat,RESTAURANT,39.105419,39.223137,Cumhuriyet Cd. No:47/B,Hozat,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.898
@@ -49,7 +48,6 @@ f14d3529-d070-4511-8944-7975c00c09f1,Tunceli Keban Barajı,SIGHT,38.839146,39.29
 d67bd510-30c9-400d-a413-f288d81b006d,Pülümür yeşil vadi  açık hava restaurant,RESTAURANT,39.487335,39.894581,Pülümür yol kenarı,Pülümür,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.967
 2071c17c-a892-40a7-8742-e46837d37e93,Pülümür Kayadibi Restaurant,RESTAURANT,39.471264,39.907894,,Pülümür,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.769
 7f388b5d-9bd1-4018-9a95-3a96311246bf,Germike Termal Otel,HOTEL,39.44603,39.996662,Bozağakaraderbent köyü Pülümür/ Tunceli ,Pülümür,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.835
-9de3c22a-77a3-4efb-894b-234c4937275e,Pembelik Dam,SIGHT,39.083557,39.895374,,Nazımiye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.781
 fa5556b6-a43f-4cdf-b56b-03dd2c1e82c9,"ÇINAR Restaurant AİLE CAFE""",RESTAURANT,39.179428,39.829033,Nazimiye Meydani,Nazımiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.832
 ddd36110-bb2a-4b5d-83c0-e78a03fd0f83,Dereova Şelale Restorant,RESTAURANT,39.261593,39.873852,,Nazımiye,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.826
 d2a36c62-752e-4f36-877a-6dbc5d47daef,Zağge Restaurant,RESTAURANT,39.275093,39.775101,"SuBaşı Mezrası, Küme Evler no:1/1, Büyükyurt",Nazımiye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.918
@@ -98,7 +96,7 @@ dd2b3d0c-8460-4e7b-bcf8-237a8b7083a9,Liman Cafe Restoran,CAFE,39.078415,39.54093
 905233f8-004d-468c-be4b-2ff642779020,Marina İskele Cafe&Restaurant,RESTAURANT,39.08556,39.543495,,Tunceli,CDLA-Permissive-2.0,Overture|meta,theme_restaurant,food_and_drink>restaurant>theme_restaurant,0.915
 1eac4cb7-5936-4138-a5b6-738dc554ab10,Marduk Otel,HOTEL,39.108547,39.554268,Malkoç Sokak 9,Tunceli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.963
 365367d4-e847-4178-b6aa-08d3782bebbb,Mabella Cafe Restaurant,RESTAURANT,39.102314,39.551582,"Mameki parkı, Cumhuriyet Cd. no 36",Tunceli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.928
-3b1d15a6-5af8-43f7-a0b0-e99115a27275,Gole Çetu Parkı,SIGHT,39.102757,39.553661,,Tunceli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.820
+3b1d15a6-5af8-43f7-a0b0-e99115a27275,Gole Çetu Parkı,ACTIVITY,39.102757,39.553661,,Tunceli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.820
 5bcfed56-c61c-40dc-982a-2d771c189fff,Munzur Dogal Oteli,HOTEL,39.10434,39.54464,"mavi köprü yanı, Atıl Uzelgün Cd.",Tunceli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.938
 c27ad7ae-3f37-4649-9ea3-a9c98bb50c8c,Pera Cafe Restaurant,RESTAURANT,39.103981,39.544434,Atıl Uzelgün Cd. No:89,Tunceli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.954
 4f9ce468-89e8-4166-8064-e0ad08ccc655,Munzur Baba Restorant,RESTAURANT,39.103687,39.544613,Karayolları Cd.,Tunceli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.961
@@ -106,7 +104,7 @@ a0e8b8e3-a1c0-4a71-8d6a-ed9f3a3ec65d,Joy Cafe&Restoran,RESTAURANT,39.103401,39.5
 d8d51712-2199-47a1-889b-65119863c491,Mavi Köprü,SIGHT,39.104351,39.545532,Atıl Uzelgün Cd. No:91,Tunceli,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.800
 20da47d8-5890-4189-ae71-a50efb07ff30,Artukbey Camping Otel,HOTEL,39.105259,39.546036,"Mavi köprü Merkez, Atıl Uzelgün Cd.",Tunceli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.899
 ade4ec92-7707-423e-ab56-d567d967aeed,Celal Doğan Restaurant,RESTAURANT,39.10498,39.54575,Munzur Sk. No:8,Tunceli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.927
-bd4f8740-59d4-4fa4-adf0-e6d7e89e363a,Seyit Riza Parki,SIGHT,39.104973,39.54673,Seyit rıza,Tunceli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.933
+bd4f8740-59d4-4fa4-adf0-e6d7e89e363a,Seyit Riza Parki,ACTIVITY,39.104973,39.54673,Seyit rıza,Tunceli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.933
 63735908-d485-4200-a303-2e181db60a91,Reina Cafe,CAFE,39.105396,39.546921,Ovacık Yolu Sk.,Tunceli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.927
 55981401-2729-475f-8ce5-024da3370956,Grand Hotel Şaroğlu,HOTEL,39.104263,39.547142,Behice Boran Sk. No:20,Tunceli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 8603334c-d623-40af-9035-bf9c2a744d19,Kahve Arası,CAFE,39.1045,39.546764,Av. Ali Demir Cd. No:5,Tunceli,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.989

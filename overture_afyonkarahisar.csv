@@ -1,33 +1,26 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
 7d1dad63-8f6c-43b1-8bcf-bfa569f9ab40,Bayramoğlu Gözleme,CAFE,37.869057,29.803284,Sarıkavak köyü dazkırı,Dazkırı,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.946
 71023228-2d56-41d4-89fb-f29ed97073b1,Acıgöl,SIGHT,37.816666,29.883333,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.817
-78da8038-2e0a-49d2-8f71-33be0038c5ff,Acıgöl Kuş Gözetleme Kulesi,SIGHT,37.793697,29.876858,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.790
 fd147a9f-3c8b-4f17-99ce-85d4415beb96,Ulupınar Balık Çiftliği,RESTAURANT,37.753647,29.975237,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.799
 ab1e6b78-81b9-4c79-95a4-16b35c530182,Başmakçı Acıgöl,SIGHT,37.817345,29.928574,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.833
-8b066fb9-342b-4b30-aecf-bf1abf19e235,Acıgöl Kuş Gözetleme Kulesi,SIGHT,37.835205,29.957769,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.800
 2231e00e-3ba0-4fc9-a704-7dc7d9fb6a33,Şahil Cafe,CAFE,38.01178,29.615736,Dagal Meydan,Evciler,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.895
 3539f603-a841-4e58-90de-cc4c3bb85969,Hocalar Pazarı,SHOPPING,38.576641,29.967175,,Hocalar,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.709
 a8e2f506-4c37-457e-8e19-c23a6b1a58ff,Akın Pide Salonu,CAFE,38.577579,29.968657,Cumhuriyet Cd. No:28,Hocalar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.903
-c534766a-ea8e-4f43-a132-8865de9ae3f1,Devlethan Barajı,SIGHT,38.543961,29.981613,,Hocalar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.928
-82e7bfbc-f01c-4bc1-bf59-527fc89180ae,Devlethan Barajı,SIGHT,38.549999,29.9667,,Hocalar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.928
 eaf690b7-262a-4190-990d-b2a1922a4c99,Yavaşlar Barajı,SIGHT,38.531113,29.979433,,Hocalar,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.953
 3e4cd56d-a40e-4955-bace-374aa87a3712,Aksehir'li Pide Salonu,CAFE,38.797009,30.166395,Düzağaç BLD,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.901
 295e85f9-8db4-45ab-8452-94cfd87d14da,Düzağaç Pastanesi,CAFE,38.795937,30.161718,Menderes Blv No:4/1,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.851
 c6f4849c-09ec-45d5-919d-3331a3a8cdb5,Doyum kebap ızgara ve pide salonu,RESTAURANT,38.745724,30.242022,Zafer Cd. No:82,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.911
 6b8d77d3-44f7-47c7-b08b-0025466ae732,Battalbey Çiğköfte / Sinanpaşa,RESTAURANT,38.74556,30.242661,fatih mahallesi zafer caddesi ege eczane karşı çaprazı sinanpasa afyon ,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.923
 4d9eb4dc-07e2-4c77-8d8d-e3089ee0c734,Seyhan Çorba & Izgara Salonu,RESTAURANT,38.74522,30.243666,Zafer Cd. No:33,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.834
-b0bcc898-70e0-4b3e-be0b-9d76c94fbf70,Aydemir Ceylan Parkı,SIGHT,38.745552,30.245903,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
+b0bcc898-70e0-4b3e-be0b-9d76c94fbf70,Aydemir Ceylan Parkı,ACTIVITY,38.745552,30.245903,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
 6c3d1520-b893-4b43-9159-1009058bc9eb,Somuncu Baba Köy Ekmeği ve Simit Fırını,CAFE,38.746677,30.24577,cumhuriyet caddesi,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.900
 77de4380-fb77-47c6-baab-b6e8dc3dd4ea,Aydın Pide Salonu,RESTAURANT,38.746498,30.245619,Yusuf Sk. no:2,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.871
 851d4cbf-a4b5-4489-b9c2-6eff71c285a2,sanver pastanesi,CAFE,38.745979,30.245522,Cumhuriyet Caddesi,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.820
 db51fc36-c5f9-4ffc-9545-6e921f662387,Sinanpasa Akpınar Aile Cay Bahcesi,CAFE,38.743584,30.246002,Akpınar Mah,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.942
 f2b0f306-25ee-4a4b-9179-c467cd7b3cc8,Sinanpaşa Hamamı / Sinanpaşa / Afyonkarahisar,SIGHT,38.74337,30.245085,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.749
-7e4b294a-94b7-4eea-b1cf-929bb165fe06,Düzağaç Akdeğirmen Barajı,SIGHT,38.8181,30.215197,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.818
 f80a6147-6d4c-4074-b4ca-9443f3950f67,Tavacı Pala Dayının Yeri,RESTAURANT,38.984104,30.295141,Kütahya Yolu Bulvarı 35A,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.753
 a9e915c2-ae5a-4c80-b79b-712a16aa7f23,Anıtkaya Köy Fırını Külde Sucuk,CAFE,38.95401,30.346666,Anıtkaya Kasabası,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.970
 af3acf50-d6fb-4fdb-892b-6b37e8c54f14,Coşkun Termal Apart Otel,HOTEL,38.938099,30.499643,"Fatih Mahallesi, Fatih Mahallesi Guncarlar Caddesi No 69 69, D:1",Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
-2e96cae2-04f3-4c41-87f7-4ebaa7aac24b,Gazlıgöl Coşkun termal güler terma,SIGHT,38.938007,30.499666,gazligöl,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.775
-a78cf6d5-4373-4704-b2ac-f119808b31a8,Afyon Gazlıgöl Başak Termal,SIGHT,38.93288,30.495714,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.711
 70f343ad-cfef-4fdd-9432-7eab771827d2,Bedesten Çarşısı Afyon,SHOPPING,38.9328,30.496014,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.703
 ffebd8f5-7fd2-426f-9934-6916f319c55d,GazlıGöl Grand Sönmez Otel,HOTEL,38.93338,30.496807,Atatürk Caddesi 26A,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.988
 79c39986-1a28-4755-9ad5-e869145d2041,Şifa Termal Gazlıgöl,HOTEL,38.936089,30.496475,Gazlıgöl Şifa Termal İhsaniye/Afyonkarahisar ,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,resort,lodging>resort,0.875
@@ -72,7 +65,6 @@ ffa1ca6b-80b0-4053-83ba-1ad905c43637,Cigiltepe Thermal Hotel & Spa,HOTEL,38.8347
 e43f5a37-d410-4f84-bb25-aeca9093453b,Ömer Thermal Hotel & Holiday Village,HOTEL,38.840008,30.415348,Afyon - Kütahya Karayolu 14. Km,Sinanpaşa,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 9d4c9401-15fe-4a4e-b809-0a1665724893,Nazende Restaurant,RESTAURANT,38.839722,30.416115,Ömer Caddesi,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.966
 5b22dcd4-26cc-4d23-8845-81f60ea59e94,Camlitepe Restorant Dinlenme Tesisleri,RESTAURANT,38.791325,30.417849,D650,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,polish_restaurant,food_and_drink>restaurant>european_restaurant>central_european_restaurant>polish_restaurant,0.947
-3155733c-c298-4839-9741-4bb8db90d36f,Commander-in-Chief National Historic Park,SIGHT,38.794258,30.384491,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.714
 2913b7ca-028a-4e3a-94b2-5cf15da2fe5f,Afyon Cumhuriyet Sucuk Döner,RESTAURANT,38.795097,30.389406,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.868
 4a14724b-b73b-40c7-9974-781b9a198996,Cumhuriyet Sucukları,RESTAURANT,38.79493,30.389132,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.822
 20e6095d-a592-4411-b7fd-08d5eaadcb91,Afyon Seripek Dinlenme Tesisi,RESTAURANT,38.793297,30.386105,Afyon-Antalya Karayolu Küme Evler 16,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.985
@@ -175,7 +167,6 @@ e515dece-237b-47a8-a3b2-6a31eafd071d,Ciğerci Ahmet Afyon,RESTAURANT,38.777382,3
 fbcfaf06-c9bd-4c85-b0f2-7b7b671400f8,Guru Anadolu Mutfağı,RESTAURANT,38.779461,30.503376,1341. Sk. No:14,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.974
 5da1ed78-7558-405e-9a20-9e1797b811ce,Muazzam Yaprak Döner,RESTAURANT,38.778557,30.504709,1341 SK B.B.28 NO: 18 C,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.774
 a6d5775c-eec4-4221-9e51-e63fcb3530f5,Köprübaşı Pide ve Lahmacun,RESTAURANT,38.780376,30.509304,Şehit İrfan Sefa Caddesi 22A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.980
-e9d223aa-7a80-4853-8523-7a0a6b9cea09,Nova Palace,SIGHT,38.778214,30.508757,Selçuklu 1504 Sok No 3 Afyonkarahisar Merkez,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.745
 0eef2015-ad35-4c85-b3b7-0a0b10d9e00f,Catch Him! Cafe & Bistro,CAFE,38.7743,30.507799,Hasan karaağaç Mahallesi turgut özal Bulvari izmir yolu 3. km,Afyonkarahisar,CDLA-Permissive-2.0,Microsoft|Overture,cafe,food_and_drink>casual_eatery>cafe,0.966
 e37e8f22-d1e6-4a33-848d-125422a99388,Begonvil cafe,CAFE,38.773129,30.508017,6. Sokak,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.956
 b9a35d84-9861-437c-aa1d-fc3d9e544658,Afyon Konağı,RESTAURANT,38.7719,30.509369,59 Sok No:1,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.943
@@ -190,7 +181,7 @@ f55a4769-fbcf-407a-a082-a3510a246745,Safran Termal Hotel,HOTEL,38.764984,30.4698
 eea1e9b2-7db2-4b73-a4ff-60c1dae7b52d,aliakokorec,RESTAURANT,38.757294,30.483374,Osman Gazi Caddesi 9,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.756
 fdb20b33-717a-4411-a53e-b2e074ef039c,Nane Pide Ve Lahmacun Salonu1,CAFE,38.761215,30.483133,afyon,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.913
 67699476-8de7-4df4-97e1-56396e7c3392,Erkmen Taş Kafe,CAFE,38.758503,30.482813,Hacı Baba Sk.,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.764
-6a154bce-f386-4530-a5d2-96c2b8170dca,Erkmen Şelale Parkı,SIGHT,38.757164,30.483427,Erkmen Kasabasi,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
+6a154bce-f386-4530-a5d2-96c2b8170dca,Erkmen Şelale Parkı,ACTIVITY,38.757164,30.483427,Erkmen Kasabasi,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
 c219bcd5-1571-401b-866a-a9e358f1b24b,Gölbaşı Teras Restoran,RESTAURANT,38.752682,30.488621,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.894
 8975159c-a565-41e2-a5b4-024b7c1bf5aa,Yüzbaşı Agah Efendi Şehitliği,SIGHT,38.69632,30.501507,Büyükkalecik BLD,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.953
 a88c99f8-5a42-40f3-8b16-b9d82f34e8ed,Kocatepe Şehitliği,SIGHT,38.655823,30.469109,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.967
@@ -222,10 +213,9 @@ f2975ce7-86d5-4aea-a735-347890c4de2c,Adalya Dinleme Tesisleri,RESTAURANT,38.5474
 3f8faed0-f9e1-4ac4-944b-f61fad56ad75,afyon sandıklı akdağ milli parkı,SIGHT,38.46175,30.263494,sandıklı,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.951
 6707b34e-1f1c-454d-a7c0-23565f37e400,GUA Coffee Company Sandikli,CAFE,38.461311,30.260941,M. Kemal Cd. No:24,Sandıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.887
 f980f344-249c-4cf3-a32e-de67fac9196a,Dudağaç Göleti,SIGHT,38.465199,30.266342,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.824
-c52ad722-a77e-490b-aa99-51273397143d,Kuşadası Gazibeğendi Tepesi,SIGHT,38.4617,30.268829,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.827
 61dba0a4-8a35-4f17-8bcc-e8ecdb0ce494,Izer cafe nargile,CAFE,38.463196,30.267838,Karagöz Sk. no:98,Sandıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.938
 4a0d0b82-b9ea-4d4f-8f1b-39e8557d1808,Bayramefendi Osmanlı Kahvecisi Sandıklı,CAFE,38.461155,30.266771,Sakarya Sokak 6,Sandıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.974
-64495ea1-94c0-4718-a920-0e8f96bfc14b,Cumhuriyet Parkı,SIGHT,38.460178,30.266415,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.897
+64495ea1-94c0-4718-a920-0e8f96bfc14b,Cumhuriyet Parkı,ACTIVITY,38.460178,30.266415,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.897
 689df39e-17a4-415c-93f7-78d2cdc728b0,Yemencioğlu Tereyağlı Türk Kahvesi,CAFE,38.459507,30.266769,Ece Mah. Zincirlihan Sk. No:5/A,Sandıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.880
 9bd9d403-9cf8-4dfb-9015-7e025b1cce19,Cigkofteci Omer Usta,RESTAURANT,38.461235,30.267727,İstasyon Cd. No:58/A,Sandıklı,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.980
 a5a4b4ad-4805-45e1-b955-564f468712d4,Hocazadeler Alışveriş Merkezi,SHOPPING,38.461082,30.268005,İstasyon caddesi no:71 el Sandeva Tıp Merkezi yanı,Sandıklı,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.974
@@ -241,12 +231,12 @@ c7560916-5963-4079-9c78-72ec304542d2,Ugur Restaurant,RESTAURANT,38.456745,30.263
 c591281a-c117-4a8c-9e8e-98ca797959b1,Patates Ekim Söküm Makinası,RESTAURANT,38.456448,30.264027,Yeni San. Sit. 21.Blok No:38/A ,Sandıklı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.930
 c4533302-58b9-4baa-b520-4003693118a1,Kılıçer Konya Mutfağı,RESTAURANT,38.453659,30.26565,"Dinar Caddesi, Yunus Emre Blv. Girişi",Sandıklı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.962
 7772b346-e6fc-4215-8620-4e8990268d42,Mevlana Pide Salonu,RESTAURANT,38.463005,30.273438,Yunus Emre Blv. No:4,Sandıklı,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.951
-dbd650f3-66e1-404c-8b85-7466e2992e96,Kentpark,SIGHT,38.461151,30.273483,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
+dbd650f3-66e1-404c-8b85-7466e2992e96,Kentpark,ACTIVITY,38.461151,30.273483,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
 af8c5db3-269a-4c7c-830f-ceb1c0685094,Şömine cafe,CAFE,38.461136,30.271688,Yunus Emre Blv. No:56 D:a,Sandıklı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.872
 cc3ffdc3-3011-447b-8079-319b52b0724e,Evin cafe kahvaltı salonu,RESTAURANT,38.461231,30.270809,Meydan Sokak 40,Sandıklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.846
 fdf5495c-7429-4820-ba61-88c53201b61f,Afili Cafe,CAFE,38.461452,30.269722,Mezbaha Cd. No:6,Sandıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.962
 39560269-799d-4bda-a355-a64785db7e0a,Almina Hotel,HOTEL,38.462219,30.270012,İstasyon Cd.,Sandıklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.964
-fe46f79a-723f-4416-92d2-3538a98151c1,Sandıklı Kültür Park,SIGHT,38.461967,30.269949,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.937
+fe46f79a-723f-4416-92d2-3538a98151c1,Sandıklı Kültür Park,ACTIVITY,38.461967,30.269949,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.937
 036168ff-5d52-4b1d-b5b9-3ec9376734a4,Has-El Fırın & Cafe & Unlu Mamuller,CAFE,38.46196,30.269995,İstasyon Caddesi 55,Sandıklı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.817
 174682ba-49e3-4132-9602-a3233c1c50f8,Sandıklı Komagene,RESTAURANT,38.461544,30.272116,dinar caddesi no 42/A,Sandıklı,CDLA-Permissive-2.0,Overture|meta,mexican_restaurant,food_and_drink>restaurant>latin_american_restaurant>mexican_restaurant,0.795
 c8796164-6df6-419a-878a-a2b8823a1687,Lux Karadeniz Pastanesi,CAFE,38.462513,30.270918,İstasyon Cd. No:70,Sandıklı,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.876
@@ -279,8 +269,7 @@ c557c3cd-8b5f-4f6d-a100-7e106f681010,Ekmekçi Kazım,RESTAURANT,38.469124,30.268
 b2b8b8b8-e03a-4049-bf3e-1b79bd678544,Dudağaç Göleti,SIGHT,38.463467,30.338209,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.824
 0a5c199d-d5d2-4ef2-97cf-2846c062af03,taşoluk baraji,SIGHT,38.567783,30.34371,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.741
 5b80300a-10a1-4b99-8187-058c3df4e998,taşoluk baraji,SIGHT,38.592808,30.365652,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.746
-f1a28e69-4c04-4f2e-8c1c-a23cc16d8c8f,Şehit Şüheda Parkı,SIGHT,38.589146,30.370125,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.900
-789043b1-a9ce-49c2-af03-d3682db48fd2,Bininler Kayalığı,SIGHT,38.519939,30.431614,Senir Köyü,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.754
+f1a28e69-4c04-4f2e-8c1c-a23cc16d8c8f,Şehit Şüheda Parkı,ACTIVITY,38.589146,30.370125,,Sinanpaşa,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.900
 fc12270f-ef60-48c6-94fb-6be72f165b09,Koray Usta,RESTAURANT,38.261559,30.38398,Korayusta Nın Yeri,Kızılören,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.978
 3b1af42c-02cd-4f17-a4d1-060cc00b145f,Afyonkarahisar Anıt Park,SIGHT,38.368778,30.192343,,Kızılören,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.757
 50bd4efb-a7fd-4d02-b29e-2f69acb91c00,Hasan Keyff,RESTAURANT,38.370407,30.215231,Sandıklı Sk No:43,Kızılören,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.838
@@ -300,11 +289,9 @@ be13843d-b977-491c-b033-3259b85d6770,Eti Yiyelim Restoran,RESTAURANT,38.447041,3
 6872a4c7-1dc5-45ff-b1eb-e991bf51187c,Afyonkarahisar Sandıklı Da May Termal Otelde,HOTEL,38.431053,30.195753,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.782
 84c4313b-28ff-4172-83a5-9f81d78830cb,Afyonkarahisar Zafer Müzesi,SIGHT,38.432156,30.191954,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.731
 89db0098-8ba3-446e-82df-cf58f530321a,Safran Termal Otel,HOTEL,38.432194,30.19186,Hüdai Kaplıcaları Küme Evler 1,Sandıklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.887
-f9be639a-19e2-44ab-a18b-45f11f11f5db,Sandıklı Hüdai Kaplıcaları Şifa Şelelesi,SIGHT,38.433811,30.181894,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.751
 55e30d59-b3f7-42bc-a52a-b62a722ee610,Hüdai Cafe-Restaurant,RESTAURANT,38.434063,30.183283,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.892
 23c5d050-f7ed-442a-9243-ca1a1bdbf823,Şifa Cafe,CAFE,38.432968,30.184246,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.922
 7d370339-e9a5-4579-9254-d60b7fe9aa61,May Thermal Resort & Spa,HOTEL,38.432339,30.184307,Hüdai Kaplıcaları Küme Evler 4,Sandıklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.944
-569de134-ae17-4efb-819f-84d49c795060,Afyon Sandikli Termal.....,SIGHT,38.435665,30.182892,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.791
 5856cbe2-dbcf-4692-85b3-978fdb7e1e13,Thermal Park Otel Keyif Teras,HOTEL,38.436909,30.195805,,Sandıklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.809
 53274f6e-1803-4ae0-a89b-937168583c40,Sandıklı Thermal Park Resort Spa & Convention Center,HOTEL,38.437187,30.195778,"Hüdai Kaplıcaları Mevkii, Sandıklı",Sandıklı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 30aab4b5-1d1c-4b3b-af64-7ba9b70cae45,Afyon sandıklı termal park otel,HOTEL,38.437248,30.195753,Sandıklı park otel,Sandıklı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
@@ -322,7 +309,7 @@ b875ecb3-2059-433c-bc31-af43726890d7,Köfteci Mahmut,RESTAURANT,38.057621,30.145
 155a1b77-64c1-48db-b1af-fc12d49f8ce0,Çetinel Otel,HOTEL,38.069145,30.158804,5. Sanayi Sk. No:2,Dinar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.961
 052369af-7fb1-4068-bf1e-c3070c6fc0c7,Şişci Emin,RESTAURANT,38.067036,30.159367,İstasyon Cd. No:28,Dinar,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.904
 535e7594-3258-4e1a-9bef-3fa7fd3bb6d0,MUHA Bistro,CAFE,38.067093,30.158962,Şht. Bayram Ali Solmaz Sk.,Dinar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.960
-66b575d7-1d7f-436c-aa3d-2ed6715e624c,Gar Aile Parkı,SIGHT,38.065693,30.157585,Bent Sk. No:50,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.940
+66b575d7-1d7f-436c-aa3d-2ed6715e624c,Gar Aile Parkı,ACTIVITY,38.065693,30.157585,Bent Sk. No:50,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.940
 6be529f5-0a09-40c7-a99e-1829a2af1c8e,Bilardo Kafe,CAFE,38.06461,30.154202,"Salı Pazarı, Gedik Ahmet Paşa Caddesi 24",Dinar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.774
 2d63821b-3236-4acd-bcf0-61d724737961,Alacati Et Kebap,RESTAURANT,38.059109,30.15243,Eski Denizli Cd.,Dinar,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.986
 f840871d-c223-4b8c-8281-5868f7ec925a,Karagöz Park Otel,HOTEL,38.058449,30.159794,,Dinar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.912
@@ -330,19 +317,19 @@ bcd59004-57ba-4834-887a-a77d01be70e3,Köfteci Yusuf,RESTAURANT,38.056351,30.1451
 b964d8c9-6403-4828-aedf-90647b883166,Burger King,RESTAURANT,38.056396,30.1453,Otogar Mahallesi Yeni Denizli Caddesi Dört Yol Kavşağı No:122/7,Dinar,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 eede26c6-e2c3-4843-9957-db57d903742a,Baydöner,RESTAURANT,38.056339,30.145271,"Otogar, Yeni Denizli Caddesi No:123A 03400",Dinar,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 7e6773f8-9ff4-411d-b8b6-7e1f7919f38e,Tavuk Dünyası,RESTAURANT,38.056282,30.14587,"Otogar Mahallesi, Denizli Caddesi, No:22",Dinar,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
-91441ef7-f741-4f96-a071-c7c7d3b7d9d9,Iyaş Avm Jolly Park,SIGHT,38.056301,30.145517,,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.986
+91441ef7-f741-4f96-a071-c7c7d3b7d9d9,Iyaş Avm Jolly Park,ACTIVITY,38.056301,30.145517,,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.986
 7be424ce-99c0-49e9-a848-523e254b7684,Anatolia Restoran,RESTAURANT,38.055275,30.140156,,Dinar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.933
 d2dc0f70-10de-4ba3-9517-e7bb5c118775,Anatolia Restaurant,RESTAURANT,38.053188,30.129513,,Dinar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.796
 d27c21f9-ea58-4ca0-9b76-e5f814821319,Apameia Park Tesisleri,RESTAURANT,38.052933,30.129639,yeni Denizli caddesi no:164,Dinar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.903
 2412211c-309f-45f8-ac1d-649750f5a14b,Akdeniz Dinlenme Tesisleri,RESTAURANT,38.049721,30.120304,Afyon Denizli Yolu,Dinar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.986
 4460d0c5-d892-4a1a-954c-74431d928e55,Midas Restauran & Dinlenme Tesisi,RESTAURANT,38.049877,30.119425,Dinar/Denizli yol üzeri Denizli Kumkısık Mahallesi,Dinar,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.988
 89b05f96-936d-46ba-b646-d457e48d8ee7,Evciler Aile Parkı,SIGHT,38.03397,29.894438,,Evciler,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.760
-75c3b404-8384-4d53-82ce-8f6d4037214b,Fatih Aile Parki Evciler,SIGHT,38.036503,29.890146,,Evciler,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.822
+75c3b404-8384-4d53-82ce-8f6d4037214b,Fatih Aile Parki Evciler,ACTIVITY,38.036503,29.890146,,Evciler,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.822
 69297982-2e18-4dd6-b312-3c80993aaeb5,Gökcek Kasabası Dinar Afyon,RESTAURANT,38.01004,29.957994,,Evciler,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.757
-2a46898e-ba5f-44db-99b8-21f98663d922,Akyarma Köy Konağı Parkı,SIGHT,38.001884,29.895103,Akyarma Köyü,Evciler,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
+2a46898e-ba5f-44db-99b8-21f98663d922,Akyarma Köy Konağı Parkı,ACTIVITY,38.001884,29.895103,Akyarma Köyü,Evciler,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
 87f84236-ed0e-4d98-8b65-39db83a6c022,Yıldız Pide ve Kebap Salonu,RESTAURANT,37.933239,29.877672,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.965
 eac634d6-8c67-41ea-a1bc-c91a7d76ea6e,Nostalji Cafe,CAFE,37.926071,29.866573,"Esentepe Fabrika Caddesi, 78. Sk. D:no 5/3",Dazkırı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.934
-490db1c9-6a0c-4c18-b985-e4a9884eb02e,Dazkırı Adalet Parkı,SIGHT,37.924992,29.865086,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.973
+490db1c9-6a0c-4c18-b985-e4a9884eb02e,Dazkırı Adalet Parkı,ACTIVITY,37.924992,29.865086,,Dazkırı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.973
 befb30e0-b589-49ea-9c42-7d4ac6437666,Ocakbası Restaurant,RESTAURANT,37.917473,29.863993,"Dazkırı PTT, Lütfü Sönmez Caddesi 16",Dazkırı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.811
 cdde2757-a9ad-43af-bed6-59f0b3c87b4d,Yıldırım Pide Salonu,RESTAURANT,37.91787,29.863907,"Dazkırı PTT, Lütfü Sönmez Caddesi 16",Dazkırı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.895
 eaaafb63-467e-47e6-8f48-4950baec69b4,Kavurmaci İSmaİL Usta,RESTAURANT,37.918957,29.865259,"MEMİŞOĞLU NO: 128 İÇ KAPI, MENDERES CAD NO: 1",Dazkırı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.956
@@ -372,7 +359,7 @@ b5e235c8-a182-4712-aab9-9fcd798a9562,Dinar Karakuyu Gölū,SIGHT,38.053074,30.16
 56ec7007-4d34-4210-9932-6721b7bbe36a,İncirli Aile Restaurant,RESTAURANT,38.059048,30.171459,Yusuf Mercan Sk.,Dinar,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.975
 766f5859-1703-40b6-9d60-e3da0960b432,Bülüçalan Yaylası,SIGHT,38.0653,30.169399,,Dinar,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.819
 5aaa0c45-484e-4657-be47-ce16105a743c,Bonita Gurme,RESTAURANT,38.065723,30.165567,"opet içerisinde, Yeni Denizli Cd No:44",Dinar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.935
-705b667e-6da1-41db-8c0a-1252aebf092d,Aziz Park,SIGHT,38.061188,30.161516,,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.965
+705b667e-6da1-41db-8c0a-1252aebf092d,Aziz Park,ACTIVITY,38.061188,30.161516,,Dinar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.965
 882f1ba0-ddc7-4cb8-a7ec-477d663ee4fe,Midas Gurme Restaurant&Cafe Dinar,RESTAURANT,38.065422,30.165297,"Camikebir, Eski Garaj Mevkii",Dinar,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.966
 2f3163fd-30df-4048-9113-756fffa7e129,Paşa Kumru-Kokoreç,RESTAURANT,38.065807,30.165033,,Dinar,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.838
 4fed3788-b8f9-4b85-92cf-95857223ea0e,Ardo Dondurma Arnavutun Yeri,CAFE,38.067123,30.160313,İstasyon Cd.,Dinar,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.938
@@ -432,12 +419,10 @@ df7abbbc-53e0-4dfc-ad3e-fc18c71d5864,Çapalı Köy Kahvaltısı,RESTAURANT,38.05
 98d8e4fc-5811-4879-ae36-2755b36fe935,Arogan,SIGHT,39.115669,30.4291,,İhsaniye,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.782
 225ccbd8-9849-4b90-be69-e0ada77c1b88,Emre Göleti,SIGHT,39.105812,30.436377,,İhsaniye,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.731
 356f92a2-ccf8-4457-968a-b6f58f9faf26,FRİGYA'nın incisi EmreGölü - Döğer,SIGHT,39.108063,30.440817,DöĞER Kasabası / ihsaniye,İhsaniye,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.937
-fde7e1c8-3cf7-4c5d-a354-10433d86f25d,Frig Vadisi,SIGHT,39.120724,30.423342,,İhsaniye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.791
 b7c1d63e-0915-4753-b112-406abc3a3976,Afyon Frigya Vadisi,SIGHT,39.110683,30.41725,AFYON GEZİ REHBERİ,İhsaniye,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.874
 0b794b1f-4450-494e-a805-58df0261dc53,Hocaoğlu Lokantası,RESTAURANT,39.127071,30.392666,Döğer Köyü İç Yolu,İhsaniye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.852
 b1052afb-35b8-4af7-9928-cfc1de1f2452,Döğer kervansarayı,SIGHT,39.12751,30.391293,Döğer Köyü Yolu,İhsaniye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.935
 e2eb3471-123d-435b-a20c-d1f17efb07fa,FRİGYA'nın incisi EmreGölü - Döğer,SIGHT,39.126667,30.393299,DöĞER Kasabası / ihsaniye,İhsaniye,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.937
-7dc84949-168a-47c2-9f4f-54b8c7649eb8,Döger Frig Vadisi,SIGHT,39.129753,30.393414,Döğer,İhsaniye,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.846
 2b097443-04aa-49a8-9fe7-c252221b66aa,Batmazlar Pide & Lahmacun Salonu,RESTAURANT,39.032238,30.416704,Seçkinler Cd.,İhsaniye,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.895
 e8c69d78-b7f4-45ba-9c8a-07fe88a911af,Sefa Termal Hotel,HOTEL,39.032066,30.416456,Esentepe Caddesi 16,İhsaniye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.915
 27fe373f-196b-4152-ab15-1aeca8e9563c,WyndhamAfyonkarahisar,HOTEL,39.030891,30.416119,Atatürk Caddesi 20,İhsaniye,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.985
@@ -461,9 +446,9 @@ f759b512-0255-4c35-9449-142e42fd5b58,Atatürk's House,SIGHT,38.530254,30.541975,
 f19f6a7a-ccdb-4b73-a034-6c0da3207fec,Hacıbey Lokantası,RESTAURANT,38.532772,30.54549,Hacıbey Sk.,Şuhut,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.946
 768bcabc-1b9c-415c-8e6b-68150482df4e,Lezzet Lokantası,RESTAURANT,38.532951,30.545311,Çayır Cd. No:33,Şuhut,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
 9fa2447e-a1d3-45a6-9719-bd0a3bf209b2,Şuhut Çarşısı,SHOPPING,38.533279,30.544849,Cumhuriyet Caddesi 1/9,Şuhut,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.904
-cec19bf1-3220-4161-8644-d68424b209be,Atatürk Parkı,SIGHT,38.533474,30.545671,Cumhuriyet Cd. No:29,Şuhut,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.906
+cec19bf1-3220-4161-8644-d68424b209be,Atatürk Parkı,ACTIVITY,38.533474,30.545671,Cumhuriyet Cd. No:29,Şuhut,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.906
 94a16677-035c-49d2-87c3-29a3452295eb,Hisar Parki Suhut,SIGHT,38.533684,30.545372,Şuhut,Şuhut,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.872
-92d64648-0433-475e-a54c-0f4a956ab5a8,Şuhut Cumhuriyet Parkı,SIGHT,38.533646,30.545361,Afyonkarahisar,Şuhut,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.819
+92d64648-0433-475e-a54c-0f4a956ab5a8,Şuhut Cumhuriyet Parkı,ACTIVITY,38.533646,30.545361,Afyonkarahisar,Şuhut,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.819
 27e5e433-1a08-46e4-be70-c58afc4be27a,Duygum AVM,SHOPPING,38.534134,30.545069,"Duygum AVM, Kurtuluş mahallesi Afyon caddesi belediye sarayı b blok b/9",Şuhut,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.728
 e4f96874-1d3a-4f4a-a8f9-5585392995e7,Şuhut Kent Lokantası,RESTAURANT,38.534096,30.545675,Yener Sokak 20,Şuhut,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.771
 f4937899-494e-4f19-8a38-5ab0308197e3,Bozdağ Avm,SHOPPING,38.53418,30.544762,,Şuhut,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.707
@@ -480,8 +465,8 @@ c8cf3709-f937-4916-9ab4-4cd5cc57dea6,Çiçek Cafe and Bistro,CAFE,38.543377,30.5
 fbd2c9c9-00e7-4847-aadc-e0faf8f03dbf,Dempet Demireller Restaurant &Bar,RESTAURANT,38.675724,30.530792,Afyon,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.896
 8a6d547b-893b-4a8e-a12a-6aebf8514346,Garden Kale Termal Resort Hotel,HOTEL,38.675716,30.530798,Afyon İzmir Karayolu 5.km Afyonkarahisar ,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
 deb744db-05e2-4202-8b8a-131288ed2e7f,Ölmezoğlu Kır Bahçesi,RESTAURANT,38.683258,30.59589,Afyonkarahisar Caddesi- Ölmezoğlu Kır Bahçesi,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.972
-38f55d5b-9e60-41f7-a859-d1341408b8f6,Afyon Devlet Parkı,SIGHT,38.71143,30.612452,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
-a702a9f6-a603-4713-8be0-9d3654222b93,Afyon Devlet Parkı,SIGHT,38.710964,30.612425,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
+38f55d5b-9e60-41f7-a859-d1341408b8f6,Afyon Devlet Parkı,ACTIVITY,38.71143,30.612452,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
+a702a9f6-a603-4713-8be0-9d3654222b93,Afyon Devlet Parkı,ACTIVITY,38.710964,30.612425,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
 08ac63b9-f9f4-4f3a-bf14-657dc395202f,Yıldızlar Pide Etlı Ekmek,RESTAURANT,38.729801,30.573523,"mh, 508. Sk. No:29",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.911
 630d31e7-7c51-4a39-9ec0-fe00be5d4075,Apart Villa Kirala,HOTEL,38.735947,30.585215,"Fatih, Denizli Cd., 20800 Pamukkale/Akköy/Denizli Merkez/Denizli",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.817
 cd4f10b7-903e-438f-a9fd-90b6b75ddcec,Tıkır Kıraathanesi,CAFE,38.729763,30.572435,519. Sk.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.766
@@ -489,7 +474,6 @@ f1cb7de7-43d7-47c0-9a70-0dd9e78d3c58,Altıntaş Köfte,RESTAURANT,38.732639,30.5
 9463e0c7-03b9-4265-a9e4-4b2eb13cac2e,Emek Çorba,RESTAURANT,38.732853,30.564102,Şht. Nurullah Oymak Cd. 2/A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.820
 d6b0a5af-3665-43ca-97fd-dca1ed79c634,Nefis Pide ve Lahmacun Salonu,RESTAURANT,38.731476,30.562769,Şair Ali Türk Keskin Sk. No:9,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.970
 b9cba033-3818-415b-99f8-3d602973b303,Hafısoğlu künefe,CAFE,38.731911,30.564568,Adnan Menderes Blv. 3-C,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.989
-0f131c99-e39a-4a6a-854d-8a6fd1519f0f,Karagöz Sanat Merkezi,SIGHT,38.733585,30.562588,"A, Adnan Menderes Cd. No:70",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.893
 ec1ec663-ed2c-44e8-b293-5370759c416d,Beste Baklava Şekerleme,CAFE,38.734501,30.562008,548. Sokak 4B,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.823
 30f71cc3-e44f-4946-ae00-3c2b86262fc6,Turan Pide Kebap Salonu,RESTAURANT,38.736217,30.55687,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.803
 ce3d6e41-c9bc-42e1-a7eb-85bd6be3933a,Kiraz Pastanesi,CAFE,38.736164,30.557056,"Kiraz Pastanesi, Zübeyde Hanım Cd. No: 10",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.965
@@ -497,19 +481,19 @@ c1c56c82-2362-4b2c-a638-a2b046c608bd,ÇakırKöy Bahçe,SIGHT,38.732903,30.55702
 7a6df73e-0783-4cb9-b10c-c3338b3d43bf,Berat Pide ve Tatlı,RESTAURANT,38.733936,30.554119,Zübeyde Hanım Cd.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.912
 bbcbf86a-bf24-464d-a3f7-569bf31113c1,Hanzade Etliekmek ve Lahmacun Salonu,RESTAURANT,38.736324,30.55176,Şht. Cüneyt Akkuş Cd 30/A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.904
 c4b4a17d-4191-498e-9f85-e7cbfcfddfc7,Komagene,RESTAURANT,38.727947,30.55238,Şair Ali Türk Keskin Caddesi 76A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.890
-661ed8c2-ce90-4edb-a651-734a64332b58,Nuri Demirayak Parkı,SIGHT,38.722591,30.554213,440. Sk. No:2,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.943
+661ed8c2-ce90-4edb-a651-734a64332b58,Nuri Demirayak Parkı,ACTIVITY,38.722591,30.554213,440. Sk. No:2,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.943
 c76a90f6-bc13-4209-90dd-eda1c8aa85cb,Alperen Pide ve Lahmacun Salonu,RESTAURANT,38.726418,30.561434,Şht. Kadir Aydın Cd. no:40,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.880
 44285080-4b06-4b6a-849a-9e4fe08ee6e5,Beylerbeyi Pide & Simit Fırını,CAFE,38.729195,30.566921,Aliihsan,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.817
 0e2b78ed-c7ee-4ec8-b22c-711388133feb,Hilal Restoran Kafe,RESTAURANT,38.729317,30.568584,gül sokak,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.780
 da31fbc9-0ac6-4501-94e7-c0c8dd9469b0,Çilekli Bahçe Yöre Sofrası,RESTAURANT,38.719681,30.572117,488. Sokak 6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.958
-70af10b0-2eb0-463c-94ea-c0f3669aea10,Kanlıca Kızılay Parkı,SIGHT,38.739147,30.545706,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
+70af10b0-2eb0-463c-94ea-c0f3669aea10,Kanlıca Kızılay Parkı,ACTIVITY,38.739147,30.545706,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
 097b8e06-f29d-49d6-95e9-db455435e0e7,Civelek Aile Çay Bahçesi,CAFE,38.737682,30.559795,İSTİKLAL MH. ERDİNÇ ŞATIRER PARKI YENİ ADLİYE ÖNÜ,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.945
 95f20dec-8d9b-4aad-88c9-a3ddb55200b0,Doğa Pastanesi,CAFE,38.737537,30.560577,560 nci sokak Kocatepe Apartmani A Blok 2 B,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.904
 b8cee1cf-33cd-4482-ab7c-a4248b6759a9,Nadir Pide ve Ekmek Fırını,RESTAURANT,38.739136,30.566107,Kocatepe Cd.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.889
 45a33bf2-37e4-434a-9763-81249c718bd4,Azra ÇİĞ KÖFte,RESTAURANT,38.741306,30.567133,İbni Sina Caddesi 25,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.853
 e344470a-34ec-412b-b77c-a6efa3f7e082,Saray pide ve lahmacun salonu,RESTAURANT,38.743404,30.568884,594. Sokak 3,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.889
 d20235df-7663-4d1b-b554-e29fada31953,Bulvar Piliç,RESTAURANT,38.740372,30.558401,Adnan Menderes Blv.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.903
-a782eacf-0392-4b53-9d15-bc541aebbb68,Örnekevler Park Alanı,SIGHT,38.74604,30.559706,"Cami Yanı , Okul Karsıdı",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
+a782eacf-0392-4b53-9d15-bc541aebbb68,Örnekevler Park Alanı,ACTIVITY,38.74604,30.559706,"Cami Yanı , Okul Karsıdı",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
 40b0b218-0319-4fd3-92dc-ba40ce1357b5,Asmalı Kafe,CAFE,38.74395,30.571394,733. Sokak 8A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.873
 c2e0910b-bc57-4ef5-826c-b4266c31d4bc,Yildiz Pastanesi,CAFE,38.747028,30.570419,Fatih mahallesi otobüs durağı karşısı afyonkarahisar başmakçı,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.930
 d4dfb652-bf27-4512-9ba8-a0a3bcbb288b,Aden avm,SHOPPING,38.746929,30.56802,Adnan Kahveci Caddesi 71A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.824
@@ -519,7 +503,7 @@ c8411847-b302-4fcb-acb5-d2ae374e55c8,Fatih pide ve lahmacu3,CAFE,38.748329,30.56
 7c1f7b4f-88fb-41e1-adb3-2e571f564a52,Yıldız Kokoreç,RESTAURANT,38.749092,30.551722,İsmet İnönü Cd. No:12,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
 e006c45a-0529-476d-bb41-2489733bd7a8,Körfez Ocakbaşı & Çay Bahçesi,CAFE,38.747581,30.550827,Kurtuluş Caddesi 54/a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.860
 f4150ec4-5ef2-4945-bc8f-d99057531204,Enfes Pide salonu,RESTAURANT,38.746651,30.556623,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.903
-e6a1ca9d-72ef-4399-8ebd-b8466cfeb223,Kocatepe Parkı,SIGHT,38.746014,30.554373,Kocatepe Cd. No:2,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.959
+e6a1ca9d-72ef-4399-8ebd-b8466cfeb223,Kocatepe Parkı,ACTIVITY,38.746014,30.554373,Kocatepe Cd. No:2,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.959
 ee258d06-fe45-48b0-9a28-750cda400802,Kardelen Pide dünyası,RESTAURANT,38.74411,30.555746,Adnan Menderes Blv. 17 C,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.765
 bc523dbd-b632-447f-a819-ea7aacd6c5dc,Afyon Erkmen Gölü,SIGHT,38.744553,30.553988,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.701
 e08d5dd0-6d99-4592-9cd7-886ec70258aa,Kocatepe Atatürk Anıtı,SIGHT,38.745342,30.554474,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.735
@@ -575,7 +559,7 @@ d33724cc-6653-48d6-90be-29dc8011450c,Burger King,RESTAURANT,38.756809,30.54213,D
 751b85e2-5fe3-4c86-a3b6-28a2da08f25d,Hilal Döner,RESTAURANT,38.757313,30.542023,Osman Atilla Cd. no:4-a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.762
 3a98bc12-f16d-40a6-b458-a5049cc5f7ac,Rosso Venato Coffee,CAFE,38.757675,30.542555,Karagözoğlu Cd. No:30/A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.940
 cbaef25c-bdfd-47b9-8399-c1aab0e78609,Trio Cafe & Bistro,CAFE,38.757542,30.543537,Dumlupınar Mah. Cevat Şakir Cad. No:11,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-84c815cb-5b15-43ba-b252-3c2d508f1e28,Yesil Park,SIGHT,38.757088,30.543577,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.920
+84c815cb-5b15-43ba-b252-3c2d508f1e28,Yesil Park,ACTIVITY,38.757088,30.543577,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.920
 d3b4f442-f9cb-4728-a5a1-b6c9d60727a5,Domino's Pizza Türkiye,RESTAURANT,38.757359,30.544397,Yeşilyol Caddesi 20A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.898
 af70ad11-7ad8-42d3-8fa4-1f44b5ff0b42,Tatlıses Çiğ Köfte,RESTAURANT,38.757446,30.544249,Dumlupınar Mah. Yeşilyol Cad. Park Apt. No:14/C Merkez,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 99fe009b-9733-42c5-9bc9-f846949b1fdd,Ozsut,RESTAURANT,38.757477,30.544214,Yeşil Yol Cd. No:14 /A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.994
@@ -603,7 +587,7 @@ c28858ea-d9bb-4b3d-8e96-067c8d7f3132,Adiyaman Cig Koftecisi Kadir Usta,RESTAURAN
 181b0c15-84cb-49de-b16e-7b22e680e30c,Özpark Hotel,HOTEL,38.755482,30.552145,Kadınana Cd. No:174,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.989
 f1304a98-51e7-4f47-b5db-185752274fd6,Ateş Döner Anbaryolu Şube,RESTAURANT,38.75552,30.55267,"Elden apartmanı, Kadınana Cd. No:184 D:e",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.816
 d0e243f1-eaae-4197-b515-81a49b2b86b9,Maya Otel,HOTEL,38.755505,30.551197,Cumhuriyet Mah. Ambaryolu Cad. (Kadınana Cad.) No:174 Merkez,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-c633c57e-09fd-400c-bfa1-cc036f1429a3,İmam Hatip Parkı,SIGHT,38.757221,30.549898,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
+c633c57e-09fd-400c-bfa1-cc036f1429a3,İmam Hatip Parkı,ACTIVITY,38.757221,30.549898,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.842
 89a6a5c9-0038-4628-8773-c49e5dc87265,Afyon Emir Murat Ozdilek Uygulama Oteli ve Dugun Salonu,HOTEL,38.756947,30.553387,Atatürk Blv. no:6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
 3a14ef6e-17ed-436f-b4e0-33691b79b82f,NAZAR Simit,CAFE,38.755993,30.553854,Atatürk Blv. 49-1,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.938
 dcb24cbc-1663-40ab-9f20-fa9a1433bcd9,opium otel,HOTEL,38.755348,30.55382,İsmet İnönü Bulvarı 63,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.846
@@ -643,7 +627,7 @@ aed42395-8231-40ae-bdd1-c13b44f439f0,Afyomkarahisar Cumhuriyet Mahalesi,SIGHT,38
 c671e257-15ee-4c73-9f42-302e793539cd,Kofteci Sabri,RESTAURANT,38.750835,30.556721,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.765
 61d7faa5-0ce2-4b24-896d-555bccb07114,Yeni Kapalı Pazar Yeri,SHOPPING,38.75201,30.557867,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.806
 ee46a1e2-5f4b-4116-9cf3-35c1a37f880d,Meshur köfteci Ahmet usta,RESTAURANT,38.752377,30.558006,602. Sk. 62a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.873
-617cafeb-2099-4771-ac16-61d7453c476a,Mehmetçik Parkı,SIGHT,38.752819,30.57078,Şht. Yavuz Öztürk Cd. No:6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.865
+617cafeb-2099-4771-ac16-61d7453c476a,Mehmetçik Parkı,ACTIVITY,38.752819,30.57078,Şht. Yavuz Öztürk Cd. No:6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.865
 daa13f66-cc3f-4343-844b-95c8d88507ba,YENİ Angara Kokorec,RESTAURANT,38.754482,30.560944,Efeler kavşağı,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.974
 3c16ef9b-f369-44d2-b749-b9196db9278e,Gökalp Pide ve Kebab Evi,RESTAURANT,38.759209,30.569834,Mareşal Fevzi Çakmak Bulvarı 48C,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.901
 6b8f72a5-e2c8-48cb-b03d-81902ad7d094,Şirin Unlu Mamülleri Cafe&Bistro,CAFE,38.759205,30.569359,Sahipata Mah,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.861
@@ -688,7 +672,7 @@ a65f4a0c-5f92-4a79-8ccf-580d64bf7969,Hanımeli YUFKA,RESTAURANT,38.757992,30.538
 8f02b271-2639-4535-afa6-ef9c4c910706,Makaryon,RESTAURANT,38.75803,30.538603,"Makaryon (Taze Makarna) Marulcu, Yeşil Yol Cd. No: 66/B, 03020 Afyonkarahisar ",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,italian_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant,0.854
 8bf9040d-eeb6-4180-b1f5-d847da259961,Starbucks,CAFE,38.758053,30.53861,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.753
 1d71c118-0976-4430-b775-d4ab81ee1a87,Parlas Thermal Hotel,HOTEL,38.758053,30.53861,Akkuş Caddesi 4,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.902
-b94dbaaf-bfe3-4953-b7f8-fdd074fb4fee,Taşoluk Şehit Şüheda Parkı,SIGHT,38.758053,30.53861,Taşoluk,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
+b94dbaaf-bfe3-4953-b7f8-fdd074fb4fee,Taşoluk Şehit Şüheda Parkı,ACTIVITY,38.758053,30.53861,Taşoluk,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
 600be76a-2c06-4ad5-b31b-1efcb08e208d,Kule Et Entegre TesİSlerİ,RESTAURANT,38.758041,30.538633,Kavaklıkuyu Mevkii Hallaç Yolu Üzeri Mahmut Köyü-Şuhut,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.953
 407a2612-41fb-4034-88ff-c563cb4e69f3,Konya etli ekmek,RESTAURANT,38.758354,30.539782,Albay Reşat Çiğiltepe Cd. 7/a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.976
 cc317571-5622-43e0-bc5c-d21559f105c5,Gen-Por Suits,HOTEL,38.756645,30.541155,Dumlupınar 2. Cadde 20A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.817
@@ -702,7 +686,7 @@ c1e48cdf-78f8-46a2-afec-f8876c6476eb,Mene Mezeci,RESTAURANT,38.756409,30.539103,
 9daaf872-1bc3-43ff-bef6-8e0fd4c0e0ad,Gözde Döner,RESTAURANT,38.756432,30.539244,Milli Egemenlik Caddesi No:7/A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.971
 7949625e-63a0-4861-b7d6-28bc80b988e8,Afyon Gamze Sucuk Döner,RESTAURANT,38.756474,30.538858,Milli Egemenlik Caddesi No:6 Kat:1,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.988
 a20ac3ff-8d18-4075-9e2b-34156f13e052,Gülyurt Pastanesi,CAFE,38.75658,30.538752,Dervişpaşa Cd. No:1,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.773
-02e7de11-610e-4062-85bc-3c36df547895,Çobanlar Zafer Park,SIGHT,38.756477,30.538721,Milli Egemenlik Caddesi 6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.800
+02e7de11-610e-4062-85bc-3c36df547895,Çobanlar Zafer Park,ACTIVITY,38.756477,30.538721,Milli Egemenlik Caddesi 6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.800
 e4005a3e-40eb-40e1-95dc-86746ff7ed1a,Çınar Döner,RESTAURANT,38.75642,30.538908,23. Sk.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.884
 7004cac3-49bf-474f-a52a-fe7e4976c6fd,Gümüş Döner,RESTAURANT,38.756447,30.538891,Milli Egemenlik Caddesi No:8 D:a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.923
 863373d8-5751-4ae8-84d3-36cee257b3b2,Numan Usta,RESTAURANT,38.756214,30.538797,22. Sk. No:10,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.997
@@ -717,7 +701,7 @@ f17996fd-7a2c-4c21-95fa-f04c7ebeda10,Osmanlı Hacıbey lokantası,RESTAURANT,38.
 e5131a8e-2422-48ad-9d01-729cbea16008,Cafe Paris Bistro,CAFE,38.75761,30.539461,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.754
 23e6e564-8d40-42c2-acd7-0e93228b6af4,Soydan Business Hotel,HOTEL,38.757862,30.539873,Ordu Blv. no:9,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.951
 8d230e19-d471-4159-8af7-1695fcf6f19f,Soydan Teras Restaurant,RESTAURANT,38.757862,30.539875,Ordu Blv. no:9/A Kat:7,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.889
-b365cfb2-4bad-4b4f-ac4d-ec97d413afb0,Afyon Kızılay Ekip Aracı Anıtpark,SIGHT,38.757603,30.538645,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
+b365cfb2-4bad-4b4f-ac4d-ec97d413afb0,Afyon Kızılay Ekip Aracı Anıtpark,ACTIVITY,38.757603,30.538645,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
 49d5b509-722f-4a7f-9b4e-f5a7c3e01d42,Victory Museum,SIGHT,38.757797,30.538422,Ordu Blv. No:7,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.860
 afd4d79a-2cc3-4b12-bffb-fbe5f781e03f,Utku Anıtı,SIGHT,38.75742,30.537638,"Öncü, 2759. Sokak 6A",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.934
 4741e100-bec1-496a-b44b-717e33e560d5,Komşu Tabağı,RESTAURANT,38.75737,30.536562,,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -771,7 +755,7 @@ dc7b5ccd-cbd6-466f-af3b-0dafaef956ef,Sultan Divani Mevlevihanesi Muzesi,SIGHT,38
 ff6afd3c-1cdf-49fa-8146-fd16dd4f2328,Tarihi Konaklar,SIGHT,38.75391,30.532461,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.778
 3018609d-763e-4da5-8038-1e13dd84d5ad,Nefes Konak,RESTAURANT,38.753933,30.531494,hamam aralığı sokak no:6,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.883
 8db1bc86-c6cb-474d-92d8-5c82590b3f6d,Millet Hamamı,SIGHT,38.753937,30.531483,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.912
-bec02e41-9450-47cc-9401-48464e281c4b,Erdal Akar Parkı,SIGHT,38.752216,30.526838,Şht. Yakup Suna Cd.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.857
+bec02e41-9450-47cc-9401-48464e281c4b,Erdal Akar Parkı,ACTIVITY,38.752216,30.526838,Şht. Yakup Suna Cd.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.857
 7783c98e-61d4-435e-b528-6dece64811ed,Karahisar Ulu Konak,RESTAURANT,38.754986,30.529875,"Mahallesi, Sarıoğlu Sk. No:1",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.986
 946e596b-e128-4b7f-93d0-831655383d97,Karahisar Kalesi,SIGHT,38.75518,30.530422,Kale Mah,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.838
 11e11288-9c2b-4611-aac8-8ee115b79542,Afyonkarahisar Kalesi,SIGHT,38.75666,30.531666,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.784
@@ -787,7 +771,7 @@ c6782548-3bff-48f3-82a0-90483ce544a8,Hanedan Kebap Dünyası,RESTAURANT,38.76525
 353315d3-c2c5-42dd-b740-9bfba1fbc9e6,Egirdir Kovada Gölü,SIGHT,38.772671,30.5273,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.759
 bf481f91-71f6-4d56-b602-762d7ba7ea7f,Pizza Tomato Uydukent,RESTAURANT,38.772392,30.529936,Adnan Kahveci Cd. No:65/1-A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.901
 46852e8b-a551-4498-8f56-ea2eb4c9f51b,Leblebi Cafe&bistro,CAFE,38.774757,30.535742,Cahar Dudayev Cd.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.963
-b364f6b7-1147-4267-a29b-3bfdc7a07067,Akarçay,SIGHT,38.774849,30.534903,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.845
+b364f6b7-1147-4267-a29b-3bfdc7a07067,Akarçay,ACTIVITY,38.774849,30.534903,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.845
 e96d8afd-e5df-4f0d-8d24-3bd899581b52,CİĞErcİ Mustafa Afyon,RESTAURANT,38.777813,30.527672,"köprü ayağı, Cahar Dudayev Cd. No:122",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.897
 4984e61e-2785-466a-a46d-743a715750bd,Trabzon Balıkçısı,RESTAURANT,38.778034,30.52009,Şehit Erdal Hamamcı caddesi No:4/E,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.978
 cb2d7b5e-2a5e-4526-a379-b4d1064b11ba,Rıhtım Balık Restaruant,RESTAURANT,38.776829,30.521452,Adnan Kahveci Caddesi 42F,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.947
@@ -798,7 +782,7 @@ f2ba6ebf-8183-4fa0-9cfe-5a8471fb1f3e,Levent Börek Afyon,CAFE,38.774551,30.52426
 f84230d3-e160-4037-bb52-ea57c24b8973,Afyon Chef Restaurant,RESTAURANT,38.774071,30.523766,Afyon Chef Restaurant📍Selçuklu Mahallesi 2393 Sokak B-Blok No:1A ✅ Afyonkarahisar Restorant,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.908
 5f49c563-3141-4c48-bcea-73c9f2d98781,Zeylcafe,CAFE,38.774494,30.524462,1430. Sokak 2A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.943
 7b5e0d71-e2a3-443f-8e60-a7d49fdace50,Akrones Thermal Hotel Spa,HOTEL,38.772945,30.512705,Turgut Özal Caddesi 37,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.960
-f15883e9-854b-463d-a4ec-68a12539fcad,Prof. Dr. Veysel Eroğlu Parkı,SIGHT,38.774555,30.51218,1469 Sokak,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.986
+f15883e9-854b-463d-a4ec-68a12539fcad,Prof. Dr. Veysel Eroğlu Parkı,ACTIVITY,38.774555,30.51218,1469 Sokak,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.986
 91e79590-e195-4557-a652-933e9f17800d,LILAC Flower - Coffee & Event,CAFE,38.778687,30.517611,Fatma Zehra Caddesi 27D,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.821
 e8d3981c-d071-4b5b-8bf5-7b6bbaae3f73,Akarçay Pide Simit,RESTAURANT,38.780083,30.514046,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.965
 8add1b54-0ae2-47d5-9b52-3304730ce3f0,Şef Nevzat Kalkan,RESTAURANT,38.781055,30.520456,"Osman Gazi, 1556. Sk., 03000 merkez/Afyonkarahisar",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.849
@@ -810,7 +794,6 @@ c626c1e3-d16d-459c-8dbd-7e1f26871b2b,afyonkarahisar merkez,SIGHT,38.788231,30.51
 f96bce75-9683-4215-9e7b-958b9e4f5d2e,Afyon Gece Kavurmacısı,RESTAURANT,38.785198,30.53982,Hamm Şehri Bulvarı 86,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.907
 64aedbde-e8be-45ae-8580-f4722bcbb3dd,Afyon Masal Dunyası Parkı,ACTIVITY,38.78299,30.529718,Masal Parki,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.989
 7502b303-146d-419f-b2ee-72eb520c4423,Meşhur Adıyaman Çiğköftecisi Kadir Usta,RESTAURANT,38.781864,30.526827,1593. Sokak 8,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.877
-9a06601f-88e7-4f5f-96b4-4265fb3e8744,Baklavacı Kardeşler Atölye,CAFE,38.781143,30.529057,"1583. Sk. No:4, 03030",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.869
 a8c9a815-4e0e-453e-852f-fdc58988261a,Merve Pastanesi,CAFE,38.781677,30.541235,Hamm Blv.,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.939
 c01a53c5-687e-4a5e-aefa-53ba8a4f488e,kokorecçi kadir usta,RESTAURANT,38.780003,30.541576,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.784
 b8d8cc62-cbb8-4e27-a83e-2867dfd5e053,Karşıyaka Pide,RESTAURANT,38.779469,30.541811,"osman gazi mahallesi mahallesi ham şehri bulvarı, 1996. Sk. No:2",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.961
@@ -828,11 +811,10 @@ b8a89dc9-1561-4ca5-a50c-bc0e0bf44262,Acıktım Pide Ve Lahmacun Salonu,RESTAURAN
 d728b401-fd9d-4ad5-893f-6a2ef941f069,Alia Kokoreç,RESTAURANT,38.773945,30.543339,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.772
 7ccdbfd3-d337-4e9a-9a0c-2d48a137ea8d,DoubleTree by Hilton Afyonkarahisar,HOTEL,38.77103,30.542994,Ali Çetinkaya Blv. No:25A,Afyonkarahisar,CDLA-Permissive-2.0,OpenTravel|Overture|meta,hotel,lodging>hotel,1.000
 63ef9863-8b02-4c63-90a3-8fa0197adec3,Arya Termal Hotel,HOTEL,38.770046,30.543497,Gazlıgöl Caddesi 20A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.922
-8e229306-7a06-4a06-a772-df383cfe5d25,Altıgöz Bridge,SIGHT,38.769753,30.548706,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.813
 2a9a7d67-d34e-4688-9b21-3fc29912b22b,Hanedan Kebap Dünyası,RESTAURANT,38.76519,30.542301,Maliye Onu,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.770
 b230227b-5e3c-47ce-a0c6-cd89de47034e,Frigya Termal Hotel,HOTEL,38.765182,30.541948,GAZLIGÖL /İHSANİYE,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.874
 fa66edfa-4c77-49e4-a104-7171516e4667,CAFE Garage,CAFE,38.771214,30.572779,Yenice Mahallesi 1263 Sokak,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.975
-d58110e3-0208-48ed-b5a7-666af1cbcac9,Efes Park,SIGHT,38.766277,30.568872,Harbiş,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
+d58110e3-0208-48ed-b5a7-666af1cbcac9,Efes Park,ACTIVITY,38.766277,30.568872,Harbiş,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
 68a549c8-c6da-42d9-b277-dceae0be139e,Yeniden Esnaf Lokantası,RESTAURANT,38.773079,30.599188,"Metin Mobilya Ahşap, 1145. Sokak 97A",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.751
 6a108dff-0a00-4add-b172-cedf29ea8cda,Ustun Ciftligi,RESTAURANT,38.791,30.586126,"""104 Sok Daire: 12, Osb, Merkez""",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.906
 2031f8dc-124e-435f-812d-4a3cd739f2a5,Çapali ET Mangal Gözleme,RESTAURANT,38.783504,30.602127,Afyon Caddesi 50,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.948
@@ -879,8 +861,8 @@ d6edca54-d0c6-4185-966c-9f5cb2c5d089,Kardeşler pide ve kebap salonu,RESTAURANT,
 35d27c93-5bef-42ba-a7af-21e72308e35b,Zümrüt Pide Salonu,RESTAURANT,38.591557,31.022966,,Çay,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.870
 4a56b2d8-039f-4bee-a15a-142c19ffa3a0,Köfteci Salih,RESTAURANT,38.591042,31.023563,Sinema Sk.,Çay,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.911
 98e7d9f8-4788-49b5-8389-c9ccb9aa0cc0,Çay Semt Pazarı,SHOPPING,38.590321,31.022972,,Çay,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.848
-5d04aed9-f14d-4da7-ae8d-0d75a3620209,Çağlayan Park Çay-Afyon,SIGHT,38.584419,31.025944,Çay,Çay,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
-eb0f79ad-e49d-4a22-8513-8119ed0c0685,Kardelen Parkı,SIGHT,38.586426,31.021515,Çay,Çay,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.974
+5d04aed9-f14d-4da7-ae8d-0d75a3620209,Çağlayan Park Çay-Afyon,ACTIVITY,38.584419,31.025944,Çay,Çay,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
+eb0f79ad-e49d-4a22-8513-8119ed0c0685,Kardelen Parkı,ACTIVITY,38.586426,31.021515,Çay,Çay,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.974
 da6296ae-baae-43f5-8b49-0addf7debb5e,İkiler Center,SHOPPING,38.590687,31.021374,Aktaş Caddesi 7,Çay,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.862
 1358c6c2-5e0a-4163-bac1-58400798a45a,Çiğköfteci Şadan Usta,RESTAURANT,38.591347,31.021837,Zafer Cd. No:8,Çay,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.960
 5f7cfd7e-83bb-478f-8da6-0403ca435df4,Mirzabey Çiğköfte,RESTAURANT,38.59124,31.021763,"Altı Mirzabey Çiğköfte, Cumhuriyet Caddesi, Belediye Pasajı",Çay,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.974
@@ -916,10 +898,10 @@ e8d3d9b3-2dbd-40ff-9f62-55c0e5f3e70c,Eber Gölü Yalı,SIGHT,38.599018,31.126303
 90470df3-29db-4150-bb4b-1fef1e72c45f,La Vita Cafe Bolvadin,CAFE,38.705956,31.047745,Bahçelievler Mah,Bolvadin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.753
 a860a14d-dc6d-4b98-a9f9-9de893f04d8b,Sultan Lahmacun,RESTAURANT,38.70586,31.045738,Bahçelievler mah Bahçelievler iş merkezi no i110 İkilerde,Bolvadin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.764
 c4acbfdd-23f7-4c08-b8e7-4d291a1120ea,Sultan Lahmacun,RESTAURANT,38.706951,31.047663,Bahçelievler mah Bahçelievler iş merkezi no i110 İkilerde,Bolvadin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.764
-ea32a26c-4200-491b-a200-969e187330f1,Bolvadin Adalet Parkı,SIGHT,38.70636,31.0494,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
+ea32a26c-4200-491b-a200-969e187330f1,Bolvadin Adalet Parkı,ACTIVITY,38.70636,31.0494,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
 54a25a17-acf6-471b-a18b-07976a75164f,Ağlöğün Bolvadin,SIGHT,38.705101,31.060999,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.721
 e5ace6a7-bec5-4cc9-8b1e-f027cbe4d5e1,Emirdağ Meydan,SIGHT,38.703747,31.064774,Emirdağ Meydan,Bolvadin,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.824
-b1bbfa99-cd11-469c-88c8-4224b8786a1d,MTS PARK ,SIGHT,38.688519,31.042267,selçuklu mah ticaret böl no 68,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.814
+b1bbfa99-cd11-469c-88c8-4224b8786a1d,MTS PARK ,ACTIVITY,38.688519,31.042267,selçuklu mah ticaret böl no 68,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.814
 3dbcc700-abc1-4d13-a28c-b24d82c2cacf,Kırkgöz Otel,HOTEL,38.729286,31.04599,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.821
 26f13a79-5d76-4848-84d4-85a3e9812f8d,Mola park restorant saklı bahce,RESTAURANT,38.728897,31.044044,"Emirdag, Afyonkarahisar, Türkiye",Bolvadin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.802
 1a6dbce3-e120-4fc7-8374-51f936e8eec1,HORAN CAFE BIstro,CAFE,38.72649,31.044909,BOLVADİN HORAN PARK,Bolvadin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.916
@@ -983,7 +965,6 @@ a5cfb694-c5a9-4332-b015-6be23c650965,şehir lokantası,RESTAURANT,38.531715,31.2
 5718e6bc-6d80-4896-9b49-7c808835bb20,Sultandağı Taşhan Aile Çay Bahçesi,CAFE,38.532604,31.228559,,Sultandağı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.877
 2e5360ba-d5e6-416e-b7b0-00866f2c6baf,Yıldız Mangal Park,RESTAURANT,38.529083,31.245869,"eski bp, Afyon Konya Yolu",Sultandağı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.819
 94219262-0e56-4348-883b-02d4858c3958,Sultandağı Kiraz Bahçeleri,SIGHT,38.528877,31.245787,,Sultandağı,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.711
-90d9a030-c538-4e74-aea1-e8577e2e7ecb,Aşağıpınar Meydan,SIGHT,38.552906,31.169563,,Sultandağı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.777
 55a7d685-181f-4625-a76c-e72ab6490559,Sultandağı Doğancık Göleti,SIGHT,38.561596,31.189354,,Sultandağı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.836
 8b641d8c-59ac-482b-b526-eff605d8da79,Cafe Med,CAFE,38.799061,30.560827,"Yüzbaşı Tekstil, Hal Arkası Sokak 6/A",Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.848
 85c1b673-165d-465c-ac43-512023c602b4,Shelby Coffee,CAFE,38.815063,30.543106,2759. Sokak No:34/A,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.759
@@ -1011,7 +992,6 @@ de86c379-12ff-4bc9-b1e8-a51665e57580,Golden Uni Suit,HOTEL,38.816681,30.538132,2
 fd85060c-258b-40df-97a8-029eec36c07a,Mackbear Coffee,CAFE,38.816601,30.538244,2773. sok,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.958
 bab1a777-b78e-4965-87f3-2158579db15b,Jülyet Cafe,CAFE,38.817509,30.538868,2775. Sk no:3a,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.952
 c2e874c7-6ea6-4910-9ee3-2fa02c49a44e,Çay ve Ötesi,CAFE,38.817257,30.539194,Erenler,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-8507e2ea-3f2e-4f7b-aa63-41103140d30a,Ottoman Nargile Atölyesi,CAFE,38.817352,30.539463,2772 sokak No:8,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.992
 6334d1ff-9893-4209-b5b3-ffd57084b34f,Bla Bla Cafe&Restaurant,CAFE,38.816933,30.539236,2753 Sokak No:36 B,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.890
 ceba2be6-2710-42fc-96b4-6d7844f8f6b3,Ortaköy Kahvecisi,CAFE,38.817032,30.538996,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.874
 61b71cdd-287b-4649-b5b6-9bb4eee6451c,Uykusuz Kafe ve Kutuphane,CAFE,38.81686,30.540129,M. 2761 Sok No:10/B,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.944
@@ -1044,14 +1024,13 @@ be0f930a-fa3d-44bd-95b0-6b1b8c75496f,Xafira Deluxe Hotel Alanya,HOTEL,38.850281,
 79db9906-d699-4826-b507-d9c61eedb3ac,Köken Lokantası,RESTAURANT,38.862103,30.751074,Cumhuriyet Meydanı No:17,İscehisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.877
 43339f2e-7fba-4075-8c95-71e4b61dcef1,Iscehisar Hayrat Yeri,RESTAURANT,38.861732,30.751036,İscehisar Merkez,İscehisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.935
 b70ae057-f2b2-409e-8902-13b325569cf1,Ziyafet Cigkofte,RESTAURANT,38.86092,30.748608,"Eski Hamam Mah. Özel İdare İş Hanı K:Zemin D:4, İscehisar, Afyonkarahisar",İscehisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.924
-e29eba20-8148-48c9-9212-2d07ff966e9e,İscehisar Yukarı Öz Parkı,SIGHT,38.868073,30.74519,,İscehisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.907
+e29eba20-8148-48c9-9212-2d07ff966e9e,İscehisar Yukarı Öz Parkı,ACTIVITY,38.868073,30.74519,,İscehisar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.907
 ce490024-5346-48da-8a97-1b71cebd6f62,Regulus Termal Otel,HOTEL,38.932667,30.51128,Çakmak Sokak 16,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
 c259a71b-12b9-4209-92a9-8247e0384a15,Afyon Grand Özgül Otel,HOTEL,38.934647,30.513735,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.752
 08df14e9-7805-43aa-878a-36895180c9b8,A'la Carte Restaurant,RESTAURANT,38.93401,30.513832,Grand Özgül,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.832
 2ea62f35-3528-43d8-a750-552c8e62fe4b,Özgül Termal Restaurant,RESTAURANT,38.934078,30.51405,Özgül Termal,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 90382651-baf3-4cf5-ab7b-0d545f9b6e6b,Özgül Termal,HOTEL,38.936676,30.514526,Esentepe Mh. Çakmak Sk. No:10 Gazlıgöl,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,resort,lodging>resort,0.770
 bb59ac2a-4f86-40c9-95d1-2ed6d2d7b0d6,Mercan Cafe,CAFE,38.935837,30.514235,Grand Özgül,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.925
-2a46812e-9607-4310-b23d-dbf62140c6b3,Afyon Gazli Göl Özgül Termal,SIGHT,38.934963,30.513988,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 41f2ca48-4f3d-4060-bda3-92008eb03e2a,Yakut Cafe,CAFE,38.934799,30.513437,,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.768
 23791b86-9219-4c42-8a61-d94c3fc0c416,Ceylan Termal,HOTEL,38.937111,30.513849,Esentepe Mah. Çakmak Sok. No:5/1 Ceylan Sitesi Afyonkarahisar-Eskişehir 20. Km,Afyonkarahisar,CDLA-Permissive-2.0,Overture|meta,resort,lodging>resort,0.952
 99c00386-397f-4944-b5a0-665b5a9ce957,Villa Kent Termal Otel,HOTEL,38.945644,30.515696,Esentepe Mah. Gül Sk No: 1 Gazlıgöl Havzası Afyonkarahisar,Afyonkarahisar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
@@ -1063,13 +1042,12 @@ d8002151-f4d8-4d8f-9a0c-39c646c4cbea,Bayat Gölü,SIGHT,38.969597,30.903915,,Bay
 83a925de-1226-4743-9f5e-0c113bd09633,Dört Kardeşler Pide ve Yemek Salonu,RESTAURANT,38.8853,30.833277,AFYONKARAHİSAR  İSCEHİSAR SEYDİLER KASABASI,İscehisar,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.791
 ac9856e6-4ea1-4a9e-991b-0157547abbda,Orsen Garden Bar & Restaurant,RESTAURANT,38.822609,30.937454,"Orsen (Ormancılar) Sitesi, SSK Yanı, Kuşadası",Çobanlar,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.905
 0345c235-bc73-4f1e-957f-db61a5c79831,Ozburun alabalık tesisleri,RESTAURANT,38.848419,30.99155,AKYIL Kardeşler Özburun alabalık tesisleri özburun kasabası,Bayat,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.947
-856f6609-c2b3-4d80-b04e-20b7493d4d60,Ozburun Kasabasi,SIGHT,38.828228,31.002747,Ozburun,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.878
+856f6609-c2b3-4d80-b04e-20b7493d4d60,Ozburun Kasabasi,ACTIVITY,38.828228,31.002747,Ozburun,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.878
 c3af9d88-8c48-452f-bfcc-7775a1b084d7,Bolvadin Kemerkaya Barajı,SIGHT,38.86607,31.056406,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.888
-0f25eb9f-5b3f-465c-92c8-4b4f7085caf9,Bacı Sultan Çeşmesi,SIGHT,38.923031,31.070616,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.876
+0f25eb9f-5b3f-465c-92c8-4b4f7085caf9,Bacı Sultan Çeşmesi,ACTIVITY,38.923031,31.070616,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.876
 c7658ad3-a4df-435f-a9f2-daf64f6d5172,Yedikapı Barajı,SIGHT,38.918816,31.112591,Yedikapı Mevkii Emirdağ,Bolvadin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.936
 ca1bd9b4-ed76-4017-aea1-a03e685d72b7,Yellibel Yaylası,SIGHT,38.87006,31.177267,Abdullah Dağcı ( Apık ) Ormanı,Bolvadin,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.922
-e024a328-6e84-4dc2-a668-1903aa6aefdf,Davulga Şelale Parkı,SIGHT,38.982315,31.374773,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.902
-40302c96-03aa-42e5-91c1-6e9638dc80ee,Amorium,SIGHT,39.019741,31.293343,,Emirdağ,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.758
+e024a328-6e84-4dc2-a668-1903aa6aefdf,Davulga Şelale Parkı,ACTIVITY,38.982315,31.374773,,Bolvadin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.902
 af905ccf-3aac-46eb-8d1b-8cf2f1dde694,Gazi Binbaşı Fikret Emek Parkı,SIGHT,39.037254,31.159531,,Emirdağ,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.824
 d95423e0-b51f-49e9-ab28-b3ebcbffdd44,Yayla Park AVM,SHOPPING,39.033173,31.162607,Eskişehir Cd. No:136,Emirdağ,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.825
 d02c69bc-f07a-43a7-8d6e-82672390663c,Kahve Diyarı Emirdağ,CAFE,39.032505,31.157766,Fatih Cd. No:109,Emirdağ,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.795

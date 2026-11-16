@@ -1,5 +1,5 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
-3fe9e726-4130-4eff-be1c-c37bb8c2519c,Temmuz Şehitler Parkı,SIGHT,38.174126,41.503681,,Baykan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.829
+3fe9e726-4130-4eff-be1c-c37bb8c2519c,Temmuz Şehitler Parkı,ACTIVITY,38.174126,41.503681,,Baykan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.829
 affa9bca-d05f-4fe0-8271-55fb25beda19,damak çiğköfte,RESTAURANT,38.167,41.501419,"ÜÇYOL KAVŞAĞI, Çetin Emeç Blv.",Baykan,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.898
 af2a6bb8-7899-4a03-8b17-6edfc5783304,Silvan ciğercisi mazlum usta,RESTAURANT,38.167171,41.503735,Üçyol mevkii çetin Emeç caddesi güven otel Yanı Kozluk\n,Baykan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.796
 8f6da2ab-6c09-4a9e-8322-402697548879,Kahve Hanı,CAFE,38.166355,41.502525,İpekyolu Blv. No:3,Baykan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.881
@@ -7,13 +7,11 @@ f5ca39ec-4fa8-4c6d-88dc-35ec433136a3,Öz Şark Sofrası,RESTAURANT,38.166576,41.
 92e6bee9-ef81-4dda-8189-47f61ea94d99,Adanır Alabalık Restaurant,RESTAURANT,38.161758,41.514133,Kozluk-Ziyaret Yol,Baykan,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.907
 cb992213-a7cd-4cf1-aae3-da4618109cda,Aymar a.v.m,SHOPPING,37.903309,41.60006,Yeni devlet hastanesi yani Cumhuriyet mahlesi,Kurtalan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.771
 21d00079-87e5-48da-a9ca-fd0124aaff4f,Sosyal Bilimler Pansiyonu,HOTEL,37.91909,41.935669,Turgay Doğan Cd.,Siirt,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.826
-bafb83fe-26fc-419c-9834-148bdb4fac62,Siirt Botan Çayı Ve Vadisii,SIGHT,37.915554,41.931107,Eruh Yolu,Siirt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.718
 dea90c59-78fd-4b49-877a-e10a07e7b1ec,Botan Vadisi Milli Parkı - Siirt,SIGHT,37.897831,41.950764,Botan Vadisi - Siirt,Siirt,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.844
 8cdc85db-6197-4935-9815-1c3079d1d895,Delikli Taş Rasil Hacar Cafe and Restaurant,CAFE,37.89806,41.951481,,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.866
 dc0f96f3-cb47-4375-80bf-68001f142204,Botan Vadisi Milli Parkı - Siirt,SIGHT,37.898567,41.951687,Botan Vadisi - Siirt,Siirt,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.851
-c31af558-7809-4d1e-bd4f-dafbdfb3cc10,Siirt Botan Çayı Ve Vadisii,SIGHT,37.898582,41.951878,Eruh Yolu,Siirt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.718
-19f5be03-1276-4638-82f7-52bb894044cf,Aşıklar Tepesi-Siirt,SIGHT,37.93602,41.949051,Alan Mah,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.930
-db42d724-fbbc-4010-9b89-2cdcb6f2f38f,Aşıklar Tepesi-Siirt,SIGHT,37.936119,41.953339,Alan Mah,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.930
+19f5be03-1276-4638-82f7-52bb894044cf,Aşıklar Tepesi-Siirt,ACTIVITY,37.93602,41.949051,Alan Mah,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.930
+db42d724-fbbc-4010-9b89-2cdcb6f2f38f,Aşıklar Tepesi-Siirt,ACTIVITY,37.936119,41.953339,Alan Mah,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.930
 cf38500f-3705-4fb5-8a40-731f4f813bbb,Burger King - Andera Park Avm,RESTAURANT,37.938267,41.943317,Cengiz Topel Cd. No:63,Siirt,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.991
 a630537f-4e9f-49f4-bc8a-a7e751e60817,Andera Park AVM,SHOPPING,37.938423,41.94352,Yeni Mahallesi Cengiz Topel Caddesi Anderapark AVM Kat: 2 No: Z201,Siirt,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.955
 18674f56-de35-445a-b9b9-94620c5dd374,Kahve Durağı Siirt,CAFE,37.938717,41.943462,Cengiz Topel Cd.,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.946
@@ -44,7 +42,7 @@ ca6b6682-ddc7-4c0b-819c-ad37a1adf3b3,MADO Siirt Cadde Park,CAFE,37.936394,41.938
 a21aff5a-7d64-4cd0-8111-aad37b09dca8,Nacaroğlu Gaziantep Baklava Dondurma,CAFE,37.934307,41.937717,"Tan Market, Musa Atik Caddesi 4B",Siirt,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.793
 f7f88cd8-1deb-4289-935b-3bc797a73107,Urfa Yörem baklavaları,CAFE,37.934994,41.937832,1406. Sk. No:13,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.861
 1c04ced3-6cef-4683-898a-9fe80ebc4116,Ince Kaya Canli Alabalik Ve Dinlenme Tesisleri,RESTAURANT,37.935059,41.937431,Maden Koyu Yol Üzeri,Siirt,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.910
-744ec995-5efb-40ad-a4b6-aacdd6c5a592,Kızlar Tepesi,SIGHT,37.932789,41.936733,,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.991
+744ec995-5efb-40ad-a4b6-aacdd6c5a592,Kızlar Tepesi,ACTIVITY,37.932789,41.936733,,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.991
 dbb39f0d-2ce1-4499-b592-5db3afd838bc,Pizzacı,RESTAURANT,37.933681,41.937798,"Açı Dershanesi Altı, Nuri Bayam Cd. No:3",Siirt,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.877
 dccde3d0-878a-401b-910b-1bd5ab87c52a,N-Ala Cafe & Okey Salonu,CAFE,37.932438,41.938347,Gaffar Okan Cad Üçgen Park Karşısı,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.875
 a71e9742-6243-4b38-8d7f-a24b61094c53,Andera Park,SHOPPING,37.933582,41.939838,Yeni Mh. Cengiz Topel Cd. No:69,Siirt,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,shopping_mall,shopping>shopping_mall,0.770
@@ -96,7 +94,7 @@ a817a39c-56f4-48ca-918b-7e275ea356c2,Müco büfe,RESTAURANT,37.930843,41.940365,
 b78f9182-be96-454b-9803-9e3a730ee602,Öz Diyarbakır Lahmacun,RESTAURANT,37.930908,41.940517,Hami Efendi Cd. No:14,Siirt,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.927
 a8f4686d-e929-4d24-9586-9de1da7c8ce5,Hüner Pastanesi,CAFE,37.931168,41.941193,Vahit Üçok Cad,Siirt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.757
 c65af183-622a-4e2e-bbac-ec0a9b50b174,Diyar Künefe Kadayıf Salonu,CAFE,37.930786,41.93578,"Atatürk Cad Karayolları Karşısı Mesul Özel Apt, No 29",Siirt,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.983
-611f82ad-b77b-4455-9ae9-d6145c5e90fd,Siirt Orhan Doğan Parkinda,SIGHT,37.926144,41.930302,Süreyya Öner Caddesi̇,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.916
+611f82ad-b77b-4455-9ae9-d6145c5e90fd,Siirt Orhan Doğan Parkinda,ACTIVITY,37.926144,41.930302,Süreyya Öner Caddesi̇,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.916
 b84330a6-b770-49c4-9338-69f0368bba5a,Burger King,RESTAURANT,37.936798,41.925499,Siirt Park AVM Kooperatif mah. Hükümet cad. No: 92-62 Siirt,Siirt,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
 c53fcf48-73e0-413e-93d2-59694e168121,Starbucks,CAFE,37.936867,41.925488,Kurtalan Yolu Caddesi No 88 Siirt Merkez,Siirt,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,1.000
 29cf68c5-fc4a-4837-a1a7-4cf88d9907c2,Alaçatı Muhallebicisi,CAFE,37.937027,41.925053,,Siirt,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.866
@@ -107,7 +105,7 @@ b30b7219-907c-4261-88fe-f40e71e9203e,Siirt Park AVM,SHOPPING,37.936852,41.925808
 7b27236d-1c90-4034-af19-b4b1a976c860,Gumus Nargile Cafe,CAFE,37.934757,41.933296,Bahçeli,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.879
 5d290b75-dbad-4776-a475-bfc48ece7ed8,Kizlar Tepesi Havuzlu Cay Bahcesi Turk Evi,CAFE,37.933586,41.934574,Lütfü Yavuz Cd. No:18,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.918
 289d68f6-48d2-47cc-bedc-6647a1f20d2a,Elit Pastanesi,CAFE,37.934437,41.934475,Bahçelievler Mah,Siirt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.767
-a81e25ed-b2f2-417f-a88e-05d1f4e35f82,Siirt Şahinbey Parkı,SIGHT,37.933811,41.933643,,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
+a81e25ed-b2f2-417f-a88e-05d1f4e35f82,Siirt Şahinbey Parkı,ACTIVITY,37.933811,41.933643,,Siirt,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
 5ec7854e-0358-451c-883b-13678214dcac,Adanus Pasta Evi,CAFE,37.935253,41.936043,Musa Atik Cd.,Siirt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.763
 5f0e6b26-dadf-4323-b7a3-04834c52ed33,Hangover Art Cafe Restorant,CAFE,37.935913,41.935089,Ahmet Keleş Caddesi 7B,Siirt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.955
 3d070748-d472-4b5c-9102-deb18f17afdb,Şemsi Paşa Tatlıcısı,CAFE,37.936092,41.932503,Abdullah Bağış Cd. No:24 D:35,Siirt,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.852
@@ -135,7 +133,7 @@ f43e9ea9-3f88-4cfb-8133-75ba56e2b2de,Ninova Cafe Ve Calısma Salonu,CAFE,37.9264
 54cd35b6-87b5-4078-b143-95c7486667fb,Aymar Avm,SHOPPING,37.9272,41.694283,Gençlik Cad,Kurtalan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.873
 c7958ea9-11bc-44df-8fc6-14e4e8b3be0f,Havuz ocakbaşı,RESTAURANT,37.926105,41.694572,"BAHÇE SARAY DÜĞÜN SALONU yanı, Yaşar Kemal Cd no:71/B",Kurtalan,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.976
 c245d8da-36e2-4c29-afc9-77c84aa5d860,Chef Pizza Kurtalan,RESTAURANT,37.925037,41.695633,Batman Siirt Yolu,Kurtalan,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.941
-5022cd61-4d4b-41ad-bea0-28072e2149fd,15 Temmuz Demokrasi Parkı,SIGHT,37.925793,41.695522,Cumhuriyet Mah. Yaşar Kemal Cad.,Kurtalan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.957
+5022cd61-4d4b-41ad-bea0-28072e2149fd,15 Temmuz Demokrasi Parkı,ACTIVITY,37.925793,41.695522,Cumhuriyet Mah. Yaşar Kemal Cad.,Kurtalan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.957
 15f4fe4e-b2cb-4380-9ef7-01434fc70dfb,Park Cafe & Restaurant,CAFE,37.925884,41.697212,15 Temmuz Şehitleri Parkı,Kurtalan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.875
 449bcc04-d4dd-4329-98d6-9975cb99710f,No Name Cafe,CAFE,37.924847,41.697758,Mehmetoğulları Apt.,Kurtalan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 989b128f-78b4-46a9-800e-eb2e20c77a05,Starbucks,CAFE,37.924328,41.698494,,Kurtalan,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
@@ -146,7 +144,7 @@ f2ee0552-202a-4b5e-a28d-bfa7cd12fee3,Kısmet kebap salonu,RESTAURANT,37.926044,4
 20ad8f55-473f-4317-b7a6-1db909bc62f7,Cençlik Cafe,CAFE,37.925873,41.700489,,Kurtalan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.793
 aa5fd8bb-ca74-47b7-b148-e846d37048d8,Tuana Pastanesi,CAFE,37.925129,41.700916,Beykent Cd. No:39,Kurtalan,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.925
 b0c3980e-ff1f-4a5e-9f2d-9ad344d07cc9,Expres Cafe,CAFE,37.925457,41.700096,Fırat Mah,Kurtalan,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.777
-1260c9c7-78c7-48bf-92fd-8d6abf4450d3,Kurtalan Ahmede Xane Parkı,SIGHT,37.926147,41.698368,Ahmede xane parkı elit cafe,Kurtalan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.946
+1260c9c7-78c7-48bf-92fd-8d6abf4450d3,Kurtalan Ahmede Xane Parkı,ACTIVITY,37.926147,41.698368,Ahmede xane parkı elit cafe,Kurtalan,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.946
 e2ac29c2-b3cb-46d2-ad6e-c8b4940be27e,KuRTaLaN SaaT KuLeSi,SIGHT,37.927338,41.699921,Siirt\Kurtalan,Kurtalan,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.933
 1f2cd73a-9b07-4002-805b-0452ce1c31ac,Kurtalan Demserk,SIGHT,37.983959,41.666561,,Kurtalan,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.702
 a728204a-8f08-4a4f-9c7e-a4eece680aa6,Şeytan Köprüsü Siirt,SIGHT,38.098675,41.771099,,Baykan,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.719
@@ -159,8 +157,6 @@ db976fc7-ec30-4982-8331-692590455162,Buzlupınar Dinlenme Tesisleri,RESTAURANT,3
 8867d0d2-5fca-4a7a-a730-b69cbd4f7ddc,Eti Bakır Madenköy İşletmesi,RESTAURANT,38.084446,42.152344,Madenköy Şirvan,Şirvan,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.932
 955df9b7-9746-4fee-aa3a-d3a9bc55db43,Ekommar AVM'',SHOPPING,38.059811,42.033073,,Şirvan,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.773
 a22cec8c-98dd-491f-9640-279662996837,kilis alabalık restaurant,RESTAURANT,37.930511,42.245201,,Tillo,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.805
-c872ec79-4d34-4ad5-8a68-09247ca61111,Alkumru Barajı ve Hidroelektrik Santrali,SIGHT,37.959164,42.092777,,Tillo,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.797
-68d8292b-d8d3-4738-b1ce-5a9d2ac23ede,Kirazlık Dam,SIGHT,37.922771,42.060833,,Tillo,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.783
 38e9983c-dbec-454b-8752-50a6b810be64,Tillo Tabiat Parkı,SIGHT,37.950638,42.038673,,Tillo,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.973
 5351e9f0-9264-496d-bd22-d95719d454c8,Tillo Kale Restaurant,RESTAURANT,37.951118,42.042435,Tillo Tabiat Parkı,Tillo,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.850
 0c69e45b-c85a-428e-8f5c-7d774f75c594,Muhtarın Yeri Cafe,CAFE,37.948589,42.010811,Fakirullah mah. İstiklal caddesi İsmail Fakirullah Hz Türbesi karşısı ,Tillo,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.844
@@ -175,4 +171,3 @@ fcce4eb6-5eb5-464f-934b-fc70a2f386ad,Eruh Eda Pastahanesi,CAFE,37.749336,42.1806
 51175b1f-48b5-478c-b30d-5005558fe4b7,Botan Çayı Beğendik Köprüsü,SIGHT,37.963692,42.636044,Beğendik Belediyesi,Pervari,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.724
 755c22b1-1ada-484b-bdbd-157bc03b366c,Cadde Cafe & Restoran,CAFE,37.93351,42.544064,Etem Sancak Blv.,Pervari,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.896
 ceeac1fa-4839-40de-a072-2825b8711f03,Işık Otel,HOTEL,37.93187,42.548897,,Pervari,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.950
-cc4c955a-de6c-4e5e-8ae3-b9773a6236b0,Çetin Dam,SIGHT,37.9744,42.377193,,Eruh,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.810

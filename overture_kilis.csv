@@ -1,6 +1,5 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
 62541318-18e1-402a-9e0f-8b0aaf647487,Lezzed Kebap,RESTAURANT,36.884686,36.919807,CUMHURİYET MH.ATATÜRK BL. NU:27 MUSABEYLİ PETROLÜ KARŞISI,Musabeyli,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.909
-a307be38-f2df-4c55-9555-87e7c6e29a01,Ceylan Tepe,SIGHT,36.766666,36.986664,,Musabeyli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 5f4a667f-e41f-44fe-9f19-89d9a28575f7,Ravanda Castle,SIGHT,36.872974,37.054092,,Polateli,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.838
 a9e08e0e-e0e5-41b5-ac5d-6ef09aa56803,Cafe R O D,CAFE,36.745407,37.112865,Resul Osman Dağ Çocuk Oyun Parkı Karşısı,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.955
 aff15548-9c2e-4466-8985-f483c1f4d746,Kilis Çıtır Lahmacun ve Pide,RESTAURANT,36.727612,37.101734,Akdeniz Cd. No:5/A,Kilis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.956
@@ -29,7 +28,6 @@ c7c540eb-5bf5-4fcf-9798-d404f36ad8ee,MeZe cafe restorant,CAFE,36.723602,37.10149
 e19153d3-70d6-435d-bd57-ecb1d5127d1e,Beşyüzevler Parkı,SIGHT,36.720608,37.098522,,Kilis,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.801
 97573728-b5d7-4a0f-b5b3-bce09e7d5baf,Ram Cafe,CAFE,36.729259,37.098522,Doğan Güreş Paşa Blv. No:43,Kilis,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.861
 50338f7f-3b57-46d9-b624-6595cfa68a28,Çekirdek Cafe,CAFE,36.729309,37.098305,,Kilis,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-f4ab7d3a-c9ae-4f7a-80c6-b3353af7328c,Seyir Tepe,SIGHT,36.71331,37.090054,,Kilis,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.919
 cbb7ee1d-6b02-4c68-98e2-ee3eb2b87016,Aykanat Kale Restaurant & Cafe,CAFE,36.699699,37.106678,KILIS DEVLET HASTANESI CİVARI,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.962
 6cf7514b-664e-4144-9088-5b463e9628e7,Mehmet Culhaoglu Parkı,SIGHT,36.717804,37.104198,Mehmet Akif Ersoy Caddesi,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855
 d950441c-6537-4fd4-8efe-73fe5f8c6de6,Gulis Cafe,CAFE,36.72747,37.103703,Akdeniz Cd. No:3,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.861
@@ -38,7 +36,7 @@ de02560f-bfb8-46bf-9527-28118d8b0394,Antepia Baklavalari,CAFE,36.715736,37.11100
 9a7bef72-69f3-4fa7-9183-e9b7bbad9716,Alioğlu Kadayıf,CAFE,36.715668,37.110893,,Kilis,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.751
 467e7a86-a273-4624-a3f9-1d5760b336e3,Eskicioglu Baklava,CAFE,36.719425,37.11097,Murtaza Cd. No:93,Kilis,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.908
 efba55be-561a-45f6-9e80-73636090783c,Halkmara Avm Emniyet Şubesi,SHOPPING,36.721409,37.108997,Yayla Sokak 1,Kilis,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.730
-9db41f9c-2ab6-4f81-b470-df5055895a3c,Adnan Menderes Parkı,SIGHT,36.720078,37.110607,Nacar İzzet Sk. No:19,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
+9db41f9c-2ab6-4f81-b470-df5055895a3c,Adnan Menderes Parkı,ACTIVITY,36.720078,37.110607,Nacar İzzet Sk. No:19,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
 636d2122-f5ce-42f9-a223-d7e938e313ba,Yücel Tatli Salonu,CAFE,36.725601,37.11433,Tekye Mah,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.842
 cd8ae233-de07-460d-bfca-3cbceaafb818,Sukurhane Pastanesi,CAFE,36.717003,37.11372,Murtaza Cd.,Kilis,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.785
 9ae2be3d-1067-4291-818c-2fb949d223c4,Donerci Remzi Usta,RESTAURANT,36.716286,37.113785,Cumhuriyet Caddesi 5,Kilis,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.917
@@ -62,7 +60,7 @@ b8940234-c232-472b-aa93-c293ef707204,Kelleci Hılfan Usta,RESTAURANT,36.716888,3
 292f28a4-67c8-4c32-94ca-924a6fef4265,Joud Lokantası,RESTAURANT,36.718655,37.111774,Murtaza Cd.,Kilis,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.831
 d5c2e257-97fa-47bd-b918-cfc81ae6686c,Neşet Efendi Konağı,SIGHT,36.7169,37.111324,Abuşağa Cd. No:1872,Kilis,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.915
 daa65530-170f-4416-9392-f15623f41b32,Sevgi Baklava,CAFE,36.71587,37.111557,Şehitler Abidesi Cd.,Kilis,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.911
-b2821936-2dba-49c2-b2e8-7c50137e08d7,İslambey Parkı,SIGHT,36.714218,37.11235,Şeyh Mehmet Sk. No:49,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
+b2821936-2dba-49c2-b2e8-7c50137e08d7,İslambey Parkı,ACTIVITY,36.714218,37.11235,Şeyh Mehmet Sk. No:49,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
 389657a2-7d86-46f6-8ba7-7c40289a7583,Alim Künefe,CAFE,36.707539,37.111942,İzzettin İyigün Blv. 5/1,Kilis,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.809
 a4723468-462e-4494-aaa6-35e962fe95c6,Sevgi Kebap,RESTAURANT,36.707073,37.111313,İzzettin İyigün Blv.,Kilis,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.879
 2e47fd27-118a-40d2-867c-c76771fa93af,Alsancak Döner Ve Kebap Salonu,RESTAURANT,36.711033,37.122021,Altınçekiç Sk.,Kilis,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.766
@@ -72,7 +70,7 @@ a97f2557-2938-4f31-928b-18aedbb13448,Imren Pide Firini,RESTAURANT,36.716961,37.1
 3baba5b1-0fc9-48c2-ac58-a923e1c3317a,Doy Doy Pizza Fast Food,RESTAURANT,36.71619,37.12104,Cumhuriyet Cd. No:86a,Kilis,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.950
 8783b76f-cda4-43bd-89ef-c2e5f0657583,Cicim Baklava&Dondurma Kilis,CAFE,36.715984,37.122093,Cumhuriyet Caddesi 234,Kilis,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.930
 2682f39d-1c35-44c3-9794-2420e87fabf0,Piez pizza döner cafe,RESTAURANT,36.715912,37.123215,Cumhuriyet Caddesi 3,Kilis,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.868
-730c8e8e-5af8-4c73-ad95-fe7e6e2ac960,Karatas Park,SIGHT,36.716625,37.125057,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.838
+730c8e8e-5af8-4c73-ad95-fe7e6e2ac960,Karatas Park,ACTIVITY,36.716625,37.125057,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.838
 55d74ad2-a8a3-43ff-9880-1441f686f6b5,Aygün Kebap,RESTAURANT,36.72031,37.124317,Şorhabil Cd. No:105,Kilis,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.953
 427c65e2-de57-416e-8431-dd400505fc92,Kebapçı Yaşar,RESTAURANT,36.720196,37.121819,Şorhabil Cd. No:1 no 81,Kilis,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.878
 74e6f3df-6e3c-403e-90fa-86eb56b7827c,Kilis Çalışkan Döner ve Kebap,RESTAURANT,36.720348,37.119755,ferahiye cami altı,Kilis,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.767
@@ -103,16 +101,16 @@ f0292016-3309-494c-b9c9-d4c65052cfd2,Özkılınç Kahve Şekerleme,CAFE,36.71443
 59b62d5a-1f2a-40b8-86cd-7ff61df7fb47,Hasan Bey Hamamı,SIGHT,36.713039,37.117107,Dedeağa Sk. No:23,Kilis,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.708
 652ecc83-5e50-4cbc-a304-b985ad4e48c7,Morsalkım Baklavaları,CAFE,36.714409,37.11713,Odun Pazarı Cd. No:22/B,Kilis,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.905
 a63e3824-13e1-4f95-a210-f5cc45f4fc57,Irmak Kebab,RESTAURANT,36.710457,37.115822,,Kilis,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.758
-56eb1c21-eda4-438d-9421-4e72a0a22291,Mevlevihane Parkı,SIGHT,36.715473,37.114555,Mevlevihane Sk. No:22,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.862
+56eb1c21-eda4-438d-9421-4e72a0a22291,Mevlevihane Parkı,ACTIVITY,36.715473,37.114555,Mevlevihane Sk. No:22,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.862
 12d3560f-4b5b-4b07-9a33-0f5c8d7961f7,Borsa Kebap,RESTAURANT,36.71619,37.114712,Arasa Çarşısı,Kilis,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.909
 307eefeb-a6cc-4dac-85c6-892e3b47dec2,Çukur Kahve,CAFE,36.71616,37.114586,Cumhuriyet Cad Kuyumcular Sok,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.762
-a007aa03-926b-4b8a-8354-3126cdac33d1,Kilis Fıstıklı Park,SIGHT,36.706898,37.138527,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.902
+a007aa03-926b-4b8a-8354-3126cdac33d1,Kilis Fıstıklı Park,ACTIVITY,36.706898,37.138527,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.902
 cc56bcc8-aa53-48f6-9260-940ca83455fa,Feyz Cafe,CAFE,36.706383,37.138283,yaprak caddesi no 17,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.861
 ee29139e-3e2f-4123-9ec1-c85912e0fb4e,İrrita Yöresel Yemekler,RESTAURANT,36.712566,37.138119,Kilis Sima Alış Veriş Merkezi Karşısı,Kilis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.760
 94c5676e-21f8-4fae-9395-1c636329ebc8,Palmiye Cafe Kilis,CAFE,36.710892,37.137344,Org. Safter Necioğlu Blv. no:15/b,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.834
 f09cc79a-b6f8-48e3-a81e-17832f7ad7ae,Uno Monero Coffee & Tea House,CAFE,36.706055,37.137272,Umut Sk. No:4,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.842
 16289bc1-62f8-4d43-b5b8-81cd419102d4,Yenikent Baklava and Katmer,CAFE,36.708508,37.137009,"Mahallesi, Mehmet Döğme Sokak No:22",Kilis,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.964
-914f0c04-8a46-4132-8abe-279972d8c20a,Yaşar Aktürk Parkı,SIGHT,36.709,37.136436,Mehmet Döğme Sokak,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.916
+914f0c04-8a46-4132-8abe-279972d8c20a,Yaşar Aktürk Parkı,ACTIVITY,36.709,37.136436,Mehmet Döğme Sokak,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.916
 cdabea49-bc81-4f52-bd44-ee7d3dea0b16,Kasap Cengiz usta,RESTAURANT,36.714558,37.137562,Albayibrahim karaoglanoglu mahallesi kazim karabekir caddesi (sali pazari caddesi üstü )Besevler KİLİS,Kilis,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.955
 469c325d-deb7-4aa3-ae29-37c73a1c46e9,Karabaşoğlu et pazarı kasap,RESTAURANT,36.716019,37.135307,Ekrem Çetin Caddesi 9,Kilis,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.759
 6a05c353-87cb-4d41-81d1-d81889df7a5b,Antakya Meze Evi,RESTAURANT,36.709763,37.136028,Yenibeşevler,Kilis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.847
@@ -126,16 +124,16 @@ b4ea1da4-f8cc-4a33-844b-02c703421f5a,Antep Baklava,CAFE,36.70821,37.132458,"A101
 0ef7addd-d4d3-4ba0-bfa7-9e2cb7071028,Ravanda Kalesi,SIGHT,36.708214,37.1325,,Kilis,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 44999644-91b4-440a-a720-dd0d9c8a5859,Flora Garden Kilis,RESTAURANT,36.704712,37.17667,"Söğütlüdere Mesire Alanı Yanı, Kilis Barosu Sosyal Tesisi, Gaziantep Kilis Yolu Üzeri Binası No:3",Kilis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.935
 5fe6cc80-2ee7-4440-8b37-1a4db510a2e5,Ciloglu Ocakbasi,RESTAURANT,36.706409,37.15395,Kilis Küçük Sanayi Sitesi,Kilis,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.963
-0d5490e1-9e64-4932-abcd-860610935e73,Dinozorlu Park,SIGHT,36.70845,37.149311,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
+0d5490e1-9e64-4932-abcd-860610935e73,Dinozorlu Park,ACTIVITY,36.70845,37.149311,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
 c8861b1e-1cbf-4cc0-a8be-2c4da0226811,Sehit Alaeddin Cayci Parki,SIGHT,36.709045,37.147701,,Kilis,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.707
 4b531055-48b6-4da6-bb71-de94efb54070,Safari Park Cafe & Oyun Evi,CAFE,36.707497,37.142986,Yaprak Cad No:31/C,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.919
 a8b9d308-a913-43f4-8d21-c4987f035f34,Gurme Gözleme ve Köy Ekmeği,RESTAURANT,36.7103,37.141232,"mahalle, Stadyum Sk. no:4",Kilis,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.924
 eace5b6f-510f-4018-afd9-8d0adf8f8b8e,Fıstık cafe,CAFE,36.70713,37.139553,Turgut Keleş Sk,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.973
-daa988e5-7843-4456-aa14-63fe3c0e9a7f,Kilis Fıstıklı Park,SIGHT,36.706997,37.139523,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.902
+daa988e5-7843-4456-aa14-63fe3c0e9a7f,Kilis Fıstıklı Park,ACTIVITY,36.706997,37.139523,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.902
 b7d6b45e-da38-40b8-a67d-bb043b53b375,Bilenler Biyare Kebap Salonu,RESTAURANT,36.707962,37.139744,Turgut Özal caddesi,Kilis,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.894
-ac58c002-430d-4f22-a73e-2f363abaffee,Alaeddin Yavasca Parkı,SIGHT,36.710629,37.139961,Bes Evler,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.851
+ac58c002-430d-4f22-a73e-2f363abaffee,Alaeddin Yavasca Parkı,ACTIVITY,36.710629,37.139961,Bes Evler,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.851
 5222c7bb-d5eb-4682-9980-67f104dee3a4,Romeos Cafe,CAFE,36.709774,37.140621,"No:, Org. Safter Necioğlu Blv. No:86",Kilis,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.970
-440598b5-4a3a-4df6-a796-38d9f6179abb,Beşevler Mehmet Acemoğlu Parkı,SIGHT,36.716896,37.141933,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
+440598b5-4a3a-4df6-a796-38d9f6179abb,Beşevler Mehmet Acemoğlu Parkı,ACTIVITY,36.716896,37.141933,,Kilis,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
 9d629f0a-add0-4777-89a0-00a2d232a8a4,Akpınar Cafe,CAFE,36.734413,37.149452,Yaşar Aktürk Mah. İçeri Bahçeler Mevkii No:11 Kilis/Merkez,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.776
 da73ec8f-dad8-486a-b045-636961192ad8,Akpınar Cafe,CAFE,36.732544,37.156906,İçeri Bahçeler Mevkii No:11,Kilis,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.959
 44b4f488-ad92-4de1-9e63-184ce0ba41a5,Ömer Usta Şam Tatlıları,CAFE,36.916698,37.166676,"Kozluca Mahallesi, Demirliğane Çeşmesi Karşısı",Polateli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
@@ -154,9 +152,8 @@ f664723c-ab5a-4c51-9df2-c8bde43e9547,Cafeseyirantepia,CAFE,36.981075,37.301037,,
 98a8bd86-a838-4fce-8e95-20d76f6c103d,Taksim Kokoreç,RESTAURANT,36.999897,37.30835,Onkoloji Bulvarı No:3/B Şahinbey,Polateli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.850
 def45032-abdc-4e76-ae9f-5ab49e565b17,Akşam Simit Beştepe Onkoloji Şubesi,RESTAURANT,36.992397,37.313568,Mah. Onkoloji Blv No:3,Polateli,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.946
 92e3b2ad-8ded-4431-9e44-61607c997c4a,Karakuzulu Kebap&Pide&Lahmacun,RESTAURANT,36.992744,37.314194,Onkoloji Bulvarı No.4,Polateli,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.990
-1a6e474d-aadf-48b4-91a6-733b0111a80d,Mercidabık MEYDANI,SIGHT,36.694336,37.270176,TİLHABEŞ) Köyü,Kilis,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.918
 86613628-bb9e-43c3-b8be-66b6e2aa6a9c,Şahinbey Anıtı,SIGHT,36.901466,37.361809,,Polateli,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.838
-4e47214c-23b1-4a89-8513-752e7789c755,Tivoli Park,SIGHT,36.94178,37.358501,Gaziantep Kilis Yolu Üzeri 13. Km Doğa Park Yanı,Polateli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.828
+4e47214c-23b1-4a89-8513-752e7789c755,Tivoli Park,ACTIVITY,36.94178,37.358501,Gaziantep Kilis Yolu Üzeri 13. Km Doğa Park Yanı,Polateli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.828
 04093ac3-2e6f-4313-8db6-8ce4f2105365,Durmuşoğlu Künefe&Katmer&Dondurma&Su Böreği,CAFE,36.942753,37.354317,Dr. Asım Güzelbey Caddesi 86B,Polateli,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.804
 f3cd763b-ad58-41d8-8c4f-ad06bc6f7f68,Balcı. Simit. Ve.Katmer. Evi,RESTAURANT,36.996738,37.381252,135022 Nolu Cadde 16A,Polateli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.830
 3d9817af-b7b7-488e-a30c-013d6ae4474b,Dedeoglu Durumcu,RESTAURANT,36.995869,37.383648,OTO SANAYİ SİTESİ 21 NOLU SOKAK NO:31,Polateli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.894

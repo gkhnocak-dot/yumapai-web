@@ -12,7 +12,7 @@ b38fa001-628b-4138-9dee-0223f6125d6d,Akbaş Katık Döner,RESTAURANT,37.890537,3
 59214104-bf51-4e08-b296-259c7afb9d90,Beğsan Avm,SHOPPING,37.889778,34.554996,,Bor,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.874
 e8403669-dff2-4cf7-9107-cbbeb06a494a,Bor Ay Döner & Çorba,RESTAURANT,37.887836,34.55545,,Bor,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.925
 e7f547df-eaf4-49f5-9c61-b80e4e8d6852,Bor Kayabaşı Kafe,CAFE,37.897686,34.556915,Bor Kayabaşı,Bor,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.923
-2baa7cf0-ae85-4527-b9c0-5b9885cb373e,Kayabaşı Parkı,SIGHT,37.897633,34.556908,Kayabaşı Sk. No:26,Bor,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.948
+2baa7cf0-ae85-4527-b9c0-5b9885cb373e,Kayabaşı Parkı,ACTIVITY,37.897633,34.556908,Kayabaşı Sk. No:26,Bor,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.948
 9368dbf3-221e-4e18-b34f-a90665c2f3da,Bor Osmanli Et Kasap Restorant,RESTAURANT,37.896835,34.561817,Selçuk mahallesi şeyh Ahmet Kuddusi caddesi;5B/B Bor/Niğde’de,Bor,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.821
 43c72ec4-d8ea-4baf-a0de-3350af56b422,Kardeşler Çay Ocaği,CAFE,37.893738,34.562222,Orta Çağrı Sk.,Bor,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.843
 ab597a6f-3dcb-45fe-860d-54bfb4bcefbc,Sedir Cafe Bistro,CAFE,37.893463,34.562286,13. Sk. No:3,Bor,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.987
@@ -53,10 +53,8 @@ d06c4860-5164-445a-a8d1-3b848f1fc5e3,Dostlar Sofrasi,RESTAURANT,37.542629,34.528
 f565cdb7-fce4-4137-9c88-2dbcca5cb140,Zeyve Höyük,SIGHT,37.595272,34.541943,,Ulukisla,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.741
 eff6b692-7365-4831-ba1e-2eb484d2de7d,Çiftlik Otel,HOTEL,38.174976,34.484386,çarşı mah şehit nurettin cad kula köy sok no 5,Çiftlik,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.953
 cdb7c9c6-d85a-4a3c-91aa-f638e678baa0,Tatlım Pastanesi,CAFE,38.176422,34.484344,Cumhuriyet Cd.,Çiftlik,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.883
-bcef5356-9b9a-497e-ac32-5411ac5390c5,Melendiz Dağ,SIGHT,38.127499,34.166664,,Altunhisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.819
 cf3c3bd4-8d98-4284-9199-f2dc4e0e7bf7,Ulukışla Meydan Kıraathanesi,CAFE,38.054962,34.310459,Ulukışla Kasabası Meydanı,Altunhisar,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.856
 ba502a07-7553-444a-804e-1d28614f7b17,Altunhisar Barajı,SIGHT,38.008129,34.387978,,Altunhisar,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.816
-5b091b91-50c8-4c96-a5b3-d61825b15e2f,Beşiktaş Duraği,SIGHT,37.99316,34.668385,Kayardı Bagları,Niğde,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.811
 d38b0ed5-6a38-41c1-b9af-1d445a02dead,Günbatımı Cafe & Bistro,CAFE,37.983215,34.66964,Milletbahçesi,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.935
 ef433d38-61a1-4874-8bcb-80f3f14a77f6,Saklı Bahçe,CAFE,37.972813,34.626316,Fertek mah 2 Sakli Bahce Nigde Merkez,Bor,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.946
 5aaf37ab-6402-46aa-8e29-8639d9076c34,Nizam ızgara niğde,RESTAURANT,37.971897,34.622196,istasyon caddesi bim market karşısı niğde merkez,Bor,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.794
@@ -66,7 +64,7 @@ ef433d38-61a1-4874-8bcb-80f3f14a77f6,Saklı Bahçe,CAFE,37.972813,34.626316,Fert
 a337ffa3-b2b7-46be-99e6-94159ebaed5b,Martılar Balık Evi,RESTAURANT,37.976658,34.657394,Hamamlı Köyü Yolu,Niğde,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.935
 60b2e3e9-cac0-49a5-b114-c097495143e7,Azatlı Barajı,SIGHT,37.97501,34.674629,,Niğde,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.720
 eede176e-d7a1-4045-a88d-332976d7344e,Yeşilburç Kilise Camii,SIGHT,37.977661,34.674637,Yeşilburç Köyü,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.793
-2981dc18-351c-42c6-8b29-7cc6773f9ed0,Yunus Emre Parkı,SIGHT,37.978764,34.673645,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.920
+2981dc18-351c-42c6-8b29-7cc6773f9ed0,Yunus Emre Parkı,ACTIVITY,37.978764,34.673645,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.920
 756c68ff-5f2d-46b0-9529-5986aa788fda,Ali Baba Lahmacun and Pide Salonu,RESTAURANT,37.97736,34.67347,aydoğanlar sitesi karşısı,Niğde,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.967
 3b37f0e8-b55b-454b-9275-4a39256ea65c,Ozen Dondurma,CAFE,37.974983,34.686069,Faik Şahenk Blv. No:44,Niğde,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.902
 ba5deffa-8af7-42a3-865a-64a11712dd0f,Kervan Lokantası,RESTAURANT,37.970547,34.684532,,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.884
@@ -96,19 +94,17 @@ dfd5ed3e-ff79-43ca-a752-b15440c00b9f,Niğde Merkez Cafe,CAFE,37.970364,34.676868
 40c5a919-d21d-4f31-b2a5-c3e3642ebfb7,Şanlıurfa Gülağacı Kebap,RESTAURANT,37.970024,34.677505,Tekiner Sk. No:3,Niğde,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.799
 22d27753-36bf-4f68-bacd-659cc9cab22b,Grand Hotel Niğde,HOTEL,37.969276,34.676868,Ahi Paşa Cd.,Niğde,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
 a19f80a2-cc6e-4ce6-8c00-9a782c32d9b4,Nigde Museum,SIGHT,37.96851,34.672897,Dışarı Cami Sk. No:11,Niğde,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.855
-448d7cd7-2ec4-4975-b4c4-471fe3143c0f,Şadırvan Parkı,SIGHT,37.96777,34.675049,Şardıvan Parkı İç Yolu,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.952
+448d7cd7-2ec4-4975-b4c4-471fe3143c0f,Şadırvan Parkı,ACTIVITY,37.96777,34.675049,Şardıvan Parkı İç Yolu,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.952
 c0ba9487-07cb-489c-aa06-c51acecb071a,Hatay Döner,RESTAURANT,37.968014,34.674809,Dr. Sami Yağız Cd. No10/B,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.965
 bfd6a25e-e139-406c-b99f-23ee391957c5,Serince Çiğ Köfte,RESTAURANT,37.968132,34.674976,Dr. Sami Yağız Cd.,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.757
 f99a2e99-b29a-4848-84cd-bd3844c8df6f,Doneristan,RESTAURANT,37.968239,34.67498,,Niğde,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.888
 2aae4260-01e1-4b0c-b069-44270003f6b4,Honour Hotel Niğde,HOTEL,37.968102,34.674503,Çayan Sk. No:13,Niğde,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.988
-ed3b9737-a6a3-4be4-8a04-9293ffd45f51,Taş Ev Atölye Cafe,CAFE,37.968697,34.674622,Cici Baba Sokak 18,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.965
 3cecdfaa-0952-4547-acdc-b5830e235028,Adiyaman Subasi Cigkofte,RESTAURANT,37.968361,34.675339,,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.911
 9dfcfb59-2e9c-4aac-8546-7cb045907081,Oskar Cafe and Pastane,CAFE,37.968525,34.67609,Dr. Sami Yağız Cd. no:27,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.935
 a4085231-9ffc-4745-be04-e24ad11cce6f,Saray Kır Pidesi,CAFE,37.968525,34.67622,Dr. Hüseyin Ülkü Cd. No:19,Niğde,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.952
 286c3dec-feeb-46eb-b28a-07c9bba4e3fd,Karaaslan Doner Salonu,RESTAURANT,37.968452,34.675484,Bor Sk. No:4,Niğde,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.920
 13aeefa2-fa33-48e1-909c-08c573226340,Osmanlıkahveleri,CAFE,37.968708,34.675941,Devoğlu Yokuşu 7,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.789
 9fdcac06-4ba5-4508-a5ae-f80e818582b1,Kebapci Ayhan Usta,RESTAURANT,37.968361,34.67667,İsmail Hakkı Altan Cd.,Niğde,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.805
-b17a3d36-780a-4ada-b4d9-f925715ca000,Zindan Vadisi,SIGHT,37.968807,34.679684,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.747
 7b6d7559-f1b6-4172-aefd-1c0f4ed4108a,Nigde Murat Otel,HOTEL,37.968868,34.679005,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.707
 c71f13ff-266d-4564-9683-76063cba1af8,Teras Otel,HOTEL,37.968876,34.679066,"No:, İstasyon Cd. No:26",Niğde,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.924
 dd394955-b4e8-449b-9cdd-7fc022091b08,Beyaz Saray Kebap Salonu,RESTAURANT,37.968636,34.679653,murat zeren cad. bekir ballı yokuşu NİĞDE,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.872
@@ -126,7 +122,7 @@ efe0d07f-f062-4eb6-a7dc-9a59c21743e3,Sirali Camii,SIGHT,37.969856,34.679329,,Ni�
 299a29e1-ccac-423b-bb64-03c00b1e2700,"Çukurkuyu, Kahraman Ömer Halisdemir kabri",SIGHT,37.969166,34.682495,,Niğde,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.792
 cf3d696d-2df9-49f3-96a3-34cb73a651ab,Niğde Alaattinpaşa Cami,SIGHT,37.969166,34.682495,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.751
 3382ffa8-2cd1-45bd-96da-d323adeedeec,Tılsım Kafe,CAFE,37.969578,34.685013,şehit bayram aksoy sok no:41,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.831
-ed92275a-36bd-4208-98af-7d29f57281f2,Melikşah Parkı,SIGHT,37.967949,34.682232,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.833
+ed92275a-36bd-4208-98af-7d29f57281f2,Melikşah Parkı,ACTIVITY,37.967949,34.682232,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.833
 6bd1b298-cf5c-445f-bdee-f57432e75160,Ramo Usta,RESTAURANT,37.967091,34.683075,"Saruhan, Latif Sönmez Sk., Niğde Merkez/Niğde",Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.927
 8a2a88e1-c222-4a7a-a185-83a46b58592e,Niğde Kalesi Bedesten Çarşısı,SIGHT,37.965988,34.677746,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.828
 28ea4cd5-0772-41fd-8e67-9a77eb6b7e25,Eski Saray Parkı,SIGHT,37.965134,34.677547,Hanlar Sk. No:3,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.834
@@ -138,7 +134,6 @@ c087b769-a630-4646-99a7-4e79daa54dc7,Altunhisar Zindan Vadisi,SIGHT,37.96402,34.
 a1b0e2ab-3b3c-4528-b065-d0f8fe6fe9ad,مطعم شام,RESTAURANT,37.964146,34.674667,Külhan Sk.\nhttps://maps.app.goo.gl/XADMbWQuW4uxZmMc6,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.772
 769f6b2c-5cfe-4796-8736-5835a4ff68f0,Dokuzgoz Alabalık Tesisi Nigde camardi,RESTAURANT,37.964176,34.674675,Niğde Çamardı İletişim İçin Tel NO arayın,Niğde,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.956
 b729e14c-fb6b-45bf-ab7d-835d627cfb2f,Burcusimitsarayi,RESTAURANT,37.963993,34.674507,Soyer Sokak 6,Niğde,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
-147f0b61-d74b-4e09-aa0d-70c371f0cc12,Tını Sanat Merkezi,SIGHT,37.96373,34.674004,Selçuk Mah,Niğde,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.945
 f13cf4c7-f0bf-4061-9ad2-b581fdb76c97,Beykoz Iskembe Kelle Paca Salonu,RESTAURANT,37.96344,34.67725,Bor Sokağı,Niğde,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.808
 7c1596c5-94de-4add-9187-d64f4444ba33,Selcuk Sosyete Pazari,SHOPPING,37.962315,34.676235,Selçuklu Caddesi 31,Niğde,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.792
 79e088bf-3494-4873-b424-7be5c1d7f6b5,Trendx Cafe,CAFE,37.962799,34.670345,Öncü Sk. No:6,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855
@@ -161,7 +156,7 @@ db50a267-db79-4b69-9ead-b419a245383b,Doğukan Ciğer Kebap,RESTAURANT,37.964115,
 fe6c19d7-a0c1-42d9-98ca-db3b9b4eb582,Dejavu Cafe & Nargile,CAFE,37.964951,34.669498,,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.852
 e105904b-7b8c-473a-bd4e-3336127ff138,Paça Restoran Çorba,RESTAURANT,37.965286,34.669346,Süleyman Caddesi 19,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.874
 fae84eff-66b4-44f5-9a79-bd2a84bcc5fb,Choco Waffle,CAFE,37.965412,34.669323,Aşağı Kayabaşı Mahallesi Süleyman Fethi Caddesi,Niğde,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-cf81bdb9-813c-43f5-b33d-350795b23ea2,Nasreddin Hodja Park,SIGHT,37.96582,34.671062,Öğretmen Okulu 5. Sk.,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
+cf81bdb9-813c-43f5-b33d-350795b23ea2,Nasreddin Hodja Park,ACTIVITY,37.96582,34.671062,Öğretmen Okulu 5. Sk.,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
 c0b3343a-5906-4574-9731-37a2c3621119,Çıtır Kebap,RESTAURANT,37.965607,34.671268,Öğretmen Okulu 5. Sk. No:2,Niğde,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.870
 41006e43-6db2-4db4-a6a5-975a2bf7726d,Antep Sofrasi Lezzetin Yeri,RESTAURANT,37.965607,34.671265,Öğretmen Okulu 5. Sk. No:2,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.788
 780fbfea-5336-4955-aa26-45b3bb0830b8,Kumru Cafe,CAFE,37.96558,34.671459,,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.847
@@ -181,12 +176,11 @@ c36e9b10-3213-4c01-9a94-633ec9fbe284,Gaziantep Solmazoğlu Baklavaları,CAFE,37.
 98486958-86e1-4d50-a370-10c47f766cea,Oba Dondurma,CAFE,37.965988,34.673531,Selçuklu Cd.,Niğde,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.960
 b4d70349-902d-4b5e-8042-589ad862c19a,Mersin Seç Tantuni Kebap,RESTAURANT,37.966057,34.673481,Saruhan Selçuklu Cad. No:40/3A Türkoğlu Apt. Altı,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.917
 06097016-9c5b-4189-9bf1-d7cb84696061,Lavaş Döner,RESTAURANT,37.966557,34.673283,Dr. Sami Yağız Cd. No:31,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.901
-65fddf70-0340-4f64-a94c-cc5b5f358c54,Akmedrese,SIGHT,37.966354,34.675484,Ak Medrese Cd. No:6,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.779
 2b09dfc3-33a9-4945-bd61-75033f1193f2,Cafe Cihangir 1751,CAFE,37.966515,34.676537,Cullaz Sk. No:25,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.950
 42c3406c-7432-479c-8f1c-6ffd288306ed,Tolga Çay Evi,CAFE,37.967552,34.674774,,Niğde,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.793
 ea1890b1-c560-4f94-95a5-1cad3698a24b,Beykoz Corba,RESTAURANT,37.967426,34.6744,Bor Yolu,Niğde,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.808
 fe84d8fa-8058-4975-a592-5e8a25be8870,Tarihi Alaattinin Yeri restorant,RESTAURANT,37.967106,34.673679,Öğretmenler Cd. No:18,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.905
-18d9cf80-0705-43df-bcfc-55b3d2717055,Öğretmenler Parkı,SIGHT,37.967522,34.673695,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
+18d9cf80-0705-43df-bcfc-55b3d2717055,Öğretmenler Parkı,ACTIVITY,37.967522,34.673695,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
 456a8594-94a6-4e45-8bc7-c3f6af864a64,Niğde Nova Apart,HOTEL,37.967159,34.672398,"mahallesi, Öğretmen Okulu 3. Sk. no2",Niğde,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.794
 71dd4a32-3b9a-494c-b5ad-d3181462f918,Taranta Babu Sahaf ve Cafe,CAFE,37.966984,34.672886,"Mahallesi, Öğretmen Okulu 1. Sk. No:5/15",Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.965
 cedfdfdc-535f-403a-ac39-365764968920,Levent Börek NİĞDE,RESTAURANT,37.966827,34.673218,"Dr. Sami Yağız Cd. No:20, 51200",Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.984
@@ -202,9 +196,8 @@ e0de3140-6d75-4d07-a858-175ebe6bcff9,Prestij Bay Konuk Evi,HOTEL,37.96619,34.671
 3cb2bb25-e4b4-4de4-9f2d-7e1687b80f8d,Niğde komagene,RESTAURANT,37.964886,34.65696,"mah, Gazeteci İsmet Sayın Cd.",Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.759
 66b2241e-7ae1-470f-923e-198552e2c9c5,Kahvealtım Durağı Bistro & Cafe,CAFE,37.964798,34.657215,Sabancı Bulvarı 28,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.933
 1b97caaa-1b0d-45f5-b611-fd11e3bd2ed8,Pastannem Cafe,CAFE,37.964611,34.659546,Gazeteci İsmet Sayın Cd.,Niğde,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.945
-8bb0dd15-bb5d-4dd5-9ede-5d922624a2f4,Muhsin Yazıcıoğlu Parkı,SIGHT,37.963612,34.657852,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.861
+8bb0dd15-bb5d-4dd5-9ede-5d922624a2f4,Muhsin Yazıcıoğlu Parkı,ACTIVITY,37.963612,34.657852,,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.861
 db648dfd-94eb-4c87-b012-32caa51c35e5,Cafe La Mòme,CAFE,37.964096,34.655087,Karaark Sk. No:18,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.900
-edd7aecc-9fef-4489-9294-4b4ca2efcdf3,Fatih Site B Block,SIGHT,37.963184,34.654308,Suman Kreş Ve Gündüz Bakımevi,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.799
 22bff065-5dc7-418b-b419-16c66e1ef37c,Loba Coffee & Bakery Niğde,CAFE,37.961945,34.653019,Aşağı Kayabaşı Mahallesi Atatürk Bulvarı UMT Aura Apt. Altı Niğde Merkez,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.888
 ec379d22-526d-47cf-ab5d-3d20c6aba74a,Laos Coffee Niğde,CAFE,37.96199,34.653965,"Atatürk bulvarı, bulvar51 bölüm no:26",Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.907
 c02bca25-44f8-43c4-893e-b93029cca1c5,Sofram Restaurant,RESTAURANT,37.962551,34.654819,"Mahallesi, Özdemirler Sitesi İç Yolu No:30",Niğde,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.994
@@ -230,7 +223,6 @@ c2233783-dc96-49a7-9062-f25c75f76403,Net Apart NİĞDe,HOTEL,37.964146,34.664551
 d0066d49-90e2-4195-a03f-f71c6ea1c5fc,Domino's Pizza,RESTAURANT,37.96352,34.665176,Dr. Sami Yağız Caddesi 2,Niğde,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.919
 240fd230-1775-4ddf-8b56-bd71727395fb,Burger King,RESTAURANT,37.963539,34.665607,SELÇUK MAH.DR.SAMİ YAĞIZ CAD.ASİLLER APT ALTI NO:7 3/B NİĞDE,Niğde,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 dc633930-b442-496c-935c-1f18e725e8c4,Sokak Kahvecisi,CAFE,37.963436,34.66626,Atatürk Bulvarı Dr. Sami Yağız cad. Florya Park apt altı,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.968
-b4f78abd-d601-4c43-8adc-fd23fc9665df,Şamlıoğlu Kule,SIGHT,37.964043,34.664974,Serin Sok,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.754
 a5442ae3-4d11-4c92-b4a0-c5a680d10be5,Aşiyan Pizza,RESTAURANT,37.963356,34.668278,"No: 51200, Atatürk Blv.",Niğde,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.963
 ea082378-bff4-4681-beac-89458bb11d58,Karınca Park Cafe,CAFE,37.963398,34.668049,,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.775
 bd4faf5d-064e-480f-b33c-eccfbbb37eb3,Ramada By Wyandham Niğde,HOTEL,37.963085,34.668243,Dr. Sami Yağız Caddesi 74,Niğde,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.860
@@ -239,17 +231,14 @@ f3ad59f9-e85f-429b-b3d6-110e64385d42,Furkan Baysak Pastaneleri Niğde Şube 1,CA
 ceeeafa5-f275-4473-9a8e-11a674b3821d,Joker Cafe,CAFE,37.962124,34.668686,Özdoğan Sk. No:1,Niğde,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.870
 bae6a492-05a5-4e9a-92d9-bcf77185e19f,Köfteci Ateş,RESTAURANT,37.961754,34.668003,Tuncer Sk. No:5,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.912
 de6f9478-a5a1-49a9-b337-bcdb6ccb19bc,Kayabaşı,SIGHT,37.961361,34.667645,,Niğde,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.808
-b4dc71fd-ec0a-49a4-a447-6fe00281a62b,seyir tepesi,SIGHT,37.95974,34.66737,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.708
 f90587f1-59ca-41ac-af55-f7cb6e0a5857,Doğal Söğüt Pasta & Fırın,CAFE,37.961269,34.656757,"vizyon premium AP, su sokak altı no 51",Niğde,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.913
 93763673-8cc5-4d27-b683-c28d9322dc54,Adanalı İsmail Gültekin Usta Kebap ve Lahmacun,RESTAURANT,37.961475,34.657242,Aşağı Yağdan Sokak 24,Niğde,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.994
 df82b186-9b72-4c7d-ad30-f01f15484bd4,Belgin Pasta Evi,CAFE,37.961315,34.654163,"Aybarlar My Word, Atatürk Blv. sit blok 29/1 blok no:32",Niğde,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.933
 2227005e-481d-4456-b4ce-956442f42f79,Niğde Lunapark,ACTIVITY,37.961479,34.652199,,Niğde,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.733
 a773917d-de54-4911-b290-a76365840440,Avcı Kız Apart,HOTEL,37.959908,34.670166,Kudret Sk. No:26,Niğde,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.926
-576a8d19-b50b-4270-923d-7fb697f67335,Hançerli Tepesi,SIGHT,37.961693,34.670307,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.757
 36fabc0c-4bb8-45bb-9425-b223dd3d4d27,Derman Dondurma,CAFE,37.960896,34.671814,Özel Sk.,Niğde,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.813
 932128f7-288e-4b5b-a29e-714055c1c591,Tuz Gölü,SIGHT,37.961533,34.675854,,Niğde,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.846
 ba69fa05-c78a-4a17-8dd0-1beea46b0396,Tadım Pide ve Lahmacun Salonu,RESTAURANT,37.9618,34.677185,İspiroğlu Sk.,Niğde,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.958
-8cb1e7fb-6a1a-4b0a-a17f-84f9635de5e5,Tyana,SIGHT,37.955605,34.667381,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.707
 fb370c27-4eda-4765-98a1-a2e2bb1be5e3,Şafaklar restaurant,RESTAURANT,37.950439,34.63699,,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.974
 8aeb7c96-4e0f-4b5a-9fd5-92a3766d6c7c,Tavuk Dünyası,RESTAURANT,37.957115,34.643166,"Sarıköprü Mahallesi, Atatürk Bulvarı, No:3, İç kapı No: 301",Niğde,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 b604f479-a42f-4207-ac31-968db06f23bf,Lahza Coffee & More,CAFE,37.95829,34.645264,Aşağı Kayabaşı Mahallesi Seçkin Sokak A2-38 Emlak Konutları Niğde,Niğde,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.952
@@ -285,13 +274,11 @@ e40a9a4d-0789-4e37-aa89-3b6190b8d1bd,Mavi Marmara Canlı Alabalık Tesisleri,RES
 95c4f841-7427-48ee-a19b-9e08fd4db479,Botanica Niğde,SIGHT,37.916515,34.58189,Orhan Batı Cad,Bor,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.918
 cfc870ac-c7e3-4982-a7c5-37cc532622ed,HAN APART,HOTEL,37.91172,34.570759,220. Sokak 29,Bor,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.756
 9f5fe713-2002-4197-8dff-1b0b1d24e17b,Öykü Cafe & Restaurant,CAFE,37.913704,34.559776,Doğan Baran Caddesi,Bor,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.854
-92be8cfb-72ae-4e3e-8dbd-ad00fd3cdaae,Kutul Amare Zafer Parki,SIGHT,37.911095,34.566238,,Bor,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.833
+92be8cfb-72ae-4e3e-8dbd-ad00fd3cdaae,Kutul Amare Zafer Parki,ACTIVITY,37.911095,34.566238,,Bor,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.833
 6452d774-5d58-4fb3-adf0-0dd2d5943978,KÜLÇEk KampÜS DÖNer Evİ,RESTAURANT,37.937397,34.616901,Niğde Ünv.,Bor,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.817
 ed63dd04-f3bc-433a-a712-2afe5c3d77d3,Birtat Lokantası,RESTAURANT,37.93652,34.609089,Bor Caddesi 8,Bor,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant,0.956
 257a44ce-6d93-4970-934d-067f64fae4c4,Okyanus Plaza Avm,SHOPPING,37.936565,34.608528,Tevfik Çalın Cad Bor Yol 5 Km,Bor,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.954
 57e4046c-0aa4-49b5-8701-0e1762ed54c9,Kampus Akkaya Baraji Manzarasi,SIGHT,37.931194,34.618614,,Bor,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.724
-b83d281e-7bb6-40e8-93f4-a51e7eb9133f,Sultan 2. Kılıçarslan Yurdu,SIGHT,37.93409,34.622013,,Bor,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.778
-fb5e38b5-54a0-4267-a0fd-4022dfe74b20,Arsemia Kultur ve Sanat Merkezi,SIGHT,37.916626,34.64991,214. Sokak 22,Niğde,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.868
 7fd8ffb0-46bc-4166-8b11-f0e9d5892279,Has İskender 85 Et Lokantası,RESTAURANT,37.91629,34.648712,yeni pınar mahallesi,Niğde,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.932
 f24f5ac6-01c5-4161-8102-35590938e5ef,Pozantı Yağlıtaş Göleti,SIGHT,37.634842,34.91444,,Çamardı,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.718
 2716ea1c-cd60-4a21-be0c-3a5b5bb691a2,"Kovboy Ali’nin yeri .Pirzola,Et,sucuk,kebap",RESTAURANT,37.625999,34.97057,Aşçıbekirli Mahallesi Karşı Sokak No 8,Çamardı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.868
@@ -324,7 +311,7 @@ b61175f8-fac5-4791-bb85-c36d8e25399e,Demireller Başmakçı Dinlenme Tesisi,REST
 c80012cc-6ee5-4587-ae6e-06589500ace4,Dürümcü Galip,RESTAURANT,37.972912,34.686924,,Niğde,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.818
 7d3b161c-36d2-4537-81d5-b4b8e493454f,Tatlici Yasar Usta,CAFE,37.974239,34.686707,Kumral Sk. Yalçınkaya apt. Altı No:1/B,Niğde,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.947
 6a914156-83ac-444f-a2ef-6b24544088f3,Cesurpastacilikltdsti,CAFE,37.973488,34.687672,Şehit Zekai Çamur Sokak 30B,Niğde,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.808
-d1d03c11-9afc-44da-9f56-c84110e78e93,Çağlayan Parkı,SIGHT,37.976765,34.686253,Başak Sk. No:9,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.832
+d1d03c11-9afc-44da-9f56-c84110e78e93,Çağlayan Parkı,ACTIVITY,37.976765,34.686253,Başak Sk. No:9,Niğde,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.832
 5197e6f8-020e-4e2d-8fed-e8e5e70620b7,Karamel Pasta Börek,CAFE,37.967049,34.693237,"3 Nolu Sağlık Ocağı, Merkez, Yanı, Aydınlık Cd.",Niğde,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.958
 78f00e91-d592-4b08-abc6-00513d02f643,Umut Lokantası,RESTAURANT,37.973274,34.695713,Nigde Ata San Sit,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
 36d23c6c-d0e4-4f16-a0e3-225f593adda2,Niğde Yörük Sofrası,RESTAURANT,37.979038,34.696182,Yörük Sk. No:31,Niğde,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.970
@@ -335,8 +322,6 @@ d87b29a1-7997-41a4-b964-9cdd295d96ab,4 Mevsim Restaurant,RESTAURANT,37.991119,34
 0684d4fb-51dc-475b-9e23-965e76e54a4f,Nezih Bar,RESTAURANT,37.980343,34.72522,Makam Sokak,Niğde,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.867
 53050e6f-fcf7-41c9-b3d0-5e83015b765d,Gümüş Alabalık tesisi,RESTAURANT,38.00148,34.756332,"Gümüşler, Niğde, Türkiye",Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.975
 75008f39-81ba-4b96-bd2e-22b99ff8e16c,Gümüş Bahçe Kahvaltı salonu,RESTAURANT,37.997383,34.756622,5. Sokak 25,Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.972
-d8cd808b-745f-46ca-a470-91ffd90aee34,Gumusler Monastery,SIGHT,37.998085,34.772205,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.959
-50d31534-d0bc-4b19-bf2e-eb6ec6303e24,Eski Gümüş,SIGHT,37.998333,34.772026,,Niğde,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.737
 7781bd0b-7a40-4c74-8133-82fc267b5f75,Gümüş Sini Organik Kahvaltı Salonu.,RESTAURANT,37.998093,34.772495,"Gümüşler,kasabası ",Niğde,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.761
 2e7376ba-ff30-4a64-863b-65ede92c122e,Romahavuzu Köşk Restaurant,RESTAURANT,38.070129,34.88237,Bahçeli Roma Havuzu,Niğde,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.874
 289dcdb8-101c-4e7f-8b9b-0495c48c756f,Niğde Karaatlı Derindere Barajı,SIGHT,38.142239,34.965965,Kuyuçak mevki derindere baraj,Niğde,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.746

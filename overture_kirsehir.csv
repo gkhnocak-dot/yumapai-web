@@ -1,12 +1,9 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
-acdb83da-c03c-44d3-a034-5e5d39a90eaf,Hirfanlı Dam,SIGHT,39.281166,33.516129,,Kaman,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.793
-be6d9d55-fff3-430c-a112-65aa6d48f8ad,Hirfanlı Dam,SIGHT,39.272297,33.518799,,Kaman,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.793
 d330dfe5-b3e4-453a-957a-194ac4c74a68,Hirfanlı Barajı ve Hidroelektrik Santrali,SIGHT,39.272297,33.518799,,Kaman,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.824
 62fc5954-7661-4c0b-9b60-07426510d2c2,Hirfanlı Barajı,SIGHT,39.264957,33.627537,,Kaman,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.717
-bd41caaf-c225-443d-aa86-c913395f61f3,Dadaloğlu Tepe,SIGHT,39.369026,33.708248,Ziyarettepe,Kaman,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.928
 e973e4d7-2b44-4a97-97ca-4f66e5a5c908,Koprukoy Balık Restorant,RESTAURANT,39.36528,33.707111,Ankara Caddesi 1,Kaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.827
 96997889-758c-4c60-b01b-bceb8b3313ed,Sultan Sofrası Gözleme Ve Kahvaltı,CAFE,39.358448,33.727642,Prens Mikasa Cd. 52/A,Kaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.969
-12e83387-8664-4268-bdbd-50416fc9c8bb,Kaman Erkan Ahat Cay Bahces,SIGHT,39.358845,33.720165,,Kaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.845
+12e83387-8664-4268-bdbd-50416fc9c8bb,Kaman Erkan Ahat Cay Bahces,ACTIVITY,39.358845,33.720165,,Kaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.845
 429c3145-3d22-4826-99fe-6d46b452f4ca,Pelikann Pastanesi,CAFE,39.359325,33.720329,Atatürk Cd. No:54,Kaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.989
 539691c7-15e1-47e8-8b9e-3a8f17817fb5,Teksos Döner Kaman,RESTAURANT,39.358971,33.722534,Atatürk Cd. No:5/C,Kaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
 1ca559b2-1780-407d-8414-14671a03fddc,Zeren Kebap Salonu,RESTAURANT,39.359703,33.723362,"çiflikli mahallesi, 25 Aralık Cd. no:4/A",Kaman,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.866
@@ -14,7 +11,6 @@ e973e4d7-2b44-4a97-97ca-4f66e5a5c908,Koprukoy Balık Restorant,RESTAURANT,39.365
 40784924-a242-4285-afc0-d4e1d0f2072b,Menekşe Pastanesi,CAFE,39.359016,33.724625,İstiklal Cd.,Kaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.966
 73083a70-f151-4d2e-8cd2-521362c61160,Komagene,RESTAURANT,39.359001,33.724468,Atatürk Cd. 21a,Kaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.977
 c34ce29f-446b-4d05-8258-6f9dfd8d2923,almina cafe restorant,CAFE,39.358913,33.723515,atatürk caddesi belediye binası 6.kat,Kaman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.989
-c763367e-4703-413a-9671-f734d37d86d7,Ceviz Heykeli,SIGHT,39.359055,33.723728,,Kaman,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.758
 4a1f46cc-9cf3-490d-b132-a86b30abbb1f,Cadde Ocakbaşi,RESTAURANT,39.358646,33.724239,İstiklal Cd. No:12,Kaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.922
 3f2b3c0d-2b86-4bc8-ad30-7729591bfa83,Devran Döner Gökhan Usta,RESTAURANT,39.358089,33.725124,"devran döner, sebze pazarı Sok No:5 iç kapı 1",Kaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.919
 c9c53999-4733-4abd-b646-ac1eed6213e6,Kebap 40 KAMAN,RESTAURANT,39.357567,33.724644,kaman,Kaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.909
@@ -38,7 +34,7 @@ f88c77d6-9cac-40b7-b510-a75ccdc64b63,Akpinar Saray Pide salonu,RESTAURANT,39.450
 409225a9-5897-4062-9714-5f951c197120,Apaydin Kebap Salonu,RESTAURANT,39.624851,34.096382,Atatürk Cd. No:108,Akçakent,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.831
 776cb211-5de0-435c-94d5-25b517da4027,Artukbey Kahve,CAFE,39.571754,34.321758,,Çiçekdağı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.918
 8c285be8-79c1-4f19-b5e5-4b649af657f5,çiçekdağı Çamlık milli park,SIGHT,39.579411,34.38208,,Çiçekdağı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.938
-a8cbec37-f356-4abd-bf2b-53cc277306ba,Zahidem Parkı,SIGHT,39.603657,34.421417,,Çiçekdağı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.859
+a8cbec37-f356-4abd-bf2b-53cc277306ba,Zahidem Parkı,ACTIVITY,39.603657,34.421417,,Çiçekdağı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.859
 9c89234d-aea6-42c9-b089-b7716ede9bd6,Mecidiye Cafe & Restaurant,CAFE,39.604042,34.42115,"Ali Galip Gençoğlu Sk. No:28, 40700",Çiçekdağı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.981
 aef883e0-89ca-44aa-adce-d236727bbeda,Çiçek Kahvesi,CAFE,39.604218,34.417011,,Çiçekdağı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.785
 bae3c95e-8ce7-46d4-b586-b81192f1cdbe,Eskiyurt Doğa Parkı,SIGHT,39.782688,34.204697,,Akçakent,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.706
@@ -57,11 +53,9 @@ cb0ac97f-d25c-4634-b70a-dd6bbd95bc90,Mucur Döner İskender,RESTAURANT,39.06427,
 fb6b3975-1369-4b30-8646-c74cfdc16345,Mucur Seyfe Gölü,SIGHT,39.063995,34.376652,,Mucur,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.745
 ad613cec-757f-4620-95a3-e94f55798432,mucur manolya pastanesi,CAFE,39.062771,34.377125,Mucur,Mucur,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.938
 a3aaa00c-0aaf-43dc-9d25-186b46c4ce5c,Aksaklı Göleti,SIGHT,39.058674,34.381706,,Mucur,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.770
-363d7540-ddc8-416a-b680-5ac40943e9ff,Mucur Kültür Merkezi,SIGHT,39.059795,34.386009,Hamidiye Mah,Mucur,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.849
 b6a21a1e-f51c-43ad-a91a-5ee6d93735bc,Mucur KOFte,RESTAURANT,39.062359,34.377926,Pazaryeri Sokak 2,Mucur,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.974
-3a32d450-a82a-4b7d-82b4-ba3ba11a62c7,Mucur Yeraltı Şehri,SIGHT,39.06216,34.376007,,Mucur,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.757
 9d770303-5c47-4408-8925-a02b539c964f,Han Restoran,RESTAURANT,39.08852,34.258049,"Gölhisar, Küme Evleri No:106/A, 40500 İnaç/Mucur/Kırşehir",Mucur,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.987
-ff0ad6cf-8ac3-467c-9f20-a0de80977d1a,Güzler Parkı,SIGHT,39.107838,34.157631,Güneykent Yol,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.848
+ff0ad6cf-8ac3-467c-9f20-a0de80977d1a,Güzler Parkı,ACTIVITY,39.107838,34.157631,Güneykent Yol,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.848
 e0bb9a22-f2d7-491a-80a7-8961e00602d1,Hasbahçe,RESTAURANT,39.107559,34.157993,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.999
 e8d3f164-dd7c-461f-82d3-a327af26e317,Kirsehir/golhisar,SIGHT,39.10165,34.212685,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.744
 3afe9647-f989-460b-a26d-feecfab73984,Gölhisar Parkı,SIGHT,39.101341,34.212547,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.881
@@ -82,7 +76,7 @@ f28487c5-7f25-4502-918b-36209428a91a,Kılıclı Köprüsü,SIGHT,39.13493,34.179
 82c25d54-e3b4-4859-946c-f0b1ba848c84,Dilek Pide ve Lahmacun Salonu,RESTAURANT,39.138981,34.17086,Şht. Üsteğmen Keramettin Gök Blv.,Kırşehir,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.755
 2a25e78c-2255-4cdb-9adb-5d2e39676f0a,Gazi Dondurma,CAFE,39.138268,34.171898,Atatürk Cad Güvenç Apartmani Altı No:10,Kırşehir,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.800
 cba21480-16f3-4011-9b8c-06342dc2ba26,Basın Anıtı,SIGHT,39.136215,34.172466,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.702
-9daaa770-f232-418b-b0fa-4243ff867017,Kirsehir Gazi Park,SIGHT,39.13768,34.167118,161. SOKAK,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.925
+9daaa770-f232-418b-b0fa-4243ff867017,Kirsehir Gazi Park,ACTIVITY,39.13768,34.167118,161. SOKAK,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.925
 a04c3eff-b593-4bca-8dad-21a96be78a3f,Neşet Ertaş Müzesi,SIGHT,39.13847,34.166428,Atatürk Cd. No:77,Kırşehir,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.968
 82869738-ac93-49ec-8d7e-607c697d0a5a,Almina Cafe Restorant,CAFE,39.138847,34.16571,Cumhuriyet meydanı Atatürk Caddesi ,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.967
 6d4b8e0b-7fff-4bb6-b914-caf0b644c569,Ahi Dondurma ve Çiğköfte,CAFE,39.139523,34.164898,"Ahi dondurma, Yenice, Atatürk Cd. Altaş apt altı",Kırşehir,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.928
@@ -91,7 +85,6 @@ d9282d9f-8b20-4292-9d1d-a42883740168,Aşıkpaşa Tabiat Parkı,SIGHT,39.144432,3
 8ff7257e-4741-4c31-a6e0-178c9f87e838,Kardeşler Et Mangal,RESTAURANT,39.145798,34.164101,58. Sk. No:5 D:10,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.986
 af704fa3-e8a9-4bf2-aafc-029b24eaa5c2,Öz Tadim Dondurma,CAFE,39.14661,34.164303,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.788
 2ce9d52d-7a6f-4ff7-82ed-86926bde7008,Olivia Cafe Restaurant,RESTAURANT,39.147907,34.164406,"Kırşehir, Türkiye",Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.956
-d13e47b1-d62a-4b82-abbb-b290d0cf39f7,Vosvos Sanat Evi,SIGHT,39.147511,34.165466,38. Sk.,Kırşehir,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.765
 25d1d2ce-0c1e-443e-8b21-63a9432cd2f0,Kahve Bahane,CAFE,39.14856,34.162048,735. Sk. No:9,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.893
 6141ee8f-f7f5-45b4-9a4e-2b719b1b8dd3,Helvacı Yakub Efendi Kırşehir,CAFE,39.147419,34.163101,Aşık Paşa Blv. Zafer Apartmanı no 25,Kırşehir,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.922
 b2ce0ff1-46f7-4c02-81c7-ae98f728178d,Ekmek Teknesi,RESTAURANT,39.147293,34.161659,Müftülük Cd.,Kırşehir,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.968
@@ -114,7 +107,6 @@ b98fb49a-79ea-4c04-b6b8-0923d0738d46,Komagene Etsiz Çiğ Köfte,RESTAURANT,39.1
 f3494aad-ff4a-4fe3-9bf0-262f44da3660,Kubatoglu Baklava Ve Kunefe,CAFE,39.148804,34.160278,Mehmet Ali Yapıcı Blv. No:33,Kırşehir,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.996
 f387a7ae-1171-42c9-bead-1958407e7d79,Ankara KokoreÇ (Soner SÜTÇÜOĞLu),RESTAURANT,39.148548,34.160297,Ankara Cad Biliciler İş Hanı Girişi No:34/A,Kırşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.956
 b7332f06-2cce-49ac-a42a-b165d9bf7236,Kavas Simit Dünyasi,CAFE,39.149548,34.159779,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.752
-94045bf1-d9ff-47d0-92c6-8ee37ba74eaf,Avangard Sanat Evi,SIGHT,39.149487,34.15947,ankara caddesi türkmenoğlu iş merkezi 6/28,Kırşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.770
 0bcded36-a9fe-4def-a9a3-7ab05025e117,WaffleX,CAFE,39.149525,34.158836,"kızılırmak apartmanı, 727. Sk. No:6 D:1",Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.979
 ec019900-9e84-4039-85cd-3439348d8d2f,Kırşehir Ahilik Müzesi,SIGHT,39.148266,34.158501,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.891
 ce54ed2b-ac42-4797-9b36-3bfaae567b2b,mooncoffee,CAFE,39.147655,34.159203,"Ahi çarsısı çatı katı, Ahievran Cd. ahi çarşısı D:10/16",Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.860
@@ -180,7 +172,7 @@ e781959e-4c71-4d3e-86e5-e80f148c6af6,Kokoreççi Yusuf,RESTAURANT,39.140175,34.1
 ec367884-3bca-409f-a87e-1ebd70b7a2ec,Gönül Kahvesi,CAFE,39.140442,34.160213,Atatürk Caddesi 11,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.875
 d34156e3-f232-45fb-b311-cee5d0a254b7,Eftelya Nargile Cafe,CAFE,39.141174,34.159985,181. Sokak 2/1AB,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.752
 753a5ddd-c9e7-49c0-b9d2-e666dc4d8ffb,Moda Cafe Accessories,CAFE,39.141041,34.159889,181 Sok Koton Arkası,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.793
-8f873721-1041-4275-96a6-61bfa81b8963,Şelale Parkı,SIGHT,39.14109,34.159782,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.847
+8f873721-1041-4275-96a6-61bfa81b8963,Şelale Parkı,ACTIVITY,39.14109,34.159782,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.847
 0efdad69-8ae3-41cb-9696-5f70933c2223,Arena Bilardo ve Cafe,CAFE,39.141548,34.159901,180. Sk. No:8,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.977
 6701cf22-f4cc-4213-a1d4-3f1aafd4928c,etap_resteraunt_cafe_kirsehir,RESTAURANT,39.14156,34.161392,183. Sokak 10,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.785
 053e74fc-889a-4716-9c78-264dea3ed2f8,Onay Kahvalti Salonu,RESTAURANT,39.141857,34.159721,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.771
@@ -204,7 +196,7 @@ c6a2e00c-2618-4f7b-b736-3956bdf8144e,Kırşehir Sebze Meyve Pazar Yeri-Hal Kompl
 6e41f5a4-c0b6-4124-9a35-3768e86d18e9,Terme Kaplıcası,SIGHT,39.142063,34.155483,Terme Cad Sonu,Kırşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.847
 5b7471a3-c6ad-4dd2-a857-7a85d84dce7e,Jj Bar,RESTAURANT,39.142624,34.156879,1375. Sokak 4,Kırşehir,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.858
 ce62aee5-1a1f-431b-9d2f-60c4ec94e1cc,Kırşehir Gramafon Cafe,CAFE,39.14262,34.157265,İsmet Paşa Caddesi 30,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.937
-acf0552a-efd2-4f38-9109-1336555064c6,Güzler Piknik Parkı,SIGHT,39.142948,34.158531,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
+acf0552a-efd2-4f38-9109-1336555064c6,Güzler Piknik Parkı,ACTIVITY,39.142948,34.158531,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
 9a3b8aac-33fa-4c67-8048-d7ca3a549964,Waffleshop,CAFE,39.143002,34.159512,Terme Cd. No:36 D:B,Kırşehir,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.943
 0dcb766d-f87b-410f-99be-f7fbdac3b7e9,ŞEF DÖNER,RESTAURANT,39.143055,34.159531,Terme Caddesi 36,Kırşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.918
 a48e5579-ca64-4d18-92f6-5228628b43fd,Usta Döner & Köfte,RESTAURANT,39.143051,34.159557,Terme Cd. No: 36 D:C,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.967
@@ -225,20 +217,19 @@ dfea1e2f-2479-4c79-b145-490212769367,Babil künefe,CAFE,39.142513,34.150177,Atat
 9735d2a4-28c3-43aa-8ed2-5b18edec13c8,Loop Coffee and Cookie,CAFE,39.15118,34.155273,Nasuhdede mahallesi Hacıhasan caddesi naldöken alt. No:24,Kırşehir,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.953
 eeda14f0-e5cc-4794-99cd-0ffcf2e8abc0,Pizza Gossia,RESTAURANT,39.150261,34.155785,Hacı Hasan Caddesi 14,Kırşehir,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.929
 7ff87a05-6d55-4f20-a110-5333e43a7f9a,Kocatepe Kahve Evi,CAFE,39.150562,34.157001,Kentpark Içi Büyük Ada,Kırşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
-43eb1b11-a986-47a7-a95a-bedff5654682,Kırşehir Kent Park,SIGHT,39.150581,34.157047,Ahi Evran Mah.,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
+43eb1b11-a986-47a7-a95a-bedff5654682,Kırşehir Kent Park,ACTIVITY,39.150581,34.157047,Ahi Evran Mah.,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
 c27bdf55-caf2-4e4b-9c55-5bf95a36bc04,Botanik Kafe Restorant,RESTAURANT,39.151741,34.156063,Kentpar İçi,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.960
 d32da31d-a450-40bf-9815-f05efd968896,Mom'z Restaurant,RESTAURANT,39.149689,34.158741,726. Sk. No:11,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.942
 0a02a926-974c-4ec9-984a-08f7a0313e66,Ezgi Lahmacun & Pide Salonu,CAFE,39.15023,34.161869,Yavuz Sultan Selim Blv. No:17,Kırşehir,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.940
 cf091e69-042d-4974-a525-3ef879270fd1,Gostarika Cafe,CAFE,39.151657,34.162071,Yenice Mah,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.855
-995383fc-db79-4384-a725-0c2f4173d68b,Masal Parkı,SIGHT,39.15337,34.161076,Yavuz Sultan Selim Blv. No:28,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.964
+995383fc-db79-4384-a725-0c2f4173d68b,Masal Parkı,ACTIVITY,39.15337,34.161076,Yavuz Sultan Selim Blv. No:28,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.964
 f6fab19d-79e1-4686-9dbe-cc702846d7e4,33 Mersin Tantuni,RESTAURANT,39.152657,34.159687,Mehmet Ali Yapıcı Blv. No:66,Kırşehir,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.947
 66960b50-4fa5-4782-a47f-1ca96cefa8d5,GustoricoCafe&Bistro,RESTAURANT,39.157051,34.149811,Nasuhdede Mahallesi Hacı Hasan Caddesi İkizarası kentpark ,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.832
-ee36cf6f-b0e6-401b-abb9-87a2b3793bc0,Çiçek Dağ Parkı,SIGHT,39.151299,34.168095,19. Sk. No:4,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.867
+ee36cf6f-b0e6-401b-abb9-87a2b3793bc0,Çiçek Dağ Parkı,ACTIVITY,39.151299,34.168095,19. Sk. No:4,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.867
 065ccb1f-95b0-4067-b56c-af6729d557ad,Aşıkpaşa Tabiat Parkı,SIGHT,39.151649,34.164219,Aşıkpaşa,Kırşehir,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.884
 c2902532-a947-400c-bcd8-ef4b3396dd08,Coskuntuna Hotel Kirsehir Otelcilikte 43.yil,HOTEL,39.15012,34.169346,"Ankara Kayseri Karayolu Kenarı, Aşıkpaşa Türbesi Karşısı, türbe karşısı no:184/1",Kırşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.943
 d36474a6-1a71-4aff-9fc1-275819b390fb,Kirsehir Kalesi,SIGHT,39.150192,34.16967,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.837
-58dbd3e6-4766-4b14-beb3-e91b26129bb3,Vosvos Sanat Merkezi,SIGHT,39.150288,34.16877,Aşık Paşa Blv. No:42,Kırşehir,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.739
-430903ae-817e-4d67-ac94-ec1600c8b94a,Kirkoy,SIGHT,39.154552,34.189487,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.959
+430903ae-817e-4d67-ac94-ec1600c8b94a,Kirkoy,ACTIVITY,39.154552,34.189487,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.959
 5e223224-fab8-47a2-a76f-ad676eab43ac,Köfteci Yusuf,RESTAURANT,39.134529,34.186558,Ankara Kayseri Cd. No:26/1,Kırşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.958
 50a9072f-3285-40d8-ba1e-93a18ed34c92,Tostçu Mahmut Kırşehir,RESTAURANT,39.131451,34.188171,"kadoil Petrol İçi, Ankara Kayseri Yolu",Kırşehir,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.760
 b7975702-332f-4352-b010-380e5c623447,Seyfe Gölü,SIGHT,39.19548,34.334995,,Boztepe,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.843
@@ -247,16 +238,15 @@ e5bcdc3d-bbf1-4ea1-af67-0257bb87a688,Kırşehir Seyfe Gölü,SIGHT,39.179043,34.
 5deaa07e-bb56-44ab-9c32-6893545247f1,Kırşehir Mevlana Pide,RESTAURANT,39.169418,34.14687,Ahi Evran Mah.Müftülük Karşısı Özen Apt.Altı,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.814
 22bb26e8-09a5-4b70-aacb-89b93fce14cd,Kofteci Ramiz,RESTAURANT,39.196293,34.148022,Kırşehir - Ankara Karayolu 5. Km. - Özbağ Mevkii,Kırşehir,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.981
 f8036ec4-d762-4ed6-b29c-d761b0c9fedd,Özbağ. Cay Bahcesinde,CAFE,39.208954,34.145496,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.703
-75bef1c3-b45a-47ff-a179-defe82251652,"Hılla Gölü ,  Kütük Evi ve Nilüferli Park",SIGHT,39.162231,34.136509,Çukurçayır Mahallesi,Kırşehir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.792
 418cbada-5c6d-4e06-9c1d-aa3feabe022d,Hılla Göl Restaurant,RESTAURANT,39.154568,34.142895,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.836
 53bc8d39-772b-465b-a665-a1949183a1cf,Kırşehir Mumi Ebeveyn Cafe,CAFE,39.154076,34.142658,Hılla Göl Caddesi 19,Kırşehir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.906
-5be1431c-edd6-462f-a26a-d9d6b2a456dc,Hılla Nilüfer Parkı,SIGHT,39.15411,34.143223,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
+5be1431c-edd6-462f-a26a-d9d6b2a456dc,Hılla Nilüfer Parkı,ACTIVITY,39.15411,34.143223,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.877
 86f0d88d-9b5a-4383-80b7-e7d0c5b62d06,Ramada Armas Otel Kırsehir,HOTEL,39.130978,34.128956,Armas Termal Resört,Kırşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
 e36c37ef-d98d-405e-ab2e-af5f41dd4315,Starbucks,CAFE,39.131004,34.128868,Kırşehir Armas Termal Resort,Kırşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 691f360f-9de2-4571-839b-453b772f7a7c,Makissos Thermal Hotel & Spa,HOTEL,39.130943,34.129002,Bağbaşı Mah.,Kırşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.815
-9e94470d-2ff1-40d9-b318-2fecdc0402ac,Türkü Bahçesi,SIGHT,39.130939,34.129005,bağbaşı,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.913
+9e94470d-2ff1-40d9-b318-2fecdc0402ac,Türkü Bahçesi,ACTIVITY,39.130939,34.129005,bağbaşı,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.913
 8ca3380b-13f4-4fb0-89b4-c91059687c03,Armas Termal Resort,HOTEL,39.130981,34.129128,,Kırşehir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
-d239c3a1-cb65-4153-819e-d8e2611db0a4,Kızılay Güven Park,SIGHT,39.147713,34.135239,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
+d239c3a1-cb65-4153-819e-d8e2611db0a4,Kızılay Güven Park,ACTIVITY,39.147713,34.135239,,Kırşehir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
 e8a1dfaf-8ee4-4bad-87e6-3f5b7bafb741,Muharrem Ertaş Evi,SIGHT,39.145752,34.13612,949. Sk. No:11 D:2,Kırşehir,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.886
 a2074a3e-8253-4d73-a763-d96cdae5693d,Armas Termal Otel,HOTEL,39.135796,34.142902,Şht. Kerem Aydın Caddesi 19,Kırşehir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.895
 c6bc23e5-6fbb-4e60-b22b-e66cdc28b99b,Roof Restaurant,RESTAURANT,39.130478,34.129791,"BİG TERMAL SPA OTEL, D:15.KAT",Kırşehir,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.969

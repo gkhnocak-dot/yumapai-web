@@ -2,20 +2,16 @@ sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,o
 895a9d64-ebf4-42d8-b6e1-1e06df86ddc3,Nuhoğulları Alabalık Tesisleri,RESTAURANT,40.305462,39.055984,YAYLA EVLERİ KARŞ. NO:127YUKARI KULACA KÖYÜ ŞİRAN,Şiran,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.975
 9ccb8a7a-7622-4c52-82a4-4e003b2bcbc6,Artabel Gölleri Tabiat Parkı,SIGHT,40.38826,39.173302,,Şiran,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.946
 cb776b6c-eb94-4fdc-81c2-bdad31d64a65,Abdal Musa Dağı,SIGHT,40.377388,39.105968,Gümüştuğ Köyü,Şiran,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.746
-8ae41d8d-d0a1-42e8-afee-8a4adb11089d,Kütüklü Yurt Yaylası,SIGHT,40.651726,39.010567,Kütüklü Yurt Yaylası ,Kürtün,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.781
 01feb7e6-4b35-4a80-9cee-19912736ffa8,Çağlayandibi Şelalesi,SIGHT,40.696224,39.057796,Yeşilköy Köyü Kürtün,Kürtün,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.921
 e378e9ae-5466-469a-aaaf-8ceffca22d28,Çağlayandibi Şelalesi,SIGHT,40.697933,39.092026,Kürtün,Kürtün,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.810
 685af3b4-e5ff-4beb-b196-168473926131,Hasbihal Kahvaltı Salonu,CAFE,40.700722,39.087807,Belediye Caddesi 1,Kürtün,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.823
 87fd4e8d-6cbd-4506-af80-cfaf884f7548,Yilmaz Pide,RESTAURANT,40.700672,39.087627,Gümüşhane Giresun Yolu No:25,Kürtün,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.926
 6e7dc371-73c8-4042-84a9-a9d5ab3ee5db,Kurtun Koyici,RESTAURANT,40.700966,39.086739,Köyiçi Mah.,Kürtün,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.809
 d4f3766e-8d3e-4357-91f5-3dffee4b82ff,Kürtün Çiğköfteci Ömer Usta,RESTAURANT,40.701332,39.083862,KÜRTÜN,Kürtün,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.915
-3ceae068-ac14-4b07-82c8-2e405e06508b,Kürtün Barajı ve Hidroelektrik Santrali,SIGHT,40.681664,39.127499,,Kürtün,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.760
-3a919b20-cb36-423b-97fe-07e51aae6522,Kürtün Dam,SIGHT,40.681664,39.127499,,Kürtün,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.795
 8fa77df1-ec7a-4651-9ae9-c7ebeb70d233,Kürtün Baraj Gölü,SIGHT,40.669956,39.134846,,Kürtün,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.718
 fba9c166-ecc3-4c15-8f31-6d245b70b209,Doğa Bungalov,HOTEL,40.65181,39.158737,Özkürtün Beledesi Doğa bungalov Tatil Köyü  Gümüşhane özkürtün,Kürtün,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.758
 67d1cefc-399d-44f0-a28c-98d359bee4df,Kürtün Barajı,SIGHT,40.640915,39.21804,,Torul,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.710
 65caa4f9-375b-4ff1-87fd-a32b1cc9ff50,Köstere dinlenme tesisleri ,RESTAURANT,40.61739,39.336662,Gümüşhane Torul,Torul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.812
-fde50511-7610-4010-9fa8-887c2d248234,Minarli yaylasi,SIGHT,40.673256,39.297306,,Torul,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.941
 b5983f6b-6bd6-4ec5-8984-ddaca9ee9289,Abalu Osman'In Yeri,RESTAURANT,40.721684,39.33358,Kadırga Yaylası,Torul,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.796
 6f8c091c-8234-482a-bddf-d25eee1f588c,Şanlı Kıraathanesi,CAFE,40.729633,39.28928,Kızılağaç Yayla Küme Evler 63,Kürtün,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.956
 05144461-1918-4147-8093-694ab44762b1,Seloba yaylası,SIGHT,40.731903,39.272373,Kalınçam,Kürtün,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
@@ -44,7 +40,6 @@ d660825d-0be6-40f7-b275-a0c1ce5548e8,Lütfü Dayının Yeri - Zigana Et & Mangal
 dd09e2ee-ced5-4d90-86c9-ceadc3f9c095,Zigana Çamlık Tesisi,RESTAURANT,40.655861,39.401398,,Torul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.949
 1e7b253a-afe5-482d-ad6b-61e21890c4d1,Zigana Çamlık Restorant & Hediyelik Eşya,RESTAURANT,40.655987,39.401272,Zigana Tünel girişi,Torul,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.975
 654b0bd8-7230-42da-a6e5-e3b1d01eb3c6,Limni Gölü-Zigana,SIGHT,40.610512,39.412827,Zigana Köyü,Torul,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.992
-783cc038-8890-46f9-bf0c-f86ceb3dce0b,Limni Gölü Tabiat Parkı - Dağ Evleri,SIGHT,40.631069,39.419643,"Zigana, Saranoy Yaylası",Torul,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.911
 5fe882ef-1a61-41d3-8890-3feadfcdd52c,Gazi Osman’ın Yeri,RESTAURANT,40.67091,39.438271,Hamsiköy Merkez Küme Evler 135,Torul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.807
 0ae14f1a-a1f2-4a49-afa9-f095681e106b,Hamsiköy Taşlık Restaurant.,RESTAURANT,40.672749,39.452969,Çıralı mahallesi Çıralı küme evleri no 2 Hamsiköy Maçka Trabzon ,Torul,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.964
 bdfd072e-c7fe-46a5-ac04-529a877ef749,Halgent Şelalesi,SIGHT,40.445541,39.50877,,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.847
@@ -73,7 +68,7 @@ e351ff14-cd47-42a4-aeac-ac2e69945f94,Mustafa Usta'nin YERİ,RESTAURANT,40.459354
 4717c343-c9b0-420e-b86f-61ee8886a742,Köprübaşı,SIGHT,40.458649,39.478516,,Kelkit,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.767
 0aedf222-18e9-42a5-8b96-f28369a6c7db,Pasaport Pizza,RESTAURANT,40.458588,39.478523,Karaer Mah. Atatürk Cad. Belediye Binası Altı,Kelkit,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.770
 54d5ef9c-ee18-4d5f-9fbc-028b59d43cfb,Palet Pastanesi,CAFE,40.458443,39.47876,Atatürk Cad Yeni Belediye Altı Zemin Kat 4 Dükyan,Kelkit,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.934
-655bd0e4-2c9d-4981-a9ff-8e04fa8dd441,Fatih Parkı,SIGHT,40.458771,39.478184,Cumhuriyet Cd. No:2,Kelkit,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.970
+655bd0e4-2c9d-4981-a9ff-8e04fa8dd441,Fatih Parkı,ACTIVITY,40.458771,39.478184,Cumhuriyet Cd. No:2,Kelkit,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.970
 4633ba26-6dd3-4165-9e32-a848ae0ee4db,Lokmator,CAFE,40.459141,39.477867,Cumhuriyet Cd. 1. Sk. No:2,Kelkit,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.951
 bded6a6e-6ee3-4854-975e-88387b7ee6d7,Çiğköfteci Ömer Usta,RESTAURANT,40.458977,39.478142,Cumhuriyet Cd. NO:2 D:H,Kelkit,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.935
 395e5d94-7bc2-406d-8513-cd05f3700d28,Kahve Diyarı Kafe - Gümüşhane,CAFE,40.459499,39.477654,Cumhuriyet Cd. No:10,Kelkit,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.758
@@ -102,8 +97,7 @@ a2ea2842-99b8-481e-b7e9-39f03d2dbab2,Umudum Pide Lahmacun Pizza,RESTAURANT,40.45
 2015c0d1-f009-41d2-9ef2-4e1bc648c648,Gumushane Selale Banklari,SIGHT,40.458645,39.484837,,Kelkit,CDLA-Permissive-2.0,Overture|meta,aquarium,arts_and_entertainment>animal_attraction>aquarium,0.761
 bb8e76fa-27b6-478d-9492-e287cd058ef3,Gümüşeller Cafe ve Restaurant,RESTAURANT,40.458858,39.484879,,Kelkit,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.866
 c44a79af-71a3-49c5-ab96-22c3e45a84ac,Gumushane Selale Banklari,SIGHT,40.458405,39.485588,,Kelkit,CDLA-Permissive-2.0,Overture|meta,aquarium,arts_and_entertainment>animal_attraction>aquarium,0.762
-ebb0dd18-7f07-465e-9d9b-99caee2fa855,Minı Asım Şelalesi,SIGHT,40.458828,39.485386,,Kelkit,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.720
-11df60e1-50fc-4936-8c65-42c885a013c3,Şelale Parkı,SIGHT,40.459213,39.484905,,Kelkit,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.800
+11df60e1-50fc-4936-8c65-42c885a013c3,Şelale Parkı,ACTIVITY,40.459213,39.484905,,Kelkit,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.800
 6b19edd0-9055-4a4c-a044-40c2a11e9194,Kral Konak Cafe & Nargile,CAFE,40.459049,39.483402,Ataturk Cad,Kelkit,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.751
 ff9fa08b-167d-4c90-9cba-638bad114fe3,Atatürk Parkı Çay Bahçesi,CAFE,40.459003,39.483944,,Kelkit,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.907
 7cb8e43f-42f4-4c13-875d-2987b4235951,Lale Lokantasi,RESTAURANT,40.458591,39.482704,Atatürk Cd. No:44/A,Kelkit,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.769
@@ -128,7 +122,6 @@ c56eaacc-fd53-4ac1-8928-c2cf6a8dae46,Cafe Ediphan,CAFE,40.460556,39.472767,,Kelk
 bfa7f124-f62a-4984-a601-007be5759c8f,Onbir Kardeşler Dinlenme Tesisi,RESTAURANT,40.506226,39.422867,Mescitli Köyü Yolu,Torul,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.995
 8b322955-917c-49bf-816b-67311d2af1c6,Kardeşler Kıraathenesi,CAFE,40.524677,39.369545,,Torul,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.766
 656b6e2a-7bec-4074-9000-174196b10f59,Kavurmacı,RESTAURANT,40.524101,39.396473,,Torul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.867
-60415a37-726a-496f-ade2-827d20d444a0,Karaca Mağarası,SIGHT,40.544289,39.402977,Karaca,Torul,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.961
 caa283d1-1fe2-4a60-8f83-3e57f8a6e9d8,Köstere dinlenme tesisleri ,RESTAURANT,40.550129,39.294674,Gümüşhane Torul,Torul,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.757
 3028d0e9-91bd-4bcf-98a6-a5d7b588c799,Gümüşhane Torul Kale Cam Seyir Terası,SIGHT,40.55722,39.291943,Torul Otogar Karşısı Sanayi Sitesi Üstü Kale İçerisi,Torul,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.927
 27133173-cb57-41cf-a464-2e27adbcfd20,Kale Palace Hotel TORUL,HOTEL,40.556496,39.294037,Atatürk Cd. No:12,Torul,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.967
@@ -206,7 +199,7 @@ de5c02b3-1891-4a02-874a-be9a76197485,Komagene,RESTAURANT,40.43594,39.51445,,Güm
 c7ef12d9-c278-41fe-b93e-17dd2b0faf66,The Coffee Academics,CAFE,40.435917,39.514217,Kazım Karabekir Cd.,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.849
 3d8af837-c8c2-4cc2-a2d3-e470a9047edb,Hasankeyfcafebistro,CAFE,40.436478,39.516663,Karayolları 101. Şube Şefliği,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.915
 28424c81-4ca0-4103-99e6-e5f42aa82ba2,KervanSaray Cafe&Fırın,CAFE,40.429554,39.518101,sema doğan karşışı,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.917
-bfe6a3ae-e549-45dc-b4d6-3ffb6d80d572,Sema Doğan Parkı,SIGHT,40.427933,39.520092,,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.978
+bfe6a3ae-e549-45dc-b4d6-3ffb6d80d572,Sema Doğan Parkı,ACTIVITY,40.427933,39.520092,,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.978
 91bbf7f5-b7cc-4769-b221-b25ba001ac3b,Kervansaray Cafe & Market,CAFE,40.434326,39.518948,Baglarbasi Mah Semadogan Parki Yani 2.etap Toki Karsisi,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.824
 7312d8c5-9af9-4060-b947-b4cb24d53c4c,Harşit Otel,HOTEL,40.417812,39.590179,Kaleönü Mahallesi İpekyolu Caddesi No:209 Tekke Beldesi,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.943
 648fca7a-003d-4573-b238-3f0b28bbc070,Gümüşhane İçme Suyu Barajı Şantiyesi,SIGHT,40.452423,39.598061,,Gümüşhane,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.769

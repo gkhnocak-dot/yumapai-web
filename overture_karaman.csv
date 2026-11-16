@@ -1,6 +1,6 @@
 sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,originalCategory,taxonomyHierarchy,confidence
 1a0da429-9bbe-4cbb-a4e8-20ca00bd37b1,Ermenek Barjında,SIGHT,36.51516,32.746819,Ermenek,Ermenek,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.831
-eb3eb914-f8d4-4aa4-a2b5-68eecb44b863,Ardıç köy,SIGHT,36.701958,32.525333,,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
+eb3eb914-f8d4-4aa4-a2b5-68eecb44b863,Ardıç köy,ACTIVITY,36.701958,32.525333,,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
 948405eb-4dbb-4f4e-b4b3-9f556cda1fcb,Akçe Pastanesi,CAFE,36.697258,32.616276,Sarıveliler Yolu No:70800,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.962
 a9043a3c-f5ae-41a6-88f1-0f8b900bc93e,Çevlik Barajı,SIGHT,36.697514,32.616566,,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.875
 2d27137e-9302-4a5e-b28d-b2907258923e,DEMİR Alişveriş Merkezi,SHOPPING,36.69936,32.615387,sehitduran caddesi hükümet konagi yol üzeri Sarıveliler KARAMAN,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.854
@@ -13,10 +13,9 @@ aa90ac10-a6ff-47c5-a8b5-ed130b59b062,Ermenek Barana Cafe,CAFE,36.624378,32.91708
 2d642219-3e37-44b6-a138-41ddf714e9b7,Öz Şahin Otel,HOTEL,36.621689,32.919312,Seyran mah. Müsteşar Yardımcısı Lutfi elvan cad. No.52,Ermenek,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.823
 f12ca766-3709-43a6-bd3d-e14fd6a1d4e3,Manzara Cafe,CAFE,36.62075,32.91996,"Seyran Mahallesi, Lütfi Elvan Caddesi, Bpet Petrol Altı, No:60/1",Ermenek,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.957
 d688e6eb-c93e-4579-a6ae-e59a1e25a73e,Kokoreçci MEMO,RESTAURANT,36.632431,32.902561,Seyran Mahallesi,Ermenek,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.963
-426df23c-2e2b-4e41-af2a-d143e1c9c398,Seyran Kaya Manzara Alanı,SIGHT,36.632465,32.902294,,Ermenek,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.761
 f98ca967-d5f4-4927-97bf-0c0e83e347bd,Asma Altı Alabalık Restoran,RESTAURANT,36.635082,32.894058,Prof. Dr. Hüseyin Göral Cd. No:33,Ermenek,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.917
 a60e559d-a157-47f8-a569-9283ac7a8d05,Şelale Kafe,CAFE,36.636642,32.893383,,Ermenek,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.897
-ea88d739-ebb5-4da5-9158-8370d4c15ad6,Lütfi Elvan Kent Meydanı,SIGHT,36.638691,32.889278,Atatürk Cd. No:5,Ermenek,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
+ea88d739-ebb5-4da5-9158-8370d4c15ad6,Lütfi Elvan Kent Meydanı,ACTIVITY,36.638691,32.889278,Atatürk Cd. No:5,Ermenek,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
 25c197e9-fe7e-41cb-83cd-20776b48d074,Marassa Konak Otel,HOTEL,36.637642,32.890503,Taşçeşme Sk. No:12,Ermenek,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.957
 6e901a16-2c76-4b04-bb3f-91e458485e7f,Ermenek Kalesi,SIGHT,36.63998,32.89056,Merkez Ermenek Merkez,Ermenek,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.912
 44f736a7-44de-4916-b529-7cf7b2069eae,Özdemir Fırın&Pastane,CAFE,36.639862,32.890724,,Ermenek,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.859
@@ -29,11 +28,10 @@ c01541d0-ddb6-4759-84e2-c742cd68169f,Ermenek Kısmet Pastanesi,CAFE,36.639462,32
 febdd2cf-8e80-4ea5-81a6-f888d25a8286,Akdeniz Etli Ekmek Ve Corba Salonu,RESTAURANT,36.639957,32.888779,Çınarlısu Mah,Ermenek,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.793
 a34ecee8-0693-4eed-a6b9-dbed82ebe32b,Umut Cafe,CAFE,36.640667,32.894047,,Ermenek,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.853
 df5c24c3-6c78-422b-8d03-6e449a6cfb37,Yasin Börek&Pide Salonu,CAFE,36.640034,32.891403,,Ermenek,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.823
-18c45020-990b-402e-9e82-81c0e6b17d0f,Akasya Parkı,SIGHT,36.640026,32.891438,,Ermenek,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.884
-73416d71-8262-4774-a71f-8227d1166496,Maraspoli mağarası,SIGHT,36.641632,32.892056,Çilingir Sk. No:15,Ermenek,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.701
+18c45020-990b-402e-9e82-81c0e6b17d0f,Akasya Parkı,ACTIVITY,36.640026,32.891438,,Ermenek,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.884
 86995bd1-a603-4d44-924b-7f800d042fb2,Vega Coffee,CAFE,36.640388,32.884331,Meydan mah. Cumhuriyet Cd. 226/4H,Ermenek,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.847
 f2e2ef06-3cc0-4693-ab74-d2180fefc6fb,Bizim Ora Restoran,RESTAURANT,36.669086,32.824352,Gömmeci Parkı,Ermenek,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.936
-d0cf9137-f80c-4402-9623-0dc915f3a7cd,Şehit Muharrem Akça Parkı,SIGHT,36.680176,32.807896,,Ermenek,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
+d0cf9137-f80c-4402-9623-0dc915f3a7cd,Şehit Muharrem Akça Parkı,ACTIVITY,36.680176,32.807896,,Ermenek,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
 0134790c-3702-47af-8799-e57cfc9e9e73,Basdere Otel Restorant,HOTEL,36.679707,32.616405,Merkez Cad,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.969
 e50e3211-a877-4878-a5b9-d2e1d69d938f,Kardelen Otel,HOTEL,36.629601,32.625202,,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.760
 ac94de23-74c3-4f3b-808d-bfdc2dac7567,Kardelen Restaurant,RESTAURANT,36.629417,32.625149,göktepe kasabası,Sarıveliler,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.925
@@ -44,7 +42,6 @@ a1404eaf-3361-4db1-9974-733823670b1f,Genç Cafe,CAFE,36.630753,32.625294,,Sarıv
 791d70a3-2edb-4465-a8b6-57056d390290,Görmeli Çayır Çay Bahçesi,CAFE,36.535831,32.978008,,Ermenek,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.785
 0874e1d2-1042-4a99-bf96-a426e6b5297e,Ermenek Pınarönü,SIGHT,36.566479,32.83918,,Ermenek,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.774
 5cde2886-f71a-4bda-9b67-ab4d39e73dbe,Ermenek Pınarönü,SIGHT,36.579197,32.845806,,Ermenek,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.774
-32ff617c-b994-4c88-9ed3-ce8b3aafb234,Ermenek Barajı ve Hidroelektrik Santrali,SIGHT,36.568199,32.964996,,Ermenek,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.793
 78ab1ee5-6229-48b4-a368-2c6eba8f2559,Sazak Köprüsü,SIGHT,36.949963,32.532635,Sazak Köyü,Başyayla,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.843
 894160ff-c842-49ad-9c2a-498fb6c8995a,Gödet Baraj Gölü,SIGHT,37.093056,33.32674,,Karaman,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.773
 853f2438-307b-4825-95b2-23f49e155735,Güley Et & Meze Evi,RESTAURANT,37.116791,33.269356,"Mesire Alanı Yanı, Baraj karşısı",Karaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.971
@@ -61,12 +58,11 @@ c16df404-8dcc-4c68-9dec-5e2b2f8e17fc,Koko Park Köfte ve Kokoreç,RESTAURANT,37.
 b4794bf7-8c07-49c6-a05c-85bee6668d5d,Nazif Kara Saklı Orman Yol Geçen Hanı & Çay Bahçesi,CAFE,37.191757,33.207638,100. Yıl Blv.,Karaman,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.827
 b92587b6-f80e-433a-84e9-be0f57ea7bf3,"Karaman,Makro avm",SHOPPING,37.192154,33.209541,Hacı Celal Mahallesi,Karaman,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.818
 0efa6cd1-e12e-4613-bcd2-f2465bae1568,Ak Köprü,SIGHT,37.189678,33.211376,,Karaman,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.857
-d490e50b-c555-49f9-b753-e00217662e9b,İmran Sanat Evi,SIGHT,37.188248,33.210941,225. Sokak 9A,Karaman,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.918
 05c27d9c-34c3-44dc-8785-a9954e1313ce,Lider Köfte Kokoreç,RESTAURANT,37.187508,33.207615,Özcan Genç Caddesi 6A,Karaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.912
 b2ff5d95-6167-4ccc-95af-100f001fc7d6,ÖZLEM kokoreç & KÖFTE 'nazif kara',RESTAURANT,37.19133,33.208591,Hacıcelal Mh. 100. Yıl Blv.,Karaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.985
 090c8a11-8645-4202-ba97-4ff1827662a8,Yusuf Usta Etliekmek Ve Pide Salonu,RESTAURANT,37.188442,33.202324,100. Yıl Blv. No:12,Karaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.795
 a998208c-383f-4971-9b51-ffd8136c1160,Hecceler Kahvesi,CAFE,37.185677,33.203896,Hacı,Karaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.899
-ee2fff04-3a1b-4ee9-baa2-2102441ea51b,Karaman Kültür park,SIGHT,37.184273,33.199787,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.909
+ee2fff04-3a1b-4ee9-baa2-2102441ea51b,Karaman Kültür park,ACTIVITY,37.184273,33.199787,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.909
 9d08c1c7-9a6f-443c-97b2-a25a8e0d3806,Çağrı Etliekmek ve Pide Fırını,CAFE,37.183598,33.199928,Özcan Genç Cd. No:75,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.816
 5807a64d-1dd1-4b2e-96a1-25f4be976238,Emekseven Köprüsü,SIGHT,37.183456,33.199886,,Karaman,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.955
 21de0507-42e7-4a65-81ea-43b68a834bf7,Mangalcı Bey,RESTAURANT,37.185322,33.203823,518. Sk. No:16,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.869
@@ -133,7 +129,7 @@ d8f28fbe-f6dc-4774-919c-d78a29745414,Karaman Tandır Evi,RESTAURANT,37.185131,33
 d55a3324-f883-4d19-984a-cc2ce4200207,Karaman Kent Otel,HOTEL,37.184696,33.219479,Kemal Kaynaş Cd. No:31,Karaman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.991
 e5279739-51b0-4884-a619-1551572f06ff,Sevgi Pastanesi,CAFE,37.184814,33.218449,Molla Fenari Cd. No:29,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.805
 f1dc5feb-b0fb-4c85-8420-1f98b155a72d,Kervan Pastanesi,CAFE,37.184593,33.218445,Molla Fenari Cd. No:23,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.886
-d5ec0250-6ebf-4772-8a0e-bf1e96fa0aa0,Alparslan Türkeş Parkı,SIGHT,37.18568,33.217655,37. Sk. No:3 70100,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.985
+d5ec0250-6ebf-4772-8a0e-bf1e96fa0aa0,Alparslan Türkeş Parkı,ACTIVITY,37.18568,33.217655,37. Sk. No:3 70100,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.985
 582dcef5-8a1b-4989-bb84-2d4ab5e73ece,Karadeniz Yufka Mayali Şebit Kadayif,CAFE,37.187355,33.220207,ŞEHİT NİHAT AKMAN CADDESİ,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.809
 1959fb6a-dfc9-493e-aafd-2dc695799e36,Kehribar Okey Salonu,CAFE,37.18726,33.219536,256. Sk. No:1,Karaman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.926
 3d90d453-ae03-4c9f-96a8-8b1ee09b920f,Kübra Mantı,RESTAURANT,37.186447,33.218925,Kazım Karabekir Paşa Cd. no:16/A,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.863
@@ -217,18 +213,18 @@ c7d6db40-eefd-4790-a8d0-5f71fe9e3ee4,Han Apart Günübirlik Kiralama,HOTEL,37.17
 9ef5f6e0-cf40-4467-a8d5-e46a8215beef,Girant Karaman Otel,HOTEL,37.172512,33.225853,,Karaman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.766
 7b1582a1-9fbf-4844-add5-baef3a3047da,Mevlana Yemekleri,RESTAURANT,37.171696,33.222656,860. Sk. No: 17,Karaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.791
 5061d70b-96f6-4298-8a84-eae7588c31e3,Güven Etliekmek ve Lahmacun Salonu,RESTAURANT,37.16925,33.214794,Hacı Ömer Kayserilioğlu Cd. no:66/a 70200,Karaman,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.835
-ef96ce50-af00-4891-8d3f-02eccd542877,Turgut Bayraç Parkı,SIGHT,37.176247,33.213631,Hüseyin Avnibey Cd. No:19,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.801
+ef96ce50-af00-4891-8d3f-02eccd542877,Turgut Bayraç Parkı,ACTIVITY,37.176247,33.213631,Hüseyin Avnibey Cd. No:19,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.801
 eb285768-89e7-4d09-90e6-770f5af6385a,Hünkar Etliekmek & Lahmacun ,CAFE,37.179092,33.220028,Bekir Sıtkı Erdoğan Caddesi 22,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.895
 9b82c18e-981d-44d4-bfe4-ba7a331e5ca4,Adıyaman Çiğköfte,RESTAURANT,37.176548,33.219761,Bekir Sıtkı Erdoğan Cd. No:53,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.820
 78c5ce1b-9c2d-478d-a1dc-ac29f95b3f96,Osmanlı Etliekmek,RESTAURANT,37.176453,33.219738,Bekir Sıtkı Erdoğan Cd. NO:55/A,Karaman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.948
 f6acb16c-7b42-45e0-8f0e-41dc43e38996,Demosan Hotel,HOTEL,37.176735,33.22583,"Yeşilada Zeytin Dalı Bulvarı, Mut Cd. No:107",Karaman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.984
-a102ef3f-dde0-4d9a-9339-a4ce20754969,Zafer Parkı,SIGHT,37.175247,33.228214,Zembilli Ali Efendi,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
+a102ef3f-dde0-4d9a-9339-a4ce20754969,Zafer Parkı,ACTIVITY,37.175247,33.228214,Zembilli Ali Efendi,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
 e21344e0-9e06-4170-810a-5cfd07821d2c,Tatlıpınar Pastane ve Kuruyemiş,CAFE,37.177422,33.225506,Mut Caddesi Sebahattin Özer İş Merkezi No:1,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.994
 8e716b69-9b25-460c-8d88-483d5fffed2f,Kartaloglu Mayali ve Gozleme,RESTAURANT,37.177719,33.225136,Mut Cd. No:82,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.871
 cbf69b63-79c1-4455-a380-7c7b7c3c574b,Manazan Magaraları,SIGHT,37.180157,33.221935,Taşkale,Karaman,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.967
 2e863a09-f9e6-4aa8-bcfa-52f0c50a0f19,Oz Adanali Ali Usta,RESTAURANT,37.180557,33.222561,60. Sk.,Karaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.929
 ae3ad1e9-3a26-43e6-9a22-46621071191f,Şebnem Pastanesi,CAFE,37.180584,33.223515,Hoca Mahmut Cd. No:2,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.969
-eaf9a472-c7e4-4fdd-b68b-cd903c4ba166,Türk Dünyası Kültür Parkı,SIGHT,37.180698,33.223698,Karaman,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.864
+eaf9a472-c7e4-4fdd-b68b-cd903c4ba166,Türk Dünyası Kültür Parkı,ACTIVITY,37.180698,33.223698,Karaman,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.864
 c6479e7a-acc8-434d-91c4-aa5ef3992c9e,Karabüber Kebap Salonu,RESTAURANT,37.180565,33.223469,"Belediyenin giriş kapısının karşısındaki sokakdayız, Hoca Mahmut Cd. No:4/b",Karaman,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.840
 784f6980-13b3-4715-a0a0-3f8a8f05e48c,Onur Izgara Salonu,RESTAURANT,37.179363,33.224831,Mut Caddesi,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.761
 802669fa-b46a-4e1b-9ca0-afc547e1e53b,Anteplioglu Pastanesi,CAFE,37.179417,33.224861,Mut Cd. No:99,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.882
@@ -237,7 +233,7 @@ c3c8e083-9963-4286-9464-a8c9b5183fd7,Asel Tantuni,RESTAURANT,37.181919,33.223267
 74a5671b-22f1-4ba0-8b11-264d6e32106c,Sezen Pide Fırını,RESTAURANT,37.181862,33.223457,Türkdili Cd. 6a,Karaman,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.786
 4e4c4066-f3ee-430b-84c8-fcb0617638ed,Kiremit Kebap,RESTAURANT,37.181786,33.223991,Zeytin Dalı Bulvarı No: 57,Karaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.804
 c9b99358-4e07-4590-b0ad-94a5558cd9e0,Karabüber Kebap Salonu and Restorant,RESTAURANT,37.181454,33.223919,Mut Cd. No:7,Karaman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.923
-c3909852-119e-47e1-8e0b-5905e99e7210,Koyunlu Park,SIGHT,37.181732,33.222172,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.904
+c3909852-119e-47e1-8e0b-5905e99e7210,Koyunlu Park,ACTIVITY,37.181732,33.222172,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.904
 30b6c601-8d70-402f-9fc8-8de9cd536050,Kız Kalesi,SIGHT,37.182793,33.222565,Silifke,Karaman,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.824
 1e438848-075c-479b-9593-4d10f79b03d3,Pazaristan,SHOPPING,37.18314,33.223438,,Karaman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,shopping_mall,shopping>shopping_mall,0.770
 edd78aff-9433-4c9b-9027-7404658d3fa4,Rengarenk tost shop cafe,RESTAURANT,37.182377,33.219845,Yunus Emre Cd. No:18,Karaman,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.768
@@ -250,12 +246,11 @@ c70dc458-ba5a-4ec3-84fc-afe95492aad5,Ocakbaşı,RESTAURANT,37.18309,33.218933,39
 fe454ff0-8c33-4098-9f27-e72acaf12a45,Vitrin Pastanesi,CAFE,37.182381,33.219009,Yunus Emre Cd.,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.940
 81870edd-85b5-4da0-83c0-ec48328c2905,Hatay Döner,RESTAURANT,37.182457,33.219257,Yunus Emre Cd. No:3 D:C,Karaman,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.886
 e74d2def-db1b-4425-a8aa-92493224a3c5,Bereket Doner ve Izgara Salonu,RESTAURANT,37.182251,33.219002,2. Sk. 1/c,Karaman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.815
-39b92992-b55a-42b8-9b18-04a812c86949,Kule Vizyon,SIGHT,37.182243,33.219032,2. Sk. No:1,Karaman,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.717
 f181d6c6-043e-4c42-a433-1160ef1bb041,Topçuzade Döner Izgara,RESTAURANT,37.18224,33.218868,"Mahallesi, 2. Sk. No:3",Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.885
 0cd591df-9dd3-46a7-9e44-949a01a0d023,Korkmazlar Izgara Tantuni,RESTAURANT,37.182137,33.218311,8. Sk.,Karaman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.954
 97f1b063-0e10-4c00-8aac-1f3f95ed8aa8,Hatıra Tantuni,RESTAURANT,37.181915,33.218327,1. Sk. No:2,Karaman,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.953
 280f9274-2e12-4c1c-8f7f-90c5aa93d677,Mersin Tantuni Karaman,RESTAURANT,37.182091,33.218338,"8. Sk. No:5, 70100",Karaman,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.939
-72772f6d-5dae-4614-bdf7-96f6108d67fa,Yunus Emre Parkı Şiir Bahçesi,SIGHT,37.182095,33.220608,47. Sk. 16a,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.919
+72772f6d-5dae-4614-bdf7-96f6108d67fa,Yunus Emre Parkı Şiir Bahçesi,ACTIVITY,37.182095,33.220608,47. Sk. 16a,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.919
 1bd62173-e6cc-43da-b01a-ccb160cc06bd,Mim Lokantasi,RESTAURANT,37.18185,33.220322,Şamkapı Cd. No:83,Karaman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.927
 f5c48f69-05bb-43eb-bee2-0bd1e8642561,Hamarat Abla Sofrası,RESTAURANT,37.181847,33.220448,Tabakhane Geçidi Cadde No:4,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.917
 b20c359a-6701-460b-8724-131296ee6c8a,ÇINAR KÖFTE Kokoreç Tantuni,RESTAURANT,37.181137,33.221802,75. Sokak 50/8,Karaman,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.935
@@ -274,7 +269,7 @@ d1e89e60-7808-44d3-9538-1a60ffdf0b43,Güven Pastanesi,CAFE,37.180828,33.218334,A
 12d04e2c-f31e-4c87-ab76-c404ab7f4daf,Deniz Yıldızı Balıkçılık,RESTAURANT,37.180477,33.213428,İmaret Cd. No:18 D:I,Karaman,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.980
 f82e8df2-0131-4758-b312-b82a1de08085,Bulut Pide,CAFE,37.180843,33.214722,Mansurdede 97. Sokak No:9L,Karaman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.915
 a36eaf20-1b41-4cd5-a207-4ed6f4bf6f62,Taşkale Tarihi Tahıl Ambarı,SIGHT,37.181099,33.214996,,Karaman,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.803
-55906c4a-60c4-4d93-a689-1f46c25374dc,Karaman Türk Dil Parkı,SIGHT,37.181099,33.214996,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.841
+55906c4a-60c4-4d93-a689-1f46c25374dc,Karaman Türk Dil Parkı,ACTIVITY,37.181099,33.214996,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.841
 a3e1e247-e532-401f-ad8a-c13bb3cfa08c,Tat Bak Pastanesi,CAFE,37.181274,33.213951,,Karaman,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.896
 c64b6d12-9e81-4bd2-aaaa-6d888034605f,Güney Alışveriş Merkezi,SHOPPING,37.181232,33.213909,İmaret Caddesi 7,Karaman,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.974
 b0ac7658-6cae-4042-8e4a-7105e3c8110c,Tekke Tavuk,RESTAURANT,37.182213,33.214149,Atatürk Bulvarı 16,Karaman,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.936
@@ -311,14 +306,14 @@ d07e1181-9c14-467f-9685-ef30c4365f96,Değer Çiğköfte & Fast Food,RESTAURANT,3
 2c0324c8-3378-4806-bede-7d36c0d55d15,Tavuk Dünyası,RESTAURANT,37.175369,33.204231,,Karaman,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.947
 ea07a1b1-640e-4e18-8a87-9aa042bb7204,Zinnureyn Camii,SIGHT,37.178829,33.197598,,Karaman,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.741
 0bf8c53c-6212-4818-9f8b-4eb7a8cd8fbd,Hisar Etliekmek ve Pide Salonu,RESTAURANT,37.182949,33.20237,Şht. İsa Kiriş Cd. No:19,Karaman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.951
-eab19ef2-1eef-4c7b-aa01-ae048e70784c,Karaman Necmettin Erbakan Parkı,SIGHT,37.1833,33.192261,Konya karaman Girişi,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.884
+eab19ef2-1eef-4c7b-aa01-ae048e70784c,Karaman Necmettin Erbakan Parkı,ACTIVITY,37.1833,33.192261,Konya karaman Girişi,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.884
 79d7ed76-857a-4682-8c74-e170a5fe2525,coffeekangoo.karaman,CAFE,37.182911,33.189186,10. Sokak 3,Karaman,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.918
 d1b72512-9f64-485d-894a-c9b66bdd0edc,Usta Dönerci,RESTAURANT,37.182934,33.187588,FATİH MAHALLESİ 1979.SOKAK NO 206 KAT 2 MERKEZ/ KARAMAN,Karaman,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
 73f47133-9302-4315-bbe3-fa60831f48f8,Burger King,RESTAURANT,37.182934,33.187588,KARAMAN MERKEZ FATİH MAH. 1979 SOKAK. NO:3 KARAMAN PARK AVM,Karaman,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
 c85d30d8-45fc-48bf-8270-6fee94c941e4,Bayland Restaurant Cafe Çocuk Eglence Alani,RESTAURANT,37.165165,33.208424,926 Sok No:42,Karaman,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.960
 cb69243b-3e3d-42a8-b3b2-d5f9144543b4,Tofaş Restaurant & Bar,RESTAURANT,37.159588,33.214146,,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.854
 5e6336e9-17d8-450d-9f59-0ae83272d72c,Şehit Muhammet Yalçın Seyir Tepesi,SIGHT,37.165878,33.218613,Siyahser Mah,Karaman,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.871
-4b2c6423-554d-4e24-a091-58d838f07958,Gülistan Parkı,SIGHT,37.16515,33.227272,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
+4b2c6423-554d-4e24-a091-58d838f07958,Gülistan Parkı,ACTIVITY,37.16515,33.227272,,Karaman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
 192b9c17-88b4-4a45-9f96-2aff1ad5e717,Kocaoğlu Etliekmek,RESTAURANT,37.164433,33.24461,Yavuz Sultan Selim Blv. no 45,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.891
 1781960d-d6ca-45e3-b089-9279581ba7a5,Harun Usta Aile Etliekmek Salonu,RESTAURANT,37.156391,33.240032,Şehit Hamza Çetin Bul No:110/F,Karaman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.966
 2db1965d-55e4-434d-86aa-5a419a498cd7,Hatuniye Uygulama Oteli,HOTEL,37.151199,33.240978,,Karaman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
@@ -338,4 +333,3 @@ a2a05b00-1d89-4734-aaa2-6d94ec5bd944,gözde tantuni,RESTAURANT,37.22929,32.96072
 d20f73b3-9e65-41c5-a925-db2c49224cd1,Taşkale,SIGHT,37.139874,33.606213,70.02,Ayrancı,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.882
 f824605f-6068-45f6-8c88-de8095571ab7,Tahıl Ambarları,SIGHT,37.13995,33.606388,Merkez Tavşanlı Köyü,Ayrancı,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.862
 4df58e20-4192-4965-abe9-9236b7b3068a,Gürlük Et Balık,RESTAURANT,37.141449,33.610859,"Taşkale Köyü Merkez, Karaman",Ayrancı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.925
-e2fa08ef-0a5f-470f-a7f4-7bf955ee6c90,Taşkale (Kızıllar),SIGHT,37.133297,33.616699,,Ayrancı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.816

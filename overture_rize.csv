@@ -29,11 +29,10 @@ be6ce7a8-bb57-469c-86a4-e032c5c299a4,Meteliksizler Kıraathanesi,CAFE,40.776615,
 1f19432f-e50b-4771-8991-ac2562087227,Arçevit Yaylası - Meles İkizdere Rize,SIGHT,40.627338,40.593887,Çifteköprü Köyü,İkizdere,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
 72b83cd5-cb6d-496e-aef6-50a61d40e78b,Çamlik Alabalik,RESTAURANT,40.700436,40.672638,,İkizdere,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.861
 917fec94-ee59-4a04-80ef-568eff414d4d,Ridos Thermal Hotel & Spa,HOTEL,40.7836,40.60873,,İkizdere,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
-c733fbf5-034e-4ab6-8f37-78754a07108b,Kıbledağı Zirvesi,SIGHT,40.947296,40.611362,,Güneysu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.913
 b6af7a16-c092-48ff-b398-00efebc1591f,Doğa Kafe,CAFE,40.951931,40.623894,,Güneysu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.768
 8f57297d-5f6e-45b9-a369-bd6995cf5c80,Kıbledaği,SIGHT,40.955868,40.634624,,Güneysu,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.812
 909c2f67-21a0-4c99-b52e-8833c21d5825,Flora Handüzü Resort,HOTEL,40.882767,40.650307,Handüzü Yaylası,Rize,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.992
-865136bb-9fdc-46f0-8048-9697cb3b84d2,Arapdüz Picnic Area,SIGHT,40.913605,40.651035,Unnamed Road,Güneysu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.967
+865136bb-9fdc-46f0-8048-9697cb3b84d2,Arapdüz Picnic Area,ACTIVITY,40.913605,40.651035,Unnamed Road,Güneysu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.967
 6fed344f-d456-4480-b9b5-e5d9a4cf82eb,Hür Çay,CAFE,40.940212,40.64135,Güneysu/kıbledağıköyü/ılıca mevkii,Güneysu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.886
 8eb82475-7379-4569-a124-31e738b0b7f2,Gurgen Baskoy,RESTAURANT,40.930927,40.659573,Guneysu Gurgen Baş köy,Güneysu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.933
 149194e3-8cd9-4103-8295-80ea3d58976c,Faso Yaylası,SIGHT,40.798954,40.702202,,İkizdere,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.882
@@ -55,7 +54,6 @@ c1952cd2-e576-4cf9-8a5b-61fa974874c8,Meydan Şimşir Bungalov,HOTEL,40.888958,40
 512c6ab0-4282-4aee-97a2-4243bf7c2e3a,Badara Dağ Evi Bungalov & Cafe,RESTAURANT,40.929932,40.917503,,Rize,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.863
 6ac20b4a-616b-4622-9779-5cda4e4442dc,Zilkale Hotel ve Köy Evi,HOTEL,40.922901,40.948174,Zilkale köyü Anayol No: 30,Rize,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
 b0c59ac4-eb68-4049-849e-1456fed4bf91,Zilkale Kaledibi Cafe,CAFE,40.958889,40.962971,,Rize,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.822
-949f45b4-feda-404d-889f-b6bf5bd5214e,Zil Castle,SIGHT,40.959126,40.962738,,Rize,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.811
 4a6c9c7e-71bc-4810-9f83-216da3cf0e27,Yolundibi Cafe,CAFE,40.926044,40.955509,Zilkale yolu üzeri Ortan Köyü Yolundibi Cafe,Rize,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.936
 ba5e9f4d-ffb9-409f-8734-93edffa9e8e9,Zilkale Otel,HOTEL,40.916584,40.94556,,Rize,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.962
 1f350775-6207-4007-90c4-808af485dfe2,Çat Şimşir Ormanları,SIGHT,40.907818,40.9487,,Rize,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.759
@@ -68,7 +66,6 @@ b8ee0423-1698-4205-ac3f-86d94c72921b,Çat Yaylası Toşi Pansiyon,HOTEL,40.86380
 4a8cb8b0-9009-404c-81ae-46fc42c92177,Turizmin otel işletmecisi,HOTEL,40.862057,40.942368,Rize Çamlihemşin Çatköy Türkiye,Rize,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.842
 a47a7fbb-1f4e-4e1c-9799-b6b28ce977a6,Kartal Pansiyon,HOTEL,40.855476,41.012913,Elevit Yaylası,Rize,CDLA-Permissive-2.0,Overture|meta,lodge,lodging>lodge,0.896
 5666afff-fbc8-4397-ac4d-1fa5f51cfa51,ArdiÇ Apart Otel,HOTEL,40.883411,40.982826,AYDER YAYLASI,Rize,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.806
-cd7cc6c5-fe5b-458f-a41d-f4e430f37ab8,Ayder Yaylası,SIGHT,40.941227,40.968224,,Rize,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.739
 a8529528-6b34-4e8c-88d1-070be5794dda,Adalı Göl Pansiyon,HOTEL,40.941227,40.968224,çamlıhemsin  Koçdüzü Yaylası,Rize,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
 cea3a426-9a5d-46c2-887c-e03d387025ed,Kır kafe yayla pansiyon,CAFE,40.941208,40.96822,Yukarı kavrun Yaylası ,Rize,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.760
 7517ccf1-e021-45da-a04a-56f8729f2845,Tarzanpark Macera Parkı Cafe Restaurant,CAFE,40.943932,40.97438,,Rize,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.961
@@ -117,7 +114,7 @@ d269bacb-0680-42d1-b90c-33f7e92e4910,Yılmaz cafe Restoran,RESTAURANT,40.951622,
 025a8296-a94f-4a58-aa5d-9a6056864c9f,Ayder Çağlayan Aile Pansiyon Cafe&Restoran,CAFE,40.952671,41.101028,Rize /Çamlıhemşin Ayder YAYLASI,Çamlıhemşin,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 94eda60f-5136-4558-9e3b-7d53435d97b0,Gelgor Hotel,HOTEL,40.952675,41.101006,"Asagi Ambarli Mevkii, Ayder Yaylası Yolu",Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.959
 f1162a75-2c50-49f4-8d3e-5466bb4bf3a7,Natura Lodge Hotel,HOTEL,40.952908,41.100761,Natura Lodge Otel Ayder Turizm Merkezi,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.993
-910ae1cc-7e7b-4dea-acb7-5ac847675216,Ayder park,SIGHT,40.952648,41.101933,Şht. Binbaşı Ömer Aktuğ Cd.,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
+910ae1cc-7e7b-4dea-acb7-5ac847675216,Ayder park,ACTIVITY,40.952648,41.101933,Şht. Binbaşı Ömer Aktuğ Cd.,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.896
 a556e6aa-4ac5-41ce-b222-354b2581b692,Villa babil hotel,HOTEL,40.952953,41.101837,"Adres:, Ayder Turizm Merkezi",Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.798
 3107c898-70e0-4608-9416-2dabb58d7d73,Ayder Zumrut Restaurant,RESTAURANT,40.952259,41.102337,Binektaş Mevki,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.967
 3975a3ed-5b3a-4921-8e76-825a28cdaa41,EYLÜL Restaurant,RESTAURANT,40.952286,41.102348,"Villa de Pelit, Ayder Yukarı Ambarlik Küme Evler 87",Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.982
@@ -163,7 +160,7 @@ b2b9c67e-c7a2-4a70-9ecc-b4c47cd905ab,Ayder İmamoğlu Apart Otel,HOTEL,40.954754
 6c7d3eac-60d8-4b83-8f23-4a15e3984e6e,Kuşina CAFE,CAFE,40.959484,41.150631,,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.806
 a2dd5372-4015-4a54-a24a-ff8e37a4d49e,Ceymakcur Zafran Otel,HOTEL,40.897114,41.175632,Göller-Ceymakçur Yolu,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.939
 216f6bfb-a55d-4c59-b410-6d4be76cb361,Avusor Gölü,SIGHT,40.92952,41.20554,,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.772
-86bc7878-af7a-4f34-819b-e6ac45dc884e,Armutluk Rize,SIGHT,40.972103,40.428646,,Kalkandere,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.804
+86bc7878-af7a-4f34-819b-e6ac45dc884e,Armutluk Rize,ACTIVITY,40.972103,40.428646,,Kalkandere,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.804
 90b898b9-ae2f-4c8b-a6e0-7ef22c419a13,KÖŞEM ÇAY,CAFE,40.972862,40.431866,Yavuz Selim Caddesi 10,Kalkandere,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.902
 cdf29164-c8e7-47b7-8a94-d3cbbb2f6cab,Aklar Cay,CAFE,40.969967,40.426426,Asmalık Mah. Kendirli Köyü,Kalkandere,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.943
 1475bc13-dbe3-45c4-ae83-e8c9476ea15a,Derenin Altı Kafe Restoran,RESTAURANT,40.967178,40.383938,Mesire Alanı No 264A,Kalkandere,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.958
@@ -208,11 +205,9 @@ c652fa8f-3d2c-42be-b8b6-82be82e5ae64,Pagar Pastanesi,CAFE,41.024578,40.423897,,D
 6e2ac12a-ead9-477a-8e22-d810f74ab4d6,Rize Sarayköy Plaji,SIGHT,41.02298,40.379662,,İyidere,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.809
 e906e564-b594-4f45-9f7c-c928519b9b84,Eskitoglu Selalesi Salincak,SIGHT,41.027004,40.449024,,Derepazarı,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.892
 874be73a-ac9a-4f10-8ff3-1f5a9a889f15,Altınbaşak Çay,CAFE,41.024376,40.500858,"Kanbursırt Mahallesi Erzurum Cad, Fabrika Sk. No:28",Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.967
-9886fec6-5067-46a7-a1db-48f42e98db1a,Timya Vadisi,SIGHT,41.015945,40.51334,Timya vadisi,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.884
-eff50eba-9857-4307-a7c1-f1a8d91ac428,Nil & Joy Park,SIGHT,41.016617,40.514847,Yeniköy Sokak 17,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.878
+eff50eba-9857-4307-a7c1-f1a8d91ac428,Nil & Joy Park,ACTIVITY,41.016617,40.514847,Yeniköy Sokak 17,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.878
 e11e5ec4-5b7f-414f-b8a4-c70fa2df87ba,Timya Outlet AVM,SHOPPING,41.016827,40.514755,Mostar Caddesi No:17,Çayeli,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.978
 0d6e36c4-e8e0-438a-858b-20386e201ecb,Kumm Cafe,CAFE,41.01672,40.510937,Üniversite Sk. No:14,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.844
-95e563f3-4ce1-4b81-b155-fa51974cb54e,Rize Paşakuyu,SIGHT,41.020569,40.528851,Rize,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.873
 3e246e34-1cc6-4e60-ae57-ee0bf905251a,Pastaci Muallim,CAFE,41.022949,40.537842,Yenişehir Cd. No:51 D:214,Çayeli,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.947
 235c8867-c46b-4101-976e-892789724331,ÇİSE BÜFE,RESTAURANT,41.023598,40.539391,Yenişehir Cd.,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.772
 c9f6b0db-76b2-443b-bd82-091ff8e28f3d,Biberzade Rize Çiğköfte - Sushi & Taco Rize,RESTAURANT,41.025215,40.537682,Atatürk Cd. No: 606/A,Çayeli,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.836
@@ -220,7 +215,7 @@ c9f6b0db-76b2-443b-bd82-091ff8e28f3d,Biberzade Rize Çiğköfte - Sushi & Taco R
 6f752b7a-ec5f-4ff2-8108-9e6bc1590113,Rize sahil,SIGHT,41.025948,40.539154,Gülbahar Mh.,Çayeli,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.871
 a839b9f0-258a-4239-85fd-f5a41ddbfdcf,Coffeehause 53,CAFE,41.026352,40.54464,Elif Sk. No:2,Çayeli,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.930
 8273cbc8-81ee-4311-a6b1-cff670426ac2,Coffeehouse_,CAFE,41.026352,40.54464,Elif Sk. No:2,Çayeli,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.930
-b2b9c737-f740-4552-877b-9d60e651ea1b,Rize Sahili Spor Alanı,SIGHT,41.02655,40.541534,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
+b2b9c737-f740-4552-877b-9d60e651ea1b,Rize Sahili Spor Alanı,ACTIVITY,41.02655,40.541534,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
 021714c4-fc0c-420b-a63f-6be7bcc61137,Baklava Dünyası,CAFE,41.026825,40.544132,Gülbahar Mahallesi,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.798
 eec4b824-9a90-44ac-b35c-ca67df82254e,Coast Coffee,CAFE,41.026577,40.53318,"Sahil Dolgu Alanı, Menderes Blv. No:97 D:2a",Çayeli,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.995
 e6bec6aa-1775-4aa7-aacf-61a573582c1a,Şafak Cafe & Restaurant,CAFE,41.026432,40.529621,,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.942
@@ -274,7 +269,6 @@ e6d7e196-4196-4317-87bf-19f069cd0ee1,Rize Sahil Plajı,SIGHT,41.024734,40.521271
 c9e4d868-5057-4535-bd17-d81a06e0e748,Merdiven Alti Cay Ocagi,CAFE,41.024685,40.521103,,Çayeli,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.868
 bba9693a-f8e6-4947-b987-438a9e2c06c8,Antep Durum Evi,RESTAURANT,41.024513,40.521088,Atatürk Cad,Çayeli,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.798
 f51a37ad-4c7f-4d45-9d37-ea9ab273142a,Rize Öncü Döner,RESTAURANT,41.024544,40.521595,Cumhuriyet Caddesi 145/b,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.884
-4eac0d29-5e3e-461c-84ab-8e1d24e5ab53,Zilkale pokut Yaylası,SIGHT,41.02457,40.521839,,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
 90197003-816e-4d82-a793-4a9cce300e0f,Çavdi Bungalov,HOTEL,41.024563,40.521858,Çavdi Bungalov,Çayeli,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.913
 83062598-4e82-4d16-84ad-67a98db16526,Öz Adıyaman Çiğ Köftecisi Abuzer Usta,RESTAURANT,41.024315,40.521442,Atatürk Cd. No:516,Çayeli,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.784
 81dc644e-0c0d-4aff-a2a4-54d576446543,Otel Devran,HOTEL,41.024155,40.521038,Meydan Cd. 26/A,Çayeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.985
@@ -287,7 +281,7 @@ a3e507e7-0299-4cc3-ae27-e357f34c9865,Saklı BAHÇE,RESTAURANT,41.024349,40.52565
 054c36a4-4d9c-44f3-8bf6-36e1eec767f2,Rize Balık Ekmek,RESTAURANT,41.024822,40.525314,,Çayeli,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.911
 bd063db9-aeeb-4dd8-899a-c50a6fd6f85c,Laleli Çarşisi,SHOPPING,41.024666,40.526325,Elvan Sk. Laleli Çarşısı No:14 Merkez,Çayeli,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.753
 1b3fcdd1-0def-4f65-a18b-94c2183c5004,Aydoğan Otel,HOTEL,41.024517,40.527065,Laleli Cd. No:18 D:2 Nolu,Çayeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
-df4a4805-d817-4e79-95e5-24ab9b38b619,Temel Reis Parkı,SIGHT,41.024635,40.52755,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
+df4a4805-d817-4e79-95e5-24ab9b38b619,Temel Reis Parkı,ACTIVITY,41.024635,40.52755,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
 359db3cb-737c-408e-b1f9-7b0a356e5159,Tadım Börek,CAFE,41.024132,40.527706,,Çayeli,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.917
 4faa8f54-8717-4b9f-bf63-0c2ab043056d,Tostbağa,RESTAURANT,41.024323,40.531517,Cumhuriyet Caddesi 300B,Çayeli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.978
 71c8725a-edee-4cbe-9179-0c9874d4e341,CMB Fast Food,RESTAURANT,41.024284,40.530842,Cumhuriyet Cd. 217/A,Çayeli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.855
@@ -360,7 +354,7 @@ df8fcc13-1dd1-4b83-9809-db2053cab91c,Rize Şeh Cami De,SIGHT,41.024731,40.516705
 c8a680f3-eba8-4926-a6e9-f9cb1f4ddc17,Mavi Kose,CAFE,41.025005,40.517143,Atatürk Cd. No:283/B,Çayeli,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.919
 f44e53ad-143b-44b4-8bd9-31d082fb5c87,Osmanlı Kır Pidesi,CAFE,41.025078,40.517151,Atatürk Cd. 281a,Çayeli,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.964
 532fa6e4-afaf-4a89-aa07-0b1c97a88dda,Kent Büfe,CAFE,41.025215,40.517426,"Marasal, Fevzi Çakmak Cd. No:3/c",Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.912
-b672f366-e006-4f59-acdf-8997e9286a9b,Memişağa Parki,SIGHT,41.025024,40.518066,Atatürk Cd.,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.931
+b672f366-e006-4f59-acdf-8997e9286a9b,Memişağa Parki,ACTIVITY,41.025024,40.518066,Atatürk Cd.,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.931
 bf3cbae8-3d69-4fbf-839e-0b76cc14da19,Karaali Büfe,CAFE,41.024986,40.518528,Atatürk Cad,Çayeli,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.833
 3ca4c4e9-6205-4672-9d7e-206ee9ccf0cd,Uzunoglu Lahmacun,RESTAURANT,41.02499,40.519272,Cumhuriyet Cd. No:111,Çayeli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.986
 eb1606fd-3b73-4bab-947c-ff842b3edafd,Adıyörem Çiğköfte Rize Çarşı,RESTAURANT,41.024933,40.519524,"FLO Karşısı, Cumhuriyet Cd. No:157 D:C",Çayeli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.847
@@ -414,7 +408,6 @@ e15edbb0-2f93-4822-b095-1a9152ed8da2,Konak pastaneleri,CAFE,41.025898,40.518303,
 c1ed8ff6-aca0-4621-b24c-7ee0f477fb7c,Hatır Kahvesi,CAFE,41.026062,40.51836,Deniz Caddesi,Çayeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 3e4b3c29-ec5b-4909-917e-5324521e7c4d,Tostçu yaşar,RESTAURANT,41.026123,40.518551,"çarşı avm, Osman Karavin Cd 3P B blok",Çayeli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.983
 67dd3e83-7294-426b-9a48-9d2b2812e86a,Yeni Bahar Teras Cafe,CAFE,41.026112,40.518909,Eminettin Mh.,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.782
-44e6ed84-e1ff-430e-91b1-4bdebf31a469,Zilkale pokut Yaylası,SIGHT,41.026073,40.518902,,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.807
 ae25cf6f-eff8-4c98-a361-a632f74943ea,Bkrcoffee,CAFE,41.026409,40.51828,İbrahim Karaoğlanoğlu Cad Çarşı Avm A Blok No:4-1/3,Çayeli,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.932
 9a2bb775-14fd-443d-8d65-4974523b4e11,Şahin Tepesi Cafe & Restaurant,RESTAURANT,41.026218,40.517693,,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.831
 4f1e7b4a-d7dc-46a6-90db-ee32f37f9025,Adıyörem Çiğ Köfte,RESTAURANT,41.026653,40.515682,,Çayeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,chinese_restaurant,food_and_drink>restaurant>asian_restaurant>east_asian_restaurant>chinese_restaurant,0.770
@@ -435,7 +428,7 @@ bc524e45-995b-4985-8b98-fbb532cfc474,Uğurlu Balikcilik Rize Balik Hali,RESTAURA
 dd041c32-e420-42cc-9533-598f5fbb730c,Tostçu Süleyman,CAFE,41.030991,40.510559,"Sulo_532@hotmail.com, Atatürk Cd. No:177 D:E",Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.973
 c41b6ac6-e127-462a-8d54-7967cfb5831b,Komagene Çiğköfte Reşadiye Mah.,RESTAURANT,41.0313,40.510227,Atatürk Cd. No:233,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.790
 b99fb58d-105c-4f21-8c07-5bfc16059060,Sandal Balik ve Kofte,RESTAURANT,41.031685,40.510094,Atatürk Cd.,Çayeli,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.974
-84c2874a-4757-4bf8-af06-49e73e0a4ca1,Terminal Parkı,SIGHT,41.033089,40.510635,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
+84c2874a-4757-4bf8-af06-49e73e0a4ca1,Terminal Parkı,ACTIVITY,41.033089,40.510635,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
 307fc10b-753b-43b5-a7f4-a31a5235e604,Express Pizza,RESTAURANT,41.03146,40.512249,"268, Cumhuriyet Cd.",Çayeli,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.931
 ed13a1f6-1aea-49ae-a496-46ad6894482c,Hanimeli Lezzet Mutfagi,RESTAURANT,41.031242,40.512497,Cumhuriyet Cd.,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.892
 5643eb82-5291-48e5-9275-a7f7a48d1b09,Kurtahmetoğlu BÜFE,CAFE,41.031082,40.512768,"Mahallesi Cami, Farabi Sokak 6B",Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.910
@@ -453,7 +446,7 @@ a438d706-11de-4d1f-b6e3-79bf4d300369,Kahve Duragı,CAFE,41.027428,40.523762,,Ça
 2fdab355-6b92-49c6-b09d-fb151eac335c,Gökkuşaği cafe,CAFE,41.028973,40.549889,atatürk cad,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.772
 9adf1cb9-750c-482e-b508-63dc6e677b3d,hamburtost_evi,RESTAURANT,41.028873,40.550163,Taviloğlu Sokak 4A,Çayeli,CDLA-Permissive-2.0,Overture|meta,health_food_restaurant,food_and_drink>restaurant>special_diet_restaurant>health_food_restaurant,0.859
 659f2d51-f601-4b60-92cf-6c28514fc5a5,Rize Yemen Kahvesi,CAFE,41.027527,40.546093,Menderes Bulvarı 356,Çayeli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.970
-eeb41152-5e8b-4363-a74c-962d9e47620c,Rize Gundogdu Sahili,SIGHT,41.031597,40.555431,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.953
+eeb41152-5e8b-4363-a74c-962d9e47620c,Rize Gundogdu Sahili,ACTIVITY,41.031597,40.555431,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.953
 a2e502f5-9834-46c7-a0b9-cbac26ca601e,Harvel Restaurant,RESTAURANT,41.032158,40.554806,Menderes Blv. :113/A,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.948
 a3f26d47-888f-4519-af5d-a9fd2f4dd881,İslampaşa Sahil,SIGHT,41.033772,40.559498,,Çayeli,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.854
 16970546-173d-4a93-a572-f5632269d5c0,Taçmahal Et Balık Restorant,RESTAURANT,41.032627,40.554893,Menderes Bulvarı Portakallım Mahallesi Taçmahal Gokart,Çayeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.770
@@ -483,7 +476,7 @@ f62b036c-dbe3-443d-a8c7-728fbc9aa4c2,Dedeman Rize Hotel - Official,HOTEL,41.0314
 51ddf0d4-963a-4a1d-b2b3-845d5a0be73b,Çiftekavak Kalyoncular Plajı,SIGHT,41.032047,40.467258,,Derepazarı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.720
 7e5b482d-a554-4540-9781-82cceb24be98,Rize Pazar Açık Halk Pazarinda,SHOPPING,41.175922,40.89389,Pazar Sıtat Dere Tarafı,Pazar,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.739
 d2cbd102-57c6-4863-88f3-b7669a4c34f4,Dirvana Suit Bungalow,HOTEL,41.17511,40.868984,toki caddesi no 225,Pazar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.909
-5565d67f-2257-4685-a71c-a9a8dd19beaa,Pazar Naci Atabey Parkı,SIGHT,41.180279,40.878963,,Pazar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.949
+5565d67f-2257-4685-a71c-a9a8dd19beaa,Pazar Naci Atabey Parkı,ACTIVITY,41.180279,40.878963,,Pazar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.949
 28ea793c-d3f4-459d-bca2-5136da20a9ca,Deniz Konak Otel,HOTEL,41.180077,40.881039,Eski Rize Hopa Yolu No:94,Pazar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 62ebcc66-ce0d-426a-92a2-842abc1eaffd,Günbatımı Cafe & Restaurant,RESTAURANT,41.180161,40.881538,N:92,Pazar,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 00bd9826-2b5f-4cd8-b241-e62edf839afd,Kahve Deryası PAZAR,CAFE,41.180111,40.881386,KARADENİZ CADDESİ NO.92,Pazar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.987
@@ -537,7 +530,6 @@ da5b2c6e-74c1-473f-a5ce-4b20535bd15e,Pazar Kirazlık Plajı,SIGHT,41.182262,40.9
 ffdba697-4091-4621-85df-c0be54dea73d,Liman Restorant,RESTAURANT,41.181725,40.905426,Pazar Liman Restorant,Pazar,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.966
 f7aecab7-04ab-4009-b95c-2af409d66686,Hemşin Gölü,SIGHT,41.177574,40.908279,,Pazar,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.814
 df98e4d2-5a90-40a5-a121-bd940fbe91ed,Jinn Cafe,CAFE,41.176464,40.914959,Güzelyalı Mahallesi 30 B,Pazar,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.985
-bb1379d7-15ff-445a-aa82-659b8ea2352f,Bölge Trafik sahilkent apt.,SIGHT,41.175316,40.939323,,Ardeşen,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.717
 2631d718-fb93-4aeb-9ed2-2dfaebafd8c4,Cevik Cay,CAFE,41.176193,40.937832,Sahilköy Köyü Yolu,Ardeşen,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.878
 2d62170c-5a43-4103-82a7-a421332bc482,Rubadidi Bungalov,HOTEL,41.173595,40.970879,Ardeşen Çamlıhemşin Yolu üzeri D:2. Km,Ardeşen,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin,0.873
 a7e1a673-3bdf-4779-a462-5c0ffc27d6c0,The Old Apprentice Hotels,HOTEL,41.170944,40.977203,Ayder yolu küme evleri No 22/11,Ardeşen,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.862
@@ -648,7 +640,7 @@ a6db9636-df0e-4d7a-8b3c-44f22192673b,Fındıklı Sahil Aile Parkı,SIGHT,41.2702
 d53ee1e4-126f-4bea-b8d3-d04e5ea814fc,Viya Kafe,CAFE,41.271721,41.139778,"Merkez, D010",Fındıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.955
 c3226064-53d1-49b4-96aa-06a1bbf17c20,yörem tatlıevi,CAFE,41.271797,41.141998,Cumhuriyet Cd. 15/B,Fındıklı,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.998
 d134f494-90eb-45a2-b91e-003550971915,AVLU Restaurant,RESTAURANT,41.271858,41.142746,1025 Sok No:4,Fındıklı,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.988
-87b4ada3-4f16-4d67-b6d9-9ba712ad2cc9,Aykut Vital Park,SIGHT,41.272095,41.141529,Rize Hopa Yolu No:6,Fındıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.929
+87b4ada3-4f16-4d67-b6d9-9ba712ad2cc9,Aykut Vital Park,ACTIVITY,41.272095,41.141529,Rize Hopa Yolu No:6,Fındıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.929
 49588ca5-7666-43c9-aa47-e815c97b80c8,Demluk çay evi,CAFE,41.272194,41.142262,Cumhuriyet Cd.,Fındıklı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.962
 3fb42db8-a12a-4145-8483-e2d9518c222b,Sakura Coffee,CAFE,41.27269,41.144283,1026. Sokak 1/A,Fındıklı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.952
 10f1208e-744b-4e0f-aea8-c9c49f181d59,Yelkovan lokantasi,RESTAURANT,41.272617,41.142742,Cumhuriyet Cd. 10/A,Fındıklı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.908
@@ -664,7 +656,7 @@ be7f33f1-2b56-40d6-9932-c1dcfce24ed1,Bizim Kafe,CAFE,41.274357,41.14468,Fındık
 d0336b46-53f1-4605-a09c-3ecce44bc19f,Mimoza Cafe,CAFE,41.267227,41.137428,T. Gen. Enver Çakıroğlu Cd.,Fındıklı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.957
 1acd5c69-dcd3-4931-8074-c4f4ced788cd,Zeni Cafe,CAFE,41.266808,41.143353,Tahiroğlu Köprüsü Yukarısı,Fındıklı,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.898
 daa36b53-599a-4582-b527-09ba26e72662,Fındıklı Tahiroglu Köprüsü,SIGHT,41.266125,41.145412,,Fındıklı,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.810
-eacfd888-5616-43b1-abaf-35b999d34963,Fındıklı 100.yıl Atatürk Parkı,SIGHT,41.259804,41.148262,Fındıklı 100.yıl Atatürk Parkı ,Fındıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
+eacfd888-5616-43b1-abaf-35b999d34963,Fındıklı 100.yıl Atatürk Parkı,ACTIVITY,41.259804,41.148262,Fındıklı 100.yıl Atatürk Parkı ,Fındıklı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.815
 e15aa065-5097-4eca-a98c-7f9fc75bcbac,Viçe Plajı,SIGHT,41.259747,41.128429,DN 2AC Black Sea,Fındıklı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.861
 b0af070a-18dc-42a7-bab7-218529e441a2,Fındıklı Sahil,SIGHT,41.251778,41.116646,,Fındıklı,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.943
 5f6eb84e-a9ab-404d-b8a9-303316ca43d6,Green Paradise Resort,HOTEL,41.251926,41.11623,"Yeniköy, 7428+MJ, 53700 Yeniköy/Fındıklı/Rize",Fındıklı,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.891
@@ -781,18 +773,17 @@ a8aec320-2dcb-4b9a-b39d-59d50eaadf2a,Çayeli Çaça Nargile Cafe,CAFE,41.070412,
 ae607bb1-3538-42cc-a586-be94de43d0f3,Deremen Garden Cafe,CAFE,41.074047,40.737911,53200 Şairler mahallesi 161/2,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
 14822d59-3d1d-4f44-aebb-3bbba4bd882e,Mikail usta Çayeli,CAFE,41.079735,40.713554,"Çaykent Şehitli Cami, Büyükköy Caddesi 19M",Çayeli,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.821
 0028b964-b604-49ed-a7c5-42a242de969f,Ess Sarı köşk Hotel,HOTEL,41.081676,40.720943,Cayeli,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.950
-b2b778e1-b574-4030-9a35-25e6d0068474,Tuğra cam sanat galerisi,SIGHT,41.085297,40.723881,Çayelinde,Çayeli,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.819
+b2b778e1-b574-4030-9a35-25e6d0068474,Tuğra cam sanat galerisi,SHOPPING,41.085297,40.723881,Çayelinde,Çayeli,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.819
 ad755cb0-14b3-4cd9-af58-9fb10be54b84,Mutlu Kardeşler Çay Evi,CAFE,41.085049,40.720322,9 Mart Cd No:43,Çayeli,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.761
 e4428289-47e4-4f75-b73c-68288351a180,GÖZDEM ÇAY,CAFE,41.085003,40.720249,9 Mart Cd 43/A,Çayeli,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.887
 183f43f4-7bd2-4069-bfe3-e0441d78c546,Padişah Pide Restaurant,RESTAURANT,41.085781,40.72263,Hopa cad. Eminiyet müdürlüğü karşısı,Çayeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 4e63fa7b-c8f3-4c7f-ae1e-1c47d8c98778,Hatay Döner Çayeli,RESTAURANT,41.085861,40.722954,9 Mart Cd No:48,Çayeli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.919
 a26483fa-73e4-478a-9ab6-eab2b06c7a41,Cayeli Sahil Hotel,HOTEL,41.085743,40.718575,Erdal Ata Bul Liman Karsisi,Çayeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.902
-dc85c689-a752-4943-af46-9a23e09f620f,Doğal Yaşam Müzesi,SIGHT,41.085403,40.718292,,Çayeli,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.963
 1289f0ca-3376-43ca-b8c2-00551e311408,Darniroof Restaurant,RESTAURANT,41.084599,40.715637,9 Mart Cd Grand Çavuşoğlu Hotel No:11,Çayeli,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.957
 5a367b99-b867-4d2e-b684-ff7c6f59c941,Grand Çavuşoğlu Hotel,HOTEL,41.085003,40.716129,Eski Pazar Mah. Hopa Cad. No:11/4 Çayeli,Çayeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
 5ed36c02-b160-462f-9ff9-d8f59d98c73a,Konak Kafe,CAFE,41.082878,40.710964,Yaka Mah,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.921
 9bad4e90-6027-40a3-849e-b50a2e065c99,Kamelya Botanik Bahçe,SIGHT,41.086258,40.718361,,Çayeli,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.957
-13825a87-ce6a-43ef-8bd4-f1ea49aad89d,Çayeli Sahili,SIGHT,41.089451,40.724651,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
+13825a87-ce6a-43ef-8bd4-f1ea49aad89d,Çayeli Sahili,ACTIVITY,41.089451,40.724651,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
 347d3665-df3a-4d57-be29-0cede7b12617,Portikal Fast Food,RESTAURANT,41.089314,40.724491,Meydan,Çayeli,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.770
 85e05cd4-36bf-4042-8c6b-b2819f098276,Çayelispor Büfe,RESTAURANT,41.090023,40.725376,Sinan Kutlu Blv. No:11,Çayeli,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.967
 91b2bf0e-9572-4c27-9e81-9fc610815c6a,Çayeli Yemen Kahvesi,CAFE,41.090084,40.725521,Sinan Kutlu Blv.,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.989
@@ -841,7 +832,6 @@ cff988e1-2c6e-45f1-a2e6-cfe250094f27,Cayeli Sahil Hotel,HOTEL,41.086983,40.72169
 216e6e96-f50f-4206-a03e-983cae2431c1,TepedeKal Bungalow,HOTEL,41.097431,41.02354,Küme Evleri,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.920
 485d6be0-d6b5-4720-9c17-c54d59a0a3bd,Zibari suit bungalov,HOTEL,41.099274,41.024315,Rize,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.856
 fad25014-2174-4ae0-99f2-99a2fcc241ff,Yeşilköy pansiyon bungalov | شقق واكواخ ياسين,HOTEL,41.105125,41.027721,"Yeşil Köy Konağı, Güllüköy Küme Evleri No:70",Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,bed_and_breakfast,lodging>bed_and_breakfast,0.966
-e8a90d18-718f-458c-8b5f-7c86acc723bd,Kral Dağ Evleri Restoran,RESTAURANT,41.104652,41.028526,kıranlar mahallesi no:49,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.911
 27a4a1e4-172e-4488-a185-e4b02baefd65,Hürvadi Bungalov,HOTEL,41.112061,41.024487,MERKEZ MEVKİİ MERKEZ KÜME EVLER NO: 107 İÇ KAPI NO: 1 DİKKAYA KÖYÜ/ ÇAMLIHEMŞİN ,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.923
 7f34088e-096d-481c-b7e2-b21727f16377,Pera Bungalov,HOTEL,41.108746,41.032578,Rize Ardeşen Duygulu Köyü Topaloğlu Mevkii,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 1b23115a-c4c9-43e8-8084-5ab6eb0ff9f3,Toli Bungalow,HOTEL,41.106003,41.035709,Topaloğlu Mevkii,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.956
@@ -964,7 +954,6 @@ d8f030e3-4358-4926-ba6d-609d6414108f,Şelale Restaurant,RESTAURANT,41.04723,41.0
 fdf05b4c-aae1-41a8-81b6-7cabac82daf2,Okan ÇAy Evİ,CAFE,41.048939,41.003166,OSMAN KURTULUŞ CADDESİ,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.857
 1004c169-adaa-4d0b-94c1-35883d0990b1,Ufuk Pansiyon,HOTEL,41.049011,41.003834,Aşağıçamlıca mah. Küme evleri no:16 z1,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
 2d7a8925-d422-4f8f-9336-093fc350f4e8,Pilunç Çay Evi,CAFE,41.048664,41.003334,"Sal Yaylası, Çamlıhemşin-",Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.958
-d8fee3dd-9524-447e-a5af-11d28f73ecb6,Cağpeyig Yaylası,SIGHT,41.048664,41.003334,Kaçkar Dağları,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.780
 af9d173e-8da0-4a28-b41a-a59f66becf78,Dere Otel Restoran Rize/Çamlıhemşin,HOTEL,41.048637,41.003265,Çamlıhemşin (Ayder) Yolu 14. km. ,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.799
 5aee6c3d-9cfa-4207-9e42-05e2034471e8,The High Trees,HOTEL,41.048618,41.003277,Asagi Camlica Mah Kume Evler No: 1,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.946
 556ac22f-ed29-4de2-b507-068cef76865b,Ayder Gurbet Pansiyon,HOTEL,41.048618,41.003277,Ayder YAYLASI,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.818
@@ -972,7 +961,6 @@ af9d173e-8da0-4a28-b41a-a59f66becf78,Dere Otel Restoran Rize/Çamlıhemşin,HOTE
 4aa2fe77-4b15-4c6a-81a5-597d61a05dc8,Ayder Petek Otel,HOTEL,41.048595,41.003315,Ayder,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.759
 f54e18c0-ee4f-4d02-9a6e-edf02cc271ca,Yolun Dibi Cafe,CAFE,41.048634,41.003349,Ortan köyü Çamlıhemşin ,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.883
 0e3c33ba-c94c-45a8-a631-a9d5eca2f383,AYDER Kanyon,SIGHT,41.049732,41.003914,ayder avusor yaylası. çamlıhemşin rize,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.968
-688d613a-dc30-41ff-b099-bb7a7020d3d6,Bülent Bekar Tulum Ve Sanat Evi,SIGHT,41.050117,41.007595,Merkez Mah,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.811
 89cbe392-8c36-4c01-a0ba-1e9525051ecc,cafe titerr çamlıhemşin,CAFE,41.04221,41.007195,Zilkale yolu üzeri,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.965
 1bb91dac-6d3b-4a71-837d-f6ffd9b61c02,Çamlıhemşin Cafe,CAFE,41.043613,41.007004,Merkez Mahallesi,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
 2ce985d2-471e-4757-a9ed-786c48297fd6,Çamlıhemşin Köprüsü,SIGHT,41.0438,41.006699,,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.911
@@ -981,7 +969,6 @@ f54e18c0-ee4f-4d02-9a6e-edf02cc271ca,Yolun Dibi Cafe,CAFE,41.048634,41.003349,Or
 af48888d-93e7-49fb-8275-bff624bad2c0,Puli Mini Otel,HOTEL,41.044815,41.00629,İnönü Cd. No:25/A-B,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.972
 b5767f37-669f-42d2-b6ca-db4c3c497f99,Rize Kalesi,SIGHT,41.046051,41.004429,,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.827
 455d0b5d-e20f-455b-b091-0f1327ae17df,handag Bungalow,HOTEL,41.045895,41.004822,Rize Çamlıhemşin,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.910
-1f58a13a-6a58-4630-bf9a-926f81b32b99,Bey Çay Foto Eyüphan,SIGHT,41.045654,41.005375,İnönü Caddesi Çamlıhemşin Rize,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.718
 7485d21d-4ad2-48dd-ac3f-63597235eed3,Mimoza Pasta Dunyası,CAFE,41.04546,41.005711,Merkez Mah,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.839
 0341f724-33b7-472e-8e3c-97e8dd06e60a,Kokina Cafe & Shop,CAFE,41.045303,41.006042,İnönü Cd. 18/A,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.873
 5379e27c-e209-49cd-aef5-5ce816d7f8ec,Ufuk Pansiyon,HOTEL,41.048664,41.070965,Amlakit Yaylası,Çamlıhemşin,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.842
@@ -1012,12 +999,9 @@ b2ac3c47-c5bf-47ee-8d4e-04acabe38de7,Bi Kafe Pilita,CAFE,41.046528,40.8993,Atat�
 c803785c-60c9-449a-b4d3-4b1ac0dba0b9,Agaran Kafe Restoran,CAFE,41.045166,40.807529,Köprübaşı Köyü Ağaran Mevkii,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.974
 51c4c9fa-8cd7-4adb-ab81-04513443944f,Grand Şelale Hotel,HOTEL,41.045052,40.807816,Köprübaşı Köyü Çayeli/Rize,Çayeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.985
 7d11ad37-b469-4996-8864-3d9e49c31083,Şelale Konak Çavuş'un Yeri,SIGHT,41.045761,40.807846,"Çavuş'un Yeri, Rize/Çayeli Köprübaşı Köyü mevkii Ağaran Şelalesi Şelale Konak",Çayeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.982
-38979626-b411-4259-b617-f542cf821669,Arpik Tepesi,SIGHT,41.056999,40.694744,Musadaği Köyü,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.874
 9d6c181d-4a8f-4e81-b72c-a74b89fec74d,Balıkçılar,RESTAURANT,41.060043,40.649162,Balıkçılar Köyü Yolu,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.765
 dc455755-1c32-43fc-888b-acd88016b8f5,Çağri Büfe,RESTAURANT,41.05349,40.617325,Gündoğdu Cad.,Çayeli,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.795
-bf130d9e-f20c-4e3d-a739-03a66a7fe8d1,Doğu Park,SIGHT,41.054123,40.616215,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.970
-3179e4e1-53de-48ee-ba55-01ae9a1b2c22,Rize Meydan,SIGHT,41.054478,40.618393,,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.731
-660c6542-c5c0-4f77-ac56-7d2f42393463,Rize Meydan,SIGHT,41.054653,40.618267,,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.733
+bf130d9e-f20c-4e3d-a739-03a66a7fe8d1,Doğu Park,ACTIVITY,41.054123,40.616215,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.970
 1e4e8062-9421-4ef2-981b-a6d22acefd41,Sofram Balık,RESTAURANT,41.058998,40.62933,,Çayeli,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.922
 d2c41d32-3106-4fa5-b263-97af06b2b101,Kale Balık Lokantası,RESTAURANT,41.058804,40.628548,Dağınıksu Mahallesi,Çayeli,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.962
 72d2f7a7-9398-423b-aa17-002e7e1acde6,Karadeniz Balık,RESTAURANT,41.0592,40.629814,"Bozkale /Rize Merkez Rize TR, Karadeniz Sahil Yolu",Çayeli,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.898
@@ -1028,7 +1012,6 @@ ccc8d2ea-4628-48d7-b0a6-ba08979bac8a,Capari balik lokanta,RESTAURANT,41.051479,4
 b79f127a-50b1-4c3c-92e1-27a5b8d55c33,Gündoğdu Semerkand ihya çay ocağı,CAFE,41.052391,40.614693,,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.807
 84a36bb6-9ffc-43ef-b684-80d84ff876bb,Kuzey Balık,RESTAURANT,41.052517,40.615337,Gündoğdu Çıkışı Sahil Yolu Üzeri,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.783
 c4ca56ae-5d00-4305-981a-81b31836f7dd,Gündoğdu Sahil Parkı,SIGHT,41.053333,40.614822,,Çayeli,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
-e7d4b6d1-979b-4a92-a78f-500cae9207fb,Gündoğdu Kuleleri,SIGHT,41.045681,40.596462,Menderes Bulvarı,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.894
 93a6c679-930d-4a33-a2b9-8b2bdce29d12,Pizza Rise Taşlıdere,RESTAURANT,41.044746,40.591179,Menderes Blv. No:274/B,Çayeli,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.981
 9a23f17c-6162-486a-827e-df01d8c3dade,Didim Restorant Rize,RESTAURANT,41.044224,40.587177,Eski Hopa Yolu Üzeri,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.835
 c35cba5d-8682-4563-b6b6-f6d5415e952a,Piriyozbalık,RESTAURANT,41.044434,40.587788,"Rize Merkez, Cumhuriyet Çay fabrikası karşısı",Çayeli,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.992
@@ -1048,7 +1031,6 @@ f224d6f9-58ad-47df-a871-26ea05c39124,Kolik Bungalov Çayeli,HOTEL,41.029827,40.6
 8ab20a73-2537-4ab4-927d-addb8e9efa47,Mola Cafe Büfe,CAFE,41.039349,40.572357,Şehitler Cd. No:35,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.925
 96e8cda4-9514-4ebc-95a9-fe5840c8ab09,Kaçkar Dağları Milli Park Müdürlüğü,SIGHT,41.039146,40.576969,Zincirli Caddesi 7,Çayeli,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.948
 83797006-bbc0-4f03-a5e6-0dc7e425b59a,Sultan Sofrası,RESTAURANT,41.038532,40.572922,Şehitler Cd. No:7,Çayeli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.781
-83a21e33-4ad7-4288-b810-5f532001479d,Rize Sahil-Kayalıklar,SIGHT,41.036114,40.571129,,Çayeli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.766
 289a3ffe-c284-40b2-aef1-bdca560fbd6b,Çınarçeşme Mevkii,SIGHT,41.036533,40.588165,,Çayeli,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.747
 e176160b-e9cb-4046-9a7b-7423149e3596,Bluehomehotel Rize,HOTEL,41.032196,40.585045,cumhuriyet caddesi,Çayeli,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.820
 de12ebdd-bde0-4f61-800c-4a0151867c52,Çayluk Kafe,CAFE,41.033676,40.732834,Haremtepe çeçeva,Çayeli,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.844

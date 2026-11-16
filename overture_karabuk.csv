@@ -11,7 +11,7 @@ d73e633c-06c3-427e-a810-320709f565e4,Kurtoglu Kuyu Kebab,RESTAURANT,41.060669,32
 52fd6f71-c40c-4fa0-856a-719ab43658c8,Aladağ Mesire Yeri Karabuk,SIGHT,41.107662,32.606663,,Karabük,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.818
 3a20ab28-9c55-477d-852b-8100168f3d70,"Avdanaltı Karabük , Orman İçi Dinlenme Alanı",SIGHT,41.09795,32.771019,Davutlar Köyü Yolu,Ovacık,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.777
 ff44930d-b51a-4aa0-937e-36f05f621506,Turanlar Dinlenme Tesisleri,RESTAURANT,41.01263,32.625523,"Merkez Karabük TR, Ankara Karabük Yolu",Karabük,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
-c1e94df5-2bbb-4e75-abfc-f9ebde0e23cd,Mermer Parkı,SIGHT,40.95916,32.551903,,Eskipazar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.816
+c1e94df5-2bbb-4e75-abfc-f9ebde0e23cd,Mermer Parkı,ACTIVITY,40.95916,32.551903,,Eskipazar,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.816
 8b7bc8ff-e52e-4df5-be84-809f7979de91,Hadriana Otel,HOTEL,40.960819,32.551407,Samyeli Sokak 10,Eskipazar,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.883
 c0fdd6d4-ea02-412e-838d-38fe8b0c83fb,Sevval Pastanesi,CAFE,40.94389,32.531109,,Eskipazar,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.907
 46f2b40e-8dc7-454d-9e80-62b091d3d705,Eskipazar Saat Kulesi,SIGHT,40.943741,32.530418,,Eskipazar,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.851
@@ -77,11 +77,11 @@ b7c7161e-1e5b-4d5c-95cd-007c34301584,Cafe rouge,CAFE,41.254444,32.677395,Kızıl
 4cbf83cd-919a-426b-afc6-786e03525af6,Komagene Safranbolu,RESTAURANT,41.25423,32.677479,"Atatürk Mahallesi Sadri Artunç Caddesi, sedef apt No:74/c",Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.909
 1261ea6d-2d44-4956-bbe6-84ce38b05ece,Meddle Coffee,CAFE,41.254082,32.677265,Sadri Artunç Cd. No:113,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.967
 3364f03f-ff5b-4a8d-8c80-1aab738b4b4b,Safrantat Butik Pasta Tasarım,CAFE,41.254074,32.6777,Sadri Artunç Cd. No:72,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.905
-06ee9d5a-e595-4350-b098-2e1a4544d671,Prof. Dr. İbrahim Gümüşsuyu Parkı,SIGHT,41.254036,32.676594,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.841
+06ee9d5a-e595-4350-b098-2e1a4544d671,Prof. Dr. İbrahim Gümüşsuyu Parkı,ACTIVITY,41.254036,32.676594,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.841
 5b2c49ff-a14c-4c8c-8367-6a5455b87431,Sade Kahve,CAFE,41.2537,32.677902,Sadri Artunç Cad. Konak Çarşısı Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 744d3945-b5ca-468c-8d01-ed7923900ef2,Karadeniz Pide Salonu,RESTAURANT,41.253304,32.676785,Büklüm Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.987
 2c13b6ef-ee59-458a-81e0-5e733304ade4,Uludağ Kıraathanesi,CAFE,41.253269,32.677227,Yeni mah Feza sok Feza apt,Safranbolu,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.976
-7704c43b-5828-4b0d-95aa-ef05bc3d4db9,Safranbolu Şehir Stadı,SIGHT,41.249607,32.671043,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.858
+7704c43b-5828-4b0d-95aa-ef05bc3d4db9,Safranbolu Şehir Stadı,ACTIVITY,41.249607,32.671043,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.858
 ee5989b3-b6cb-4d81-a7f9-2b39edb6b9c9,Safranbolu İnci Pastanesi,CAFE,41.247696,32.674999,"Emek Mahallesi Muradiye Caddesi 31-27, Sefa Sk. NO:21",Safranbolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.983
 285286d8-3804-4b7e-bf80-724fef608da9,Komagene,RESTAURANT,41.244965,32.675804,"No:4, Saray Sk. No:4 No:2/B",Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.844
 084601f9-f451-4ba3-9fa8-2a68d7b0565b,Kanyon Cafe & Restaurant,RESTAURANT,41.239758,32.663246,Bulak Yol Üzeri,Safranbolu,CDLA-Permissive-2.0,Overture|meta,italian_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant,0.893
@@ -119,7 +119,6 @@ f7d4d876-5975-4646-8b34-899422bbc87e,Efe Guest House,HOTEL,41.245602,32.693855,"
 d4dc43a8-76ad-4544-91ca-3688ccbc2695,İmren Lokum Konak Otel,HOTEL,41.245888,32.69252,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 a94e7792-ac92-4a5a-a635-05953164231e,Akçe Konakları Otel,HOTEL,41.245773,32.69191,Hükümet Sk. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta,motel,lodging>hotel>motel,0.990
 9bffcb11-629e-412b-a93c-6ff6a39aede9,Safranbolu Hukumet Konağı,SIGHT,41.245571,32.690613,Kalemeydanı Sk.,Safranbolu,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.980
-38adfe5a-b23f-4c74-87ea-fe5460281f7d,Saat Kuleleri Parkı,SIGHT,41.245468,32.690601,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.966
 71d34b4b-a393-4043-b837-e4c2c5bbee77,Gülevi Safranbolu,HOTEL,41.245529,32.691437,Hükümet Sk. No:46,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.992
 c4ce9a6c-e020-424a-b571-2bed4bc8274e,Kolağası Konak,HOTEL,41.245556,32.691929,Hükümet Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 330006bb-8f97-40a8-92b6-ccfe07cbd68e,Gokgozoglu Pansiyon,HOTEL,41.245552,32.691845,Müftü Sk. No:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.922
@@ -131,7 +130,7 @@ fa8d88d3-ac37-46e4-a534-589bfe55d5ea,Safran Cafe,CAFE,41.24535,32.692169,Fevzi �
 c355f153-2dcb-4521-9c9b-4d642085a24a,Kadıoğlu Şehzade Sofrası,RESTAURANT,41.245388,32.692329,8 Arasta Sok,Safranbolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.985
 3e52c488-b3de-40c3-a051-342547277d0f,Arasna Cafe & Bar,RESTAURANT,41.245274,32.692596,Safranbolu,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bar,food_and_drink>alcoholic_beverage_venue>bar,0.770
 58a1ecf4-fa21-4010-b5a8-732e94d0d6c0,Safranbolu Peri Konak,HOTEL,41.245384,32.693996,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
-e11cb714-3b92-4de8-96a6-39466640d909,Cıngıllıoğlu Sanat Galerisi,SIGHT,41.245125,32.693645,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.881
+e11cb714-3b92-4de8-96a6-39466640d909,Cıngıllıoğlu Sanat Galerisi,SHOPPING,41.245125,32.693645,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.881
 7df3f1ed-5e9c-4aa4-86d4-e3f639a0289e,Cıngıllıoğlu Sergi Salonu,SIGHT,41.245125,32.693645,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.905
 e9824c8b-329c-42cf-bf45-4539407f5505,Asmaaltı Kahvesi,CAFE,41.244984,32.693199,ak Sk no 18,Safranbolu,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.852
 5d55a770-c22d-4cdb-87a6-e93f055462d9,Atiş Butik Restaurant,RESTAURANT,41.244728,32.693947,Han arkası sokak No 34,Safranbolu,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.968
@@ -185,7 +184,6 @@ c5bd45b4-c566-4cd9-ae60-d95df50535a0,Arifbey Konak ve Otel,HOTEL,41.245445,32.69
 10893f85-48dd-4651-bb3b-19988a56292d,Dadibra Konak Hotel,HOTEL,41.246483,32.696583,Altuğ Sokak No 21,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.986
 de005e01-da53-4af1-b936-9d86fb1ef552,Melek Hanım Konağı,HOTEL,41.246624,32.697239,Ulukavak Sk. no:4,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
 7277f5f9-6cca-411c-a6f5-6b39c3b5250c,Müfide Exclusive Hotel,HOTEL,41.243034,32.696712,Çavuş Mahallesi Celal Bayar Caddesi no:5,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.752
-a9ba2d8e-870a-43f7-8492-d6a7ac950c18,Safranbolu Eski Carsi: Address,SIGHT,41.242939,32.694313,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.906
 65b37530-99a9-4e2c-8ef0-994848330276,Valide Gülşen Konağı,HOTEL,41.242836,32.694305,Kışlayanı Sk. No:21,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 1f7b42cb-57c6-48e7-992e-525aa9ce88fb,Ay ışığı cafe restaurant,CAFE,41.241989,32.694851,Mezarlık Arkası Sk. No:20,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.878
 90353a3c-c5cd-4d2e-840a-816c39f77476,Özçelik Aile Pansiyonu,HOTEL,41.242012,32.694683,Mezarlık Arkası Sk. No:8,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.973
@@ -229,12 +227,10 @@ ff817d9c-786e-4ce1-bd6b-ca7e987bd325,UZ HOTEL,HOTEL,41.248394,32.683174,"Şımar
 65d98769-62de-49e1-b8df-52f9b394b852,Ali Ustanın Yeri,RESTAURANT,41.248173,32.68298,Arap Hacı Cd. No:10,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.916
 8558b662-c463-4531-87ac-280a08df1945,Pangea Pilav,RESTAURANT,41.248177,32.683052,Adnan Menderes Blv. Çizmeci İş Hanı No: 12/B,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.884
 54d9b57a-96d0-4f5f-888a-cc00244d79ed,Simra Otel,HOTEL,41.247925,32.682434,Adnan Menderes Blv. no:17,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.961
-545d49ef-d539-4cdc-a9be-54e6e8c55736,國父凱莫爾紀念館,SIGHT,41.247856,32.682819,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.712
 a03995ae-d7f1-4a2d-bb76-61d090273b96,Zalifre Hotel,HOTEL,41.247868,32.68285,Araphacı Sokak no:77/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
 f999d790-3957-471d-b02c-47907892fe4b,Nimet Hanım Konağı,HOTEL,41.248077,32.684509,"Barış Mahallesi Baysal Sokak, Baysal Çıkmazı No 6",Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.966
 ac90a534-4987-46b1-b84d-10c970ffc48e,Yorgancıoğlu Konak OTEL,HOTEL,41.247982,32.685741,Ulu Camii Meydanı Sokak No:3 - 5,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
 a2de0b8d-f1a1-4737-a08c-a6e189238d8d,Demirkapı Konak,HOTEL,41.247551,32.685673,Utku Sk. No:14,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.990
-5cb37883-3253-4a74-b77d-72201e6eeae6,蕃紅花古城,SIGHT,41.247807,32.682842,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.875
 43c7c0b2-1bc9-4854-b49b-4d17705d8bdb,Burger King,RESTAURANT,41.247799,32.681499,Emek Mahallesi Adnan Menderes Bulvarı No: 9,Safranbolu,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.954
 2f73818a-5292-44da-af02-73e3157d8331,Şimşirli Cami Aile Kabristanı Ulus,SIGHT,41.247051,32.68206,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.762
 5578df5a-1205-446d-870f-10ec5cbf511d,Gizli bahçe,CAFE,41.247143,32.679234,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.897
@@ -271,7 +267,7 @@ c24e8169-fc0b-443d-b3f4-2aec25ed1528,Boğaçhan Mangal Balık ve Köfte,RESTAURA
 8361ff7d-6825-46f5-abaa-3ffbe3950703,Safran Resort Otel,HOTEL,41.250607,32.682941,İ. Hakkı Özcan Sokak No:31,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
 f6dd011c-c5ac-47a5-9f96-d32d962cee61,Alisa Pastanesi,CAFE,41.250702,32.682941,İsmail Hakkı Özkan Sokak 29,Safranbolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.904
 7ef8fc9e-5b9e-4286-b280-df078066f182,inci otel,HOTEL,41.250706,32.682491,ataturk mahallesi ismail hakkı özkan sok. no :33 safranbolu karabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.955
-ad375816-1e76-4019-afc4-014640413191,Safranbolu Barış Manço Parkı,SIGHT,41.250652,32.680313,Sağlık Cd. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.923
+ad375816-1e76-4019-afc4-014640413191,Safranbolu Barış Manço Parkı,ACTIVITY,41.250652,32.680313,Sağlık Cd. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.923
 5825c0ce-d19e-464e-9eff-1375cd002ae8,Çınaraltı Çorba Salonu,RESTAURANT,41.250294,32.681774,Yenimahalle Mahallesi Avukat Hulusi Yazıcıoğlu Caddesi No:1 Yenimahalle Mahallesi Avukat Hulusi Yazıcıoğlu Caddesi No:1 RAMAZANOĞLU İŞHANI,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.842
 9cf372a5-5867-4047-9646-c5a57a369533,Za'feran Cafe Restoran,RESTAURANT,41.250214,32.681656,Avukat Hulusi Yazıcıoğlu Caddesi 1,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.853
 38b359b6-4fc9-45b0-9224-ba72901ed0f6,Aliyehanım köy evi,RESTAURANT,41.249855,32.681587,"Safranbolu, Karabük, Türkiye",Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.870
@@ -293,7 +289,6 @@ e3da7dcf-33f0-401f-bf42-6a2f7283f579,Aydın Pide & Kebap Salonu,RESTAURANT,41.25
 9b19d778-9479-4013-a54f-01dde04f0df4,Sıcak soğuk cafe restoran,CAFE,41.252113,32.680305,"Şok Safranbolu Mağazası, Sadri Artunç Caddesi 34/A",Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.827
 744ac1fa-bd90-49a7-9a6b-86dcbd1cd85f,Meydan Çay Bahçesi,CAFE,41.251846,32.681686,"Yıldız Moda Evi, Sadri Artunç Caddesi 42",Safranbolu,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.757
 b4255b93-ed38-4123-8938-31b8e15f0088,Saffronia 1900 Konak Otel,HOTEL,41.25071,32.685837,Kaya Erdem Cd. No:18,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.977
-70eb7501-d997-4ae1-a17c-c9b33241e3e4,Safranbolu Eski Carsi: Address,SIGHT,41.251591,32.689342,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.906
 bda3e4d4-8149-4096-8077-b3f6978627dd,Tunaboylu Konak Hotel,HOTEL,41.250889,32.68919,Dibanoz Sokak 5,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.812
 ce3bbb97-9e35-49c8-9a33-4aebbe53c36b,Şadiye Hanım Konağı,HOTEL,41.252609,32.688919,Safranbolu,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.804
 41dd9068-bcdc-48bb-94a2-67fcbddcbf4c,Başkent Çorbacısı,RESTAURANT,41.252968,32.682705,Bağlar Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.957
@@ -338,7 +333,7 @@ f1c1256f-6ac8-4f71-a3fe-9db670257fd2,Safranbolu Kadiefendi Restaurant,RESTAURANT
 399909e6-402c-4aef-87c5-ebd60f8c3008,PİDELİNE100.yil,RESTAURANT,41.207081,32.62653,1002. Cadde,Karabük,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.827
 ac20b6c2-7114-48a5-83d7-4c6d948da3ac,Gul Cafe and Restaurant,RESTAURANT,41.208328,32.620647,Şahinbey Cd No:1,Karabük,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.991
 4be1449d-c875-409c-b335-5c9f1046a0bc,Kahveland,CAFE,41.206158,32.620598,Nilüfer Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.864
-35ea9d57-0522-4c2d-bfc3-83fac3584700,SOZBIR  (Kule park),SIGHT,41.205513,32.620918,,Karabük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.914
+35ea9d57-0522-4c2d-bfc3-83fac3584700,SOZBIR  (Kule park),ACTIVITY,41.205513,32.620918,,Karabük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.914
 e23df64b-d65a-4307-816c-6e043205438e,Esentepe SEVDE EV Yemekleri,RESTAURANT,41.205338,32.626431,Taşkent Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.764
 2941ea32-74c3-495a-9206-fc4920db24b0,Ozcan Pastanesi Esentepe Karabuk,CAFE,41.205643,32.626511,Taşkent Cd. No:70,Karabük,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.944
 41338e30-4065-47ea-9cd3-0f962bf81076,Pasta Dünyası,CAFE,41.205662,32.626495,Taşkent Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.928
@@ -395,19 +390,17 @@ c6d780ec-b21c-40e0-b12b-0162c960bb27,Alidayı cafe restaurant,RESTAURANT,41.1942
 0765f254-7d7d-4e2a-a61a-5c281b9f729f,Hacıbey Dürüm & İskender,RESTAURANT,41.194153,32.618305,Merkez,Karabük,CDLA-Permissive-2.0,Overture|meta,aquarium,arts_and_entertainment>animal_attraction>aquarium,0.797
 eba93124-b85a-4ea4-bb2f-52eb944d2def,Aydın Pide ve Kebap,RESTAURANT,41.194218,32.618458,Zonguldak Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.878
 67872392-d615-4a76-af63-7d9fc21cf6c8,Otel Turgut Reis,HOTEL,41.194073,32.617783,İnönü Cd. No:11,Karabük,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.880
-5c713c26-c6f9-479f-994a-ec751234b9f7,Safranbolu Tokatlı Kanyonu,SIGHT,41.194057,32.618313,,Karabük,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.733
 205b763e-0758-4e5b-9f89-67920eca68fc,Kordon Kafe,CAFE,41.193779,32.617901,Çay Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.979
 ea6ee14e-38ab-42e4-aee0-92617f2f704f,Meşhur köftecî Sebahattin usta,RESTAURANT,41.193584,32.616146,İnönü Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta,american_restaurant,food_and_drink>restaurant>north_american_restaurant>american_restaurant,0.821
 3015fa0c-66ab-4e1c-bb49-287d1d195e6f,Damak Köfte,RESTAURANT,41.19347,32.615719,İnönü Cd.,Karabük,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.866
 e980c7d9-0de3-4663-a29b-8a3c502de5a1,Karabük Kardemir Iron-Steel Museum,SIGHT,41.183327,32.633331,,Karabük,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.765
 f7199eea-e4ac-4c03-b625-27bf1865a928,Eren Pide Karabük,RESTAURANT,41.178066,32.616882,Yeşilyurt Caddesi 18,Karabük,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.861
 06a630a0-1ea8-4659-b6e5-def9646c4247,Özen Pastanesi,CAFE,41.193054,32.614372,Hürriyet Mahallesi İnönü Caddesi No:87 Merkez/Karabük,Karabük,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.972
-5e89d5bb-4a8d-4069-8a2b-532b3e30225f,Yeni Kordon Parkı,SIGHT,41.192459,32.614079,Çay Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
+5e89d5bb-4a8d-4069-8a2b-532b3e30225f,Yeni Kordon Parkı,ACTIVITY,41.192459,32.614079,Çay Sk.,Karabük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
 7a23604f-bc6c-4b2f-8e8e-6cf4e21a81eb,Starbucks,CAFE,41.191284,32.60714,,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 6659ac3c-1881-4315-95c2-345e5d300492,Soğuksu Lezzet Pide ve Lahmacun,RESTAURANT,41.189796,32.602642,Melise Cd. 40 A,Karabük,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.974
 d18ec14d-8a6d-448c-9dfd-b64f6faa8361,Köfteci mülayim,RESTAURANT,41.187309,32.601738,Melise Cd. 98 A,Karabük,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.892
 00f09b0d-58a4-418f-9c0a-235a9cdaa68f,Hisar pastanesi,CAFE,41.189053,32.601387,"hisar pastanesi, Çebi Sk. toki iş merkezi no 4",Karabük,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.972
-b3567f48-0389-4493-a4cc-552da1b9532e,Aden Garden City Kayabaşı,SIGHT,41.179199,32.610504,Lala Mustafa Paşa Cd. No:15,Karabük,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.867
 37811685-9c55-490e-be74-aa3b43416625,Tosun Çorba,RESTAURANT,41.193314,32.614269,,Karabük,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.852
 fe8dc277-62d7-4244-b472-4afa297e413f,HİLal DÖNer,RESTAURANT,41.195789,32.609058,Hürriyet Caddesi 27,Karabük,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.810
 dbadc494-e825-45e6-bf05-aea8b5424653,Derya Restaurant,RESTAURANT,41.196541,32.611534,Fevzi Fırat Cd. No:65,Karabük,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.993
@@ -421,7 +414,7 @@ f8cb737a-c78e-4c1d-956d-1b09231e9a5a,Esnaf Köfte Restaurant,RESTAURANT,41.19684
 bee2fd14-b6e1-4621-b560-936fcb1e4c9b,KahveRengi Coffee / KahveEvi,CAFE,41.20179,32.605068,Atatürk Mahallesi cumhuriyet caddesi ,Karabük,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.817
 04510499-a873-4cb6-8bc7-4092f12cfd19,Starbucks,CAFE,41.201832,32.610317,Bebek Mah.,Karabük,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 3ea2ac25-3490-4269-b13a-9d4e142768e3,Vialand Tema Park,ACTIVITY,41.201809,32.610195,Yeşilpınar Mah,Karabük,CDLA-Permissive-2.0,Overture|meta,amusement_park,arts_and_entertainment>amusement_attraction>amusement_park,0.873
-e8378082-e5a2-4247-8224-47456795ab86,karabük çarşı,SIGHT,41.203129,32.607384,,Karabük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.838
+e8378082-e5a2-4247-8224-47456795ab86,karabük çarşı,ACTIVITY,41.203129,32.607384,,Karabük,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.838
 f22e2226-b1a0-4129-95fa-34a5a958ed00,Komagene,RESTAURANT,41.209766,32.620468,Şirinevler Mh. Orhangazi Cd.Mavi Apt.Altı,Karabük,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.931
 71ff60f3-3146-4345-b476-04ffad702cf1,Eliz Pasta & Cafe,CAFE,41.209774,32.619797,,Karabük,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.924
 cddd0074-16ba-49f1-9180-ecd839d9b03b,Jun Bakery & Chocolate,CAFE,41.210014,32.620735,Alparslan Cd. No: 20,Karabük,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.971
@@ -445,7 +438,6 @@ d91cf815-3236-4a08-86f5-bcba5693fdd8,Siyah Cafe 100.Yıl,CAFE,41.216003,32.66186
 bedc3df7-b16d-4646-978c-c7cb9ac781d4,Medicafe,CAFE,41.216469,32.647785,Şehit Ateşe Reşat Moralı Bulvarı 7/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.756
 a335483f-bda8-4553-b255-ac3cbd6ac5a7,Anemon Karabük Otel,HOTEL,41.218899,32.650078,Üniversite mahallesi Safranbolu yolu üzeri no:27,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.916
 874de926-4070-468b-83b8-d60fbda7e344,Ales Pastacımm 100. Yıl,CAFE,41.219715,32.650555,Yunus Emre Sitesi Uzuner Çarşı No:8/9,Safranbolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.970
-d4744b6d-7c3c-49dd-ac6f-a8218572c05a,Çocuğun Doğası Cafe Atölye ve Oyun Evi,CAFE,41.218178,32.65604,"zafer apartmanı, 1017. sokak Zafer apartmanı No:4",Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.908
 a2a24f43-85de-42ce-a315-0b6b05632b2b,Karabuk Pansiyon,HOTEL,41.218998,32.657631,1023. Sokak 16/1,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.892
 cd647a9a-3998-4998-a372-ca700f7c7856,Hacegan Sofrası,RESTAURANT,41.219131,32.658382,LARA CADDESİ,Safranbolu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.801
 b4b4b3ff-2f1a-405e-9bd3-6d53d473244f,Aylin Restaurant Oyun Cafe Ev Yemekleri,RESTAURANT,41.219219,32.660118,100. yıl Mahallesi 1002 nolu cadde Eslem Apt No:23 K: Z-A,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
@@ -477,7 +469,7 @@ dbb3609a-31cc-463b-913b-bd8dbbcf8eec,Pilavole,RESTAURANT,41.217178,32.660206,100
 35c46503-a052-4282-8a67-258fb1d56f2c,The grillab,RESTAURANT,41.216923,32.66032,1002. Cd. No:3/B,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.869
 2030ca59-edec-42a8-8d58-48f747860d9a,Pidefabrig,RESTAURANT,41.21701,32.660763,1002. Cd. No:16,Safranbolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.881
 3a553c99-a4b3-4d70-8708-a0c039877083,Pasaport Pizza,RESTAURANT,41.217121,32.660797,1002. Cd. No:16,Safranbolu,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.876
-c87b142c-4692-46c7-8309-20408e93366f,Safran Park,SIGHT,41.217106,32.661152,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
+c87b142c-4692-46c7-8309-20408e93366f,Safran Park,ACTIVITY,41.217106,32.661152,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.932
 03852d50-0b1a-40bb-b9b8-38ed31f44934,Furi Cafe,CAFE,41.216423,32.663849,Kastamonu Yol Kılavuzlar Köyü,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.784
 69f9d05b-2bb2-499c-a5aa-c9b4d825b75d,Tost Duragi,RESTAURANT,41.216347,32.663834,Gümüş Sk. No:2,Safranbolu,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.866
 aeed9911-eb26-43ec-9211-9529775070d0,Karabük Çamlı Köşk Balık Evi,RESTAURANT,41.217125,32.664864,Kılavuzlar mahallesi Kastamonu yolu altı mevkii köy sokak no:31 MerkezKarabük,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.863
@@ -495,7 +487,7 @@ b48c961b-287b-4891-a638-d59fd78ece78,Mega Çarşı,SHOPPING,41.217709,32.66724,1
 7753147a-4ab4-42ac-a4aa-950ae7946bb4,Bostanci Oyun Cafe,CAFE,41.217995,32.666397,Karabük Kastamonu yolu üstü sokak No 45,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.823
 3062c078-77a0-4e48-8b51-4b7c99faa32a,Expresso karabük,CAFE,41.218105,32.668083,33. Cadde,Safranbolu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.907
 aa7037cc-730d-4e87-a952-73d41702f664,Komagene,RESTAURANT,41.218105,32.668812,1003. Cd. No: 45/A,Safranbolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.823
-0f0a76cd-73a2-440f-87c3-6610c194411f,Yağmur park,SIGHT,41.217957,32.66888,1003. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.971
+0f0a76cd-73a2-440f-87c3-6610c194411f,Yağmur park,ACTIVITY,41.217957,32.66888,1003. Cd.,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.971
 844a38e5-658d-4486-ad65-eb9667d2d5af,Lusnika Cafe,CAFE,41.216698,32.675526,Kastamonu Yolu Üzeri Gulf Karşısı,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.967
 8315fdaa-6864-4a9a-b637-2b41d7696d0b,Cigköfteci Sait,RESTAURANT,41.218327,32.671043,öğretmenler sitesi 8blk,Safranbolu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.897
 030fe3f8-260b-4486-ab05-a764d5037271,Şampiyon Kokoreç Karabük,RESTAURANT,41.219658,32.672928,1010.nolu Cadde 22/CA,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -541,15 +533,14 @@ e2fb9c10-4550-497c-839c-b6e032f856fb,Anemon Kent Karabük Otel,HOTEL,41.220486,3
 17f971c4-67f4-4357-b73c-d42f5f27d8fe,Yılmaz Pansiyon,HOTEL,41.224636,32.669449,1065. Sk. No:21,Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.950
 53dfcc1e-5f95-4003-a997-718e8e929935,Çiğköfteci SAİT,RESTAURANT,41.226105,32.666035,100.yil 1009 Cad,Safranbolu,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.803
 723591f3-ef47-47fd-8b3e-fc96ca690b0e,Kanyonvadi Hotel,HOTEL,41.227753,32.669399,"SAFRANBOLU Merkez Karabük TR, 1010. Cd. No:76",Safranbolu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
-17be6416-cfa7-4ba0-bc28-78cb39253c6c,Beşbinevler Karabük 75.yıl Parkı,SIGHT,41.230198,32.66124,Beşbinevler,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
+17be6416-cfa7-4ba0-bc28-78cb39253c6c,Beşbinevler Karabük 75.yıl Parkı,ACTIVITY,41.230198,32.66124,Beşbinevler,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.803
 daa4c3ca-00c7-436e-8790-893ca39fdb55,Çağ Çelik beach,SIGHT,41.234219,32.646538,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.729
 18b5f3a1-eafc-48e7-a6b6-9613e8dc6845,Selalmazlar Dondurma,CAFE,41.234848,32.653156,Beşbinevler cumhuriyet mahallesi betim  iş merkezi karabük merkez (şahintepesi) ,Safranbolu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.824
 61cedf3a-4e6f-4c93-b0be-aea95675b524,Eymen Pide Salonu,CAFE,41.234428,32.652969,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.828
 8f50df73-fc8f-4766-aecd-80b6aac41fc2,Keltepe Eğriova Gölü,SIGHT,41.234234,32.666096,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.718
 cc38f7d3-6977-485f-aa51-b21b33fafe8d,Hilmi Usta Kokorec Kofte Sucuk,RESTAURANT,41.23856,32.67564,Adnan Menderes Blv. No:121 G/11,Safranbolu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.993
-55a319fd-cd69-4942-81ca-47a29e5f9be4,Mahra Kultur Ve Sanat Evi,SIGHT,41.238342,32.672901,Eski Çarşı,Safranbolu,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.826
 b7c89082-35f1-4f5e-a628-1eb68c00a554,Elya Cafe 5000 Evler Karabuk,CAFE,41.236897,32.658237,Karabük Ormancılar Parki,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.907
-d91d5254-0fda-46a3-96e8-8dcf6a53c019,Ormancılar Parkı,SIGHT,41.237106,32.658249,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.923
+d91d5254-0fda-46a3-96e8-8dcf6a53c019,Ormancılar Parkı,ACTIVITY,41.237106,32.658249,,Safranbolu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.923
 1c8f6a9f-b370-49a5-9821-3100c0a33563,Safran konak,RESTAURANT,41.237099,32.65551,,Safranbolu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 2119d1de-4a02-45df-ac8d-b5c97011cf69,Değirmenönü Alabalık Tesisi,RESTAURANT,41.215672,32.425858,,Yenice,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.943
 d9387c20-fdea-4740-98ed-3498b9fbca86,Maraş Usulü Kardelen Dondurma,CAFE,41.200993,32.326,,Yenice,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.772
@@ -558,11 +549,11 @@ d9387c20-fdea-4740-98ed-3498b9fbca86,Maraş Usulü Kardelen Dondurma,CAFE,41.200
 0486c1fa-1a2a-4171-9540-8be91c5fe91d,By Pide Mantı,RESTAURANT,41.200851,32.32748,Celal Bayar Cd. no 4/B,Yenice,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.857
 70559390-859b-4b4c-87b1-6ecdf0f883d8,Bayır Restaurant,RESTAURANT,41.200207,32.329342,"No:, Bülent Ecevit Cd. No:10",Yenice,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.805
 4f8b1f18-8b22-4c6c-8a2d-0fe0a7247792,Maçka Cafe,CAFE,41.200417,32.327896,Menderes Cd. No:17,Yenice,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.930
-3fc2c682-b5f4-4bfd-a002-9b9eb13bdd64,Şehit Er Celal Hatıl Parkı,SIGHT,41.200695,32.327244,Celal Bayar Cd.,Yenice,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.941
+3fc2c682-b5f4-4bfd-a002-9b9eb13bdd64,Şehit Er Celal Hatıl Parkı,ACTIVITY,41.200695,32.327244,Celal Bayar Cd.,Yenice,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.941
 ac69ef15-33ee-4b2c-bbc9-418075a16e12,Komagene,RESTAURANT,41.200867,32.327267,Celal Bayar Cd. No:8/A,Yenice,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.954
 64ce1f24-8a42-4979-9fb8-7399348dd460,CafeBedevi,CAFE,41.20084,32.326748,Celal Bayar Caddesi,Yenice,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.914
 2ce7633e-6e0a-4a14-9422-4cfb3093a4e2,Otel 78,HOTEL,41.199871,32.329578,İncedere Cd.,Yenice,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.832
-5a134701-5ecc-4b71-ad70-1c61856180dc,Yenice Göktepe Yaylası,SIGHT,41.200634,32.329689,,Yenice,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.857
+5a134701-5ecc-4b71-ad70-1c61856180dc,Yenice Göktepe Yaylası,ACTIVITY,41.200634,32.329689,,Yenice,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.857
 2d0206c1-d38b-414c-b950-98d82134e28a,Yenice Gönül Yaylasi,SIGHT,41.199532,32.344299,,Yenice,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.778
 acd1fc37-f9d4-4907-a6f3-6c133db2adea,Yenice Forest Pansiyon,HOTEL,41.173611,32.346516,"İncebacaklar Köyü, Yenice/Karabük",Yenice,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.962
 6ea89aec-57e2-4cdf-a50c-2a9256a7e6b3,Albergo Butik Otel,HOTEL,41.173763,32.346371,"Şeker Kanyonu, İncebacaklar Köyü",Yenice,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.957
@@ -577,9 +568,9 @@ d6ce8f4e-a11e-4757-abca-21751b79c14e,Eğriova Göleti,SIGHT,41.173725,32.581364,
 381e4277-1beb-4a0a-8158-5856b8a4239f,Karasu Dinlenme Tesisleri,RESTAURANT,41.200764,32.933052,,Ovacık,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.788
 b2822b1d-4341-478f-aba0-b9a72f3f7206,Bestami Gözleme,CAFE,41.311405,32.819225,çeşme mah. demirciler cad. no:5  Eski çarşı,Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.810
 06de222b-dba0-43a6-985b-44c0512d5565,Bizim Kofteci,RESTAURANT,41.422756,32.958492,Fevzi Çakmak Cd. No:22,Eflani,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.955
-15bd5684-a5f9-46d1-85b3-c045346a86e5,Şehit Barış Efe Parkı,SIGHT,41.422176,32.95631,,Eflani,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
+15bd5684-a5f9-46d1-85b3-c045346a86e5,Şehit Barış Efe Parkı,ACTIVITY,41.422176,32.95631,,Eflani,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.935
 c5af18a3-9744-4942-be98-8aeb710e614d,Eflani Aile Çay Bahçesi,CAFE,41.422512,32.956581,,Eflani,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.950
-953dddcb-11cd-4407-8724-9f53527d85f5,Eflani Park,SIGHT,41.42263,32.95623,,Eflani,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.978
+953dddcb-11cd-4407-8724-9f53527d85f5,Eflani Park,ACTIVITY,41.42263,32.95623,,Eflani,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.978
 21a2b901-ec10-43bd-bdad-08c3ef047012,"Eflani, Bostancılar Göleti",SIGHT,41.4543,32.947735,Bostancılar Merkez,Eflani,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.875
 83810355-dc94-48e2-a5bb-55e97d213612,Bostancılar Göleti,SIGHT,41.452477,32.951458,,Eflani,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.708
 b16c58c2-44ee-4432-af08-4c8146d78357,Özgenç Kıraathanesi,CAFE,41.423126,32.957027,,Eflani,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.767
@@ -593,7 +584,7 @@ e474056e-5e1e-4235-9503-2f9c4787be40,GÜNEY CAFE,CAFE,41.419022,32.703461,Aşağ
 825caefa-b1ee-4558-98e4-b1b812f74992,Gülistan Cafe,CAFE,41.401714,32.723667,"Safranbolu Karabük TR, Bartın Safranbolu Yolu",Safranbolu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.947
 c86099b6-b873-4d44-ba6d-c9e45f89b2bc,Can Alabalik,RESTAURANT,41.397465,32.484745,Bağdatlı köyü kumluca,Yenice,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.951
 dc61c3f6-ab40-4cd6-9e22-c0f171688931,Karasu Şelaleleri Çınar Alabalık Tesisleri ve konaklama,RESTAURANT,41.450737,32.459293,"Merkez, 74600 Kumluca/Ulus/Bartın",Yenice,CDLA-Permissive-2.0,Overture|meta,german_restaurant,food_and_drink>restaurant>european_restaurant>central_european_restaurant>german_restaurant,0.959
-2a1c227e-fc9d-45f9-9714-55fb15543542,Kumluca Zeki Cakan Yuruyus Parkı,SIGHT,41.450081,32.465794,,Yenice,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.854
+2a1c227e-fc9d-45f9-9714-55fb15543542,Kumluca Zeki Cakan Yuruyus Parkı,ACTIVITY,41.450081,32.465794,,Yenice,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.854
 80ec6ac1-5c06-4d87-978f-9876eeac0bc4,Ozer Terminal Kıraathanesi,CAFE,41.449993,32.46521,Bartın/Kumluca,Yenice,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.922
 db06e7e9-b01b-4207-b319-39a665c5d012,Rüya Lokantası (Aşçı Mehmet),RESTAURANT,41.449348,32.466961,,Yenice,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.820
 7d998194-b96a-4959-8b6c-f7cff995503b,Kumluca Pastanesi,CAFE,41.449451,32.466805,Kumluca ,Yenice,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.945

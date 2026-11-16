@@ -46,7 +46,7 @@ d03a9f7e-d790-4250-9b7a-443c545ba4ee,Tutku Pastanesi,CAFE,40.81966,35.658619,Ata
 e8e6102b-1d9a-4cce-84cf-ac2d5787e946,Yedi Kuğular Kuş Cenneti,SIGHT,40.790985,35.579235,Yedikır Baraj Gölü,Suluova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.709
 e03273df-784f-47ca-aaf5-993ef8d44625,Türnük Göleti,SIGHT,40.779514,35.453468,Merzifon Çorum Karayolu,Merzifon,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.708
 ccc60cb0-1684-4444-a779-13d78707f88d,Coffee Touch,CAFE,40.8386,35.460041,Merzifon Çorum yolu 3.km,Merzifon,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.863
-0fe37f23-a4ef-4ce3-8de4-0263e7339694,Enspark,SIGHT,40.869423,35.496929,,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.830
+0fe37f23-a4ef-4ce3-8de4-0263e7339694,Enspark,ACTIVITY,40.869423,35.496929,,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.830
 97a9bd7c-68fa-4795-bc97-63d2767661ec,Köfteci Yusuf,RESTAURANT,40.869186,35.496906,Gökçe Bağ Köyü Ören Mevkii No:7 Küme evler,Merzifon,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.989
 46c12b53-be95-4b29-9abe-780c684fa42f,Yasar Usta Mangal Evi,RESTAURANT,40.866882,35.493084,,Merzifon,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.872
 b4b407c8-c432-4156-b862-8a78c38b58c2,Köfteci Bülent Merzifon / Muhtarın Yeri,RESTAURANT,40.87463,35.545681,Samsun-İstanbul Karayolu 100.km Turkish Oil Petrol Yanı,Suluova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.971
@@ -54,7 +54,7 @@ b4b407c8-c432-4156-b862-8a78c38b58c2,Köfteci Bülent Merzifon / Muhtarın Yeri,
 1ba02f10-145e-4479-84c7-39ae33f1d0d2,makasli goleti,SIGHT,40.873486,35.548737,,Suluova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.712
 3b7d9f62-4da7-49b1-921b-9730dc011d04,Tuğra Dinlenme Tesisleri,RESTAURANT,40.877052,35.589966,,Suluova,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.900
 2744bcaa-d5d0-4611-acbb-5a46cf1445dc,Köfte İstasyonu,RESTAURANT,40.877117,35.590389,Şht. Davut Maden Sk.,Suluova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.913
-1715171d-34cb-4874-8dcc-fa3cddd8acf2,Merzifon Erenler Parki,SIGHT,40.881645,35.467003,,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.920
+1715171d-34cb-4874-8dcc-fa3cddd8acf2,Merzifon Erenler Parki,ACTIVITY,40.881645,35.467003,,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.920
 4cfff072-1504-423e-b3d6-b85e9f373e0f,Culture Café,CAFE,40.87978,35.460262,Konuk Sokak No:1,Merzifon,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.964
 84644e6e-9d8b-468f-80d9-833e01a41372,Efsane Kuzu Kokoreç,RESTAURANT,40.878635,35.459904,Cumhuriyet Cd. No:173,Merzifon,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.936
 4e9f3fb9-4bd7-4e05-9714-739f151c5d17,N&S Home Coffee,CAFE,40.880222,35.457169,Mahmut Sürmeli Cd. No:3,Merzifon,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.815
@@ -124,7 +124,7 @@ d2969ce6-079e-41f6-8315-9472ade730d4,Merzifon kumda kahve,CAFE,40.872715,35.4644
 a25b1359-e610-48df-b7fa-00946f46f8b7,Merzifonlu Karamustafapaşa Cami,SIGHT,40.872761,35.464043,,Merzifon,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.911
 c8faff4d-6efd-4d75-a7ca-62e6a6f04692,Manzara Restaurant,RESTAURANT,40.872723,35.463367,Yokuşbaşı Cd. No: 3/A,Merzifon,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.977
 e23e4ada-cc93-4dda-89ad-bdb4b9f23273,Bedesten Osmanlı Mutfağı,RESTAURANT,40.872482,35.464439,Taşhan Sok Bedesten Binası,Merzifon,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.984
-02134dff-b3f3-4526-b528-ac7364ad4486,Gazimahbup Parkı,SIGHT,40.871372,35.468937,Köşk Sk. No:6,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.825
+02134dff-b3f3-4526-b528-ac7364ad4486,Gazimahbup Parkı,ACTIVITY,40.871372,35.468937,Köşk Sk. No:6,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.825
 162c5fba-2f18-4a31-ada5-11759660b31c,Özpolatlar Balık Lokantası,RESTAURANT,40.871067,35.465298,Cumhuriyet Cd. No:40,Merzifon,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.902
 cba91f40-0354-438d-ad86-c0c24270c36e,Korkmaz Otel,HOTEL,40.870972,35.464252,Cumhuriyet Cd. No:89,Merzifon,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 d51d8756-40f5-4d38-ae70-26023bf9cbd2,Tahtalı Kahve,CAFE,40.871143,35.464481,,Merzifon,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.768
@@ -139,7 +139,7 @@ ecd827df-cea5-4e4e-ae4d-2063d56880f7,Grand Merpond Otel,HOTEL,40.869675,35.46542
 762b8715-f7a6-4247-8763-83d8dc63147c,Merzifon Valiente Otel,HOTEL,40.869576,35.465363,Merzifon-çorum Yolu,Merzifon,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.937
 54198ee6-8dd2-47ef-83e1-433e8d789fe2,Gülen Köfte,RESTAURANT,40.867897,35.465515,Merzifon Belediye Garajý A Blok No:3,Merzifon,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.888
 269d2f36-4af2-4051-a163-8b440d77eeff,KEMAL In YERİ,RESTAURANT,40.867966,35.465393,Merzifon,Merzifon,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.880
-dcc9f398-bb81-4424-adf9-c4fcd57f7490,Hayati İncekul Parkı,SIGHT,40.86861,35.465347,Otogar Cd. No:2003,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.820
+dcc9f398-bb81-4424-adf9-c4fcd57f7490,Hayati İncekul Parkı,ACTIVITY,40.86861,35.465347,Otogar Cd. No:2003,Merzifon,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.820
 d7167585-3c4d-4c46-b6b8-e83d24de9c01,roma dondurma,CAFE,40.869438,35.458755,Harmanlar Cd no:78/a,Merzifon,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.807
 a2b67a0b-e577-44c4-bd6e-2d3cc85aa131,Beyzade Restaurant Pide Lahmacun Kebap ve Pizza,RESTAURANT,40.869823,35.459457,Harmanlar Caddesi 1,Merzifon,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.901
 23b38ccc-a4fc-4cb5-a603-2af8228324a4,Erciyes Market Lokanta,RESTAURANT,40.866951,35.439041,"Bahçelievler Mahallesi Hastane Caddesi No : 6 / 24, Karamustafa Paşa Devlet Hst. Acil Girişi Karşısı",Merzifon,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.818
@@ -164,7 +164,7 @@ bca96822-fda3-4b85-a412-160a74bac7e9,Dokgozoglu tavuk döner ve köfte,RESTAURAN
 6bf63279-b892-4fa2-b1ee-c32fe361a517,Naturel Park Otel,HOTEL,40.874176,35.23687,istanbul caddesi no:86,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.892
 43316590-6939-4073-8456-812f4d1e325d,"Şarlayık açık,kapalı restoran",RESTAURANT,40.833817,35.333454,"Doluca Köyü. gümüşhacıköy, Amasya ",Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.882
 41c03bac-bd50-4c74-ab55-2bd319db775d,Gökmenler Bi_gör Restaurant,RESTAURANT,40.846554,35.180882,GÜMÜŞ,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.953
-79846467-513a-4268-a992-a784019d8d1d,Gümüşhacıköy Dede Korkut Parkı,SIGHT,40.846283,35.181114,,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.894
+79846467-513a-4268-a992-a784019d8d1d,Gümüşhacıköy Dede Korkut Parkı,ACTIVITY,40.846283,35.181114,,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.894
 0da3b085-e1dc-4eb4-86eb-73fa6f8f69ae,Gümüşhacıköy Çay Bahçesi,CAFE,40.87339,35.213818,,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.938
 54aa019c-2a84-4908-8514-8eca88f731d3,New Holland - Sadık Usta,RESTAURANT,40.873844,35.215229,Küçük Sanayi Sitesi,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.766
 0490947a-4cbe-4ddc-b8f8-650a19276f5b,Ziyafet Çiğköfte,CAFE,40.874073,35.214909,Cumhuriyet Cd. No:15,Gümüşhacıköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.812
@@ -201,7 +201,7 @@ b959ea7d-6f85-4d7c-bbbc-8a8491fb67a3,Puding Pastanesi,CAFE,40.662411,35.837147,S
 aaff931f-550e-4c4f-8cdb-dd34aec75813,Leziz Pide,CAFE,40.663742,35.834103,Zübeyde Hanım Cd. No:72/C,Amasya,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.949
 1799d536-2138-41f3-a7c1-1e8e8ec53820,Tatlicim,CAFE,40.663723,35.834091,Zübeyde Hanım Cd. Akdağ Sitesi B Blok 74/A,Amasya,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.756
 5dc60d89-0c50-4393-8496-793b93c2a8a5,Taşfırın Pide Restaurant,RESTAURANT,40.664734,35.834145,,Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.856
-9c65e585-b18c-46ee-9701-6807f9141960,İltekin Gazi Parkı,SIGHT,40.664322,35.839001,Şehzade Sk. No:26,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.819
+9c65e585-b18c-46ee-9701-6807f9141960,İltekin Gazi Parkı,ACTIVITY,40.664322,35.839001,Şehzade Sk. No:26,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.819
 927530d8-6b34-46fb-aca9-d723f7096e52,10. Köy Restaurant ve Cay Bahcesi,RESTAURANT,40.665672,35.831017,,Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.926
 d7123f74-4e00-4b23-9ec4-06c29d5a592f,Harşane Kalesi,SIGHT,40.664295,35.827362,,Amasya,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.867
 16e19aa8-50b5-4a5b-bd48-9d822acfb30c,Neveda Suit Otel,HOTEL,40.668774,35.833775,Kum Mahallesi Zübeyde Hanım Caddesi No:185 Amasra,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.945
@@ -211,13 +211,12 @@ b32364d8-8638-4506-863a-65f264513892,Büfem Şeyhcui,CAFE,40.656837,35.798599,Ş
 fd6b3e46-c42d-4d03-90db-2d9f35c60c83,Kokoreççi Mistik,RESTAURANT,40.655937,35.80571,Serçe Sk.,Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.820
 39ffcb76-4e97-496b-947c-3c78d9f053d2,Öz Adıyaman Çiğköfte Amasya,RESTAURANT,40.65575,35.806961,Türkistan Caddesi 27A,Amasya,CDLA-Permissive-2.0,Overture|meta,comfort_food_restaurant,food_and_drink>restaurant>comfort_food_restaurant,0.810
 5d01b9d8-79ad-4a95-aac4-82a61b51585f,Amasya Kisioglu Cay Ocagı,CAFE,40.656216,35.811462,M.k.p. Cad. Özarslan Pasaji / Amasya,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.911
-1f928495-53a7-4f6f-99c5-c397af691d1b,Hakimiyet Parkı,SIGHT,40.655437,35.811638,,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
+1f928495-53a7-4f6f-99c5-c397af691d1b,Hakimiyet Parkı,ACTIVITY,40.655437,35.811638,,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
 daa313c7-a172-4f87-a73f-23160bb7ec89,Amasya Kalesi,SIGHT,40.655479,35.826885,,Amasya,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.939
-5e26026c-0129-43fd-a740-19550aa2c4d6,Amasya Kalepark,SIGHT,40.655743,35.827091,,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.907
+5e26026c-0129-43fd-a740-19550aa2c4d6,Amasya Kalepark,ACTIVITY,40.655743,35.827091,,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.907
 25217de1-7755-4990-8915-ccaf0eeff090,Nergis konak butik otel,HOTEL,40.656052,35.833019,Çelebi Sokak 27,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.979
 7330e976-2cff-4e7c-b120-74914b0d4dac,Ay Işığı Kafe,CAFE,40.658642,35.819851,Cemil Cahit Bey Caddesi No:8/1,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.907
 afe7a650-84b1-44e7-b056-42feca759002,Küçükağa Restaurant,RESTAURANT,40.659142,35.833424,Zübeyde Hanım Cd. No:25,Amasya,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.986
-f8213ef4-53dc-4290-8bab-382d650e9a44,Amasya Sultan Beyazıt,SIGHT,40.659554,35.835171,Sultan Beyazid Camii Külliyesi,Amasya,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.730
 e0b91d0e-1d9c-4b5a-b90d-abd15ec0049f,Saraydüzü Barracks Building National Struggle Museum and Congress Center,SIGHT,40.659054,35.836056,Büyük Ağa Cd. No:3,Amasya,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.957
 a585df30-9732-4963-9f1c-a6abb33983c6,Ziyere Baraji,SIGHT,40.661442,35.834972,,Amasya,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.733
 64524352-a9f6-45d6-b78e-26ccf35753ed,Boraboy Gölü,SIGHT,40.661819,35.837543,,Amasya,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.757
@@ -234,14 +233,13 @@ bcf8c49d-b689-4acf-a0f7-bcdbcf26e6d8,Sarikonak Boutique & SPA Hotel,HOTEL,40.657
 4dd8af39-2b30-4916-9037-c8fe7af476cc,thairolliceamasya,CAFE,40.657223,35.835274,Mehmet Paşa Caddesi 31,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.804
 3d7a699d-fcd2-4374-89f1-06e379484389,Çat kapı cafe nargile,CAFE,40.657146,35.835533,yüksek okul yolu dolpin pastahanesi yanı,Amasya,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.765
 4e7042ef-f1ce-47e6-b15b-67d5c04b0e45,Konak Cafe & Restaurant,CAFE,40.657177,35.83625,,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.761
-bd57d1e9-27d3-4336-ae35-d10acb60d2de,Yeşil Yenice Mahalesi Aşk Meydanı,SIGHT,40.657593,35.838642,Amasya Yeşil Yenice,Amasya,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.727
 409b0d40-3a41-4b99-b11a-8eba6da0e72d,Büyük Amasya Oteli,HOTEL,40.656479,35.83387,Nergis Mah Şehit Ahmet Özsoy Cad No:12/A,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.928
 32ce2da1-d1e2-42ef-836c-a04cf6f82d6e,Meşhur Adıyaman Çiğ Köftecisi Bayram Usta,RESTAURANT,40.656311,35.835304,Sportive Karşısı,Amasya,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.756
 71ca9b48-4da6-4a22-a554-f4b12503c8e0,Gaziantep Saray Künefe,CAFE,40.655418,35.835266,,Amasya,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.967
 4aa85bcd-503e-4c67-8660-62cc44167dba,Çifte Konak Butik Otel,HOTEL,40.655293,35.83609,Habibi Sk. No:44,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.962
 da73c8de-f388-4d3b-85fe-eed2933b2256,Amasya Kordon Boyu,SIGHT,40.655228,35.837521,,Amasya,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.834
 9adace61-f0a9-48d2-bd15-166fd957de01,SOĞUK PINAR Cafe&Restaurant ve KIR DÜĞÜN Salonu,RESTAURANT,40.651928,35.845753,SAVADİYE MAH.SOĞUK PINAR MEVKİİ,Amasya,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.926
-e558671c-fdf8-4a4a-a129-c88cab828c91,Pirler Park,SIGHT,40.653103,35.838776,Pirler Sk. No:7,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.979
+e558671c-fdf8-4a4a-a129-c88cab828c91,Pirler Park,ACTIVITY,40.653103,35.838776,Pirler Sk. No:7,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.979
 f0fc3a10-36cf-426f-a06d-d3133d60f238,Pir Suceddin İlyas Türbesi,SIGHT,40.653023,35.838539,"Pirler Sok, Sofular",Amasya,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.853
 1bd0b338-94e6-4f03-baf5-7deadb38c408,Selale Restaurant,RESTAURANT,40.651848,35.835541,Saraydüzü Cd. No:18,Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.861
 1fd123d5-89c9-4f15-88e2-faedf370ee16,Kayadibi Sarayduzi Restaurant,RESTAURANT,40.651772,35.835102,Sfoular Mh Cd,Amasya,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.924
@@ -306,7 +304,6 @@ a63d717e-e564-41a3-a63c-3c715f424411,Safir Hotel,HOTEL,40.651546,35.832256,Kocac
 a89f2435-d1c5-4487-ab29-07f5aa049c1c,Köfte'd amasya,RESTAURANT,40.65081,35.830578,Danişment Caddesi 11A,Amasya,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.883
 716343fa-ed36-43e6-ab22-3a639850fb44,Gaziantepli Yılmaz Usta,RESTAURANT,40.650791,35.83157,Mustafa Kemal Paşa Cd. Özel İdare İş Hanı No:21,Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.974
 87dce9e1-8a67-4ad7-884d-5b06f58f262f,Amasya Taşhan 1699 Otel ve Restoran,HOTEL,40.650528,35.832077,Özkan Yalçın Cd. No:11,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
-438dff5f-4392-462a-950c-cb173f3a302f,Amasya Yavuz Sultan Selim Meydanı,SIGHT,40.649998,35.833324,,Amasya,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.717
 b8e46d14-49dd-43d6-a890-add2371af047,baypastacim.amasya,CAFE,40.650249,35.830063,"Amasya Eczanesı, Mustafa Kemal Paşa Caddesi 52/A",Amasya,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.955
 1fdd5245-7769-4e5d-b76d-998969dc01ab,Üstad Restaurant,RESTAURANT,40.650276,35.830391,Mustafa Kemal Paşa caddesi,Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.897
 cfe69a3b-18aa-4911-92e9-e527546c96b0,Pidecim Kasap & Şarkuteri - Kahvaltı & Çorba,RESTAURANT,40.650589,35.831612,Özkan Yalçın Cd. No:12,Amasya,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.898
@@ -358,10 +355,8 @@ b243a6f7-93c4-4462-8802-31200443326e,Amasya Ferhad Ile Şirin Kalesi,SIGHT,40.64
 a9f4f810-25d2-4c35-92e9-339e895c04ac,Amasya melis otel,HOTEL,40.649662,35.821014,Torumtay Sk. No:135,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.994
 1625fb10-ae39-4a8f-b891-29603b42c942,Lezzet Pide ve Lahmacun,CAFE,40.649387,35.82756,Mercan Sk. No:5,Amasya,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.871
 fd55caf7-7514-4902-924c-0078ff96cd7b,Öz Adıyaman çiköftecisi,RESTAURANT,40.649338,35.830215,,Amasya,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.806
-c308f00c-f45d-4d1c-8f28-6f7d220d6a93,Çakallar Tepesi,SIGHT,40.643768,35.830585,Çakallar,Amasya,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.833
 f41cc9c1-ba07-4d72-a07f-ef8adb81061d,Yamaç Bistro,RESTAURANT,40.645035,35.824902,"Çakallar, Çakallar Cd. No:131",Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.997
 be5c7be3-20c2-4181-aa2c-613ce22ee253,Ali Kaya Restaurant,RESTAURANT,40.645668,35.826996,"Mevki, Çakallar Cd.",Amasya,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.991
-ed495e96-cfd8-4d26-ae03-3c5e3c172d7d,Çakallar Tepesi,SIGHT,40.647152,35.824795,Çakallar,Amasya,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.838
 21287167-3ecd-45d9-8572-14f274f31c39,Pera Cafe & Restaurant,CAFE,40.647144,35.820724,Çakallar Cd. No:133,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.984
 3d642c96-3869-4914-838e-044a5dcf1d26,Meydan Cafe&Restaurant,RESTAURANT,40.646442,35.810871,Prof. Dr. Necmettin Erbakan Caddesi 6A,Amasya,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.851
 9c8ed058-95f1-4bc4-be12-c3bf84c0696d,OsmanLı Konağı Otel & Caffe & Restaurant,CAFE,40.647549,35.809528,Prof. Dr. Necmettin Erbakan Caddesi 17,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.888
@@ -380,7 +375,7 @@ f73c85e8-1e07-49c5-9998-fd9ab35fd745,Kardeşler Simit Pasta & Börek Salonu,REST
 16baeb1b-d076-47c4-b394-10f435fb13a5,Ayaz Ocakbaşı,RESTAURANT,40.651051,35.798954,Kemal Nehrozoğlu Cd. No:50,Amasya,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.782
 5a738a2a-e457-444b-b4a5-dbac755e829a,Amasya Günlük Kiralık Apart Daire Ev,HOTEL,40.651447,35.800213,Şeyhcui mahallesi uhut Sokak,Amasya,CDLA-Permissive-2.0,Microsoft|Overture,self_catering_accommodation,lodging>self_catering_accommodation,0.850
 eb8a0a95-6eec-44e9-816c-226718435715,Pia coffeeco,CAFE,40.651485,35.80072,Kemal Nehrozoğlu Cd. No:35/A,Amasya,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.758
-13191ce0-6ebb-4eef-aa0e-813eb6d4ac80,Akbilek Parkı,SIGHT,40.651314,35.802067,Akbilek Mah,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.934
+13191ce0-6ebb-4eef-aa0e-813eb6d4ac80,Akbilek Parkı,ACTIVITY,40.651314,35.802067,Akbilek Mah,Amasya,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.934
 ed74b568-17db-49ff-9d66-8b3b6ba16910,Coffee Cadde Amasya,CAFE,40.649502,35.794392,Boğaçhan Sk. No:1,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.912
 e402553a-5252-4098-9dde-32043f2f5d3d,Şehzade Otel,HOTEL,40.648331,35.795704,Ziya Paşa Bulvarı 39,Amasya,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.807
 f1f9d026-a084-4654-a2e2-a0bf7cd6317b,Kahveland Amasya,CAFE,40.648952,35.806831,Arif Nihat Asya Sk.,Amasya,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.984
@@ -392,7 +387,7 @@ b6376c02-83b0-4f7c-9481-9813c69da2d0,İlim Yayma Kitap Kahve,CAFE,40.649738,35.8
 5da01f49-e63b-448a-88d6-2f6fa9b8d961,Dm Burger Amasya,RESTAURANT,40.650425,35.810593,Necip Fazıl Cd. No:15/B,Amasya,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.973
 5255818c-1877-4ba4-baaa-c49be32e2b25,Amasya Altınşiş Adana Kebap,RESTAURANT,40.650673,35.811237,Necip Fazıl Cd. No:11,Amasya,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.771
 ad9f60a5-849b-4ec6-ad11-db1d1263b509,Kahve Diyarı Amasya,CAFE,40.650639,35.817837,H. Nihal Adsız Caddesi 25,Amasya,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.946
-43766453-3d3e-421e-bdfe-689aa78e5a1c,İris Sanat,SIGHT,40.650669,35.815502,"HALİS APT, HACILAR MEYDANI MAH, Çardak Sk. NO:20",Amasya,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.988
+43766453-3d3e-421e-bdfe-689aa78e5a1c,İris Sanat,SHOPPING,40.650669,35.815502,"HALİS APT, HACILAR MEYDANI MAH, Çardak Sk. NO:20",Amasya,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.988
 5e96ac81-2add-4153-b6e3-11d8f17a2c5c,No41coffeeco,CAFE,40.651524,35.815617,H. Nihal Adsız Caddesi 41A,Amasya,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.933
 0ad1db1c-8966-4cc6-b953-1f1429f9b4a5,Tıka Basa Dunya Mutfagı,RESTAURANT,40.651566,35.815666,Hacılar Meydanı,Amasya,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.786
 8e0a9976-78ed-4969-914c-c32d88d6b57b,Nevale Cafe & Restaurant,RESTAURANT,40.651566,35.815739,Hacılar Meydanı Mah. H. Nihal Atsız Cad. Menekşe Apt.,Amasya,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -456,7 +451,7 @@ eae476fb-5456-47f3-8572-49242a55da5d,LadİK Lake House Bungalov,HOTEL,40.919514,
 b5b17302-ee4f-4925-a648-684eb93900fc,Balıkçı Hamit Ustanın Yeri,RESTAURANT,40.898083,36.015598,Taşova yolü üzeri,Taşova,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.929
 84749ec3-1492-4ac7-b0a6-69d467a20a69,Iladik Kuzu Tandir,RESTAURANT,40.893234,36.047153,Erzincan Cd. No:1/B,Taşova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.950
 24d8ab7f-5aa4-4317-9787-8d3ca9ee972f,LadİK Sakli BahÇE,RESTAURANT,40.89325,36.035782,"Ladik Gölü kenarı Kuş gözetleme kulesi, Cüce mah Ladik Samsun Ladik Taşova yolu, karşısı",Taşova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
-6dd432f7-13cf-461b-9ad3-ef30a482a142,Şehit Himmet Aydemir Göleti,SIGHT,40.839951,36.291931,Gürsu Köyü,Taşova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.849
+6dd432f7-13cf-461b-9ad3-ef30a482a142,Şehit Himmet Aydemir Göleti,ACTIVITY,40.839951,36.291931,Gürsu Köyü,Taşova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.849
 49c487a2-77c9-4a2d-9e27-783351161019,Ecevit Cafe,CAFE,40.806553,36.341843,8f2d036a2104228,Taşova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.812
 b046b08b-24bf-4538-b27b-045443da26c6,Kızgüldüren barajı,SIGHT,40.715031,36.323421,,Taşova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.739
 f0d92449-fe88-408d-9d6b-26bd57510f04,Tasova Torunlar Cadır Restoran,RESTAURANT,40.757359,36.316875,Amasya-erzincan Yolu,Taşova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.981
@@ -475,7 +470,7 @@ ba9bdc5d-794c-4e06-a437-1a927f1b5c89,Bayram Pide,RESTAURANT,40.759323,36.322979,
 838b02df-32e7-4547-9301-c08b0b90637d,Sahil Kebap Salonu,RESTAURANT,40.757961,36.322823,Atatürk Blv. No:5,Taşova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.941
 9e40dada-f606-4d74-b65b-5d1476ff3ec1,Temizler Pide Lahmacun ve Pizza Salonu,RESTAURANT,40.757877,36.323673,Kısmet Cd. No:16,Taşova,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.999
 7f258344-cfb5-424c-9dc6-b1a68df289c1,Konyar Cafe & Restaurant,RESTAURANT,40.7589,36.323647,Çağpar Cd. No:17,Taşova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.963
-924dc7a0-c707-4eca-8a88-1b277594bc3a,Nihat Yıldırım Parkı,SIGHT,40.758057,36.327957,Pazarcılar Cd. No:53,Taşova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.885
+924dc7a0-c707-4eca-8a88-1b277594bc3a,Nihat Yıldırım Parkı,ACTIVITY,40.758057,36.327957,Pazarcılar Cd. No:53,Taşova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.885
 d741ebde-55b7-4e78-b494-2a16f774ebcd,Kızgülderen,SIGHT,40.75436,36.332054,Amasya,Taşova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.751
 0c1c77b7-efa8-49c2-8a8f-77ccc2e42c8a,Saray Cafe,CAFE,40.756187,36.331272,Niyazi Bey Cd. No:6/A,Taşova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.854
 d2771544-a7bc-45db-ae54-efa96cc172dc,Belevi Akpınar,SIGHT,40.699997,36.233299,,Taşova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.792

@@ -69,7 +69,6 @@ ca9b4d47-d288-4ed8-8d43-c5e593b6fc75,Kar Otel Sarikamiş,HOTEL,40.316448,42.6338
 5d0795ba-02ce-4224-ba75-8f6762be754f,Alpina Konaklari,HOTEL,40.315987,42.633228,İnönü Caddesi 60,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.949
 b77246aa-e255-400e-97c1-bce0551e74ce,Soğuksu Nature Park,SIGHT,40.309994,42.634716,,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.741
 56620934-717f-46cd-ac0c-e428a87d6a56,Keklik Deresi Canlı Alabalık Tesisleri,RESTAURANT,40.288876,42.653988,,Sarıkamış,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.958
-4e91ef2d-5566-4e92-a724-4992dbbc0f46,Ani Ruins,SIGHT,40.495525,43.033459,"Ani Ruins, Kars - Global",Kars,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.833
 e8ab5898-b519-40d1-8604-ee8676666ff7,Check-in cafe fast food,CAFE,40.583294,43.071644,Kafkas Üniversitesi Kafkas Park,Kars,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.920
 685542fb-cbbe-437c-a27e-001b5d3f295d,Bradya Cafe,CAFE,40.583408,43.071655,,Kars,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.786
 81f92679-7cf4-437c-ab13-f503266dba07,Burger King,RESTAURANT,40.585644,43.07576,Şehitler Mah. Tuğran Çelik Cad. Vadi Kars Konakları No:4/A,Kars,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
@@ -91,7 +90,6 @@ ff1aa2eb-079c-413a-8b31-42d607fb1673,Hotel Katerina Sarayi,HOTEL,40.61388,43.087
 6f492e39-c95e-4e98-aec1-9f4c62c755a7,"Değirmen aile çay bahçesi cafe""",CAFE,40.61245,43.087055,Kars/Merkez,Kars,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.907
 1deb390f-4b1a-4aae-9693-33e4de4f83ec,Kars Kalesi,SIGHT,40.613476,43.089867,,Kars,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.930
 d622a304-14fc-4b68-8e2e-e1d7fbe0e4ff,Kale Cafe,CAFE,40.613564,43.090393,Şht. Öğretmen Vedat İnan Sk. No:32,Kars,CDLA-Permissive-2.0,Overture|meta,,,0.765
-e2a1054b-b6e8-4c06-8a2f-32ac197453f6,Castle of Kars,SIGHT,40.613689,43.090649,,Kars,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.824
 025f8579-9215-4dbc-a9b1-9bbded14a780,Ve Hotels Kars Beylerbeyi Sarayı,HOTEL,40.612713,43.092281,2. Nevreste Sk. No:5,Kars,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.934
 418d8c1f-7ff6-41fb-80de-8353d0909398,Burger King,RESTAURANT,40.610584,43.103218,Faik Bey Caddesi Orta Kapı Mahallesi No: 67,Kars,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.976
 ea7bf51d-8d01-4f39-b5d5-9da6a830fb6a,Öz serhat pansiyon konaklama,HOTEL,40.608868,43.100342,merkez mah.,Kars,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.890
@@ -179,7 +177,7 @@ b11813a0-43ec-435a-ac2d-027159a7cea2,Harput Dibek Kahve Evi,CAFE,40.607784,43.09
 74a43cd6-1257-45cc-8cf2-5eb020046ce5,Yeşilçam Cafe,CAFE,40.604538,43.093735,Ordu Caddesi 112,Kars,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.819
 429b1c0f-8495-44ea-b4c8-d864db5d1299,Ekspres Cafe,CAFE,40.604542,43.09362,Ortakapı Mah,Kars,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 908b84b4-2f90-4193-a8b6-a4427cbf05a1,Sim-Er Hotel,HOTEL,40.603149,43.089451,,Kars,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
-25175216-5255-465a-81fe-a6737e8bf8c7,Mesut Yılmaz Recreation Park,SIGHT,40.602943,43.092052,Faikbey Cd. No:1,Kars,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.855
+25175216-5255-465a-81fe-a6737e8bf8c7,Mesut Yılmaz Recreation Park,ACTIVITY,40.602943,43.092052,Faikbey Cd. No:1,Kars,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.855
 7b428c1d-2317-41c4-9ada-1f50fef81e80,Anatolia Cafe,CAFE,40.602955,43.092014,,Kars,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.934
 6d6b672f-1ae8-472b-845f-92785a20a66b,Kayabaşı Restaurant,RESTAURANT,40.602867,43.091972,,Kars,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.844
 b977c933-7e58-4e8b-8772-78e1a704e2a1,Kosor Cağ Kebap KARS,RESTAURANT,40.602066,43.093288,"POLİSEVİ (eski emn.mud, No:, Faikbey Cd.",Kars,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.986
@@ -205,7 +203,6 @@ e0d5b3e1-4024-4d8c-a3dc-241bd6ccbdd3,Söylen-Tea,CAFE,40.603428,43.096859,Şht. 
 e17feb0a-1ac4-419a-8518-88b66fb1dcb9,PERA Cafe& Lounge Kars,CAFE,40.604469,43.096149,"Yeni Nil Döner Ve Dürüm, Faikbey Caddesi 8",Kars,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.932
 0e33f75c-5042-49cc-9dc5-d73f7ecc6fd4,Platin Bilardo Salonu Cafe,CAFE,40.604805,43.0965,Faikbey Caddesi 45,Kars,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.911
 a5568a70-9580-49c9-8524-989839a385e1,Çiftlik Döner - Kars,RESTAURANT,40.604797,43.096191,Faikbey Caddesi 33,Kars,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.884
-ca004d67-cbc3-4797-a603-4b440f75ce53,Gazi Ahmet Muhtar Paşa Konağı,SIGHT,40.604504,43.095642,Faikbey Cad,Kars,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.900
 a3a0be25-ffc6-4d6f-a503-1a19773cb715,Pasha Cafe,CAFE,40.605183,43.095112,Ortakapı mah Gazi Ahmet Muhtar Paşa Caddesi No:97 Merkez,Kars,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.993
 5ee14964-688b-4cf1-bc79-068bdf2d05dc,Alice Paradaise,CAFE,40.605438,43.094696,Gazi Ahmet Muhtar Paşa Cad,Kars,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.811
 0f76cf09-a5c1-4265-8d2f-30248c208bbb,Kahve Diyarı Kars,CAFE,40.60524,43.094677,Gazi Ahmet Muhtar Paşa Caddesi 166,Kars,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.989
@@ -272,7 +269,5 @@ d9dcc12d-2e7f-4249-aa39-ada523ea8786,Kuyucuk Gölü,SIGHT,40.739899,43.455399,,A
 f77f3154-b541-4e1e-bc60-29a845238172,Çağlayan Lokantası,RESTAURANT,40.740715,43.623138,İstasyon Cd. No:25,Akyaka,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.820
 456e6a3b-635e-457b-bbbb-2c170059eade,Ani antik kenti,SIGHT,40.532993,43.566994,,Akyaka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.814
 aa0245a4-f69a-40ca-ae44-26edc9f855fb,Ani Bakireler Manastırı,SIGHT,40.513191,43.573338,Kars Ani Harabelerş,Akyaka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.875
-a5f5d5d0-97f6-487b-94dd-cbb639bebcf4,"Ani Harabeleri, Kars",SIGHT,40.512058,43.572464,Ocaklı (Ani) Köyü,Akyaka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.934
 67affecc-1e58-49b0-ab9b-f736c34214bc,Polatoglu Kilisesi,SIGHT,40.507637,43.568916,,Akyaka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.796
-c4dcb195-6aa7-4094-9ecf-df2b6d6cfbdd,Ani (Türkei),SIGHT,40.5075,43.572777,,Akyaka,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.706
 166468ef-635a-4f2e-bb52-080b44f08ac2,Beş Kilise,SIGHT,40.380554,43.376389,,Digor,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.819

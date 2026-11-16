@@ -8,7 +8,6 @@ sourceRecordId,name,category,lat,lon,address,district,licence,overtureDatasets,o
 2cb29682-66f8-47e5-86c3-26b725bd83bf,Kardeşler Restoran,RESTAURANT,38.248772,33.533913,İsmetpaşa Cd.,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.779
 8170f60f-08d1-415e-98ce-2f0dd05073cb,Sultanhani Kardesler Etliekmek Ve Pide,RESTAURANT,38.249138,33.533733,Konya-aksaray Yolu,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant,0.878
 cdbd4e00-b40c-4378-ad7a-81081857d13f,Kardeşler Dinlenme Tesisi,RESTAURANT,38.249111,33.533707,Konya Yolu Üzeri Kardeşler Dinlenme Tesisi Sultanhanı/Aksaray,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.992
-928e2792-65b8-4bd9-94ed-b45b2afdea88,Caravanserai Sultanhani,SIGHT,38.247791,33.54628,Sultanhani,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.884
 b7a06c0a-1872-47d5-91c5-6bd439d1ef67,Hotel Sultansaray Sultanhanı,HOTEL,38.248562,33.548183,"Zafer Mahallesi, Abdulhamit Han Caddesi No : 4",Sultanhanı,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.965
 859a617c-ca0e-4622-899a-df64c6313a73,Söylemezler Alışveriş Merkezi,SHOPPING,38.248447,33.548927,Genç Osman Sk.,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.962
 144213dc-74c8-4299-a211-1c453fe7a0c9,Boğa Cafe Restaurant,CAFE,38.24828,33.547943,Atatürk Cd. No:23,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.986
@@ -34,7 +33,7 @@ f5425b11-4efd-47d3-b227-14a4fc26f916,Eskil Çadır Bahçe Aile Balık Restaurant
 debbb34d-bfc2-4694-8618-8481082f6cd6,Medcezir Cafe ve Düğün Salonu,CAFE,38.395027,33.413185,Ihlamur Sk. No:16,Eskil,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.986
 f7ea89e6-b26f-4c09-b74d-9fe416d26837,Gazibey Etliekmek,RESTAURANT,38.402473,33.412964,Şht. Mehmet Meral Sk.,Eskil,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.838
 42487ca1-a3ac-4891-b673-100e0ae6c486,Arkadaşlar Etli Ekmek,RESTAURANT,38.401764,33.41354,Atatürk Cd. No:17,Eskil,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.787
-8d593a54-c248-4e7f-a3b0-1c63dec7e565,Tuz Gölü Park,SIGHT,38.401619,33.413128,,Eskil,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.827
+8d593a54-c248-4e7f-a3b0-1c63dec7e565,Tuz Gölü Park,ACTIVITY,38.401619,33.413128,,Eskil,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.827
 734b3eaf-4340-4dbc-9ba1-cbb3f23e24fb,Medcezir Cafe Ve Düğün Salonu,CAFE,38.401737,33.413204,Şehit Ömer Halis Demir Bulvarı 4/2,Eskil,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.853
 6565c05b-91f1-4344-9c8c-ad4052112089,İNCİ Pastanesi   Fahrettin ALTAN ESKİL,CAFE,38.401794,33.412678,Şehit Recep Bozdağ Caddesi 2,Eskil,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.935
 44aff3f5-b581-4ef6-95b4-d0f07306471d,Arif Usta Eskil,RESTAURANT,38.401772,33.410816,Şehit Recep Bozdağ Caddesi 16,Eskil,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.938
@@ -101,7 +100,6 @@ fd1ea347-9c5f-4ecc-af44-921a36b67692,Icemar,CAFE,38.354195,33.97065,Abaylar Dinl
 90f69511-c038-45bb-beb6-23393c682d35,Aksaray Museum,SIGHT,38.360542,33.994335,Konya Cd. No 16,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.986
 81a95a97-740a-4ca5-868c-931a3a12914f,Kanatçı Sedat,RESTAURANT,38.356651,33.989086,50. Cd. E1 Toptancilar sitesi 11/c/4,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.889
 e7ca42b3-83aa-4c80-92ab-ee3586463005,Harman Büfe Kafe,CAFE,38.356834,33.988964,50. Cd. No:4/A iç kapı no :1,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.894
-d0a88451-5047-495c-b9ff-76469d182a3e,Aksaray Bilim ve Sanat Merkezi,SIGHT,38.354,34.006458,5534. Sk. No:5,Aksaray,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.977
 baa63bbe-83ec-4aff-afff-204c36b357a7,Elit Dondurma Aksaray,CAFE,38.357117,34.013359,1678. Sk. No: 40/A,Aksaray,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.992
 d1b92b60-d166-41ec-b85b-67a9c74a4371,Acem Caddesi Tatlı & Çiğ Köfte,CAFE,38.354729,34.019909,Acem Sokak 77B,Aksaray,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.932
 00633f92-651c-4ad6-89e6-da1aeb19a5d9,Uluırmak Uygulama Oteli,HOTEL,38.355766,34.024559,"Uluırmak Uygulama Oteli Ereğlikapı Mahallesi, Şehit Polis Önder Güzel Cd. No:16/1",Aksaray,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.992
@@ -218,7 +216,6 @@ e7b0b468-3460-4a1b-a718-7774ace554e7,Çiğköfteci Ömer Usta Aksaray Şubesi,RE
 ea45e04a-ccb9-4dd7-9eac-2a3b0b5c3009,Sofra,RESTAURANT,38.371548,34.023544,"Mahallesi, Ankara Cd. No:36/E",Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.991
 2ac1610b-6cde-4581-b356-0436c3bf472b,Bölcek Köprüsü,SIGHT,38.371876,34.022835,Pamucak Cad.,Aksaray,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.889
 ed4a5664-8381-4a95-9c56-f8396a677708,Yeni Toprak Otel,HOTEL,38.371933,34.025654,559. Sk. 30 C,Aksaray,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.974
-485a560f-2726-4a01-b906-e2911d8e21bb,Zinciriye Madrasa,SIGHT,38.372696,34.025322,Belediye Cd. No:28,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.978
 1eff7c23-feed-4182-967e-ae678eb34d46,Cemil Ustanin Yeri,RESTAURANT,38.372654,34.026165,Vehbibey Cd. No:25,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.926
 f69b3895-2488-41b4-aba0-3f0b9cead4b9,Sedir Kebap,RESTAURANT,38.372719,34.026478,"Belediye İşhanı Girişi Minare il mahallesi, Vehbibey Cd. No 23",Aksaray,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.943
 2b2d2e59-da5d-495d-a906-b41ccff64933,Aksaray Öztürk Erkek Apart,HOTEL,38.372868,34.026695,Vehbibey Caddesi 36D,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.708
@@ -229,7 +226,7 @@ fca6a6c0-df19-41b4-8edd-9e88e58868da,Hasan Usta Tantuni,RESTAURANT,38.372112,34.
 a150d4c5-c3e4-4f00-be47-a67b22e8f4e9,Pizza De Mio's,RESTAURANT,38.372105,34.021168,"Küçük Bölcek mahallesi 35, Büyük Bölcek Cd. No:163",Aksaray,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.919
 51779474-8dbe-4957-ae52-f2040e4254d7,Konya Etliekmek Ali Usta'nin Yeri,RESTAURANT,38.372223,34.019627,Ereğlikapı,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.779
 3e26f3fa-bca5-46a3-8d57-1b0995abb6e0,Cafe Rio Grande,CAFE,38.373787,34.024464,653. Sk. 29/A,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.791
-6cc6f56d-e2ca-4d50-8352-56adfe506e63,Kazıklı Park,SIGHT,38.373592,34.024113,904 Sok,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.890
+6cc6f56d-e2ca-4d50-8352-56adfe506e63,Kazıklı Park,ACTIVITY,38.373592,34.024113,904 Sok,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.890
 a18df4b7-e833-49a3-8c1b-f4c7560c6555,MMK Tantuni,RESTAURANT,38.373238,34.02309,964. Sk. Eski vali konağı yanı üniversite otobüsleri karşısı 38/A,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.926
 476ace29-9bea-4d8a-8bf9-9599e23644f7,Meryem Otel,HOTEL,38.373344,34.027187,506. Sk. No:1,Aksaray,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.921
 018fa206-a4e1-41f1-a77f-8bfd14c9005c,Şeyh şamil Etliekmek,RESTAURANT,38.373631,34.030678,Kılıçaslan Mahallesi,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.860
@@ -237,7 +234,7 @@ a18df4b7-e833-49a3-8c1b-f4c7560c6555,MMK Tantuni,RESTAURANT,38.373238,34.02309,9
 51cb424c-9a65-4973-8764-77c54be3bb21,Dalyan balıkçılık Aksaray,RESTAURANT,38.373913,34.030613,706. Sk. 23 D,Aksaray,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.971
 b07e73a9-8be4-4084-a43c-bdde16c44932,Kebap Dünyası,RESTAURANT,38.374142,34.030289,707. Sk. 7 A,Aksaray,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.756
 9cf47f27-419d-4eb0-b1e1-9793afaaff14,Cemal Yumuşak Dinlenme Tesisleri,RESTAURANT,38.374187,34.028896,Konya Caddesi 35,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.957
-79927d31-41b6-4b0f-b6e0-b3eac6bf98c7,Kılıçaslan Parkı Aksaray,SIGHT,38.374199,34.028896,,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
+79927d31-41b6-4b0f-b6e0-b3eac6bf98c7,Kılıçaslan Parkı Aksaray,ACTIVITY,38.374199,34.028896,,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
 bc8e74df-16ea-409c-ab9d-6eb4cd09d813,Kapadokya Restaurant,RESTAURANT,38.374199,34.028896,Ankara Sokak 37,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.827
 f189327c-1953-42d8-9fbf-34461001fe7c,Aksaray Taspınar Saraykent Otel,HOTEL,38.374123,34.028828,E-90 Karayolu Adana istikameti Taşpınar Mevkii,Aksaray,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.954
 5c9fe6f4-08e7-4b8f-b03b-a76a6d07597c,Üç Yıldız Otel,HOTEL,38.373871,34.027988,Bankalar Cd. No: 57,Aksaray,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
@@ -267,11 +264,11 @@ d6b29da7-6d8d-4eb3-9ce0-1fe93ea04f3d,Fatih Sabri Pastaneleri,CAFE,38.372009,34.0
 e22cd401-b770-4acf-bf10-92796845c3f4,Limon Çay Evi,CAFE,38.372139,34.028316,Ziraat Bankası Yanı,Aksaray,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.783
 ace0cf88-072e-48a5-bb98-6d140230dc84,Yaprak Doner,RESTAURANT,38.371838,34.027779,"Minarecik Bankalar Cad. Uygun İş Hanı, D:5/A",Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.991
 20a60d16-81d5-435d-8545-3c6756fbeaeb,Meşhur köfteci Mustafa,RESTAURANT,38.371857,34.027611,560. Sk. No:3,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.941
-bbbd6a91-2f20-4e88-aace-8e468c691179,gelverisanatevi aksaray,SIGHT,38.371387,34.03104,750. Sokak 2,Aksaray,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.989
+bbbd6a91-2f20-4e88-aace-8e468c691179,gelverisanatevi aksaray,SHOPPING,38.371387,34.03104,750. Sokak 2,Aksaray,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.989
 5d60587f-a678-43b4-aaf8-bc005adea513,Servet Ustanin Yeri Pide Ve Lahmacun Salonu,RESTAURANT,38.37104,34.029682,Kalealtı Cd. 39A,Aksaray,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.895
 3ca4e078-4e1a-430a-9e94-8603bd4a7b0f,Kahve DÜKkani,CAFE,38.371529,34.027077,,Aksaray,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.892
 5b76eea5-4532-4c5d-a3b3-14b06d58c889,Sultan Paça Çorbacısı,RESTAURANT,38.370731,34.029106,Kalealtı Cd. 45 D,Aksaray,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.932
-9d32be73-67ae-40ed-8a3a-921279c30063,Aksaray Meydan,SIGHT,38.370575,34.027126,44/ Mehmet Altınsoy Cd. No:1 D:1,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
+9d32be73-67ae-40ed-8a3a-921279c30063,Aksaray Meydan,ACTIVITY,38.370575,34.027126,44/ Mehmet Altınsoy Cd. No:1 D:1,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.962
 cb350cce-dce7-4df0-8d5d-69513a4d3393,Saat Kulesi,SIGHT,38.370304,34.027565,Cumhuriyet Meydanı,Aksaray,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.791
 f0c23da7-9d27-46e4-a72c-4b0d06192c84,Kral Künefe,CAFE,38.370258,34.027794,,Aksaray,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.770
 d54c82c0-1a37-4ebe-abea-0a958b7dd38b,Sultan Lahmacun,RESTAURANT,38.370293,34.027874,Hamidiye Mh. Kalealtı Cd. No:54/A,Aksaray,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -344,33 +341,29 @@ eea51397-c765-4e47-9ed8-bb989e047e18,Çorbacım,RESTAURANT,38.365246,34.019981,P
 382aa2ab-c561-4982-b59c-6b0e13c7984e,Sultan Lahmacun & Etli Ekmek,RESTAURANT,38.365612,34.024441,Vatan Bilgisayar Yanı,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.981
 1a745eca-80d6-4576-8a74-5a6f20fbc770,Sefa Pastanesi,CAFE,38.366337,34.032379,"Konum, Bediüzzaman Cd. No:57/ D",Aksaray,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.777
 71547796-cb28-4bb9-a129-ab57d6071efb,Hikmetoğulları Tatlı Dondurma,CAFE,38.367104,34.031517,Bediüzzaman Cd. No:51,Aksaray,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.839
-ff4d3acd-79cc-41e1-9dd2-62252736555e,Villa Sanat,SIGHT,38.365761,34.032982,Bediüzzaman Cd. No:67/A,Aksaray,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.962
+ff4d3acd-79cc-41e1-9dd2-62252736555e,Villa Sanat,SHOPPING,38.365761,34.032982,Bediüzzaman Cd. No:67/A,Aksaray,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.962
 8b6d377e-6e92-4a6f-821c-bfa78b106e64,Simay Dondurma Ve Simit Poğaça Salonu,CAFE,38.365059,34.031368,Ziraat Caddesi 29,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.777
 d8591570-6e1a-4b1f-85f2-378acfd4473c,Aksaray / Kurtulus Pide Salonu,RESTAURANT,38.36573,34.044193,,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.939
 c2f3e9e6-8ef3-4a1d-926d-63c029b5442a,Gral kuzu kokoreç,RESTAURANT,38.368027,34.043133,Kurtuluş Cd. No:108,Aksaray,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.937
 eef9e3bc-48f4-45ec-89a5-d300a0d921a3,Komagene,RESTAURANT,38.371513,34.036793,Kurtuluş Cd. 40/A,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.821
 850106d1-539d-4f11-874a-3adee97d473d,Somuncu Baba Minyatür Müzesi,SIGHT,38.374073,34.039753,1209. Sk. No:27,Aksaray,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.950
 49a85077-015d-4739-9e92-68563082794d,İpek kelle aksaray,RESTAURANT,38.374256,34.039719,"1209, 1209. Sk. 29/B",Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.968
-e6e106b3-bd11-41b3-9654-fcb2240ddb9c,Şeyh Hamid-i Veli Somuncu Baba,SIGHT,38.373863,34.040081,1209. Sokak,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.869
-3d2338d5-dcb9-4022-9948-46d447542bb8,Kırkkızlar Tepesi,SIGHT,38.368912,34.053806,,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.733
 ae3cee5d-5610-4f61-b2dd-fb3de04204cc,Can Kardeşler Etli Ekmek Salonu,RESTAURANT,38.359028,34.038307,18. Pınar Sk.,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.819
 345e53b2-9eb9-41ac-a577-643638cacf7e,Günbey Tabldot,RESTAURANT,38.360538,34.050083,3863 sok no 14,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.915
-800070da-3d22-40d5-90b8-2e532c454ac1,Aksaray Fatih Parki,SIGHT,38.356022,34.036354,Fatih Mh,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.956
+800070da-3d22-40d5-90b8-2e532c454ac1,Aksaray Fatih Parki,ACTIVITY,38.356022,34.036354,Fatih Mh,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.956
 6c5c3fdc-ad7c-478c-88a5-256f7599026b,Metro restaurant,RESTAURANT,38.353458,34.04372,horhor cad. 82 ,Aksaray,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.767
 52c9954d-9903-4b40-99d2-e5ac4c30e6c7,"Yolüstü Kokoreç & Köfte, Aksaray",RESTAURANT,38.354252,34.052444,Laleli Cd. No:8,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.864
 b6217abc-7652-4ed0-a1ec-1f4f6db6a7f1,Köşem restaurant,RESTAURANT,38.377689,34.12048,"Gücünkaya Caddesi, 68010, Gücünkaya, Aksaray, Türkiye",Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.804
 7e1ea48c-7f9a-4c01-99c8-4d48ea68af25,Tadım Et & Balık Restaurant,RESTAURANT,38.39716,34.12384,Gücünkaya Köyü Yol,Aksaray,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.940
 1a1a211e-36aa-4d4f-add6-fb8e6093e572,Kar Restoran,RESTAURANT,38.397682,34.122742,,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.823
 e0c65833-3b29-4c87-bdce-353e1311f0d7,Aksaray Mamasın Barajı,SIGHT,38.397232,34.12373,,Aksaray,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.721
-32b2d149-42ee-4efb-a135-5ce72ff07bd4,Mamasın Dam,SIGHT,38.397228,34.123722,,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.824
 fa2d9edb-d77d-4c17-8459-79153717306a,Öz kardeşler restaurant,RESTAURANT,38.397987,34.122437,aksaray gücünkaya köyü Mamasın barajı,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.958
 9558f77a-95b6-4677-bf48-7be9af98dd40,Aksaray Selimiye Katedrali,SIGHT,38.377777,34.03989,,Aksaray,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.811
 741e3e7b-2dba-4d6c-8c2b-e4346c4634c1,Aksaray Seyir Tepesi,RESTAURANT,38.377625,34.044037,,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.923
 9cd7f26b-973a-451e-91e9-508883dd5c69,Moonlight cafe,CAFE,38.377644,34.043785,1245. Sokak 22,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.965
 dd308d9d-fd70-4d5a-9c79-d88fa308cfbb,Cadır Nargile Ve Turku Evi,CAFE,38.380096,34.041557,Kılıçarslan Parkı,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.917
-b0d59c9a-f78d-4041-b816-c9726b9ae819,Kılıçarslan Parkı,SIGHT,38.38084,34.041061,3512. Sk. No:8,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.861
+b0d59c9a-f78d-4041-b816-c9726b9ae819,Kılıçarslan Parkı,ACTIVITY,38.38084,34.041061,3512. Sk. No:8,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.861
 40918d8e-f940-426c-b5c5-97815c88ca6f,Piramit Cafe,CAFE,38.382168,34.043106,3504. Sk. No:6,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.994
-024784bf-3943-437a-b9b5-cabda3362ed8,Tatlı tepsi hastane sube,CAFE,38.382462,34.028584,Atatürk Blv.,Aksaray,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.915
 24e2cb1c-7114-425d-9bfa-c7cddd083dc2,Anteplioğlu Baklavacı ve Dondurma,CAFE,38.381081,34.02829,Cumhuriyet Blv. No:153,Aksaray,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.911
 0555f4f6-7c81-4f56-a3c0-febae1c2e43e,Pukka Kafe Bistro,CAFE,38.380764,34.027817,cumhuriyet bulvarı samli mahallesi 3001. sokak,Aksaray,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.953
 08324d60-ed08-4739-9a39-5b107bdaf98a,Mir Konak Restoran,RESTAURANT,38.378983,34.031502,"Mahallesi, Atatürk Blv. No:164",Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.874
@@ -385,7 +378,6 @@ b0d59c9a-f78d-4041-b816-c9726b9ae819,Kılıçarslan Parkı,SIGHT,38.38084,34.041
 1aab6b47-3fd3-467c-9e30-d2dbfc267678,Hanımeli Gözleme,RESTAURANT,38.376762,34.026867,Hasas Mh. Cd. 9 B,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.954
 9fe701b4-f1be-469c-bd17-149f6bf815f7,ATAV Döner,RESTAURANT,38.375973,34.023438,Meydan Mahallesi Hükümet konağı Karşısı Atav Döner ,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.755
 1e421063-13a1-4fb5-a648-c8ecf0921d33,Şahinoğlu Gaziantep Baklavaları,CAFE,38.377987,34.021511,"Meydan, No: 8 cumhuriyet bulvarı 30 mt yol üzeri, Cumhuriyet Blv.",Aksaray,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.940
-907a4dad-466b-47cf-864b-7d0774e80cfd,İhlara Vadisi Belisirma,SIGHT,38.379765,34.025757,,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.706
 4ebaeccc-12f8-4132-9404-27b251d505de,Tuba Lahmacun,RESTAURANT,38.377552,34.018223,Cumhuriyet Blv. 87 A,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.987
 88af6724-6799-47c1-9446-0bdab7446f7f,Hatipoğlu Pide Salonu,RESTAURANT,38.376606,34.015881,,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.767
 ed1154b1-141a-47f7-9f0b-017f980e0a32,Hasan Usta Tantuni Aksaray,RESTAURANT,38.376667,34.015751,Cumhuriyet Blv. 80-A,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.964
@@ -397,11 +389,10 @@ d3220744-1c2b-478c-b597-698c513ecbeb,Esentepe Restaurant,RESTAURANT,38.401329,34
 83331575-a066-476b-9d49-6a160086f072,Belisirma Restaurant ihlara,RESTAURANT,38.414467,34.063934,ihlara vadisi belisirma,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.857
 cb40d84b-5b56-46ba-8405-e48692475dcd,Yeşilay Restoran,RESTAURANT,38.412163,34.058792,,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.907
 4cda0129-26a7-48fc-be21-7e59d31d6bbc,Köşem Restaurant,RESTAURANT,38.401154,34.123028,,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.921
-fffdcd57-3089-4e7c-8bad-c490a0267db2,Mamasın Dam,SIGHT,38.402321,34.131924,,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.824
 0844cfb3-6bbd-40d0-93e8-a097b326d1a8,Demirler Dinlenme Tesisi,RESTAURANT,38.418972,34.078396,,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.869
 5ddfce58-e2bd-4c7a-8344-19c8ae4a74d0,Yeşil bahçe et balık mangal restaurant,RESTAURANT,38.427982,34.104301,Aksaray nevşehir 10 km si,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.772
 e6d5ab57-4a10-4cad-99c5-43b05cc294f8,Toros Lokantası Cumhur Başkan'ın Yeri,RESTAURANT,38.427155,33.957577,Aksaray Ankara yolu üzeri 4.km  YücelGAZ Saray Tesisleri içerisi KILIÇLAR ,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.855
-9c2c45c7-bb58-405a-9a78-053a994ee174,Genç Osman Parkı,SIGHT,38.421337,33.990253,,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.846
+9c2c45c7-bb58-405a-9a78-053a994ee174,Genç Osman Parkı,ACTIVITY,38.421337,33.990253,,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.846
 d5b8f1d7-628d-4e0c-8384-bec521a788f5,Çamlıca Restoran,RESTAURANT,38.412697,33.99279,Yunus Emre Mah. 7077 Sk. No:20/B,Sultanhanı,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,restaurant,food_and_drink>restaurant,0.770
 c9ab76d3-5096-4fd1-84e5-ea43899ae0f0,Komagene,RESTAURANT,38.409233,33.999344,130. Cd. palmiye kooparatifler sitesi C blok 1/1,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.843
 0130b3a8-8874-4cdb-9331-2c526a3c3544,Has Döner,RESTAURANT,38.406796,33.977398,Yeni Mah. E90 Ankara Highway,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.952
@@ -413,14 +404,13 @@ e69e742b-3cc9-41f9-b574-aa8208b665bf,Osmanlı Sofrası,RESTAURANT,38.605873,33.7
 981473f7-0617-4aa8-a50b-0b510f4efdae,Sagirkara Cerran,RESTAURANT,38.539234,34.060013,Vehbibey Caddesi,Ortaköy,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.935
 1ca09672-dc07-4354-ab02-588fc6304d68,Aksaray Siverek sofrası,RESTAURANT,38.455853,33.924019,Ankara Caddesi 6,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.969
 1860df19-0ed5-42e6-83a8-7f0552a17266,Aksaray Hanifi Yılmaz Tesisleri,RESTAURANT,38.448952,33.930901,,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.784
-b2eb12fa-1125-41d2-8d84-3ee90af9e00d,Ağzıkarahan,SIGHT,38.445229,34.140381,,Aksaray,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.864
 6e05069c-41ec-47c4-bd30-1855fc33a365,Çatalsu Et Balık Restaurant,RESTAURANT,38.454758,34.157532,gökçe köy girişi,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.918
 2857a5ca-d83f-4c41-b2d9-35423e08c918,Çatalsu Balikçisi Aksaray nevsehir yolu 16. Km,RESTAURANT,38.45483,34.157661,Aksaray merkez gökçe köyü,Aksaray,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.978
 2ee738bb-3edc-41ea-a34f-a8fe465bfae1,Zirve Et & Balık Restaurant,RESTAURANT,38.458817,34.17194,"Nevşehir Yolu Üzeri, Yalnızceviz Köyü Yolu 18. Km",Aksaray,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.929
 62f1320c-3a10-4752-9868-d35c9e4e9521,Tepesi Delik Han,SIGHT,38.470989,34.203125,,Gülağaç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.894
 db23a2f7-4a46-43a3-bf28-bc4b15327dab,Öresin - Tepesidelik Han,SIGHT,38.470768,34.203224,Nevşehir Caddesi 22,Gülağaç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.957
 b87801dd-0598-4ec1-be17-eb142be0ce3b,Kaniklar Restaurant,RESTAURANT,38.484936,34.247486,,Gülağaç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.800
-3d3e7288-4148-4065-ba59-47d3162d7f01,Saratlı Meydan Parkı,SIGHT,38.45108,34.234192,,Gülağaç,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
+3d3e7288-4148-4065-ba59-47d3162d7f01,Saratlı Meydan Parkı,ACTIVITY,38.45108,34.234192,,Gülağaç,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.924
 937d169c-aae9-4f55-9601-636f3ffdde6f,Saratli Kasabası,SIGHT,38.444656,34.234951,,Gülağaç,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.726
 9646a3a8-3fe2-477b-b6e6-117f6c4501cc,Kalebalta Barajı,SIGHT,38.573429,34.19487,,Ortaköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.748
 fc9541bc-645a-454d-bac5-f667fcebae26,Tatlarin Barajı,SIGHT,38.619534,34.489067,,Ortaköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.870
@@ -440,7 +430,6 @@ ea9f449f-6513-43a6-94af-f8450815259f,Selime Sultan Türbesi,SIGHT,38.300446,34.2
 f21e855f-a72c-4184-9ef2-96b85f4f994b,Continent Hotel Kapadokus Thermal,HOTEL,38.276867,34.267639,D:No:249,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.974
 45fb3ec8-f0a5-4303-bdf7-01161efeb31d,Ihlara Termal Otel,HOTEL,38.276596,34.267044,No:249,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 0ffa6d47-cb17-4046-b6a7-8b6a9be79add,Çınar Restaurant,RESTAURANT,38.264374,34.290951,,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.878
-d24c2881-6c76-4980-98cc-9a8580dbc1db,Ihlara Valley - Cappadocia - Turkey,SIGHT,38.264385,34.290867,Turkey,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.755
 342fe665-31b1-47e9-92fb-1f9cb184e97f,Karakaya Restorant,RESTAURANT,38.265747,34.290398,,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.863
 7cf6c9d8-c434-449b-8b36-1212c024c572,Anatolia Restaurant,RESTAURANT,38.266861,34.288822,"Belisırma Köyü, Güzelyurt/Aksaray",Güzelyurt,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.981
 3969f4d7-59ed-4df5-a6da-77c6d40a7888,Belisırma Cave Otel & Restaurant,HOTEL,38.26696,34.288296,"Belisırma Köyü Yolu, 68500 Belisırma/Güzelyurt",Güzelyurt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.983
@@ -474,31 +463,25 @@ b6a6f698-ffbb-4b6d-a044-2df8cb9070a8,Helvadere Göleti,SIGHT,38.203014,34.207386
 2226029c-feb4-4984-ae30-19aee3fe6b24,HELVADERE,SIGHT,38.183296,34.216698,HELVADERE,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.901
 1589e1d3-0462-422f-958a-9d80ee21eb11,Baba kebab restorant,RESTAURANT,38.239315,34.30706,Ihlara Köyü Yolu,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.945
 363b822f-08c9-43dd-86a0-c5c17d2b8a17,Star Restaurant,RESTAURANT,38.239594,34.307873,"IHLARA kasabası çarşı merkezi no, D:1",Güzelyurt,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.933
-785774f8-2b9e-492d-80e7-53278fcdbc4a,Ihlara VadİSİ,SIGHT,38.23333,34.299999,,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.823
-928f9083-d2d3-400f-97b8-722dadf2f3cf,Ihlara Valley - Cappadocia - Turkey,SIGHT,38.233299,34.299999,Turkey,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.755
-9d7c95a5-c465-4f51-a7b5-f881b9b497ad,Ilısu Kasabası Köy Meydanı,SIGHT,38.233395,34.344933,,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.720
 d86fd3af-b546-49b6-bd1b-9d32d440d145,Ihlara Aile Çay Bahçesi,CAFE,38.243263,34.30743,1 No lu Vadi Girişi,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.918
 314b7d22-c732-4974-937d-b98a9a2ad4f0,Kapadokya Stonelake Hotel,HOTEL,38.240219,34.299828,Guzelyurt Ihlara Kapadokya,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.906
 0ef9fc35-2634-4529-8eec-48df14c995e6,Kapadokya Ihlara Restaurant Cafe,CAFE,38.240253,34.299698,Güzelyurt Ihlara Kapadokya,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.891
 dc80351e-fc9a-4c90-af49-4eab0b370e9b,Akar Hotel,HOTEL,38.241489,34.295631,Atatürk Bulvarı 47,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 23bb73ee-182c-4876-808a-a479a3e0198f,Ağaçaltı Kilisesi,SIGHT,38.253338,34.303825,Ihlara Vadisi,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.966
-38efd23c-aa09-4056-b0cb-54a8ec687ca3,Ihlara Valley,SIGHT,38.253899,34.302696,,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.763
 167f5b73-26c0-4e57-9774-d65eced8cc11,Sümbüllü kilise,SIGHT,38.254128,34.302853,,Güzelyurt,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.788
-edcf41d9-6397-489d-8932-694920590aec,Atlas Park,SIGHT,38.258118,34.017944,aksaray,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.940
-b71490a3-844d-47b5-bc21-ea5e3c48eaca,Atlas Park,SIGHT,38.255363,34.0228,aksaray,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.936
+edcf41d9-6397-489d-8932-694920590aec,Atlas Park,ACTIVITY,38.258118,34.017944,aksaray,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.940
+b71490a3-844d-47b5-bc21-ea5e3c48eaca,Atlas Park,ACTIVITY,38.255363,34.0228,aksaray,Aksaray,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.936
 25fbfae5-460a-4033-8578-19b7a1941710,Köfteci Yusuf,RESTAURANT,38.219643,34.0042,Erenler Mahallesi Atatürk Bulvari No:50,Aksaray,CDLA-Permissive-2.0,Microsoft|Overture,kofta_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>kofta_restaurant,0.850
 1b43bf21-f98f-4865-b8b4-851f951c1692,Dağdibi Tesisleri,RESTAURANT,38.197979,34.045609,,Aksaray,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.812
 c932df20-d478-4655-8341-385516ebed22,Yorukoglu Et Mangal,RESTAURANT,38.235687,33.99826,E-90 Adana Karayolu 17 Km,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.927
 9cc16157-97cb-45f6-9c12-4c27716bc8e6,Tünel Restaurant,RESTAURANT,38.245846,33.996239,"Belediyesi/Aksaray Merkez Aksaray TR, Adana Aksaray Yolu",Sultanhanı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.944
 c5216959-d13c-49d3-8e82-fadb3dc04039,Nehir Et Mangal,RESTAURANT,38.248913,33.996372,,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.811
 3a259976-f64e-45c5-8bb7-08fede566208,KASAP Ramazan İn YERİ,RESTAURANT,38.256531,33.993134,,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.870
-4789b5de-70d8-4690-9361-5104e005aeed,Azizler Yaylası,SIGHT,38.18734,33.767365,,Sultanhanı,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.726
 50390d81-5f06-4387-b6af-98d5518a760e,Sarıyahşi Şelale,SIGHT,38.982506,33.843674,,Sarıyahşi,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.779
 8aca9114-4a2a-41b7-904d-5afdd63b2891,Sariyahsi Pazar Yeri,SHOPPING,38.981983,33.844276,,Sarıyahşi,CDLA-Permissive-2.0,Overture|meta,flea_market,shopping>second_hand_store>flea_market,0.841
-acdd08ad-2f07-4e10-a7e7-82ea1dce1e77,Alparslan Turkes Parki,SIGHT,38.979946,33.842518,,Sarıyahşi,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.914
+acdd08ad-2f07-4e10-a7e7-82ea1dce1e77,Alparslan Turkes Parki,ACTIVITY,38.979946,33.842518,,Sarıyahşi,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.914
 ccad414e-a638-4ebc-bb6a-66442cad864f,Sarıyahşi Gölet,SIGHT,38.972164,33.832382,,Sarıyahşi,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.761
 4f2d4307-c02e-4c95-8d59-046940c50ac5,Kadıoglu restaurant,RESTAURANT,38.791553,34.122467,Aksaray Sokak 2,Ortaköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
-398fe2ca-cd7a-4d16-be28-64ea10740b63,Eren Dede Tepesi Agaçören,SIGHT,38.876923,33.920967,,Ağaçören,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.920
 68b53863-5a29-4a90-b17d-773cdb487ed4,Cafe Sevgi,CAFE,38.872391,33.911312,,Ağaçören,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.850
 495ae221-2d5f-4fcc-9c3d-4ad2cc0d5cd5,Cafe Dengim Ağaçören,CAFE,38.869102,33.915321,Ankara Caddesi 1,Ağaçören,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.952
 38fcc478-2808-4c76-b33a-280b938e2fd8,Hanımeli Kafe Restaurant Aile Çay Bahçesi,RESTAURANT,38.869175,33.915455,Ankara Cd. 1/B,Ağaçören,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.826
@@ -532,5 +515,4 @@ eedbb034-479e-4aaa-95ca-ebec13f33140,Meşhur Adıyaman Çiğ Köfte Salih Usta,R
 4cccc895-7285-49b0-8ca9-6ad21fea0590,Komagene,RESTAURANT,38.736523,34.040939,Şht.Mesut Çiftçi Cd No: 72 / A,Ortaköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.904
 3d05cc52-ff30-4da5-9e21-237aaae8a746,Optimum park avm,SHOPPING,38.731888,34.035042,İhsan Özmen Blv. 201/A,Ortaköy,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.894
 5bdc447b-1729-4461-9b63-915e076d6506,Ortaköy Bozkır Gölü,SIGHT,38.755104,34.071594,,Ortaköy,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.891
-7075aa9c-3173-4b21-93b7-193231350fb0,Ozancık Yeraltı Şehri,SIGHT,38.664742,34.205429,,Ortaköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.706
 06a56662-4246-4703-9712-f38fa16ea256,Sbarro,RESTAURANT,38.778721,34.427002,OYMAAĞAÇ; 5062 CADDE NO:44,Ortaköy,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800

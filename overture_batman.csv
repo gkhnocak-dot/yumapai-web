@@ -21,7 +21,7 @@ af1fdfd5-f07f-489c-b468-f5ae0e50b6ef,Mado,CAFE,37.925457,41.150368,,Batman,Apach
 3378bf44-9a84-4593-ac71-b614136b6607,Adana Sofrası,RESTAURANT,37.913567,41.153511,Toki Batman Memursen,Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.888
 798f4e6b-7026-477e-a190-6c7119f494eb,Big Mamma's Batman,RESTAURANT,37.912308,41.152725,Çamlıtepe Mahallesi (Bahçeşehir Koleji Yanı),Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.780
 7f2a54be-b46d-412d-a7f5-2b0e0eab9d2e,Camlıtepe lahmacun Pide ve Izgara Salonu,RESTAURANT,37.909714,41.156403,Camlitepe Mahallesi,Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.805
-35340281-246d-40e0-a75e-c237294196d4,Jiyan Park,SIGHT,37.907883,41.149967,,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.927
+35340281-246d-40e0-a75e-c237294196d4,Jiyan Park,ACTIVITY,37.907883,41.149967,,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.927
 6bd4ea06-855f-474c-9213-94f7ef92170a,On2 Coffee Sayfası,CAFE,37.917927,41.141636,Beşikçi Cd. No:13C,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.852
 f26a66c5-dd4a-45c3-9a11-2809023f1cbb,Kristal Et Lokantası,RESTAURANT,37.916679,41.14397,5321 Sokak No:3,Batman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.986
 dabbd3d7-d82c-44c3-91b1-dd95a25d49f1,STARBUCKS,CAFE,37.921719,41.144989,,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafeteria,food_and_drink>restaurant>cafeteria,0.770
@@ -42,7 +42,7 @@ b5a3abc8-2945-4e77-bdef-37f09d9fbbad,Malabadi,SIGHT,37.92017,41.137512,malabadi 
 40580874-6fa3-4e89-9e05-6d20b5bd63a1,Pizzato pizza,RESTAURANT,37.918465,41.138817,Beşikçi Caddesi 15/a,Batman,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.819
 4c9758a4-3a6d-4386-85e8-c33c4018479d,Lama Cafe,CAFE,37.919331,41.1371,"Gültepe Mah. Yeniçağ cad. Tetracity, altı, 72060 Batman Merkez/Batman",Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.955
 0b5c607a-a878-4f57-bf5f-f98a0f8249b6,MADO Petrol City,CAFE,37.91993,41.136826,"Petrol City AVM, Demokrasi Blv.",Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.943
-dd7400bd-98c4-4c05-b507-d2cdaab24a8b,Gültepe Su Parkı,SIGHT,37.919178,41.132328,Eflatun Caddesi,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.963
+dd7400bd-98c4-4c05-b507-d2cdaab24a8b,Gültepe Su Parkı,ACTIVITY,37.919178,41.132328,Eflatun Caddesi,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.963
 4f5ae0ae-e899-4f0e-8269-cbf20ab39c97,Kadim Cafe,CAFE,37.919258,41.134495,Demokrasi Bulvarı 37E,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.984
 0f728f31-2370-4dcf-966e-86f3366cec2d,Vassoii batman,RESTAURANT,37.914616,41.13451,Demokrasi Blv.,Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.830
 c367ebc8-8c2d-4955-8c94-aa538a3c148d,Sbarro,RESTAURANT,37.914837,41.134338,"Gültepe, Demokrasi Blv. No:60, 72070 Batman Merkez/Batman",Batman,CC0-1.0|CDLA-Permissive-2.0,AllThePlaces|Overture,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.800
@@ -69,7 +69,7 @@ f7f09138-b079-4937-b9f7-1aaebf157c2e,JL Petra Cafe,CAFE,37.910561,41.132977,"339
 6ebaa7e9-ff68-490f-b57b-c592e37d71be,Şefim Döner İskender,RESTAURANT,37.911602,41.139511,"No:, Eflatun Cd. No:1",Batman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.934
 d392ac84-d846-418d-8aac-7c761dd732f3,Quuba Express,RESTAURANT,37.910053,41.13871,"icon plaza, Fırat Cd. altı 14A",Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.963
 fe5f5b8e-62dc-4250-b091-19d1edb7b871,Ziyade Et Lokantası,RESTAURANT,37.908813,41.1371,,Batman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.995
-c7c8ffcd-9b5e-4c26-86a8-ffb6f5d5c97e,Sağlıklı Yaşam Parkı,SIGHT,37.910351,41.133938,Demokrasi Blv. No:343,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.834
+c7c8ffcd-9b5e-4c26-86a8-ffb6f5d5c97e,Sağlıklı Yaşam Parkı,ACTIVITY,37.910351,41.133938,Demokrasi Blv. No:343,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.834
 25c4322b-f3a8-4d3f-b71e-de8ed1aa5cc5,Van Kavalti Sofrasi,RESTAURANT,37.92572,41.132027,"""Bölge Market, 802. Sokak 58""",Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.772
 8e93fa0b-274a-4da9-a176-a818acc1c5dd,Batman Havalimani Cafesi,CAFE,37.946175,41.120331,,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.902
 8e6317d8-e57c-48fd-8c2d-93cafe20cd50,Ramada Plaza By Wyndham Batman,HOTEL,37.945877,41.141472,Demokrasi Bul No:68 Merkez,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,hotel,lodging>hotel,0.770
@@ -115,7 +115,7 @@ d8cf2aea-2064-4e6c-b7a1-445b11e62229,1983 Beyoglu Cikolata Kahve,CAFE,37.890965,
 d51d1e4c-2e5c-4198-8c62-8fe60591bd74,Mezopotamya Otel,HOTEL,37.890423,41.128765,Diyarbakır Caddesi Üzeri,Batman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.951
 0e8028f6-59d1-4196-b101-209964fd11d5,Enfes Cafe,CAFE,37.890343,41.129066,Batman Merkez,Batman,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.881
 0abec32c-ac88-4f96-8d83-a11386a66497,Batman Diyar Et Lokantası,RESTAURANT,37.890202,41.128925,Turgut Özal Bulvarı 169/a,Batman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.921
-d0b60ee2-867a-4094-8781-e6720b4def78,Batman Yılmaz Güney Parkı,SIGHT,37.889538,41.129101,Bahçelievler Mh,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.979
+d0b60ee2-867a-4094-8781-e6720b4def78,Batman Yılmaz Güney Parkı,ACTIVITY,37.889538,41.129101,Bahçelievler Mh,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.979
 d4bc926d-4fe4-4608-a82e-f2a1bdb3f760,Hasankeyf Grand Hotel,HOTEL,37.889496,41.128811,Atatürk Blv. No:155,Batman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 bed8f56d-048d-4bf7-90e6-c865dfd7b230,Kahve Deryası Batman,CAFE,37.889618,41.128658,Grand Hasakeyf Otel Altı,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.932
 2680e53b-625b-4c2d-accf-d80ee0fee15e,Hotel Gapel,HOTEL,37.889252,41.128628,Yaşar Kemal Cd. No:25,Batman,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.975
@@ -127,7 +127,7 @@ cb793c0c-c7de-406b-9983-1c292b62bacd,Cigerci Cavus,RESTAURANT,37.90284,41.10458,
 e54e42fc-e914-4de2-b1f6-ddb35790343d,Berhal Ocakbaşı,RESTAURANT,37.904232,41.116467,2737. Sk. No:11,Batman,CDLA-Permissive-2.0,Overture|meta,american_restaurant,food_and_drink>restaurant>north_american_restaurant>american_restaurant,0.909
 fb81f9f3-10c1-447b-a59b-aa6f1e7086e5,Meşhur Hal Ciğercisi,RESTAURANT,37.90448,41.11615,2737. Sk. No:11,Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.966
 cae4ed6c-2863-4214-9969-56c0dabf262a,Kanatçı Ali Usta,RESTAURANT,37.899616,41.124233,"Mart Kadın Parkı Yanı, 2611. Sk. No: 6 ( 8",Batman,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.860
-a2618cfc-c29f-483a-b2d6-a3031fb4c7a0,8 Mart Kadin Parki,SIGHT,37.899902,41.124603,"8 mart kadinlar parki, karşısı",Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.823
+a2618cfc-c29f-483a-b2d6-a3031fb4c7a0,8 Mart Kadin Parki,ACTIVITY,37.899902,41.124603,"8 mart kadinlar parki, karşısı",Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.823
 aa6a1b8c-bb67-43e0-ad7b-41304c561a7d,Ciğerci koçer usta,RESTAURANT,37.901096,41.129196,2606. Sokak 5,Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.936
 b0aa20be-9d0e-4d12-9fc0-777b7c29d8e3,Börekçi hasan,CAFE,37.900887,41.128067,Adalet Cd. No:30,Batman,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.862
 dd3b71ea-412c-4e16-9e3c-74900a27d303,Dost_cafe,CAFE,37.900589,41.126217,2612. Sokak 39,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.899
@@ -198,7 +198,7 @@ bb4ab7ba-34d8-446c-afc0-6f0ab95a7cd3,Batman gönül kahvesi,CAFE,37.897034,41.13
 473ef29d-fdca-4f0f-ad43-dae967d2b298,Batman park AVM,SHOPPING,37.896473,41.13232,DİYARBAKIR CADDESİ,Batman,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.976
 5b28ab06-6c2d-4ae7-88a9-df73fc0b0b13,Cafe Ste,CAFE,37.895592,41.134102,1623. Sk. No:4,Batman,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.983
 0770c493-245d-4be1-b000-a7b758073d25,Batman Ciğerci Ciğerhan,RESTAURANT,37.89637,41.133251,2510. Sk. no:4,Batman,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.923
-a3959318-42b7-4648-837a-ce7800557ace,Batman Ataturk Parki,SIGHT,37.895802,41.131481,Turgut Özal Blv.,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.893
+a3959318-42b7-4648-837a-ce7800557ace,Batman Ataturk Parki,ACTIVITY,37.895802,41.131481,Turgut Özal Blv.,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.893
 8534436c-d275-48ca-989d-d18118139b43,SBARRO,RESTAURANT,37.895691,41.129929,Turgut Özal Bulvarı,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.770
 b39be6a1-db40-4bdf-a728-42a50f5a3cd8,World Teras Cafe,CAFE,37.895973,41.1297,,Batman,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.874
 c9470c2c-d881-4f9a-bae4-d35073366441,Babylon Cafe&Restaurant,CAFE,37.896145,41.129734,Worldmar Teras Kat,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
@@ -212,7 +212,6 @@ cc1094ac-5865-45a1-8d88-7e5e1b324bed,Bozoogullari Hotel,HOTEL,37.896603,41.13073
 2a821104-eaa7-40fe-946e-1a77285a379d,Bozooğulları Oteli Teras,HOTEL,37.896652,41.131104,Diyarbakır Cad Tugut Özal Bul Otel Bozooğulları,Batman,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.892
 053c9cd0-192f-4f49-a554-818328b950ff,Mehmet Usta Ocakbaşı Et Lokantası,RESTAURANT,37.897079,41.131378,2502. Sk. No:9,Batman,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.892
 b9807147-701b-4616-8bea-040d3231fa39,Asiva Cafe,CAFE,37.896885,41.131786,"2504. Sk. No:7, 72070",Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.936
-4b3a45ab-09bb-4bc1-8531-6525e2cd3541,Academy Cafe,CAFE,37.897034,41.130371,Turgut Özal Blv. No:267,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.865
 fdc9883e-7782-4d16-9106-6c5e8f8829b1,Köşk Kahve Dünyası,CAFE,37.897354,41.130348,Diyarbakır caddesi (Milenyum cafe üstü ),Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.770
 9b7f3172-b701-4314-843e-b52dc959b9e7,Kristal Ocakbaşı,RESTAURANT,37.897659,41.130486,Batman,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.770
 fa168005-3e07-4a4f-833b-e8c58a143ed9,Haşlamacı Memet Usta,RESTAURANT,37.897854,41.129917,Beleştir,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
@@ -256,7 +255,7 @@ bf78988d-8bf0-4014-a31d-8dabc5da125a,The black cafe,CAFE,37.894726,41.132092,Mim
 917b8e5b-4d2c-4f72-a690-3ceaf4029eb9,Çardak Cafe,CAFE,37.895267,41.134247,Divan Cd. No:89,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.824
 a8a79030-24f5-4f20-9250-a5785d1752d9,Jadore Bar,RESTAURANT,37.894501,41.133263,1612. Sk. No:14,Batman,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.946
 1ff35ee1-985a-46fd-97a0-53114022371d,Çorbacı Mehmet Usta,RESTAURANT,37.894024,41.137291,,Batman,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.757
-44bf3413-535a-44f6-b8d4-4eac6fd04fa5,Batman kine em parkı,SIGHT,37.895966,41.145828,Fatih Mah ,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
+44bf3413-535a-44f6-b8d4-4eac6fd04fa5,Batman kine em parkı,ACTIVITY,37.895966,41.145828,Fatih Mah ,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.843
 f4661576-c9b3-4553-adbd-eecc4fd50846,Yaprak Lahmacun Pide Ve Izgara Salonu,RESTAURANT,37.895649,41.141918,3308. Sk. No:1,Batman,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.953
 93910dcd-cc27-4357-8f3a-551a4fad9ec6,Batman Museum,SIGHT,37.899155,41.141365,Batman Kültür Mrk.,Batman,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.982
 c7a4c838-2a4c-4ea5-ab5f-60da0f008347,Mahzen Bistro Ve Kahvaltı,CAFE,37.900227,41.143078,3210. Sokak 22,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.827
@@ -272,8 +271,8 @@ a74a485f-4a4b-4101-a6ff-60f455426601,Asmalı Konak Balık ve Izgara Evi,RESTAURA
 54aad30d-622b-4c66-96b6-5388ebb15583,Çorbacı Fesih Usta,RESTAURANT,37.889381,41.154026,3558. Sk. No:5,Batman,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.921
 ac10fbbf-d37a-4366-88b8-fe9af2a45c0e,Mekan Kiraathanesi,CAFE,37.889996,41.146461,Pir Sultan Blv. No:33,Batman,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.768
 969b4913-5da7-4263-8bea-5c4d3e5b09ce,LeiLan Bar BaTman,RESTAURANT,37.888344,41.143757,3501. Sokak 22,Batman,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.915
-5e9ac1e2-b99d-408d-8943-67400e58b283,Musa Anter Parkı,SIGHT,37.889561,41.148258,3535. Sk. No:5,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
-38746112-6761-426a-8c55-206e1899a072,Salih Özdemir Parkı,SIGHT,37.883404,41.141731,3517. Sk. No:2,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.972
+5e9ac1e2-b99d-408d-8943-67400e58b283,Musa Anter Parkı,ACTIVITY,37.889561,41.148258,3535. Sk. No:5,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
+38746112-6761-426a-8c55-206e1899a072,Salih Özdemir Parkı,ACTIVITY,37.883404,41.141731,3517. Sk. No:2,Batman,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.972
 99db5af8-d7cf-4138-9a70-2d435316adc0,Çorbacı Ömer efendi,RESTAURANT,37.877354,41.169704,,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 502a8b8b-1026-4efb-ac23-bd3ec52bd01e,Bahçevan Ocakbaşı,RESTAURANT,37.878193,41.168301,Siirt Çevre Yolu,Batman,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.770
 e4812515-d855-4dd0-9a63-07e53db54a16,Yalınkavak,SIGHT,37.853031,41.367817,,Beşiri,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.814
@@ -283,13 +282,11 @@ f703540d-a9c2-46fe-be0d-fa764398cb67,Degirmenci Kardesler,RESTAURANT,37.957188,4
 bf3fb11f-8d30-4ec0-809c-13dddd29015e,Hasankeyf Uygulama Oteli,HOTEL,37.730988,41.423012,Hasankeyf Uygulama Oteli,Beşiri,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.944
 aa63928e-d6e3-4ff8-8389-e2a24f17bc51,Hasankeyf müzesi,SIGHT,37.726757,41.428242,MÜZE CADDESİ,Beşiri,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.951
 8f1ec218-fd56-4c6c-91e2-326626a54e97,Gercüş Gölet,SIGHT,37.664982,41.342701,,Gercüş,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.730
-c1ac43da-cd99-416a-b1d0-36bf7308827d,Hisn Kayfa,SIGHT,37.714108,41.413166,,Gercüş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.787
 528a93fc-4ce0-4461-a4a4-cb69b0772110,Hasankeyf Kalesi,SIGHT,37.714249,41.41275,,Gercüş,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.905
 49140df6-7e18-42fe-a4a0-d5970f323113,Hasankeyf Kalesi,SIGHT,37.714394,41.412682,,Gercüş,CDLA-Permissive-2.0,Overture|meta,castle,cultural_and_historic>historic_site>castle,0.905
 7d68d7f5-1df0-46af-84ab-4609945ae5ab,"Old Bridge, Hasankeyf",SIGHT,37.714394,41.411098,,Gercüş,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.826
 9b27a34a-3526-41e6-b04d-8a2892c64094,Hasankeyf Eski Köprü Çardak restaurant,RESTAURANT,37.71656,41.4109,Kale Yolu Eski Köprü Çarşısı HASANKEYF,Gercüş,CDLA-Permissive-2.0,Overture|meta,middle_eastern_restaurant,food_and_drink>restaurant>middle_eastern_restaurant,0.800
 d4490e5d-722b-40a2-9110-34a457f6b832,Yolgeçen Hanı Mağarası,SIGHT,37.714626,41.412071,Hasankeyf Kalesi,Gercüş,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.785
-33c0ccbc-0258-4499-9d4d-de771b121a63,Zeynel Bey Tomb,SIGHT,37.724831,41.422665,,Beşiri,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.968
 6b5e8e72-e514-4f9d-9fc1-638543bb4c23,Midyat Antik Otel,HOTEL,37.50716,41.358479,Batman Yolu Uzeri 7 Km,Gercüş,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.985
 ac8e1cef-b175-4d51-bb98-63d1dc921800,Gercüş Piknik Alanı,SIGHT,37.573597,41.337723,Batman Gercus Kirkat Yol Uzeri,Gercüş,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.818
 a6fb0143-fbdc-4a34-9a05-6ca1926c1cc4,Adres Kahve,CAFE,37.568378,41.385319,Kazım Koyuncu Bulvarı No:14,Gercüş,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.923

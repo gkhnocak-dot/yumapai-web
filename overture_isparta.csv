@@ -9,13 +9,13 @@ b5fea230-c61c-46f5-a70a-5adb2db0bf51,Sevim Bacı Gözleme,RESTAURANT,37.799862,3
 ebcbfe46-d598-4c2f-b891-f2cbb636e25d,Yeşilova'lı Muhtarın Yeri,RESTAURANT,37.796059,30.384785,Isparta Burdur Yolu Gökçebağ Köyü Çıkışı,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.954
 bad12374-3fe2-4ead-bc3c-515765a45ee7,Lavanta Kokulu Cafe Kuyucak,CAFE,37.82095,30.395931, Keçiborlu Kuyucak Köyü,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.794
 e11f5f11-04b2-4c48-8777-709276173a82,Lavanta Pansiyon,HOTEL,37.871769,30.31204,"V8C6+MR Kılıç, Keçiborlu/Isparta Lavanta Pansiyon",Keçiborlu,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.877
-c4b61d35-7b18-42c0-b1b0-be25a5ff97af,Yakaören Yaylası,SIGHT,37.7798,30.483042,Yakaören Köyü,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.929
+c4b61d35-7b18-42c0-b1b0-be25a5ff97af,Yakaören Yaylası,ACTIVITY,37.7798,30.483042,Yakaören Köyü,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.929
 f2297068-1740-436c-b3e6-74ca0fe8ebf1,Kovuk kahvalti noktası,RESTAURANT,37.776897,30.502104,yakaören köyü  gölcük yolu arasi kiraz ağaclari arasinda,Isparta,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.916
 814b8d2d-e765-4a41-ab43-4ad8bda96fa7,Gizlibahçem Çöp Şiş Et Mangal,RESTAURANT,37.776657,30.502851,Süleyman Sinop Cd.,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.845
 79f8694f-146d-469d-9e6d-3d883da3bae4,Çöp şiş gizlibahçe aile restaurant alkolsüz,RESTAURANT,37.775509,30.508718,yakaören köyü süleyman sinop caddesi,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.902
 734bacb9-dd57-4ca1-81e6-a85ae524ac2e,Doga Kapında Cafe&Kahvaltı,CAFE,37.775482,30.511444,Gölcük Yol,Isparta,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.874
 c38836e2-e319-4f73-a911-93c617bc3fed,Duru Cafe& Event,CAFE,37.775677,30.524282,Şekeroğlu Cd. No:30,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.842
-1e14edb8-cef5-4830-a93a-2c5cbe1f6a5c,Deregümü Parkı,SIGHT,37.784943,30.511328,Deregümü Köyü,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.886
+1e14edb8-cef5-4830-a93a-2c5cbe1f6a5c,Deregümü Parkı,ACTIVITY,37.784943,30.511328,Deregümü Köyü,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.886
 7c4b6c14-ec1d-4609-9fd0-a959a10c6965,Pala'nın Yeri,RESTAURANT,37.798233,30.538813,Süleyman Demirel Cd. No:167,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.960
 1a6608a0-31d2-4460-835a-492084ccd784,Burger King - İyaş Bulvar Avm,RESTAURANT,37.797932,30.539135,Süleyman Demirel Cd. No:167 D:171,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.851
 fd580484-486e-4870-8a5d-71dc54693dae,Gloria Jean's Coffees Iyas Park Bulvar,CAFE,37.798183,30.538944,MERKEZ ÇÜNÜR Mahallesi 102 Caddesi NO:167 BLK:11 32000,Isparta,CDLA-Permissive-2.0,Microsoft|Overture,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.850
@@ -134,7 +134,7 @@ b684ddd3-1f0c-4107-94ed-9a0457a44547,Tosthane Isparta,RESTAURANT,37.776173,30.54
 5392278c-1296-4f5b-a166-5706a5d1c0ad,Zubeyde Hanım Apartı,HOTEL,37.777908,30.545166,3016. Sokak 11,Isparta,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.881
 6320baec-949e-4101-8b7e-06aaae1cfc20,Pideci Yusuf Ispata,RESTAURANT,37.77663,30.541889,110. Cadde 162,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.943
 e49801bf-a6be-45fd-918b-ef629784f156,Lezzet Durağim,RESTAURANT,37.776596,30.541847,Hilmi Çakmakçı Cd. No:160,Isparta,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.869
-1681bad8-106d-4865-9ffd-6a55caca5a04,Yedişehitler Cuma Pazarı Parkı,SIGHT,37.776943,30.540884,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.938
+1681bad8-106d-4865-9ffd-6a55caca5a04,Yedişehitler Cuma Pazarı Parkı,ACTIVITY,37.776943,30.540884,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.938
 cfe7e8d5-d47f-4500-8cca-67f603c0cdb5,Özgür Döner Salonu,RESTAURANT,37.776966,30.540119,108. Cd. No:81/A,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.847
 e8555321-7026-4054-b005-f5a7637af9cc,Palaoğlu Kıraathanesi,CAFE,37.777775,30.540375,Bahçelievler Küme Evler 108,Isparta,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.925
 49a59fe4-a381-494b-8432-2b6b71242084,Cuma Sofrası,RESTAURANT,37.777878,30.539686,"Yedişehitler Mahallesi, Hilmi Çakmakçı caddesi, 219/A, ISPARTA/MERKEZ",Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.938
@@ -177,7 +177,6 @@ ed1b8c52-2aa1-42e8-96bc-4366f1ef38c5,Gölcük Tabiat Parkı Isparta,SIGHT,37.780
 8c2d68c5-49ac-471a-a56a-bf347de1c9b3,Mells bakery,CAFE,37.780552,30.549583,3159. Sk. no:19/14,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.964
 b4450a84-d2c6-432e-9e16-92ef41c7d1ca,Çıtır Lahmacun Gaziantepli Zeki Usta,RESTAURANT,37.780285,30.551239,Şht. Astsubay Yaşar Topçu Cd. No:135,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.914
 01d2f9eb-123e-44c3-a3b0-94eccd87032d,Isparta Burc Cafe,CAFE,37.779766,30.551313,,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.851
-b82536fc-d16c-416e-900e-1e00a209f253,Adrenalin 32 Lazer Arena & Cafe,CAFE,37.779163,30.550976,"Modernevler Mahallesi, 159. Cadde No : 20",Isparta,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 44a32b2f-0733-497d-989e-dd2809edc594,Kardeşler Kıraathanesi,CAFE,37.779392,30.551107,159. Cd. No:31,Isparta,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.985
 71f193e1-6fc7-4211-abcf-68f4dad0cc62,Bayar Apart,HOTEL,37.779659,30.549122,3161. Sk. No:14 D:12,Isparta,CDLA-Permissive-2.0,Overture|meta,lodging,lodging,0.807
 8a6941e4-da1c-4fca-ac8f-3b9b825d1f9b,ÜLfet Coffee - Isparta,CAFE,37.778675,30.551674,Şht. Astsubay Yaşar Topçu Cd. no:115,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.935
@@ -229,7 +228,7 @@ cbcaf5e6-f2a1-44e9-8966-652fa532bf78,Ne Ala Restaurant,RESTAURANT,37.797733,30.5
 8590e215-83fe-497d-a9b7-cc977a145eef,Zeki Usta Kokoreç and Köfte,RESTAURANT,37.825104,30.542776,5487. Sk. 22/A D:4,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.827
 e4b9bd92-66b3-415b-8aeb-a706b06d65fa,Kaya Apart,HOTEL,37.825649,30.544022,"275. Cd No:44, 32200",Isparta,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.731
 43f7072e-bdc3-47ea-bd1f-4043e66fc1ee,Yeṣil Kahv6,CAFE,37.825695,30.544231,,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.914
-136661bb-860c-4fec-93fe-1c7bae80f733,Çünür Tepesi,SIGHT,37.821407,30.53631,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.968
+136661bb-860c-4fec-93fe-1c7bae80f733,Çünür Tepesi,ACTIVITY,37.821407,30.53631,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.968
 7b04adf3-df84-4c94-928c-c489a3f0e167,Susam Sokağı Patisserie,CAFE,37.819073,30.53809,5444. Sk. No:1,Isparta,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.971
 f87bbb78-1e4a-425b-9532-f7271b4bd05f,Pizza Romoloo,RESTAURANT,37.817356,30.538599,"Çünür mahallesi. 2. Etap Toki Evleri Bitişi. Adile Hanım Apartı Altı. No 31, D:1",Isparta,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.906
 b836d205-230e-4a87-97df-1a2619a56030,Enişte Pide Kebap Restoran,RESTAURANT,37.819057,30.534296,253. Cd. no: 12/c,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.959
@@ -250,7 +249,6 @@ ef71168b-a929-4a92-b144-bc399d0295c7,Taş Cafe Restaurant,RESTAURANT,37.829445,3
 64c11378-5528-478b-b537-b0226c0afbee,Aliya Mutfak,RESTAURANT,37.830215,30.534784,"Çünür Mahallesi, Süleyman Demirel Üniversitesi Doğu Yerleşkesi 102. Cadde, No:248/5A Dükkan No: 17-18",Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.951
 2735e311-5960-4574-8a3c-6df19b49ce1e,Gloria Jean's Coffees,CAFE,37.829941,30.535292,,Isparta,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.864
 d1479413-e6ad-4f86-a22c-ed3af15f774f,Coffe Ground,CAFE,37.829384,30.534664,"Academia AVM, Süleyman Demirel Cd. SDÜ Doğu Kampüsü No:248/5 A/1",Isparta,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.878
-3c30209a-7c4b-4a26-a8f6-d1e6bb08d097,Zindan Magarası Isparta Aksu,SIGHT,37.762833,30.581625,,Isparta,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.741
 d73b1bca-44cf-408e-8184-ddd8bcc06950,Bilgiç Pide,RESTAURANT,37.75106,30.584549,Mustafa Kazak Cd.,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.820
 a583962e-f2d2-4c70-8386-944a70e55e09,Ayazmana Pide Kebap Çorba Salonu,RESTAURANT,37.751312,30.5797,Ayazmana Cd. No:105/A,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.909
 aaa838aa-24ee-4bf5-a097-2e685315d2e8,Halikent Pide Ve Izgara Salonu,RESTAURANT,37.751953,30.577988,Şevket Savlu Cd. No:63,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.919
@@ -269,8 +267,8 @@ be4d298a-9014-4b03-9737-20a4447e0209,Palmiye Oz Dilara Pide ve Kebap Salonu,REST
 22d69e49-5cdc-4e6d-be62-3503a122bd96,DÜNYA,SIGHT,37.751278,30.574192,,Isparta,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.867
 7c0530d8-988b-4092-a767-2fba039ca371,Panorama Cafe,CAFE,37.752258,30.56712,sidre tepesi panorama cafe,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.947
 b963491d-b5ac-452c-9d6f-b39edf80a9b4,Side Beach Park,SIGHT,37.751755,30.565342,,Isparta,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.715
-ae061286-04bd-44cc-9084-a0897e7488d1,Gülcü Parkı,SIGHT,37.75267,30.563911,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
-1d7c0df0-0b23-4549-a045-8ffc89a15246,Gülcü Parkı,SIGHT,37.752605,30.564035,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
+ae061286-04bd-44cc-9084-a0897e7488d1,Gülcü Parkı,ACTIVITY,37.75267,30.563911,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
+1d7c0df0-0b23-4549-a045-8ffc89a15246,Gülcü Parkı,ACTIVITY,37.752605,30.564035,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
 822b4fe8-0c25-4bea-82e8-79facb4abb73,Aşıklar Tepesi,SIGHT,37.751789,30.556112,,Isparta,CDLA-Permissive-2.0,Overture|meta,botanical_garden,geographic_entities>built_feature>garden>botanical_garden,0.715
 85be799d-533b-478b-a7c4-ba8b8aea4ab3,Çayboyu-Köprüler,SIGHT,37.757019,30.554153,,Isparta,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.777
 ec4cc811-84d9-429d-955f-583ccbbd9053,Saklı Göl Gönen Kahvaltı Restaurant ,RESTAURANT,37.757694,30.554869,Saklı Göl Gönen/Isparta ,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.862
@@ -279,8 +277,8 @@ d45c5496-e0b0-4c2b-b684-e1457fa25b6d,Vanilya Cafe,CAFE,37.757538,30.553709,Şht.
 5929d272-0bd7-4b9e-9d69-87a0f797aced,Aşiyan Gemi Restaurant,RESTAURANT,37.758209,30.556883,Çayboyu Aşiyan Gemi,Isparta,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.969
 e2b0a141-d727-4acb-bed3-5485f54a108e,Dofitdo Kafe ve Dondurma,CAFE,37.758602,30.55798,Şht. Fethi Bey Cd. Göktürk Sitesi D:58/A,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.975
 0a80c511-cf2a-411c-b22c-9d542c138730,Beyzade Pastaneleri,CAFE,37.760338,30.563614,Çınar Cd. No:1,Isparta,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.951
-cda8350d-f0be-4d2b-aef9-36993e6263ac,Gaziler parkı Isparta,SIGHT,37.760216,30.563442,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.893
-be2a3749-bfeb-42dd-a7bf-e389e36a9831,Şehitler parkı,SIGHT,37.760887,30.564095,Adnan Menderes Blv. No:99,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
+cda8350d-f0be-4d2b-aef9-36993e6263ac,Gaziler parkı Isparta,ACTIVITY,37.760216,30.563442,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.893
+be2a3749-bfeb-42dd-a7bf-e389e36a9831,Şehitler parkı,ACTIVITY,37.760887,30.564095,Adnan Menderes Blv. No:99,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.835
 f5822f78-095a-49d3-acb6-5d233d1e7128,Gonca Ev Yemekleri ve Pasta Cesitleri,RESTAURANT,37.761051,30.559639,"gonca ev yemekleri, Hasan Fehmi Cd. No:50",Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.919
 f0a2ad38-ee3c-4ba8-91bc-b67426d84fda,Wuhu Coffee & Workshop,CAFE,37.76181,30.556396,1306. Sk. No:17,Isparta,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.902
 f3c3133c-62df-431e-963d-e54b3e03dffe,İtır Cafe Pastane,CAFE,37.760704,30.556023,Şht. Fethi Bey Cd. No.22,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.849
@@ -444,7 +442,7 @@ e3637a5a-156f-4f34-a9a3-a248fe2a4ecb,Hotel Artan,HOTEL,37.765446,30.555664,"Kutl
 76a09182-5da9-46d0-867f-e7b6644d2efe,Öykü Dürüm,RESTAURANT,37.76532,30.555405,Cengiz Topel Cd. 27/A,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.930
 bd2ff105-6f2a-4120-98ba-ffbf2bbf9f46,İbo Döner,RESTAURANT,37.765285,30.555887,Yusuf Özbek Sk. No:1,Isparta,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.903
 0d69f5ab-f9a7-4e8e-88e2-e1adda4c0d71,Gramofon Cafe,CAFE,37.7654,30.558243,Ülkü Sk. No:1,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.998
-5667dfc0-831b-4350-ba00-49f4d5dc23cb,Isparta Arya Kültür Sanat,SIGHT,37.766163,30.558578,İstasyon Caddesi 89,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.964
+5667dfc0-831b-4350-ba00-49f4d5dc23cb,Isparta Arya Kültür Sanat,SHOPPING,37.766163,30.558578,İstasyon Caddesi 89,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.964
 9802169d-d55e-4de0-982b-4df8db6b15e9,Esperer Cafe,CAFE,37.767361,30.55892,İstiklal Mah. İstasyon Cad. Vali Konağı Altı No:47/A Merkez,Isparta,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 8a4531f0-f134-49a3-adb1-c94d1284514e,Lum Cafe and Bakery,CAFE,37.768047,30.558363,1108. Sk. No:13,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.913
 5a00bd1a-4d01-41a9-b339-6faea87e9274,Lokmania,CAFE,37.768322,30.559345,istiklal mah.116.cad.no:25/1,Isparta,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.864
@@ -468,7 +466,7 @@ b76e33d0-c91a-43b1-99a3-ca797ea776c0,Şehit Kara Pilot Adem Köse Parkı,SIGHT,3
 8243ca37-fe70-480e-a22b-c9b8838b8dd1,Kaya Balık Market,RESTAURANT,37.76548,30.573742,Yeni Çarşamba Pazarı No:9,Isparta,CDLA-Permissive-2.0,Overture|meta,fish_and_chips_restaurant,food_and_drink>restaurant>seafood_restaurant>fish_and_chips_restaurant,0.981
 a455c8da-0931-4f21-8229-3d4216b7f129,Yılmazlar AVM,SHOPPING,37.768204,30.567047,,Isparta,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.973
 5d426d65-8722-4fd3-b06c-1e5c1a9bfe4c,Tutku Pide,RESTAURANT,37.768005,30.565147,1810. Sk.,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.886
-d4f7b903-0480-490f-946b-01be6de5fdda,Karaağaç Meydanlık,SIGHT,37.76767,30.564894,Emre Market Karşısı,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.931
+d4f7b903-0480-490f-946b-01be6de5fdda,Karaağaç Meydanlık,ACTIVITY,37.76767,30.564894,Emre Market Karşısı,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.931
 ba148d4a-039f-4778-8f6b-8b2f3e91be3a,The Soul Artisan Cafe,CAFE,37.769634,30.566307,İstiklal Mah. 116. Cad. No:23/1 Merkez/Isparta,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.906
 00fa058b-e43f-46d8-babd-64913945b342,İstasyon Kokoreç,RESTAURANT,37.769657,30.56653,115. Cd. No:100,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.899
 88bde0c8-167c-427a-b498-cf24fd4752fd,ısparta milas,SIGHT,37.768574,30.5702,Isparta,Isparta,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.722
@@ -482,8 +480,8 @@ d6726b38-9a1f-4716-88e4-6ba952bc5566,Gold Apart Otel,HOTEL,37.773628,30.566187,3
 faddd5d3-cbd2-480d-80c2-7e7592b33cc9,Sdü Konukevi,HOTEL,37.771862,30.559725,İstiklal Mah,Isparta,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.917
 ec54fc1f-150b-44b6-9a4b-059a8352ee28,Anil Firin Cafe,CAFE,37.77195,30.56176,Doğan Kımıllı Cd. No:58,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.935
 b972c339-91df-4994-9758-65dc97aa2ca2,İstasyon Aile Çay Bahçesi,CAFE,37.771767,30.562246,,Isparta,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.903
-2206e6bf-1f86-4dca-b3ad-cc34d9c47ea7,Isparta Arya Kültür Sanat,SIGHT,37.770679,30.56172,İstasyon Caddesi 89,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.964
-c1633447-8827-4d77-bf2f-4cc47a465e05,Isparta Güzel Sanatlar Merkezi,SIGHT,37.770638,30.561668,İstasyon Cd. No:89/1,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.915
+2206e6bf-1f86-4dca-b3ad-cc34d9c47ea7,Isparta Arya Kültür Sanat,SHOPPING,37.770679,30.56172,İstasyon Caddesi 89,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.964
+c1633447-8827-4d77-bf2f-4cc47a465e05,Isparta Güzel Sanatlar Merkezi,SHOPPING,37.770638,30.561668,İstasyon Cd. No:89/1,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.915
 feab2c55-c61a-4fee-851b-b93cf4995560,Zümre Alabalık Tesisleri,RESTAURANT,37.769791,30.562849,,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.843
 49aed00a-b2c6-4c2c-8c1c-873e0708d08a,Hasbahçe  Cafe & Restaurant,CAFE,37.769169,30.560772,İstasyon caddesi Atatürk Stadyumu yanı,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.903
 36983aa4-13a2-43d5-b6ae-933ca3301656,Gonul Cafe Bistro Line,CAFE,37.769653,30.557196,İstiklal Mah.,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.867
@@ -493,7 +491,7 @@ feab2c55-c61a-4fee-851b-b93cf4995560,Zümre Alabalık Tesisleri,RESTAURANT,37.76
 865ce04f-5c95-4c7d-aec0-6965e0736899,KADİR  USTA pide lahmacun salonu,RESTAURANT,37.76973,30.552357,"Mahallesi Muhtarlığı, Demir Sokak 2",Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.925
 1fa6ec55-e482-4331-86e2-96f53eb43959,hatay döner,RESTAURANT,37.771225,30.552288,,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.796
 1380d5e8-44bc-4bae-8d2f-458d3b331a8f,Centrum Garden RAMİZ KÖFTE,RESTAURANT,37.771278,30.552284,104. Cadde 35,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.754
-f94de218-dac6-404a-97dd-6db869d4b719,Basın Parkı,SIGHT,37.772152,30.552813,131 Cad,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
+f94de218-dac6-404a-97dd-6db869d4b719,Basın Parkı,ACTIVITY,37.772152,30.552813,131 Cad,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
 9df9a8e2-6f20-4ef4-9980-091d92cd6086,Acıbadem Fırın Kebap,RESTAURANT,37.773972,30.55587,"SANAYİ MAH.ESKİ GÜLKENT HASTANESİ KARŞISI, 153. Cd. NO:2/1",Isparta,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.952
 f1dc6c66-a695-4d36-a075-a6a8f2a8374a,Sivas Köftecisi Ramazan Usta,RESTAURANT,37.774052,30.556047,153. Cadde 2/1,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.876
 a17d599e-650d-460c-b99c-989ee2dfe627,Yaşar Ustanın Yeri,RESTAURANT,37.77425,30.556135,SANAYİ MAH. YENİ SANAYİ SİTESİ GÜLKENT DEVLET HASTANESİ ESKİ SSK KARŞISI YENİŞEHİR HASTANE 200M,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.911
@@ -559,11 +557,11 @@ ce7a176d-22a8-48d3-b4b4-86b8133ddba9,Davraz Pide Ve Şiş,RESTAURANT,37.763039,3
 e5382c90-5102-44d9-9d5f-3c824a3ca32a,İslamköy Kahvehanesi,CAFE,37.763058,30.55098,islamköy,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.883
 1360b1e5-5bed-4c02-a81c-369b9baac1c0,Murat Büfe,RESTAURANT,37.765171,30.548317,Hacı İbrahim Parlar Cd.,Isparta,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.856
 f7787199-5884-459a-8636-f432f4a46b89,Tat Döner,RESTAURANT,37.76519,30.548037,Hilmi Çakmakçı Cd. No:59,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.806
-94deab84-1911-4370-aa05-62c8df1f37a1,Isparta İfrit Korku Evi,SIGHT,37.764488,30.546774,Saltak Caddesi 112A,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
+94deab84-1911-4370-aa05-62c8df1f37a1,Isparta İfrit Korku Evi,ACTIVITY,37.764488,30.546774,Saltak Caddesi 112A,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
 5d13f004-3f36-4f15-b4bf-51be319c7852,Davşan Kids & Happy Coffee,CAFE,37.762573,30.543545,Hizirbey Mah.1555.sk.,Isparta,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,cafe,food_and_drink>casual_eatery>cafe,0.770
 92137951-ce09-48c3-96f9-fe8e4e84cf94,Mevlana Pide 1,RESTAURANT,37.762707,30.542915,111. Cd. No:141,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.862
 d672ea55-d395-4e9a-877d-14672e724334,Has anteplioğlu baklavaları,CAFE,37.763332,30.541435,111. Cadde 119A,Isparta,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.923
-2186f688-387b-4f72-ae3c-b4d54757a39f,Hızırbey Parkı,SIGHT,37.762058,30.541098,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.817
+2186f688-387b-4f72-ae3c-b4d54757a39f,Hızırbey Parkı,ACTIVITY,37.762058,30.541098,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.817
 dd2f4a81-ce72-4d6b-ada6-d9b968cf5453,Ümit Pide Kebab Izgara Salonu,RESTAURANT,37.765602,30.542042,Kemal Demiralay Cd. No:38,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.835
 8038c680-0fce-4d02-9c7c-f4d9c3e73e1d,Demirdal Apart & Otomotiv,HOTEL,37.767887,30.545738,Şht. Er Şeref Aslan Sk. No:24,Isparta,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.783
 f08106cf-aa57-40d3-a7a3-f51d58e36dc4,Erçelik Aile Çay Bahçesi,CAFE,37.767509,30.539288,2813. Sk.,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.948
@@ -572,7 +570,6 @@ dd5b84c8-610f-4ad2-98dd-bd2cd2638ec2,Sahra Pide,RESTAURANT,37.767239,30.538807,2
 62db9026-9626-4dcb-8538-8dc9cce951b3,Akın Pide Ve Kebap Salonu,RESTAURANT,37.764702,30.537958,111. Cd. No:189,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.919
 b5711e53-d1da-40c9-8fed-3567ade844c8,Özköşem AVM,SHOPPING,37.76368,30.536556,155. Cadde 16,Isparta,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.763
 0d094d4b-f9e7-4588-980f-e48f916f28b1,Emin Kebap Pide ve Izgara,RESTAURANT,37.768574,30.534449,2955. Sk. No:2,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.958
-36c107f9-1590-46b4-82b6-51ee5b2f6e99,Nataliya Gorelova Bale Ve Sanat Merkezi,SIGHT,37.769695,30.538626,,Isparta,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.786
 e0f8f57d-76f1-460c-b845-dc7456ef94fa,As Fırın & Cafe,CAFE,37.773273,30.538811,Yedişehitler Mahallesi 107. Cadde No 100/1,Isparta,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.819
 1b167409-01bb-4aa8-be92-9a20a9e6f787,Osmanlı Tost,RESTAURANT,37.773418,30.538031,Deregümü Cd. No:37,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.895
 c6e2c502-c9dd-4f16-949e-866e9cbb5f80,Gölcük Tepesi,SIGHT,37.773659,30.538456,Gölcük Tabiat Parki,Isparta,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.752
@@ -580,13 +577,12 @@ b83dd171-4d84-425e-9867-27c8604b5286,GÖZde ÇOrba PİDe Ve Izgara Salonu,RESTAU
 a920497e-4754-4fde-8128-f4b256c498c6,Bilge kebap,RESTAURANT,37.77037,30.524433,Muzaffer Sinop Cd.,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.935
 365396a3-4137-4400-8232-5dfba1360bab,Gökkubbe Ulusal Fuar Ve Kongre Merkezi,SHOPPING,37.768494,30.519512,Batıkent Mah.,Isparta,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.862
 62616b90-1d2b-4ff3-b0b5-c534f3f86d51,Yeşilvadi Park Cafe,CAFE,37.772957,30.516369,Gölcük Caddesi 3,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.917
-ae00a670-45b4-4bea-967c-f6c6d6c28fa1,Batıkent Parkı,SIGHT,37.773071,30.516304,263. Cd. No:2,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
+ae00a670-45b4-4bea-967c-f6c6d6c28fa1,Batıkent Parkı,ACTIVITY,37.773071,30.516304,263. Cd. No:2,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.881
 eb41355a-b137-4cdb-8125-cfd317846084,Kirazlı Dere,SIGHT,37.768097,30.511196,Merkez,Isparta,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.772
 aca5c676-f969-4b39-8a57-adfca29c3d35,Işıkkent Çay Bahçesi,CAFE,37.765377,30.525343,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.914
 ba5da06d-aaa9-4bfd-ab1c-ff75c057cc02,Seçil Pide&Şiş,RESTAURANT,37.765648,30.525721,"Işıkkent Mahallesi, 244. Cd.",Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.963
-eec16cd0-e931-4e22-9229-2695b22beaae,Kırkent Parkı,SIGHT,37.764622,30.52667,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
-cf172541-7921-435e-a425-df7654801c78,ŞElalelİ Park,SIGHT,37.758854,30.525705,5630. Sk.,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
-46b9fd4e-520a-45bb-bd5d-05c6c0adc099,Kayabaşı,SIGHT,37.751415,30.536163,Yenice Mah,Isparta,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.742
+eec16cd0-e931-4e22-9229-2695b22beaae,Kırkent Parkı,ACTIVITY,37.764622,30.52667,,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.831
+cf172541-7921-435e-a425-df7654801c78,ŞElalelİ Park,ACTIVITY,37.758854,30.525705,5630. Sk.,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.812
 3cd126e6-83c5-4a7c-af9f-75a2bb452302,Zambaklı Şelalesi,SIGHT,37.753887,30.539297,Dere Mah,Isparta,CDLA-Permissive-2.0,Overture|meta,waterfall,geographic_entities>water_feature>waterfall,0.787
 c9ade9d7-5bb6-4896-96c5-3b843e726408,Nur Pide,RESTAURANT,37.756077,30.533674,2674. Sk.,Isparta,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.804
 b4a6e332-4d77-4dae-9aac-1b69cd1c701f,Battalbey ÇiğKöfte Merkez BattalBey,RESTAURANT,37.759525,30.547247,hastane caddesi hizir baba turbesi karsisi,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.817
@@ -606,7 +602,7 @@ c7b4e790-d62d-411a-b1c5-9eef2d73b2a5,Sanat kahvesi,CAFE,37.747688,30.545441,Mehm
 7942726d-3030-4fa8-8002-57586c9f5358,Kervansaray,RESTAURANT,37.746235,30.545095,Hastane Cd. No:13,Isparta,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.988
 1edfecf2-8e30-4124-9a8a-592193321e22,Panorama Restaurant,RESTAURANT,37.748577,30.556286,,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.838
 4c6b48c1-ef40-4bf1-adf4-8e8898495827,Alpedo Dondurma Ayazmana,CAFE,37.74889,30.582842,Ayazmana Mesirelik Alani,Isparta,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.880
-35f6bf8e-4937-48c3-8e5b-75cda50be371,Ayazmana Mesireliği,SIGHT,37.748024,30.581974,Ayazmana Mah,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.869
+35f6bf8e-4937-48c3-8e5b-75cda50be371,Ayazmana Mesireliği,ACTIVITY,37.748024,30.581974,Ayazmana Mah,Isparta,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.869
 5466b30e-aab8-4409-b5cb-4cabfe3655cb,ıhlamuraltı Restaurant,RESTAURANT,37.747162,30.58054,5229. Sk.,Isparta,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.990
 c9fffde2-d7ba-4798-8953-024c4945a270,İrfan Usta Dondurma Kmaraş,CAFE,37.747288,30.583319,,Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.811
 9813a5bd-d47f-44c3-83ed-2528a1cfae4f,Isparta Ayazmana Tip Lokali Restauranti,RESTAURANT,37.747356,30.583248,Ayazmana Mesireligi,Isparta,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.974
@@ -619,10 +615,8 @@ c3c5f6e1-2800-474f-b953-a7100c860c68,Isparta Sütçüler Tota Yaylası,SIGHT,37.
 13a816e7-f425-4faf-b912-ba1f0ae10bb3,Yeşilvadi Alabalik Üretim Ve Restoran,RESTAURANT,37.543381,30.781244,ISPARTA ANTALYA YOLU ÜZERİ EĞİRDİR KAVŞAĞI  700 METRE İÇERİDE CUMALİ KÖYÜ ,Sütçüler,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.971
 5156941f-d0fe-4606-a6e9-f2fb0b18be65,Sagalassos Restaurant Cafe,CAFE,37.542114,30.768072,"DÖRTYOL MEVKİİ- ANTALYA ,ISPARTA YOLU ÜZERİ- DOLMUŞ DURAĞI KARŞISI -AĞLASUN",Sütçüler,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.831
 df172220-5bcf-4a83-a6ec-ee839c7af67d,Mohican Cafe & Bistro,RESTAURANT,37.542561,30.768278,Isparta Antalya Yol Üzeri,Sütçüler,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.915
-40472833-13eb-4c37-8838-505c99be6a71,Şelale,SIGHT,37.627453,30.732162,Isparta-Antalya Yol,Isparta,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.707
 020812aa-0c9d-4bec-beae-b990edec2fb5,Aydemir Alabalık Tesisleri,RESTAURANT,37.621632,30.748232,"Aydemir Alabalık Tesisleri, Isparta - Antalya Yolu 30. Km",Isparta,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.951
 ffa0c926-352e-403d-815f-cd1d05179211,Kovada Gölü,SIGHT,37.642006,30.878599,4524. Sokak,Sütçüler,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.830
-115f6425-2649-4e4a-bac1-e9b2e578af74,Beşkuyu Yaylası,SIGHT,37.698174,30.856995,,Isparta,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.768
 c833c44b-8e1e-40cf-92d4-34450c2956eb,Kovada Gölü Milli Parkı,SIGHT,37.698128,30.872423,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.713
 2b2c2f01-7b38-4cd7-a6d8-a1fdd661bb9e,West Davraz Hotel,HOTEL,37.775322,30.71365,"Kulovası Mevkii, Çobanisa Köyü Davraz Kayak Merkezi Isparta",Isparta,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.953
 fd7a19bc-ce43-49bf-bea2-2a29b27604d5,Tash 2 Cafe,CAFE,37.773495,30.750364,Davraz Kayak Merkezi,Isparta,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.878
@@ -650,7 +644,6 @@ b21d6b5a-d217-4ac3-9b9f-25e814d192e8,Kroisos Otel,HOTEL,37.874512,30.822727,Eği
 31a6d372-1ff7-457f-9ce6-3625c4669d32,Eğirdirbereketbüfe,CAFE,37.874027,30.834877,3.cadde,Eğirdir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.891
 cb5fac27-654d-46a8-a0bb-8cfbd2e50654,Eğirdir Gölü,SIGHT,37.872952,30.838144,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.797
 8404033e-d561-4614-81fb-20342ae44512,Karabağlar Eğirdir,SIGHT,37.869396,30.849199,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.908
-5388545d-80d7-4adc-b8b7-db1a36bd98ea,Poyraz Seyir Terası,SIGHT,37.874424,30.847948,Poyraz Mah,Eğirdir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.820
 2825028e-9943-433f-af9a-8a0282124bce,egirdir Yan Bakan,SIGHT,37.874279,30.842192,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.748
 6c39a7ad-f1e9-4f4d-9e47-9facc740ff83,Babasultan Masal Cafe,CAFE,37.874222,30.842054,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.968
 459e9087-8bfd-4f0b-9944-00935b700e03,Çakıl Büfe,RESTAURANT,37.875645,30.848787,Eğirdir Sahil Yol,Eğirdir,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.808
@@ -670,7 +663,7 @@ e654df48-adde-46a2-a840-0d98a291d174,Kebap 49,RESTAURANT,37.874866,30.850029,,E�
 e5245cdc-0f3d-4da2-bc3c-7c6ada82dd0a,Hızır Bey Çorba ve Döner ve Izgara Salonu,RESTAURANT,37.874992,30.850916,Camii mah. İş bankası yanı,Eğirdir,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.836
 8bebda7f-e5cf-4e19-9e39-d31a212f6a29,Uludağ Döner,RESTAURANT,37.874916,30.850967,"Cami Mahallesi, No:24",Eğirdir,CDLA-Permissive-2.0,Overture|meta,soup_restaurant,food_and_drink>restaurant>soup_restaurant,0.967
 f11d1898-dcad-4e6f-9b6e-c51cb3c97aca,Kroisos Lake Resort Hotel Restaurant,HOTEL,37.874897,30.85146,Gazi 1. Sokak,Eğirdir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.932
-cab76162-5437-444a-95a6-2d76a0ce39dc,Liman Park,SIGHT,37.87484,30.85148,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.801
+cab76162-5437-444a-95a6-2d76a0ce39dc,Liman Park,ACTIVITY,37.87484,30.85148,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.801
 0776fed9-a270-4bc3-b8ae-46cc8e6dc1a3,Otel Apostel,HOTEL,37.874718,30.851969,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.868
 feb661bd-327b-42b7-b72c-d084b0a58e76,Golden Apple Hotel,HOTEL,37.875118,30.851547,"Cami Mahallesi Kale Sokak No:9, Isparta",Eğirdir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.998
 a1f2733b-0279-460d-b472-6d306619b9ab,Lale Pension,HOTEL,37.875305,30.851831,Kale Sokak 2,Eğirdir,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.956
@@ -714,7 +707,6 @@ d7dfb461-0450-4efe-b136-f75addff8195,Başpınar Tabiat Parkı,SIGHT,37.800049,31
 8c8b0ba3-0cb2-49d1-aa7e-fcef273bd749,Ayvalıpınar Kasabası,SIGHT,37.675392,31.027433,,Aksu,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.874
 58c880b8-283b-4737-9925-71bd2aa80943,Ayvalıpınar Göleti,SIGHT,37.663933,31.068712,,Aksu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.703
 626f7055-0ec7-4135-8cda-f5c0b56296ed,"Dedegul Dagi Kamp Alani, Isparta",HOTEL,37.702259,31.293344,,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.863
-56403774-d7b6-44d2-84c0-1c77fae211c2,Kubadabad Kazı ve Araştırma Merkezi,SIGHT,37.741177,31.437746,,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.781
 5b032f23-f2e8-496b-abb7-abb32aecbb6c,Kubadabad Sarayı,SIGHT,37.743725,31.439474,,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.943
 6b828178-20ee-47c4-92b5-3f6bd3c4ceeb,Alaaddin Keykubat Gölyaka,SIGHT,37.70731,31.428137,,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,monument,cultural_and_historic>memorial_site>monument,0.707
 778d38bc-af2d-4b76-ad32-5d4516f79e28,Kubadabad Sarayı,SIGHT,37.719311,31.443199,Gölyaka köyü,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.880
@@ -732,7 +724,7 @@ f3de8bfa-4753-4d29-b5f0-8df658cbd9b4,Üstündağ Otel,HOTEL,37.948025,30.305634,
 2771e1b3-ff40-45b0-8637-07612903cddd,Pınus Cafe,CAFE,37.94762,30.304581,İstasyon cad ,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.982
 08a30967-4f78-4c4e-bfda-4e58e39db4cb,SİNPA AVM,SHOPPING,37.94733,30.304132,Yukarı mahalle Atatürk caddesi,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,shopping_mall,shopping>shopping_mall,0.974
 83675eab-d90a-44a2-801d-41382df51924,Beyzade Apart,HOTEL,37.9473,30.304129,Atatürk Caddesi 123,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.860
-301f860c-193a-49fb-97bf-a131ada4f05a,Üçgen Park,SIGHT,37.94611,30.303616,,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
+301f860c-193a-49fb-97bf-a131ada4f05a,Üçgen Park,ACTIVITY,37.94611,30.303616,,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
 39335007-a8f1-46fd-89c5-e460214e4820,Dürüm yemek sarayi,RESTAURANT,37.944885,30.303022,Atatürk Caddesi 75,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,argentine_restaurant,food_and_drink>restaurant>latin_american_restaurant>south_american_restaurant>argentine_restaurant,0.799
 2afeb52a-77d9-465d-a47a-b0d33d67c8aa,Sinpa Avm,SHOPPING,37.943699,30.302597,,Keçiborlu,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,shopping_mall,shopping>shopping_mall,0.770
 5a1f54bd-61d4-452d-a147-78d394503315,Ciğerci Kadirin Yeri,RESTAURANT,37.942272,30.296972,,Keçiborlu,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.880
@@ -778,14 +770,13 @@ d7d9d275-d7b2-42b1-a5c3-931ccce126b5,Atabey Ertokuş Medresesi,SIGHT,37.951324,3
 538ac8ef-bee6-46d1-af97-f78f90e343d6,Atabey Göleti,SIGHT,37.944668,30.613605,,Atabey,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.811
 92a48951-3908-4fc1-91cd-474b7f84069e,Atabey Göleti,SIGHT,37.946941,30.611868,,Atabey,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.802
 2a5edc36-4007-457c-ab1b-187f00649986,Gönen Karakaya Apart,HOTEL,37.953987,30.513376,Isparta,Gönen,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.761
-6e75d7dd-7575-49ae-aea0-bbdaaa72cd20,Gönen Cumhuriyet Meydanı,SIGHT,37.956383,30.5131,,Gönen,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.851
+6e75d7dd-7575-49ae-aea0-bbdaaa72cd20,Gönen Cumhuriyet Meydanı,ACTIVITY,37.956383,30.5131,,Gönen,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.851
 919647c3-7d6a-49a8-b504-0e4dc133ed1a,Isparta Gönen Göleti,SIGHT,37.963577,30.517027,Isparta,Gönen,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.946
 0682ed58-4423-47e2-9fc6-44dc39185968,Saklıgöl Gönen Isparta,SIGHT,37.965836,30.522911,Gönen,Gönen,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.978
 4e043378-023a-4de3-8c4e-b9f475ca9ddc,Mimoza Cafe & Bistro,CAFE,38.107094,30.561401,,Senirkent,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.902
 c011d041-0bc0-4df0-afb0-6df6954338ce,Egirdir Barla,SIGHT,38.016594,30.782682,,Senirkent,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.733
 beff578c-fac0-4ee1-95af-77f9a99b6a03,Barla Göleti,SIGHT,38.01144,30.801207,,Senirkent,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.721
 d3895ea7-2fe8-479e-80a9-105fca828302,Egirdir,SIGHT,38.056664,30.866108,,Senirkent,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.823
-888b2083-48c7-497f-9dca-de50902b812b,Eğirdir Gölü Seyir Terası,SIGHT,38.022266,30.966078,,Senirkent,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.739
 076cc92e-9cfa-4913-8cb8-a66c8b5c3a8b,Esinyurt Göl Kenarı,SIGHT,38.021725,30.954079,,Senirkent,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.790
 a9387ab4-976b-45f2-ba3b-262edef111cb,Çetinkaya Restaurant,RESTAURANT,38.034569,30.955484,Konya Isparta Karayolu,Senirkent,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.793
 a45b84c9-cf34-499c-a4a6-b5e9e3bdc153,Hanönü restaurant ve market,RESTAURANT,37.99807,30.972031,Hanönü restaurant ve market,Eğirdir,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.790
@@ -799,7 +790,6 @@ d757c2a5-d1d0-4eaa-9265-1cd809d62546,İlama Plajı,SIGHT,37.982773,30.784882,,E�
 c295f9e2-38d7-4d3f-9127-f1188531d001,İlama Plajı,SIGHT,37.984871,30.788424,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.771
 e2a592a6-d054-48a4-a0be-8d231f0753f9,Bağören,SIGHT,37.970734,30.775236,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.730
 ff90f361-e9e2-4439-aed7-0eedc8a89b3d,Eğirdir Gölü Karaburun,SIGHT,37.923897,30.800066,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.716
-4c4fc9c2-48b9-4ae6-bc0e-494731710e8d,Demirköprü Altınkum Plajı Eğirdir,SIGHT,37.886532,30.817467,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.725
 644bc293-afb4-4fd6-a7e7-5b0c8724a3cf,Eğirdir Demir Köprü,SIGHT,37.886517,30.817575,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.871
 90771204-25f3-4758-96d0-91a9e2528cad,Eğirdir Göl manzarasi - Hayalkent,SIGHT,37.886681,30.818523,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.830
 99ef697f-3227-44f0-b406-723487f1b994,Hayalkent Beach,SIGHT,37.882076,30.818527,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.715
@@ -831,7 +821,6 @@ df0e3f01-cd60-4f8d-815b-b61b4a634e6d,Merci Butik Hotel,HOTEL,37.882607,30.868736
 20504057-b123-4a7e-b9d1-7f61e575904d,Ali's Pension,HOTEL,37.883224,30.869141,,Eğirdir,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,bed_and_breakfast,lodging>bed_and_breakfast,0.770
 7f907e6b-0ca1-452a-8278-2b00b2907348,Aya Stefanos Kilisesi,SIGHT,37.884014,30.868736,,Eğirdir,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.958
 3b411128-8175-4405-9db2-1066463ee849,Felekabad Restaurant,RESTAURANT,37.884197,30.869656,Atayolu Caddedi,Eğirdir,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.990
-ad4d2129-c9b9-4705-85b2-c2633f9fb4ba,Mada Adasi,SIGHT,37.889622,31.365641,Beyşehir Gölü,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.869
 a1cd16b9-0f0b-4f75-b1cb-937957f5f7b7,bigfishtolca,RESTAURANT,37.910278,31.495003,113711. Sokak 26,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.931
 b734d452-ff12-4c8d-81d2-194eb4cc48ac,Oskar Balık Restaurant,RESTAURANT,37.913601,31.493919,113722. Sokak No:3,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.989
 f0a7bb51-aa11-42e2-9acd-594788af409b,Tolca Balık Restorantı,RESTAURANT,37.912727,31.493454,,Yenişarbademli,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.918
@@ -888,11 +877,9 @@ bb5326f2-4dbe-4604-9610-a157760a93b8,Koruyaka,SIGHT,38.147194,31.229757,,Şarkî
 713f57f1-3505-4eb1-8ba5-91ba3380264c,Sarıgül aile cay bahcesi,CAFE,38.311508,31.169399,Ural Sk. No:4,Yalvaç,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.916
 8e35aca8-7c42-4d10-b220-f6166f0bcde0,Kent Ormani,SIGHT,38.315128,31.173861,,Yalvaç,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.968
 1180775b-fc48-4fe2-b969-27b9929e58de,Yalvaç Psidia Antik Kenti,SIGHT,38.303921,31.19137,,Yalvaç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.742
-ee9161e5-2f24-48ef-9dcb-d0f674f55a49,Ancient Theater At Psidian Antioch,SIGHT,38.304859,31.188004,,Yalvaç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.735
-ae57a05d-e429-4a39-9f39-a00e0966e16d,yalvaç pisidia antiocheia,SIGHT,38.303864,31.18577,ısparta,Yalvaç,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.847
 7895e26e-bc4c-4a5c-99ee-c4136db1f434,Yalvaç Şirket Önü,SIGHT,38.298252,31.188253,,Yalvaç,CDLA-Permissive-2.0,Overture|meta,palace,cultural_and_historic>historic_site>palace,0.730
 5249b402-64da-48f5-b0ed-58216c84f5e1,Öz Gaziantep Sofrası Hacı Usta Isparta,RESTAURANT,38.295876,31.186544,Bahçeli Sokak 14,Yalvaç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.812
-1ed7f64b-aa9a-4125-a476-2706509d16aa,Kamelya park,SIGHT,38.293488,31.184565,Cuma Tarlası Sk.,Yalvaç,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.878
+1ed7f64b-aa9a-4125-a476-2706509d16aa,Kamelya park,ACTIVITY,38.293488,31.184565,Cuma Tarlası Sk.,Yalvaç,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.878
 8035496b-c6cf-474a-a272-227a9ad81db3,Pisidia Otel Restaurant,RESTAURANT,38.29438,31.181314,,Yalvaç,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.847
 c366111f-c3dc-4759-9f32-ce540d2e4f91,HOTEL Psidia,HOTEL,38.294323,31.18153,Mescit Cd. No:2,Yalvaç,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.980
 24fb8b60-8d1d-4e1d-9046-fce99d085922,Burcu burcu ev yemekleri&ızgara,RESTAURANT,38.294712,31.179188,Uluyol Caddesi 5,Yalvaç,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.764
@@ -959,7 +946,7 @@ c421b5a2-6a44-414c-9c64-ca3965328869,Senirkent Maraş Dondurma,CAFE,38.108555,30
 91b46032-d49a-43b0-a7bd-314946054086,Senirkent Adıyaman Çiğköfte Satış NOKTASI,RESTAURANT,38.108562,30.551355,"Seç Market yani, Çaldıran sokak",Senirkent,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.873
 2bcd7d9e-7c8e-41e8-82b7-ed821e35196b,Ulubey Veli Baba Türbesi,SIGHT,38.137817,30.538954,,Senirkent,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.945
 3ca66d4d-55fd-4048-b2b2-c8b647324101,Ulusoy Lokantası,RESTAURANT,38.313847,30.648396,karaadilli kasabası,Senirkent,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.945
-e765c73e-6739-448f-8f97-d92a7a7aa981,Çiçektepe Pazar Meydanı,SIGHT,38.286366,30.54215,,Senirkent,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.845
+e765c73e-6739-448f-8f97-d92a7a7aa981,Çiçektepe Pazar Meydanı,ACTIVITY,38.286366,30.54215,,Senirkent,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.845
 99c39c40-0d5f-4a79-b6fd-85946591c0cf,Park Lokantasi,RESTAURANT,38.450157,30.584185,"Afyon TR, Yunus Emre Cd.",Senirkent,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
 27b7a9cc-8873-4ff4-9a02-d7aec97390d6,Lake Karamık,SIGHT,38.41666,30.83333,,Senirkent,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.734
 bbe64e54-f507-4187-a15f-8b3e9fd090a8,Karamık Gölü,SIGHT,38.451988,30.848898,,Senirkent,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.966

@@ -58,7 +58,6 @@ fed6a24f-ea66-4382-b27f-363f6fe168da,Bektaş Balık Evi,RESTAURANT,40.509472,28.
 171a9999-4f12-454d-af67-00023c0bc04f,Şar Kokoreç,RESTAURANT,40.50909,28.837252,Kordonboyu,Armutlu,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.773
 f56d034e-ee84-402a-87f4-69a31953ecb3,Kayra beach cafe,CAFE,40.505333,28.855873,Yılandar 13 Sk. No:73,Armutlu,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.817
 6bed73a5-981f-4010-b655-f9447d446ae8,Yalova Armutlu Yilandar Sahil,SIGHT,40.505287,28.856052,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.946
-d160aeae-79b3-41a0-91ff-0e110c8b0d8b,Sahil Cafe Beach,SIGHT,40.506405,28.854053,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.794
 5ad5d057-4e9b-431c-8fce-2b5fd08f44f2,Biodenge Hotel,HOTEL,40.507439,28.853161,,Armutlu,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.946
 f1634c80-84f7-4ab1-8684-abca53a6cd67,Armutlu Yılandar Beach,SIGHT,40.506615,28.853746,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.705
 4afbe80c-0976-4967-963b-241774a2c745,Armutlu Beach,SIGHT,40.506176,28.851307,Fuatdoğupaşa Sk.,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.792
@@ -82,11 +81,9 @@ a8efc88c-2b35-4e0e-b91d-4bcd457df280,Denizkızı Motel,HOTEL,40.518814,28.828472
 457d8e49-08b6-498a-97df-6c5a666fcde4,Armutlu Yılandar Plaj,SIGHT,40.517712,28.830107,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.745
 becfa572-0320-4819-8584-f9c480217788,Murat Usta Maraş Dondurmacısı,CAFE,40.518372,28.827799,İskele Sokak 1,Armutlu,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.866
 16d79036-e80d-4319-b4dc-634a940a2667,Avcılar Ve Aticilar Kulübü,SIGHT,40.518852,28.827988,,Armutlu,CDLA-Permissive-2.0,Overture|meta,bridge,geographic_entities>built_feature>bridge,0.750
-d89f1cce-bdab-44b4-baf0-1368b4d52b9c,Armutlu Seyir Tepesi,SIGHT,40.520477,28.823179,,Armutlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.884
 998fcede-ea30-4405-857b-be181dca1019,Kardelen Sahil,SIGHT,40.513676,28.804314,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.892
 a22deead-db46-4a22-95ef-1aa8d38fd4c5,Çamlıca Konakları Sahil,SIGHT,40.514233,28.802393,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.761
 e7c4d095-ce5b-4ad0-807f-be72261bb71a,Sevinc Kasap Kofte,RESTAURANT,40.516121,28.800526,Karşıyaka mahallesi Zafer caddesi ihlas yolu üzeri no:172,Armutlu,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.923
-c7abd523-bf65-4291-b6fd-c68c556df081,Armutlu Feneri,SIGHT,40.534325,28.781664,KARŞIYAKA MAHALLESI OKUL CAD.,Armutlu,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.876
 518c8583-b2d8-4a75-8029-7134d562282b,İhlas Sahil Cafe,CAFE,40.518284,28.789349,,Armutlu,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.824
 4b355718-9ab1-4042-97f6-593280ba7b27,Armutlu Gölet,SIGHT,40.524178,28.789268,,Armutlu,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.837
 2435e582-12de-42c5-abd5-4e2f9fe5baf6,Marmara Sahili,SIGHT,40.5191,28.790026,,Armutlu,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.707
@@ -175,7 +172,6 @@ bb888534-36c3-4b34-a576-69ecea95e6ab,Şamata Cafe,CAFE,40.648373,29.128418,Barba
 c1f8b3dc-7414-494c-a733-271eabb99f2c,Samdan Cafe,CAFE,40.647667,29.128174,Rüzgar Sk. No:12,Çınarcık,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.915
 83dc51ab-6ed4-4286-93d7-59b92497d101,Taşliman Otel,HOTEL,40.648323,29.126936,"Otel, Barboros Cd. No :76",Çınarcık,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.958
 b50a7674-9cf1-4bfd-93ed-91c5f3c677fd,AZRA'nın ASUDE Bahçesi CUBBA BAR,RESTAURANT,40.636211,29.129379,Hasan Baba Caddesi 97,Çınarcık,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.946
-2145e9d0-778a-4187-b206-c4d646d0a0b5,Hasanbaba Tepesi,SIGHT,40.634209,29.129551,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.778
 14145457-7500-4cf2-b18b-d5dfae0eaa07,Hasanbaba Ender'in Yeri Et Mangal & Restaurant,RESTAURANT,40.634285,29.129467,Hasanbaba Yolu Üzeri 2.km,Çınarcık,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.980
 3ff3da50-749b-458c-aac6-25f5fa1c438c,Tepe Et Mangal,RESTAURANT,40.631195,29.128803,Hasanbaba Cd. No:71,Çınarcık,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.884
 f6335eff-b59f-4209-b326-96ba4b7f83c8,Daniels Coffee Çınarçık,CAFE,40.646362,29.125217,Muhtar Ahmet Sugün Cd. No:17,Çınarcık,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.907
@@ -222,8 +218,8 @@ eea0e278-c190-4279-af4d-c1101822594c,REN Coffee,CAFE,40.644821,29.116674,Dr. Ziy
 47548516-eb29-4460-94e0-d460c138bc8b,İrem Köfte Salonu,RESTAURANT,40.645359,29.11628,Vali Akı Cd. No:1,Çınarcık,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.934
 2e8fb74d-c06c-468d-829d-ec9232300739,Petek Pastanesi,CAFE,40.645443,29.116394,Vali Akı Cd. Şenkul Apt,Çınarcık,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.956
 947983df-75d9-44ea-9b51-79b4ee2ae49e,Roma Dondurmacısı,CAFE,40.645363,29.116522,Vali Akı Cd. No:29,Çınarcık,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.789
-d8b5d404-343b-4f5f-a0a5-9181a321ba81,Çınarcık Atatürk Parkı,SIGHT,40.645672,29.116526,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.968
-d61f772e-f6ba-49ea-a50b-eebd911273af,Çınarcık Cumhuriyet Meydanı,SIGHT,40.645939,29.116892,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.850
+d8b5d404-343b-4f5f-a0a5-9181a321ba81,Çınarcık Atatürk Parkı,ACTIVITY,40.645672,29.116526,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.968
+d61f772e-f6ba-49ea-a50b-eebd911273af,Çınarcık Cumhuriyet Meydanı,ACTIVITY,40.645939,29.116892,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.850
 f17ab350-ed0d-4fb3-a415-88eb24ed5489,Adana Döner Sarayı 2,RESTAURANT,40.645504,29.116882,Vali Akı Caddesi 12,Çınarcık,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.834
 7e1dafbc-adc5-418b-b449-96d28b78966f,Yeni Canlı Balık,RESTAURANT,40.645996,29.117416,Vali Akı Cd. No:22,Çınarcık,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.963
 e06a5f19-2aa9-4cee-9b53-a2e828aa8064,Roof Cafe Lounge,RESTAURANT,40.646194,29.117437,Vali Akı Caddesi 20,Çınarcık,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.965
@@ -253,7 +249,6 @@ ec0b102e-666e-409c-a17a-6e8d9a0a2d7c,Cafe Kırmızı,CAFE,40.643486,29.109093,Ç
 a7a98f5a-089a-47bc-aada-9c6285a49823,Meşe Bungalov,HOTEL,40.624969,29.195347,Cumhuriyet Cd No:85,Termal,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin,0.889
 5db71b65-1fbe-4293-828d-e6c421992758,Akraba Beach,SIGHT,40.656799,29.185461,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.908
 ae175fbe-9681-456d-ad44-0af79a8aad43,Akraba Beach&Cafe,CAFE,40.656414,29.185949,"Harbiş Cami arası Koruköy , YALOVA",Çınarcık,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.801
-07aab6bb-f425-4df6-b762-fc555b2508da,Yalova Kaptan Beach Cafe,SIGHT,40.656582,29.186394,Zeki Genç Caddesi 19A,Çınarcık,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.833
 6d576716-98c9-4919-9f68-6d4f91202a69,Koru Plaj,SIGHT,40.656734,29.1861,,Çınarcık,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.768
 ca3c300d-bce7-4213-803e-292f617836f8,Familya Beach and Restaurant,RESTAURANT,40.656628,29.188154,Zeki Genç Cd. No:23 / 1,Çınarcık,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.929
 835b40e7-7d1d-4729-893f-6348bbf0e80e,Texas Cafe,CAFE,40.654503,29.192659,Harbiş Cd.,Termal,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.961
@@ -302,7 +297,6 @@ ea9c9ab0-e196-4494-824e-960e7ee35104,Galip Büfe,RESTAURANT,40.607468,29.172997,
 c5b1152d-1d48-4ed2-a6d5-9f0e7491b2f3,Green Termal Otel,HOTEL,40.606968,29.17292,Atatürk Cd. No:27,Termal,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.997
 5b302dd7-5ac2-46b6-9020-d9672b65ec0c,Termal Elit Hotel,HOTEL,40.605911,29.173325,"Gökçedere Mh. Cami sk, merkez cami karşısi 23/1",Termal,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 11db8b78-dc67-413a-ae0e-848d2f52e631,Sağlık Bakanlığı Termal Otel Yalova,HOTEL,40.60342,29.173914,,Termal,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.824
-49394777-ebd4-4b95-810b-263883466ace,Yalova Atatürk Mansion,SIGHT,40.602604,29.173767,Kaplıcalar Cd. No:10,Termal,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.835
 150dc47a-0d13-4d4d-bc98-c4e1d5a736d5,Yalova Termal Otel Restaurant,RESTAURANT,40.60252,29.173521,,Termal,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.927
 39899811-62ea-4943-9fc9-c6a41ae41b0b,Atatürk'ün Termal Köşkü,SIGHT,40.603184,29.173487,"Gökçedere Mahallesi, 77400 Termal/Yalova, Türkiye",Termal,CDLA-Permissive-2.0,Overture|meta,museum,arts_and_entertainment>museum,0.992
 dfa1b8d9-4dac-43c5-a6a1-7dd6bcfcb7dd,Yalova Termal Kaplıcaları,SIGHT,40.603405,29.173822,Termal Kaplıcaları,Termal,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
@@ -389,7 +383,6 @@ d2cc0ec9-f117-41ee-b138-869ff1c529db,Shazıye Restaurant,RESTAURANT,40.628338,29
 11808877-3bdd-44fe-a1b6-76e45b99070d,Yalova Termal Saray Otel,HOTEL,40.636459,29.225119,,Termal,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.909
 3e9e897a-d8f5-4601-adb5-9305134e449c,Dutlu Bahçe,RESTAURANT,40.633305,29.20882,Mahallesi,Termal,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.805
 457c86c0-924c-45b8-b0d1-9cbcc4c465af,Harb - İş Otel,HOTEL,40.651707,29.216862,"Tkk 5060 Yalova Fatı, Fatih Caddesi 105A",Termal,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.773
-bde2e027-81e9-43c2-b89b-9c58a0d7004b,Hastane Cafe,CAFE,40.662724,29.306774,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.871
 712ccc8a-80d0-4b6f-aee6-5d98a5a6c1e0,Nadir Kumsal,SIGHT,40.666328,29.304953,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.860
 726c62ad-a44d-464b-885c-c59ece8f6568,Deniz Balık Evi,RESTAURANT,40.657822,29.299978,Yelken Sk. No: 2,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.770
 c6da3007-0434-4788-8732-c2eb2abf998e,Kofteci senol,RESTAURANT,40.657646,29.300409,Milis Teğmen Rasim Koçal Cd.,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.891
@@ -422,13 +415,12 @@ b1779aab-a4eb-4b1d-b340-bbcfbc0b8893,Araştırma Sahili Plajı,SIGHT,40.663795,2
 b924664f-7d58-4f83-954f-61f821699af8,Yayla Cafe,CAFE,40.657703,29.279768,Üstündağ Sk. No:7 D:B,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.924
 3b79cbe4-35ed-41ed-9c05-9a1f66016d2e,Peçko Fırın Yalova,CAFE,40.656525,29.280722,İstanbul Caddesi 122,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.933
 4c95b6b1-a3ac-4a62-a7c6-feea49b6f814,Star Avm Mado,CAFE,40.656357,29.281437,Koçal Sokağı,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.893
-8e003042-7c50-414e-85cc-483bf4a678cb,Gülce Sanat,SIGHT,40.657261,29.281244,"Mimar Sinan caddesi, Süvari Sk. No:8",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.920
+8e003042-7c50-414e-85cc-483bf4a678cb,Gülce Sanat,SHOPPING,40.657261,29.281244,"Mimar Sinan caddesi, Süvari Sk. No:8",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.920
 cefeda2e-0024-46d0-972b-c98621218bc2,Simit sevgisi,CAFE,40.658424,29.281597,Yalı Caddesi,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.936
 e442e274-48db-4950-8d41-dee85267223d,Reis Savarona Cafe,CAFE,40.654469,29.280445,Şehit Ömer Faydalı Caddesi 26A,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.857
 54516435-cb05-4493-b18d-a48a0d56e144,Yalova Uygulama Oteli,HOTEL,40.654716,29.278976,Şehit Ömer Faydalı Caddesi 38,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.987
 e3696d87-2c50-471a-8846-1f1a97f77f06,Akçaabat Köftecisi Ali Ustanın Yeri,RESTAURANT,40.654533,29.278061,Sehit Ömer Faydalı Caddesi,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,european_restaurant,food_and_drink>restaurant>european_restaurant,0.798
-d16f8272-73ca-4807-b1dc-efe9d60df1a0,Çamlık Tepesi,SIGHT,40.652706,29.278725,Zeytinlik Sok,Yalova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.732
-c9c9f757-5a4a-4595-aa5a-3d19e0f9c42e,Yalova Çamlık Parkı,SIGHT,40.653397,29.277575,,Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.905
+c9c9f757-5a4a-4595-aa5a-3d19e0f9c42e,Yalova Çamlık Parkı,ACTIVITY,40.653397,29.277575,,Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.905
 f630b347-13eb-4435-b317-ff18d77e9656,Halil Ibrahim Sofrası,RESTAURANT,40.656792,29.276649,Mimar Sinan Cd. No:72,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.826
 97fe4002-9682-4eb9-8ad3-b1189c210cc9,Romen Pazarı,SHOPPING,40.658604,29.276524,Yeni Pazar Yeri,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,flea_market,shopping>second_hand_store>flea_market,0.861
 9df17825-d06e-4846-9ae5-865d8dcc663d,Bit Pazari,SHOPPING,40.658367,29.276731,Minibüs Durakları Karşısı,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,flea_market,shopping>second_hand_store>flea_market,0.888
@@ -462,13 +454,13 @@ d95e6d35-1743-413e-8a1a-636691a6f3c9,Lavazza Best Coffee Shop,CAFE,40.660313,29.
 30be34cb-29b4-40fa-82f5-0bb2718ff781,Bir Ömür Köfte,RESTAURANT,40.659737,29.276436,Yalova Minibüs Durakları,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.854
 aef6f637-bd6f-4ca9-a460-7f872bd010a4,Kaktüs Cafe Yalova,CAFE,40.659023,29.275986,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.940
 ab8b361d-ec70-4eb8-97f9-0b04635077dd,Barış Manço Aile Çay Bahçesi,CAFE,40.659245,29.275225,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.833
-5c02029e-2c63-4d37-a19c-11e628e7b0b2,Lunapark Yalova,SIGHT,40.659882,29.273037,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
+5c02029e-2c63-4d37-a19c-11e628e7b0b2,Lunapark Yalova,ACTIVITY,40.659882,29.273037,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.860
 909bc151-ab12-4177-a40f-ef93164d6c80,Luna Cafe,CAFE,40.660061,29.273285,Rihtim Cad,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.845
 735486ce-6423-4de9-b3a9-bcb1f92de67d,Cınar Cafe - Serdar Giray,CAFE,40.657978,29.274492,Cengiz Koçal Caddesi 50/8,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,tea_room,food_and_drink>non_alcoholic_beverage_venue>tea_room,0.951
 89134e72-bc60-4411-a6d6-fa5e3a5ee2e1,Yıldız Pide Yalova,RESTAURANT,40.657288,29.274542,İstiklal Caddesi 36A,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.985
 71a1d1d3-92fa-4904-a8ec-fdafa002a001,Öz Hamur Börek - Sefabey Şubesi,RESTAURANT,40.657501,29.273968,Sefabey Caddesi No:8,Yalova,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 ecca9b71-31de-4ca6-add5-2d1535df58e2,Köfteci Yusuf,RESTAURANT,40.657578,29.273876,Sefabey Cd. No:6A,Yalova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.990
-a1ba2b86-ebde-46c6-a380-f3f5b9ff6194,Kuşlu Park,SIGHT,40.658661,29.27379,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.846
+a1ba2b86-ebde-46c6-a380-f3f5b9ff6194,Kuşlu Park,ACTIVITY,40.658661,29.27379,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.846
 82387081-9d72-4562-8005-274634bb4713,Kirgiz OTEL,HOTEL,40.657356,29.273481,İstiklal Cd. No:28,Yalova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.908
 b8beef84-f8ab-400c-9926-577766c0a366,Osmanlı Dönercisi,RESTAURANT,40.655956,29.273911,Sefabey Cd. No:32,Yalova,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.866
 1a82158e-e10c-4236-bfd9-acbdb9d824f5,Fidanlar AVM,SHOPPING,40.65601,29.273935,Sefabey Cad. No:7/A,Yalova,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,shopping_mall,shopping>shopping_mall,0.770
@@ -476,8 +468,7 @@ c1588cf1-2ae2-4cde-89df-163d44340727,Golova Et Mangal,RESTAURANT,40.656567,29.27
 f40c9d22-21f1-4653-8b82-9e8d045557a0,Yildiz Kebap Salonu,RESTAURANT,40.657257,29.274591,İstiklal Cd. 44/A,Yalova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.934
 79bac081-31bd-45a4-82d0-b80cfd50cfce,Yalova Teşvikiye Büyük Dipsiz Göl,SIGHT,40.655552,29.275,Teşvikiye Çınarcık,Yalova,CDLA-Permissive-2.0,Overture|meta,lake,geographic_entities>water_feature>lake,0.840
 a41ccbd2-5026-4c4d-afbe-a7c0fa84a6a1,Gazi Kebap Pide ve Lahmacun,RESTAURANT,40.655674,29.275354,Bora Sk. No:2/a,Yalova,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.843
-ec8f65fb-23d3-49b7-b804-fa808f4ac1a3,Kocal Resim Galeri,SIGHT,40.655849,29.275381,İstanbul Caddesi 60B,Yalova,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.912
-cb2ab785-f7c2-40e3-8b11-fef29fa8c9d3,Özoğlu Vakfıkebir Ekmek ve Pide Lahmacun Salonu A.Ş,RESTAURANT,40.656788,29.275084,Zuhal sitesi karşısı taşköprü ,Yalova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.834
+ec8f65fb-23d3-49b7-b804-fa808f4ac1a3,Kocal Resim Galeri,SHOPPING,40.655849,29.275381,İstanbul Caddesi 60B,Yalova,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.912
 0b8e407e-6f75-4d0f-987f-b3e699ace71f,Karadeniz Pide,RESTAURANT,40.657249,29.274832,İstiklal Caddesi 48,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.966
 185ac528-0ac1-4106-80d1-9f4286f93610,Bereket Mantı,RESTAURANT,40.656673,29.274889,Mimar Sinan Cd. No:47 77100,Yalova,CDLA-Permissive-2.0,Overture|meta,asian_restaurant,food_and_drink>restaurant>asian_restaurant,0.815
 d439cdae-42bd-4258-bc81-442697c23395,Usta eli yemek salonu,RESTAURANT,40.657276,29.274853,İstiklal Cd. No:48,Yalova,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.865
@@ -500,7 +491,7 @@ c37c95ac-5b86-43bd-9491-61f5b60fede8,Yalova OLTA BALIK,RESTAURANT,40.658649,29.2
 29e0b252-b664-4bf8-86f4-6fa07ff5e077,Karadeniz Pide,RESTAURANT,40.654102,29.273531,İstiklal Caddesi 48,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.965
 dccecefb-691f-42e9-81f4-27a786288e36,Semaver Çay Evi,CAFE,40.654991,29.273399,Yıldız Sk. 27-29,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.894
 55160976-0d19-4ee0-9a98-c6eae4a3babd,Deniz Pide Kebap Lahmacun,RESTAURANT,40.655373,29.272476,Merih Sk. No:4,Yalova,CDLA-Permissive-2.0,Overture|meta,mediterranean_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant,0.807
-38ecaf4b-cac4-4f1f-ad3f-0fe321134811,Abdullah Baştürk Playground,SIGHT,40.65453,29.272179,,Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.833
+38ecaf4b-cac4-4f1f-ad3f-0fe321134811,Abdullah Baştürk Playground,ACTIVITY,40.65453,29.272179,,Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.833
 cc36571b-7f35-4e5f-a224-67b2e3765449,Cafe Efendi,CAFE,40.653755,29.271898,Güneş Sokak 11A,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.810
 645c3a17-3f65-4c05-bfa1-857b94d25445,Radar Cafe,CAFE,40.651646,29.272787,Radar Cad,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.857
 0b93852f-2019-4964-bb6f-50a04fee0014,Flash Sushi Yalova,RESTAURANT,40.652443,29.270502,Yalova Flash Sushi  ,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.941
@@ -582,7 +573,7 @@ ad39c91a-c036-478a-b6a6-3e49b8cb5900,Baklavacı Anteplioğlu,CAFE,40.658295,29.2
 90906b40-c059-4530-8942-9aec00e08702,Özüdoğru Hotel,HOTEL,40.658321,29.272097,Cengiz Koçal Cad. No:30,Yalova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.976
 a2db405f-10f5-4313-8b30-85052624255c,Yalova Meşhur Adapazarı Köftecisi,RESTAURANT,40.657394,29.271767,İstiklal Caddesi 4B,Yalova,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.817
 1047672a-b4bb-444f-8bec-4d52c84a3f94,Pizza Pizza,RESTAURANT,40.658428,29.271757,Yalı Cd. No:31,Yalova,CDLA-Permissive-2.0,Overture|meta,pizza_restaurant,food_and_drink>restaurant>european_restaurant>mediterranean_restaurant>italian_restaurant>pizza_restaurant,0.861
-9afe0980-b4dd-4fbc-90b8-b2ad1ec67013,İnkilap Gemisi Anıtı,SIGHT,40.659336,29.271688,"Rıhtım Cd. No:2, 77100",Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
+9afe0980-b4dd-4fbc-90b8-b2ad1ec67013,İnkilap Gemisi Anıtı,ACTIVITY,40.659336,29.271688,"Rıhtım Cd. No:2, 77100",Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.863
 b9de0b5a-09cf-4c59-a08f-101ad664609a,Altin Balik Sahil,RESTAURANT,40.659969,29.271545,Rıhtım Cd. No:2,Yalova,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.974
 e15a2820-0cad-47eb-81a9-e50a3f1566c4,Altın Balık Marin,RESTAURANT,40.660175,29.271517,Cengiz Kocal Cad. Setur Marina İçi No:45/5,Yalova,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.770
 4b7c0cf7-0513-47d5-a381-496da32a1417,Ünsal Balık,RESTAURANT,40.660042,29.271696,"Osmanlı Parkı İçi, Başbuğ Alparslan Türkeş Caddesi No:3",Yalova,CDLA-Permissive-2.0,Overture|meta,seafood_restaurant,food_and_drink>restaurant>seafood_restaurant,0.987
@@ -599,7 +590,6 @@ f6a58159-23e7-48ee-b9de-f171ac58ff14,Sindoman Cafe and Restaurant,RESTAURANT,40.
 6ba00222-4fcc-4ba5-9173-5047c3b1194e,nevoo cafe,CAFE,40.656368,29.261547,Fatih Cd. 48c,Yalova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.944
 46585390-5eb5-4067-bc5b-34869d31fd4c,Von Bakery,CAFE,40.656155,29.261621,Fatih Cd. No:72/B,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.990
 5e95e583-aee1-4a27-a51b-3c91789cd010,Dondurmamgelatoyalova,CAFE,40.657162,29.261438,süleyman bey mahallesi,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.968
-64befae4-bce4-4f4a-8e06-5656cb4540e7,Ağustos Parkı Sahili,SIGHT,40.657276,29.260611,Gazipaşa Cad,Yalova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.700
 2e8dcc8d-0493-4ed8-9b2f-6a7fe8274de1,Yeşilvadi Cafe Barista,CAFE,40.657391,29.258821,Gazi Paşa Cad.,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.804
 bcb1b5b7-af36-4fa3-b9a2-d82e8e801797,Donanma Cafe & Restaurant,CAFE,40.657372,29.25831,Yalı Caddesi 52,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.873
 bfcf3e8e-161f-4f9b-ab1f-7fce0eaf47cd,Bey Oğlu Cafe,CAFE,40.657253,29.257486,Gazi Paşa Cd. No:77,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.927
@@ -645,7 +635,7 @@ c8657cd0-ce8c-4db1-8518-ff7a4bec2b48,Bayramefendi Osmanlı Kahvecisi,CAFE,40.656
 a3d821da-5151-4c49-8bf7-f6e074607c2c,Punch Coffe & Food,CAFE,40.656883,29.267282,Dere Sokak 5B,Yalova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.909
 d812382d-b498-4103-a11a-b72ab5747df0,Anteplioğlu Baklavaları,CAFE,40.656288,29.267725,,Yalova,CDLA-Permissive-2.0,Overture|meta,dessert_shop,food_and_drink>casual_eatery>dessert_shop,0.879
 fcbd9f25-1153-4c88-98cb-71cebf749730,Pilavcı Yaşar,RESTAURANT,40.656319,29.267902,Fatih Cd. No:22,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.913
-5ac02068-11ba-4420-ba7f-6478efaf874a,Yalova Sanat Galerisi,SIGHT,40.656548,29.267893,Dere Sk. No:18 D:C,Yalova,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.940
+5ac02068-11ba-4420-ba7f-6478efaf874a,Yalova Sanat Galerisi,SHOPPING,40.656548,29.267893,Dere Sk. No:18 D:C,Yalova,CDLA-Permissive-2.0,Overture|meta,art_gallery,arts_and_entertainment>arts_and_crafts_space>art_gallery,0.940
 0866a3c6-2449-4258-9ec5-5a40f33c0085,Kara Kedi Cafe Bistro,CAFE,40.656631,29.267828,Dere Sk. No:18,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.813
 7d1236a9-c6fd-47b0-89b7-245ec82f0a2f,Green N' Bean Coffee,CAFE,40.656796,29.267702,Dere Sk. no:11/A,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.893
 ca171490-fea8-4734-a265-26e53772eb10,Şamdan Coffee,CAFE,40.65662,29.267689,Dere Sk. 18-B,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.994
@@ -657,10 +647,9 @@ f845a7e3-4e66-484a-9379-990182fd598b,77Acarlar Kebap77,RESTAURANT,40.657963,29.2
 9b590114-de46-4c25-8ebd-23e0bfb388ae,Divan Teras Cafe & Bar,RESTAURANT,40.657997,29.267925,"Kat:3, Gazi Paşa Cd. No:24",Yalova,CDLA-Permissive-2.0,Overture|meta,pub,food_and_drink>alcoholic_beverage_venue>bar>pub,0.908
 57c703ac-f4d9-4ca2-a5a7-1e9ac45839ba,Marina Döner FastFood,RESTAURANT,40.657902,29.267931,Gazi Paşa Cd.,Yalova,CDLA-Permissive-2.0,Overture|meta,fast_food_restaurant,food_and_drink>casual_eatery>fast_food_restaurant,0.919
 5023f090-c4fd-4f5e-8724-7115825ddf46,BTC - Burger Turk,RESTAURANT,40.658211,29.267786,Gazi Paşa Caddesi 18,Yalova,CDLA-Permissive-2.0,Overture|meta,burger_restaurant,food_and_drink>restaurant>meat_restaurant>burger_restaurant,0.881
-6354a98c-d9b4-4e33-8915-14833febc243,bad godesberg park yalova,SIGHT,40.658531,29.267727,Gazi Paşa Cd. No:26,Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.925
+6354a98c-d9b4-4e33-8915-14833febc243,bad godesberg park yalova,ACTIVITY,40.658531,29.267727,Gazi Paşa Cd. No:26,Yalova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.925
 74359e47-090b-40c3-95f0-e8ec19f00f9a,Yalova Balikci Barinagi,RESTAURANT,40.658821,29.267378,Marmara Denizi,Yalova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.777
 967df87c-b65f-4352-abed-ec86fc43f03d,Yalova Fenerbahçeliler Lokali,RESTAURANT,40.658287,29.267437,Mihenk Sokak 37,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.822
-981e006b-b31e-4366-93a4-4135fcffd569,Epa Patika,SIGHT,40.658001,29.267517,Gazi Paşa Caddesi 25B,Yalova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.808
 3096ea8b-8ec8-4cea-89fa-425936467a95,Engelsiz Cafe,CAFE,40.657803,29.267309,Gazi Paşa Cd. No:25,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.960
 5236d104-9452-443b-9722-863104082883,Tavuk Dünyası 77 Yalova,RESTAURANT,40.657894,29.2673,Rüstem Paşa Mahallesi Gazi Paşa Caddesi No:,Yalova,CDLA-Permissive-2.0,Microsoft|Overture,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.850
 94b1e1ff-e79c-4f90-88a0-1368c0a14190,Tavuk Dünyası Yalova Cadde,RESTAURANT,40.658035,29.267246,Gazi Paşa Cd. No:34/5,Yalova,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.990
@@ -746,7 +735,6 @@ ca4514ad-1af0-4df1-be41-8564c77aa0ed,Safran Bahçesi Cafe Restaurant,RESTAURANT,
 6b71f862-1f0f-413a-96e7-89d5df06df62,Beylerbeyi Steakhouse Restaurant,RESTAURANT,40.629322,29.272989,Bursa Yolu,Yalova,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.804
 e7838a83-5dc6-4dae-84a3-2871b12bcb47,Ciğerci Recep,RESTAURANT,40.633446,29.270893,Bağlarbaşı mahallesi Radar caddesi 69A Yalova Merkez,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.914
 ef5f5a77-bda3-40bf-9fe1-92521e7229ee,Deep Corner Coffee,CAFE,40.636959,29.270704,Radar Cd. No:162/A,Yalova,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.863
-48e7c7ad-709e-4ab4-bbf7-eebea170a263,Yalova Polis Şehitliği,SIGHT,40.639645,29.27529,,Yalova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.844
 a7d83b0c-5a0c-4cd4-8989-2124b80334d9,Starbucks,CAFE,40.646042,29.282417,Bursa Yolu No:92/1,Yalova,CDLA-Permissive-2.0,Overture|meta,coffee_shop,food_and_drink>non_alcoholic_beverage_venue>coffee_shop,0.922
 9bc0e04f-e483-4ac7-9f9e-c580d3cb1400,Sepetçioğlu Restaurant,RESTAURANT,40.603588,29.270405,Bursa Yolu 6. Km,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.997
 8dbed792-2993-4f76-9248-fee498720ff2,Yalova Organica Restaurant,RESTAURANT,40.609283,29.267441,40°36'34. 29°16'03 Safran Köyü Karatepe Mevkii 50. Sokak No:7,Yalova,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.998
@@ -755,13 +743,11 @@ d46cf68b-770f-42f5-b921-2200535b52be,Safransisco Bahçe,RESTAURANT,40.609779,29.
 baeba707-e781-4a93-93c8-6eaf7a6faa7b,Onlar Alabalık Restaurant,RESTAURANT,40.589367,29.259926,Paşakent Mah. Soğucak Kalıcı Konutlar Altı,Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.987
 73f1115f-1a7a-4b3a-81e6-2e7303b73564,Hotel Vela Verde,HOTEL,40.591362,29.284578,"Bursa Yalova Yolu Caddesi No:269/A , Merkez",Yalova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.996
 2469b39d-e381-443d-a164-ad6cff8dfb22,Başka Bir Dünya Kahvaltı Evi,RESTAURANT,40.59269,29.285023,sogucak,Yalova,CDLA-Permissive-2.0,Overture|meta,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.974
-3f10d167-9ad6-4823-b52f-52f841af3c5d,Kirazlı Tepesi,SIGHT,40.607967,29.292696,,Yalova,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.877
 b467085e-0e2c-4e18-9160-a9c07a72c413,Aronia Bungalow,HOTEL,40.603802,29.289627,Cumhuriyet Cd No:102/1,Yalova,CDLA-Permissive-2.0,Overture|meta,cabin,lodging>cabin,0.974
 2f13a040-aab7-400c-8bb5-7558eb9273ff,Yalova Tepe Restoran,RESTAURANT,40.56572,29.297583,,Yalova,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.925
 a8de5044-164e-4b1c-bf9e-f5538778226a,Cinaralti Dagistan Yemekleri,RESTAURANT,40.552879,29.278057,"Çınar Sk No:12, 77202",Yalova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.849
 3d38229d-a3c4-4255-ae6f-b6317b32f974,Aksoy Et ve Izgara,RESTAURANT,40.674164,29.346651,"Aksoy Petrol Shell, Üzeri",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.985
 7da03bc0-1a32-48f6-a124-9f0209c6c091,Narkent Sahili,SIGHT,40.673935,29.344984,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.815
-ae0d246c-d245-4ee6-8cd4-b6dcfb86461e,Yalova Polis Şehitliği,SIGHT,40.659809,29.334385,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.844
 08085007-5f11-4b3f-9a99-243cdf6ce42a,Mangalbaşı,RESTAURANT,40.667751,29.334194,Çiftlikköy,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.838
 30c41f52-daa3-470c-ac43-9f591c984dad,Ciflikkoy Basri Oglu,RESTAURANT,40.667656,29.334146,"Erdeğer-Yalova, İzmit Karayolu Caddesi 356",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,chicken_restaurant,food_and_drink>restaurant>meat_restaurant>chicken_restaurant,0.961
 5c49d5ef-388f-4f1c-a7f7-f194d205a764,Çiftlikköy Kokoreç,RESTAURANT,40.668514,29.336384,Siteler Mah,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,steakhouse,food_and_drink>restaurant>meat_restaurant>steakhouse,0.763
@@ -827,7 +813,7 @@ de494b5d-5628-4a44-812f-c01213074176,Köşebar Çiftlikköy,RESTAURANT,40.667774
 769eaf4c-98b0-47c6-8136-3c303df3a4c7,Sekercioglu Baklava Lokum Kebap,RESTAURANT,40.663635,29.309935,Bahar Sk. No:12/c,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.914
 39d621d4-2ab5-42f9-aefd-b033bfc8c434,Tepsim Kebap,RESTAURANT,40.663662,29.30999,sahil mh.,Çiftlikköy,Apache-2.0|CDLA-Permissive-2.0,Foursquare|Overture,turkish_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant,0.770
 e8caed85-e217-47e1-bc1f-e7184f1b06ec,Fil oyun ve kahve evi,CAFE,40.66309,29.309263,Şevket Yılmaz Cd. No 8,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,cafe,food_and_drink>casual_eatery>cafe,0.979
-a94edf9c-5b56-4a56-bc63-67ad74bc8309,Yaşar Okuyan Parkı,SIGHT,40.665039,29.308634,Şevket Yılmaz Cd. No:18,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
+a94edf9c-5b56-4a56-bc63-67ad74bc8309,Yaşar Okuyan Parkı,ACTIVITY,40.665039,29.308634,Şevket Yılmaz Cd. No:18,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
 ad0bf422-bd07-4593-b09c-2558a36cb477,Çiftlikköy Sahil,SIGHT,40.663048,29.309092,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.762
 d1d7a269-e868-424a-ac82-9ab4679630af,Mertur Hotel Swimming Pool,HOTEL,40.682892,29.357838,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.952
 7b429ff0-b58b-4a12-b92d-3c57f471cff9,Aydınkent Plajı,SIGHT,40.686058,29.359539,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.783
@@ -837,7 +823,7 @@ f0fcb8ea-1ef9-4029-81f6-fca9083dcea9,Gönül Kafe,CAFE,40.684654,29.358349,Aydı
 322fba9d-b44e-4c56-8a72-dcb07090dd20,Taşköprü Et Mangal,RESTAURANT,40.677547,29.376574,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.928
 883889ad-77ad-4083-9087-c69deae81fe1,Köfteci Ali,RESTAURANT,40.677296,29.386774,İzmit Yalova Yolu No:35,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,barbecue_restaurant,food_and_drink>restaurant>meat_restaurant>barbecue_restaurant,0.921
 00884661-63f8-485d-befc-b969416efd10,Kahvalti Sofrasi,RESTAURANT,40.678402,29.389017,Dilovasi Isiklar,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,breakfast_and_brunch_restaurant,food_and_drink>restaurant>breakfast_and_brunch_restaurant,0.781
-afc89a46-96dc-4005-96c2-e6c09ab9d23f,Hasan KAMBUR Parkı,SIGHT,40.679626,29.390854,"Taşköprü Bld, Mimar Sinan Cd. No:3",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
+afc89a46-96dc-4005-96c2-e6c09ab9d23f,Hasan KAMBUR Parkı,ACTIVITY,40.679626,29.390854,"Taşköprü Bld, Mimar Sinan Cd. No:3",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.807
 5e6e460c-79b5-42e8-99c2-8c0dcc8773d0,Altınkum,SIGHT,40.680874,29.396749,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.780
 5e71d0da-ccae-48ec-991e-d409654cf612,"Taşköprü, Çiftlikköy",SIGHT,40.683296,29.4,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,national_park,sports_and_recreation>park>national_park,0.704
 d5e4a60f-285f-4bbd-932c-1ffe25b2a978,Altinkum Plaji,SIGHT,40.699234,29.397049,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.816
@@ -859,7 +845,6 @@ c7b00397-ea1c-4d09-bf56-e3c2468cff61,Marine View Hotel,HOTEL,40.686714,29.442511
 ef51bdb4-5211-468a-85fd-b795bccdfcf5,Elagance Hotel,HOTEL,40.687626,29.444717,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.847
 1e0f830e-96a6-423c-8bba-1252f4b0d7c4,Elegance Resort Hotel,HOTEL,40.68771,29.444441,"Topcular Mevkii Tavsanli Beldesi, 77700 Altınova/Yalova",Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.995
 cf48b460-3775-4fb5-98d7-60ae68606954,BigChefs Yalova,RESTAURANT,40.694309,29.450567,Setur Yalova Marina /Süleyman Bey Mah. No:45 Yatlimanı/Merkez/Marina,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.934
-1a1a4083-8c8d-48ee-8915-256281e9ef41,Tavşanlı Sahil,SIGHT,40.694622,29.449778,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.735
 867fa071-41be-48de-be6d-74f654db27ea,cigercim,RESTAURANT,40.687595,29.456627,Kıbrıs Cd. No:10/10,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.940
 c385a87a-2dda-4c03-81eb-d8a04071c438,Aka Kebabs Pide Lahmacun ve Kebab Salonu,RESTAURANT,40.687515,29.456108,Kıbrıs Cd. No:6,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,doner_kebab_restaurant,food_and_drink>restaurant>middle_eastern_restaurant>turkish_restaurant>doner_kebab_restaurant,0.911
 0b866ad8-635f-4816-b141-6c73c971a63c,Gençtürk Otel,HOTEL,40.68745,29.455969,,Çiftlikköy,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.812
@@ -891,7 +876,7 @@ ca3bbebf-9ae2-4678-9223-ca354199aab3,Han Döner,RESTAURANT,40.696251,29.509811,A
 8efe222a-061a-4041-b58d-121d42796bdb,Gaziantepli Sahra Baklavaları,CAFE,40.696182,29.510029,"hürriyet mahallesi atatürk bulvarı has gencer iş merkezi, no 37/7",Altınova,CDLA-Permissive-2.0,Overture|meta,ice_cream_shop,food_and_drink>casual_eatery>dessert_shop>ice_cream_shop,0.981
 e8830d89-648d-4f09-a1d7-311fb559a859,The Nova Hotel,HOTEL,40.697166,29.508347,2. Sk. No:16/1,Altınova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.913
 7506dec3-7c7d-4440-ac8f-de4a069d5dc6,Yalova Araştırma Sahili,SIGHT,40.698566,29.511396,Atatürk Bulvarı,Altınova,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.924
-7035a9bd-bdfd-44cd-bb0f-dd73d3f856a4,Cumhuriyet Parkı,SIGHT,40.697613,29.512405,İzmit Yalova Yolu No:53,Altınova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.875
+7035a9bd-bdfd-44cd-bb0f-dd73d3f856a4,Cumhuriyet Parkı,ACTIVITY,40.697613,29.512405,İzmit Yalova Yolu No:53,Altınova,CDLA-Permissive-2.0,Overture|meta,park,sports_and_recreation>park,0.875
 87835967-1834-4913-869c-30a3c5981036,Milla cafe patisserie,CAFE,40.697556,29.512314,Park Cd. 8. sokak,Altınova,CDLA-Permissive-2.0,Overture|meta,bakery,food_and_drink>casual_eatery>bakery,0.933
 dc514b45-08d6-40ae-b095-49badae97723,Karadeniz Pide Kebab Restaurant,RESTAURANT,40.696674,29.510681,İlyas Karadağ iş merkezi No:27,Altınova,CDLA-Permissive-2.0,Overture|meta,restaurant,food_and_drink>restaurant,0.869
 6138aa47-86c0-43c0-9e38-5b0e098e1c29,Helenapolis Otel,HOTEL,40.696724,29.510958,Cumhuriyet Mah. Merkez Işıklar Yanı No:33,Altınova,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.971
