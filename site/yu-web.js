@@ -37,6 +37,46 @@
       if (k === KEY && this === window.localStorage) applyLang(v);
     };
   } catch (e) {}
+  // MapLibre is self-hosted. Do not compete with Flutter until a map needs it.
+  var runtime = new URL('.', document.currentScript?.src || document.baseURI);
+  var pendingMap;
+  window.yuMapLibreReady = false;
+  window.yuLoadMapLibre = function () {
+    if (pendingMap) return pendingMap;
+    var script = document.createElement('script');
+    var css = document.createElement('link');
+    script.src = new URL('maplibre/maplibre-gl.js', runtime).href;
+    script.async = true;
+    css.rel = 'stylesheet';
+    css.href = new URL('maplibre/maplibre-gl.css', runtime).href;
+    function load(element) {
+      return new Promise(function (resolve, reject) {
+        element.onload = resolve;
+        element.onerror = function () { reject(new Error('MapLibre asset failed to load')); };
+        document.head.appendChild(element);
+      });
+    }
+    var timer;
+    var timeout = new Promise(function (_, reject) {
+      timer = setTimeout(function () { reject(new Error('MapLibre load timed out')); }, 20000);
+    });
+    pendingMap = Promise.race([Promise.all([load(css), load(script)]), timeout])
+      .then(function () {
+        if (!window.maplibregl || typeof window.maplibregl.Map !== 'function') {
+          throw new Error('MapLibre global is missing');
+        }
+        window.yuMapLibreReady = true;
+      })
+      .catch(function (error) {
+        script.remove();
+        css.remove();
+        pendingMap = null;
+        throw error;
+      })
+      .finally(function () { clearTimeout(timer); });
+    return pendingMap;
+  };
+
   // 3. The branded start plate (same blue + logo as the app's own start screen) leaves with Flutter's first frame.
   window.addEventListener('flutter-first-frame', function () {
     var s = document.getElementById('yu-splash');

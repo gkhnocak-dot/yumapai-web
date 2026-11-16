@@ -101,7 +101,9 @@ function yuRefreshFonts() {
     .catch(function () {})
     .then(function () { if (timer) clearTimeout(timer); });
 }
-var yuFontsFresh = yuRefreshFonts();
+// A release directory already binds its manifest and fonts to immutable bytes.
+var yuImmutableFonts = /\/yu-release\/[a-f0-9]{64}-[a-f0-9]{24}\/$/.test(new URL(yuRuntimeBase).pathname);
+var yuFontsFresh = yuImmutableFonts ? Promise.resolve() : yuRefreshFonts();
 
 _flutter.loader.load({
   config: { ...yuEngineConfig, entrypointBaseUrl: yuRuntimeBase },
