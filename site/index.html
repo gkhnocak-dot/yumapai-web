@@ -32,6 +32,15 @@
   <script src="maplibre/maplibre-gl.js"></script>
   <script src="yu-web.js"></script>
   <script src="flutter_bootstrap.js" async></script>
+  <style id="yu-file-input">
+    /* Fotoğraf seçicinin gizli <input type=file> öğesi: iOS menüsü bu öğeye bağlanır; görünmez, 1 px, ekranın üst köşesinde */
+    flt-image-picker-inputs, flt-image-picker-inputs input, flt-file-picker-inputs, flt-file-picker-inputs input,
+    body > input[type=file] {
+      position: fixed !important; top: 0 !important; left: 0 !important;
+      width: 1px !important; height: 1px !important; opacity: 0 !important;
+      overflow: hidden !important; pointer-events: none !important; border: 0 !important; margin: 0 !important; padding: 0 !important;
+    }
+  </style>
 </head>
 <body>
   <div id="yu-splash" aria-hidden="true"><img src="assets/assets/images/yumapai-logo-tam.png" alt="" width="168" height="168"></div>
