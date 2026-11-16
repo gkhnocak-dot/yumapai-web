@@ -29,9 +29,6 @@
   <link rel="preload" href="assets/assets/images/yumapai-logo-tam.png" as="image">
   <!-- MapLibre GL JS 4.7.1 (BSD-3), self-hosted: harita (maplibre_gl web) CDN'den değil buradan yüklenir -->
   <link rel="stylesheet" href="maplibre/maplibre-gl.css">
-  <script src="maplibre/maplibre-gl.js"></script>
-  <script src="yu-web.js"></script>
-  <script src="flutter_bootstrap.js" async></script>
   <style id="yu-file-input">
     /* Fotoğraf seçicinin gizli <input type=file> öğesi: iOS menüsü bu öğeye bağlanır; görünmez, 1 px, ekranın üst köşesinde */
     flt-image-picker-inputs, flt-image-picker-inputs input, flt-file-picker-inputs, flt-file-picker-inputs input,
@@ -44,6 +41,12 @@
 </head>
 <body>
   <div id="yu-splash" aria-hidden="true"><img src="assets/assets/images/yumapai-logo-tam.png" alt="" width="168" height="168"></div>
+  <button type="button" id="yu-sw-update" data-yu-update hidden>Yeni sürüm hazır · Yenile</button>
   <noscript><p class="yu-noscript">YuMapAI'yi kullanmak için tarayıcında JavaScript açık olmalı.</p></noscript>
+  <!-- Açılış ekranı büyük betikler gelmeden çizilebilsin. Harita ve yönlendirme kancalarının sırasını koru. -->
+  <script src="maplibre/maplibre-gl.js"></script>
+  <script src="yu-web.js"></script>
+  <script src="yu-sw-init.js" defer></script>
+  <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

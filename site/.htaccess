@@ -23,6 +23,13 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
 RewriteRule (^|/)\.(?!well-known) - [F,L]
+# Önceden sıkıştırılmış motor (.wasm) ve simge fontu: tarayıcı kabul ediyorsa .br/.gz eşi sunulur (LiteSpeed bunları kendisi sıkıştırmıyor)
+RewriteCond %{HTTP:Accept-Encoding} br
+RewriteCond %{REQUEST_FILENAME}.br -f
+RewriteRule ^(.+\.(?:wasm|otf))$ $1.br [L,E=no-gzip:1]
+RewriteCond %{HTTP:Accept-Encoding} gzip
+RewriteCond %{REQUEST_FILENAME}.gz -f
+RewriteRule ^(.+\.(?:wasm|otf))$ $1.gz [L,E=no-gzip:1]
 RewriteRule ^index\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -36,7 +43,7 @@ AddType font/otf .otf
 AddType font/woff2 .woff2
 </IfModule>
 <IfModule mod_deflate.c>
-AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json application/wasm font/ttf font/otf image/svg+xml
+AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json font/ttf image/svg+xml
 </IfModule>
 <IfModule mod_headers.c>
 Header always set X-Content-Type-Options "nosniff"
@@ -59,4 +66,27 @@ Header set Cache-Control "no-cache"
 Header set Cache-Control "public, max-age=86400"
 </FilesMatch>
 </IfModule>
+<IfModule mod_mime.c>
+RemoveType .br .gz
+</IfModule>
+<FilesMatch "\.wasm\.br$">
+ForceType application/wasm
+Header set Content-Encoding br
+Header append Vary Accept-Encoding
+</FilesMatch>
+<FilesMatch "\.wasm\.gz$">
+ForceType application/wasm
+Header set Content-Encoding gzip
+Header append Vary Accept-Encoding
+</FilesMatch>
+<FilesMatch "\.otf\.br$">
+ForceType font/otf
+Header set Content-Encoding br
+Header append Vary Accept-Encoding
+</FilesMatch>
+<FilesMatch "\.otf\.gz$">
+ForceType font/otf
+Header set Content-Encoding gzip
+Header append Vary Accept-Encoding
+</FilesMatch>
 # END YuMapAI
