@@ -355,6 +355,7 @@ b37eb0cf-55b4-4c9a-af54-0e4a057dc178,Holiday & Leisure Club,HOTEL,37.825821,27.2
 d1e122fb-4bde-4e49-a81a-1db2cfbf2683,Batıhan Vadi Hotel,HOTEL,37.890739,27.287571,Bayraklı Dede Mahallesi Bahcecik Bogazı,Kuşadası,CDLA-Permissive-2.0,Microsoft|Overture,bed_and_breakfast,lodging>bed_and_breakfast,0.966
 c5ca6053-4f35-4c5e-aeb1-5d09de8a7e46,Atlantis Pool Bar,RESTAURANT,37.922844,27.280224,"""Aqua Fantasy Aquapark Hotel & Spa, Pamucak Mevkii""",Kuşadası,CDLA-Permissive-2.0,Overture|meta,bar,food_and_drink>alcoholic_beverage_venue>bar,0.889
 a04c9ee5-d2af-434e-a0b7-6e5c788da381,Hotel Richmond Ephesus Resort Kuşadası,HOTEL,37.932613,27.278706,,Kuşadası,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.959
+874b9219-cb73-4e76-b37e-c2e176c6fc20,Ephesus Archaeological Site,SIGHT,37.932613,27.278902,,Kuşadası,CDLA-Permissive-2.0,Overture|meta,historic_site,cultural_and_historic>historic_site,0.802
 44cc3a33-4597-49a2-8469-5726745fa2de,Palm Wings Snack Restaurant,RESTAURANT,37.927593,27.278646,,Kuşadası,CDLA-Permissive-2.0,Overture|meta,buffet_restaurant,food_and_drink>restaurant>buffet_restaurant,0.840
 0a632912-74c3-4770-a4ae-429dbf9d6271,Pam Beach Pamucak Sahili Kuşadası,SIGHT,37.927849,27.278801,,Kuşadası,CDLA-Permissive-2.0,Overture|meta,beach,geographic_entities>land_feature>beach,0.743
 7fa11582-2582-455a-8c3e-a481bb676194,Palm Wings Ephesus Beach Resort,HOTEL,37.927807,27.279005,Efes Antik Şehir Plajı,Kuşadası,CDLA-Permissive-2.0,Overture|meta,hotel,lodging>hotel,0.970
