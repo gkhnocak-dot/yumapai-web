@@ -1,38 +1,38 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-IR(d){return C.e43(d)},
-e43(d){var x=0,w=A.D(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+IR(d){return C.e4_(d)},
+e4_(d){var x=0,w=A.D(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
 var $async$IR=A.z(function(e,f){if(e===1){u.push(f)
 x=v}for(;;)switch(x){case 0:n=A.dU(d,0,null)
 v=3
 t=!1
 v=7
 x=10
-return A.w(A.yO(n,B.oX,null),$async$IR)
+return A.w(A.yO(n,B.oY,null),$async$IR)
 case 10:t=f
 v=3
 x=9
 break
 case 7:v=6
 m=u.pop()
-if(n.giu()!=="yandexnavi")throw m
+if(n.git()!=="yandexnavi")throw m
 x=9
 break
 case 6:x=3
 break
-case 9:x=!t&&n.giu()==="yandexnavi"?11:12
+case 9:x=!t&&n.git()==="yandexnavi"?11:12
 break
-case 11:s=D.dD2(d,$.m().o7!=="DRIVE")
+case 11:s=D.dCZ(d,$.m().o7!=="DRIVE")
 x=s!=null?13:14
 break
 case 13:x=15
-return A.w(A.yO(A.dU(s,0,null),B.oX,null),$async$IR)
+return A.w(A.yO(A.dU(s,0,null),B.oY,null),$async$IR)
 case 15:t=f
 case 14:case 12:p=t
 x=!p?16:17
 break
 case 16:x=18
-return A.w(A.yO(n,B.oX,"_self"),$async$IR)
+return A.w(A.yO(n,B.oY,"_self"),$async$IR)
 case 18:case 17:v=1
 x=5
 break
@@ -55,4 +55,4 @@ C=a.updateHolder(c[60],C)
 D=c[65]
 var z=a.updateTypes([])
 var y={b:A.ah("@")}};
-(a=>{a["R6MLDFfa/OZZa8edv37xldba060="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["QpMeyaF15IR5OVMLWNZ77IhwoTg="]=a.current})($__dart_deferred_initializers__);
