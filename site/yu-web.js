@@ -77,9 +77,10 @@
     return pendingMap;
   };
 
-  // 3. The branded start plate (same blue + logo as the app's own start screen) leaves with Flutter's first frame.
+  // 3. Keep the same plate over the engine until the browser can paint Flutter's first frame.
   window.addEventListener('flutter-first-frame', function () {
-    var s = document.getElementById('yu-splash');
-    if (s) s.parentNode.removeChild(s);
-  });
+    requestAnimationFrame(function () {
+      document.getElementById('yu-splash')?.remove();
+    });
+  }, { once: true });
 })();
