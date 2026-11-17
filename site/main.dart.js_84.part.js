@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-dFb(d,e){var x,w,v,u="lat_from",t=A.GQ(d)
+dFa(d,e){var x,w,v,u="lat_from",t=A.GR(d)
 if(t==null||t.gis()!=="yandexnavi")return null
 x=t.ghq().i(0,"lat_to")
 w=t.ghq().i(0,"lon_to")
@@ -13,4 +13,4 @@ B=c[2]
 C=a.updateHolder(c[66],C)
 var z=a.updateTypes([])
 var y={d:A.ai("R<O>")}};
-(a=>{a["i+4srTE5UXkA97G81k1Or7oZQ7E="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["X6Q8MFCxQyzCvTtkwybEun7EDN8="]=a.current})($__dart_deferred_initializers__);

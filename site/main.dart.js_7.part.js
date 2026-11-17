@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,F,C={
-dQ8(){return new C.zY(null)},
+dQ7(){return new C.zY(null)},
 Bg:function Bg(d,e,f,g,h,i){var _=this
 _.a=d
 _.b=e
@@ -56,28 +56,28 @@ v=y.e
 w=A.u(A.e([g,B.bM,A.y(A.i(w,i,i,i,i,i,i,i,new A.h(h).gc0().rG("Manrope",B.a0),i,i,i,i),1)],v),B.I,i,B.D,B.i,0,i,i)
 g=x?"YuMapAI'de g\xf6sterilen mek\xe2n verisi, foto\u011fraflar ve harita a\xe7\u0131k lisansl\u0131 kaynaklardan gelir. Kaynaklar\u0131n istedi\u011fi at\u0131flar uygulamada ve a\u015fa\u011f\u0131da yer al\u0131r.":"The place data, photos and maps shown in YuMapAI come from openly licensed sources. The credits they require are shown in the app and below."
 g=A.e([w,B.bD,A.i(g,i,i,i,i,i,i,i,new A.h(h).gaa().ci(h.gn()),i,i,i,i),B.eS],v)
-for(j=0;j<6;++j)B.q.a4(g,A.e([this.aVs(h,k[j],x),B.bD],v))
-g.push(this.b45(h,x))
+for(j=0;j<6;++j)B.q.a4(g,A.e([this.aVt(h,k[j],x),B.bD],v))
+g.push(this.b46(h,x))
 return A.d7(i,l,A.c3(!0,A.cP(new A.eu(D.Zh,A.l9(i,g,i,D.b3S,i,F.us,i,B.J),i),i,i,i),!0,B.H,!0,!0),i,i,i)},
-aVs(d,e,f){var x,w,v,u,t,s,r,q,p=this,o=null,n=e.a,m=p.c
+aVt(d,e,f){var x,w,v,u,t,s,r,q,p=this,o=null,n=e.a,m=p.c
 m.toString
 m=A.aw(m,22)
 x=y.e
-w=A.e([A.i(e.b,o,o,o,o,o,o,o,new A.h(d).gaU().rG("Manrope",B.a0),o,o,o,o),B.ca,A.hW(B.aw,A.e([p.aj_(d,e.c),p.aj_(d,e.d)],x),B.b,B.bI,B.a3,B.aw,6,6,B.n),B.aS,A.i(e.e,o,o,o,o,o,o,o,new A.h(d).gaa(),o,o,o,o)],x)
+w=A.e([A.i(e.b,o,o,o,o,o,o,o,new A.h(d).gaU().rG("Manrope",B.a0),o,o,o,o),B.ca,A.hW(B.aw,A.e([p.aj0(d,e.c),p.aj0(d,e.d)],x),B.b,B.bI,B.a3,B.aw,6,6,B.n),B.aS,A.i(e.e,o,o,o,o,o,o,o,new A.h(d).gaa(),o,o,o,o)],x)
 for(v=e.f,u=v.length,t=n+":",s=0;s<v.length;v.length===u||(0,A.aa)(v),++s){r=v[s]
 q=r.a
-B.q.a4(w,A.e([B.aS,p.aOp(d,t+q,q,r.b,f)],x))}return A.d(o,A.J(w,B.a2,o,B.D,B.i,0,o,B.n),B.b,o,o,m,o,o,new A.a9("lisans_"+n,y.a),o,D.Ca,o,o,o)},
-aj_(d,e){var x=null,w=d.gT(),v=A.I(999)
-return A.d(x,A.i(e,x,x,x,x,x,x,x,new A.h(d).gC().arm(d.gA(),"Manrope",B.X),x,x,x,x),B.b,x,x,new A.E(w,x,x,v,x,x,x,B.m),x,x,x,x,B.C2,x,x,x)},
-aOp(d,e,f,g,h){var x,w,v=null,u=this.d.D(0,e),t=y.a,s=A.I(999),r=u?B.vu:B.oH
+B.q.a4(w,A.e([B.aS,p.aOq(d,t+q,q,r.b,f)],x))}return A.d(o,A.J(w,B.a2,o,B.D,B.i,0,o,B.n),B.b,o,o,m,o,o,new A.a9("lisans_"+n,y.a),o,D.Ca,o,o,o)},
+aj0(d,e){var x=null,w=d.gT(),v=A.I(999)
+return A.d(x,A.i(e,x,x,x,x,x,x,x,new A.h(d).gC().arn(d.gA(),"Manrope",B.X),x,x,x,x),B.b,x,x,new A.E(w,x,x,v,x,x,x,B.m),x,x,x,x,B.C2,x,x,x)},
+aOq(d,e,f,g,h){var x,w,v=null,u=this.d.D(0,e),t=y.a,s=A.I(999),r=u?B.vu:B.oH
 r=A.v(r,d.gG(),v,v)
 x=h?f+" \xb7 tam metin":f+" \xb7 full text"
 w=y.e
-w=A.e([A.b4(!0,v,A.L(!1,s,!0,new A.k(B.lD,A.u(A.e([r,B.cp,A.y(A.i(x,v,v,v,v,v,v,v,new A.h(d).gl_().arm(d.gG(),"Manrope",B.X),v,v,v,v),1)],w),B.I,v,B.D,B.i,0,v,v),v),v,!0,v,v,v,v,new A.a9("lisans_tam_"+e,t),v,v,v,v,v,new C.c4O(this,u,e),v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.L,v)],w)
+w=A.e([A.b4(!0,v,A.L(!1,s,!0,new A.k(B.lD,A.u(A.e([r,B.cp,A.y(A.i(x,v,v,v,v,v,v,v,new A.h(d).gl_().arn(d.gG(),"Manrope",B.X),v,v,v,v),1)],w),B.I,v,B.D,B.i,0,v,v),v),v,!0,v,v,v,v,new A.a9("lisans_tam_"+e,t),v,v,v,v,v,new C.c4O(this,u,e),v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.L,v)],w)
 if(u){s=d.gbU()
 r=A.I(14)
-w.push(A.d(v,A.dxI(B.u.aL(g),new A.a9("lisans_metin_"+e,t),new A.h(d).gm().Tz(1.35)),B.b,v,v,new A.E(s,v,v,r,v,v,v,B.m),v,v,v,v,B.fN,v,v,v))}return A.J(w,B.az,v,B.D,B.i,0,v,B.n)},
-b45(d,e){var x,w,v,u,t=null,s=this.c
+w.push(A.d(v,A.dxH(B.u.aL(g),new A.a9("lisans_metin_"+e,t),new A.h(d).gm().Tz(1.35)),B.b,v,v,new A.E(s,v,v,r,v,v,v,B.m),v,v,v,v,B.fN,v,v,v))}return A.J(w,B.az,v,B.D,B.i,0,v,B.n)},
+b46(d,e){var x,w,v,u,t=null,s=this.c
 s.toString
 s=A.aw(s,22)
 x=e?"Yaz\u0131l\u0131m ve yaz\u0131 tipleri":"Software and fonts"
@@ -119,4 +119,4 @@ D.b3P=new A.a9("lisans_flutter",y.a)
 D.b3Q=new A.a9("lisans_yazilim",y.a)
 D.b3R=new A.a9("lisanslar_back",y.a)
 D.b3S=new A.a9("lisanslar_list",y.a)})()};
-(a=>{a["JWg4gQUM1ggKmKXud1SM72WIODQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["NHYqSTdA2lndQcEbjcGZOcMMN7w="]=a.current})($__dart_deferred_initializers__);
