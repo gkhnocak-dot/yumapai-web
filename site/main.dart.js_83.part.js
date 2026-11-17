@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-IR(d){return C.e3Y(d)},
-e3Y(d){var x=0,w=A.D(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+IR(d){return C.e41(d)},
+e41(d){var x=0,w=A.D(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
 var $async$IR=A.z(function(e,f){if(e===1){u.push(f)
 x=v}for(;;)switch(x){case 0:n=A.dU(d,0,null)
 v=3
@@ -22,7 +22,7 @@ case 6:x=3
 break
 case 9:x=!t&&n.giu()==="yandexnavi"?11:12
 break
-case 11:s=D.dCX(d,$.m().o7!=="DRIVE")
+case 11:s=D.dD0(d,$.m().o7!=="DRIVE")
 x=s!=null?13:14
 break
 case 13:x=15
@@ -55,4 +55,4 @@ C=a.updateHolder(c[60],C)
 D=c[65]
 var z=a.updateTypes([])
 var y={b:A.ai("@")}};
-(a=>{a["9wizd2xBVJxWZ+YUTA651Dg8UlU="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["MkjITJpbI+gEQ831Jn7tKY0SzBc="]=a.current})($__dart_deferred_initializers__);
