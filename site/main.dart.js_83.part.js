@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-IC(d){return C.e5D(d)},
-e5D(d){var x=0,w=A.D(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+IC(d){return C.e5F(d)},
+e5F(d){var x=0,w=A.D(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
 var $async$IC=A.z(function(e,f){if(e===1){u.push(f)
 x=v}for(;;)switch(x){case 0:n=A.dU(d,0,null)
 v=3
@@ -22,7 +22,7 @@ case 6:x=3
 break
 case 9:x=!t&&n.gis()==="yandexnavi"?11:12
 break
-case 11:s=D.dEL(d,$.m().o6!=="DRIVE")
+case 11:s=D.dEM(d,$.m().o6!=="DRIVE")
 x=s!=null?13:14
 break
 case 13:x=15
@@ -55,4 +55,4 @@ C=a.updateHolder(c[61],C)
 D=c[66]
 var z=a.updateTypes([])
 var y={b:A.ai("@")}};
-(a=>{a["m7jcldplueZc7gOg1ahtN8wtg5w="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["+c0UMQfqoqiZUOp5HALR+7BvAR8="]=a.current})($__dart_deferred_initializers__);
