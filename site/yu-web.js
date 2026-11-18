@@ -84,3 +84,18 @@
     });
   }, { once: true });
 })();
+
+// Yönetim paneli (18.11.2026): bu adreste "Ana Ekrana Ekle" ayrı bir "YuMapAI Yönetim" simgesi oluşturur ve
+// simge doğrudan yönetim paneline açılır (uygulamanın kendi simgesi değişmez).
+(function () {
+  'use strict';
+  try {
+    var yol = '/yy-32cb6ba08e';
+    if (location.pathname.replace(/\/$/, '').slice(-yol.length) !== yol) return;
+    var m = document.querySelector('link[rel="manifest"]');
+    if (m) m.setAttribute('href', 'yonetim.webmanifest');
+    var t = document.querySelector('meta[name="apple-mobile-web-app-title"]');
+    if (t) t.setAttribute('content', 'YuMapAI Yönetim');
+    document.title = 'YuMapAI Yönetim';
+  } catch (e) {}
+})();
