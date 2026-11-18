@@ -31,6 +31,9 @@ RewriteCond %{HTTP:Accept-Encoding} gzip
 RewriteCond %{REQUEST_FILENAME}.gz -f
 RewriteRule ^(.+\.(?:wasm|otf))$ $1.gz [L,E=no-gzip:1]
 RewriteRule ^index\.html$ - [L]
+# Sürümlü paket ve uygulama dosyaları: eksikse sayfaya düşmez, 404 döner (yarım yüklemede tarayıcı HTML'i JS diye kalıcı saklamasın)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(yu-release|assets|canvaskit|icons|maplibre|ff-fonts)/ - [R=404,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.html [L]

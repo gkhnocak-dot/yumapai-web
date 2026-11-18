@@ -87,7 +87,7 @@
 
 // Yönetim paneli (18.11.2026): bu adreste "Ana Ekrana Ekle" ayrı bir "YuMapAI Yönetim" simgesi oluşturur ve
 // simge doğrudan yönetim paneline açılır (uygulamanın kendi simgesi değişmez). Giriş ekranına yönlenirken (yu_next)
-// ve uygulama içi geçişlerde de güncel tutulur.
+// ve uygulama içi geçişlerde de güncel tutulur (Sürüm 43).
 (function () {
   'use strict';
   var yol = '/yy-32cb6ba08e';
