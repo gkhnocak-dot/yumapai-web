@@ -86,16 +86,32 @@
 })();
 
 // Yönetim paneli (18.11.2026): bu adreste "Ana Ekrana Ekle" ayrı bir "YuMapAI Yönetim" simgesi oluşturur ve
-// simge doğrudan yönetim paneline açılır (uygulamanın kendi simgesi değişmez).
+// simge doğrudan yönetim paneline açılır (uygulamanın kendi simgesi değişmez). Giriş ekranına yönlenirken (yu_next)
+// ve uygulama içi geçişlerde de güncel tutulur.
 (function () {
   'use strict';
+  var yol = '/yy-32cb6ba08e';
+  function yonetimde() {
+    try {
+      if (location.pathname.replace(/\/$/, '').slice(-yol.length) === yol) return true;
+      return (new URLSearchParams(location.search).get('yu_next') || '').indexOf(yol) === 0;
+    } catch (e) { return false; }
+  }
+  function guncelle() {
+    try {
+      var y = yonetimde();
+      var m = document.querySelector('link[rel="manifest"]');
+      if (m) m.setAttribute('href', y ? 'yonetim.webmanifest' : 'manifest.json');
+      var t = document.querySelector('meta[name="apple-mobile-web-app-title"]');
+      if (t) t.setAttribute('content', y ? 'YuMapAI Yönetim' : 'YuMapAI');
+    } catch (e) {}
+  }
   try {
-    var yol = '/yy-32cb6ba08e';
-    if (location.pathname.replace(/\/$/, '').slice(-yol.length) !== yol) return;
-    var m = document.querySelector('link[rel="manifest"]');
-    if (m) m.setAttribute('href', 'yonetim.webmanifest');
-    var t = document.querySelector('meta[name="apple-mobile-web-app-title"]');
-    if (t) t.setAttribute('content', 'YuMapAI Yönetim');
-    document.title = 'YuMapAI Yönetim';
+    ['pushState', 'replaceState'].forEach(function (k) {
+      var asil = history[k];
+      history[k] = function () { var r = asil.apply(this, arguments); guncelle(); return r; };
+    });
+    window.addEventListener('popstate', guncelle);
   } catch (e) {}
+  guncelle();
 })();
