@@ -126,7 +126,7 @@ case 28:o=b7
 if(!J.E(J.G(o,"ok"),!0)){a9=B.p3(J.G(o,"code"))
 v=a9
 x=1
-break}if(J.E(J.G(o,"replayed"),!0)&&!D.Vv.D(0,A.L(J.G(o,"status")))){v="biz.err.closed"
+break}if(J.E(J.G(o,"replayed"),!0)&&!D.Vw.D(0,A.L(J.G(o,"status")))){v="biz.err.closed"
 x=1
 break}a9=$.m()
 new B.d15().$0()
@@ -159,7 +159,7 @@ case 30:n=b7
 if(!J.E(J.G(n,"ok"),!0)){a9=B.p3(J.G(n,"code"))
 v=a9
 x=1
-break}if(J.E(J.G(n,"replayed"),!0)&&!D.Vv.D(0,A.L(J.G(n,"status")))){v="biz.err.closed"
+break}if(J.E(J.G(n,"replayed"),!0)&&!D.Vw.D(0,A.L(J.G(n,"status")))){v="biz.err.closed"
 x=1
 break}a9=$.m()
 new B.d16().$0()
@@ -345,7 +345,11 @@ case 2:return A.A(t.at(-1),w)}})
 return A.C($async$d1g,w)},
 p3(d){var x=A.IZ(d)
 if(x!=null)return x
-switch(A.L(d)){case"PLACE_NOT_CLAIMABLE":case"CATEGORY_NOT_CLAIMABLE":case"MARKET_NOT_ACTIVE":case"OWNERSHIP_DISABLED":case"PLACE_NOT_FOUND":case"CLAIM_NOT_ALLOWED":return"biz.err.notEligible"
+switch(A.L(d)){case"PLACE_NOT_CLAIMABLE":case"CATEGORY_NOT_CLAIMABLE":case"MARKET_NOT_ACTIVE":case"OWNERSHIP_DISABLED":case"PLACE_NOT_FOUND":return"biz.err.notEligible"
+case"CLAIM_NOT_ALLOWED":return"biz.err.account"
+case"FIELD_NOT_ALLOWED":return"biz.err.fieldNotAllowed"
+case"NOT_FOUND":return"biz.err.notFound"
+case"TRANSITION_NOT_ALLOWED":return"biz.err.transition"
 case"DUPLICATE_CLAIM":case"DUPLICATE_DOCUMENT":return"biz.err.duplicate"
 case"TOO_MANY_OPEN_CLAIMS":case"EVIDENCE_LIMIT":return"biz.err.tooMany"
 case"ALREADY_AUTHORIZED":return"biz.err.alreadyYours"
@@ -398,7 +402,7 @@ if(n&&J.E(p.i(0,"kind"),"PLACE_NOT_FOUND")&&p.i(0,"placeId")==null)g=$.m().x!=="
 n=A.L(p.i(0,"claimId"))
 h=p.i(0,"placeName")
 h=A.L(h==null?"":h)
-f=($.m().x!=="en"?D.aMP:D.aMQ).i(0,o)
+f=($.m().x!=="en"?D.aMQ:D.aMR).i(0,o)
 if(f==null)f=o
 if(J.E(p.i(0,"role"),"MANAGER"))e=$.m().x!=="en"?"Y\xf6netici ba\u015fvurusu":"Manager application"
 else e=$.m().x!=="en"?"Sahip ba\u015fvurusu":"Owner application"
@@ -571,7 +575,7 @@ s=o.a(j.i(0,"hours"))
 i=A.bh(s==null?A.T(r,r):s,t,r)
 if(i.a===0)h=$.m().x!=="en"?"Saat bilgisi yok.":"No hours yet."
 else{s=A.e([],y.s)
-for(g=1;g<=7;++g){r=($.m().x!=="en"?C.Gj:C.Fm)[g]
+for(g=1;g<=7;++g){r=($.m().x!=="en"?C.Gk:C.Fn)[g]
 o=i.i(0,""+g)
 if(o==null)o=$.m().x!=="en"?"kapal\u0131":"closed"
 s.push(r+" "+A.L(o))}h=C.q.b2(s," \xb7 ")}s=$.m().x!=="en"
@@ -660,7 +664,7 @@ J=c[1]
 A=c[0]
 C=c[2]
 B=a.updateHolder(c[61],B)
-D=c[158]
+D=c[159]
 B.zb.prototype={
 fd(){var x=this
 return A.aR(A.f(["claimId",A.a1(x.a,C.A,!1),"placeName",A.a1(x.b,C.A,!1),"status",A.a1(x.c,C.A,!1),"statusLabel",A.a1(x.d,C.A,!1),"roleLabel",A.a1(x.e,C.A,!1),"note",A.a1(x.f,C.A,!1),"evidenceText",A.a1(x.r,C.A,!1),"canEvidence",A.a1(x.w,C.az,!1),"canWithdraw",A.a1(x.x,C.az,!1),"tokenText",A.a1(x.y,C.A,!1),"tokenUrl",A.a1(x.z,C.A,!1),"tokenEvidenceId",A.a1(x.Q,C.A,!1)],y.N,y.T))},
@@ -804,7 +808,7 @@ $1(d){var x,w,v=J.ai(d),u=A.L(v.i(d,"kind"))
 v=A.L(v.i(d,"status"))
 if(u==="WEBSITE_TOKEN"){u=$.m()
 x=u.x!=="en"?"Web sitesi":"Website"}else{u=$.m()
-x=u.x!=="en"?"Belge":"Document"}w=(u.x!=="en"?D.aN_:D.aMZ).i(0,v)
+x=u.x!=="en"?"Belge":"Document"}w=(u.x!=="en"?D.aN0:D.aN_).i(0,v)
 v=w==null?v:w
 return x+": "+v},
 $S:1229}
@@ -927,13 +931,13 @@ m=A.e([],m)
 w=u.a(v.i(x,a8))
 w=J.bc(w==null?C.V:w)
 while(w.H()){a0=w.ga2(w)
-r=$.m().x!=="en"?D.aOP:D.aOQ
+r=$.m().x!=="en"?D.aOQ:D.aOR
 p.a(a0)
 q=J.ai(a0)
 r=r.i(0,A.L(q.i(a0,"field")))
 r=A.L(r==null?q.i(a0,"field"):r)
 o=A.L(s.$1(q.i(a0,"at")))
-n=$.m().x!=="en"?D.aOU:D.aOT
+n=$.m().x!=="en"?D.aOV:D.aOU
 n=n.i(0,A.L(q.i(a0,a2)))
 m.push(new B.lE(r+" \xb7 "+o,A.L(n==null?q.i(a0,a2):n)))}w=u.a(v.i(x,a8))
 if(J.d8(w==null?C.V:w))m.push(new B.lE($.m().x!=="en"?"Hen\xfcz de\u011fi\u015fiklik yok.":"No changes yet.",""))
@@ -975,24 +979,24 @@ x(A.di,[B.dft,B.d0V,B.d14,B.d15,B.d16,B.d17,B.d18,B.d1h,B.d11,B.d1j,B.d1k,B.d1a,
 x(A.d9,[B.d13,B.d19,B.d12,B.d0W,B.d0X,B.d0Y,B.d0Z,B.d1_,B.d10,B.d1e,B.d1d])})()
 A.dg(b.typeUniverse,JSON.parse('{"zb":{"dA":[]},"lE":{"dA":[]},"pk":{"dA":[]},"of":{"dA":[]}}'))
 var y=(function rtii(){var x=A.ah
-return{w:x("aO<O,O>"),u:x("Q<zb>"),y:x("Q<lE>"),U:x("Q<pk>"),R:x("Q<of>"),s:x("Q<O>"),P:x("aA<O,@>"),f:x("aA<@,@>"),K:x("ag"),N:x("O"),z:x("@"),g:x("ab<@>?"),Y:x("aA<@,@>?"),X:x("ag?"),T:x("O?"),H:x("~")}})();(function constants(){D.QT={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2,APPROVED:3,REJECTED:4,WITHDRAWN:5,EXPIRED:6}
-D.aMP=new A.aO(D.QT,["Belge bekleniyor","\u0130nceleniyor","Ek belge gerekli","Onayland\u0131","Reddedildi","Geri \xe7ekildi","S\xfcresi doldu"],y.w)
-D.aMQ=new A.aO(D.QT,["Waiting for a document","In review","More evidence needed","Approved","Rejected","Withdrawn","Expired"],y.w)
-D.QU={PENDING_UPLOAD:0,SUBMITTED:1,ACCEPTED:2,REJECTED:3,FAILED:4,PURGED:5}
-D.aMZ=new A.aO(D.QU,["uploading","in review","accepted","not accepted","invalid","retention ended"],y.w)
-D.aN_=new A.aO(D.QU,["y\xfckleniyor","incelemede","kabul edildi","kabul edilmedi","ge\xe7ersiz","saklama s\xfcresi doldu"],y.w)
-D.QS={hours:0,"contact.phone":1,"contact.website":2,"description.tr":3,"description.en":4,"name.primary":5,category:6,address:7,location:8}
-D.aOP=new A.aO(D.QS,["\xc7al\u0131\u015fma saatleri","Telefon","Web sitesi","A\xe7\u0131klama (TR)","A\xe7\u0131klama (EN)","Mek\xe2n ad\u0131","Kategori","Adres","Konum"],y.w)
-D.aOQ=new A.aO(D.QS,["Opening hours","Phone","Website","Description (TR)","Description (EN)","Place name","Category","Address","Location"],y.w)
-D.QV={APPLIED:0,PENDING_REVIEW:1,APPROVED:2,REJECTED:3,WITHDRAWN:4,SUPERSEDED:5}
-D.aOT=new A.aO(D.QV,["Live","In review","Approved","Rejected","Withdrawn","Replaced"],y.w)
-D.aOU=new A.aO(D.QV,["Yay\u0131nda","\u0130ncelemede","Onayland\u0131","Reddedildi","Geri \xe7ekildi","Yenisiyle de\u011fi\u015fti"],y.w)
-D.aQv={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2}
-D.Vv=new A.dB(D.aQv,3,A.ah("dB<O>"))})();(function staticFields(){$.dAt=function(){var x=y.N
+return{w:x("aM<O,O>"),u:x("Q<zb>"),y:x("Q<lE>"),U:x("Q<pk>"),R:x("Q<of>"),s:x("Q<O>"),P:x("aA<O,@>"),f:x("aA<@,@>"),K:x("ag"),N:x("O"),z:x("@"),g:x("ab<@>?"),Y:x("aA<@,@>?"),X:x("ag?"),T:x("O?"),H:x("~")}})();(function constants(){D.QU={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2,APPROVED:3,REJECTED:4,WITHDRAWN:5,EXPIRED:6}
+D.aMQ=new A.aM(D.QU,["Belge bekleniyor","\u0130nceleniyor","Ek belge gerekli","Onayland\u0131","Reddedildi","Geri \xe7ekildi","S\xfcresi doldu"],y.w)
+D.aMR=new A.aM(D.QU,["Waiting for a document","In review","More evidence needed","Approved","Rejected","Withdrawn","Expired"],y.w)
+D.QV={PENDING_UPLOAD:0,SUBMITTED:1,ACCEPTED:2,REJECTED:3,FAILED:4,PURGED:5}
+D.aN_=new A.aM(D.QV,["uploading","in review","accepted","not accepted","invalid","retention ended"],y.w)
+D.aN0=new A.aM(D.QV,["y\xfckleniyor","incelemede","kabul edildi","kabul edilmedi","ge\xe7ersiz","saklama s\xfcresi doldu"],y.w)
+D.QT={hours:0,"contact.phone":1,"contact.website":2,"description.tr":3,"description.en":4,"name.primary":5,category:6,address:7,location:8}
+D.aOQ=new A.aM(D.QT,["\xc7al\u0131\u015fma saatleri","Telefon","Web sitesi","A\xe7\u0131klama (TR)","A\xe7\u0131klama (EN)","Mek\xe2n ad\u0131","Kategori","Adres","Konum"],y.w)
+D.aOR=new A.aM(D.QT,["Opening hours","Phone","Website","Description (TR)","Description (EN)","Place name","Category","Address","Location"],y.w)
+D.QW={APPLIED:0,PENDING_REVIEW:1,APPROVED:2,REJECTED:3,WITHDRAWN:4,SUPERSEDED:5}
+D.aOU=new A.aM(D.QW,["Live","In review","Approved","Rejected","Withdrawn","Replaced"],y.w)
+D.aOV=new A.aM(D.QW,["Yay\u0131nda","\u0130ncelemede","Onayland\u0131","Reddedildi","Geri \xe7ekildi","Yenisiyle de\u011fi\u015fti"],y.w)
+D.aQw={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2}
+D.Vw=new A.dB(D.aQw,3,A.ah("dB<O>"))})();(function staticFields(){$.dAt=function(){var x=y.N
 return A.T(x,x)}()
 $.IA=function(){var x=y.N
 return A.T(x,x)}()
 $.aEG=function(){var x=y.N
 return A.T(x,x)}()})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"efc","dGN",()=>A.b13())})()};
-(a=>{a["gqhZmu2VZ6RR+aNZD2MoDJIzmw4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ECWM2M6NT1cgWQZxiEbQEir1sZQ="]=a.current})($__dart_deferred_initializers__);

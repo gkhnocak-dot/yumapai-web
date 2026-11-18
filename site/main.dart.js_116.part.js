@@ -14,8 +14,8 @@ this.b=e},rx:function rx(d,e,f){this.a=d
 this.b=e
 this.c=f},
 dmo(d){var x,w=d==null
-if(D.Qq.i(0,w?"":A.L(d))==null)w=""
-else{x=D.Qq.i(0,w?"":A.L(d))
+if(D.Qr.i(0,w?"":A.L(d))==null)w=""
+else{x=D.Qr.i(0,w?"":A.L(d))
 x.toString
 w=$.m().x!=="en"?x[0]:x[1]}return w},
 Iw(d,e){var x=0,w=A.D(y.P),v,u
@@ -106,8 +106,8 @@ x=p.i(d,"suggestionId")
 x=x==null?"":A.L(x)
 p=p.i(d,"name")
 p=p==null?"":A.L(p)
-if(D.Qt.i(0,n)==null)w=""
-else{w=D.Qt.i(0,n)
+if(D.Qu.i(0,n)==null)w=""
+else{w=D.Qu.i(0,n)
 w.toString
 w=$.m().x!=="en"?w[0]:w[1]}if(r.length!==0)v=n==="ACCEPTED"||n==="ALREADY_EXISTS"
 else v=!1
@@ -550,9 +550,9 @@ return x}},D
 J=c[1]
 A=c[0]
 B=c[2]
-E=c[133]
+E=c[134]
 C=a.updateHolder(c[39],C)
-D=c[132]
+D=c[133]
 C.uY.prototype={
 fd(){var x=this
 return A.aR(A.f(["id",A.a1(x.a,B.A,!1),"name",A.a1(x.b,B.A,!1),"meta",A.a1(x.c,B.A,!1),"status",A.a1(x.d,B.A,!1),"statusLabel",A.a1(x.e,B.A,!1),"note",A.a1(x.f,B.A,!1),"placeId",A.a1(x.r,B.A,!1),"canOpen",A.a1(x.w,B.az,!1),"canEdit",A.a1(x.x,B.az,!1),"canWithdraw",A.a1(x.y,B.az,!1)],y.N,y.T))},
@@ -701,7 +701,7 @@ s=A.y(A.J(A.e([u,B.cf,t,B.cf,A.i(s,p,p,p,p,p,p,p,new A.h(x).gm().c8(x.gn()),p,p,
 u=w?"Konumu kald\u0131r":"Remove location"
 t=A.I(999)
 q=$.vB!=null?p:new C.c6v()
-return new A.j(B.lK,A.d(p,A.u(A.e([v,B.bI,s,A.b3(!0,p,A.M(!1,t,!0,new A.q(44,44,A.v(B.bg,x.gn(),p,20),p),p,!0,p,p,p,p,D.b4T,p,p,p,p,p,q,p,p,p,p),!1,p,p,p,p,!1,p,!1,p,p,p,p,p,p,p,p,p,p,p,u,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.L,p)],r),B.H,p,B.D,B.i,0,p,p),B.b,p,p,o,p,p,D.b4U,p,D.a6f,p,p,p),p)},
+return new A.j(B.lK,A.d(p,A.u(A.e([v,B.bI,s,A.b3(!0,p,A.M(!1,t,!0,new A.q(44,44,A.v(B.bg,x.gn(),p,20),p),p,!0,p,p,p,p,D.b4V,p,p,p,p,p,q,p,p,p,p),!1,p,p,p,p,!1,p,!1,p,p,p,p,p,p,p,p,p,p,p,u,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.L,p)],r),B.H,p,B.D,B.i,0,p,p),B.b,p,p,o,p,p,D.b4W,p,D.a6g,p,p,p),p)},
 P(d){var x,w,v,u,t,s,r,q,p,o,n,m=this,l=null
 A.db(d,!0,y.V)
 x=(A.a(d).ax.a===B.a?A.b():A.c()).gbU()
@@ -733,7 +733,7 @@ q.push(new A.H(new C.c7B(m),l))
 q.push(new A.H(new C.c7C(m),l))
 q.push(new A.H(new C.c7D(m),l))
 q.push(new A.H(new C.c7E(m),l))
-return A.bl(l,A.d7(l,x,A.c1(!0,A.d(new A.x(0,-1),A.d(l,A.J(A.e([t,A.y(A.cG(A.J(q,r,l,s,B.o,0,B.e,B.n),l,l,l,l,B.J),1)],o),u,l,v,B.o,0,B.e,B.n),B.b,l,new A.aM(0,w,0,1/0),l,l,1/0,l,l,l,l,l,1/0),B.b,l,l,l,l,1/0,l,l,l,l,l,1/0),!0,B.I,!0,!0),l,m.e,l),B.M,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new C.c7F(d),l,l,l,l,l,l,!1,B.P)}}
+return A.bl(l,A.d7(l,x,A.c1(!0,A.d(new A.x(0,-1),A.d(l,A.J(A.e([t,A.y(A.cG(A.J(q,r,l,s,B.o,0,B.e,B.n),l,l,l,l,B.J),1)],o),u,l,v,B.o,0,B.e,B.n),B.b,l,new A.aN(0,w,0,1/0),l,l,1/0,l,l,l,l,l,1/0),B.b,l,l,l,l,1/0,l,l,l,l,l,1/0),!0,B.I,!0,!0),l,m.e,l),B.M,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new C.c7F(d),l,l,l,l,l,l,!1,B.P)}}
 var z=a.updateTypes(["F9()","uY(aA<O,@>)"])
 C.d_O.prototype={
 $0(){return C.d_M(this.a,this.b)},
@@ -939,7 +939,7 @@ $S:56}
 C.dhg.prototype={
 $0(){var x=$.m(),w=this.a.a
 if(w==="OK")w=""
-else{w=D.aOS.i(0,w)
+else{w=D.aOT.i(0,w)
 if(w==null)w=A.e(["\u0130\u015flem tamamlanamad\u0131; tekrar dene.","That did not work; please try again."],y.s)
 w=$.m().x!=="en"?w[0]:w[1]}return x.MP=w},
 $S:0}
@@ -999,7 +999,7 @@ else{x=A.az(d,22)
 w=A.p(B.h)
 v=A.o(B.k)
 u=A.a(d).ax.a===B.a?A.b():A.c()
-u=A.v(B.aw,u.gj(u),r,20)
+u=A.v(B.at,u.gj(u),r,20)
 t=$.m().MP
 s=new A.h(A.a(d).ax.a===B.a?A.b():A.c()).gaa()
 return new A.j(new A.l(16,10,16,0),A.d(r,A.d(r,new A.j(new A.Z(14,14,14,14),A.u(A.r(A.e([u,A.y(A.i(t,r,r,r,r,r,r,r,A.k(s,(A.a(d).ax.a===B.a?A.b():A.c()).gA(),"Manrope",r,r,0,r),r,r,r,r),1)],y.p),new A.q(10,r,r,r)),v,r,w,B.i,0,B.e,r),r),B.b,r,r,x,r,r,r,r,r,r,r,r),B.b,r,r,r,r,r,r,r,r,r,r,r),r)}},
@@ -1132,7 +1132,7 @@ return new A.j(new A.l(16,12,16,0),A.d(r,A.d(r,new A.j(new A.Z(14,14,14,14),A.u(
 $S:3}
 C.c7m.prototype={
 $1(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=null,i="Manrope",h=$.m().MQ
-if(h.length===0)return B.au
+if(h.length===0)return B.av
 x=y.L
 if(h==="FOUND"){h=A.p(B.h)
 w=A.o(B.v)
@@ -1383,7 +1383,7 @@ s=s.h("i18n_suggest_f_category")
 o=new A.h(A.a(b5).ax.a===B.a?A.b():A.c()).gG()
 s=A.d(b3,new A.j(new A.l(16,12,16,0),A.J(A.r(A.e([A.i(s,b3,b3,b3,b3,b3,b3,b3,A.k(o,(A.a(b5).ax.a===B.a?A.b():A.c()).gn(),b4,b3,b3,0,b3),b3,b3,b3,b3)],p),new A.q(b3,10,b3,b3)),r,b3,q,B.o,0,B.e,B.n),b3),B.b,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3)
 r=A.e([],y.u)
-for(q=y.a,o=y.d,m=y.w,h=0;h<6;++h){g=D.aIH[h]
+for(q=y.a,o=y.d,m=y.w,h=0;h<6;++h){g=D.aII[h]
 l=$.m().zt===g[0]?A.c2(b5).eH():A.V(b5,b3,b3,999)
 k=g[0]
 f=b5.bc(m)
@@ -2075,54 +2075,54 @@ w(C.ul,A.ad)
 w(C.avX,A.aj)})()
 A.dg(b.typeUniverse,JSON.parse('{"uY":{"dA":[]},"mK":{"dA":[]},"rx":{"dA":[]},"F9":{"b6":["ul"],"b6.W":"ul"},"ul":{"ad":[],"N":[]},"avX":{"aj":["ul"]}}'))
 var y=(function rtii(){var x=A.ah
-return{M:x("aO<O,ab<O>>"),V:x("d2"),L:x("dt"),j:x("aC<O>"),g:x("Q<H>"),e:x("Q<iT>"),k:x("Q<hL>"),K:x("Q<eC>"),u:x("Q<hP>"),t:x("Q<aA<O,@>>"),D:x("Q<f8>"),a:x("Q<aH>"),s:x("Q<O>"),x:x("Q<mK>"),A:x("Q<rx>"),b:x("Q<cg>"),p:x("Q<N>"),G:x("aW<dY>"),P:x("aA<O,@>"),f:x("aA<@,@>"),F:x("F9"),C:x("ag"),N:x("O"),O:x("a9<O>"),U:x("aq<O>"),w:x("OK"),z:x("@"),d:x("dt?"),Q:x("ab<@>?"),Y:x("aA<@,@>?"),X:x("ag?"),T:x("O?"),H:x("~")}})();(function constants(){var x=a.makeConstList
-D.a6f=new A.Z(14,12,4,12)
-D.ahk=x(["CAFE","i18n_suggest_cat_cafe"],y.s)
-D.adH=x(["RESTAURANT","i18n_suggest_cat_restaurant"],y.s)
-D.aiV=x(["HOTEL","i18n_suggest_cat_hotel"],y.s)
-D.an2=x(["SIGHT","i18n_suggest_cat_sight"],y.s)
-D.aoA=x(["ACTIVITY","i18n_suggest_cat_activity"],y.s)
-D.ay_=x(["SHOPPING","i18n_suggest_cat_shopping"],y.s)
-D.aIH=x([D.ahk,D.adH,D.aiV,D.an2,D.aoA,D.ay_],A.ah("Q<ab<O>>"))
-D.aEg=x(["Kafe","Caf\xe9"],y.s)
-D.apq=x(["Gezilecek yer","Sight"],y.s)
-D.Qq=new A.aO(B.mx,[D.aEg,B.HA,B.GD,D.apq,B.FB,B.I9],y.M)
-D.aPs={IN_REVIEW:0,NEEDS_INFO:1,ACCEPTED:2,ALREADY_EXISTS:3,REJECTED:4}
-D.azT=x(["\u0130nceleniyor","In review"],y.s)
-D.azm=x(["Ek bilgi gerekli","More details needed"],y.s)
-D.ah4=x(["Kabul edildi","Accepted"],y.s)
-D.ake=x(["Zaten YuMapAI'da","Already on YuMapAI"],y.s)
-D.aGD=x(["Uygun bulunmad\u0131","Not accepted"],y.s)
-D.Qt=new A.aO(D.aPs,[D.azT,D.azm,D.ah4,D.ake,D.aGD],y.M)
-D.aQc={NOT_AUTHENTICATED:0,ACCOUNT_NOT_ALLOWED:1,SUGGESTIONS_NOT_AVAILABLE:2,NAME_REQUIRED:3,INVALID_LOCATION:4,IN_PROGRESS:5,NAME_TOO_LONG:6,CATEGORY_REQUIRED:7,PROVINCE_REQUIRED:8,DISTRICT_REQUIRED:9,ADDRESS_REQUIRED:10,POSTAL_CODE_INVALID:11,PHONE_INVALID:12,WEBSITE_INVALID:13,GOOGLE_SOURCE_NOT_ALLOWED:14,PRIVATE_RESIDENCE_NOT_ALLOWED:15,DECLARATION_REQUIRED:16,TEXT_TOO_LONG:17,CONTENT_NOT_ALLOWED:18,TOO_MANY_OPEN_SUGGESTIONS:19,SUGGESTION_ALREADY_PENDING:20,RATE_LIMITED:21,TRANSITION_NOT_ALLOWED:22,NOT_FOUND:23,TIMEOUT:24,NETWORK:25}
-D.asy=x(["Bu hesapla mek\xe2n \xf6nerilemiyor.","Places cannot be suggested with this account."],y.s)
-D.aB3=x(["Mek\xe2n \xf6nerileri \u015fu an kapal\u0131.","Place suggestions are closed right now."],y.s)
-D.apO=x(["Mek\xe2n\u0131n ad\u0131n\u0131 yaz.","Write the place name."],y.s)
-D.azg=x(["Se\xe7ilen konum ge\xe7ersiz. Haritadan yeniden se\xe7.","The selected location is invalid. Choose it again on the map."],y.s)
-D.auf=x(["\xd6nerin g\xf6nderiliyor. L\xfctfen bekle.","Your suggestion is being sent. Please wait."],y.s)
-D.aAA=x(["Mek\xe2n\u0131n ad\u0131 \xe7ok uzun.","The place name is too long."],y.s)
-D.ahX=x(["Bir kategori se\xe7.","Choose a category."],y.s)
-D.agj=x(["\u0130li kontrol et (\xf6r. \u0130zmir).","Check the province (e.g. \u0130zmir)."],y.s)
-D.an0=x(["\u0130l\xe7eyi yaz.","Write the district."],y.s)
-D.acL=x(["Cadde ya da soka\u011f\u0131 yaz.","Write the street."],y.s)
-D.arm=x(["Posta kodu 5 rakam olmal\u0131.","The postal code must be 5 digits."],y.s)
-D.auv=x(["Telefon numaras\u0131n\u0131 kontrol et.","Check the phone number."],y.s)
-D.amJ=x(["Web sitesini https:// ile ba\u015flayan tam adres olarak yaz.","Write the full website address starting with https://."],y.s)
-D.aeQ=x(["Ba\u015fka bir haritadan (\xf6r. Google Haritalar) kopyalanm\u0131\u015f ba\u011flant\u0131 ya da bilgi kabul edilmez.","Links or details copied from another map (e.g. Google Maps) are not accepted."],y.s)
-D.adO=x(["Yaln\u0131zca i\u015fletmeler ve herkese a\xe7\u0131k yerler \xf6nerilebilir; \xf6zel konutlar \xf6nerilemez.","Only businesses and public places can be suggested, not private homes."],y.s)
-D.ae1=x(["G\xf6ndermeden \xf6nce bunun \xf6zel bir konut olmad\u0131\u011f\u0131n\u0131 onayla.","Confirm that this is not a private home before sending."],y.s)
-D.asB=x(["Metin \xe7ok uzun.","The text is too long."],y.s)
-D.agm=x(["Bu metin topluluk kurallar\u0131na uymuyor.","This text does not follow the community rules."],y.s)
-D.aEh=x(["\u0130ncelemede \xe7ok say\u0131da \xf6nerin var; sonu\xe7lanmalar\u0131n\u0131 bekle.","You have many suggestions in review; wait for them first."],y.s)
-D.avQ=x(["Bu mek\xe2n\u0131 zaten \xf6nerdin; inceleniyor.","You already suggested this place; it is in review."],y.s)
-D.akk=x(["Bug\xfcn yeterince \xf6neri g\xf6nderdin; yar\u0131n tekrar deneyebilirsin.","You sent enough suggestions today; try again tomorrow."],y.s)
-D.aOS=new A.aO(D.aQc,[E.Ed,D.asy,D.aB3,D.apO,D.azg,D.auf,D.aAA,D.ahX,D.agj,D.an0,D.acL,D.arm,D.auv,D.amJ,D.aeQ,D.adO,D.ae1,D.asB,D.agm,D.aEh,D.avQ,D.akk,E.Ev,E.EV,E.EX,E.F7],y.M)
+return{M:x("aM<O,ab<O>>"),V:x("d2"),L:x("dt"),j:x("aC<O>"),g:x("Q<H>"),e:x("Q<iT>"),k:x("Q<hL>"),K:x("Q<eC>"),u:x("Q<hP>"),t:x("Q<aA<O,@>>"),D:x("Q<f8>"),a:x("Q<aH>"),s:x("Q<O>"),x:x("Q<mK>"),A:x("Q<rx>"),b:x("Q<cg>"),p:x("Q<N>"),G:x("aW<dY>"),P:x("aA<O,@>"),f:x("aA<@,@>"),F:x("F9"),C:x("ag"),N:x("O"),O:x("a9<O>"),U:x("aq<O>"),w:x("OK"),z:x("@"),d:x("dt?"),Q:x("ab<@>?"),Y:x("aA<@,@>?"),X:x("ag?"),T:x("O?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+D.a6g=new A.Z(14,12,4,12)
+D.ahl=x(["CAFE","i18n_suggest_cat_cafe"],y.s)
+D.adI=x(["RESTAURANT","i18n_suggest_cat_restaurant"],y.s)
+D.aiW=x(["HOTEL","i18n_suggest_cat_hotel"],y.s)
+D.an3=x(["SIGHT","i18n_suggest_cat_sight"],y.s)
+D.aoB=x(["ACTIVITY","i18n_suggest_cat_activity"],y.s)
+D.ay0=x(["SHOPPING","i18n_suggest_cat_shopping"],y.s)
+D.aII=x([D.ahl,D.adI,D.aiW,D.an3,D.aoB,D.ay0],A.ah("Q<ab<O>>"))
+D.aEh=x(["Kafe","Caf\xe9"],y.s)
+D.apr=x(["Gezilecek yer","Sight"],y.s)
+D.Qr=new A.aM(B.mx,[D.aEh,B.HB,B.GE,D.apr,B.FC,B.Ia],y.M)
+D.aPt={IN_REVIEW:0,NEEDS_INFO:1,ACCEPTED:2,ALREADY_EXISTS:3,REJECTED:4}
+D.azU=x(["\u0130nceleniyor","In review"],y.s)
+D.azn=x(["Ek bilgi gerekli","More details needed"],y.s)
+D.ah5=x(["Kabul edildi","Accepted"],y.s)
+D.akf=x(["Zaten YuMapAI'da","Already on YuMapAI"],y.s)
+D.aGE=x(["Uygun bulunmad\u0131","Not accepted"],y.s)
+D.Qu=new A.aM(D.aPt,[D.azU,D.azn,D.ah5,D.akf,D.aGE],y.M)
+D.aQd={NOT_AUTHENTICATED:0,ACCOUNT_NOT_ALLOWED:1,SUGGESTIONS_NOT_AVAILABLE:2,NAME_REQUIRED:3,INVALID_LOCATION:4,IN_PROGRESS:5,NAME_TOO_LONG:6,CATEGORY_REQUIRED:7,PROVINCE_REQUIRED:8,DISTRICT_REQUIRED:9,ADDRESS_REQUIRED:10,POSTAL_CODE_INVALID:11,PHONE_INVALID:12,WEBSITE_INVALID:13,GOOGLE_SOURCE_NOT_ALLOWED:14,PRIVATE_RESIDENCE_NOT_ALLOWED:15,DECLARATION_REQUIRED:16,TEXT_TOO_LONG:17,CONTENT_NOT_ALLOWED:18,TOO_MANY_OPEN_SUGGESTIONS:19,SUGGESTION_ALREADY_PENDING:20,RATE_LIMITED:21,TRANSITION_NOT_ALLOWED:22,NOT_FOUND:23,TIMEOUT:24,NETWORK:25}
+D.asz=x(["Bu hesapla mek\xe2n \xf6nerilemiyor.","Places cannot be suggested with this account."],y.s)
+D.aB4=x(["Mek\xe2n \xf6nerileri \u015fu an kapal\u0131.","Place suggestions are closed right now."],y.s)
+D.apP=x(["Mek\xe2n\u0131n ad\u0131n\u0131 yaz.","Write the place name."],y.s)
+D.azh=x(["Se\xe7ilen konum ge\xe7ersiz. Haritadan yeniden se\xe7.","The selected location is invalid. Choose it again on the map."],y.s)
+D.aug=x(["\xd6nerin g\xf6nderiliyor. L\xfctfen bekle.","Your suggestion is being sent. Please wait."],y.s)
+D.aAB=x(["Mek\xe2n\u0131n ad\u0131 \xe7ok uzun.","The place name is too long."],y.s)
+D.ahY=x(["Bir kategori se\xe7.","Choose a category."],y.s)
+D.agk=x(["\u0130li kontrol et (\xf6r. \u0130zmir).","Check the province (e.g. \u0130zmir)."],y.s)
+D.an1=x(["\u0130l\xe7eyi yaz.","Write the district."],y.s)
+D.acM=x(["Cadde ya da soka\u011f\u0131 yaz.","Write the street."],y.s)
+D.arn=x(["Posta kodu 5 rakam olmal\u0131.","The postal code must be 5 digits."],y.s)
+D.auw=x(["Telefon numaras\u0131n\u0131 kontrol et.","Check the phone number."],y.s)
+D.amK=x(["Web sitesini https:// ile ba\u015flayan tam adres olarak yaz.","Write the full website address starting with https://."],y.s)
+D.aeR=x(["Ba\u015fka bir haritadan (\xf6r. Google Haritalar) kopyalanm\u0131\u015f ba\u011flant\u0131 ya da bilgi kabul edilmez.","Links or details copied from another map (e.g. Google Maps) are not accepted."],y.s)
+D.adP=x(["Yaln\u0131zca i\u015fletmeler ve herkese a\xe7\u0131k yerler \xf6nerilebilir; \xf6zel konutlar \xf6nerilemez.","Only businesses and public places can be suggested, not private homes."],y.s)
+D.ae2=x(["G\xf6ndermeden \xf6nce bunun \xf6zel bir konut olmad\u0131\u011f\u0131n\u0131 onayla.","Confirm that this is not a private home before sending."],y.s)
+D.asC=x(["Metin \xe7ok uzun.","The text is too long."],y.s)
+D.agn=x(["Bu metin topluluk kurallar\u0131na uymuyor.","This text does not follow the community rules."],y.s)
+D.aEi=x(["\u0130ncelemede \xe7ok say\u0131da \xf6nerin var; sonu\xe7lanmalar\u0131n\u0131 bekle.","You have many suggestions in review; wait for them first."],y.s)
+D.avR=x(["Bu mek\xe2n\u0131 zaten \xf6nerdin; inceleniyor.","You already suggested this place; it is in review."],y.s)
+D.akl=x(["Bug\xfcn yeterince \xf6neri g\xf6nderdin; yar\u0131n tekrar deneyebilirsin.","You sent enough suggestions today; try again tomorrow."],y.s)
+D.aOT=new A.aM(D.aQd,[E.Ee,D.asz,D.aB4,D.apP,D.azh,D.aug,D.aAB,D.ahY,D.agk,D.an1,D.acM,D.arn,D.auw,D.amK,D.aeR,D.adP,D.ae2,D.asC,D.agn,D.aEi,D.avR,D.akl,E.Ew,E.EW,E.EY,E.F8],y.M)
 D.dm=new A.iG("yuSuggestForm")
-D.b4T=new A.a9("suggest_remove_location",y.O)
-D.b4U=new A.a9("suggest_selected_location",y.O)})();(function staticFields(){$.C4=A.T(y.N,y.z)
+D.b4V=new A.a9("suggest_remove_location",y.O)
+D.b4W=new A.a9("suggest_selected_location",y.O)})();(function staticFields(){$.C4=A.T(y.N,y.z)
 $.yD=A.T(y.N,y.z)
 $.aEu=A.e([],y.t)
 $.Ix=null
 $.km=0
 $.vB=null})()};
-(a=>{a["vtPBPDMK65GR65gRhgUZ0phKXy0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["qJ47HJ/o56M3n2OY3ko/aaldDiA="]=a.current})($__dart_deferred_initializers__);
