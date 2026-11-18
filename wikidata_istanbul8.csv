@@ -1,0 +1,15 @@
+id,name,category,lat,lon,x,district,licence,sitelinks,en,alt,grup,wclass,p31
+Q6048634,Taksim Gezi Parkı,SIGHT,41.038333,28.986944,,,CC0-1.0,24,Gezi Park,,park,"Q22698,Q22746",Q22746
+Q24192239,Atatürk Arboretumu,SIGHT,41.176389,28.985000,,,CC0-1.0,6,Atatürk Arboretum,,park,Q22698,Q272231
+Q109236619,Silivri Kalepark,SIGHT,41.068330,28.252960,,,CC0-1.0,4,,,park,"Q22698,Q22746",Q22746
+Q17138662,Nezahat Gökyiğit Botanik Bahçesi,SIGHT,40.996610,29.118580,,,CC0-1.0,3,Tema Nezahat Gokyigit Park,,park,Q22698,Q167346
+Q55594541,Alfred Heilbronn Botanik Bahçesi,SIGHT,41.017800,28.963608,,,CC0-1.0,3,Istanbul University Alfred Heilbronn Botanical Garden,,park,Q22698,Q167346
+Q109389737,15 Temmuz Millet Bahçesi,SIGHT,41.058239,28.880289,,,CC0-1.0,2,Esenler 15 Temmuz Millet Bahçesi,,park,"Q22698,Q22746",Q22746
+Q135677474,Atatürk Havalimanı Millet Bahçesi,SIGHT,40.984300,28.808169,,,CC0-1.0,2,Atatürk Airport National Garden,,park,"Q22698,Q22746",Q22746
+Q106333372,Özgürlük Parkı,SIGHT,40.978620,29.052766,,,CC0-1.0,2,Freedom Park,,park,"Q22698,Q22746",Q22746
+Q31190981,Abbas Ağa Parkı,SIGHT,41.046139,29.006028,,,CC0-1.0,2,Abbasağa Park,,park,"Q22698,Q22746",Q22746
+Q12812584,Yaşam Vadisi,SIGHT,41.007778,28.635556,,,CC0-1.0,2,,,park,"Q22698,Q22746",Q22746
+Q6052345,Küçükçamlıca Korusu,SIGHT,41.018561,29.067014,,,CC0-1.0,1,Küçükçamlıca Grove,,tabiat parkı,Q473972,Q473972
+Q6060754,Naile Sultan Korusu,SIGHT,41.051940,29.029701,,,CC0-1.0,1,Naile Sultan Grove,,tabiat parkı,Q473972,Q473972
+Q6067162,Kâmil Abduş Gölü,SIGHT,40.830530,29.287030,,,CC0-1.0,1,Lake Kamil Abduş,,göl,Q23397,Q23397
+Q122840337,Beykoz Çayırı,SIGHT,41.142899,29.086282,,,CC0-1.0,1,,,yayla,Q1006733,Q7777019
