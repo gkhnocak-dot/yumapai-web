@@ -1,35 +1,35 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,F,C={
-dZO(){return new C.AT(null)},
-Ci:function Ci(d,e,f,g,h,i){var _=this
+dZS(){return new C.AV(null)},
+Ck:function Ck(d,e,f,g,h,i){var _=this
 _.a=d
 _.b=e
 _.c=f
 _.d=g
 _.e=h
 _.f=i},
-AT:function AT(d){this.a=d},
-azy:function azy(d){this.d=d
+AV:function AV(d){this.a=d},
+azz:function azz(d){this.d=d
 this.c=this.a=null},
-c9A:function c9A(d){this.a=d},
-c9z:function c9z(d){this.a=d},
-c9x:function c9x(d,e,f){this.a=d
+c9C:function c9C(d){this.a=d},
+c9B:function c9B(d){this.a=d},
+c9z:function c9z(d,e,f){this.a=d
 this.b=e
 this.c=f},
-c9w:function c9w(d,e,f){this.a=d
+c9y:function c9y(d,e,f){this.a=d
 this.b=e
 this.c=f},
-c9y:function c9y(){}},D,E
+c9A:function c9A(){}},D,E
 A=c[0]
 B=c[2]
 F=c[125]
 C=a.updateHolder(c[6],C)
 D=c[136]
 E=c[75]
-C.Ci.prototype={}
-C.AT.prototype={
-a4(){return new C.azy(A.b4(y.g))}}
-C.azy.prototype={
+C.Ck.prototype={}
+C.AV.prototype={
+a4(){return new C.azz(A.b4(y.g))}}
+C.azz.prototype={
 J(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i=null,h=A.a(d).ax.a===B.a?A.b():A.c(),g=A.n(d,B.d,y.i)
 g.toString
 x=g.a.cg("_")!=="en"
@@ -46,11 +46,11 @@ o=x?"Belediye a\xe7\u0131k verileri":"Municipal open data"
 n=x?"\u0130BB A\xe7\u0131k Veri \xb7 CC BY 4.0":"IBB Open Data \xb7 CC BY 4.0"
 m=x?"Kaynak: \u0130BB A\xe7\u0131k Veri Portal\u0131 \xb7 \u0130zmir B\xfcy\xfck\u015fehir Belediyesi A\xe7\u0131k Veri":"Source: IBB Open Data Portal \xb7 \u0130zmir Metropolitan Municipality Open Data"
 l=x?"\u0130stanbul m\xfczeleri \u0130BB A\xe7\u0131k Veri Portal\u0131'ndan, baz\u0131 \u0130zmir mek\xe2nlar\u0131 \u0130zmir B\xfcy\xfck\u015fehir Belediyesi a\xe7\u0131k verisinden (CC BY 4.0) gelir. YuMapAI bu verileri de\u011fi\u015ftirmi\u015ftir (alanlar normalize edildi, il ve il\xe7e bilgisi eklendi, ba\u015fka kaynaklarla e\u015fle\u015ftirildi). Kaynak atf\u0131 ilgili mek\xe2n\u0131n detay\u0131nda g\xf6sterilir.":"\u0130stanbul museums come from the IBB Open Data Portal and some \u0130zmir places from \u0130zmir Metropolitan Municipality open data (CC BY 4.0). YuMapAI modified this data (normalized fields, added province and district, matched with other sources). The source credit is shown on the place's detail."
-k=[new C.Ci("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\xa9 Overture Maps Foundation",g,w),new C.Ci("wikidata","Wikidata","CC0 1.0","Wikidata (wikidata.org)",v,D.nd),new C.Ci("commons","Wikimedia Commons",u,t,s,D.nd),new C.Ci("osm","OpenStreetMap \xb7 OpenMapTiles \xb7 OpenFreeMap","ODbL 1.0 \xb7 CC BY 4.0",r,q,D.nd),new C.Ci("geonames","GeoNames","CC BY 4.0","GeoNames (geonames.org)",p,D.nd),new C.Ci("tr_acik",o,n,m,l,D.nd)]
+k=[new C.Ck("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\xa9 Overture Maps Foundation",g,w),new C.Ck("wikidata","Wikidata","CC0 1.0","Wikidata (wikidata.org)",v,D.nd),new C.Ck("commons","Wikimedia Commons",u,t,s,D.nd),new C.Ck("osm","OpenStreetMap \xb7 OpenMapTiles \xb7 OpenFreeMap","ODbL 1.0 \xb7 CC BY 4.0",r,q,D.nd),new C.Ck("geonames","GeoNames","CC BY 4.0","GeoNames (geonames.org)",p,D.nd),new C.Ck("tr_acik",o,n,m,l,D.nd)]
 l=h.gc6()
 g=x?"Geri":"Back"
 w=h.ga0()
-g=A.aZ(i,!0,i,A.fa(!1,B.ae,!0,i,A.O(!1,i,!0,new A.q(44,44,A.w(B.aW,h.gA(),i,20),i),B.di,!0,i,i,i,i,D.beh,i,i,i,i,i,new C.c9z(d),i,i,i,i,i,i,i),B.b,w,0,i,i,B.di,i,i,B.bD),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,g,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.c9A(d),i,i,i,i,i,i,i,i,i,i,i,B.L,i)
+g=A.aZ(i,!0,i,A.fa(!1,B.ae,!0,i,A.O(!1,i,!0,new A.q(44,44,A.w(B.aW,h.gA(),i,20),i),B.di,!0,i,i,i,i,D.beh,i,i,i,i,i,new C.c9B(d),i,i,i,i,i,i,i),B.b,w,0,i,i,B.di,i,i,B.bD),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,g,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.c9C(d),i,i,i,i,i,i,i,i,i,i,i,B.L,i)
 w=x?"Lisanslar ve veri kaynaklar\u0131":"Licences and data sources"
 v=y.e
 w=A.u(A.e([g,B.bJ,A.C(A.h(w,i,i,i,i,i,i,i,new A.i(h).gck().te("Manrope",B.M),i,i,i,i),1)],v),B.E,i,B.B,B.i,0,i,i)
@@ -73,10 +73,10 @@ aTL(d,e,f,g,h){var x,w,v=null,u=this.d.B(0,e),t=y.a,s=A.I(999),r=u?B.wT:B.n0
 r=A.w(r,d.gH(),v,v)
 x=h?f+" \xb7 tam metin":f+" \xb7 full text"
 w=y.e
-w=A.e([A.aZ(v,!0,v,A.O(!1,s,!0,new A.j(B.fh,A.u(A.e([r,B.cr,A.C(A.h(x,v,v,v,v,v,v,v,new A.i(d).glo().auX(d.gH(),"Manrope",B.X),v,v,v,v),1)],w),B.E,v,B.B,B.i,0,v,v),v),v,!0,v,v,v,v,new A.Y("lisans_tam_"+e,t),v,v,v,v,v,new C.c9x(this,u,e),v,v,v,v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.L,v)],w)
+w=A.e([A.aZ(v,!0,v,A.O(!1,s,!0,new A.j(B.fh,A.u(A.e([r,B.cr,A.C(A.h(x,v,v,v,v,v,v,v,new A.i(d).glo().auX(d.gH(),"Manrope",B.X),v,v,v,v),1)],w),B.E,v,B.B,B.i,0,v,v),v),v,!0,v,v,v,v,new A.Y("lisans_tam_"+e,t),v,v,v,v,v,new C.c9z(this,u,e),v,v,v,v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.L,v)],w)
 if(u){s=d.gc6()
 r=A.I(14)
-w.push(A.d(v,A.dvQ(B.u.av(g),new A.Y("lisans_metin_"+e,t),new A.i(d).gm().VX(1.35)),B.b,v,v,new A.G(s,v,v,r,v,v,v,B.l),v,v,v,v,B.dT,v,v,v))}return A.K(w,B.aC,v,B.B,B.i,0,v,B.m)},
+w.push(A.d(v,A.dvU(B.u.av(g),new A.Y("lisans_metin_"+e,t),new A.i(d).gm().VX(1.35)),B.b,v,v,new A.G(s,v,v,r,v,v,v,B.l),v,v,v,v,B.dT,v,v,v))}return A.K(w,B.aC,v,B.B,B.i,0,v,B.m)},
 baP(d,e){var x,w,v,u,t=null,s=this.c
 s.toString
 s=A.aE(s,22)
@@ -86,30 +86,30 @@ w=e?"Flutter ve kulland\u0131\u011f\u0131m\u0131z a\xe7\u0131k kaynak paketlerin
 w=A.h(w,t,t,t,t,t,t,t,new A.i(d).gag(),t,t,t,t)
 v=A.w(B.kN,d.gH(),t,18)
 u=e?"A\xe7\u0131k kaynak lisanslar\u0131n\u0131 g\xf6ster":"Show open-source licences"
-return A.d(t,A.K(A.e([x,B.aF,w,B.by,new A.eY(new C.c9y(),A.h(u,t,t,t,t,t,t,t,A.aw(t,t,d.gA(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bef)],y.e),B.Q,t,B.B,B.i,0,t,B.m),B.b,t,t,s,t,t,D.beg,t,D.DO,t,t,t)}}
+return A.d(t,A.K(A.e([x,B.aF,w,B.by,new A.eY(new C.c9A(),A.h(u,t,t,t,t,t,t,t,A.aw(t,t,d.gA(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bef)],y.e),B.Q,t,B.B,B.i,0,t,B.m),B.b,t,t,s,t,t,D.beg,t,D.DO,t,t,t)}}
 var z=a.updateTypes([])
-C.c9A.prototype={
-$0(){return E.qs(this.a)},
+C.c9C.prototype={
+$0(){return E.qt(this.a)},
+$S:0}
+C.c9B.prototype={
+$0(){return E.qt(this.a)},
 $S:0}
 C.c9z.prototype={
-$0(){return E.qs(this.a)},
-$S:0}
-C.c9x.prototype={
 $0(){var x=this.a
-return x.k(0,new C.c9w(x,this.b,this.c))},
+return x.k(0,new C.c9y(x,this.b,this.c))},
 $S:0}
-C.c9w.prototype={
+C.c9y.prototype={
 $0(){var x=this.c,w=this.a.d
 return this.b?w.Y(0,x):w.T(0,x)},
 $S:0}
-C.c9y.prototype={
+C.c9A.prototype={
 $0(){return A.fu("licenses")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(C.Ci,A.aj)
-x(C.AT,A.ab)
-x(C.azy,A.ag)
-w(A.dv,[C.c9A,C.c9z,C.c9x,C.c9w,C.c9y])})()
-A.dm(b.typeUniverse,JSON.parse('{"AT":{"ab":[],"N":[]},"azy":{"ag":["AT"]}}'))
+x(C.Ck,A.aj)
+x(C.AV,A.ab)
+x(C.azz,A.ag)
+w(A.dv,[C.c9C,C.c9B,C.c9z,C.c9y,C.c9A])})()
+A.dm(b.typeUniverse,JSON.parse('{"AV":{"ab":[],"N":[]},"azz":{"ag":["AV"]}}'))
 var y={i:A.ai("dG"),j:A.ai("Q<+(M,M)>"),e:A.ai("Q<N>"),g:A.ai("M"),a:A.ai("Y<M>")};(function constants(){var x=a.makeConstList
 D.a17=new A.aJ(0,880,0,1/0)
 D.DO=new A.a2(16,14,16,14)
@@ -119,4 +119,4 @@ D.bef=new A.Y("lisans_flutter",y.a)
 D.beg=new A.Y("lisans_yazilim",y.a)
 D.beh=new A.Y("lisanslar_back",y.a)
 D.bei=new A.Y("lisanslar_list",y.a)})()};
-(a=>{a["fYbIX2wzrhAcvj7hTigKhBl+zGA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["MryEjMhWW8uE8nleEkUPX0fOH/Q="]=a.current})($__dart_deferred_initializers__);
