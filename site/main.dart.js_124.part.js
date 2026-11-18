@@ -41,12 +41,12 @@ case 1:return A.B(u,v)}})
 return A.C($async$QS,v)},
 a8J(d){var w,v
 if(D.u.bN(d,"TARGETING_NOT_ALLOWED")||D.u.bN(d,"FIELD_NOT_ALLOWED")){w=["Bu bilgi kullan\u0131lamaz (YuMapAI ki\u015fisel hedefleme yapmaz).","This information cannot be used (YuMapAI never targets people)."]
-return $.m().x!=="en"?w[0]:w[1]}v=C.aSW.i(0,D.u.C(d,":")?D.u.ai(d,0,D.u.h5(d,":")):d)
+return $.m().x!=="en"?w[0]:w[1]}v=C.aSX.i(0,D.u.C(d,":")?D.u.ai(d,0,D.u.h5(d,":")):d)
 if(v==null)w=$.m().x!=="en"?"\u0130\u015flem tamamlanamad\u0131; tekrar dene.":"That did not work; please try again."
 else w=$.m().x!=="en"?v[0]:v[1]
 return w},
 dE7(d){var w,v=D.u.h5(d,":"),u=v>0,t=u?D.u.ai(d,0,v):d,s=u?D.u.cZ(d,v+1):""
-if(t==="SUBJECT_NOT_ALLOWED"){if($.m().x!=="en"){u=C.aT2.i(0,s)
+if(t==="SUBJECT_NOT_ALLOWED"){if($.m().x!=="en"){u=C.aT3.i(0,s)
 u="Bu konu reklam olarak yay\u0131nlanamaz: "+(u==null?"k\u0131s\u0131tl\u0131 konu":u)+"."}else u="This subject cannot be advertised (restricted subject)."
 return u}if(t==="CLAIM_NOT_ALLOWED"){if($.m().x!=="en"){u=C.aUZ.i(0,s)
 u="Bu ifade kullan\u0131lamaz: "+(u==null?"kan\u0131tlanamayan iddia":u)+"."}else u="This claim cannot be used (unprovable claim)."
@@ -68,7 +68,7 @@ if(e&&d==="ACTIVE"){w=["\xd6ne \xe7\u0131kar\u0131l\u0131yor","Promoted now"]
 return $.m().x!=="en"?w[0]:w[1]}w=C.aSn.i(0,d)
 if(w==null)w=A.e(["G\xfcncelleniyor","Updating"],x.s)
 return $.m().x!=="en"?w[0]:w[1]},
-dDf(d,e){var w,v,u=C.aT5.i(0,A.L(e))
+dDf(d,e){var w,v,u=C.aT6.i(0,A.L(e))
 if(u!=null)w=d==="STOPPED"||d==="PAUSED_BY_PLATFORM"||d==="SUSPENDED_POLICY"
 else w=!1
 if(w){if(d==="STOPPED"){w=["Durduruldu","Stopped"]
@@ -1763,7 +1763,7 @@ while(f.F()){m=f.ga2(f)
 w=J.ae(m)
 v=$.m().x!=="en"?"S\xfcr\xfcm "+A.L(w.i(m,"version")):"Version "+A.L(w.i(m,"version"))
 w=w.i(m,"reviewStatus")
-w=C.aSM.i(0,w==null?"":A.L(w))
+w=C.aSN.i(0,w==null?"":A.L(w))
 if(w==null)w=A.e(["\u2014","\u2014"],o)
 t.push(new B.ip(v,$.m().x!=="en"?w[0]:w[1]))}u.a7l=t},
 $S:0}
@@ -2031,7 +2031,7 @@ C.Rx=new A.aN(C.RW,[C.ard,C.afQ,C.aiT],x.M)
 C.aVA={DRAFT:0,SUBMITTED:1,APPROVED:2,CHANGES_REQUESTED:3,REJECTED:4,SUPERSEDED:5,WITHDRAWN:6}
 C.aDj=w(["De\u011fi\u015fiklik istendi","Changes requested"],x.s)
 C.aDT=w(["Yenisiyle de\u011fi\u015fti","Superseded"],x.s)
-C.aSM=new A.aN(C.aVA,[C.IR,C.GY,D.LC,C.aDj,C.Hy,C.aDT,D.HB],x.M)
+C.aSN=new A.aN(C.aVA,[C.IR,C.GY,D.LC,C.aDj,C.Hy,C.aDT,D.HB],x.M)
 C.aVB={NOT_AUTHENTICATED:0,NOT_AUTHORIZED:1,OWNERSHIP_SUSPENDED:2,NOT_FOUND:3,IDEMPOTENCY_CONFLICT:4,OWNER_REQUIRED:5,CAMPAIGNS_NOT_OPEN:6,OFFER_TYPE_DISABLED:7,TOO_MANY_DRAFTS:8,RATE_LIMITED:9,CAMPAIGN_CLOSED:10,IN_REVIEW:11,VALIDATION_FAILED:12,BUSINESS_TERMS_REQUIRED:13,BOOST_TERMS_REQUIRED:14,NOTHING_TO_SUBMIT:15,NOT_IN_REVIEW:16,MEDIA_NOT_FOUND:17,PLACE_NOT_ELIGIBLE:18,CATEGORY_NOT_ELIGIBLE:19,COUNTRY_NOT_ENABLED:20,NOT_APPROVED:21,ORDER_ALREADY_OPEN:22,PRODUCT_NOT_FOUND:23,PRODUCT_NOT_REVIEWED_FOR_PLACEMENT:24,TRANSITION_NOT_ALLOWED:25,VERSION_CHANGED:26,NOT_PUBLISHED:27,FILE_TYPE_INVALID:28,FILE_SIZE_INVALID:29,IMAGE_TOO_SMALL:30,UPLOAD_FAILED:31,EVIDENCE_LIMIT:32,MONEY_INVALID:33,NUMBER_INVALID:34,TIME_INVALID:35,DATES_BOTH:36,INVALID_ARGUMENT:37,TIMEOUT:38,NETWORK:39,FAILED:40,ACCOUNT_NOT_ACTIVE:41,ACCOUNT_NOT_ELIGIBLE:42,NO_PROFILE:43,POST_NOT_FOUND:44,NOT_YOUR_POST:45,POST_NOT_PUBLIC:46,ACCOUNT_NOT_PUBLIC:47,POST_NOT_ELIGIBLE:48,BOOST_NOT_OPEN:49,SALES_NOT_OPEN:50,PRODUCT_NOT_ON_SALE:51,TERMS_NOT_READY:52,POLICY_NOT_READY:53,NOT_OPEN_IN_COUNTRY:54,TOO_MANY_BOOSTS:55,BOOST_CLOSED:56,ADULT_CONFIRMATION_REQUIRED:57,PRODUCT_REQUIRED:58,TERMS_ACCEPTANCE_REQUIRED:59,TERMS_NOT_PUBLISHED:60,ACCOUNT_FROZEN:61,ACCOUNT_SUSPENDED:62,CONTENT_NOT_ALLOWED:63}
 C.aN7=w(["Bu mek\xe2n i\xe7in do\u011frulanm\u0131\u015f i\u015fletme yetkin yok.","You have no verified business authorization for this place."],x.s)
 C.amZ=w(["\u0130\u015fletme yetkin ask\u0131ya al\u0131nd\u0131; kampanyalar y\xf6netilemiyor.","Your business authorization is suspended; campaigns cannot be managed."],x.s)
@@ -2088,15 +2088,15 @@ C.azO=w(["Kullan\u0131m Ko\u015fullar\u0131 hen\xfcz yay\u0131mlanmad\u0131.","T
 C.aoN=w(["Hesab\u0131n donduruldu.","Your account is frozen."],x.s)
 C.ass=w(["Hesab\u0131n ask\u0131ya al\u0131nd\u0131.","Your account is suspended."],x.s)
 C.alA=w(["Bu i\xe7erik kullan\u0131lamaz.","This content is not allowed."],x.s)
-C.aSW=new A.aN(C.aVB,[E.Fd,C.aN7,C.amZ,E.FV,C.aju,C.aiA,C.aNj,C.LH,C.arL,C.ajf,C.ai2,C.aNG,C.aq0,C.aek,C.atV,C.au8,C.aCQ,C.awt,C.ana,C.azG,C.aDD,C.as3,C.auf,C.amV,C.aPG,E.Fv,C.aDx,C.aqT,C.akL,C.aex,C.anE,C.ao4,C.agg,C.apK,C.apb,C.aDf,C.aOG,C.awC,E.FX,E.G7,C.awr,C.aqr,C.asl,C.aD7,C.atY,C.agR,C.alV,C.aiE,C.al8,C.aez,C.qq,C.qq,C.qq,C.qq,C.azu,C.aok,C.azi,C.ap4,C.asb,C.ajF,C.azO,C.aoN,C.ass,C.alA],x.M)
+C.aSX=new A.aN(C.aVB,[E.Fd,C.aN7,C.amZ,E.FV,C.aju,C.aiA,C.aNj,C.LH,C.arL,C.ajf,C.ai2,C.aNG,C.aq0,C.aek,C.atV,C.au8,C.aCQ,C.awt,C.ana,C.azG,C.aDD,C.as3,C.auf,C.amV,C.aPG,E.Fv,C.aDx,C.aqT,C.akL,C.aex,C.anE,C.ao4,C.agg,C.apK,C.apb,C.aDf,C.aOG,C.awC,E.FX,E.G7,C.awr,C.aqr,C.asl,C.aD7,C.atY,C.agR,C.alV,C.aiE,C.al8,C.aez,C.qq,C.qq,C.qq,C.qq,C.azu,C.aok,C.azi,C.ap4,C.asb,C.ajF,C.azO,C.aoN,C.ass,C.alA],x.M)
 C.aVu={TOBACCO:0,ALCOHOL:1,BETTING:2,FORTUNE:3,ADULT:4,WEAPONS:5,MEDICINE:6,HEALTH_CLAIM:7,DRUGS:8,FINANCE:9,POLITICAL:10,GET_RICH:11,COUNTERFEIT:12}
-C.aT2=new A.aN(C.aVu,["t\xfct\xfcn / nikotin","alkoll\xfc i\xe7ki","bahis / \u015fans oyunu","fal / astroloji","yeti\u015fkin i\xe7erik","silah","ila\xe7 / tedavi","sa\u011fl\u0131k iddias\u0131","uyu\u015fturucu","kredi / yat\u0131r\u0131m","siyasi i\xe7erik",'"zengin ol" vaadi',"taklit \xfcr\xfcn"],x.w)
-C.aVV={ACCOUNT_PRIVATE:0,POST_UNAVAILABLE:1,POLICY:2,ACCOUNT_RESTRICTED:3}
+C.aT3=new A.aN(C.aVu,["t\xfct\xfcn / nikotin","alkoll\xfc i\xe7ki","bahis / \u015fans oyunu","fal / astroloji","yeti\u015fkin i\xe7erik","silah","ila\xe7 / tedavi","sa\u011fl\u0131k iddias\u0131","uyu\u015fturucu","kredi / yat\u0131r\u0131m","siyasi i\xe7erik",'"zengin ol" vaadi',"taklit \xfcr\xfcn"],x.w)
+C.aVW={ACCOUNT_PRIVATE:0,POST_UNAVAILABLE:1,POLICY:2,ACCOUNT_RESTRICTED:3}
 C.aiG=w(["Hesap gizli","Account is private"],x.s)
 C.aLu=w(["G\xf6nderi art\u0131k uygun de\u011fil","The post is no longer eligible"],x.s)
 C.afY=w(["Politika nedeniyle","For policy reasons"],x.s)
 C.atK=w(["Hesap k\u0131s\u0131tl\u0131","Account restricted"],x.s)
-C.aT5=new A.aN(C.aVV,[C.aiG,C.aLu,C.afY,C.atK],x.M)
+C.aT6=new A.aN(C.aVW,[C.aiG,C.aLu,C.afY,C.atK],x.M)
 C.aWr={PLACE_NOT_PUBLIC:0,OWNER_NOT_ACTIVE:1,OUTSIDE_WINDOW:2,PLATFORM_PAUSED:3,SOURCE_UNAVAILABLE:4,NOT_RUNNING:5}
 C.aj1=w(["mek\xe2n \u015fu an herkese a\xe7\u0131k de\u011fil","the place is not public right now"],x.s)
 C.alE=w(["i\u015fletme yetkisi aktif de\u011fil","the business authorization is not active"],x.s)
@@ -2116,8 +2116,8 @@ C.aON=w(["Etkinlik / duyuru","Event / announcement"],x.s)
 C.qT=new A.aN(C.aVv,[C.aJ5,C.aA5,C.ajV,C.aAq,C.ayw,C.aIL,C.agK,C.aON],x.M)
 C.aWF={SUPERLATIVE:0,GUARANTEE:1,COMPARATIVE:2,SCARCITY:3,POPULARITY:4,AWARD_CERT:5,ENVIRONMENT:6,YUMAPAI_ENDORSEMENT:7}
 C.aUZ=new A.aN(C.aWF,['"en iyi / en ucuz / 1 numara" gibi kan\u0131tlanamayan \xfcst\xfcnl\xfck',"garanti / kesin sonu\xe7","rakip kar\u015f\u0131la\u015ft\u0131rmas\u0131",'yapay aciliyet ("son \u015fans")',"kan\u0131ts\u0131z pop\xfclerlik","kan\u0131ts\u0131z \xf6d\xfcl / sertifika","kan\u0131ts\u0131z \xe7evre iddias\u0131","YuMapAI / Yumy onay\u0131 iddias\u0131"],x.w)
-C.aVX={OK:0,CANCELLED:1}
-C.b0v=new A.dp(C.aVX,2,x.O)
+C.aVY={OK:0,CANCELLED:1}
+C.b0v=new A.dp(C.aVY,2,x.O)
 C.aWu={BUSINESS_CAMPAIGN_TERMS:0,ADVERTISING_CONTENT_POLICY:1,CAMPAIGN_CANCELLATION_REFUND_POLICY:2}
 C.b0x=new A.dp(C.aWu,3,x.O)
 C.aVy={ACTIVE:0,SCHEDULED:1,PAUSED_BY_USER:2,PAUSED_BY_PLATFORM:3}
@@ -2135,4 +2135,4 @@ $.dEn=A.U(x.N,x.z)
 $.d22=A.e([],x.t)
 $.drj=""})();(function lazyInitializers(){var w=a.lazyFinal
 w($,"ejO","dL0",()=>A.b4h())})()};
-(a=>{a["V85KjXkUNZdRH74NNTn+tBmmGhI="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["a/p3UGwIfskpe0KjtH4cn2fy0ZM="]=a.current})($__dart_deferred_initializers__);

@@ -407,7 +407,7 @@ if(n&&J.E(p.i(0,"kind"),"PLACE_NOT_FOUND")&&p.i(0,"placeId")==null)g=$.m().x!=="
 n=A.L(p.i(0,"claimId"))
 h=p.i(0,"placeName")
 h=A.L(h==null?"":h)
-f=($.m().x!=="en"?D.aSN:D.aSO).i(0,o)
+f=($.m().x!=="en"?D.aSO:D.aSP).i(0,o)
 if(f==null)f=o
 if(J.E(p.i(0,"role"),"MANAGER"))e=$.m().x!=="en"?"Y\xf6netici ba\u015fvurusu":"Manager application"
 else e=$.m().x!=="en"?"Sahip ba\u015fvurusu":"Owner application"
@@ -813,7 +813,7 @@ $1(d){var x,w,v=J.ae(d),u=A.L(v.i(d,"kind"))
 v=A.L(v.i(d,"status"))
 if(u==="WEBSITE_TOKEN"){u=$.m()
 x=u.x!=="en"?"Web sitesi":"Website"}else{u=$.m()
-x=u.x!=="en"?"Belge":"Document"}w=(u.x!=="en"?D.aSY:D.aSX).i(0,v)
+x=u.x!=="en"?"Belge":"Document"}w=(u.x!=="en"?D.aSZ:D.aSY).i(0,v)
 v=w==null?v:w
 return x+": "+v},
 $S:1244}
@@ -986,11 +986,11 @@ x(A.dc,[B.d5f,B.d5l,B.d5e,B.d57,B.d58,B.d59,B.d5a,B.d5b,B.d5c,B.d5q,B.d5p])})()
 A.dh(b.typeUniverse,JSON.parse('{"zH":{"dH":[]},"kH":{"dH":[]},"pJ":{"dH":[]},"oB":{"dH":[]}}'))
 var y=(function rtii(){var x=A.ag
 return{w:x("aN<N,N>"),u:x("Q<zH>"),y:x("Q<kH>"),U:x("Q<pJ>"),R:x("Q<oB>"),s:x("Q<N>"),P:x("aw<N,@>"),f:x("aw<@,@>"),K:x("ai"),N:x("N"),z:x("@"),g:x("ab<@>?"),Y:x("aw<@,@>?"),X:x("ai?"),T:x("N?"),H:x("~")}})();(function constants(){D.S_={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2,APPROVED:3,REJECTED:4,WITHDRAWN:5,EXPIRED:6}
-D.aSN=new A.aN(D.S_,["Belge bekleniyor","\u0130nceleniyor","Ek belge gerekli","Onayland\u0131","Reddedildi","Geri \xe7ekildi","S\xfcresi doldu"],y.w)
-D.aSO=new A.aN(D.S_,["Waiting for a document","In review","More evidence needed","Approved","Rejected","Withdrawn","Expired"],y.w)
+D.aSO=new A.aN(D.S_,["Belge bekleniyor","\u0130nceleniyor","Ek belge gerekli","Onayland\u0131","Reddedildi","Geri \xe7ekildi","S\xfcresi doldu"],y.w)
+D.aSP=new A.aN(D.S_,["Waiting for a document","In review","More evidence needed","Approved","Rejected","Withdrawn","Expired"],y.w)
 D.S0={PENDING_UPLOAD:0,SUBMITTED:1,ACCEPTED:2,REJECTED:3,FAILED:4,PURGED:5}
-D.aSX=new A.aN(D.S0,["uploading","in review","accepted","not accepted","invalid","retention ended"],y.w)
-D.aSY=new A.aN(D.S0,["y\xfckleniyor","incelemede","kabul edildi","kabul edilmedi","ge\xe7ersiz","saklama s\xfcresi doldu"],y.w)
+D.aSY=new A.aN(D.S0,["uploading","in review","accepted","not accepted","invalid","retention ended"],y.w)
+D.aSZ=new A.aN(D.S0,["y\xfckleniyor","incelemede","kabul edildi","kabul edilmedi","ge\xe7ersiz","saklama s\xfcresi doldu"],y.w)
 D.RZ={hours:0,"contact.phone":1,"contact.website":2,"description.tr":3,"description.en":4,"name.primary":5,category:6,address:7,location:8}
 D.aUP=new A.aN(D.RZ,["\xc7al\u0131\u015fma saatleri","Telefon","Web sitesi","A\xe7\u0131klama (TR)","A\xe7\u0131klama (EN)","Mek\xe2n ad\u0131","Kategori","Adres","Konum"],y.w)
 D.aUQ=new A.aN(D.RZ,["Opening hours","Phone","Website","Description (TR)","Description (EN)","Place name","Category","Address","Location"],y.w)
@@ -1005,4 +1005,4 @@ return A.U(x,x)}()
 $.aGT=function(){var x=y.N
 return A.U(x,x)}()})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"ekn","dLr",()=>A.b4h())})()};
-(a=>{a["OZOD+qeDJn4SN3fbJWWfjQG9mHg="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Ks0SPeRmERCtQ+Z8D7B+MgNrqOE="]=a.current})($__dart_deferred_initializers__);
