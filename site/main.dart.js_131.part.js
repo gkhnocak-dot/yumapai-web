@@ -14,8 +14,8 @@ this.b=e},tm:function tm(d,e,f){this.a=d
 this.b=e
 this.c=f},
 dyB(d){var x,w=d==null
-if(D.SK.i(0,w?"":A.J(d))==null)w=""
-else{x=D.SK.i(0,w?"":A.J(d))
+if(D.SL.i(0,w?"":A.J(d))==null)w=""
+else{x=D.SL.i(0,w?"":A.J(d))
 x.toString
 w=$.m().x!=="en"?x[0]:x[1]}return w},
 JU(d,e){var x=0,w=A.C(y.P),v,u
@@ -40,7 +40,7 @@ p===$&&A.t()
 o=e==null?A.U(y.N,y.z):e
 n=y.z
 x=7
-return A.v(p.fv(d,o,n).dL(0,B.pz),$async$dbE)
+return A.v(p.fw(d,o,n).dL(0,B.pz),$async$dbE)
 case 7:s=g
 if(A.hn()){p=A.a1n()
 throw A.P(p)}p=y.N
@@ -106,8 +106,8 @@ x=p.i(d,"suggestionId")
 x=x==null?"":A.J(x)
 p=p.i(d,"name")
 p=p==null?"":A.J(p)
-if(D.SN.i(0,n)==null)w=""
-else{w=D.SN.i(0,n)
+if(D.SO.i(0,n)==null)w=""
+else{w=D.SO.i(0,n)
 w.toString
 w=$.m().x!=="en"?w[0]:w[1]}if(r.length!==0)v=n==="ACCEPTED"||n==="ALREADY_EXISTS"
 else v=!1
@@ -701,7 +701,7 @@ s=A.y(A.K(A.e([u,B.bW,t,B.bW,A.h(s,p,p,p,p,p,p,p,new A.i(x).gm().c1(x.gq()),p,p,
 u=w?"Konumu kald\u0131r":"Remove location"
 t=A.I(999)
 q=$.ws!=null?p:new C.cew()
-return new A.j(B.mU,A.d(p,A.u(A.e([v,B.b5,s,A.aZ(p,!0,p,A.O(!1,t,!0,new A.q(44,44,A.w(B.bt,x.gq(),p,20),p),p,!0,p,p,p,p,D.bfQ,p,p,p,p,p,q,p,p,p,p,p,p,p),!1,p,p,p,p,!1,p,!1,p,p,p,p,p,p,p,p,p,p,p,u,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.M,p)],r),B.E,p,B.B,B.i,0,p,p),B.b,p,p,o,p,p,D.bfR,p,D.aai,p,p,p),p)},
+return new A.j(B.mU,A.d(p,A.u(A.e([v,B.b5,s,A.aZ(p,!0,p,A.O(!1,t,!0,new A.q(44,44,A.w(B.bt,x.gq(),p,20),p),p,!0,p,p,p,p,D.bfR,p,p,p,p,p,q,p,p,p,p,p,p,p),!1,p,p,p,p,!1,p,!1,p,p,p,p,p,p,p,p,p,p,p,u,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.M,p)],r),B.E,p,B.B,B.i,0,p,p),B.b,p,p,o,p,p,D.bfS,p,D.aai,p,p,p),p)},
 J(d){var x,w,v,u,t,s,r,q,p,o,n,m=this,l=null
 A.d0(d,!0,y.V)
 x=(A.a(d).ax.a===B.a?A.b():A.c()).gbY()
@@ -2075,7 +2075,7 @@ w(C.v9,A.ab)
 w(C.aAl,A.ag)})()
 A.dx(b.typeUniverse,JSON.parse('{"vK":{"dN":[]},"nf":{"dN":[]},"tm":{"dN":[]},"Gs":{"bc":["v9"],"bc.W":"v9"},"v9":{"ab":[],"M":[]},"aAl":{"ag":["v9"]}}'))
 var y=(function rtii(){var x=A.ai
-return{M:x("aL<N,ac<N>>"),V:x("dg"),L:x("dH"),j:x("az<N>"),g:x("Q<H>"),e:x("Q<hD>"),k:x("Q<ia>"),K:x("Q<dZ>"),u:x("Q<hT>"),t:x("Q<as<N,@>>"),D:x("Q<em>"),a:x("Q<ay>"),s:x("Q<N>"),x:x("Q<nf>"),A:x("Q<tm>"),b:x("Q<b8>"),p:x("Q<M>"),G:x("aW<ed>"),P:x("as<N,@>"),f:x("as<@,@>"),F:x("Gs"),C:x("aj"),N:x("N"),O:x("Y<N>"),U:x("al<N>"),w:x("Qn"),z:x("@"),d:x("dH?"),Q:x("ac<@>?"),Y:x("as<@,@>?"),X:x("aj?"),T:x("N?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+return{M:x("aL<N,ac<N>>"),V:x("dg"),L:x("dI"),j:x("az<N>"),g:x("Q<H>"),e:x("Q<hD>"),k:x("Q<ia>"),K:x("Q<dZ>"),u:x("Q<hT>"),t:x("Q<as<N,@>>"),D:x("Q<em>"),a:x("Q<ay>"),s:x("Q<N>"),x:x("Q<nf>"),A:x("Q<tm>"),b:x("Q<b8>"),p:x("Q<M>"),G:x("aW<ed>"),P:x("as<N,@>"),f:x("as<@,@>"),F:x("Gs"),C:x("aj"),N:x("N"),O:x("Y<N>"),U:x("al<N>"),w:x("Qn"),z:x("@"),d:x("dI?"),Q:x("ac<@>?"),Y:x("as<@,@>?"),X:x("aj?"),T:x("N?"),H:x("~")}})();(function constants(){var x=a.makeConstList
 D.aai=new A.a1(14,12,4,12)
 D.anq=x(["CAFE","i18n_suggest_cat_cafe"],y.s)
 D.aj3=x(["RESTAURANT","i18n_suggest_cat_restaurant"],y.s)
@@ -2086,14 +2086,14 @@ D.aG6=x(["SHOPPING","i18n_suggest_cat_shopping"],y.s)
 D.aRk=x([D.anq,D.aj3,D.aps,D.auc,D.avX,D.aG6],A.ai("Q<ac<N>>"))
 D.aMC=x(["Kafe","Caf\xe9"],y.s)
 D.awW=x(["Gezilecek yer","Sight"],y.s)
-D.SK=new A.aL(B.nI,[D.aMC,B.JK,B.IM,D.awW,B.HI,B.Kj],y.M)
+D.SL=new A.aL(B.nI,[D.aMC,B.JL,B.IN,D.awW,B.HJ,B.Kk],y.M)
 D.aYr={IN_REVIEW:0,NEEDS_INFO:1,ACCEPTED:2,ALREADY_EXISTS:3,REJECTED:4}
 D.aI2=x(["\u0130nceleniyor","In review"],y.s)
 D.aHw=x(["Ek bilgi gerekli","More details needed"],y.s)
 D.ana=x(["Kabul edildi","Accepted"],y.s)
 D.ar0=x(["Zaten YuMapAI'da","Already on YuMapAI"],y.s)
 D.aP6=x(["Uygun bulunmad\u0131","Not accepted"],y.s)
-D.SN=new A.aL(D.aYr,[D.aI2,D.aHw,D.ana,D.ar0,D.aP6],y.M)
+D.SO=new A.aL(D.aYr,[D.aI2,D.aHw,D.ana,D.ar0,D.aP6],y.M)
 D.aZe={NOT_AUTHENTICATED:0,ACCOUNT_NOT_ALLOWED:1,SUGGESTIONS_NOT_AVAILABLE:2,NAME_REQUIRED:3,INVALID_LOCATION:4,IN_PROGRESS:5,NAME_TOO_LONG:6,CATEGORY_REQUIRED:7,PROVINCE_REQUIRED:8,DISTRICT_REQUIRED:9,ADDRESS_REQUIRED:10,POSTAL_CODE_INVALID:11,PHONE_INVALID:12,WEBSITE_INVALID:13,GOOGLE_SOURCE_NOT_ALLOWED:14,PRIVATE_RESIDENCE_NOT_ALLOWED:15,DECLARATION_REQUIRED:16,TEXT_TOO_LONG:17,CONTENT_NOT_ALLOWED:18,TOO_MANY_OPEN_SUGGESTIONS:19,SUGGESTION_ALREADY_PENDING:20,RATE_LIMITED:21,TRANSITION_NOT_ALLOWED:22,NOT_FOUND:23,TIMEOUT:24,NETWORK:25}
 D.aAk=x(["Bu hesapla mek\xe2n \xf6nerilemiyor.","Places cannot be suggested with this account."],y.s)
 D.aJj=x(["Mek\xe2n \xf6nerileri \u015fu an kapal\u0131.","Place suggestions are closed right now."],y.s)
@@ -2116,13 +2116,13 @@ D.aml=x(["Bu metin topluluk kurallar\u0131na uymuyor.","This text does not follo
 D.aME=x(["\u0130ncelemede \xe7ok say\u0131da \xf6nerin var; sonu\xe7lanmalar\u0131n\u0131 bekle.","You have many suggestions in review; wait for them first."],y.s)
 D.aDM=x(["Bu mek\xe2n\u0131 zaten \xf6nerdin; inceleniyor.","You already suggested this place; it is in review."],y.s)
 D.ar6=x(["Bug\xfcn yeterince \xf6neri g\xf6nderdin; yar\u0131n tekrar deneyebilirsin.","You sent enough suggestions today; try again tomorrow."],y.s)
-D.aXN=new A.aL(D.aZe,[E.Gi,D.aAk,D.aJj,D.axo,D.aHq,D.aC6,D.aIN,D.aoe,D.ami,D.aua,D.ai3,D.az5,D.aCn,D.atS,D.akn,D.ajc,D.ajx,D.aAo,D.aml,D.aME,D.aDM,D.ar6,E.GA,E.H_,E.H1,E.Hd],y.M)
+D.aXN=new A.aL(D.aZe,[E.Gj,D.aAk,D.aJj,D.axo,D.aHq,D.aC6,D.aIN,D.aoe,D.ami,D.aua,D.ai3,D.az5,D.aCn,D.atS,D.akn,D.ajc,D.ajx,D.aAo,D.aml,D.aME,D.aDM,D.ar6,E.GB,E.H0,E.H2,E.He],y.M)
 D.dP=new A.j4("yuSuggestForm")
-D.bfQ=new A.Y("suggest_remove_location",y.O)
-D.bfR=new A.Y("suggest_selected_location",y.O)})();(function staticFields(){$.D9=A.U(y.N,y.z)
+D.bfR=new A.Y("suggest_remove_location",y.O)
+D.bfS=new A.Y("suggest_selected_location",y.O)})();(function staticFields(){$.D9=A.U(y.N,y.z)
 $.zy=A.U(y.N,y.z)
 $.aJg=A.e([],y.t)
 $.JV=null
 $.kT=0
 $.ws=null})()};
-(a=>{a["Xm/PpKjArxA/7Jafa5EIffue3F4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Sd/Mhp7cmNKe6skh4zIvluG9bMs="]=a.current})($__dart_deferred_initializers__);

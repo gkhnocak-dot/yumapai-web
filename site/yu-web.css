@@ -9,3 +9,6 @@ html, body { margin: 0; height: 100%; background: #1E7BEA; }
   width: max-content; max-width: calc(100% - 32px); min-height: 44px; padding: 10px 16px; border: 2px solid #0D1B30;
   border-radius: 12px; background: #FFFFFF; color: #0D1B30; font: 600 15px/1.4 system-ui, sans-serif; cursor: pointer; }
 #yu-sw-update:focus-visible { outline: 3px solid #1E7BEA; outline-offset: 2px; }
+
+/* Harita atfı her haritada metin olarak çizilir; kütüphanenin (i) düğmesi ikinci kopya (Reis 19.11.2026) */
+.maplibregl-ctrl-attrib { display: none !important; }

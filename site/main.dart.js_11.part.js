@@ -125,7 +125,7 @@ q=$.cl().b
 q===$&&A.t()
 p=y.z
 x=7
-return A.v(q.fv("suggest_search_areas",A.f(["p_query",d,"p_locale","tr"],y.N,p),p),$async$Vc)
+return A.v(q.fw("suggest_search_areas",A.f(["p_query",d,"p_locale","tr"],y.N,p),p),$async$Vc)
 case 7:r=f
 if(s.c==null||!J.E(n,s.e)){x=1
 break}s.k(0,new C.d1o(s,r))
@@ -1050,5 +1050,5 @@ x(A.dn,[C.cmI,C.cmu,C.cmw,C.cmt,C.cmy,C.cmz,C.cmA,C.cmB])
 w(C.cmj,A.eQ)})()
 A.dx(b.typeUniverse,JSON.parse('{"a1F":{"ab":[],"M":[]},"a8B":{"ag":["a1F"]},"Hf":{"bc":["vr"],"bc.W":"vr"},"vr":{"ab":[],"M":[]},"aC_":{"ag":["vr"]}}'))
 var y=(function rtii(){var x=A.ai
-return{D:x("dg"),L:x("dH"),s:x("Q<N>"),p:x("Q<M>"),w:x("aW<xy>"),A:x("aW<ed>"),f:x("as<@,@>"),P:x("bP"),U:x("Hf"),N:x("N"),z:x("@"),g:x("ac<@>?"),H:x("~")}})();(function constants(){D.bfb=new A.Y("konum_oneriler",A.ai("Y<N>"))})()};
-(a=>{a["YCl1S2P0RvaCBcPdGWFrTqUacog="]=a.current})($__dart_deferred_initializers__);
+return{D:x("dg"),L:x("dI"),s:x("Q<N>"),p:x("Q<M>"),w:x("aW<xy>"),A:x("aW<ed>"),f:x("as<@,@>"),P:x("bP"),U:x("Hf"),N:x("N"),z:x("@"),g:x("ac<@>?"),H:x("~")}})();(function constants(){D.bfb=new A.Y("konum_oneriler",A.ai("Y<N>"))})()};
+(a=>{a["WhC7bFiRgrgMdvqhI8/Xc9+l2Cc="]=a.current})($__dart_deferred_initializers__);
