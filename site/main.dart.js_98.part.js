@@ -1,16 +1,58 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-dQS(d,e){var x,w,v,u="lat_from",t=A.Cr(d)
-if(t==null||t.giU()!=="yandexnavi")return null
-x=t.ghK().i(0,"lat_to")
-w=t.ghK().i(0,"lon_to")
-v=t.ghK().i(0,u)==null?"":A.J(t.ghK().i(0,u))+","+A.J(t.ghK().i(0,"lon_from"))
-x=A.e([v,A.J(x)+","+A.J(w)],y.d)
-w=e?"pd":"auto"
-return"https://yandex.com.tr/maps/?rtext="+B.o.aS(x,"~")+"&rtt="+w}}
+Ky(d){return C.ei5(d)},
+ei5(d){var x=0,w=A.B(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+var $async$Ky=A.x(function(e,f){if(e===1){u.push(f)
+x=v}for(;;)switch(x){case 0:n=A.el(d,0,null)
+v=3
+t=!1
+v=7
+x=10
+return A.v(A.wS(n,B.qp,null),$async$Ky)
+case 10:t=f
+v=3
+x=9
+break
+case 7:v=6
+m=u.pop()
+if(n.giU()!=="yandexnavi")throw m
+x=9
+break
+case 6:x=3
+break
+case 9:x=!t&&n.giU()==="yandexnavi"?11:12
+break
+case 11:s=D.dQ8(d,$.p().oQ!=="DRIVE")
+x=s!=null?13:14
+break
+case 13:x=15
+return A.v(A.wS(A.el(s,0,null),B.qp,null),$async$Ky)
+case 15:t=f
+case 14:case 12:p=t
+x=!p?16:17
+break
+case 16:x=18
+return A.v(A.wS(n,B.qp,"_self"),$async$Ky)
+case 18:case 17:v=1
+x=5
+break
+case 3:v=2
+l=u.pop()
+r=A.ay(l)
+p=A.I(n)
+o=A.I(r)
+throw A.P("Could not launch "+p+": "+o)
+x=5
+break
+case 2:x=1
+break
+case 5:return A.z(null,w)
+case 1:return A.y(u.at(-1),w)}})
+return A.A($async$Ky,w)}},D
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[65],C)
+C=a.updateHolder(c[61],C)
+D=c[66]
 var z=a.updateTypes([])
-var y={d:A.am("Q<N>")}};
-(a=>{a["IyGaY4aThGwZ/68JUM6x4Ge+Rd0="]=a.current})($__dart_deferred_initializers__);
+var y={b:A.am("@")}};
+(a=>{a["iDFhabxy7SV+gBOVHdbw3Hq+zn4="]=a.current})($__dart_deferred_initializers__);
