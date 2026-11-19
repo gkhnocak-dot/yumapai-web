@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-e0H(){return new C.B1(null)},
+e0J(){return new C.B1(null)},
 Cu:function Cu(d,e,f,g,h,i){var _=this
 _.a=d
 _.b=e
@@ -11,15 +11,15 @@ _.f=i},
 B1:function B1(d){this.a=d},
 aA3:function aA3(d){this.d=d
 this.c=this.a=null},
-cat:function cat(d){this.a=d},
-cas:function cas(d){this.a=d},
-caq:function caq(d,e,f){this.a=d
+cav:function cav(d){this.a=d},
+cau:function cau(d){this.a=d},
+cas:function cas(d,e,f){this.a=d
 this.b=e
 this.c=f},
-cap:function cap(d,e,f){this.a=d
+car:function car(d,e,f){this.a=d
 this.b=e
 this.c=f},
-car:function car(){}},D,E
+cat:function cat(){}},D,E
 A=c[0]
 B=c[2]
 C=a.updateHolder(c[6],C)
@@ -49,7 +49,7 @@ k=[new C.Cu("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\x
 l=h.gbZ()
 g=x?"Geri":"Back"
 w=h.ga0()
-g=A.aZ(i,!0,i,A.fc(!1,B.ag,!0,i,A.O(!1,i,!0,new A.q(44,44,A.w(B.aX,h.gA(),i,20),i),B.dl,!0,i,i,i,i,D.bg1,i,i,i,i,i,new C.cas(d),i,i,i,i,i,i,i),B.b,w,0,i,i,B.dl,i,i,B.bE),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,g,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.cat(d),i,i,i,i,i,i,i,i,i,i,i,B.M,i)
+g=A.aZ(i,!0,i,A.fc(!1,B.ag,!0,i,A.O(!1,i,!0,new A.q(44,44,A.w(B.aX,h.gA(),i,20),i),B.dl,!0,i,i,i,i,D.bg1,i,i,i,i,i,new C.cau(d),i,i,i,i,i,i,i),B.b,w,0,i,i,B.dl,i,i,B.bE),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,g,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.cav(d),i,i,i,i,i,i,i,i,i,i,i,B.M,i)
 w=x?"Lisanslar ve veri kaynaklar\u0131":"Licences and data sources"
 v=y.e
 w=A.u(A.e([g,B.bz,A.C(A.h(w,i,i,i,i,i,i,i,new A.i(h).gcm().th("Manrope",B.L),i,i,i,i),1)],v),B.E,i,B.B,B.i,0,i,i)
@@ -72,10 +72,10 @@ aU9(d,e,f,g,h){var x,w,v=null,u=this.d.B(0,e),t=y.a,s=A.I(999),r=u?B.x8:B.na
 r=A.w(r,d.gH(),v,v)
 x=h?f+" \xb7 tam metin":f+" \xb7 full text"
 w=y.e
-w=A.e([A.aZ(v,!0,v,A.O(!1,s,!0,new A.j(B.fk,A.u(A.e([r,B.c2,A.C(A.h(x,v,v,v,v,v,v,v,new A.i(d).gka().avk(d.gH(),"Manrope",B.X),v,v,v,v),1)],w),B.E,v,B.B,B.i,0,v,v),v),v,!0,v,v,v,v,new A.Y("lisans_tam_"+e,t),v,v,v,v,v,new C.caq(this,u,e),v,v,v,v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.M,v)],w)
+w=A.e([A.aZ(v,!0,v,A.O(!1,s,!0,new A.j(B.fk,A.u(A.e([r,B.c2,A.C(A.h(x,v,v,v,v,v,v,v,new A.i(d).gka().avk(d.gH(),"Manrope",B.X),v,v,v,v),1)],w),B.E,v,B.B,B.i,0,v,v),v),v,!0,v,v,v,v,new A.Y("lisans_tam_"+e,t),v,v,v,v,v,new C.cas(this,u,e),v,v,v,v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.M,v)],w)
 if(u){s=d.gbZ()
 r=A.I(14)
-w.push(A.d(v,A.dxD(B.u.au(g),new A.Y("lisans_metin_"+e,t),new A.i(d).gm().Wd(1.35)),B.b,v,v,new A.G(s,v,v,r,v,v,v,B.l),v,v,v,v,B.dV,v,v,v))}return A.K(w,B.aq,v,B.B,B.i,0,v,B.m)},
+w.push(A.d(v,A.dxF(B.u.au(g),new A.Y("lisans_metin_"+e,t),new A.i(d).gm().Wd(1.35)),B.b,v,v,new A.G(s,v,v,r,v,v,v,B.l),v,v,v,v,B.dV,v,v,v))}return A.K(w,B.aq,v,B.B,B.i,0,v,B.m)},
 bbg(d,e){var x,w,v,u,t=null,s=this.c
 s.toString
 s=A.aE(s,22)
@@ -85,29 +85,29 @@ w=e?"Flutter ve kulland\u0131\u011f\u0131m\u0131z a\xe7\u0131k kaynak paketlerin
 w=A.h(w,t,t,t,t,t,t,t,new A.i(d).gag(),t,t,t,t)
 v=A.w(B.kX,d.gH(),t,18)
 u=e?"A\xe7\u0131k kaynak lisanslar\u0131n\u0131 g\xf6ster":"Show open-source licences"
-return A.d(t,A.K(A.e([x,B.aD,w,B.bp,new A.f3(new C.car(),A.h(u,t,t,t,t,t,t,t,A.au(t,t,d.gA(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bg_)],y.e),B.Q,t,B.B,B.i,0,t,B.m),B.b,t,t,s,t,t,D.bg0,t,D.Ej,t,t,t)}}
+return A.d(t,A.K(A.e([x,B.aD,w,B.bp,new A.f3(new C.cat(),A.h(u,t,t,t,t,t,t,t,A.au(t,t,d.gA(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bg_)],y.e),B.Q,t,B.B,B.i,0,t,B.m),B.b,t,t,s,t,t,D.bg0,t,D.Ej,t,t,t)}}
 var z=a.updateTypes([])
-C.cat.prototype={
-$0(){return A.qv(this.a)},
+C.cav.prototype={
+$0(){return A.qw(this.a)},
+$S:0}
+C.cau.prototype={
+$0(){return A.qw(this.a)},
 $S:0}
 C.cas.prototype={
-$0(){return A.qv(this.a)},
-$S:0}
-C.caq.prototype={
 $0(){var x=this.a
-return x.k(0,new C.cap(x,this.b,this.c))},
+return x.k(0,new C.car(x,this.b,this.c))},
 $S:0}
-C.cap.prototype={
+C.car.prototype={
 $0(){var x=this.c,w=this.a.d
 return this.b?w.Y(0,x):w.T(0,x)},
 $S:0}
-C.car.prototype={
+C.cat.prototype={
 $0(){return A.fw("licenses")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(C.Cu,A.aj)
 x(C.B1,A.ab)
 x(C.aA3,A.ag)
-w(A.dC,[C.cat,C.cas,C.caq,C.cap,C.car])})()
+w(A.dC,[C.cav,C.cau,C.cas,C.car,C.cat])})()
 A.dB(b.typeUniverse,JSON.parse('{"B1":{"ab":[],"M":[]},"aA3":{"ag":["B1"]}}'))
 var y={i:A.ak("dI"),j:A.ak("Q<+(N,N)>"),e:A.ak("Q<M>"),g:A.ak("N"),a:A.ak("Y<N>")};(function constants(){var x=a.makeConstList
 D.a1M=new A.aJ(0,880,0,1/0)
@@ -118,4 +118,4 @@ D.bg_=new A.Y("lisans_flutter",y.a)
 D.bg0=new A.Y("lisans_yazilim",y.a)
 D.bg1=new A.Y("lisanslar_back",y.a)
 D.bg2=new A.Y("lisanslar_list",y.a)})()};
-(a=>{a["a/Mi8mruHBOF4AG4o5BfDcwuV3s="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Y/1gKZsbwe4fI3Uv/BrBZiQ1EdQ="]=a.current})($__dart_deferred_initializers__);
