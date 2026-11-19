@@ -1,0 +1,874 @@
+Q1089569	May Barajı	37.509120	32.565300	Konya	6	0	baraj	May Dam
+Q1089575	Kayacık Barajı	36.822740	37.568470	Gaziantep	6	0	baraj	Kayacık Dam
+Q1089584	Cip Barajı	38.678100	39.067690	Elazığ	5	0	baraj	Cip Dam
+Q1089587	Çamgazi Barajı	37.681750	38.141150	Adıyaman	6	0	baraj	Çamgazi Dam
+Q1089592	Tatlarin Barajı	38.619690	34.489640	Nevşehir	6	0	baraj	Tatlarin Dam
+Q1089599	Gülüç Barajı	41.243910	31.483620	Zonguldak	6	0	baraj	Gülüç Dam
+Q1089603	Akkaya Barajı	37.918750	34.608840	Niğde	6	1	baraj	Akkaya Dam
+Q1089615	Gümüşler Barajı	38.009063	34.758680	Niğde	6	0	baraj	Gümüşler Dam
+Q1089619	Sevişler Barajı	39.262990	27.553390	Manisa	7	0	baraj	Sevişler Dam
+Q1089626	Kartalkaya Barajı	37.468920	37.239560	Kahramanmaraş	8	1	baraj	Kartalkaya Dam
+Q1089629	Kızılsu Barajı	37.337630	30.562890	Burdur	6	0	baraj	Kızılsu Dam
+Q1089635	Çoğun Barajı	39.324320	34.118520	Kırşehir	5	0	baraj	Çoğun Dam
+Q1089637	Atikhisar Barajı	40.124300	26.523060	Çanakkale	8	0	baraj	Atikhisar Dam
+Q1089638	Medik Barajı	38.510370	38.062940	Malatya	7	0	baraj	Medik Dam
+Q1089645	Enne Barajı	39.472540	29.866040	Kütahya	6	0	baraj	Enne Dam
+Q1089647	Porsuk Barajı	39.635370	30.279250	Eskişehir	9	0	baraj	Porsuk Dam
+Q1090254	Söğüt Barajı	39.423690	30.191460	Kütahya	5	0	baraj	Söğüt Dam
+Q1090262	Koçköprü Barajı ve Hidroelektrik Santrali	39.121950	43.329050	Van	6	0	baraj	Koçköprü Dam
+Q1090263	Ömerli Barajı	41.060900	29.358230	İstanbul	7	1	baraj	Ömerli Dam
+Q1090269	Gökpınar Barajı	37.785980	29.128390	Denizli	5	0	baraj	Gökpınar Dam
+Q1090270	Çatalan Barajı ve Hidroelektrik Santrali	37.198400	35.282700	Adana	11	1	baraj	Çatalan Dam
+Q1090275	Asartepe Barajı	40.144920	32.385950	Ankara	6	0	baraj	Asartepe Dam
+Q1090278	Çayboğazı Barajı	36.527980	29.682620	Antalya	6	0	baraj	Çayboğazı Dam
+Q1090281	Kozan Barajı	37.518490	35.831450	Adana	8	1	baraj	Kozan Dam
+Q1090286	Mumcular Barajı	37.117750	27.659960	Muğla	6	0	baraj	Mumcular Dam
+Q1090288	Yenice Barajı ve Hidroelektrik Santrali	40.063440	30.856640	Eskişehir	7	0	baraj	Yenice Dam
+Q1090293	Kaymaz Barajı	39.543220	31.217540	Eskişehir	6	0	baraj	Kaymaz Dam
+Q1090294	Bakacak Barajı	40.183517	27.022154	Çanakkale	7	0	baraj	Bakacak Dam
+Q1090299	Düzağaç Akdeğirmen Barajı	38.818230	30.215140	Afyonkarahisar	7	0	baraj	Akdeğirmen Dam
+Q1090302	Uluköy Barajı	40.778700	36.394400	Amasya	6	0	baraj	Uluköy Dam
+Q1090305	Ürkmez Barajı	38.093540	26.955440	İzmir	7	0	baraj	Ürkmez Dam
+Q1090309	Ağcaşar Barajı	38.184850	35.395580	Kayseri	6	1	baraj	Ağcaşar Dam
+Q1090310	Beyler Barajı	41.677360	33.790850	Kastamonu	8	1	baraj	Beyler Dam
+Q1090317	Hasanağa Barajı	40.161510	28.792950	Bursa	6	0	baraj	Hasanağa Dam
+Q1090318	Patnos Barajı	39.273147	42.897472	Ağrı	7	0	baraj	Patnos Dam
+Q1090323	Doğancı-1 Barajı	40.113890	28.963080	Bursa	7	0	baraj	Doğancı-1 Dam
+Q1090329	Nergizlik Barajı	37.298800	35.049110	Adana	7	0	baraj	Nergizlik Dam
+Q1090334	Armağan Barajı	41.883370	27.436280	Kırklareli	6	0	baraj	Armağan Dam
+Q1090339	Yaylakavak Barajı	37.576030	27.804330	Aydın	6	0	baraj	Yaylakavak Dam
+Q1090346	Çamlıgöze Barajı ve Hidroelektrik Santrali	40.229020	38.076140	Sivas	7	1	baraj	Çamlıgöze Dam
+Q1090354	Bozkır Barajı	38.764390	34.086680	Aksaray	6	0	baraj	Bozkır Dam
+Q1090355	Seve Barajı	36.735610	37.242630	Kilis	6	0	baraj	Seve Dam
+Q1090359	Güldürcek Barajı	40.568850	32.950410	Çankırı	6	0	baraj	Güldürcek Dam
+Q1090362	Örenler Barajı	38.613440	30.222920	Afyonkarahisar	7	0	baraj	Örenler Dam
+Q1090368	Çamlıdere Barajı	40.388110	32.382130	Ankara	8	1	baraj	Çamlıdere Dam
+Q1090372	Karacaören-2 Barajı ve Hidroelektrik Santrali	37.306720	30.808880	Burdur	8	0	baraj	Karacaören-2 Dam
+Q1090374	Akgedik Barajı	37.329600	27.820280	Muğla	7	0	baraj	Akgedik Dam
+Q1090378	Aslantaş Barajı ve Hidroelektrik Santrali	37.272880	36.270960	Osmaniye	8	1	baraj	Aslantaş Dam
+Q1090380	Adıgüzel Barajı ve Hidroelektrik Santrali	38.159010	29.205880	Denizli	8	1	baraj	Adıgüzel Dam
+Q1090386	Kozlu Barajı	41.420370	31.801800	Zonguldak	6	0	baraj	Kozlu Dam
+Q1090393	Gökçe Barajı	40.599590	29.202160	Yalova	7	1	baraj	Gökçe Dam
+Q1090401	Uluborlu Barajı	38.058650	30.414570	Isparta	6	1	baraj	Uluborlu Dam
+Q1090408	Gönen Barajı ve Hidroelektrik Santrali	39.969840	27.444740	Çanakkale	8	1	baraj	Gönen Dam
+Q1090415	Çakmak Barajı	41.109840	36.633470	Samsun	6	0	baraj	Çakmak Dam
+Q1090421	Gölova Barajı	40.045010	38.622590	Sivas	6	0	baraj	Gölova Dam
+Q1090426	Geyik Barajı	37.382240	27.888530	Muğla	7	0	baraj	Geyik Dam
+Q1090431	Berdan Barajı ve Hidroelektrik Santrali	36.966017	34.895261	Mersin	7	0	baraj	Berdan Dam
+Q1090436	Yarseli Barajı	36.193730	36.326970	Hatay	6	0	baraj	Yarseli Dam
+Q1090440	Çavdır Barajı	37.072100	29.729600	Burdur	6	1	baraj	Çavdır Dam
+Q1090445	Sarıbeyler Barajı	39.408100	27.608900	Balıkesir	6	0	baraj	Sarıbeyler Dam
+Q1090448	Karaova Barajı	39.558970	33.911120	Kırşehir	7	0	baraj	Karaova Dam
+Q1090453	Topçam Barajı	37.689800	28.007950	Aydın	7	0	baraj	Topçam Dam
+Q1090460	Alaçatı Barajı	38.282840	26.405950	İzmir	6	0	baraj	Alaçatı Dam
+Q1090465	Çamköy Barajı	39.463050	28.166570	Balıkesir	5	0	baraj	Çamköy Dam
+Q1090471	Kunduzlar Barajı	39.356440	30.568240	Eskişehir	6	0	baraj	Kunduzlar Dam
+Q1090477	Sultanköy Barajı	41.037850	26.481780	Edirne	7	0	baraj	Sultanköy Dam
+Q1090485	4 Eylül Barajı	39.833720	37.062210	Sivas	6	1	baraj	4 Eylül Dam
+Q1090491	Mursal Barajı ve Hidroelektrik Santrali	39.143520	37.980990	Sivas	6	0	baraj	Mursal Dam
+Q1090497	Gödet Barajı	37.116380	33.278010	Karaman	6	0	baraj	Gödet Dam
+Q1090504	Balçova Barajı	38.372810	27.038540	İzmir	7	1	baraj	Balçova Dam
+Q1090509	Büyükçekmece Barajı	41.025180	28.570710	İstanbul	6	1	baraj	Büyükçekmece Dam
+Q1090514	Çorum Barajı	40.580800	34.988800	Çorum	6	0	baraj	Çorum Dam
+Q1090518	Kızılcapınar Barajı ve Hidroelektrik Santrali	41.241090	31.616700	Zonguldak	5	1	baraj	Kızılcapınar Dam
+Q1090525	Gayt Barajı	39.024150	40.339500	Bingöl	7	0	baraj	Gayt Dam
+Q1090529	Akyar Barajı	40.585430	32.579660	Ankara	7	0	baraj	Akyar Dam
+Q1090533	Sazlıdere Barajı	41.105833	28.718333	İstanbul	6	0	baraj	Sazlıdere Dam
+Q1090536	İvriz Barajı	37.445700	34.159800	Konya	6	0	baraj	İvriz Dam
+Q1090542	Kovalı Barajı	38.170180	35.147360	Kayseri	6	0	baraj	Kovalı Dam
+Q1090549	Sücüllü Barajı	38.369730	31.140340	Isparta	6	0	baraj	Sücüllü Dam
+Q1090556	Çavdarhisar Barajı	39.176000	29.583610	Kütahya	7	0	baraj	Çavdarhisar Dam
+Q1090561	Bayramiç Barajı	39.822740	26.667220	Çanakkale	9	0	baraj	Bayramiç Dam
+Q1090567	Tercan Barajı ve Hidroelektrik Santrali	39.751570	40.400380	Erzincan	7	0	baraj	Tercan Dam
+Q1090573	Demirdöven Barajı	40.039320	41.736880	Erzurum	6	0	baraj	Demirdöven Dam
+Q1090579	Yahyasaray Barajı	39.504430	35.718280	Yozgat	6	0	baraj	Yahyasaray Dam
+Q1090589	Eğrekkaya Barajı	40.494910	32.665860	Ankara	7	1	baraj	Eğrekkaya Dam
+Q1090594	Gelingüllü Barajı	39.609480	35.043530	Yozgat	8	1	baraj	Gelingüllü Dam
+Q1090600	Hacıhıdır Barajı	37.713670	39.192430	Şanlıurfa	5	0	baraj	Hacıhıdır Dam
+Q1090606	Demirtaş Barajı	40.287870	29.113720	Bursa	7	0	baraj	Demirtaş Dam
+Q1090615	Yayladağı Barajı	35.945490	36.060460	Hatay	6	0	baraj	Yayladağ Dam
+Q1090621	Güzelhisar Barajı	38.790952	27.105291	İzmir	7	0	baraj	Güzelhisar Dam
+Q1090627	Bademli Barajı	37.434040	29.909460	Burdur	6	1	baraj	Bademli Dam
+Q1090633	Gazibey Barajı	39.330420	36.665430	Sivas	6	0	baraj	Gazibey Dam
+Q1090672	Boztepe Barajı	40.175833	35.870833	Tokat	6	0	baraj	Boztepe Dam
+Q1091457	Karacaören-1 Barajı ve Hidroelektrik Santrali	37.370010	30.829120	Burdur	9	1	baraj	Karacaören-1 Dam
+Q1091467	Gökçeada Barajı	40.179170	25.866800	Çanakkale	7	1	baraj	Gökçeada Dam
+Q1091478	Kuzgun Barajı ve Hidroelektrik Santrali	40.186750	41.064520	Erzurum	7	0	baraj	Kuzgun Dam
+Q1091496	Çatören Barajı	39.324600	30.578150	Eskişehir	7	1	baraj	Çatören Dam
+Q1091506	Darlık Barajı	41.115190	29.568290	İstanbul	6	0	baraj	Darlık Dam
+Q1091516	Murtaza Barajı	38.151620	34.581670	Niğde	6	0	baraj	Murtaza Dam
+Q1091540	Dumluca Barajı	37.416200	40.141700	Mardin	6	0	baraj	Dumluca Dam
+Q1927376	Karkamış Barajı ve Hidroelektrik Santrali	36.870520	38.029890	Gaziantep|Şanlıurfa	10	1	baraj	Karkamış Dam
+Q2260172	Buldan Barajı	38.156810	28.843860	Denizli	9	0	baraj	Buldan Dam
+Q2260223	Mamasın Barajı	38.402090	34.132110	Aksaray	8	1	baraj	Mamasın Dam
+Q2260764	Hirfanlı Barajı ve Hidroelektrik Santrali	39.272810	33.518700	Kırşehir	10	1	baraj	Hirfanlı Dam
+Q2271832	Kiğı Barajı	39.370350	40.349610		4	1	baraj	Kiğı Dam
+Q2577512	Yortanlı Barajı	39.228440	27.324460	İzmir	5	0	baraj	Yortanlı Dam
+Q2885009	Akköy Barajı	38.318340	35.028560	Kayseri	6	0	baraj	Akköy Dam
+Q2885011	Alibey Barajı	41.100980	28.920390	İstanbul	6	1	baraj	Alibey Dam
+Q2885067	Boztepe Barajı (Edirne)	40.850566	26.528978	Edirne	1	0	baraj	
+Q2885070	Boztepe Barajı, Malatya	38.680610	38.143750	Malatya	3	0	baraj	Boztepe Dam
+Q2885099	Cizre Barajı	37.362926	42.154713		5	0	baraj	Cizre Dam
+Q2885106	Deliçay Barajı	37.136880	33.168150	Karaman	4	0	baraj	Deliçay Dam
+Q2885109	Derebucak Barajı	37.364190	31.542550	Konya	5	0	baraj	Derebucak Dam
+Q2885113	Dilimli Barajı	37.620920	44.364780	Hakkari	4	0	baraj;dolgu barajı	Dilimli Dam
+Q2885116	Dodurga Barajı	41.524560	34.973710	Sinop	5	0	baraj	Dodurga Dam
+Q2885160	Kalecik Barajı	38.957500	40.059167	Elazığ	3	0	baraj	Kalecik Barajı
+Q2885168	Kalecik Barajı, Osmaniye	37.147620	36.459310	Osmaniye	6	0	baraj	Kalecik Dam
+Q2885173	Kapulukaya Barajı ve Hidroelektrik Santrali	39.730450	33.483680	Kırıkkale	7	0	baraj	Kapulukaya Dam
+Q2885176	Karamanlı Barajı	37.396000	29.836200	Burdur	3	1	baraj	Karamanlı Barajı
+Q2885179	Kayalıköy Barajı	41.788520	27.135460	Kırklareli	5	0	baraj	Kayalıköy Dam
+Q2885185	Kocadere Barajı	40.871045	26.641596	Edirne	2	0	baraj	Kocadere Barajı
+Q2885191	Korkuteli Barajı	37.081000	30.165560	Antalya	6	1	baraj	Korkuteli Barajı
+Q2885194	Kültepe Barajı	38.815250	34.169220	Aksaray	5	0	baraj	Kültepe Dam
+Q2885197	Kuzfındık Barajı	39.692680	30.052110	Eskişehir	4	0	baraj	Kuzfındık Dam
+Q2885200	Kılavuzlu Barajı ve Hidroelektrik Santrali	37.625950	36.803020	Kahramanmaraş	8	1	baraj	Kılavuzlu Dam
+Q2885225	Manyas Barajı ve Hidroelektrik Santrali	39.974740	27.781700	Balıkesir	6	0	baraj	Manyas Dam
+Q2885244	Muratlı Barajı ve Hidroelektrik Santrali	41.466510	41.714040	Artvin	8	0	baraj	Muratlı Dam
+Q2885282	Sarımsaklı Barajı	38.889670	35.733690	Kayseri	5	0	baraj	Sarmısaklı Barajı
+Q2885305	Suat Uğurlu Barajı ve Hidroelektrik Santrali	41.074690	36.671020	Samsun	8	0	baraj	Suat Uğurlu Dam
+Q2885309	Süloğlu Barajı	41.790050	26.917090	Edirne	5	0	baraj	Süloğlu Dam
+Q2885318	Tortum Barajı	40.656620	41.659620	Artvin	5	1	baraj	Tortum Dam
+Q2885336	Yapraklı Barajı	37.029340	29.453060	Burdur	8	1	baraj	Yapraklı Dam
+Q2885343	Yenihayat Barajı	40.392744	34.667100	Çorum	5	0	baraj	Yenihayat Dam
+Q2885348	Alakır Barajı	36.428630	30.237000	Antalya	6	0	baraj	Alakır Dam
+Q2885382	Çokal Barajı	40.683140	27.007450	Tekirdağ|Çanakkale	5	0	baraj	Çokal Dam
+Q2885384	Adnan Menderes Barajı	37.494800	28.128650	Aydın	9	1	baraj	Çine Dam
+Q2885387	Çubuk-2 Barajı	40.288100	33.020400	Ankara	7	1	baraj	Çubuk-2 Dam
+Q3707521	Nilüfer Barajı	40.011660	29.116270	Bursa	5	0	baraj	Nilüfer Dam
+Q4455837	Terkos Barajı	41.336310	28.617890		4	0	baraj	Terkos Dam
+Q4700698	Akhasan Barajı	40.742120	32.796100	Çankırı	5	0	baraj	Akhasan Dam
+Q4734770	Alpaslan-1 Barajı ve Hidroelektrik Santrali	39.049110	41.818660	Muş	5	0	baraj	Alpaslan-1 Dam
+Q4735657	Alpu Barajı	40.061420	36.099770	Tokat	3	0	baraj	Alpu Dam
+Q4831243	Ayhanlar Barajı	38.813750	34.721860	Nevşehir	3	0	baraj	Ayhanlar Dam
+Q4831853	Ayvacık Barajı	39.603010	26.452790	Çanakkale	6	1	baraj	Ayvacık Dam
+Q4831856	Ayvalı Barajı	37.577090	37.137260	Kahramanmaraş	3	0	baraj	Ayvalı Dam
+Q4837538	Babasultan Barajı	40.128631	29.385400	Bursa	4	1	baraj	Babasultan Dam
+Q4874396	Bayburt Barajı	40.523630	42.808980	Kars	4	0	baraj	Bayburt Dam
+Q4874765	Bayramdere Barajı	40.336270	26.810860	Çanakkale	3	0	baraj	Bayramdere Dam
+Q4875057	Bayır Barajı	37.287140	28.257050	Muğla	3	0	baraj	Bayır Dam
+Q4875359	Başköy Barajı	39.408820	41.657450		2	0	baraj	Başköy Dam
+Q4883041	Belkaya Barajı	37.284300	29.602220	Burdur	3	0	baraj	Belkaya Dam
+Q4899840	Beydağ Barajı	38.105460	28.215060	İzmir	5	0	baraj	Beydağ Dam
+Q4899893	Beylikova Barajı	39.727230	31.204850	Eskişehir	2	0	baraj	Beylikova Dam
+Q4900345	Bezirgan Barajı	41.394500	33.407000	Kastamonu	2	0	baraj	Bezirgan Dam
+Q4900451	Beşkarış Barajı	38.958080	30.151450	Kütahya	5	0	baraj	Beşkarış Dam
+Q4952946	Boğazköy Barajı	40.173780	29.524500	Bursa	5	0	baraj	Boğazköy Dam
+Q1518263	Seyhan Barajı ve Hidroelektrik Santrali	37.039340	35.332010	Adana	12	1	baraj	Seyhan Dam
+Q1548059	Menzelet Barajı ve Hidroelektrik Santrali	37.676920	36.850410	Kahramanmaraş	8	1	baraj	Menzelet Dam
+Q1569719	Manavgat Barajı ve Hidroelektrik Santrali	36.834730	31.518090	Antalya	8	1	baraj	Manavgat Dam
+Q1588084	Hasan Uğurlu Barajı ve Hidroelektrik Santrali	40.936150	36.646380	Samsun	9	1	baraj	Hasan Uğurlu Dam
+Q1737672	Keban Barajı ve Hidroelektrik Santrali	38.806944	38.756944	Elazığ	22	1	baraj	Keban Dam
+Q1748415	Onaç-2 Barajı	37.491460	30.569690	Burdur	5	0	baraj	Onaç-2 Dam
+Q1091549	Polat Barajı	38.126500	37.779770	Malatya	6	0	baraj	Polat Dam
+Q1091559	Yedikır Barajı	40.775600	35.570300	Amasya	6	0	baraj	Yedikır Dam
+Q1091798	Ataköy Barajı ve Hidroelektrik Santrali	40.424890	36.881340	Tokat	7	0	baraj	Ataköy Dam
+Q1091806	Seferihisar Barajı	38.215650	26.877560	İzmir	8	0	baraj	Seferihisar Dam
+Q1091809	Belpınar Barajı	40.183010	35.949270	Tokat	6	0	baraj	Belpınar Dam
+Q1091814	Sorgun Barajı	37.836170	31.100640	Isparta	5	0	baraj	Sorgun Dam
+Q1091820	Sıddıklı Barajı	39.140350	33.910830	Kırşehir	5	0	baraj	Sıddıklı Dam
+Q1091821	İkizcetepeler Barajı	39.491760	27.939260	Balıkesir	6	0	baraj	İkizcetepeler Dam
+Q1091833	Kirazdere Barajı	40.674200	29.969430	Kocaeli	8	1	baraj	Kirazdere Dam
+Q1091839	Madra Barajı	39.237080	26.842700	Balıkesir|İzmir	7	0	baraj	Madra Dam
+Q1129642	Altunhisar Barajı	37.980130	34.389710	Niğde	5	0	baraj	Altınhisar Dam
+Q1374176	Birecik Barajı ve Hidroelektrik Santrali	37.053920	37.889860	Gaziantep|Şanlıurfa	13	1	baraj	Birecik Dam
+Q152556	Karakaya Barajı ve Hidroelektrik Santrali	38.226520	39.135700	Diyarbakır|Elazığ	25	1	baraj	Karakaya Dam
+Q256099	Borçka Barajı ve Hidroelektrik Santrali	41.349590	41.686610	Artvin	10	1	baraj	Borçka Dam
+Q267399	Erzincan Barajı	39.803950	39.293770	Erzincan	6	0	baraj	Erzincan Dam
+Q368593	Kayaboğazı Barajı	39.416870	29.617080	Kütahya	6	0	baraj	Kayaboğazı Dam
+Q384511	Kozağacı Barajı	37.025880	29.635930	Burdur	7	0	baraj	Kozağacı Dam
+Q420151	Akköprü Barajı ve Hidroelektrik Santrali	36.897820	28.902250	Muğla	7	1	baraj	Akköprü Dam
+Q426801	Germeçtepe Barajı	41.447360	33.635320	Kastamonu	5	0	baraj	Germeçtepe Dam
+Q478485	Yapıaltın Barajı	39.297760	36.415630	Sivas	6	0	baraj	Yapıaltın Dam
+Q516948	Sultansuyu Barajı	38.318670	38.051830	Malatya	5	0	baraj	Sultansuyu Dam
+Q584704	Sarayözü Barajı	40.920210	35.194690	Amasya	7	0	baraj	Sarayözü Dam
+Q585514	Tayfur Barajı	40.384481	26.487581	Çanakkale	6	0	baraj	Tayfur Dam
+Q598946	Çaygören Barajı	39.272260	28.217600	Balıkesir	7	0	baraj	Çaygören Dam
+Q612091	Kırklareli Barajı	41.738960	27.279130	Kırklareli	7	0	baraj	Kırklareli Dam
+Q612307	Sarımehmet Barajı	38.792900	43.743450	Van	6	0	baraj	Sarımehmet Dam
+Q648039	Tahtaköprü Barajı	36.856800	36.688020	Gaziantep	6	0	baraj	Tahtaköprü Dam
+Q674535	Kılıçkaya Barajı ve Hidroelektrik Santrali	40.242050	38.187080	Sivas	9	1	baraj	Kılıçkaya Dam
+Q677072	Gökçekaya Barajı ve Hidroelektrik Santrali	40.033150	31.015990	Eskişehir	9	0	baraj	Gökçekaya Dam
+Q683722	Çat Barajı	38.068280	38.312230	Adıyaman	5	1	baraj	Çat Dam
+Q736734	Afşar Barajı	38.246130	28.603070	Manisa	6	0	baraj	Afşar Dam
+Q738309	Derbent Barajı ve Hidroelektrik Santrali	41.461300	35.842060	Samsun	9	0	baraj	Derbent Dam
+Q743041	Kızıldamlar Barajı	40.040780	30.117240	Bilecik	7	0	baraj	Kızıldamlar Dam
+Q745032	Çatak Barajı	41.784510	33.667210	Kastamonu	5	0	baraj	Çatak Dam
+Q746356	Hancağız Barajı	36.960190	37.891370	Gaziantep	5	0	baraj	Hancağız Dam
+Q753776	Atatürk Barajı ve Hidroelektrik Santrali	37.481667	38.317500	Adıyaman|Şanlıurfa	27	1	baraj	Atatürk Dam
+Q784158	Alaca Barajı	40.107660	34.838550	Çorum	6	0	baraj	Alaca Dam
+Q15191796	Artvin Barajı ve Hidroelektrik Santrali	40.932400	41.769220		5	0	baraj	Artvin Dam
+Q15238573	Kirazlık Barajı	37.922778	42.060833	Siirt	1	0	baraj	Kirazlık Dam
+Q810848	Batman Barajı ve Hidroelektrik Santrali	38.160530	41.202520	Diyarbakır	9	1	baraj	Batman Dam
+Q820828	Berke Barajı ve Hidroelektrik Santrali	37.372910	36.461350	Kahramanmaraş	8	1	baraj	Berke Dam
+Q895864	Boyabat Barajı	41.338640	35.001830		5	0	baraj	Boyabat Dam
+Q935562	Karaidemir Barajı	40.953510	27.007100	Tekirdağ	6	0	baraj	Karaidemir Dam
+Q939312	Uzunlu Barajı	39.255540	35.418480	Yozgat	6	0	baraj	Uzunlu Dam
+Q959535	Kurtboğazı Barajı	40.269860	32.700800	Ankara	7	1	baraj	Kurtboğazı Dam
+Q966723	Sille Barajı	37.926389	32.400278	Konya	7	0	baraj	Sille Dam
+Q974488	Kestel Barajı	39.132150	27.190770	İzmir	8	0	baraj	Kestel Dam
+Q979619	Büyükorhan Barajı	39.793920	28.918940	Bursa	7	0	baraj	Büyükorhan Dam
+Q980943	Maksutlu Barajı	39.377800	36.494910	Sivas	7	0	baraj	Maksutlu Dam
+Q985220	Kayraktepe Barajı	36.513889	33.518333	Mersin	2	0	baraj	Kayraktepe Dam
+Q1089262	Damsa Barajı	38.553810	34.921700	Nevşehir	7	1	baraj	Damsa Dam
+Q1089269	Selevir Barajı	38.512970	30.717820	Afyonkarahisar	7	0	baraj	Selevir Dam
+Q1089277	Kadıköy Barajı	40.793260	26.773180	Edirne	6	0	baraj	Kadıköy Dam
+Q1089288	Ayrancı Barajı	37.336110	33.726600	Karaman	6	0	baraj	Ayrancı Dam
+Q1089302	Onaç-1 Barajı	37.481050	30.568580	Burdur	6	0	baraj	Onaç-1 Dam
+Q1089311	Apa Barajı	37.360720	32.546100	Konya	6	0	baraj	Apa Dam
+Q1089321	Sürgü Barajı	38.034910	37.879540	Malatya	6	0	baraj	Sürgü Dam
+Q1089330	Gölköy Barajı	40.695000	31.532850	Bolu	7	1	baraj	Gölköy Dam
+Q1089366	Kesikköprü Barajı ve Hidroelektrik Santrali	39.395600	33.420920	Ankara	10	1	baraj	Kesikköprü Dam
+Q1089374	Karaçomak Barajı	41.318830	33.744660	Kastamonu	7	1	baraj	Karaçomak Dam
+Q1089383	Altınapa Barajı	37.881670	32.304830	Konya	9	1	baraj	Altınapa Dam
+Q1089390	Darıdere Barajı	39.792320	29.965430	Bilecik	6	0	baraj	Darıdere Dam
+Q1089396	Hasanlar Barajı ve Hidroelektrik Santrali	40.910250	31.276730	Düzce	7	0	baraj	Hasanlar Dam
+Q1089406	Musaözü Barajı	39.697220	30.323950	Eskişehir	6	0	baraj	Musaözü Dam
+Q1089443	Adatepe Barajı	38.107480	36.739240	Kahramanmaraş	6	0	baraj	Adatepe Dam
+Q1089450	Gebere Barajı	38.045470	34.637410	Niğde	6	0	baraj	Gebere Dam
+Q1089455	Elmalı-2 Barajı	41.076250	29.117180	İstanbul	6	0	baraj	Elmalı-2 Dam
+Q1089459	Bayındır Barajı	39.914970	32.992250	Ankara	7	1	baraj	Bayındır Dam
+Q1089498	Gölbaşı Barajı	40.218220	29.318690	Bursa	7	0	baraj	Gölbaşı Dam
+Q1089503	Kemer Barajı ve Hidroelektrik Santrali	37.572180	28.524980	Aydın	6	1	baraj	Kemer Dam
+Q1089508	Demirköprü Barajı	38.616630	28.311720	Manisa	9	0	baraj	Demirköprü Dam
+Q1089550	Altınyazı Barajı	41.079540	26.587200	Edirne	7	0	baraj	Altınyazı Dam
+Q1089555	Mehmetli Barajı	37.507750	36.021380	Osmaniye	7	0	baraj	Mehmetli Dam
+Q1089564	Seyitler Barajı	38.787040	30.787980	Afyonkarahisar	7	0	baraj	Seyitler Dam
+Q7663320	Suriye-Türkiye Dostluk Barajı	36.166900	36.364700		3	0	baraj	Syria–Turkey Friendship Dam
+Q7666764	Süreyyabey Barajı ve Hidroelektrik Santrali	40.043630	35.549720	Yozgat	4	0	baraj	Süreyyabey Dam
+Q7881866	Umurbey Barajı	40.242720	26.671150	Çanakkale	3	0	baraj	Umurbey Dam
+Q7924253	Vezirköprü Barajı	41.159360	35.421460	Samsun	3	0	baraj	Vezirköprü Dam
+Q8047536	Yalvaç Barajı	38.369360	31.140620		1	0	baraj	Yalvaç Dam
+Q8050653	Yazıcı Barajı	39.784050	43.163880	Ağrı	3	0	baraj	Yazıcı Dam
+Q8052313	Yenidere Barajı	37.606280	28.898540		2	0	baraj	Yenidere Dam
+Q8054909	Yoncalı Barajı	39.006556	38.259361		2	0	baraj	Yoncalı Dam
+Q8062008	Yusufeli Barajı ve Hidroelektrik Santrali	40.816111	41.644722	Artvin	10	1	baraj	Yusufeli Dam
+Q8077464	Çaltıkoru Barajı	39.243260	27.335380	İzmir	5	0	baraj	Çaltıkoru Dam
+Q8077835	Çıldır Barajı ve Hidroelektrik Santrali	40.933900	43.292630	Kars	2	0	baraj	Çıldır Dam
+Q8077837	Çınarcık Barajı ve Hidroelektrik Santrali	40.016010	28.773870	Bursa	4	0	baraj	Çınarcık Dam
+Q8079122	Pusat-Özen Barajı	40.016670	37.402540	Sivas	4	0	baraj	Özen Dam
+Q8080038	İbrala Barajı	37.216990	33.395830		2	1	baraj	İbrala Dam
+Q8080080	İkizdere Barajı	37.890510	27.741140	Aydın	4	0	baraj	İkizdere Dam
+Q8080114	İmranlı Barajı	39.880380	38.167780	Sivas	5	0	baraj	İmranlı Dam
+Q12811715	Sarıoğlan Barajı	39.016970	36.087810	Kayseri	4	0	baraj	Sarıoğlan Dam
+Q12812106	Taşoluk Barajı	40.196030	27.354250	Çanakkale	3	0	baraj	Taşoluk Dam
+Q12812611	Yeşilburç Barajı	38.013390	34.660470	Niğde	3	0	baraj	Yeşilburç Dam
+Q17127531	Gölpınar Hitit barajı	40.223611	34.708056		4	1	baraj	Gölpınar Dam
+Q18746827	Kavşakkaya Barajı	40.306260	32.930840		3	1	baraj	Kavşakkaya Dam
+Q19279516	Feke 2 Barajı	37.744674	35.864971	Adana	3	1	baraj	Feke-2 dam
+Q19296210	Menge Barajı	37.704855	35.723493	Adana	2	0	baraj	Menge Dam
+Q19312065	Zeytinova Barajı	38.215000	27.731111	İzmir	2	0	baraj	Zeytinova Dam
+Q20472019	Eşen 1 Barajı ve Hidroelektrik Santrali	36.834560	29.500820		3	1	baraj	
+Q20472105	Melen Barajı ve Hidroelektrik Santrali	41.004450	30.964130		1	1	baraj	
+Q20472145	Kayabeyi Barajı	41.167950	42.955850	Ardahan	2	0	baraj	Kayabeyi Dam
+Q20473685	Gökçebel Barajı	40.644980	38.879040		1	1	baraj	Gökçebel Dam
+Q20476911	Yaşmaklı Barajı ve Hidroelektrik Santrali	40.698060	38.924100		2	0	baraj	Yaşmaklı Dam
+Q5255424	Demirözü Barajı	40.129300	39.899300		2	0	baraj	Demirözü Dam
+Q5262599	Derinöz Barajı	40.848312	35.841148		2	0	baraj	Derinöz Dam
+Q5303718	Doyduk Barajı	39.205160	34.738220	Nevşehir	2	0	baraj	Doyduk Dam
+Q5385756	Erfelek Barajı	41.867770	34.776560	Sinop	4	1	baraj	Erfelek Dam
+Q5423531	Eşmekaya Barajı	38.303370	33.434960		1	0	baraj	Eşmekaya Dam
+Q5626584	Güneşli Barajı	39.054722	28.361667	Manisa	1	0	baraj	Güneşli Dam
+Q5626820	Gülbahar Barajı	38.918280	40.684730		2	0	baraj	Gülbahar Dam
+Q5627106	Günyurdu Barajı	40.031017	29.853914	Bilecik	4	0	baraj	Günyurdu Dam
+Q5627192	Güzelce Barajı	40.103776	36.566118		2	0	baraj	Güzelce Dam
+Q5646525	Hamzadere Barajı	40.754820	26.393380	Edirne	2	0	baraj	Hamzadere Dam
+Q5680957	Hatap Barajı	40.371220	34.801840		2	0	baraj	Hatap Dam
+Q5684054	Havran Barajı	39.574670	27.172280	Balıkesir	4	0	baraj	Havran Dam
+Q6009493	Rahmanlar Barajı	38.274444	27.931111	İzmir	1	0	baraj	Rahmanlar Dam
+Q6031409	Çakmak Barajı, Edirne	41.377140	26.681470		2	0	baraj	Çakmak Dam
+Q6034755	Topçam Barajı	40.601930	37.739030		3	0	baraj	Topçam Dam
+Q6039452	Karareis Barajı	38.499722	26.442222	İzmir	1	0	baraj	Karareis Dam
+Q6045094	Yamula Barajı ve Hidroelektrik Santrali	38.904000	35.271000	Kayseri	8	1	baraj	Yamula Dam and Hydroelectric Plant
+Q6053142	Salman Barajı	38.583889	26.388889	İzmir	1	0	baraj	Salman Dam
+Q6103480	Işıklı Gölü Barajı	38.214565	29.829373	Denizli	2	0	baraj	Işıklı Dam
+Q6367422	Kapıkaya Barajı	38.353220	38.607290		2	0	baraj	Kapıkaya Dam
+Q6367685	Karacalar Barajı	39.449480	36.953810	Sivas	3	0	baraj	Karacalar Dam
+Q6367692	Karacasu Barajı	37.781360	28.595990	Aydın	3	0	baraj	Karacasu Dam
+Q6367836	Karadere Barajı	41.577040	34.079650		3	0	baraj	Karadere Dam
+Q6368294	Karamanlı Barajı	37.395740	29.836590		3	1	baraj	Karamanlı Dam
+Q6368905	Karaçal Barajı	37.558770	30.083780		3	1	baraj	Karaçal Dam
+Q6370304	Kargı Barajı	39.966170	31.740120	Ankara|Eskişehir	5	0	baraj	Kargı Dam
+Q6379011	Kavakdere Barajı	38.177240	26.901600	İzmir	5	0	baraj	Kavakdere Dam
+Q6414879	Kirazlıköprü Barajı ve Hidroelektrik Santrali	41.827770	32.749880	Bartın|Kastamonu	2	0	baraj	Kirazlıköprü Dam
+Q6432756	Koruluk Barajı	40.241880	39.117390		2	0	baraj	Koruluk Dam
+Q6435179	Koyuntepe Barajı	40.798356	26.373873	Edirne	2	0	baraj	Koyuntepe Dam
+Q6435463	Koçhisar Barajı	40.098180	34.943940		3	0	baraj	Koçhisar Dam
+Q6442762	Kulaksızlar Barajı	41.634610	33.927750	Kastamonu	4	0	baraj	Kulaksızlar Dam
+Q6445903	Kureyşler Barajı	39.297210	29.849020		2	0	baraj	Kureyşler Dam
+Q6453999	Köse Barajı	40.234890	39.630350		2	0	baraj	Köse Dam
+Q6454244	Küçükler Barajı	38.745299	29.716963	Uşak	4	0	baraj	Küçükler Dam
+Q6912013	Morgedik Barajı	39.161980	43.636730		2	0	baraj	Morgedik Dam
+Q7092217	Ondokuzmayıs Barajı	41.459000	36.029840		2	0	baraj	Ondokuzmayıs Dam
+Q7156970	Pazaryolu Barajı	40.404722	40.778889	Erzurum	3	0	baraj	Pazaryolu Dam
+Q7423463	Saraydüzü Barajı	41.335620	34.721280	Sinop	3	0	baraj	Saraydüzü Dam
+Q26838732	Taşköprü, Beyşehir	37.680694	31.722778		3	1	baraj	Taşköprü, Beyşehir
+Q30621512	Pamukluk Barajı	37.066667	34.716667	Mersin	4	1	baraj	Pamukluk Dam
+Q30624336	Erkenek Barajı	37.909722	37.810278	Adıyaman	3	0	baraj	Erkenek Dam
+Q31188929	Bozköy Barajı	38.626389	26.465278	İzmir	1	0	baraj	Bozköy Dam
+Q23763135	Tatar Barajı	38.863072	39.816892		2	0	baraj	Tatar Dam
+Q24915720	Topuzlu Barajı	41.182778	28.993333		1	0	baraj	Topuzlu Dam
+Q24915721	Valide Barajı	41.191111	28.987778	İstanbul	3	1	baraj	Valide Dam
+Q25248121	Yeni Baraj (İstanbul)	41.189722	28.986111		2	1	baraj	New Dam
+Q32828466	Beylik Barajı	39.696389	30.977222	Eskişehir	1	0	baraj	Beylik Barajı
+Q32828468	Beylikova Barajı	39.692778	31.189444	Eskişehir	1	0	baraj	Beylikova Barajı
+Q32829056	Bıyıkali Barajı	41.005278	27.380833	Tekirdağ	1	0	baraj	Bıyıkali Barajı
+Q32829755	Borçak Barajı	40.038333	30.207500	Bilecik	1	0	baraj	Borcak Barajı
+Q32829779	Bostancılar Barajı	41.447778	32.951389	Karabük	1	0	baraj	Bostancılar Barajı
+Q32824987	Ahilçipi Barajı	39.728056	33.712222	Kırıkkale	1	0	baraj	Ahilçipi Barajı
+Q32825088	Akalan Barajı	39.848611	29.007500	Bursa	1	0	baraj	Akalan Barajı
+Q32825103	Akbelen Barajı	40.456944	36.647222	Tokat	1	0	baraj	Akbelen Barajı
+Q32825453	Alidemirci Barajı	39.701389	27.696944	Balıkesir	1	0	baraj	Alidemirci Barajı
+Q32825462	Alıç Barajı	41.077500	26.661944	Edirne	1	0	baraj	Alıç Barajı
+Q32825636	Alpagut Barajı	40.369722	26.825833	Çanakkale	1	0	baraj	Alpagut Barajı
+Q32825693	Altınoluk Barajı	40.021389	36.757500	Sivas	1	0	baraj	Altınoluk Barajı
+Q32826252	Artova Barajı	40.128333	36.285278	Tokat	1	0	baraj	Artova Barajı
+Q32826373	Atabey Barajı	37.951667	30.623056	Isparta	1	0	baraj	Atabey Barajı
+Q32826588	Avcıpınarı Barajı	39.901944	36.472500	Sivas	1	0	baraj	Avcıpınarı Barajı
+Q32826623	Aydoğmuş Barajı	37.308889	32.656389	Konya	1	0	baraj	Aydoğmuş Barajı
+Q32826638	Ayvad Bendi	41.197740	28.920560		1	0	baraj	Ayvad Bend
+Q32826642	Ayvalı I Barajı	39.487778	30.596111	Eskişehir	1	0	baraj	Ayvalı I Barajı
+Q32826644	Ayşehatun Barajı	38.505000	41.766667	Bitlis	1	0	baraj	Ayşehatun Dam
+Q32827003	Balıcı Barajı	38.708611	34.057500	Aksaray	1	0	baraj	Balıcı Barajı
+Q32827005	Balıklı Barajı	36.903056	36.953056	Kilis	1	0	baraj	Balıklı Barajı
+Q32827141	Barla Barajı	38.019722	30.760556	Isparta	1	0	baraj	Barla Barajı
+Q32827521	Bastandere Barajı	37.491111	31.942500	Konya	1	0	baraj	Bastandere Barajı
+Q32827602	Bayat Barajı	38.978333	30.919722	Afyonkarahisar	1	0	baraj	Bayat Barajı
+Q32827655	Bayraktar Barajı	40.819167	30.028333	Kocaeli	1	0	baraj	Bayraktar Barajı
+Q32827659	Bayramşah Barajı	41.129722	27.200556	Tekirdağ	1	0	baraj	Bayramşah Barajı
+Q32827667	Bağbaşı Barajı	37.104760	32.438240	Konya	2	0	baraj	Bağbaşı Dam
+Q32827668	Başağıl Barajı	41.255278	26.767500	Edirne	1	0	baraj	Başağıl Barajı
+Q32827997	Bedirkale Barajı	40.046667	36.457778	Tokat	1	0	baraj	Bedirkale Barajı
+Q32828061	Belenli Barajı	37.287778	29.988056	Burdur	1	0	baraj	Belenli Barajı
+Q32829938	Bozdoğan Suluma Göleti	40.162500	35.059167	Çorum	1	0	baraj	Bozdoğan Suluma Göleti
+Q32829946	Boğazdere Barajı	39.357500	36.903333	Sivas	1	0	baraj	Boğazdere Barajı
+Q32830642	Budakdoğanca Barajı	41.757500	26.362778	Edirne	1	0	baraj	Budakdoğanca Barajı
+Q32830704	Bulcuk Barajı	38.157778	31.948611	Konya	1	0	baraj	Bulcuk Barajı
+Q32830766	Burcun Barajı	40.321389	29.408333	Bursa	1	0	baraj	Burcun Barajı
+Q32830999	Bülbülderesi Barajı	41.215278	26.703333	Edirne	1	0	baraj	Bülbülderesi Barajı
+Q32831000	Büyük Bend	41.135278	28.893333	İstanbul	1	0	baraj	Büyük Bend
+Q32831003	Büyükelmalı Barajı	40.050000	29.820278	Bilecik	1	0	baraj	Büyükelmalı Barajı
+Q32835895	Danacı Barajı	40.176111	33.910833	Kırıkkale	1	0	baraj	Danacı Barajı
+Q32832360	Cemalettin Barajı	41.536389	34.793056	Sinop	1	0	baraj	Cemalettin Barajı
+Q32832417	Cevizli Barajı	37.205039	31.780701	Antalya	1	0	baraj	Cevizli Dam
+Q32832978	Cihanbeyli Barajı	38.650000	32.913889	Konya	1	0	baraj	Cihanbeyli Barajı
+Q32832995	Cipköy Barajı	38.678333	39.066667	Elazığ	1	0	baraj	Cipköy Barajı
+Q32838745	Eskikadın Barajı	41.714167	26.458056	Edirne	1	0	baraj	Eskikadın Barajı
+Q32838941	Evciyenikışla Barajı	40.335278	34.596667	Çorum	1	0	baraj	Evciyenikışla Barajı
+Q32838956	Evliyatekke Barajı	37.627778	32.124167	Konya	1	0	baraj	Evliyatekke Barajı
+Q32838957	Evren Barajı	38.990278	33.778611	Ankara	1	0	baraj	Evren Barajı
+Q32838976	Eymir Barajı	40.064167	29.653611	Bursa	1	0	baraj	Eymir Barajı
+Q32839204	Fehimli Barajı	39.108056	35.057778	Yozgat	1	0	baraj	Fehimli Barajı
+Q32836245	Dedeçam Barajı	38.173889	31.340000	Isparta	1	0	baraj	Dedeçam Barajı
+Q32836371	Delice Barajı	39.915556	38.109722	Sivas	1	0	baraj	Delice Barajı
+Q32836372	Deliilyas Barajı	39.330833	36.797500	Sivas	1	0	baraj	Deliilyas Barajı
+Q32836421	Demirözü Barajı	40.131111	39.891944	Bayburt	1	0	baraj	Demirözü Barajı
+Q32836559	Değirmenci Barajı	41.325833	26.721667	Edirne	1	0	baraj	Değirmenci Barajı
+Q32836560	Değirmenli Barajı	39.476667	28.099444	Balıkesir	1	0	baraj	Değirmenli Barajı
+Q32836561	Değirmenlik Deresi	36.524167	33.192222	Mersin	1	0	baraj	Değirmenlik Deresi
+Q32836563	Deştiğin Barajı	38.078889	31.618889	Konya	1	0	baraj	Deştiğin Barajı
+Q32836727	Dirsekli Göleti	37.333611	41.849444	Şırnak	1	0	baraj	Dirsekli Göleti
+Q32836742	Divanbaşı Barajı	41.137222	35.989722	Samsun	1	0	baraj	Divanbaşı Barajı
+Q32837224	Doğanhisar Barajı	38.145556	31.725833	Konya	1	0	baraj	Doğanhisar Barajı
+Q32837226	Doğantepe Barajı	40.610556	35.595278	Amasya	1	0	baraj	Doğantepe Barajı
+Q32837534	Durağan Barajı	41.417500	35.055833	Sinop	1	0	baraj	Durağan Barajı
+Q32837611	Dutluca Barajı	40.045000	36.034167	Tokat	1	0	baraj	Dutluca Barajı
+Q32837671	Düzkesme Barajı	37.478889	36.538333	Kahramanmaraş	1	0	baraj	Düzkesme Barajı
+Q32838538	Elmalı Bendi	41.077500	29.103056	İstanbul	1	0	baraj	Elmalı Bendi
+Q32838540	Elmalı I	41.077778	29.102500	İstanbul	1	0	baraj	Elmalı I
+Q32838597	Emek Barajı	38.576389	43.987222	Van	1	0	baraj	Emek Barajı
+Q32838709	Erkmen Barajı	38.755000	30.485278	Afyonkarahisar	1	0	baraj	Erkmen Barajı
+Q34813603	Gediksaray Göleti	40.443333	35.667500	Amasya	1	0	baraj	Gediksaray Göleti
+Q34814654	Geykoca Sulama Göleti	40.489167	35.298333	Çorum	1	0	baraj	Geykoca Sulama Göleti
+Q34822514	Gökçedoğan Barajı	41.113333	34.656944	Çorum	1	0	baraj	Gökçedoğan Barajı
+Q34822537	Gölcük Barajı	40.254722	29.359722	Bursa	1	0	baraj	Gölcük Barajı
+Q34822561	Gözebaşı Barajı	37.815000	38.407222	Adıyaman	1	0	baraj	Gözebaşı Barajı
+Q34822572	Güldere Barajı	41.197222	35.581389	Samsun	1	0	baraj	Güldere Barajı
+Q34822595	Gümeleköy Barajı	38.928889	29.479444	Kütahya	1	0	baraj	Gümeleköy Barajı
+Q34822622	Güzelce Barajı	40.102222	36.568333	Tokat	1	0	baraj	Güzelce Barajı
+Q34822632	Güzeloğlan Barajı	39.244444	36.687500	Sivas	1	0	baraj	Güzeloğlan Barajı
+Q34823445	Hacıdede Barajı	40.959722	35.599444	Samsun	1	0	baraj	Hacıdede Barajı
+Q34824091	Halhalca Barajı	40.165556	29.415000	Bursa	1	0	baraj	Halhalca Barajı
+Q34824103	Halilan Sulama Göleti	38.109444	39.580833	Diyarbakır	1	0	baraj	Halilan Sulama Göleti
+Q34824115	Halkapınar Barajı	39.808611	27.915556	Balıkesir	1	0	baraj	Halkapınar Barajı
+Q34826550	Harmancık Barajı	39.563333	37.174167	Sivas	1	0	baraj	Harmancık Barajı
+Q34828239	Hasancık Barajı	37.771111	38.434722	Adıyaman	1	0	baraj	Hasancık Barajı
+Q34830801	Helvadere Barajı	38.206389	34.208333	Aksaray	1	0	baraj	Helvadere Barajı
+Q34833898	Hıdırbeyli Barajı	37.905000	27.597778	Aydın	1	0	baraj	Hıdırbeyli Barajı
+Q34833915	Hıdırlık Barajı	40.441944	35.216667	Çorum	1	0	baraj	Hıdırlık Barajı
+Q34836420	Hisarardı Barajı	38.318333	31.191389	Isparta	1	0	baraj	Hisarardı Barajı
+Q34841504	Işıktepe Barajı	38.444167	39.517500	Elazığ	1	0	baraj	Işıktepe Barajı
+Q34861294	Korucu Barajı	41.801944	26.664722	Edirne	1	0	baraj	Korucu Barajı
+Q34861305	Koruklu Barajı	40.665000	26.431944	Edirne	1	0	baraj	Koruklu Barajı
+Q34861455	Koy Barajı	38.361111	41.761667	Bitlis	1	0	baraj	Koy Barajı
+Q34861504	Koyunyeri Barajı	40.034167	26.886389	Çanakkale	1	0	baraj	Koyunyeri Barajı
+Q34861517	Kozansıkı Barajı	40.989722	36.007222	Samsun	1	0	baraj	Kozansıkı Barajı
+Q34861529	Kozağacı Barajı	36.946389	29.940833	Antalya	1	0	baraj	Kozağacı Barajı
+Q34861584	Kozluören Barajı	40.141389	29.349722	Bursa	1	0	baraj	Kozluören Barajı
+Q34861598	Koçaş Barajı	39.435833	31.688056	Eskişehir	1	0	baraj	Koçaş Barajı
+Q34861610	Koçhisar Barajı	40.092500	34.954167	Çorum	1	0	baraj	Koçhisar Barajı
+Q34862267	Kumtepe Göleti	38.927778	34.629444	Nevşehir	1	0	baraj	Kumtepe Göleti
+Q34862281	Kundere Barajı	40.802778	30.176667	Kocaeli	1	0	baraj	Kundere Barajı
+Q34862359	Kureyşler Barajı	39.296389	29.848611	Kütahya	1	0	baraj	Kureyşler Barajı
+Q34862670	Kurtbey Barajı	41.186944	26.580556	Edirne	1	0	baraj	Kurtbey Barajı
+Q34862706	Kuruçay Barajı	39.476944	29.509444	Kütahya	1	0	baraj	Kuruçay Barajı
+Q34863057	Körküler Barajı	38.400833	31.047778	Isparta	1	0	baraj	Körküler Barajı
+Q34863069	Köse Barajı	40.234198	39.630604	Gümüşhane	1	0	baraj	Köse Dam
+Q34863082	Kösrelik Barajı	40.077222	32.870556	Ankara	1	0	baraj	Kösrelik Baraji
+Q34863095	Köyceğiz Barajı	39.682778	42.192222	Erzurum	1	0	baraj	Köyceğiz Barajı
+Q34863119	Küptere Barajı	41.237500	26.471389	Edirne	1	0	baraj	Küpdere Barajı
+Q34853645	Kavakayzma Barajı	41.127500	26.555278	Edirne	1	0	baraj	Kavakayzma Barajı
+Q34853665	Kapıkaya Barajı	38.376111	38.561111	Malatya	1	0	baraj	Kapıkaya Barajı
+Q34853689	Kapulukaya Barajı	39.663056	33.453056	Kırıkkale	1	0	baraj	Kapulukaya Barajı
+Q34853702	Karaağaç Barajı	38.658889	29.329722	Uşak	1	0	baraj	Karaağaç Barajı
+Q34853764	Karagöl Barajı	39.232222	36.226944	Sivas	1	0	baraj	Karagöl Barajı
+Q34853777	Karahöyük Barajı	37.729167	38.401111	Adıyaman	1	0	baraj	Karahöyük Barajı
+Q34853789	Karakol Barajı	39.767222	27.885556	Balıkesir	1	0	baraj	Karakol Barajı
+Q34853815	Karasatı Barajı	40.963056	26.717222	Edirne	1	0	baraj	Karasatı Barajı
+Q34853840	Karaçal Barajı	37.561111	30.080556	Burdur	1	0	baraj	Karaçal Barajı
+Q34853964	Kayabelen Göleti	38.465833	30.514167	Afyonkarahisar	1	0	baraj	Kayabelen Göleti
+Q34853999	Kayapa Barajı	40.166389	28.849722	Bursa	1	0	baraj	Kayapa Barajı
+Q34854032	Kayı Barajı	39.208333	30.786944	Eskişehir	1	0	baraj	Kayı Barajı
+Q34854114	Kayser Barajı	38.423333	41.210000	Diyarbakır	1	0	baraj	Kayser Barajı
+Q34856131	Keskin Barajı	39.865278	30.390000	Eskişehir	1	0	baraj	Keskin Barajı
+Q34857354	Kıldır Barajı	39.920556	36.787778	Sivas	1	0	baraj	Kıldır Barajı
+Q34857398	Kılıçgüney Barajı	41.114444	35.313611	Samsun	1	0	baraj	Kılıçgüney Barajı
+Q34858548	Kınık Barajı	37.792222	38.425556	Adıyaman	1	0	baraj	Kınık Barajı
+Q34858897	Kırka Barajı	38.692778	30.229167	Afyonkarahisar	1	0	baraj	Kırka Barajı
+Q34858911	Kırkat Barajı	37.577500	41.340000	Batman	1	1	baraj	Kırkat Barajı
+Q34859000	Kırköy Barajı	40.447222	32.702222	Ankara	1	0	baraj	Kırköy Barajı
+Q34859444	Kızık Barajı	40.049444	36.546667	Tokat	1	0	baraj	Kızik Barajı
+Q34859473	Kızıleniş Barajı	37.349179	36.784201	Kahramanmaraş	1	0	baraj	Kızıleniş Barajı
+Q34859502	Kızlar Kalesi Barajı	40.241944	38.978056	Gümüşhane	1	0	baraj	Kızlar Kalesi Barajı
+Q34860259	Kocaavşar Barajı	39.674722	27.645278	Balıkesir	1	0	baraj	Kocaavşar Barajı
+Q34890332	Mecidiye Barajı	40.634722	26.563611	Edirne	1	0	baraj	Mecidiye Barajı
+Q34852735	Kabalar Göleti	41.444444	34.172500	Kastamonu	1	0	baraj	Kabalar Göleti
+Q34852855	Kadıköy Barajı	41.450833	32.977778	Karabük	1	0	baraj	Kadiköy Barajı
+Q34853546	Kanlıdere Barajı	39.439000	35.145100	Yozgat	1	0	baraj	Kanlıdere Dam
+Q34853557	Kanlıpınar Göleti	39.719444	30.670556	Eskişehir	1	0	baraj	Kanlıpınar Göleti
+Q34883640	Mart Barajı	40.434167	33.401944	Çankırı	1	0	baraj	Mart Barajı
+Q34884354	Maruf Barajı	40.632222	33.390000	Çankırı	1	0	baraj	Maruf Barajı
+Q34870992	Mercan Barajı	40.724870	26.610030		1	0	baraj	Mercan Barajı
+Q34871154	Meriç Göleti	41.182500	26.451389	Edirne	1	0	baraj	Meriç Göleti
+Q34902021	Pınarlı Barajı	38.002500	30.138889	Afyonkarahisar	1	0	baraj	Pınarlı Barajı
+Q34896563	Mudarasın Barajı	39.137222	36.230000	Sivas	1	0	baraj	Mudarasın Barajı
+Q34897815	Okçular Barajı	40.995833	30.328056	Sakarya	1	0	baraj	Okçular Barajı
+Q34914717	Sakızlı Göleti	40.163056	40.059167	Bayburt	1	0	baraj	Sakızlı Göleti
+Q34915526	Salmanlı Barajı	40.902778	30.297500	Sakarya	1	0	baraj	Salmanlı Barajı
+Q34929159	Sincan Barajı	40.023611	34.908611	Çorum	1	0	baraj	Sincan Dam
+Q34907005	Ortaköy Barajı	40.648889	35.569167	Amasya	1	0	baraj	Ortaköy Barajı
+Q34907046	Oruçbeyli Göleti	40.233056	40.064722	Bayburt	1	0	baraj	Oruçbeyli Göleti
+Q34907404	Osmancık Barajı	38.156667	32.122500	Konya	1	0	baraj	Osmancık Barajı
+Q34907418	Osmanlı Barajı	41.586944	26.853056	Edirne	1	0	baraj	Osmanlı Barajı
+Q34907930	Ovacık Barajı	39.721667	27.789722	Balıkesir	1	0	baraj	Ovacık Barajı
+Q34932434	Sorgun Barajı	40.335000	32.222778	Ankara	1	0	baraj	Sorgun Barajı
+Q34932649	Sofuhalil Barajı	41.475556	27.187222	Kırklareli	1	0	baraj	Sofuhalil Barajı
+Q34918936	Sarayköy Barajı	40.531389	33.466667	Çankırı	1	0	baraj	Sarayköy Barajı
+Q34919143	Sarıbuğday Barajı	40.722500	35.466389	Amasya	1	0	baraj	Sarıbuğday Barajı
+Q34919156	Sarıcalı Barajı	41.379167	27.237778	Kırklareli	1	0	baraj	Sarıcalı Barajı
+Q34919182	Sarıçal Barajı	39.858056	36.286389	Sivas	1	0	baraj	Sarıçal Barajı
+Q34924036	Seydi Barajı	40.575556	33.463889	Çankırı	1	0	baraj	Seydi Barajı
+Q34924049	Seydim Göleti	40.563333	34.763333	Çorum	1	0	baraj	Seydim Göleti
+Q34924074	Seymenli Barajı	40.805278	29.986667	Kocaeli	1	0	baraj	Seymenli Barajı
+Q34924098	Seytandere Barajı	40.762500	30.110556	Kocaeli	1	0	baraj	Seytandere Barajı
+Q34942371	Soğuksu Göleti	40.016111	28.054722	Balıkesir	1	0	baraj	Soğuksu Göleti
+Q34955412	Tadım Barajı	38.573611	39.160556	Elazığ	1	0	baraj	Tadım Barajı
+Q34956038	Takmak Barajı	38.451944	28.945833	Uşak	1	0	baraj	Takmak Barajı
+Q34957017	Tavas Barajı	37.604167	29.111389	Denizli	1	0	baraj	Tavas Barajı
+Q34953457	Suçatı Barajı	37.761487	36.732906	Kahramanmaraş	1	0	baraj	Suçatı Dam
+Q34954278	Söve Göleti	39.996667	28.091111	Balıkesir	1	0	baraj	Söve Göleti
+Q34957569	Taşmanlı Göleti	41.902500	35.045556	Sinop	1	0	baraj	Taşmanlı Göleti
+Q34957905	Tekir Barajı	38.528056	35.529167	Kayseri	1	0	baraj	Tekir Barajı
+Q34958078	Temrezli Barajı	41.269444	27.048889	Tekirdağ	1	0	baraj	Temrezli Barajı
+Q34960081	Yakacık Barajı	40.904167	35.421389	Amasya	1	0	baraj	Yakacık Barajı
+Q34960103	Yalıntaş Barajı	38.681300	34.340300	Nevşehir	1	0	baraj	Yalıntaş Dam
+Q34960151	Tınaztepe Barajı	38.718333	30.389722	Afyonkarahisar	1	0	baraj	Tınaztepe Barajı
+Q34960416	Yapıldak Barajı	39.155278	30.650000	Eskişehir	1	0	baraj	Yapıldak Barajı
+Q34960736	Yelten Barajı	37.220556	30.202778	Antalya	1	0	baraj	Yelten Barajı
+Q34960767	Yeniceköy I Barajı	39.309167	29.146111	Kütahya	1	0	baraj	Yeniceköy I Barajı
+Q34960789	Yeniköy Göleti	40.793889	35.141667	Amasya	1	0	baraj	Yeniköy Göleti
+Q34960839	Yeşilçat Barajı	37.986667	30.167222	Afyonkarahisar	1	0	baraj	Yeşilçat Barajı
+Q34960849	Yıldız Barajı	40.079722	36.924167	Sivas	1	0	baraj	Yıldız Barajı
+Q34961274	Topkaya Barajı	38.607222	32.101389	Konya	1	0	baraj	Topkaya Barajı
+Q34961293	Toplukonak Barajı	40.391111	38.573611	Giresun	1	0	baraj	Toplukonak Barajı
+Q34964635	Türkmenli Barajı	41.045278	27.891667	Tekirdağ	1	0	baraj	Türkmenli Barajı
+Q34964999	Uluçayır Barajı	39.597778	30.422500	Eskişehir	1	0	baraj	Uluçayır Barajı
+Q34965010	Uluöz Barajı	40.239722	36.060556	Tokat	1	0	baraj	Uluöz Barajı
+Q34965600	Yolçatı Barajı	40.253611	28.855833	Bursa	1	0	baraj	Yolçatı Barajı
+Q34966301	Yukarı Söğüt Barajı	39.458056	30.571111	Eskişehir	1	0	baraj	Yukarı Söğüt Barajı
+Q34966312	Yukarıkartal Barajı	39.745833	30.269167	Eskişehir	1	0	baraj	Yukarıkartal Barajı
+Q34966388	Yumurtacı Barajı	41.482500	33.438056	Kastamonu	1	0	baraj	Yumurtacı Barajı
+Q34966939	Zülfikar Barajı	37.093889	37.176667	Gaziantep	1	0	baraj	Zülfikar Barajı
+Q34966949	Çalbalma Barajı	38.585000	35.215833	Kayseri	1	0	baraj	Çalbalma Barajı
+Q34966970	Çamalan Barajı	40.136389	30.959167	Ankara	1	0	baraj	Çamalan Barajı
+Q34966988	Çamköy Barajı (Manisa)	38.724167	27.407222	Manisa	1	0	baraj	Çamköy Barajı
+Q34967019	Çavdır Barajı	37.154167	29.724167	Burdur	1	0	baraj	Çavdır Barajı
+Q34969671	Uzgaç Barajı	41.818056	26.405556	Edirne	1	0	baraj	Uzgaç Barajı
+Q34969680	Uzunhızırlı Barajı	40.307500	26.389167	Çanakkale	1	0	baraj	Uzunhızırlı Baraj
+Q34969714	Uşakpınar Barajı	40.186510	29.356860		1	0	baraj	Uşakpınar Barajı
+Q34969830	Vali Recep Yazıcıoğlu Barajı	37.786389	29.129722	Denizli	1	0	baraj	Vali Recep Yazıcıoğlu Barajı
+Q34971425	Çavuşköy Barajı	40.698056	26.203889	Edirne	1	0	baraj	Çavuşköy Barajı
+Q34971434	Çavuşçu Barajı	38.320278	31.890000	Konya	1	0	baraj	Çavuşçu Barajı
+Q34971454	Çayhan Barajı	37.515556	34.321667	Konya	1	0	baraj	Çayhan Barajı
+Q34971464	Çayköy Barajı	40.267778	30.762778	Bolu	1	0	baraj	Çayköy Barajı
+Q34971474	Çerte Barajı	39.261944	29.467778	Kütahya	1	0	baraj	Çerte Barajı
+Q34971484	Çiftevi Barajı	38.841667	33.998333	Aksaray	1	0	baraj	Çiftevi Barajı
+Q34971523	Çitli Barajı	40.774444	35.218889	Amasya	1	0	baraj	Çitli Barajı
+Q34971533	Çobanoğlu Barajı	41.482222	32.233056	Karabük	1	0	baraj	Çobanoğlu Barajı
+Q34971594	Çukurhisar Barajı	39.851667	30.310278	Eskişehir	1	0	baraj	Çukurhisar Barajı
+Q34971603	Ömerköy Barajı	39.871944	31.534167	Eskişehir	1	0	baraj	Ömerköy Barajı
+Q34971623	Örencik Barajı	40.251389	32.648333	Ankara	1	0	baraj	Örencik Barajı
+Q34971632	Örenköy Barajı	38.089167	31.211389	Isparta	1	0	baraj	Örenköy Barajı
+Q34971683	Üsküp Barajı	41.767778	27.423056	Kırklareli	1	0	baraj	Üsküp Barajı
+Q34971693	Üçbaş Barajı	40.418056	32.698056	Ankara	1	0	baraj	Üçbaş Barajı
+Q34971703	Üçtepe Barajı	39.562500	37.205000	Sivas	1	0	baraj	Üçtepe Barajı
+Q34972197	İbecik Barajı	40.516667	36.039167	Amasya	1	0	baraj	İbecik Barajı
+Q34972209	İbirler Barajı	39.776111	27.948333	Balıkesir	1	0	baraj	İbirler Barajı
+Q34972243	İleydağı Barajı	38.039444	30.377778	Isparta	1	0	baraj	İleydağı Barajı
+Q34972266	İnanlı Barajı	41.175000	27.468333	Tekirdağ	1	0	baraj	İnanlı Barajı
+Q34972277	İncecik Barajı	38.402778	37.318611	Kahramanmaraş	1	0	baraj	İncecik Barajı
+Q34972288	İnegazili Barajı	40.195556	33.996111	Çorum	1	0	baraj	İnegazili Barajı
+Q34972299	İğdir Barajı	40.331389	32.672500	Ankara	1	0	baraj	İğdir Barajı
+Q34973083	Şabanözü Barajı	40.467778	33.270556	Çankırı	1	0	baraj	Şabanözü Barajı
+Q34973094	Şamlı Barajı	39.802222	27.834444	Balıkesir	1	0	baraj	Şamlı Barajı
+Q34973105	Şarkîkaraağaç Barajı	38.115278	31.428056	Isparta	1	0	baraj	Şarkîkaraağaç Barajı
+Q34973114	Şarköy Barajı	40.672778	27.028056	Tekirdağ	1	0	baraj	Şarköy Barajı
+Q34973125	Şereflikoçhisar Barajı	38.909444	33.678611	Ankara	1	0	baraj	Şereflikoçhisar Barajı
+Q34973136	Şerifbaba Göleti	37.537222	40.057500	Mardin	1	0	baraj	Şerifbaba Göleti
+Q34973147	Şeyhli Barajı	38.113333	35.656944	Kayseri	1	0	baraj	Şeyhli Barajı
+Q61076390	Koyunbaba Barajı	40.338710	33.305580	Çankırı	1	0	baraj	Koyunbaba Dam
+Q61077756	Eşen 2 Barajı ve Hidroelektrik Santrali	36.767965	29.401742		1	0	baraj	
+Q135428587	Çifte Havuz	41.173302	28.955150	İstanbul	0	0	baraj	
+Q135428588	Ayvat Bendi Çökeltme Havuzu	41.205561	28.931187	İstanbul	0	0	baraj	
+Q135428589	Baş Havuz	41.146760	28.904310	İstanbul	0	0	baraj	
+Q135428590	Ortadere Çökeltme Havuzu	41.206607	28.920900	İstanbul	0	0	baraj	
+Q135428591	Kurt Kemeri Çökeltme Havuzu	41.195414	28.916878	İstanbul	0	0	baraj	
+Q135428592	Bakraçdere Çökeltme Havuzu	41.196810	28.916599	İstanbul	0	0	baraj	
+Q135479105	Sultan Mahmut Bendi	41.189793	28.986047	İstanbul	0	1	baraj	
+Q135479106	Valide Bendi	41.191279	28.987919	İstanbul	0	0	baraj	
+Q135479107	Büyük Bent	41.174901	28.956345	İstanbul	0	0	baraj	Büyük Bent
+Q135479108	Ayvat Bendi	41.209951	28.936033	İstanbul	0	0	baraj	
+Q139421318	Keşiş Gölü Urartu Su Bendi	38.466586	43.581465	Van	0	0	baraj	
+Q139421325	Çetenli Su Bendi	36.120323	36.290074	Hatay	0	0	baraj	
+Q139421949	Küçük Bent	41.172817	28.932396	İstanbul	0	0	baraj	
+Q139431175	Su Bendi (Asmakaya)	41.588676	27.777504	Kırklareli	0	0	baraj	
+Q139431932	Ankyra Roma Bendi	39.943054	32.862797	Ankara	0	0	baraj	
+Q139432762	Akkent Barajı	38.920898	42.045460	Muş	0	0	baraj	
+Q139433153	Kurucaova Su Bendi	37.478382	28.262983	Muğla	0	0	baraj	
+Q139433278	Karakuyu Barajı	38.886738	36.732189	Kayseri	0	0	baraj	
+Q139436734	Örükaya Barajı	40.101158	34.899410	Çorum	0	0	baraj	
+Q139437345	Turna Gölü	38.472675	43.609200	Van	0	0	baraj	
+Q1090245	Sır Barajı ve Hidroelektrik Santrali	37.500980	36.595990	Kahramanmaraş	7	0	arch dam	Sır Dam
+Q1090638	Gezende Barajı	36.528508	33.194423	Mersin	6	1	arch dam	Gezende Dam
+Q1165614	Dara Barajı	37.182972	40.951222		3	0	Antik Roma barajı;arch dam	Dara Dam
+Q1200190	Deriner Barajı ve Hidroelektrik Santrali	41.169950	41.870270	Artvin	10	1	arch dam	Deriner Dam
+Q1355896	Ermenek Barajı	36.568170	32.967840	Karaman	6	1	arch dam	Ermenek Dam
+Q1934539	Oymapınar Barajı ve Hidroelektrik Santrali	36.908720	31.531680	Antalya	10	1	arch dam	Oymapinar Dam
+Q117222875	Çermikler Barajı ve Hidroelektrik Santrali	39.400333	36.280000	Sivas	1	0	baraj	
+Q126472932	Çamönü Barajı	38.949750	27.905861	Manisa	1	0	baraj	Çamönü Dam
+Q135428578	Süreyya Paşa Su Bendi 2	40.950376	29.159026	İstanbul	0	0	baraj	
+Q135428579	Süreyya Paşa Su Bendi 1	40.946213	29.147421	İstanbul	0	0	baraj	
+Q135428580	Su Bendi, Bahçeköy	41.186630	28.988472	İstanbul	0	0	baraj	
+Q135428581	Balıklı Havuz	41.091866	28.904463	İstanbul	0	0	baraj	Balıklı Havuz
+Q135428582	Topuzlu Bent	41.183127	28.993416	İstanbul	0	1	baraj	
+Q135428583	Kirazlı Bent	41.170179	28.963251	İstanbul	0	0	baraj	
+Q135428584	Kömürcü Bendi	41.201133	28.961070	İstanbul	0	0	baraj	
+Q135428585	Şamlar Bendi	41.136105	28.738089	İstanbul	0	0	baraj	
+Q135428586	Kirazlı Havuz	41.170771	28.960890	İstanbul	0	0	baraj	Kirazlı Pool
+Q65220271	Adasu Barajı	40.743250	30.420361	Sakarya	1	0	baraj	Adasu Dam
+Q87451548	Mordoğan Barajı	38.526944	26.560000	İzmir	0	0	baraj	Mordoğan Dam
+Q97229781	Afşar Barajı	36.924090	32.559480		1	0	baraj	Afşar Dam
+Q97232518	Turnaçayırı Barajı	39.848000	39.723100		1	0	baraj	Turnaçayırı Dam
+Q106727732	Namazgah Barajı	41.047950	30.111960	Kocaeli	2	1	baraj	Namazgah Dam
+Q107266660	İsabeyli Barajı	37.941860	28.252910	Aydın	1	0	baraj	Isabeyli Dam
+Q107286030	Güvendik Barajı	37.921020	28.170770	Aydın	1	0	baraj	Guvendik Dam
+Q109962211	Bozkır Barajı	37.110000	32.305833	Konya	1	0	baraj	Bozkır Dam
+Q116676991	Bayramhacılı Barajı	38.799333	34.997222	Kayseri	1	1	hydroelectric dam	Bayramhacı Dam
+Q15192693	Aslandağ Barajı	37.341311	44.432938	Hakkari	1	0	Ağırlık barajı	Aslandağ Dam
+Q15196313	Ballı Barajı	37.406942	42.832431	Şırnak	1	0	Ağırlık barajı	Balli Dam
+Q15198860	Beyyurdu Barajı	37.320141	44.447336	Hakkari	1	0	Ağırlık barajı	Beyyurdu Dam
+Q15222408	Güllübağ Barajı	40.521869	41.021575		2	0	Ağırlık barajı	Güllübağ Dam
+Q15234764	Kavşak Bendi Barajı	37.564586	35.529775		2	0	Ağırlık barajı	Kavşak Bendi Dam
+Q15234767	Kavşaktepe Barajı	37.393547	42.868772	Şırnak	1	0	Ağırlık barajı	Kavşaktepe Dam
+Q15260342	Musatepe Barajı	37.387976	42.898918	Şırnak	1	0	Ağırlık barajı	Musatepe Dam
+Q15277798	Silopi Barajı	37.338175	42.728111		1	0	Ağırlık barajı	Silopi Dam
+Q16829144	Çetintepe Barajı	37.369600	42.938700		1	0	Ağırlık barajı	Çetintepe Dam
+Q16829839	Çocuktepe Barajı	37.290100	43.579500		1	0	Ağırlık barajı	Çocuktepe Dam
+Q16835121	Devecikonağı Barajı	39.875575	28.575386		1	0	Ağırlık barajı	Devecikonağı Dam
+Q16900232	Şırnak Barajı	37.441300	42.733700	Şırnak	1	0	Ağırlık barajı	Şırnak Dam
+Q16902298	Uludere Barajı	37.425500	42.806300	Şırnak	1	0	Ağırlık barajı	Uludere Dam
+Q19276220	Burç Bendi Baraji	37.468466	38.170615		3	0	Ağırlık barajı	Burç Bendi Dam
+Q23763125	Beyhan-1 Barajı	38.751933	40.135772		3	0	Ağırlık barajı	Beyhan I Dam
+Q23763134	Pembelik Barajı	39.083861	39.894667	Elazığ|Tunceli	2	0	Ağırlık barajı	Pembelik Dam
+Q24037176	Bağıştaş 2 Barajı	39.428069	38.413639		1	0	Ağırlık barajı	Bağıştaş 2 Dam
+Q24914326	Yukarı Kaleköy Barajı ve Hidroelektrik Santrali	38.813810	41.042500	Bingöl|Malatya	4	0	Ağırlık barajı	Upper Kaleköy Dam
+Q28220558	Beyhan II Barajı	38.707278	39.986889		1	0	Ağırlık barajı	Beyhan II Dam
+Q28220562	Aşağı Kaleköy Barajı ve Hidroelektrik Santrali	38.831330	40.709880	Bingöl|Malatya	4	0	Ağırlık barajı	Lower Kaleköy Dam
+Q307943	Özlüce Barajı ve Hidroelektrik Santrali	39.130110	40.088080	Bingöl|Elazığ	8	1	dolgu barajı	Özlüce Dam
+Q379180	Tahtalı Barajı	38.088570	27.041730	İzmir	8	1	dolgu barajı	Tahtalı Dam
+Q447172	Altınkaya Barajı	41.363440	35.724060	Samsun	9	1	dolgu barajı	Altınkaya Dam
+Q921621	Zernek Barajı ve Hidroelektrik Santrali	38.355610	43.656810	Van	5	0	dolgu barajı	Zernek Dam
+Q1089296	Çubuk-1 Barajı	40.003220	32.930580	Ankara	7	1	Ağırlık barajı	Çubuk-1 Dam
+Q1089548	Almus Barajı ve Hidroelektrik Santrali	40.407970	36.903470	Tokat	8	1	dolgu barajı	Almus Dam
+Q1089596	Sarıyar Barajı	40.040000	31.414300	Ankara	7	1	Ağırlık barajı	Sarıyar Dam
+Q1089643	Devegeçidi Barajı	38.056620	39.986410	Diyarbakır	6	1	dolgu barajı	Devegeçidi Dam
+Q1090325	Palandöken Barajı	39.657510	41.022290	Erzurum	6	0	dolgu barajı	Palandöken Dam
+Q1091489	Göksu Barajı	37.683930	40.445240	Diyarbakır	4	0	dolgu barajı	Göksu Dam
+Q1091847	Arpaçay Barajı	40.562810	43.645180	Kars	6	0	Ağırlık barajı	Arpaçay Dam
+Q1328922	Torul Barajı	40.635278	39.231389	Gümüşhane	5	0	dolgu barajı	Torul Dam
+Q1659316	Ilısu Barajı ve Hidroelektrik Santrali	37.531100	41.849310	Mardin|Şırnak	19	1	dolgu barajı	Ilısu Dam
+Q1674132	Silvan Barajı ve Hidroelektrik Santrali	38.293710	41.021940	Diyarbakır	7	0	dolgu barajı	Silvan Dam
+Q2506536	Kralkızı Barajı ve Hidroelektrik Santrali	38.348970	40.021380	Diyarbakır	9	1	dolgu barajı	Kralkızı Dam
+Q2611551	Dicle Barajı ve Hidroelektrik Santrali	38.231230	40.176610	Diyarbakır	12	1	dolgu barajı	Dicle Dam
+Q2636533	Alaköprü	36.181760	32.894910	Mersin	5	1	dolgu barajı	Alaköprü Dam
+Q2885118	Garzan Barajı	38.251889	41.556475		4	0	dolgu barajı	Garzan Dam
+Q2885299	Sırımtaş Barajı	38.035300	38.549200		3	0	Ağırlık barajı	Sırımtaş Dam
+Q4161647	Dim Barajı ve Hidroelektrik Santrali	36.551220	32.140350	Antalya	8	1	dolgu barajı	Dim Dam
+Q4727729	Alkumru Barajı ve Hidroelektrik Santrali	37.958920	42.092610		4	1	dolgu barajı	Alkumru Dam
+Q4812883	Atasu Barajı ve Hidroelektrik Santrali	40.857520	39.699400	Trabzon	4	0	dolgu barajı	Atasu Dam
+Q4843099	Bahçelik Barajı ve Hidroelektrik Santrali	38.676628	36.291866	Kayseri	5	0	dolgu barajı	Bahçelik Dam
+Q5120420	Cindere Barajı ve Hidroelektrik Santrali	38.115290	29.035160	Denizli	4	0	Ağırlık barajı	Cindere Dam
+Q5626664	Gördes Barajı	38.761840	28.056940	Manisa	4	0	dolgu barajı	Gördes Dam
+Q5627154	Gürsöğüt Barajı	39.890427	31.785035	Ankara|Eskişehir	2	0	dolgu barajı	Gürsöğüt Dam
+Q6049583	Yedigöze Barajı ve Hidroelektrik Santrali	37.401500	35.445300	Adana	3	0	dolgu barajı	Yedigöze Dam
+Q6453938	Köprü Barajı	37.620200	35.613631	Adana	3	1	Ağırlık barajı	Köprü Dam
+Q6453946	Köprübaşı Barajı ve Hidroelektrik Santrali	40.989160	31.908120	Bolu	5	0	dolgu barajı	Köprübaşı Dam
+Q6454185	Kürtün Barajı ve Hidroelektrik Santrali	40.681780	39.127860	Gümüşhane	5	0	dolgu barajı	Kürtün Dam
+Q6772115	Marmaris Barajı	36.948350	28.289770	Muğla	2	0	dolgu barajı	Marmaris Dam
+Q7075372	Obruk Barajı ve Hidroelektrik Santrali	40.770278	34.788056		5	1	dolgu barajı	Obruk Dam
+Q7905245	Uzunçayır Barajı ve Hidroelektrik Santrali	38.983000	39.530720		4	0	dolgu barajı	Uzunçayır Dam
+Q8077672	Çetin Barajı	37.974400	42.377200		3	0	dolgu barajı	Çetin Dam
+Q15178781	Aksu Barajı	40.601528	41.156858		2	0	dolgu barajı	Aksu Dam
+Q15179528	Alpaslan-2 Barajı ve Hidroelektrik Santrali	39.035400	41.520380		3	0	dolgu barajı	Alpaslan-2 Dam
+Q15188545	Arkun Barajı	40.676181	41.289192		2	1	dolgu barajı	Arkun Dam
+Q16893932	Laleli Barajı	40.394500	40.607400		1	0	dolgu barajı	Laleli Dam
+Q19309070	Seyrantepe Barajı	39.021106	39.891897	Elazığ|Tunceli	4	1	dolgu barajı	Seyrantepe Dam
+Q21523973	Aladereçam Barajı	40.638430	38.799880	Gümüşhane	1	0	dolgu barajı	Aladereçam Dam
+Q23763131	Bağıştaş 1 Barajı	39.449317	38.522947		3	0	dolgu barajı	Bağıştaş 1 Dam
+Q24037489	Yedisu Barajı	39.276414	40.372892		1	0	dolgu barajı	Yedisu Dam
+Q6454808	Aşağıkaraören Göleti	40.272600	32.755300	Ankara	4	0	baraj gölü	Aşağıkaraören Reservoir
+Q3457705	Arpaçay Baraj Gölü	40.605120	43.692420	Kars	18	1	baraj gölü	Akhurian Reservoir
+Q12716020	Karakız Göleti	36.848564	34.223131		5	1	baraj gölü	Lake Karakız
+Q34822549	Gördes Baraj Gölü	38.761111	28.084722	Manisa	0	0	baraj gölü	Gördes Reservoir
+Q34853740	Karacaören-1 Baraj Gölü	37.389444	30.849167	Burdur|Isparta	1	1	baraj gölü	Karacaören-1 Reservoir
+Q34857411	Kılıçkaya Baraj Gölü	40.184444	38.327778	Giresun|Sivas	0	0	baraj gölü	Kılıçkaya Reservoir
+Q34876680	Asartepe Baraj Gölü	40.146111	32.399167	Ankara	1	0	baraj gölü	Asartepe Reservoir
+Q34876740	Atatürk Baraj Gölü	37.573800	38.591000	Adıyaman|Diyarbakır|Şanlıurfa	6	1	baraj gölü	Atatürk Reservoir
+Q34877709	Beşpınar Göleti	37.765000	40.345833	Diyarbakır	1	0	baraj gölü	Beşpınar Göleti
+Q34907104	Menzelet Baraj Gölü	37.710990	36.874920	Kahramanmaraş	3	0	baraj gölü	Menzelet Reservoir
+Q34878898	Burç Göleti	37.060000	37.168333	Gaziantep	1	0	baraj gölü	Burç Göleti
+Q34879263	Gayt Baraj Gölü	39.030556	40.331944	Bingöl	1	0	baraj gölü	Gayt Reservoir
+Q34882508	Darıözü Sulama Göleti	39.350278	33.760000	Kırşehir	1	0	baraj gölü	Darıözü Sulama Göleti
+Q34883032	Demirköprü Baraj Gölü	38.674790	28.373570	Manisa	1	0	baraj gölü	Demirköprü Reservoir
+Q34884233	Dumluca Baraj Gölü	37.423056	40.136111	Mardin	1	0	baraj gölü	Dumluca Reservoir
+Q34888360	Göksu Baraj Gölü	37.668611	40.449444	Diyarbakır	1	0	baraj gölü	Göksu Reservoir
+Q34888373	Gölbaşı Göleti	40.217222	29.330833	Bursa	1	0	baraj gölü	Gölbaşı Göleti
+Q34890163	Hirfanlı Baraj Gölü	39.185000	33.545280	Aksaray|Ankara|Kırşehir	1	0	baraj gölü	Hirfanlı Reservoir
+Q34893984	Karaboğaz Göleti	38.946667	34.155556	Kırşehir	1	0	baraj gölü	Karaboğaz Göleti
+Q34894273	Kayaboğazı Baraj Gölü	39.365000	29.609167		1	0	baraj gölü	Kayaboğazı Reservoir
+Q34894335	Keban Baraj Gölü	38.649167	39.488056	Elazığ|Erzincan|Tunceli	4	1	baraj gölü	Keban Reservoir
+Q34921888	Sarıyar Baraj Gölü	40.025280	31.628610	Ankara|Eskişehir	1	0	baraj gölü	Sarıyar Reservoir
+Q34922820	Seyhan Baraj Gölü	37.076389	35.294444	Adana	2	1	baraj gölü	Seyhan Reservoir
+Q34924070	Sipahiler Göleti	40.871667	29.791667	Kocaeli	1	0	baraj gölü	Sipahiler Göleti
+Q34927280	Soydan Sulama Göleti	37.761944	39.633889	Şanlıurfa	1	0	baraj gölü	Soydan Sulama Göleti
+Q34929625	Tahtalı Baraj Gölü	38.153056	27.113056	İzmir	2	1	baraj gölü	Tahtalı Reservoir
+Q34929634	Tahtalı Göleti	40.905556	29.889722	Kocaeli	2	0	baraj gölü	Tahtalı Göleti
+Q34930870	Topraksu Sulama Göleti	37.284444	39.738333	Şanlıurfa	1	0	baraj gölü	Topraksu Sulama Göleti
+Q32827542	Batman Baraj Gölü	38.225278	41.115556	Batman|Diyarbakır	0	0	baraj gölü	Batman Reservoir
+Q32828956	Birecik Baraj Gölü	37.244444	37.863889	Adıyaman|Gaziantep|Şanlıurfa	1	0	baraj gölü	Birecik Reservoir
+Q34936460	Yaylakavak Baraj Gölü	37.576964	27.796183	Aydın	1	0	baraj gölü	Yaylakavak Reservoir
+Q34936471	Yağızlar Göleti	37.201389	35.545278	Adana	1	0	baraj gölü	Yağızlar Göleti
+Q34937009	Çerkeşli Gölet	40.440556	29.976944	Bilecik	1	0	baraj gölü	Çerkeşli Gölet
+Q34937042	Özlüce Baraj Gölü	39.171667	40.173333	Bingöl|Elazığ	1	0	baraj gölü	Özlüce Reservoir
+Q34937690	Şerefli Sulama Göleti	37.539722	40.045278	Diyarbakır	1	0	baraj gölü	Şerefli Sulama Göleti
+Q117716851	Yusufeli Baraj Gölü	40.813056	41.547222	Artvin	0	0	baraj gölü	Yusufeli Reservoir
+Q101551504	Ilısu Baraj Gölü	37.731111	41.781667	Batman|Mardin|Siirt|Şırnak	0	0	baraj gölü	Ilısu Reservoir
+Q101552090	Karakaya Baraj Gölü	38.503611	38.430278	Diyarbakır|Elazığ|Malatya	1	0	baraj gölü	Karakaya Reservoir
+Q101552225	Silvan Baraj Gölü	38.302222	41.018889	Diyarbakır	0	0	baraj gölü	Silvan Reservoir
+Q101552467	Altınkaya Baraj Gölü	41.278056	35.459722	Samsun|Sinop	0	0	baraj gölü	Altınkaya Reservoir
+Q101552536	Alpaslan-1 Baraj Gölü	39.038333	41.921667	Muş	0	0	baraj gölü	Alpaslan-1 Reservoir
+Q101554260	Aslantaş Baraj Gölü	37.346944	36.285278	Kahramanmaraş|Osmaniye	0	0	baraj gölü	Aslantaş Reservoir
+Q105274202	Güzelhisar Baraj Gölü	38.806667	27.128056	Manisa|İzmir	0	0	baraj gölü	Güzelhisar Reservoir
+Q105439973	Kozan Baraj Gölü	37.517778	35.845556	Adana	0	1	baraj gölü	Kozan Reservoir
+Q105491380	Kestel Baraj Gölü	39.138333	27.191944	İzmir	0	1	baraj gölü	Kestel Reservoir
+Q108319294	Karkamış Baraj Gölü	36.962222	38.001667	Gaziantep|Şanlıurfa	1	0	baraj gölü	Karkamış Reservoir
+Q87432177	Arslanköy Göleti	37.008056	34.284722	Mersin	4	1	yapay göl;yapay gölet	Arslanköy Pond
+Q104850911	Sülüklü Göl	38.918451	38.576174	Elazığ	1	0	yapay gölet	Lake Sülüklü
+Q136454857	Göl	38.427917	27.145694	İzmir	1	1	yapay gölet	Lake
+Q136812643	Bahçeşehir Gölet Parkı	41.068840	28.692280		1	1	yapay gölet	Bahçeşehir Pond Park
+Q272701	Çavuşçu Gölü	38.345800	31.876800	Konya	8	0	göl	Lake Çavuşçu
+Q272986	Çıldır Gölü	41.044600	43.255600	Ardahan|Kars	25	1	göl	Lake Çıldır
+Q305501	Abant Gölü	40.605450	31.280330	Bolu	20	1	göl	Lake Abant
+Q192369	İznik Gölü	40.443611	29.508333	Bursa	29	1	göl	Lake İznik
+Q1529378	Gövelek Gölü	38.551455	43.620186	Van	3	0	göl	Gövelek Lake
+Q1676200	Işıklı Gölü	38.231600	29.900300	Denizli	13	1	göl	Lake Işıklı
+Q1740373	Keşiş Gölü	38.470000	43.607900	Van	7	1	göl;yapay göl	Lake Turna
+Q369923	Beyşehir Gölü	37.782000	31.507600	Isparta|Konya	35	1	göl	Lake Beyşehir
+Q421825	Aktaş Gölü	41.214722	43.214722	Ardahan	26	1	göl	Kartsakhi Lake
+Q424815	Akşehir Gölü	38.511200	31.417800	Afyonkarahisar|Konya	22	1	göl	Lake Akşehir
+Q601695	Marmara Gölü	38.616600	28.015500	Manisa	14	1	göl	Lake Marmara
+Q799781	Bafa Gölü	37.501300	27.437000	Aydın|Muğla	21	1	göl	Lake Bafa
+Q805908	Balıklıgöl	37.147778	38.784444	Şanlıurfa	9	1	göl	Balıklıgöl
+Q868012	Sapanca Gölü	40.716667	30.250000	Kocaeli|Sakarya	16	1	göl	Lake Sapanca
+Q893292	Boraboy Gölü	40.803880	36.153740	Amasya	12	1	göl	Lake Boraboy
+Q1785613	Kovada Gölü	37.629722	30.883889	Isparta	5	1	göl	Lake Kovada
+Q1797436	Küçükçekmece Gölü	41.005600	28.746900	İstanbul	14	1	göl	Lake Küçükçekmece
+Q1010475	Burdur Gölü	37.733700	30.178100	Burdur|Isparta	26	1	göl	Lake Burdur
+Q1021881	Büyükçekmece Gölü	41.066700	28.553100	İstanbul	13	1	göl	Lake Büyükçekmece
+Q1095336	Uzungöl	40.619290	40.294860	Trabzon	22	1	göl	Uzungöl
+Q1278759	Eber Gölü	38.643200	31.169600	Afyonkarahisar	12	1	göl	Lake Eber
+Q1334148	Eğirdir Gölü	37.993600	30.888400	Isparta	35	1	göl	Lake Eğirdir
+Q1366366	Erçek Gölü	38.671700	43.578300	Van	17	1	göl	Lake Erçek
+Q3234128	Salda Gölü	37.550800	29.683300	Burdur	22	1	göl	Lake Salda
+Q2661366	Köyceğiz Gölü	36.912240	28.655340	Muğla	21	1	göl	Lake Köyceğiz
+Q2666527	Acıgöl	37.826800	29.887800	Afyonkarahisar|Denizli	17	1	göl	Lake Acıgöl
+Q179839	Haliç	41.029167	28.961111	İstanbul	63	1	Ria	Golden Horn
+Q1891954	Manyas Kuşgölü	40.195300	27.967800	Balıkesir	19	1	göl	Lake Kuş
+Q2478029	Nazik Gölü	38.861100	42.293400	Bitlis	15	1	göl	Lake Nazik
+Q4171154	Durusu Gölü	41.339900	28.571100	İstanbul	10	1	göl	Lake Durusu
+Q3656281	Amik Gölü	36.300000	36.300000	Hatay	11	0	göl	Lake Amik
+Q3675845	Balık Gölü	39.773889	43.567222	Ağrı|Iğdır	14	1	göl	Lake Balık
+Q4529389	Ili Gölü	38.642778	42.246667		2	1	göl	Ili lake
+Q4809067	Uluabat Gölü	40.172600	28.590800	Bursa	14	1	göl	Lake Uluabat
+Q4810216	Mogan Gölü	39.767840	32.791930	Ankara	12	1	göl	Lake Mogan
+Q4810695	Eymir Gölü	39.823940	32.824420		9	1	göl	Lake Eymir
+Q6587092	Ladik Gölü	40.906850	36.013310	Samsun	12	1	göl	Ladik Lake
+Q6000752	Zinav	40.448260	37.272770	Tokat	2	0	göl	Lake Zinav
+Q6004690	Karataş Gölü	37.385960	29.971740	Burdur	7	0	göl	Lake Karataş
+Q6006575	Dalyan Gölü, Bursa	40.385350	28.483130		1	0	göl	Dalyan Lake
+Q6008681	Kestel Gölü	37.405600	30.474300		1	0	göl	Lake Kestel
+Q6014179	Hafik Gölü	39.870900	37.378300	Sivas	2	1	göl	Lake Hafik
+Q6023590	Dipsiz Göl	40.092111	37.566722	Sivas	1	0	göl	Dipsiz Göl
+Q6028091	Gala Gölü	40.767300	26.185000	Edirne	4	1	göl	Lake Gala
+Q6030769	Haçlı Gölü	39.019800	42.300100	Muş	7	0	göl	Lake Haçlı
+Q6035403	Simav gölü	39.155600	28.909000		1	0	göl	Lake Simav
+Q6043333	Gaga Gölü	40.972760	37.503680	Ordu	2	1	göl	Lake Gaga
+Q6044485	Dil Gölü	37.587600	27.187800	Aydın	5	0	göl	Lake Dil
+Q6048583	Seyfe Gölü	39.215200	34.390000	Kırşehir	8	1	göl	Lake Seyfe
+Q6051934	Tödürge Gölü	39.882470	37.599780		2	1	göl	Tödürge Lake
+Q6067162	Kâmil Abduş Gölü	40.830530	29.287030		1	0	göl	Lake Kamil Abduş
+Q6078473	Sera Gölü	40.985270	39.614850	Trabzon	3	0	göl	Lake Sera
+Q6090377	Palas Tuzla Gölü	39.021400	35.815000	Kayseri	7	1	göl;tuz gölü	Lake Palas Tuzla
+Q6094921	Karamık Gölü	38.429500	30.844000	Afyonkarahisar	4	1	göl	Lake Karamık
+Q6100677	Karagöl	41.385570	41.853940	Artvin	2	1	göl	Karagöl
+Q6111551	Suğla Gölü	37.330000	32.005000	Konya	10	1	göl	Lake Suğla
+Q6367919	Karagöl (Giresun)	40.525000	38.152778		3	0	göl	Karagöl, Giresun
+Q12812809	Çubuklu Gölü	40.482140	30.834470	Bolu	2	0	göl	Lake Çubuk
+Q14395861	Gölcük Gölü	37.731000	30.494240	Isparta	7	1	göl	Lake Gölcük
+Q17515431	Kuyucuk Gölü	40.738900	43.454300	Kars	5	1	göl	Lake Kuyucuk
+Q4702037	Akyatan Gölü	36.636600	35.255100	Adana	11	1	deniz kulağı;intermittent lake	Akyatan Lagoon
+Q6038772	Çakalburnu Lagünü	38.410000	27.052222	İzmir	2	1	deniz kulağı	Çakalburnu Lagoon
+Q7134113	Paradeniz	36.294600	33.997800	Mersin	5	0	deniz kulağı	Paradeniz
+Q20476308	Yumurtalık Lagünü	36.676680	35.634498	Adana	5	0	deniz kulağı	Yumurtalık Lagoon
+Q30622293	Akyayan Gölü	36.597000	35.514800	Adana	5	0	deniz kulağı	Lake Akyayan
+Q30634494	Beymelek Lagünü	36.265900	30.053200	Antalya	6	0	deniz kulağı	Beymelek Lagoon
+Q49314090	Gökçeada Lagünü	40.132778	25.954444	Çanakkale	3	1	deniz kulağı;göl	Gökçeada Lagoon
+Q49314104	Tuzla Gölü (göl)	38.917778	26.993056	İzmir	1	0	deniz kulağı	Lake Tuzla
+Q2988251	Nemrut Gölü	38.619444	42.222222	Bitlis	18	1	yanardağ krater gölü	Lake Nemrut
+Q6065286	Meke Krater Gölü	37.686111	33.640281	Konya	6	1	yanardağ krater gölü	Lake Meke
+Q20988477	Narlıgöl	38.340490	34.456720	Niğde	8	1	göl;yanardağ krater gölü	Lake Nar
+Q123694567	Karagöl Gölü	39.424320	39.112360		3	0	yanardağ krater gölü	Lake Karagöl
+Q6017790	Çamaltı Tuzlası	38.500000	26.916667	İzmir	1	0	tuz tavası	Çamaltı Salt Pan
+Q211823	Tuz Gölü	38.833333	33.333333	Aksaray|Ankara|Konya	49	1	Hipersalin göl;kapalı havza göl	Lake Tuz
+Q20473015	Kızören Obruğu	38.174890	33.185980		4	1	karstik göl	Kızören Sinkhole
+Q35704578	Gölhisar Gölü	37.114722	29.599722	Burdur	3	0	göl;karstik göl	Gölhisar Lake
+Q1422549	Karagöl	38.557500	27.217222	İzmir	3	1	krater gölü	Karagöl
+Q2380189	Hazar Gölü	38.484500	39.404700		20	1	çöküntü gölü	Lake Hazar
+Q20470550	Simenit Gölü	41.302500	36.924900	Samsun	5	0	göl	Lake Simenit
+Q20470881	Avlan Gölü	36.579900	29.943000	Antalya	2	0	göl	Lake Avlan
+Q20471086	Aygır Gölü	40.763056	43.003056	Kars	6	1	göl	Aygır Gölü
+Q20471536	Balık Gölü, Samsun	41.583330	36.083330		3	0	göl	Lake Hammamli
+Q20474791	Poyrazlar Gölü	40.838890	30.466840	Sakarya	4	1	göl	Lake Poyrazlar
+Q20476870	Çöl Gölü	39.292900	32.892200	Ankara	6	0	göl	Lake Çöl
+Q20476882	Yay Gölü	38.335278	35.264722	Kayseri	5	0	göl;tuz gölü	Lake Yay
+Q20476974	Yeniçağa Gölü	40.780000	32.025600	Bolu	3	1	göl	Lake Yeniçağa
+Q20514762	Abbasgöl	39.835075	43.622028	Ağrı|Iğdır	1	0	göl	Abbasgöl
+Q18713516	Acıgöl	37.713290	33.666030	Konya	2	0	göl	Acıgöl (Konya)
+Q19611082	Efteni Gölü	40.765894	31.041061		3	1	göl	Lake Efteni
+Q19612605	Sülük Gölü	40.522070	30.874540	Bolu	4	1	göl	Lake Sülüklü
+Q19612665	Taşkısığı Gölü	40.872080	30.401460	Sakarya	2	0	göl	Taşkısığı Gölü
+Q21199042	Erhacı Gölü	39.900000	44.116667	Iğdır	1	0	göl	Erhacı Gölü
+Q21523662	Gölcük Gölü	38.315100	28.027700	İzmir	3	1	göl	Lake Gölcük
+Q21526912	Sarıkum Gölü	42.015600	34.920400	Sinop	2	0	göl	Sarıkum Lake
+Q21695023	Akgöl	38.490000	43.924444	Van	5	0	göl	Akgöl
+Q21695302	Aygır Gölü	38.836389	42.823056	Bitlis	5	0	göl	Lake Aygır
+Q21695305	Lavaş Gölü	40.936111	43.261111	Kars	2	0	göl	Lake Lavaş
+Q29644082	Sünnet Gölü	40.420940	30.955900	Bolu	4	1	göl	Lake Sünnet
+Q30636395	Bolluk Gölü	38.521700	32.926900	Konya	8	0	göl	Lake Bolluk
+Q30680477	Tuzla Gölü	36.703100	35.045900	Adana	6	0	göl	Lake Tuzla
+Q30680540	Yaraşlı Gölü	37.567000	29.966000		1	0	göl	Lake Yaraşlı
+Q30681483	Akdoğan Gölü	39.140060	41.741210	Muş	22	1	göl	Lake Akdoğan
+Q31188243	Karagöl	41.308230	42.483860	Artvin	2	1	göl	Karagöl
+Q31190767	Uyuz Gölü	39.240360	32.924850	Konya	6	1	göl	Lake Kömüşini
+Q31190791	Samsam Gölü	39.104444	32.737778	Konya	2	0	göl	Lake Samsam
+Q31193276	Akgöl	37.678333	29.770278	Burdur	2	1	göl	Akgöl
+Q34801507	Bostaniçi Gölü	38.532778	43.418333	Van	1	0	göl	Bostaniçi Gölü
+Q35695576	Elekçi Gölü	40.235833	34.152500	Çorum	1	0	göl	Elekçi Gölü
+Q35695908	Engir Gölü	38.802778	35.591111	Kayseri	1	0	göl	Engir Gölü
+Q35700181	Gebekirse Gölü	37.985833	27.303611	İzmir	2	0	göl	Lake Gebekirse
+Q35700408	Gernek Gölü	41.650000	36.066667	Samsun	1	0	göl	Gernek Gölü
+Q35704565	Gölbaşı Gölü	37.799170	37.649720		1	0	göl	Gölbaşı Gölü
+Q34797604	Ak Göl (Mersin)	36.300000	33.950000	Mersin	2	0	göl	Ak Göl
+Q34797610	Ak Göl (Sakarya)	40.877778	30.431944	Sakarya	2	0	göl	Ak Göl
+Q35717973	Kaz Gölü	39.336944	42.323333	Muş	3	0	göl	Kaz Gölü
+Q35719112	Koca Gölü	40.843056	32.444722	Bolu	1	0	göl	Koca Gölü
+Q35719119	Koca Gölü	36.681389	28.824722	Muğla	1	0	göl	Koca Gölü
+Q35720717	Köpek Gölü	38.791389	33.020278	Konya	1	0	göl	Köpek Gölü
+Q49300135	Büyük Göl	39.870000	37.378333	Sivas	1	0	göl	Lake Büyük
+Q48791507	Eşen Gölü	37.202222	29.017500		2	0	göl	Lake Eşen
+Q48791929	Yenişehir Gölü	36.237222	36.569167		3	0	göl	Lake Yenişehir
+Q49302014	Dumanlı Göl	41.333333	36.783333	Samsun	1	0	göl	Lake Dumanlı
+Q49301349	Dalyan Gölü (Bursa)	40.385833	28.482222	Bursa	1	0	göl	Lake Dalyan (Bursa)
+Q49301350	Dalyan Gölü, Edirne	40.716700	26.069800	Edirne	2	0	göl	Dalyan Lake
+Q49301573	Demirci Gölü	40.632500	26.930000	Çanakkale	1	0	göl	Lake Demirci
+Q49301574	Demiryurt Gölü	39.880000	37.596667	Sivas	1	0	göl	Lake Demiryurt
+Q49301695	Dipsiz Göl	36.738611	34.911944	Mersin	1	0	göl	Dipsiz Göl
+Q49307922	Pamuklu Gölü	40.788889	26.281111	Edirne	1	0	göl	Lake Pamuklu
+Q49309759	Tuz Gölü	40.295920	26.257920	Çanakkale	1	1	göl	Tuz Gölü
+Q49305642	Melen Gölü	40.758056	31.057222		1	0	göl	Lake Melen
+Q49304106	Liman Göl	41.700000	36.016670		1	0	göl	Lake Liman
+Q49312865	Sülüngür Gölü	36.788333	28.644722	Muğla	1	0	göl	Lake Sülüngür
+Q49312867	Süphan Gölü	38.964444	43.868889	Van	3	0	göl	Lake Süphan
+Q49313021	Tatlı Gölü	41.570000	36.061944	Samsun	1	0	göl	Lake Tatlı
+Q49313166	Tersakan Gölü	38.588400	33.085600	Konya	2	0	göl	Lake Tersakan
+Q49310647	Sığırcı Gölü	40.816667	26.316667	Edirne	1	0	göl	Lake Sığırcı
+Q49313576	Tortum Gölü	40.624800	41.635600	Erzurum	8	1	göl	Tortum Gölü
+Q49314098	Tuzla Gölü (Edirne)	40.602680	26.263850		1	0	göl	Lake Tuzla (Edirne)
+Q49314099	Tuzla Gölü (Edirne)	40.626667	26.486667	Edirne	1	0	göl	Lake Tuzla (Edirne)
+Q49314696	Uzun Gölü	41.565278	36.093056	Samsun	1	0	göl	Lake Uzun
+Q49316540	Çatal Gölü	37.992778	27.317222	İzmir	1	0	göl	Lake Çatal
+Q49316755	Örmeli Göl	37.135833	36.737500	Gaziantep	1	0	göl	Lake Örmeli
+Q61071758	Akgöl	41.047222	30.565278	Sakarya	2	0	göl	Akgöl
+Q61076554	Deniz Gölü	40.817778	41.160556	Artvin	6	1	göl	Deniz Gölü
+Q65220312	Gölcük Gölü	40.656111	31.630000	Bolu	3	1	göl	Lake Gölcük
+Q55703467	Göl	40.901765	42.781697	Ardahan	1	0	göl	Göl
+Q96023275	Limni Gölü	40.610833	39.413056	Gümüşhane	2	1	göl	Lake Limni
+Q97217841	Batmış Gölü	38.894640	42.647896	Bitlis	3	0	göl	Lake Batmış
+Q97321105	Kaz Gölü	40.276100	36.150800	Tokat	2	0	göl	Lake Kaz
+Q104855148	Sülüklü Göl	38.897200	29.896100		1	0	göl	Lake Sülüklü
+Q108936763	Gerendal Gölü	38.829950	40.334530	Bingöl	4	1	göl	Gerendal Lake
+Q110779563	Reisler Okçular Gölü	40.996506	30.331076	Sakarya	1	1	göl	Reisler Okçular Lake
+Q115111041	Dipsiz Göl (Göztepe)	40.373200	40.727600		0	0	göl	Lake Dipsiz (Göztepe)
+Q116266062	Karagöl (Murgul)	41.224810	41.608850	Artvin	1	0	göl	Karagöl
+Q117204028	Gökpınar gölü	38.655990	37.304380	Sivas	0	0	göl	Gökpınar lake
+Q118946773	Gökpınar Gölü	38.655989	37.304381	Sivas	2	1	göl	Lake Gökpınar
+Q120761952	Eğrigöl, Antalya	36.931000	32.204000	Antalya	2	1	göl	Lake Eğri
+Q123026909	Hıdırmenteş Gölü	39.179000	43.773300		2	0	göl	Lake Hıdırmenteş
+Q123166081	Atar Gölü	39.404536	43.385234	Ağrı	5	0	göl	Lake Atar
+Q123243592	Aygır Gölü (Erzurum)	40.207310	41.235780		2	0	göl	Lake Aygır
+Q123310246	Bahri Gölü	39.304000	41.142050		2	0	göl	Lake Bahri
+Q123310255	Ahır Gölü	39.396461	42.023502		2	0	göl	Lake Ahır
+Q124654403	Kızılçan Gölü	39.847539	37.559791		1	1	göl	Kızılçan Lake
+Q125618501	Aygır Gölü (Trabzon)	40.526500	40.390500	Trabzon	4	1	göl	Lake Aygır
+Q130297167	Emre Gölü	39.107791	30.438969	Afyonkarahisar	1	0	göl	Lake Emre
+Q126307	Van Gölü	38.633333	42.816667	Bitlis|Van	90	1	sodalı göl;tektonik göl;tuz gölü	Lake Van
+Q20470414	Düden Gölü	39.086600	33.146000	Konya	8	0	tuz gölü	Lake Düden
+Q49318665	Acı Göl	37.712778	33.666111	Konya	1	0	tuz gölü	Acı Göl
+Q49318667	Akgöl (tuz gölü)	37.514167	33.717222	Karaman	1	0	tuz gölü	Lake Akgöl
+Q20475022	Yarışlı Gölü	37.566500	29.966100	Burdur	8	1	kapalı havza göl	Lake Yarışlı
+Q104850893	Sülüklü Gölü (Gaziantep)	37.304800	37.254900		1	0	tatlı su gölü	Lake Sülüklü
+Q6954608	Küçük Hamurpet	39.110500	41.756400		2	0	doğal göl	Lake Small Akdoğan
+Q20470564	Arin Gölü	38.812000	42.989200	Bitlis	8	0	sodalı göl	Lake Arin
+Q31190146	Karagöl, Elmalı	36.718600	29.845700	Antalya	1	0	eski göl	Karagöl
+Q49318654	Yanyanlı Gölü	38.670000	35.286389	Kayseri	1	0	intermittent lake	Lake Yanyanlı
+Q49318661	İris Gölü	38.489167	26.446389	İzmir	1	1	intermittent lake	Lake İris
