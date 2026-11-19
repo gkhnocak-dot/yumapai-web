@@ -1,132 +1,132 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-dS2(){return new C.Bk(null)},
-CO:function CO(d,e,f,g,h,i){var _=this
+dTx(){return new C.Bt(null)},
+CX:function CX(d,e,f,g,h,i){var _=this
 _.a=d
 _.b=e
 _.c=f
 _.d=g
 _.e=h
 _.f=i},
-Bk:function Bk(d){this.a=d},
-aAz:function aAz(d){this.d=d
+Bt:function Bt(d){this.a=d},
+aAX:function aAX(d){this.d=d
 this.c=this.a=null},
-c9Y:function c9Y(d){this.a=d},
-c9X:function c9X(d){this.a=d},
-c9V:function c9V(d,e,f){this.a=d
+cb2:function cb2(d){this.a=d},
+cb1:function cb1(d){this.a=d},
+cb_:function cb_(d,e,f){this.a=d
 this.b=e
 this.c=f},
-c9U:function c9U(d,e,f){this.a=d
+caZ:function caZ(d,e,f){this.a=d
 this.b=e
 this.c=f},
-c9W:function c9W(){}},D,E
+cb0:function cb0(){}},D,E
 A=c[0]
 B=c[2]
 C=a.updateHolder(c[6],C)
-D=c[128]
-E=c[129]
-C.CO.prototype={}
-C.Bk.prototype={
-a3(){return new C.aAz(A.b0(y.w))}}
-C.aAz.prototype={
-H(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i=null,h="en",g="tr",f=A.a(d).ax.a===B.a?A.b():A.c(),e=A.m(d,B.d,y.y)
+D=c[131]
+E=c[132]
+C.CX.prototype={}
+C.Bt.prototype={
+a3(){return new C.aAX(A.b1(y.w))}}
+C.aAX.prototype={
+H(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i=null,h="en",g="tr",f=A.a(d).ax.a===B.a?A.c():A.b(),e=A.m(d,B.d,y.y)
 e.toString
 x=e.a.hR("_")!=="en"
-e=A.bY(B.U6,x?g:h)
-e=A.ce(e.length===0?"yu_place_names_categories_and_e861":e,i)
-w=A.e([new A.aY("CDLA-Permissive-2.0",'\xa9 Overture Maps Foundation (overturemaps.org). Places data from Meta, Microsoft, PinMeTo, Krick, RenderSEO, DAC and BrightQuery\nis available under the Community Data License Agreement \u2013 Permissive 2.0 (text below); Foursquare (FSQ OS Places) data under\nthe Apache License 2.0 (full text in the YuMapAI licences page and in this list); AllThePlaces data under CC0 1.0.\nNotice of changes: YuMapAI modified the data (normalized names, categories and addresses; matched and merged records with\nother sources; added province and district) into its own place schema. Dates of changes: September\u2013November 2026,\nlast updated 18.11.2026.\n\nCommunity Data License Agreement - Permissive - Version 2.0\n\nThis is the Community Data License Agreement - Permissive, Version 2.0 (the "agreement"). Data Provider(s) and Data Recipient(s) agree as follows:\n\n1. Provision of the Data\n\n1.1. A Data Recipient may use, modify, and share the Data made available by Data Provider(s) under this agreement if that Data Recipient follows the terms of this agreement.\n\n1.2. This agreement does not impose any restriction on a Data Recipient\'s use, modification, or sharing of any portions of the Data that are in the public domain or that may be used, modified, or shared under any other legal exception or limitation.\n\n2. Conditions for Sharing Data\n\n2.1. A Data Recipient may share Data, with or without modifications, so long as the Data Recipient makes available the text of this agreement with the shared Data.\n\n3. No Restrictions on Results\n\n3.1. This agreement does not impose any restriction or obligations with respect to the use, modification, or sharing of Results.\n\n4. No Warranty; Limitation of Liability\n\n4.1. All Data Recipients receive the Data subject to the following terms:\n\nTHE DATA IS PROVIDED ON AN "AS IS" BASIS, WITHOUT REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.\n\nNO DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n5. Definitions\n\n5.1. "Data" means the material received by a Data Recipient under this agreement.\n\n5.2. "Data Provider" means any person who is the source of Data provided under this agreement and in reliance on a Data Recipient\'s agreement to its terms.\n\n5.3. "Data Recipient" means any person who receives Data directly or indirectly from a Data Provider and agrees to the terms of this agreement.\n\n5.4. "Results" means any outcome obtained by computational analysis of Data, including for example machine learning models and models\' insights.\n'),D.bfa],y.j)
-v=A.bY(B.Tz,x?g:h)
-v=A.ce(v.length===0?"yu_some_places_turkish_names_2867":v,i)
-u=A.bY(B.Ty,x?g:h)
-u=A.ce(u.length===0?"yu_cc_by_cc_by_sa_cc0_pub_e07e":u,i)
-t=A.bY(B.TE,x?g:h)
-t=A.ce(t.length===0?"yu_each_photo_s_author_an_cea8":t,i)
-s=A.bY(B.TF,x?g:h)
-s=A.ce(s.length===0?"yu_place_photos_come_from_7c9c":s,i)
-r=A.bY(B.Te,x?g:h)
-r=A.ce(r.length===0?"yu_openstreetmap_contribu_63f7":r,i)
-q=A.bY(B.TG,x?g:h)
-q=A.ce(q.length===0?"yu_the_base_map_is_served_by_e3d0":q,i)
-p=A.bY(B.Ub,x?g:h)
-p=A.ce(p.length===0?"yu_geonames_data_is_used_to_80b6":p,i)
-o=A.bY(B.TH,x?g:h)
-o=A.ce(o.length===0?"yu_municipal_open_data_884e":o,i)
-n=A.bY(B.U2,x?g:h)
-n=A.ce(n.length===0?"yu_ibb_open_data_cc_by_4_3b87":n,i)
-m=A.bY(B.U9,x?g:h)
-m=A.ce(m.length===0?"yu_source_ibb_open_data_p_34c4":m,i)
-l=A.bY(B.Tt,x?g:h)
-k=[new C.CO("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\xa9 Overture Maps Foundation",e,w),new C.CO("wikidata","Wikidata","CC0 1.0","Wikidata (wikidata.org)",v,D.nn),new C.CO("commons","Wikimedia Commons",u,t,s,D.nn),new C.CO("osm","OpenStreetMap \xb7 OpenMapTiles \xb7 OpenFreeMap","ODbL 1.0 \xb7 CC BY 4.0",r,q,D.nn),new C.CO("geonames","GeoNames","CC BY 4.0","GeoNames (geonames.org)",p,D.nn),new C.CO("tr_acik",o,n,m,A.ce(l.length===0?"yu_i_stanbul_museums_come_from_053d":l,i),D.nn)]
-e=f.gbY()
-w=A.bY(B.yv,x?g:h)
-w=A.ce(w.length===0?"yu_back_2e39":w,i)
-v=f.ga0()
-w=A.aV(i,!0,i,A.ff(!1,B.af,!0,i,A.P(!1,i,!0,new A.r(44,44,A.w(B.aU,f.gB(),i,20),i),B.di,!0,i,i,i,i,D.bsI,i,i,i,i,i,new C.c9X(d),i,i,i,i,i,i,i),B.b,v,0,i,i,B.di,i,i,B.bE),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,w,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.c9Y(d),i,i,i,i,i,i,i,i,i,i,i,B.L,i)
-v=A.bY(B.Uz,x?g:h)
+e=A.bZ(B.Ub,x?g:h)
+e=A.cg(e.length===0?"yu_place_names_categories_and_e861":e,i)
+w=A.e([new A.aY("CDLA-Permissive-2.0",'\xa9 Overture Maps Foundation (overturemaps.org). Places data from Meta, Microsoft, PinMeTo, Krick, RenderSEO, DAC and BrightQuery\nis available under the Community Data License Agreement \u2013 Permissive 2.0 (text below); Foursquare (FSQ OS Places) data under\nthe Apache License 2.0 (full text in the YuMapAI licences page and in this list); AllThePlaces data under CC0 1.0.\nNotice of changes: YuMapAI modified the data (normalized names, categories and addresses; matched and merged records with\nother sources; added province and district) into its own place schema. Dates of changes: September\u2013November 2026,\nlast updated 18.11.2026.\n\nCommunity Data License Agreement - Permissive - Version 2.0\n\nThis is the Community Data License Agreement - Permissive, Version 2.0 (the "agreement"). Data Provider(s) and Data Recipient(s) agree as follows:\n\n1. Provision of the Data\n\n1.1. A Data Recipient may use, modify, and share the Data made available by Data Provider(s) under this agreement if that Data Recipient follows the terms of this agreement.\n\n1.2. This agreement does not impose any restriction on a Data Recipient\'s use, modification, or sharing of any portions of the Data that are in the public domain or that may be used, modified, or shared under any other legal exception or limitation.\n\n2. Conditions for Sharing Data\n\n2.1. A Data Recipient may share Data, with or without modifications, so long as the Data Recipient makes available the text of this agreement with the shared Data.\n\n3. No Restrictions on Results\n\n3.1. This agreement does not impose any restriction or obligations with respect to the use, modification, or sharing of Results.\n\n4. No Warranty; Limitation of Liability\n\n4.1. All Data Recipients receive the Data subject to the following terms:\n\nTHE DATA IS PROVIDED ON AN "AS IS" BASIS, WITHOUT REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.\n\nNO DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n5. Definitions\n\n5.1. "Data" means the material received by a Data Recipient under this agreement.\n\n5.2. "Data Provider" means any person who is the source of Data provided under this agreement and in reliance on a Data Recipient\'s agreement to its terms.\n\n5.3. "Data Recipient" means any person who receives Data directly or indirectly from a Data Provider and agrees to the terms of this agreement.\n\n5.4. "Results" means any outcome obtained by computational analysis of Data, including for example machine learning models and models\' insights.\n'),D.bfg],y.j)
+v=A.bZ(B.TE,x?g:h)
+v=A.cg(v.length===0?"yu_some_places_turkish_names_2867":v,i)
+u=A.bZ(B.TD,x?g:h)
+u=A.cg(u.length===0?"yu_cc_by_cc_by_sa_cc0_pub_e07e":u,i)
+t=A.bZ(B.TJ,x?g:h)
+t=A.cg(t.length===0?"yu_each_photo_s_author_an_cea8":t,i)
+s=A.bZ(B.TK,x?g:h)
+s=A.cg(s.length===0?"yu_place_photos_come_from_7c9c":s,i)
+r=A.bZ(B.Tj,x?g:h)
+r=A.cg(r.length===0?"yu_openstreetmap_contribu_63f7":r,i)
+q=A.bZ(B.TL,x?g:h)
+q=A.cg(q.length===0?"yu_the_base_map_is_served_by_e3d0":q,i)
+p=A.bZ(B.Ug,x?g:h)
+p=A.cg(p.length===0?"yu_geonames_data_is_used_to_80b6":p,i)
+o=A.bZ(B.TM,x?g:h)
+o=A.cg(o.length===0?"yu_municipal_open_data_884e":o,i)
+n=A.bZ(B.U7,x?g:h)
+n=A.cg(n.length===0?"yu_ibb_open_data_cc_by_4_3b87":n,i)
+m=A.bZ(B.Ue,x?g:h)
+m=A.cg(m.length===0?"yu_source_ibb_open_data_p_34c4":m,i)
+l=A.bZ(B.Ty,x?g:h)
+k=[new C.CX("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\xa9 Overture Maps Foundation",e,w),new C.CX("wikidata","Wikidata","CC0 1.0","Wikidata (wikidata.org)",v,D.nt),new C.CX("commons","Wikimedia Commons",u,t,s,D.nt),new C.CX("osm","OpenStreetMap \xb7 OpenMapTiles \xb7 OpenFreeMap","ODbL 1.0 \xb7 CC BY 4.0",r,q,D.nt),new C.CX("geonames","GeoNames","CC BY 4.0","GeoNames (geonames.org)",p,D.nt),new C.CX("tr_acik",o,n,m,A.cg(l.length===0?"yu_i_stanbul_museums_come_from_053d":l,i),D.nt)]
+e=f.gbW()
+w=A.bZ(B.yA,x?g:h)
+w=A.cg(w.length===0?"yu_back_2e39":w,i)
+v=f.gZ()
+w=A.aV(i,!0,i,A.fi(!1,B.af,!0,i,A.P(!1,i,!0,new A.r(44,44,A.w(B.aU,f.gB(),i,20),i),B.dQ,!0,i,i,i,i,D.bsZ,i,i,i,i,i,new C.cb1(d),i,i,i,i,i,i,i),B.b,v,0,i,i,B.dQ,i,i,B.bF),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,w,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.cb2(d),i,i,i,i,i,i,i,i,i,i,i,B.L,i)
+v=A.bZ(B.UE,x?g:h)
 u=y.u
-v=A.e([A.u(A.e([w,B.bu,A.C(A.h(A.ce(v.length===0?"yu_licences_and_data_sour_d928":v,i),i,i,i,i,i,i,i,new A.i(f).gd1().ti("Manrope",B.I),i,i,i,i),1)],u),B.F,i,B.z,B.i,0,i,i),B.aY,A.h(A.S("yu_the_place_data_photos_and_caf4",i),i,i,i,i,i,i,i,new A.i(f).gai().c0(f.gt()),i,i,i,i),B.dK],u)
-for(j=0;j<6;++j)B.n.X(v,A.e([this.b1K(f,k[j],x),B.aY],u))
-v.push(this.bbP(f,x))
-return A.df(i,e,A.c_(!0,A.cu(new A.dQ(D.a3z,A.ii(i,v,i,D.bsJ,i,E.EA,i,B.J,!1),i),i,i,i),!0,B.K,!0,!0),i,i,i,i)},
-b1K(d,e,f){var x,w,v,u,t,s,r,q,p=this,o=null,n=e.a,m=p.c
+v=A.e([A.u(A.e([w,B.bo,A.C(A.h(A.cg(v.length===0?"yu_licences_and_data_sour_d928":v,i),i,i,i,i,i,i,i,new A.i(f).gd1().tj("Manrope",B.I),i,i,i,i),1)],u),B.F,i,B.z,B.i,0,i,i),B.aV,A.h(A.S("yu_the_place_data_photos_and_caf4",i),i,i,i,i,i,i,i,new A.i(f).gai().c0(f.gt()),i,i,i,i),B.dJ],u)
+for(j=0;j<6;++j)B.n.W(v,A.e([this.b25(f,k[j],x),B.aV],u))
+v.push(this.bca(f,x))
+return A.di(i,e,A.c0(!0,A.cv(new A.dT(D.a3H,A.im(i,v,i,D.bt_,i,E.EG,i,B.J,!1),i),i,i,i),!0,B.K,!0,!0),i,i,i,i)},
+b25(d,e,f){var x,w,v,u,t,s,r,q,p=this,o=null,n=e.a,m=p.c
 m.toString
-m=A.aI(m,22)
+m=A.aF(m,22)
 x=y.u
-w=A.e([A.h(e.b,o,o,o,o,o,o,o,new A.i(d).gb8().ti("Manrope",B.I),o,o,o,o),B.bf,A.ek(B.a1,A.e([p.amR(d,e.c),p.amR(d,e.d)],x),B.b,B.aG,B.Z,o,B.a1,6,6,B.k),B.aE,A.h(e.e,o,o,o,o,o,o,o,new A.i(d).gai(),o,o,o,o)],x)
+w=A.e([A.h(e.b,o,o,o,o,o,o,o,new A.i(d).gb8().tj("Manrope",B.I),o,o,o,o),B.b5,A.el(B.Z,A.e([p.an1(d,e.c),p.an1(d,e.d)],x),B.b,B.aB,B.Y,o,B.Z,6,6,B.k),B.aF,A.h(e.e,o,o,o,o,o,o,o,new A.i(d).gai(),o,o,o,o)],x)
 for(v=e.f,u=v.length,t=n+":",s=0;s<v.length;v.length===u||(0,A.a6)(v),++s){r=v[s]
 q=r.a
-B.n.X(w,A.e([B.aE,p.aUE(d,t+q,q,r.b,f)],x))}return A.d(o,A.I(w,B.Q,o,B.z,B.i,0,o,B.k),B.b,o,o,m,o,o,new A.Z("lisans_"+n,y.q),o,D.Ex,o,o,o)},
-amR(d,e){var x=null,w=d.ga6(),v=A.O(999)
-return A.d(x,A.h(e,x,x,x,x,x,x,x,new A.i(d).gG().avN(d.gB(),"Manrope",B.X),x,x,x,x),B.b,x,x,new A.G(w,x,x,v,x,x,x,B.m),x,x,x,x,B.mR,x,x,x)},
-aUE(d,e,f,g,h){var x,w,v,u=null,t=this.d.A(0,e),s=y.q,r=A.O(999),q=t?B.xi:B.nb
-q=A.w(q,d.gI(),u,u)
+B.n.W(w,A.e([B.aF,p.aUW(d,t+q,q,r.b,f)],x))}return A.d(o,A.I(w,B.P,o,B.z,B.i,0,o,B.k),B.b,o,o,m,o,o,new A.Y("lisans_"+n,y.q),o,D.ED,o,o,o)},
+an1(d,e){var x=null,w=d.ga7(),v=A.N(999)
+return A.d(x,A.h(e,x,x,x,x,x,x,x,new A.i(d).gI().avZ(d.gB(),"Manrope",B.W),x,x,x,x),B.b,x,x,new A.H(w,x,x,v,x,x,x,B.m),x,x,x,x,B.mX,x,x,x)},
+aUW(d,e,f,g,h){var x,w,v,u=null,t=this.d.A(0,e),s=y.q,r=A.N(999),q=t?B.xo:B.ng
+q=A.w(q,d.gG(),u,u)
 x=h?"tr":"en"
 w=A.f(["title",f],y.w,y.x)
-x=A.bY(B.Tf,x)
+x=A.bZ(B.Tk,x)
 v=y.u
-v=A.e([A.aV(u,!0,u,A.P(!1,r,!0,new A.j(B.fk,A.u(A.e([q,B.c_,A.C(A.h(A.ce(x.length===0?"yu_title_full_text_77d8":x,w),u,u,u,u,u,u,u,new A.i(d).gk0().avN(d.gI(),"Manrope",B.X),u,u,u,u),1)],v),B.F,u,B.z,B.i,0,u,u),u),u,!0,u,u,u,u,new A.Z("lisans_tam_"+e,s),u,u,u,u,u,new C.c9V(this,t,e),u,u,u,u,u,u,u),!1,u,u,u,u,!1,t,!1,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,B.L,u)],v)
-if(t){r=d.gbY()
-q=A.O(14)
-v.push(A.d(u,A.dnK(B.u.au(g),new A.Z("lisans_metin_"+e,s),new A.i(d).gm().Wn(1.35)),B.b,u,u,new A.G(r,u,u,q,u,u,u,B.m),u,u,u,u,B.dR,u,u,u))}return A.I(v,B.aq,u,B.z,B.i,0,u,B.k)},
-bbP(d,e){var x,w,v,u,t=null,s=this.c
+v=A.e([A.aV(u,!0,u,A.P(!1,r,!0,new A.j(B.fi,A.u(A.e([q,B.bW,A.C(A.h(A.cg(x.length===0?"yu_title_full_text_77d8":x,w),u,u,u,u,u,u,u,new A.i(d).gk5().avZ(d.gG(),"Manrope",B.W),u,u,u,u),1)],v),B.F,u,B.z,B.i,0,u,u),u),u,!0,u,u,u,u,new A.Y("lisans_tam_"+e,s),u,u,u,u,u,new C.cb_(this,t,e),u,u,u,u,u,u,u),!1,u,u,u,u,!1,t,!1,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,B.L,u)],v)
+if(t){r=d.gbW()
+q=A.N(14)
+v.push(A.d(u,A.dp8(B.u.ap(g),new A.Y("lisans_metin_"+e,s),new A.i(d).gm().Wu(1.35)),B.b,u,u,new A.H(r,u,u,q,u,u,u,B.m),u,u,u,u,B.dk,u,u,u))}return A.I(v,B.ar,u,B.z,B.i,0,u,B.k)},
+bca(d,e){var x,w,v,u,t=null,s=this.c
 s.toString
-s=A.aI(s,22)
-x=A.bY(B.TN,e?"tr":"en")
-x=A.h(A.ce(x.length===0?"yu_software_and_fonts_dc32":x,t),t,t,t,t,t,t,t,new A.i(d).gb8().ti("Manrope",B.I),t,t,t,t)
+s=A.aF(s,22)
+x=A.bZ(B.TS,e?"tr":"en")
+x=A.h(A.cg(x.length===0?"yu_software_and_fonts_dc32":x,t),t,t,t,t,t,t,t,new A.i(d).gb8().tj("Manrope",B.I),t,t,t,t)
 w=A.h(A.S("yu_licences_of_flutter_and_the_bab0",t),t,t,t,t,t,t,t,new A.i(d).gai(),t,t,t,t)
-v=A.w(B.kV,d.gI(),t,18)
-u=A.bY(B.Ti,e?"tr":"en")
-return A.d(t,A.I(A.e([x,B.aE,w,B.bo,new A.f7(new C.c9W(),A.h(A.ce(u.length===0?"yu_show_open_source_licen_8835":u,t),t,t,t,t,t,t,t,A.av(t,t,d.gB(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bsG)],y.u),B.Q,t,B.z,B.i,0,t,B.k),B.b,t,t,s,t,t,D.bsH,t,D.Ex,t,t,t)}}
+v=A.w(B.l0,d.gG(),t,18)
+u=A.bZ(B.Tn,e?"tr":"en")
+return A.d(t,A.I(A.e([x,B.aF,w,B.bh,new A.fa(new C.cb0(),A.h(A.cg(u.length===0?"yu_show_open_source_licen_8835":u,t),t,t,t,t,t,t,t,A.aI(t,t,d.gB(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.W,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bsX)],y.u),B.P,t,B.z,B.i,0,t,B.k),B.b,t,t,s,t,t,D.bsY,t,D.ED,t,t,t)}}
 var z=a.updateTypes([])
-C.c9Y.prototype={
-$0(){return A.qO(this.a)},
+C.cb2.prototype={
+$0(){return A.qT(this.a)},
 $S:0}
-C.c9X.prototype={
-$0(){return A.qO(this.a)},
+C.cb1.prototype={
+$0(){return A.qT(this.a)},
 $S:0}
-C.c9V.prototype={
+C.cb_.prototype={
 $0(){var x=this.a
-return x.k(0,new C.c9U(x,this.b,this.c))},
+return x.k(0,new C.caZ(x,this.b,this.c))},
 $S:0}
-C.c9U.prototype={
+C.caZ.prototype={
 $0(){var x=this.c,w=this.a.d
-return this.b?w.W(0,x):w.S(0,x)},
+return this.b?w.X(0,x):w.S(0,x)},
 $S:0}
-C.c9W.prototype={
-$0(){return A.fB("licenses")},
+C.cb0.prototype={
+$0(){return A.fD("licenses")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(C.CO,A.ak)
-x(C.Bk,A.ac)
-x(C.aAz,A.ah)
-w(A.dB,[C.c9Y,C.c9X,C.c9V,C.c9U,C.c9W])})()
-A.dq(b.typeUniverse,JSON.parse('{"Bk":{"ac":[],"L":[]},"aAz":{"ah":["Bk"]}}'))
-var y={y:A.aj("dO"),j:A.aj("R<+(M,M)>"),u:A.aj("R<L>"),w:A.aj("M"),q:A.aj("Z<M>"),x:A.aj("ak?")};(function constants(){var x=a.makeConstList
-D.a3z=new A.aG(0,880,0,1/0)
-D.Ex=new A.a5(16,14,16,14)
-D.nn=x([],y.j)
-D.bfa=new A.aY("Apache License 2.0",'                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      "License" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      "Licensor" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      "Legal Entity" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity. For the purposes of this definition,\n      "control" means (i) the power, direct or indirect, to cause the\n      direction or management of such entity, whether by contract or\n      otherwise, or (ii) ownership of fifty percent (50%) or more of the\n      outstanding shares, or (iii) beneficial ownership of such entity.\n\n      "You" (or "Your") shall mean an individual or Legal Entity\n      exercising permissions granted by this License.\n\n      "Source" form shall mean the preferred form for making modifications,\n      including but not limited to software source code, documentation\n      source, and configuration files.\n\n      "Object" form shall mean any form resulting from mechanical\n      transformation or translation of a Source form, including but\n      not limited to compiled object code, generated documentation,\n      and conversions to other media types.\n\n      "Work" shall mean the work of authorship, whether in Source or\n      Object form, made available under the License, as indicated by a\n      copyright notice that is included in or attached to the work\n      (an example is provided in the Appendix below).\n\n      "Derivative Works" shall mean any work, whether in Source or Object\n      form, that is based on (or derived from) the Work and for which the\n      editorial revisions, annotations, elaborations, or other modifications\n      represent, as a whole, an original work of authorship. For the purposes\n      of this License, Derivative Works shall not include works that remain\n      separable from, or merely link (or bind by name) to the interfaces of,\n      the Work and Derivative Works thereof.\n\n      "Contribution" shall mean any work of authorship, including\n      the original version of the Work and any modifications or additions\n      to that Work or Derivative Works thereof, that is intentionally\n      submitted to Licensor for inclusion in the Work by the copyright owner\n      or by an individual or Legal Entity authorized to submit on behalf of\n      the copyright owner. For the purposes of this definition, "submitted"\n      means any form of electronic, verbal, or written communication sent\n      to the Licensor or its representatives, including but not limited to\n      communication on electronic mailing lists, source code control systems,\n      and issue tracking systems that are managed by, or on behalf of, the\n      Licensor for the purpose of discussing and improving the Work, but\n      excluding communication that is conspicuously marked or otherwise\n      designated in writing by the copyright owner as "Not a Contribution."\n\n      "Contributor" shall mean Licensor and any individual or Legal Entity\n      on behalf of whom a Contribution has been received by Licensor and\n      subsequently incorporated within the Work.\n\n   2. Grant of Copyright License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      copyright license to reproduce, prepare Derivative Works of,\n      publicly display, publicly perform, sublicense, and distribute the\n      Work and such Derivative Works in Source or Object form.\n\n   3. Grant of Patent License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      (except as stated in this section) patent license to make, have made,\n      use, offer to sell, sell, import, and otherwise transfer the Work,\n      where such license applies only to those patent claims licensable\n      by such Contributor that are necessarily infringed by their\n      Contribution(s) alone or by combination of their Contribution(s)\n      with the Work to which such Contribution(s) was submitted. If You\n      institute patent litigation against any entity (including a\n      cross-claim or counterclaim in a lawsuit) alleging that the Work\n      or a Contribution incorporated within the Work constitutes direct\n      or contributory patent infringement, then any patent licenses\n      granted to You under this License for that Work shall terminate\n      as of the date such litigation is filed.\n\n   4. Redistribution. You may reproduce and distribute copies of the\n      Work or Derivative Works thereof in any medium, with or without\n      modifications, and in Source or Object form, provided that You\n      meet the following conditions:\n\n      (a) You must give any other recipients of the Work or\n          Derivative Works a copy of this License; and\n\n      (b) You must cause any modified files to carry prominent notices\n          stating that You changed the files; and\n\n      (c) You must retain, in the Source form of any Derivative Works\n          that You distribute, all copyright, patent, trademark, and\n          attribution notices from the Source form of the Work,\n          excluding those notices that do not pertain to any part of\n          the Derivative Works; and\n\n      (d) If the Work includes a "NOTICE" text file as part of its\n          distribution, then any Derivative Works that You distribute must\n          include a readable copy of the attribution notices contained\n          within such NOTICE file, excluding those notices that do not\n          pertain to any part of the Derivative Works, in at least one\n          of the following places: within a NOTICE text file distributed\n          as part of the Derivative Works; within the Source form or\n          documentation, if provided along with the Derivative Works; or,\n          within a display generated by the Derivative Works, if and\n          wherever such third-party notices normally appear. The contents\n          of the NOTICE file are for informational purposes only and\n          do not modify the License. You may add Your own attribution\n          notices within Derivative Works that You distribute, alongside\n          or as an addendum to the NOTICE text from the Work, provided\n          that such additional attribution notices cannot be construed\n          as modifying the License.\n\n      You may add Your own copyright statement to Your modifications and\n      may provide additional or different license terms and conditions\n      for use, reproduction, or distribution of Your modifications, or\n      for any such Derivative Works as a whole, provided Your use,\n      reproduction, and distribution of the Work otherwise complies with\n      the conditions stated in this License.\n\n   5. Submission of Contributions. Unless You explicitly state otherwise,\n      any Contribution intentionally submitted for inclusion in the Work\n      by You to the Licensor shall be under the terms and conditions of\n      this License, without any additional terms or conditions.\n      Notwithstanding the above, nothing herein shall supersede or modify\n      the terms of any separate license agreement you may have executed\n      with Licensor regarding such Contributions.\n\n   6. Trademarks. This License does not grant permission to use the trade\n      names, trademarks, service marks, or product names of the Licensor,\n      except as required for reasonable and customary use in describing the\n      origin of the Work and reproducing the content of the NOTICE file.\n\n   7. Disclaimer of Warranty. Unless required by applicable law or\n      agreed to in writing, Licensor provides the Work (and each\n      Contributor provides its Contributions) on an "AS IS" BASIS,\n      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or\n      implied, including, without limitation, any warranties or conditions\n      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A\n      PARTICULAR PURPOSE. You are solely responsible for determining the\n      appropriateness of using or redistributing the Work and assume any\n      risks associated with Your exercise of permissions under this License.\n\n   8. Limitation of Liability. In no event and under no legal theory,\n      whether in tort (including negligence), contract, or otherwise,\n      unless required by applicable law (such as deliberate and grossly\n      negligent acts) or agreed to in writing, shall any Contributor be\n      liable to You for damages, including any direct, indirect, special,\n      incidental, or consequential damages of any character arising as a\n      result of this License or out of the use or inability to use the\n      Work (including but not limited to damages for loss of goodwill,\n      work stoppage, computer failure or malfunction, or any and all\n      other commercial damages or losses), even if such Contributor\n      has been advised of the possibility of such damages.\n\n   9. Accepting Warranty or Additional Liability. While redistributing\n      the Work or Derivative Works thereof, You may choose to offer,\n      and charge a fee for, acceptance of support, warranty, indemnity,\n      or other liability obligations and/or rights consistent with this\n      License. However, in accepting such obligations, You may act only\n      on Your own behalf and on Your sole responsibility, not on behalf\n      of any other Contributor, and only if You agree to indemnify,\n      defend, and hold each Contributor harmless for any liability\n      incurred by, or claims asserted against, such Contributor by reason\n      of your accepting any such warranty or additional liability.\n\n   END OF TERMS AND CONDITIONS\n\n   APPENDIX: How to apply the Apache License to your work.\n\n      To apply the Apache License to your work, attach the following\n      boilerplate notice, with the fields enclosed by brackets "[]"\n      replaced with your own identifying information. (Don\'t include\n      the brackets!)  The text should be enclosed in the appropriate\n      comment syntax for the file format. We also recommend that a\n      file or class name and description of purpose be included on the\n      same "printed page" as the copyright notice for easier\n      identification within third-party archives.\n\n   Copyright [yyyy] [name of copyright owner]\n\n   Licensed under the Apache License, Version 2.0 (the "License");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an "AS IS" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.\n')
-D.bsG=new A.Z("lisans_flutter",y.q)
-D.bsH=new A.Z("lisans_yazilim",y.q)
-D.bsI=new A.Z("lisanslar_back",y.q)
-D.bsJ=new A.Z("lisanslar_list",y.q)})()};
-(a=>{a["6Y64g1D/US440EFdyTjl6kmFFew="]=a.current})($__dart_deferred_initializers__);
+x(C.CX,A.ak)
+x(C.Bt,A.ab)
+x(C.aAX,A.ah)
+w(A.dE,[C.cb2,C.cb1,C.cb_,C.caZ,C.cb0])})()
+A.ds(b.typeUniverse,JSON.parse('{"Bt":{"ab":[],"K":[]},"aAX":{"ah":["Bt"]}}'))
+var y={y:A.ai("dM"),j:A.ai("R<+(L,L)>"),u:A.ai("R<K>"),w:A.ai("L"),q:A.ai("Y<L>"),x:A.ai("ak?")};(function constants(){var x=a.makeConstList
+D.a3H=new A.aG(0,880,0,1/0)
+D.ED=new A.a5(16,14,16,14)
+D.nt=x([],y.j)
+D.bfg=new A.aY("Apache License 2.0",'                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      "License" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      "Licensor" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      "Legal Entity" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity. For the purposes of this definition,\n      "control" means (i) the power, direct or indirect, to cause the\n      direction or management of such entity, whether by contract or\n      otherwise, or (ii) ownership of fifty percent (50%) or more of the\n      outstanding shares, or (iii) beneficial ownership of such entity.\n\n      "You" (or "Your") shall mean an individual or Legal Entity\n      exercising permissions granted by this License.\n\n      "Source" form shall mean the preferred form for making modifications,\n      including but not limited to software source code, documentation\n      source, and configuration files.\n\n      "Object" form shall mean any form resulting from mechanical\n      transformation or translation of a Source form, including but\n      not limited to compiled object code, generated documentation,\n      and conversions to other media types.\n\n      "Work" shall mean the work of authorship, whether in Source or\n      Object form, made available under the License, as indicated by a\n      copyright notice that is included in or attached to the work\n      (an example is provided in the Appendix below).\n\n      "Derivative Works" shall mean any work, whether in Source or Object\n      form, that is based on (or derived from) the Work and for which the\n      editorial revisions, annotations, elaborations, or other modifications\n      represent, as a whole, an original work of authorship. For the purposes\n      of this License, Derivative Works shall not include works that remain\n      separable from, or merely link (or bind by name) to the interfaces of,\n      the Work and Derivative Works thereof.\n\n      "Contribution" shall mean any work of authorship, including\n      the original version of the Work and any modifications or additions\n      to that Work or Derivative Works thereof, that is intentionally\n      submitted to Licensor for inclusion in the Work by the copyright owner\n      or by an individual or Legal Entity authorized to submit on behalf of\n      the copyright owner. For the purposes of this definition, "submitted"\n      means any form of electronic, verbal, or written communication sent\n      to the Licensor or its representatives, including but not limited to\n      communication on electronic mailing lists, source code control systems,\n      and issue tracking systems that are managed by, or on behalf of, the\n      Licensor for the purpose of discussing and improving the Work, but\n      excluding communication that is conspicuously marked or otherwise\n      designated in writing by the copyright owner as "Not a Contribution."\n\n      "Contributor" shall mean Licensor and any individual or Legal Entity\n      on behalf of whom a Contribution has been received by Licensor and\n      subsequently incorporated within the Work.\n\n   2. Grant of Copyright License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      copyright license to reproduce, prepare Derivative Works of,\n      publicly display, publicly perform, sublicense, and distribute the\n      Work and such Derivative Works in Source or Object form.\n\n   3. Grant of Patent License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      (except as stated in this section) patent license to make, have made,\n      use, offer to sell, sell, import, and otherwise transfer the Work,\n      where such license applies only to those patent claims licensable\n      by such Contributor that are necessarily infringed by their\n      Contribution(s) alone or by combination of their Contribution(s)\n      with the Work to which such Contribution(s) was submitted. If You\n      institute patent litigation against any entity (including a\n      cross-claim or counterclaim in a lawsuit) alleging that the Work\n      or a Contribution incorporated within the Work constitutes direct\n      or contributory patent infringement, then any patent licenses\n      granted to You under this License for that Work shall terminate\n      as of the date such litigation is filed.\n\n   4. Redistribution. You may reproduce and distribute copies of the\n      Work or Derivative Works thereof in any medium, with or without\n      modifications, and in Source or Object form, provided that You\n      meet the following conditions:\n\n      (a) You must give any other recipients of the Work or\n          Derivative Works a copy of this License; and\n\n      (b) You must cause any modified files to carry prominent notices\n          stating that You changed the files; and\n\n      (c) You must retain, in the Source form of any Derivative Works\n          that You distribute, all copyright, patent, trademark, and\n          attribution notices from the Source form of the Work,\n          excluding those notices that do not pertain to any part of\n          the Derivative Works; and\n\n      (d) If the Work includes a "NOTICE" text file as part of its\n          distribution, then any Derivative Works that You distribute must\n          include a readable copy of the attribution notices contained\n          within such NOTICE file, excluding those notices that do not\n          pertain to any part of the Derivative Works, in at least one\n          of the following places: within a NOTICE text file distributed\n          as part of the Derivative Works; within the Source form or\n          documentation, if provided along with the Derivative Works; or,\n          within a display generated by the Derivative Works, if and\n          wherever such third-party notices normally appear. The contents\n          of the NOTICE file are for informational purposes only and\n          do not modify the License. You may add Your own attribution\n          notices within Derivative Works that You distribute, alongside\n          or as an addendum to the NOTICE text from the Work, provided\n          that such additional attribution notices cannot be construed\n          as modifying the License.\n\n      You may add Your own copyright statement to Your modifications and\n      may provide additional or different license terms and conditions\n      for use, reproduction, or distribution of Your modifications, or\n      for any such Derivative Works as a whole, provided Your use,\n      reproduction, and distribution of the Work otherwise complies with\n      the conditions stated in this License.\n\n   5. Submission of Contributions. Unless You explicitly state otherwise,\n      any Contribution intentionally submitted for inclusion in the Work\n      by You to the Licensor shall be under the terms and conditions of\n      this License, without any additional terms or conditions.\n      Notwithstanding the above, nothing herein shall supersede or modify\n      the terms of any separate license agreement you may have executed\n      with Licensor regarding such Contributions.\n\n   6. Trademarks. This License does not grant permission to use the trade\n      names, trademarks, service marks, or product names of the Licensor,\n      except as required for reasonable and customary use in describing the\n      origin of the Work and reproducing the content of the NOTICE file.\n\n   7. Disclaimer of Warranty. Unless required by applicable law or\n      agreed to in writing, Licensor provides the Work (and each\n      Contributor provides its Contributions) on an "AS IS" BASIS,\n      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or\n      implied, including, without limitation, any warranties or conditions\n      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A\n      PARTICULAR PURPOSE. You are solely responsible for determining the\n      appropriateness of using or redistributing the Work and assume any\n      risks associated with Your exercise of permissions under this License.\n\n   8. Limitation of Liability. In no event and under no legal theory,\n      whether in tort (including negligence), contract, or otherwise,\n      unless required by applicable law (such as deliberate and grossly\n      negligent acts) or agreed to in writing, shall any Contributor be\n      liable to You for damages, including any direct, indirect, special,\n      incidental, or consequential damages of any character arising as a\n      result of this License or out of the use or inability to use the\n      Work (including but not limited to damages for loss of goodwill,\n      work stoppage, computer failure or malfunction, or any and all\n      other commercial damages or losses), even if such Contributor\n      has been advised of the possibility of such damages.\n\n   9. Accepting Warranty or Additional Liability. While redistributing\n      the Work or Derivative Works thereof, You may choose to offer,\n      and charge a fee for, acceptance of support, warranty, indemnity,\n      or other liability obligations and/or rights consistent with this\n      License. However, in accepting such obligations, You may act only\n      on Your own behalf and on Your sole responsibility, not on behalf\n      of any other Contributor, and only if You agree to indemnify,\n      defend, and hold each Contributor harmless for any liability\n      incurred by, or claims asserted against, such Contributor by reason\n      of your accepting any such warranty or additional liability.\n\n   END OF TERMS AND CONDITIONS\n\n   APPENDIX: How to apply the Apache License to your work.\n\n      To apply the Apache License to your work, attach the following\n      boilerplate notice, with the fields enclosed by brackets "[]"\n      replaced with your own identifying information. (Don\'t include\n      the brackets!)  The text should be enclosed in the appropriate\n      comment syntax for the file format. We also recommend that a\n      file or class name and description of purpose be included on the\n      same "printed page" as the copyright notice for easier\n      identification within third-party archives.\n\n   Copyright [yyyy] [name of copyright owner]\n\n   Licensed under the Apache License, Version 2.0 (the "License");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an "AS IS" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.\n')
+D.bsX=new A.Y("lisans_flutter",y.q)
+D.bsY=new A.Y("lisans_yazilim",y.q)
+D.bsZ=new A.Y("lisanslar_back",y.q)
+D.bt_=new A.Y("lisanslar_list",y.q)})()};
+(a=>{a["gyifArmCmDl+gkH0eulNP+Ds100="]=a.current})($__dart_deferred_initializers__);
