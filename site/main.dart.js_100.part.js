@@ -15,12 +15,12 @@ x=9
 break
 case 7:v=6
 m=u.pop()
-if(n.giT()!=="yandexnavi")throw m
+if(n.giU()!=="yandexnavi")throw m
 x=9
 break
 case 6:x=3
 break
-case 9:x=!t&&n.giT()==="yandexnavi"?11:12
+case 9:x=!t&&n.giU()==="yandexnavi"?11:12
 break
 case 11:s=D.dPN(d,$.m().oO!=="DRIVE")
 x=s!=null?13:14
@@ -55,4 +55,4 @@ C=a.updateHolder(c[62],C)
 D=c[67]
 var z=a.updateTypes([])
 var y={b:A.ai("@")}};
-(a=>{a["u4FPQrCGSI4ArXPU3vphcDuKDEY="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Efgs9ila7h9j/yMgfzF307k3dNM="]=a.current})($__dart_deferred_initializers__);
