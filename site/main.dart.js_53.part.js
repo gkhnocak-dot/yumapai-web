@@ -3,7 +3,7 @@ $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
 aJa(d,e){var x=0,w=A.B(y.a),v,u
 var $async$aJa=A.x(function(f,g){if(f===1)return A.y(g,w)
 for(;;)switch(x){case 0:x=2
-return A.v(A.wA(A.ee("https://wa.me/?text="+A.i0(2,e,B.ay,!1),0,null),B.ng,null),$async$aJa)
+return A.v(A.wB(A.ee("https://wa.me/?text="+A.i0(2,e,B.ay,!1),0,null),B.ng,null),$async$aJa)
 case 2:if(!g&&d.e!=null){v=d.b_(y.f).f
 u=A.n(d,B.d,y.i)
 u.toString
@@ -17,4 +17,4 @@ C=a.updateHolder(c[56],C)
 D=c[99]
 var z=a.updateTypes([])
 var y={i:A.ai("dG"),e:A.ai("Q<N>"),f:A.ai("CT"),a:A.ai("~")};(function constants(){D.Fa=new A.aH(63025,"MaterialIcons",null,!1)})()};
-(a=>{a["B+W30MidjV7Jn6TEHgnNBu2fdBI="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["S7wwf8xDVpffcpVknuLeWsb2XOk="]=a.current})($__dart_deferred_initializers__);

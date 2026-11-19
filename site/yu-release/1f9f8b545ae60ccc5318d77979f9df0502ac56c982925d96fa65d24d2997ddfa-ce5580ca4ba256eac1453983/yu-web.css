@@ -1,0 +1,11 @@
+/* YuMapAI web start plate (D-119W): the app's own start colour + logo while the engine loads; no layout shift (fixed). */
+html, body { margin: 0; height: 100%; background: #1E7BEA; }
+#yu-splash { position: fixed; inset: 0; z-index: 1; display: flex; align-items: center; justify-content: center;
+  background: #1E7BEA; pointer-events: none; }
+.yu-noscript { position: fixed; inset: auto 16px 24px 16px; margin: 0; padding: 14px 18px; border-radius: 18px; background: #FFFFFF;
+  color: #0D1B30; font: 600 16px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; text-align: center; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+#yu-sw-update { position: fixed; inset: auto 16px calc(16px + env(safe-area-inset-bottom)); margin: auto; z-index: 2147483647;
+  width: max-content; max-width: calc(100% - 32px); min-height: 44px; padding: 10px 16px; border: 2px solid #0D1B30;
+  border-radius: 12px; background: #FFFFFF; color: #0D1B30; font: 600 15px/1.4 system-ui, sans-serif; cursor: pointer; }
+#yu-sw-update:focus-visible { outline: 3px solid #1E7BEA; outline-offset: 2px; }

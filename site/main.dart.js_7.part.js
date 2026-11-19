@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,F,C={
-e_N(){return new C.AW(null)},
+e_O(){return new C.AX(null)},
 Cn:function Cn(d,e,f,g,h,i){var _=this
 _.a=d
 _.b=e
@@ -8,18 +8,18 @@ _.c=f
 _.d=g
 _.e=h
 _.f=i},
-AW:function AW(d){this.a=d},
+AX:function AX(d){this.a=d},
 azL:function azL(d){this.d=d
 this.c=this.a=null},
+ca_:function ca_(d){this.a=d},
 c9Z:function c9Z(d){this.a=d},
-c9Y:function c9Y(d){this.a=d},
+c9X:function c9X(d,e,f){this.a=d
+this.b=e
+this.c=f},
 c9W:function c9W(d,e,f){this.a=d
 this.b=e
 this.c=f},
-c9V:function c9V(d,e,f){this.a=d
-this.b=e
-this.c=f},
-c9X:function c9X(){}},D,E
+c9Y:function c9Y(){}},D,E
 A=c[0]
 B=c[2]
 F=c[125]
@@ -27,7 +27,7 @@ C=a.updateHolder(c[6],C)
 D=c[137]
 E=c[75]
 C.Cn.prototype={}
-C.AW.prototype={
+C.AX.prototype={
 a4(){return new C.azL(A.b4(y.g))}}
 C.azL.prototype={
 J(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i=null,h=A.a(d).ax.a===B.a?A.b():A.c(),g=A.n(d,B.d,y.i)
@@ -50,15 +50,15 @@ k=[new C.Cn("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\x
 l=h.gc3()
 g=x?"Geri":"Back"
 w=h.ga_()
-g=A.aY(i,!0,i,A.f9(!1,B.ae,!0,i,A.O(!1,i,!0,new A.q(44,44,A.w(B.aW,h.gA(),i,20),i),B.dl,!0,i,i,i,i,D.beR,i,i,i,i,i,new C.c9Y(d),i,i,i,i,i,i,i),B.b,w,0,i,i,B.dl,i,i,B.bD),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,g,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.c9Z(d),i,i,i,i,i,i,i,i,i,i,i,B.L,i)
+g=A.aY(i,!0,i,A.f9(!1,B.ae,!0,i,A.O(!1,i,!0,new A.q(44,44,A.w(B.aW,h.gA(),i,20),i),B.dl,!0,i,i,i,i,D.beR,i,i,i,i,i,new C.c9Z(d),i,i,i,i,i,i,i),B.b,w,0,i,i,B.dl,i,i,B.bD),!1,i,i,i,i,!0,i,!1,i,i,i,i,i,i,i,i,i,i,i,g,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new C.ca_(d),i,i,i,i,i,i,i,i,i,i,i,B.L,i)
 w=x?"Lisanslar ve veri kaynaklar\u0131":"Licences and data sources"
 v=y.e
 w=A.u(A.e([g,B.bE,A.C(A.h(w,i,i,i,i,i,i,i,new A.i(h).gcl().tg("Manrope",B.M),i,i,i,i),1)],v),B.E,i,B.B,B.i,0,i,i)
 g=x?"YuMapAI'de g\xf6sterilen mek\xe2n verisi, foto\u011fraflar ve harita a\xe7\u0131k lisansl\u0131 kaynaklardan gelir. Kaynaklar\u0131n istedi\u011fi at\u0131flar uygulamada ve a\u015fa\u011f\u0131da yer al\u0131r.":"The place data, photos and maps shown in YuMapAI come from openly licensed sources. The credits they require are shown in the app and below."
-g=A.e([w,B.b7,A.h(g,i,i,i,i,i,i,i,new A.i(h).gag().c0(h.gq()),i,i,i,i),B.dO],v)
-for(j=0;j<6;++j)B.p.a0(g,A.e([this.b1_(h,k[j],x),B.b7],v))
+g=A.e([w,B.b8,A.h(g,i,i,i,i,i,i,i,new A.i(h).gag().c0(h.gq()),i,i,i,i),B.dO],v)
+for(j=0;j<6;++j)B.p.a0(g,A.e([this.b1_(h,k[j],x),B.b8],v))
 g.push(this.bb0(h,x))
-return A.dg(i,l,A.c0(!0,A.cs(new A.dO(D.a1j,A.is(i,g,i,D.beS,i,F.vV,i,B.K,!1),i),i,i,i),!0,B.J,!0,!0),i,i,i,i)},
+return A.dg(i,l,A.c0(!0,A.cs(new A.dO(D.a1k,A.is(i,g,i,D.beS,i,F.vW,i,B.K,!1),i),i,i,i),!0,B.J,!0,!0),i,i,i,i)},
 b1_(d,e,f){var x,w,v,u,t,s,r,q,p=this,o=null,n=e.a,m=p.c
 m.toString
 m=A.aE(m,22)
@@ -69,14 +69,14 @@ q=r.a
 B.p.a0(w,A.e([B.aE,p.aTV(d,t+q,q,r.b,f)],x))}return A.d(o,A.K(w,B.Q,o,B.B,B.i,0,o,B.m),B.b,o,o,m,o,o,new A.Y("lisans_"+n,y.a),o,D.DX,o,o,o)},
 amm(d,e){var x=null,w=d.gX(),v=A.I(999)
 return A.d(x,A.h(e,x,x,x,x,x,x,x,new A.i(d).gC().av4(d.gA(),"Manrope",B.X),x,x,x,x),B.b,x,x,new A.G(w,x,x,v,x,x,x,B.l),x,x,x,x,B.mO,x,x,x)},
-aTV(d,e,f,g,h){var x,w,v=null,u=this.d.B(0,e),t=y.a,s=A.I(999),r=u?B.wZ:B.n7
+aTV(d,e,f,g,h){var x,w,v=null,u=this.d.B(0,e),t=y.a,s=A.I(999),r=u?B.x_:B.n7
 r=A.w(r,d.gG(),v,v)
 x=h?f+" \xb7 tam metin":f+" \xb7 full text"
 w=y.e
-w=A.e([A.aY(v,!0,v,A.O(!1,s,!0,new A.j(B.fi,A.u(A.e([r,B.cl,A.C(A.h(x,v,v,v,v,v,v,v,new A.i(d).gkV().av4(d.gG(),"Manrope",B.X),v,v,v,v),1)],w),B.E,v,B.B,B.i,0,v,v),v),v,!0,v,v,v,v,new A.Y("lisans_tam_"+e,t),v,v,v,v,v,new C.c9W(this,u,e),v,v,v,v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.L,v)],w)
+w=A.e([A.aY(v,!0,v,A.O(!1,s,!0,new A.j(B.fi,A.u(A.e([r,B.cl,A.C(A.h(x,v,v,v,v,v,v,v,new A.i(d).gkV().av4(d.gG(),"Manrope",B.X),v,v,v,v),1)],w),B.E,v,B.B,B.i,0,v,v),v),v,!0,v,v,v,v,new A.Y("lisans_tam_"+e,t),v,v,v,v,v,new C.c9X(this,u,e),v,v,v,v,v,v,v),!1,v,v,v,v,!1,u,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,B.L,v)],w)
 if(u){s=d.gc3()
 r=A.I(14)
-w.push(A.d(v,A.dwL(B.u.au(g),new A.Y("lisans_metin_"+e,t),new A.i(d).gm().W3(1.35)),B.b,v,v,new A.G(s,v,v,r,v,v,v,B.l),v,v,v,v,B.dW,v,v,v))}return A.K(w,B.av,v,B.B,B.i,0,v,B.m)},
+w.push(A.d(v,A.dwM(B.u.au(g),new A.Y("lisans_metin_"+e,t),new A.i(d).gm().W3(1.35)),B.b,v,v,new A.G(s,v,v,r,v,v,v,B.l),v,v,v,v,B.dW,v,v,v))}return A.K(w,B.av,v,B.B,B.i,0,v,B.m)},
 bb0(d,e){var x,w,v,u,t=null,s=this.c
 s.toString
 s=A.aE(s,22)
@@ -86,32 +86,32 @@ w=e?"Flutter ve kulland\u0131\u011f\u0131m\u0131z a\xe7\u0131k kaynak paketlerin
 w=A.h(w,t,t,t,t,t,t,t,new A.i(d).gag(),t,t,t,t)
 v=A.w(B.kR,d.gG(),t,18)
 u=e?"A\xe7\u0131k kaynak lisanslar\u0131n\u0131 g\xf6ster":"Show open-source licences"
-return A.d(t,A.K(A.e([x,B.aE,w,B.bt,new A.fd(new C.c9X(),A.h(u,t,t,t,t,t,t,t,A.au(t,t,d.gA(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.beP)],y.e),B.Q,t,B.B,B.i,0,t,B.m),B.b,t,t,s,t,t,D.beQ,t,D.DX,t,t,t)}}
+return A.d(t,A.K(A.e([x,B.aE,w,B.bt,new A.fd(new C.c9Y(),A.h(u,t,t,t,t,t,t,t,A.au(t,t,d.gA(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.X,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.beP)],y.e),B.Q,t,B.B,B.i,0,t,B.m),B.b,t,t,s,t,t,D.beQ,t,D.DX,t,t,t)}}
 var z=a.updateTypes([])
+C.ca_.prototype={
+$0(){return E.qu(this.a)},
+$S:0}
 C.c9Z.prototype={
 $0(){return E.qu(this.a)},
 $S:0}
-C.c9Y.prototype={
-$0(){return E.qu(this.a)},
+C.c9X.prototype={
+$0(){var x=this.a
+return x.k(0,new C.c9W(x,this.b,this.c))},
 $S:0}
 C.c9W.prototype={
-$0(){var x=this.a
-return x.k(0,new C.c9V(x,this.b,this.c))},
-$S:0}
-C.c9V.prototype={
 $0(){var x=this.c,w=this.a.d
 return this.b?w.Y(0,x):w.T(0,x)},
 $S:0}
-C.c9X.prototype={
+C.c9Y.prototype={
 $0(){return A.fu("licenses")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(C.Cn,A.aj)
-x(C.AW,A.ab)
+x(C.AX,A.ab)
 x(C.azL,A.ag)
-w(A.dv,[C.c9Z,C.c9Y,C.c9W,C.c9V,C.c9X])})()
-A.dm(b.typeUniverse,JSON.parse('{"AW":{"ab":[],"N":[]},"azL":{"ag":["AW"]}}'))
+w(A.dv,[C.ca_,C.c9Z,C.c9X,C.c9W,C.c9Y])})()
+A.dm(b.typeUniverse,JSON.parse('{"AX":{"ab":[],"N":[]},"azL":{"ag":["AX"]}}'))
 var y={i:A.ai("dG"),j:A.ai("Q<+(M,M)>"),e:A.ai("Q<N>"),g:A.ai("M"),a:A.ai("Y<M>")};(function constants(){var x=a.makeConstList
-D.a1j=new A.aJ(0,880,0,1/0)
+D.a1k=new A.aJ(0,880,0,1/0)
 D.DX=new A.a2(16,14,16,14)
 D.nj=x([],y.j)
 D.b1n=new A.b0("Apache License 2.0",'                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      "License" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      "Licensor" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      "Legal Entity" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity. For the purposes of this definition,\n      "control" means (i) the power, direct or indirect, to cause the\n      direction or management of such entity, whether by contract or\n      otherwise, or (ii) ownership of fifty percent (50%) or more of the\n      outstanding shares, or (iii) beneficial ownership of such entity.\n\n      "You" (or "Your") shall mean an individual or Legal Entity\n      exercising permissions granted by this License.\n\n      "Source" form shall mean the preferred form for making modifications,\n      including but not limited to software source code, documentation\n      source, and configuration files.\n\n      "Object" form shall mean any form resulting from mechanical\n      transformation or translation of a Source form, including but\n      not limited to compiled object code, generated documentation,\n      and conversions to other media types.\n\n      "Work" shall mean the work of authorship, whether in Source or\n      Object form, made available under the License, as indicated by a\n      copyright notice that is included in or attached to the work\n      (an example is provided in the Appendix below).\n\n      "Derivative Works" shall mean any work, whether in Source or Object\n      form, that is based on (or derived from) the Work and for which the\n      editorial revisions, annotations, elaborations, or other modifications\n      represent, as a whole, an original work of authorship. For the purposes\n      of this License, Derivative Works shall not include works that remain\n      separable from, or merely link (or bind by name) to the interfaces of,\n      the Work and Derivative Works thereof.\n\n      "Contribution" shall mean any work of authorship, including\n      the original version of the Work and any modifications or additions\n      to that Work or Derivative Works thereof, that is intentionally\n      submitted to Licensor for inclusion in the Work by the copyright owner\n      or by an individual or Legal Entity authorized to submit on behalf of\n      the copyright owner. For the purposes of this definition, "submitted"\n      means any form of electronic, verbal, or written communication sent\n      to the Licensor or its representatives, including but not limited to\n      communication on electronic mailing lists, source code control systems,\n      and issue tracking systems that are managed by, or on behalf of, the\n      Licensor for the purpose of discussing and improving the Work, but\n      excluding communication that is conspicuously marked or otherwise\n      designated in writing by the copyright owner as "Not a Contribution."\n\n      "Contributor" shall mean Licensor and any individual or Legal Entity\n      on behalf of whom a Contribution has been received by Licensor and\n      subsequently incorporated within the Work.\n\n   2. Grant of Copyright License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      copyright license to reproduce, prepare Derivative Works of,\n      publicly display, publicly perform, sublicense, and distribute the\n      Work and such Derivative Works in Source or Object form.\n\n   3. Grant of Patent License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      (except as stated in this section) patent license to make, have made,\n      use, offer to sell, sell, import, and otherwise transfer the Work,\n      where such license applies only to those patent claims licensable\n      by such Contributor that are necessarily infringed by their\n      Contribution(s) alone or by combination of their Contribution(s)\n      with the Work to which such Contribution(s) was submitted. If You\n      institute patent litigation against any entity (including a\n      cross-claim or counterclaim in a lawsuit) alleging that the Work\n      or a Contribution incorporated within the Work constitutes direct\n      or contributory patent infringement, then any patent licenses\n      granted to You under this License for that Work shall terminate\n      as of the date such litigation is filed.\n\n   4. Redistribution. You may reproduce and distribute copies of the\n      Work or Derivative Works thereof in any medium, with or without\n      modifications, and in Source or Object form, provided that You\n      meet the following conditions:\n\n      (a) You must give any other recipients of the Work or\n          Derivative Works a copy of this License; and\n\n      (b) You must cause any modified files to carry prominent notices\n          stating that You changed the files; and\n\n      (c) You must retain, in the Source form of any Derivative Works\n          that You distribute, all copyright, patent, trademark, and\n          attribution notices from the Source form of the Work,\n          excluding those notices that do not pertain to any part of\n          the Derivative Works; and\n\n      (d) If the Work includes a "NOTICE" text file as part of its\n          distribution, then any Derivative Works that You distribute must\n          include a readable copy of the attribution notices contained\n          within such NOTICE file, excluding those notices that do not\n          pertain to any part of the Derivative Works, in at least one\n          of the following places: within a NOTICE text file distributed\n          as part of the Derivative Works; within the Source form or\n          documentation, if provided along with the Derivative Works; or,\n          within a display generated by the Derivative Works, if and\n          wherever such third-party notices normally appear. The contents\n          of the NOTICE file are for informational purposes only and\n          do not modify the License. You may add Your own attribution\n          notices within Derivative Works that You distribute, alongside\n          or as an addendum to the NOTICE text from the Work, provided\n          that such additional attribution notices cannot be construed\n          as modifying the License.\n\n      You may add Your own copyright statement to Your modifications and\n      may provide additional or different license terms and conditions\n      for use, reproduction, or distribution of Your modifications, or\n      for any such Derivative Works as a whole, provided Your use,\n      reproduction, and distribution of the Work otherwise complies with\n      the conditions stated in this License.\n\n   5. Submission of Contributions. Unless You explicitly state otherwise,\n      any Contribution intentionally submitted for inclusion in the Work\n      by You to the Licensor shall be under the terms and conditions of\n      this License, without any additional terms or conditions.\n      Notwithstanding the above, nothing herein shall supersede or modify\n      the terms of any separate license agreement you may have executed\n      with Licensor regarding such Contributions.\n\n   6. Trademarks. This License does not grant permission to use the trade\n      names, trademarks, service marks, or product names of the Licensor,\n      except as required for reasonable and customary use in describing the\n      origin of the Work and reproducing the content of the NOTICE file.\n\n   7. Disclaimer of Warranty. Unless required by applicable law or\n      agreed to in writing, Licensor provides the Work (and each\n      Contributor provides its Contributions) on an "AS IS" BASIS,\n      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or\n      implied, including, without limitation, any warranties or conditions\n      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A\n      PARTICULAR PURPOSE. You are solely responsible for determining the\n      appropriateness of using or redistributing the Work and assume any\n      risks associated with Your exercise of permissions under this License.\n\n   8. Limitation of Liability. In no event and under no legal theory,\n      whether in tort (including negligence), contract, or otherwise,\n      unless required by applicable law (such as deliberate and grossly\n      negligent acts) or agreed to in writing, shall any Contributor be\n      liable to You for damages, including any direct, indirect, special,\n      incidental, or consequential damages of any character arising as a\n      result of this License or out of the use or inability to use the\n      Work (including but not limited to damages for loss of goodwill,\n      work stoppage, computer failure or malfunction, or any and all\n      other commercial damages or losses), even if such Contributor\n      has been advised of the possibility of such damages.\n\n   9. Accepting Warranty or Additional Liability. While redistributing\n      the Work or Derivative Works thereof, You may choose to offer,\n      and charge a fee for, acceptance of support, warranty, indemnity,\n      or other liability obligations and/or rights consistent with this\n      License. However, in accepting such obligations, You may act only\n      on Your own behalf and on Your sole responsibility, not on behalf\n      of any other Contributor, and only if You agree to indemnify,\n      defend, and hold each Contributor harmless for any liability\n      incurred by, or claims asserted against, such Contributor by reason\n      of your accepting any such warranty or additional liability.\n\n   END OF TERMS AND CONDITIONS\n\n   APPENDIX: How to apply the Apache License to your work.\n\n      To apply the Apache License to your work, attach the following\n      boilerplate notice, with the fields enclosed by brackets "[]"\n      replaced with your own identifying information. (Don\'t include\n      the brackets!)  The text should be enclosed in the appropriate\n      comment syntax for the file format. We also recommend that a\n      file or class name and description of purpose be included on the\n      same "printed page" as the copyright notice for easier\n      identification within third-party archives.\n\n   Copyright [yyyy] [name of copyright owner]\n\n   Licensed under the Apache License, Version 2.0 (the "License");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an "AS IS" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.\n')
@@ -119,4 +119,4 @@ D.beP=new A.Y("lisans_flutter",y.a)
 D.beQ=new A.Y("lisans_yazilim",y.a)
 D.beR=new A.Y("lisanslar_back",y.a)
 D.beS=new A.Y("lisanslar_list",y.a)})()};
-(a=>{a["yzO2oEaAgzW2R3gdPNnJSERIDDM="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["bBuIlVKQMlDeGUfJ3aYYjgq1pQ8="]=a.current})($__dart_deferred_initializers__);
