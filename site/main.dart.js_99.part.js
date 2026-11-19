@@ -1,14 +1,14 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={
-Kg(d){return C.ehS(d)},
-ehS(d){var x=0,w=A.B(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
-var $async$Kg=A.x(function(e,f){if(e===1){u.push(f)
+Kh(d){return C.ehV(d)},
+ehV(d){var x=0,w=A.B(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+var $async$Kh=A.x(function(e,f){if(e===1){u.push(f)
 x=v}for(;;)switch(x){case 0:n=A.ef(d,0,null)
 v=3
 t=!1
 v=7
 x=10
-return A.v(A.wG(n,B.qh,null),$async$Kg)
+return A.v(A.wG(n,B.qh,null),$async$Kh)
 case 10:t=f
 v=3
 x=9
@@ -22,17 +22,17 @@ case 6:x=3
 break
 case 9:x=!t&&n.giU()==="yandexnavi"?11:12
 break
-case 11:s=D.dQ2(d,$.m().oO!=="DRIVE")
+case 11:s=D.dQ5(d,$.m().oO!=="DRIVE")
 x=s!=null?13:14
 break
 case 13:x=15
-return A.v(A.wG(A.ef(s,0,null),B.qh,null),$async$Kg)
+return A.v(A.wG(A.ef(s,0,null),B.qh,null),$async$Kh)
 case 15:t=f
 case 14:case 12:p=t
 x=!p?16:17
 break
 case 16:x=18
-return A.v(A.wG(n,B.qh,"_self"),$async$Kg)
+return A.v(A.wG(n,B.qh,"_self"),$async$Kh)
 case 18:case 17:v=1
 x=5
 break
@@ -48,11 +48,11 @@ case 2:x=1
 break
 case 5:return A.z(null,w)
 case 1:return A.y(u.at(-1),w)}})
-return A.A($async$Kg,w)}}
+return A.A($async$Kh,w)}}
 A=c[0]
 B=c[2]
 D=c[66]
 C=a.updateHolder(c[61],C)
 var z=a.updateTypes([])
 var y={b:A.ai("@")}};
-(a=>{a["GLcAy+iMTH/D70+FeCO1JMAu28s="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["zez95dcbiuQANafrffcdrFo5BnM="]=a.current})($__dart_deferred_initializers__);
