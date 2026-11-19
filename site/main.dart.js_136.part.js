@@ -1,5 +1,5 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={A7:function A7(d,e,f,g,h,i,j,k,l,m,n,o){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={A6:function A6(d,e,f,g,h,i,j,k,l,m,n,o){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -11,7 +11,7 @@ _.w=k
 _.x=l
 _.y=m
 _.z=n
-_.Q=o},l1:function l1(d,e){this.a=d
+_.Q=o},l2:function l2(d,e){this.a=d
 this.b=e},q1:function q1(d,e,f){this.a=d
 this.b=e
 this.c=f},oQ:function oQ(d,e,f,g,h){var _=this
@@ -20,30 +20,30 @@ _.b=e
 _.c=f
 _.d=g
 _.e=h},
-kW(d,e,f,g,h){var x,w,v,u
-A.abm("business",new B.dri())
+kX(d,e,f,g,h){var x,w,v,u
+A.abn("business",new B.dri())
 x=d==null?"":d
 w=e==null?"":e
 v=f==null?"":f
 u=g==null?"":g
 return B.jX(x,w,v,u,h==null?"":h)},
 ecX(d){return $.dMP.d6(0,d,new B.dcy())},
-aar(d,e,f,g){var x=0,w=A.B(y.P),v,u,t,s
-var $async$aar=A.x(function(h,i){if(h===1)return A.y(i,w)
+aas(d,e,f,g){var x=0,w=A.B(y.P),v,u,t,s
+var $async$aas=A.x(function(h,i){if(h===1)return A.y(i,w)
 for(;;)switch(x){case 0:s=d.gcd().c
 s=s==null?null:s.a
 u=(s==null?"":s)+"|"+g
 s=A.f9(f,y.N,y.z)
 s.u(0,"p_idempotency_key",B.ecX(u))
 x=3
-return A.v(B.Dg(d,e,s),$async$aar)
+return A.v(B.Df(d,e,s),$async$aas)
 case 3:t=i
 $.dMP.Y(0,u)
 v=t
 x=1
 break
 case 1:return A.z(v,w)}})
-return A.A($async$aar,w)},
+return A.A($async$aas,w)},
 jX(d,e,f,g,h){return B.ecY(d,e,f,g,h)},
 ecY(b1,b2,b3,b4,b5){var x=0,w=A.B(y.N),v,u=2,t=[],s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0
 var $async$jX=A.x(function(b6,b7){if(b6===1){t.push(b7)
@@ -86,7 +86,7 @@ break
 default:x=8
 break}break
 case 9:x=25
-return A.v(B.tO(s),$async$jX)
+return A.v(B.tP(s),$async$jX)
 case 25:a9=b7
 v=a9
 x=1
@@ -98,7 +98,7 @@ v=a9
 x=1
 break
 case 11:x=27
-return A.v(B.Dg(s,"get_business_eligibility",A.f(["p_place_id",b2],y.N,y.z)),$async$jX)
+return A.v(B.Df(s,"get_business_eligibility",A.f(["p_place_id",b2],y.N,y.z)),$async$jX)
 case 27:r=b7
 if(!J.E(J.F(r,"ok"),!0)){a9=B.pL(J.F(r,"code"))
 v=a9
@@ -106,7 +106,7 @@ x=1
 break}if(!J.E(J.F(r,"claimable"),!0)){a9=B.pL(J.F(r,"reason"))
 v=a9
 x=1
-break}a9=$.m().HV
+break}a9=$.m().HX
 a2=A.a6(a9).l("al<1>")
 a3=A.a_(new A.al(a9,new B.dcH(b2),a2),a2.l("V.E"))
 q=a3
@@ -116,7 +116,7 @@ a9.E()
 v="OK"
 x=1
 break
-case 12:p=$.m().DD
+case 12:p=$.m().DE
 if(J.aR(p)===0){v="biz.err.invalid"
 x=1
 break}a9=b2==="MANAGER"?"MANAGER":"OWNER"
@@ -126,7 +126,7 @@ if(a4.length===0)a4=null
 a5=C.u.au(b5)
 if(a5.length===0)a5=null
 x=28
-return A.v(B.aar(s,"business_claim_submit",A.f(["p_place_id",p,"p_role",a9,"p_business_name",a2,"p_contact_phone",a4,"p_note",a5],y.N,y.z),"submit|"+A.J(p)+"|"+b2+"|"+a2),$async$jX)
+return A.v(B.aas(s,"business_claim_submit",A.f(["p_place_id",p,"p_role",a9,"p_business_name",a2,"p_contact_phone",a4,"p_note",a5],y.N,y.z),"submit|"+A.J(p)+"|"+b2+"|"+a2),$async$jX)
 case 28:o=b7
 if(!J.E(J.F(o,"ok"),!0)){a9=B.pL(J.F(o,"code"))
 v=a9
@@ -137,7 +137,7 @@ break}a9=$.m()
 new B.dcJ().$0()
 a9.E()
 x=29
-return A.v(B.tO(s),$async$jX)
+return A.v(B.tP(s),$async$jX)
 case 29:a9=b7
 v=a9
 x=1
@@ -159,7 +159,7 @@ if(a5==null)a5=""
 a6=b3==="MANAGER"?"MANAGER":"OWNER"
 a7=C.u.au(b4)
 x=30
-return A.v(B.aar(s,"business_claim_submit_not_found",A.f(["p_name",a9,"p_category",b2,"p_city",a2,"p_district",a4,"p_address",a5,"p_role",a6,"p_business_name",a7],y.N,y.z),"nf|"+new A.c5($.JW,A.W($.JW).l("c5<2>")).aT(0,"|")+"|"+b2+"|"+b3+"|"+a7),$async$jX)
+return A.v(B.aas(s,"business_claim_submit_not_found",A.f(["p_name",a9,"p_category",b2,"p_city",a2,"p_district",a4,"p_address",a5,"p_role",a6,"p_business_name",a7],y.N,y.z),"nf|"+new A.c5($.JW,A.W($.JW).l("c5<2>")).aT(0,"|")+"|"+b2+"|"+b3+"|"+a7),$async$jX)
 case 30:n=b7
 if(!J.E(J.F(n,"ok"),!0)){a9=B.pL(J.F(n,"code"))
 v=a9
@@ -170,26 +170,26 @@ break}a9=$.m()
 new B.dcK().$0()
 a9.E()
 x=31
-return A.v(B.tO(s),$async$jX)
+return A.v(B.tP(s),$async$jX)
 case 31:a9=b7
 v=a9
 x=1
 break
 case 15:x=32
-return A.v(B.aJm(s,b2,b3),$async$jX)
+return A.v(B.aJn(s,b2,b3),$async$jX)
 case 32:a9=b7
 v=a9
 x=1
 break
 case 16:a9=C.u.au(b3)
 x=33
-return A.v(B.Dg(s,"business_website_token",A.f(["p_claim_id",b2,"p_domain",a9.length===0?null:a9],y.N,y.z)),$async$jX)
+return A.v(B.Df(s,"business_website_token",A.f(["p_claim_id",b2,"p_domain",a9.length===0?null:a9],y.N,y.z)),$async$jX)
 case 33:m=b7
 if(!J.E(J.F(m,"ok"),!0)){a9=B.pL(J.F(m,"code"))
 v=a9
 x=1
 break}x=34
-return A.v(B.tO(s),$async$jX)
+return A.v(B.tP(s),$async$jX)
 case 34:a9=b7
 v=a9
 x=1
@@ -210,25 +210,25 @@ break}a9=$.m()
 new B.dcL().$0()
 a9.E()
 x=36
-return A.v(B.tO(s),$async$jX)
+return A.v(B.tP(s),$async$jX)
 case 36:a9=b7
 v=a9
 x=1
 break
 case 18:x=37
-return A.v(B.Dg(s,"business_claim_withdraw",A.f(["p_claim_id",b2],y.N,y.z)),$async$jX)
+return A.v(B.Df(s,"business_claim_withdraw",A.f(["p_claim_id",b2],y.N,y.z)),$async$jX)
 case 37:j=b7
 if(!J.E(J.F(j,"ok"),!0)){a9=B.pL(J.F(j,"code"))
 v=a9
 x=1
 break}x=38
-return A.v(B.tO(s),$async$jX)
+return A.v(B.tP(s),$async$jX)
 case 38:a9=b7
 v=a9
 x=1
 break
 case 19:x=39
-return A.v(B.aaq(s),$async$jX)
+return A.v(B.aar(s),$async$jX)
 case 39:a9=b7
 v=a9
 x=1
@@ -247,16 +247,16 @@ case 41:a9=b7
 v=a9
 x=1
 break
-case 22:$.aJl.a7(0)
+case 22:$.aJm.a7(0)
 a9=y.N
-$.aJl.a_(0,A.f(["1",b2,"2",b3,"3",b4,"4",b5],a9,a9))
+$.aJm.a_(0,A.f(["1",b2,"2",b3,"3",b4,"4",b5],a9,a9))
 v="OK"
 x=1
 break
 case 23:a9=y.N
-$.aJl.a_(0,A.f(["5",b2,"6",b3,"7",b4],a9,a9))
+$.aJm.a_(0,A.f(["5",b2,"6",b3,"7",b4],a9,a9))
 i=A.U(a9,a9)
-for(a9=new A.dB($.aJl,A.W($.aJl).l("dB<1,2>")).gan(0);a9.F();){a2=a9.d
+for(a9=new A.dB($.aJm,A.W($.aJm).l("dB<1,2>")).gan(0);a9.F();){a2=a9.d
 a2.toString
 h=a2
 g=C.u.au(h.b).toLowerCase()
@@ -279,7 +279,7 @@ v=a9
 x=1
 break
 case 24:x=43
-return A.v(B.Dg(s,"business_report_review",A.f(["p_review_id",b2,"p_reason",b3.length===0?"OTHER":b3],y.N,y.z)),$async$jX)
+return A.v(B.Df(s,"business_report_review",A.f(["p_review_id",b2,"p_reason",b3.length===0?"OTHER":b3],y.N,y.z)),$async$jX)
 case 43:d=b7
 if(!J.E(J.F(d,"ok"),!0)){a9=B.pL(J.F(d,"code"))
 v=a9
@@ -314,7 +314,7 @@ case 2:return A.y(t.at(-1),w)}})
 return A.A($async$jX,w)},
 dMO(d){var x=J.dm(d)
 return C.u.B(x,"SocketException")||C.u.B(x,"ClientException")||C.u.B(x,"TimeoutException")||C.u.B(x,"Failed host lookup")||C.u.B(x,"Connection closed")||C.u.B(x,"HandshakeException")},
-Dg(d,e,f){return A.wJ(e,f,new B.dcV(d,e,f))},
+Df(d,e,f){return A.wJ(e,f,new B.dcV(d,e,f))},
 dcU(d,e,f){return B.ecZ(d,e,f)},
 ecZ(d,e,f){var x=0,w=A.B(y.P),v,u=2,t=[],s,r,q,p,o,n
 var $async$dcU=A.x(function(g,h){if(g===1){t.push(h)
@@ -334,10 +334,10 @@ case 4:u=3
 n=t.pop()
 p=A.ax(n)
 if(p instanceof A.hW){r=p
-if(r.b==="NOT_AUTHENTICATED"){A.is(A.i7(!0),y.H)
+if(r.b==="NOT_AUTHENTICATED"){A.it(A.i7(!0),y.H)
 v=A.f(["ok",!1,"code","NOT_AUTHENTICATED"],y.N,y.z)
 x=1
-break}q=A.zN(r)
+break}q=A.zM(r)
 if(q!=null){v=q
 x=1
 break}throw n}else throw n
@@ -370,12 +370,12 @@ case"CLAIM_CLOSED":case"EVIDENCE_CLOSED":return"biz.err.closed"
 case"RATE_LIMITED":return"auth.err.rateLimited"
 case"NOT_AUTHENTICATED":case"ACCOUNT_INACTIVE":return"auth.err.session"
 case"INVALID_ARGUMENT":case"BUSINESS_NAME_INVALID":case"PHONE_INVALID":case"WEBSITE_INVALID":case"HOURS_INVALID":case"DESCRIPTION_INVALID":case"VALUE_INVALID":return"biz.err.invalid"}return"social.err.generic"},
-tO(a6){var x=0,w=A.B(y.N),v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5
-var $async$tO=A.x(function(a7,a8){if(a7===1)return A.y(a8,w)
+tP(a6){var x=0,w=A.B(y.N),v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5
+var $async$tP=A.x(function(a7,a8){if(a7===1)return A.y(a8,w)
 for(;;)switch(x){case 0:a2=y.N
 a3=y.z
 x=3
-return A.v(B.Dg(a6,"my_business_claims",A.U(a2,a3)),$async$tO)
+return A.v(B.Df(a6,"my_business_claims",A.U(a2,a3)),$async$tP)
 case 3:a4=a8
 a5=J.a8(a4)
 if(!J.E(a5.i(a4,"ok"),!0)){v=B.pL(a5.i(a4,"code"))
@@ -407,14 +407,14 @@ if(n&&J.E(p.i(0,"kind"),"PLACE_NOT_FOUND")&&p.i(0,"placeId")==null)g=$.m().x!=="
 n=A.J(p.i(0,"claimId"))
 h=p.i(0,"placeName")
 h=A.J(h==null?"":h)
-f=($.m().x!=="en"?D.aVv:D.aVw).i(0,o)
+f=($.m().x!=="en"?D.aVt:D.aVu).i(0,o)
 if(f==null)f=o
 if(J.E(p.i(0,"role"),"MANAGER"))e=$.m().x!=="en"?"Y\xf6netici ba\u015fvurusu":"Manager application"
 else e=$.m().x!=="en"?"Sahip ba\u015fvurusu":"Owner application"
 l=new A.ec(new A.al(k,new B.dcB(),j),new B.dcC(),l.l("ec<1,N>")).aT(0," \xb7 ")
 j=i.length===0?"":A.J(J.F(C.p.gaH(i),"token"))
 d=i.length===0?"":"https://"+A.J(J.F(C.p.gaH(i),"domain"))+"/.well-known/yumapai-verification.txt"
-u.push(new B.A7(n,h,o,f,e,g,l,m,m,j,d,i.length===0?"":A.J(J.F(C.p.gaH(i),"evidenceId"))))}a2=t.a(a5.i(a4,"authorizations"))
+u.push(new B.A6(n,h,o,f,e,g,l,m,m,j,d,i.length===0?"":A.J(J.F(C.p.gaH(i),"evidenceId"))))}a2=t.a(a5.i(a4,"authorizations"))
 if(a2==null)a2=C.a2
 r=J.cz(a2,new B.dcD(),r)
 a0=A.a_(r,r.$ti.l("aB.E"))
@@ -427,7 +427,7 @@ v="OK"
 x=1
 break
 case 1:return A.z(v,w)}})
-return A.A($async$tO,w)},
+return A.A($async$tP,w)},
 dcW(d,e){var x=0,w=A.B(y.N),v,u,t,s,r,q,p,o,n,m,l,k,j,i
 var $async$dcW=A.x(function(f,g){if(f===1)return A.y(g,w)
 for(;;)switch(x){case 0:i=C.u.au(e)
@@ -437,7 +437,7 @@ break}u=$.m().x!=="en"?"tr":"en"
 t=y.N
 s=y.z
 x=3
-return A.v(B.Dg(d,"search_places",A.f(["p_query",i,"p_category",null,"p_lat",null,"p_lon",null,"p_limit",10,"p_offset",0,"p_locale",u,"p_surface","BUSINESS_CLAIM"],t,s)),$async$dcW)
+return A.v(B.Df(d,"search_places",A.f(["p_query",i,"p_category",null,"p_lat",null,"p_lon",null,"p_limit",10,"p_offset",0,"p_locale",u,"p_surface","BUSINESS_CLAIM"],t,s)),$async$dcW)
 case 3:r=g
 i=J.a8(r)
 if(!J.E(i.i(r,"ok"),!0)){v=B.pL(i.i(r,"code"))
@@ -466,15 +466,15 @@ x=1
 break
 case 1:return A.z(v,w)}})
 return A.A($async$dcW,w)},
-aJm(d,e,f){var x=0,w=A.B(y.N),v,u,t,s,r,q
-var $async$aJm=A.x(function(g,h){if(g===1)return A.y(h,w)
+aJn(d,e,f){var x=0,w=A.B(y.N),v,u,t,s,r,q
+var $async$aJn=A.x(function(g,h){if(g===1)return A.y(h,w)
 for(;;)switch(x){case 0:x=3
-return A.v(new A.xQ().Pt(85,2400,2400,C.nb),$async$aJm)
+return A.v(new A.xP().Pu(85,2400,2400,C.nb),$async$aJn)
 case 3:q=h
 if(q==null){v="CANCELLED"
 x=1
 break}x=4
-return A.v(q.ls(),$async$aJm)
+return A.v(q.ls(),$async$aJn)
 case 4:u=h
 t=u.length
 if(t===0||t>5242880){v="biz.err.photo"
@@ -490,7 +490,7 @@ v=B.RB(d,e,f,u,r)
 x=1
 break
 case 1:return A.z(v,w)}})
-return A.A($async$aJm,w)},
+return A.A($async$aJn,w)},
 RB(d,e,f,g,h){return B.ed_(d,e,f,g,h)},
 ed_(d,e,f,g,h){var x=0,w=A.B(y.N),v,u=2,t=[],s,r,q,p,o,n,m,l
 var $async$RB=A.x(function(i,j){if(i===1){t.push(j)
@@ -498,7 +498,7 @@ x=u}for(;;)switch(x){case 0:p=f.length===0?"TAX_PLATE":f
 o=y.N
 n=y.z
 x=3
-return A.v(B.Dg(d,"business_evidence_create_upload",A.f(["p_claim_id",e,"p_doc_type",p,"p_mime",h],o,n)),$async$RB)
+return A.v(B.Df(d,"business_evidence_create_upload",A.f(["p_claim_id",e,"p_doc_type",p,"p_mime",h],o,n)),$async$RB)
 case 3:m=j
 if(!J.E(J.F(m,"ok"),!0)){v=B.pL(J.F(m,"code"))
 x=1
@@ -508,7 +508,7 @@ p===$&&A.t()
 p=p.kx("business-evidence")
 s=A.J(J.F(m,"path"))
 x=8
-return A.v(p.qp(s,g,new A.ry(!1,h)),$async$RB)
+return A.v(p.qp(s,g,new A.rA(!1,h)),$async$RB)
 case 8:u=2
 x=7
 break
@@ -533,19 +533,19 @@ break}p=$.m()
 new B.dcY().$0()
 p.E()
 x=10
-return A.v(B.tO(d),$async$RB)
+return A.v(B.tP(d),$async$RB)
 case 10:v=j
 x=1
 break
 case 1:return A.z(v,w)
 case 2:return A.y(t.at(-1),w)}})
 return A.A($async$RB,w)},
-aaq(a1){var x=0,w=A.B(y.N),v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0
-var $async$aaq=A.x(function(a2,a3){if(a2===1)return A.y(a3,w)
+aar(a1){var x=0,w=A.B(y.N),v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0
+var $async$aar=A.x(function(a2,a3){if(a2===1)return A.y(a3,w)
 for(;;)switch(x){case 0:x=$.m().Aw.length===0?3:4
 break
 case 3:x=5
-return A.v(B.tO(a1),$async$aaq)
+return A.v(B.tP(a1),$async$aar)
 case 5:u=a3
 if(u!=="OK"){v=u
 x=1
@@ -558,7 +558,7 @@ x=1
 break}t=y.N
 r=y.z
 x=6
-return A.v(B.Dg(a1,"business_dashboard",A.f(["p_place_id",s],t,r)),$async$aaq)
+return A.v(B.Df(a1,"business_dashboard",A.f(["p_place_id",s],t,r)),$async$aar)
 case 6:q=a3
 s=J.a8(q)
 if(!J.E(s.i(q,"ok"),!0)){p=A.J(s.i(q,"code"))
@@ -598,7 +598,7 @@ v="OK"
 x=1
 break
 case 1:return A.z(v,w)}})
-return A.A($async$aaq,w)},
+return A.A($async$aar,w)},
 RA(d,e,f){var x=0,w=A.B(y.N),v,u,t,s,r
 var $async$RA=A.x(function(g,h){if(g===1)return A.y(h,w)
 for(;;)switch(x){case 0:if(typeof f=="string"&&f.length===0){v="biz.err.invalid"
@@ -607,7 +607,7 @@ break}u=$.m().Aw
 if(u.length===0){v="biz.err.notAuthorized"
 x=1
 break}x=3
-return A.v(B.aar(d,"business_propose",A.f(["p_place_id",u,"p_field",e,"p_value",f],y.N,y.z),"prop|"+u+"|"+e+"|"+A.J(f)),$async$RA)
+return A.v(B.aas(d,"business_propose",A.f(["p_place_id",u,"p_field",e,"p_value",f],y.N,y.z),"prop|"+u+"|"+e+"|"+A.J(f)),$async$RA)
 case 3:t=h
 s=J.a8(t)
 if(!J.E(s.i(t,"ok"),!0)){v=B.pL(s.i(t,"code"))
@@ -617,7 +617,7 @@ s=$.m()
 new B.dcT(r,t).$0()
 s.E()
 x=4
-return A.v(B.aaq(d),$async$RA)
+return A.v(B.aar(d),$async$RA)
 case 4:v=h
 x=1
 break
@@ -670,15 +670,15 @@ A=c[0]
 C=c[2]
 B=a.updateHolder(c[63],B)
 D=c[120]
-B.A7.prototype={
+B.A6.prototype={
 fE(){var x=this
 return A.aU(A.f(["claimId",A.a5(x.a,C.A,!1),"placeName",A.a5(x.b,C.A,!1),"status",A.a5(x.c,C.A,!1),"statusLabel",A.a5(x.d,C.A,!1),"roleLabel",A.a5(x.e,C.A,!1),"note",A.a5(x.f,C.A,!1),"evidenceText",A.a5(x.r,C.A,!1),"canEvidence",A.a5(x.w,C.aJ,!1),"canWithdraw",A.a5(x.x,C.aJ,!1),"tokenText",A.a5(x.y,C.A,!1),"tokenUrl",A.a5(x.z,C.A,!1),"tokenEvidenceId",A.a5(x.Q,C.A,!1)],y.N,y.T))},
 p(d){var x=this
-return"BizClaimStruct("+A.jF(A.f(["claimId",x.a,"placeName",x.b,"status",x.c,"statusLabel",x.d,"roleLabel",x.e,"note",x.f,"evidenceText",x.r,"canEvidence",x.w,"canWithdraw",x.x,"tokenText",x.y,"tokenUrl",x.z,"tokenEvidenceId",x.Q],y.N,y.X),y.K).p(0)+")"},
+return"BizClaimStruct("+A.jG(A.f(["claimId",x.a,"placeName",x.b,"status",x.c,"statusLabel",x.d,"roleLabel",x.e,"note",x.f,"evidenceText",x.r,"canEvidence",x.w,"canWithdraw",x.x,"tokenText",x.y,"tokenUrl",x.z,"tokenEvidenceId",x.Q],y.N,y.X),y.K).p(0)+")"},
 t(d,e){var x,w,v=this
 if(e==null)return!1
 x=!1
-if(e instanceof B.A7){w=e.a
+if(e instanceof B.A6){w=e.a
 if(v.a===w){w=e.b
 if(v.b===w){w=e.c
 if(v.c===w){w=e.d
@@ -693,13 +693,13 @@ if(v.z===w){x=e.Q
 x=v.Q===x}}}}}}}}}}}}return x},
 gK(d){var x=this
 return C.bo.eq(0,[x.a,x.b,x.c,x.d,x.e,x.f,x.r,x.w,x.x,x.y,x.z,x.Q])}}
-B.l1.prototype={
+B.l2.prototype={
 fE(){return A.aU(A.f(["label",A.a5(this.a,C.A,!1),"value",A.a5(this.b,C.A,!1)],y.N,y.T))},
 p(d){return"BizKvStruct("+A.aU(A.f(["label",this.a,"value",this.b],y.N,y.T)).p(0)+")"},
 t(d,e){var x,w
 if(e==null)return!1
 x=!1
-if(e instanceof B.l1){w=e.a
+if(e instanceof B.l2){w=e.a
 if(this.a===w){x=e.b
 x=this.b===x}}return x},
 gK(d){return C.bo.eq(0,[this.a,this.b])}}
@@ -718,7 +718,7 @@ B.oQ.prototype={
 fE(){var x=this
 return A.aU(A.f(["reviewId",A.a5(x.a,C.A,!1),"ratingText",A.a5(x.b,C.A,!1),"text",A.a5(x.c,C.A,!1),"dateText",A.a5(x.d,C.A,!1),"reported",A.a5(x.e,C.aJ,!1)],y.N,y.T))},
 p(d){var x=this
-return"BizReviewStruct("+A.jF(A.f(["reviewId",x.a,"ratingText",x.b,"text",x.c,"dateText",x.d,"reported",x.e],y.N,y.X),y.K).p(0)+")"},
+return"BizReviewStruct("+A.jG(A.f(["reviewId",x.a,"ratingText",x.b,"text",x.c,"dateText",x.d,"reported",x.e],y.N,y.X),y.K).p(0)+")"},
 t(d,e){var x,w,v=this
 if(e==null)return!1
 x=!1
@@ -735,12 +735,12 @@ var z=a.updateTypes([])
 B.dri.prototype={
 $0(){var x=0,w=A.B(y.H),v
 var $async$$0=A.x(function(d,e){if(d===1)return A.y(e,w)
-for(;;)switch(x){case 0:x=$.m().HU.length!==0?2:3
+for(;;)switch(x){case 0:x=$.m().HW.length!==0?2:3
 break
 case 2:v=$.cl().b
 v===$&&A.t()
 x=4
-return A.v(B.tO(v),$async$$0)
+return A.v(B.tP(v),$async$$0)
 case 4:case 3:return A.z(null,w)}})
 return A.A($async$$0,w)},
 $S:1}
@@ -754,27 +754,27 @@ $1(d){return d.a===this.a},
 $S:1283}
 B.dcI.prototype={
 $0(){var x,w,v=$.m()
-v.DD=this.a
+v.DE=this.a
 x=this.b
 if(x.length===0)w=""
 else w=C.p.ga9(x).b
-v.a9r=w
+v.a9t=w
 w=$.m()
 if(J.E(J.F(this.c,"hasVerifiedOwner"),!0))v=$.m().x!=="en"?"Bu mek\xe2n\u0131n do\u011frulanm\u0131\u015f bir i\u015fletmecisi var: ba\u015fvurun ayr\u0131ca incelenir (devir).":"This place already has a verified business: your application is reviewed as a transfer."
 else if(x.length===0)v=""
 else v=C.p.ga9(x).c
-w.a9s=v},
+w.a9u=v},
 $S:0}
 B.dcJ.prototype={
 $0(){var x=$.m()
-x.DD=""
-x.HV=A.e([],y.U)
+x.DE=""
+x.HX=A.e([],y.U)
 x=$.m()
 x.hI=x.x!=="en"?"Ba\u015fvurun al\u0131nd\u0131. Do\u011frulama i\xe7in bir belge foto\u011fraf\u0131 ekle.":"Application received. Add a photo of a document for verification."},
 $S:0}
 B.dcK.prototype={
 $0(){var x=$.m()
-x.Xm=""
+x.Xn=""
 x.hI=x.x!=="en"?"Ba\u015fvurun al\u0131nd\u0131. Ekibimiz mek\xe2n\u0131 bulup ba\u015fvurunu ona ba\u011flayacak.":"Application received. Our team will find the place and link your application."},
 $S:0}
 B.dcL.prototype={
@@ -785,9 +785,9 @@ B.dcN.prototype={
 $1(d){return C.u.dr(d,2,"0")},
 $S:57}
 B.dcM.prototype={
-$0(){var x=$.m(),w=x.HW,v=A.a6(w).l("ah<1,oQ>")
+$0(){var x=$.m(),w=x.HY,v=A.a6(w).l("ah<1,oQ>")
 w=A.a_(new A.ah(w,new B.dcG(this.a),v),v.l("aB.E"))
-x.HW=w
+x.HY=w
 x=$.m()
 x.hI=x.x!=="en"?"Bildirimin moderasyon ekibine iletildi. Yorum de\u011fi\u015fmedi.":"Your report went to moderation. The review is unchanged."},
 $S:0}
@@ -813,7 +813,7 @@ $1(d){var x,w,v=J.a8(d),u=A.J(v.i(d,"kind"))
 v=A.J(v.i(d,"status"))
 if(u==="WEBSITE_TOKEN"){u=$.m()
 x=u.x!=="en"?"Web sitesi":"Website"}else{u=$.m()
-x=u.x!=="en"?"Belge":"Document"}w=(u.x!=="en"?D.aVG:D.aVF).i(0,v)
+x=u.x!=="en"?"Belge":"Document"}w=(u.x!=="en"?D.aVE:D.aVD).i(0,v)
 v=w==null?v:w
 return x+": "+v},
 $S:1285}
@@ -825,10 +825,10 @@ $1(d){return J.E(J.F(d,"state"),"ACTIVE")},
 $S:29}
 B.dcF.prototype={
 $0(){var x,w,v,u=$.m()
-u.HU=this.a
+u.HW=this.a
 x=this.b
 w=x.length!==0
-u.a9q=w
+u.a9s=w
 v=this.c
 if(v.length!==0)x=A.J(J.F(C.p.ga9(v),"placeId"))
 else x=w?A.J(J.F(C.p.ga9(x),"placeId")):""
@@ -836,8 +836,8 @@ u.Aw=x},
 $S:0}
 B.dcX.prototype={
 $0(){var x,w=$.m(),v=this.a
-w.HV=v
-x=w.DD=""
+w.HX=v
+x=w.DE=""
 if(v.length===0)v=w.x!=="en"?'Sonu\xe7 yok. "Mek\xe2n\u0131m\u0131 bulam\u0131yorum" ile ba\u015fvurabilirsin.':'No results. You can apply with "I can\'t find my place".'
 else v=x
 w.hI=v},
@@ -865,7 +865,7 @@ $0(){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1=this,a2="status",a3="sa
 a9.Ax="OK"
 x=a1.a
 w=x.i(0,"name")
-a9.OG=A.J(w==null?"":w)
+a9.OH=A.J(w==null?"":w)
 a9=$.m()
 w=a1.b
 if(J.E(w.i(0,"role"),"MANAGER")){v=$.m()
@@ -881,7 +881,7 @@ s=a1.c
 w=A.e([v,u+" "+A.J(s.$1(w.i(0,"since")))],y.s)
 if(!J.E(x.i(0,a2),"ACTIVE"))w.push($.m().x!=="en"?"Mek\xe2n \u015fu an aktif de\u011fil":"Place not active right now")
 if(J.E(x.i(0,a2),"ACTIVE")&&J.E(x.i(0,"publicNow"),!1))w.push($.m().x!=="en"?"\u015eu an herkese a\xe7\u0131k de\u011fil":"Not public right now")
-a9.a9t=C.p.aT(w," \xb7 ")
+a9.a9v=C.p.aT(w," \xb7 ")
 a9=$.m()
 x=a9.x!=="en"?"Kaydedilme":"Saves"
 w=a1.d
@@ -893,7 +893,7 @@ p=$.m().x!=="en"?"Payla\u015f\u0131mlarda etiket":"Tagged in posts"
 o=w.$1(v.i(0,a6))
 n=$.m().x!=="en"?"Gezilere eklenme":"Added to trips"
 m=y.y
-a9.a9o=A.e([new B.l1(x,u),new B.l1(r,q),new B.l1(p,o),new B.l1(n,w.$1(v.i(0,"tripAdds")))],m)
+a9.a9q=A.e([new B.l2(x,u),new B.l2(r,q),new B.l2(p,o),new B.l2(n,w.$1(v.i(0,"tripAdds")))],m)
 $.m()
 if(J.E(v.i(0,"hasData"),!0))if($.m().x!=="en"){A.J(v.i(0,a7))
 A.J(v.i(0,a7))}else{A.J(v.i(0,a7))
@@ -920,7 +920,7 @@ h=A.J(w.$1(k.i(l,a3)))
 g=$.m().x!=="en"?"de\u011ferlendirme":a5
 f=A.J(w.$1(k.i(l,a5)))
 e=$.m().x!=="en"?"etiket":a6
-x.push(new B.l1(n+" "+j,i+" "+h+" \xb7 "+g+" "+f+" \xb7 "+e+" "+A.J(w.$1(k.i(l,a6)))))}a9.awa=x
+x.push(new B.l2(n+" "+j,i+" "+h+" \xb7 "+g+" "+f+" \xb7 "+e+" "+A.J(w.$1(k.i(l,a6)))))}a9.awb=x
 a9=$.m()
 x=A.e([],m)
 w=r.a(u.i(v,"actions"))
@@ -928,25 +928,25 @@ w=J.ba(w==null?C.a2:w)
 q=a1.r
 while(w.F()){d=w.ga3(w)
 p=q.i(0,A.J(d))
-x.push(new B.l1(p==null?A.J(d):p,""))}w=r.a(u.i(v,"actions"))
-if(J.di(w==null?C.a2:w))x.push(new B.l1($.m().x!=="en"?"\u015eu an yap\u0131lacak bir \u015fey yok.":"Nothing to do right now.",""))
-a9.awb=x
+x.push(new B.l2(p==null?A.J(d):p,""))}w=r.a(u.i(v,"actions"))
+if(J.di(w==null?C.a2:w))x.push(new B.l2($.m().x!=="en"?"\u015eu an yap\u0131lacak bir \u015fey yok.":"Nothing to do right now.",""))
+a9.awc=x
 a9=$.m()
 m=A.e([],m)
 x=r.a(u.i(v,a8))
 x=J.ba(x==null?C.a2:x)
 while(x.F()){a0=x.ga3(x)
-w=$.m().x!=="en"?D.aXx:D.aXy
+w=$.m().x!=="en"?D.aXv:D.aXw
 o.a(a0)
 q=J.a8(a0)
 w=w.i(0,A.J(q.i(a0,"field")))
 w=A.J(w==null?q.i(a0,"field"):w)
 p=A.J(s.$1(q.i(a0,"at")))
-n=$.m().x!=="en"?D.aXD:D.aXC
+n=$.m().x!=="en"?D.aXB:D.aXA
 n=n.i(0,A.J(q.i(a0,a2)))
-m.push(new B.l1(w+" \xb7 "+p,A.J(n==null?q.i(a0,a2):n)))}x=r.a(u.i(v,a8))
-if(J.di(x==null?C.a2:x))m.push(new B.l1($.m().x!=="en"?"Hen\xfcz de\u011fi\u015fiklik yok.":"No changes yet.",""))
-a9.a9p=m
+m.push(new B.l2(w+" \xb7 "+p,A.J(n==null?q.i(a0,a2):n)))}x=r.a(u.i(v,a8))
+if(J.di(x==null?C.a2:x))m.push(new B.l2($.m().x!=="en"?"Hen\xfcz de\u011fi\u015fiklik yok.":"No changes yet.",""))
+a9.a9r=m
 a9=$.m()
 x=A.e([],y.R)
 w=r.a(u.i(v,"recentReviews"))
@@ -956,18 +956,18 @@ u=J.a8(v)
 r=A.J(u.i(v,"reviewId"))
 q=A.J(u.i(v,"rating"))
 p=u.i(v,"text")
-x.push(new B.oQ(r,q+"\u2605",A.J(p==null?"":p),s.$1(u.i(v,"at")),J.E(u.i(v,"reported"),!0)))}a9.HW=x
+x.push(new B.oQ(r,q+"\u2605",A.J(p==null?"":p),s.$1(u.i(v,"at")),J.E(u.i(v,"reported"),!0)))}a9.HY=x
 a9=$.m()
 x=a1.w
 w=x.i(0,"phone")
-a9.OH=A.J(w==null?"":w)
-a9=$.m()
-w=x.i(0,"website")
 a9.OI=A.J(w==null?"":w)
 a9=$.m()
-a9.Xl=a1.x
-w=x.i(0,"descriptionTr")
+w=x.i(0,"website")
 a9.OJ=A.J(w==null?"":w)
+a9=$.m()
+a9.Xm=a1.x
+w=x.i(0,"descriptionTr")
+a9.OK=A.J(w==null?"":w)
 $.m()
 a9=x.i(0,"descriptionEn")
 A.J(a9==null?"":a9)},
@@ -980,29 +980,29 @@ else if(J.E(J.F(this.b,"routeReason"),"SOURCE_BACKED_VALUE"))x=$.m().x!=="en"?"B
 else x=$.m().x!=="en"?"\u0130nceleme i\xe7in g\xf6nderildi. Onaylan\u0131nca mek\xe2n kayd\u0131na yans\u0131yacak.":"Sent for review. It will reach the place record once approved."
 return w.hI=x},
 $S:0};(function inheritance(){var x=a.inheritMany
-x(A.dN,[B.A7,B.l1,B.q1,B.oQ])
+x(A.dN,[B.A6,B.l2,B.q1,B.oQ])
 x(A.dz,[B.dri,B.dcy,B.dcI,B.dcJ,B.dcK,B.dcL,B.dcM,B.dcV,B.dcF,B.dcX,B.dcY,B.dcO,B.dcP,B.dcQ,B.dcT])
 x(A.dn,[B.dcH,B.dcN,B.dcG,B.dcz,B.dcA,B.dcB,B.dcC,B.dcD,B.dcE,B.dcS,B.dcR])})()
-A.dx(b.typeUniverse,JSON.parse('{"A7":{"dN":[]},"l1":{"dN":[]},"q1":{"dN":[]},"oQ":{"dN":[]}}'))
+A.dx(b.typeUniverse,JSON.parse('{"A6":{"dN":[]},"l2":{"dN":[]},"q1":{"dN":[]},"oQ":{"dN":[]}}'))
 var y=(function rtii(){var x=A.ai
-return{w:x("aL<N,N>"),u:x("Q<A7>"),y:x("Q<l1>"),U:x("Q<q1>"),R:x("Q<oQ>"),s:x("Q<N>"),P:x("as<N,@>"),f:x("as<@,@>"),K:x("aj"),N:x("N"),z:x("@"),g:x("ac<@>?"),Y:x("as<@,@>?"),X:x("aj?"),T:x("N?"),H:x("~")}})();(function constants(){D.T6={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2,APPROVED:3,REJECTED:4,WITHDRAWN:5,EXPIRED:6}
-D.aVv=new A.aL(D.T6,["Belge bekleniyor","\u0130nceleniyor","Ek belge gerekli","Onayland\u0131","Reddedildi","Geri \xe7ekildi","S\xfcresi doldu"],y.w)
-D.aVw=new A.aL(D.T6,["Waiting for a document","In review","More evidence needed","Approved","Rejected","Withdrawn","Expired"],y.w)
+return{w:x("aL<N,N>"),u:x("Q<A6>"),y:x("Q<l2>"),U:x("Q<q1>"),R:x("Q<oQ>"),s:x("Q<N>"),P:x("as<N,@>"),f:x("as<@,@>"),K:x("aj"),N:x("N"),z:x("@"),g:x("ac<@>?"),Y:x("as<@,@>?"),X:x("aj?"),T:x("N?"),H:x("~")}})();(function constants(){D.T6={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2,APPROVED:3,REJECTED:4,WITHDRAWN:5,EXPIRED:6}
+D.aVt=new A.aL(D.T6,["Belge bekleniyor","\u0130nceleniyor","Ek belge gerekli","Onayland\u0131","Reddedildi","Geri \xe7ekildi","S\xfcresi doldu"],y.w)
+D.aVu=new A.aL(D.T6,["Waiting for a document","In review","More evidence needed","Approved","Rejected","Withdrawn","Expired"],y.w)
 D.T7={PENDING_UPLOAD:0,SUBMITTED:1,ACCEPTED:2,REJECTED:3,FAILED:4,PURGED:5}
-D.aVF=new A.aL(D.T7,["uploading","in review","accepted","not accepted","invalid","retention ended"],y.w)
-D.aVG=new A.aL(D.T7,["y\xfckleniyor","incelemede","kabul edildi","kabul edilmedi","ge\xe7ersiz","saklama s\xfcresi doldu"],y.w)
+D.aVD=new A.aL(D.T7,["uploading","in review","accepted","not accepted","invalid","retention ended"],y.w)
+D.aVE=new A.aL(D.T7,["y\xfckleniyor","incelemede","kabul edildi","kabul edilmedi","ge\xe7ersiz","saklama s\xfcresi doldu"],y.w)
 D.T5={hours:0,"contact.phone":1,"contact.website":2,"description.tr":3,"description.en":4,"name.primary":5,category:6,address:7,location:8}
-D.aXx=new A.aL(D.T5,["\xc7al\u0131\u015fma saatleri","Telefon","Web sitesi","A\xe7\u0131klama (TR)","A\xe7\u0131klama (EN)","Mek\xe2n ad\u0131","Kategori","Adres","Konum"],y.w)
-D.aXy=new A.aL(D.T5,["Opening hours","Phone","Website","Description (TR)","Description (EN)","Place name","Category","Address","Location"],y.w)
+D.aXv=new A.aL(D.T5,["\xc7al\u0131\u015fma saatleri","Telefon","Web sitesi","A\xe7\u0131klama (TR)","A\xe7\u0131klama (EN)","Mek\xe2n ad\u0131","Kategori","Adres","Konum"],y.w)
+D.aXw=new A.aL(D.T5,["Opening hours","Phone","Website","Description (TR)","Description (EN)","Place name","Category","Address","Location"],y.w)
 D.T8={APPLIED:0,PENDING_REVIEW:1,APPROVED:2,REJECTED:3,WITHDRAWN:4,SUPERSEDED:5}
-D.aXC=new A.aL(D.T8,["Live","In review","Approved","Rejected","Withdrawn","Replaced"],y.w)
-D.aXD=new A.aL(D.T8,["Yay\u0131nda","\u0130ncelemede","Onayland\u0131","Reddedildi","Geri \xe7ekildi","Yenisiyle de\u011fi\u015fti"],y.w)
-D.aZq={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2}
-D.z8=new A.dp(D.aZq,3,A.ai("dp<N>"))})();(function staticFields(){$.dMP=function(){var x=y.N
+D.aXA=new A.aL(D.T8,["Live","In review","Approved","Rejected","Withdrawn","Replaced"],y.w)
+D.aXB=new A.aL(D.T8,["Yay\u0131nda","\u0130ncelemede","Onayland\u0131","Reddedildi","Geri \xe7ekildi","Yenisiyle de\u011fi\u015fti"],y.w)
+D.aZo={CLAIM_REQUESTED:0,VERIFICATION_PENDING:1,MORE_EVIDENCE_REQUIRED:2}
+D.z8=new A.dp(D.aZo,3,A.ai("dp<N>"))})();(function staticFields(){$.dMP=function(){var x=y.N
 return A.U(x,x)}()
 $.JW=function(){var x=y.N
 return A.U(x,x)}()
-$.aJl=function(){var x=y.N
+$.aJm=function(){var x=y.N
 return A.U(x,x)}()})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"et4","dTB",()=>A.b6S())})()};
-(a=>{a["pSEuA8zyZi4ARMKdg4e24YkDu40="]=a.current})($__dart_deferred_initializers__);
+x($,"et4","dTB",()=>A.b6T())})()};
+(a=>{a["vCC8uk+YmYmWduTrcKp3dXxZbIU="]=a.current})($__dart_deferred_initializers__);
