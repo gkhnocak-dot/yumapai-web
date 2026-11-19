@@ -1,0 +1,10 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q368593,Kayaboğazı Barajı,SIGHT,39.416870,29.617080,,,CC0-1.0,6,Kayaboğazı Dam,,göl,baraj,Q12323
+Q1090254,Söğüt Barajı,SIGHT,39.423690,30.191460,,,CC0-1.0,5,Söğüt Dam,,göl,baraj,Q12323
+Q4900451,Beşkarış Barajı,SIGHT,38.958080,30.151450,,,CC0-1.0,5,Beşkarış Dam,,göl,baraj,Q12323
+Q6445903,Kureyşler Barajı,SIGHT,39.297210,29.849020,,,CC0-1.0,2,Kureyşler Dam,,göl,baraj,Q12323
+Q34822595,Gümeleköy Barajı,SIGHT,38.928889,29.479444,,,CC0-1.0,1,Gümeleköy Barajı,,göl,baraj,Q12323
+Q34862706,Kuruçay Barajı,SIGHT,39.476944,29.509444,,,CC0-1.0,1,Kuruçay Barajı,,göl,baraj,Q12323
+Q34960767,Yeniceköy I Barajı,SIGHT,39.309167,29.146111,,,CC0-1.0,1,Yeniceköy I Barajı,,göl,baraj,Q12323
+Q34971474,Çerte Barajı,SIGHT,39.261944,29.467778,,,CC0-1.0,1,Çerte Barajı,,göl,baraj,Q12323
+Q104855148,Sülüklü Göl,SIGHT,38.897200,29.896100,,,CC0-1.0,1,Lake Sülüklü,,göl,göl,Q23397

@@ -1,0 +1,5 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q2885244,Muratlı Barajı,SIGHT,41.466510,41.714040,,,CC0-1.0,8,Muratlı Dam,Muratlı Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q15191796,Artvin Barajı,SIGHT,40.932400,41.769220,,,CC0-1.0,5,Artvin Dam,Artvin Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q15188545,Arkun Barajı,SIGHT,40.676181,41.289192,,,CC0-1.0,2,Arkun Dam,,göl,dolgu barajı,Q1244922
+Q117716851,Yusufeli Baraj Gölü,SIGHT,40.813056,41.547222,,,CC0-1.0,0,Yusufeli Reservoir,,göl,baraj gölü,Q131681

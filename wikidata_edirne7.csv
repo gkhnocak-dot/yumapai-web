@@ -1,0 +1,27 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089550,Altınyazı Barajı,SIGHT,41.079540,26.587200,,,CC0-1.0,7,Altınyazı Dam,,göl,baraj,Q12323
+Q1090477,Sultanköy Barajı,SIGHT,41.037850,26.481780,,,CC0-1.0,7,Sultanköy Dam,,göl,baraj,Q12323
+Q2885185,Kocadere Barajı,SIGHT,40.871045,26.641596,,,CC0-1.0,2,Kocadere Barajı,,göl,baraj,Q12323
+Q5646525,Hamzadere Barajı,SIGHT,40.754820,26.393380,,,CC0-1.0,2,Hamzadere Dam,,göl,baraj,Q12323
+Q6031409,Çakmak Barajı,SIGHT,41.377140,26.681470,,,CC0-1.0,2,Çakmak Dam,"Çakmak Barajı, Edirne",göl,baraj,Q12323
+Q2885067,Boztepe Barajı,SIGHT,40.850566,26.528978,,,CC0-1.0,1,,Boztepe Barajı (Edirne),göl,baraj,Q12323
+Q32825462,Alıç Barajı,SIGHT,41.077500,26.661944,,,CC0-1.0,1,Alıç Barajı,,göl,baraj,Q12323
+Q32827668,Başağıl Barajı,SIGHT,41.255278,26.767500,,,CC0-1.0,1,Başağıl Barajı,,göl,baraj,Q12323
+Q32830999,Bülbülderesi Barajı,SIGHT,41.215278,26.703333,,,CC0-1.0,1,Bülbülderesi Barajı,,göl,baraj,Q12323
+Q32836559,Değirmenci Barajı,SIGHT,41.325833,26.721667,,,CC0-1.0,1,Değirmenci Barajı,,göl,baraj,Q12323
+Q32838745,Eskikadın Barajı,SIGHT,41.714167,26.458056,,,CC0-1.0,1,Eskikadın Barajı,,göl,baraj,Q12323
+Q34853645,Kavakayzma Barajı,SIGHT,41.127500,26.555278,,,CC0-1.0,1,Kavakayzma Barajı,,göl,baraj,Q12323
+Q34853815,Karasatı Barajı,SIGHT,40.963056,26.717222,,,CC0-1.0,1,Karasatı Barajı,,göl,baraj,Q12323
+Q34861294,Korucu Barajı,SIGHT,41.801944,26.664722,,,CC0-1.0,1,Korucu Barajı,,göl,baraj,Q12323
+Q34861305,Koruklu Barajı,SIGHT,40.665000,26.431944,,,CC0-1.0,1,Koruklu Barajı,,göl,baraj,Q12323
+Q34863119,Küptere Barajı,SIGHT,41.237500,26.471389,,,CC0-1.0,1,Küpdere Barajı,,göl,baraj,Q12323
+Q34870992,Mercan Barajı,SIGHT,40.724870,26.610030,,,CC0-1.0,1,Mercan Barajı,,göl,baraj,Q12323
+Q34871154,Meriç Göleti,SIGHT,41.182500,26.451389,,,CC0-1.0,1,Meriç Göleti,,göl,baraj,Q12323
+Q34890332,Mecidiye Barajı,SIGHT,40.634722,26.563611,,,CC0-1.0,1,Mecidiye Barajı,,göl,baraj,Q12323
+Q34907418,Osmanlı Barajı,SIGHT,41.586944,26.853056,,,CC0-1.0,1,Osmanlı Barajı,,göl,baraj,Q12323
+Q34969671,Uzgaç Barajı,SIGHT,41.818056,26.405556,,,CC0-1.0,1,Uzgaç Barajı,,göl,baraj,Q12323
+Q34971425,Çavuşköy Barajı,SIGHT,40.698056,26.203889,,,CC0-1.0,1,Çavuşköy Barajı,,göl,baraj,Q12323
+Q49307922,Pamuklu Gölü,SIGHT,40.788889,26.281111,,,CC0-1.0,1,Lake Pamuklu,,göl,göl,Q23397
+Q49310647,Sığırcı Gölü,SIGHT,40.816667,26.316667,,,CC0-1.0,1,Lake Sığırcı,,göl,göl,Q23397
+Q49314098,Tuzla Gölü,SIGHT,40.602680,26.263850,,,CC0-1.0,1,Lake Tuzla (Edirne),Tuzla Gölü (Edirne),göl,göl,Q23397
+Q49314099,Tuzla Gölü,SIGHT,40.626667,26.486667,,,CC0-1.0,1,Lake Tuzla (Edirne),Tuzla Gölü (Edirne),göl,göl,Q23397

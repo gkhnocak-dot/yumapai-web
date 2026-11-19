@@ -1,0 +1,5 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q743041,Kızıldamlar Barajı,SIGHT,40.040780,30.117240,,,CC0-1.0,7,Kızıldamlar Dam,,göl,baraj,Q12323
+Q5627106,Günyurdu Barajı,SIGHT,40.031017,29.853914,,,CC0-1.0,4,Günyurdu Dam,,göl,baraj,Q12323
+Q32829755,Borçak Barajı,SIGHT,40.038333,30.207500,,,CC0-1.0,1,Borcak Barajı,,göl,baraj,Q12323
+Q32831003,Büyükelmalı Barajı,SIGHT,40.050000,29.820278,,,CC0-1.0,1,Büyükelmalı Barajı,,göl,baraj,Q12323

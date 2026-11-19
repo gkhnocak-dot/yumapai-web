@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090380,Adıgüzel Barajı,SIGHT,38.159010,29.205880,,,CC0-1.0,8,Adıgüzel Dam,Adıgüzel Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q5120420,Cindere Barajı,SIGHT,38.115290,29.035160,,,CC0-1.0,4,Cindere Dam,Cindere Barajı ve Hidroelektrik Santrali,göl,Ağırlık barajı,Q3497167
+Q8052313,Yenidere Barajı,SIGHT,37.606280,28.898540,,,CC0-1.0,2,Yenidere Dam,,göl,baraj,Q12323
+Q34957017,Tavas Barajı,SIGHT,37.604167,29.111389,,,CC0-1.0,1,Tavas Barajı,,göl,baraj,Q12323
+Q34969830,Vali Recep Yazıcıoğlu Barajı,SIGHT,37.786389,29.129722,,,CC0-1.0,1,Vali Recep Yazıcıoğlu Barajı,,göl,baraj,Q12323

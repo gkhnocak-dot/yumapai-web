@@ -1,0 +1,11 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089584,Cip Barajı,SIGHT,38.678100,39.067690,,,CC0-1.0,5,Cip Dam,,göl,baraj,Q12323
+Q19309070,Seyrantepe Barajı,SIGHT,39.021106,39.891897,,,CC0-1.0,4,Seyrantepe Dam,,göl,dolgu barajı,Q1244922
+Q23763125,Beyhan-1 Barajı,SIGHT,38.751933,40.135772,,,CC0-1.0,3,Beyhan I Dam,,göl,Ağırlık barajı,Q3497167
+Q2885160,Kalecik Barajı,SIGHT,38.957500,40.059167,,,CC0-1.0,3,Kalecik Barajı,,göl,baraj,Q12323
+Q23763135,Tatar Barajı,SIGHT,38.863072,39.816892,,,CC0-1.0,2,Tatar Dam,,göl,baraj,Q12323
+Q28220558,Beyhan II Barajı,SIGHT,38.707278,39.986889,,,CC0-1.0,1,Beyhan II Dam,,göl,Ağırlık barajı,Q3497167
+Q32832995,Cipköy Barajı,SIGHT,38.678333,39.066667,,,CC0-1.0,1,Cipköy Barajı,,göl,baraj,Q12323
+Q34841504,Işıktepe Barajı,SIGHT,38.444167,39.517500,,,CC0-1.0,1,Işıktepe Barajı,,göl,baraj,Q12323
+Q34955412,Tadım Barajı,SIGHT,38.573611,39.160556,,,CC0-1.0,1,Tadım Barajı,,göl,baraj,Q12323
+Q104850911,Sülüklü Göl,SIGHT,38.918451,38.576174,,,CC0-1.0,1,Lake Sülüklü,,göl,yapay gölet,Q3253281

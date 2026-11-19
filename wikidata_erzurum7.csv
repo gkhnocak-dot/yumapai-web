@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q7156970,Pazaryolu Barajı,SIGHT,40.404722,40.778889,,,CC0-1.0,3,Pazaryolu Dam,,göl,baraj,Q12323
+Q15222408,Güllübağ Barajı,SIGHT,40.521869,41.021575,,,CC0-1.0,2,Güllübağ Dam,,göl,Ağırlık barajı,Q3497167
+Q4875359,Başköy Barajı,SIGHT,39.408820,41.657450,,,CC0-1.0,2,Başköy Dam,,göl,baraj,Q12323
+Q16893932,Laleli Barajı,SIGHT,40.394500,40.607400,,,CC0-1.0,1,Laleli Dam,,göl,dolgu barajı,Q1244922
+Q115111041,Dipsiz Göl,SIGHT,40.373200,40.727600,,,CC0-1.0,0,Lake Dipsiz (Göztepe),Dipsiz Göl (Göztepe),göl,göl,Q23397

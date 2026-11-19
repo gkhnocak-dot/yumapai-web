@@ -1,0 +1,13 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q6045094,Yamula Barajı,SIGHT,38.904000,35.271000,,,CC0-1.0,8,Yamula Dam and Hydroelectric Plant,Yamula Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090309,Ağcaşar Barajı,SIGHT,38.184850,35.395580,,,CC0-1.0,6,Ağcaşar Dam,,göl,baraj,Q12323
+Q1090542,Kovalı Barajı,SIGHT,38.170180,35.147360,,,CC0-1.0,6,Kovalı Dam,,göl,baraj,Q12323
+Q2885009,Akköy Barajı,SIGHT,38.318340,35.028560,,,CC0-1.0,6,Akköy Dam,,göl,baraj,Q12323
+Q4843099,Bahçelik Barajı,SIGHT,38.676628,36.291866,,,CC0-1.0,5,Bahçelik Dam,Bahçelik Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q12811715,Sarıoğlan Barajı,SIGHT,39.016970,36.087810,,,CC0-1.0,4,Sarıoğlan Dam,,göl,baraj,Q12323
+Q116676991,Bayramhacılı Barajı,SIGHT,38.799333,34.997222,,,CC0-1.0,1,Bayramhacı Dam,,göl,hydroelectric dam,Q56697283
+Q34957905,Tekir Barajı,SIGHT,38.528056,35.529167,,,CC0-1.0,1,Tekir Barajı,,göl,baraj,Q12323
+Q34966949,Çalbalma Barajı,SIGHT,38.585000,35.215833,,,CC0-1.0,1,Çalbalma Barajı,,göl,baraj,Q12323
+Q34973147,Şeyhli Barajı,SIGHT,38.113333,35.656944,,,CC0-1.0,1,Şeyhli Barajı,,göl,baraj,Q12323
+Q139433278,Karakuyu Barajı,SIGHT,38.886738,36.732189,,,CC0-1.0,0,,,göl,baraj,Q12323
+Q49318654,Yanyanlı Gölü,SIGHT,38.670000,35.286389,,,CC0-1.0,1,Lake Yanyanlı,,göl,intermittent lake,Q10313934

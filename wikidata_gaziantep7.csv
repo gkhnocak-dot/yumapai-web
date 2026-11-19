@@ -1,0 +1,8 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1374176,Birecik Barajı,SIGHT,37.053920,37.889860,,,CC0-1.0,13,Birecik Dam,Birecik Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1927376,Karkamış Barajı,SIGHT,36.870520,38.029890,,,CC0-1.0,10,Karkamış Dam,Karkamış Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1089575,Kayacık Barajı,SIGHT,36.822740,37.568470,,,CC0-1.0,6,Kayacık Dam,,göl,baraj,Q12323
+Q648039,Tahtaköprü Barajı,SIGHT,36.856800,36.688020,,,CC0-1.0,6,Tahtaköprü Dam,,göl,baraj,Q12323
+Q746356,Hancağız Barajı,SIGHT,36.960190,37.891370,,,CC0-1.0,5,Hancağız Dam,,göl,baraj,Q12323
+Q34966939,Zülfikar Barajı,SIGHT,37.093889,37.176667,,,CC0-1.0,1,Zülfikar Barajı,,göl,baraj,Q12323
+Q49316755,Örmeli Göl,SIGHT,37.135833,36.737500,,,CC0-1.0,1,Lake Örmeli,,göl,göl,Q23397

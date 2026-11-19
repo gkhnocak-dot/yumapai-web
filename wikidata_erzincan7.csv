@@ -1,0 +1,4 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q23763131,Bağıştaş 1 Barajı,SIGHT,39.449317,38.522947,,,CC0-1.0,3,Bağıştaş 1 Dam,,göl,dolgu barajı,Q1244922
+Q24037176,Bağıştaş 2 Barajı,SIGHT,39.428069,38.413639,,,CC0-1.0,1,Bağıştaş 2 Dam,,göl,Ağırlık barajı,Q3497167
+Q97232518,Turnaçayırı Barajı,SIGHT,39.848000,39.723100,,,CC0-1.0,1,Turnaçayırı Dam,,göl,baraj,Q12323

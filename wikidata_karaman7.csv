@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089288,Ayrancı Barajı,SIGHT,37.336110,33.726600,,,CC0-1.0,6,Ayrancı Dam,,göl,baraj,Q12323
+Q1355896,Ermenek Barajı,SIGHT,36.568170,32.967840,,,CC0-1.0,6,Ermenek Dam,,göl,arch dam,Q890545
+Q2885106,Deliçay Barajı,SIGHT,37.136880,33.168150,,,CC0-1.0,4,Deliçay Dam,,göl,baraj,Q12323
+Q8080038,İbrala Barajı,SIGHT,37.216990,33.395830,,,CC0-1.0,2,İbrala Dam,,göl,baraj,Q12323
+Q49318667,Akgöl,SIGHT,37.514167,33.717222,,,CC0-1.0,1,Lake Akgöl,Akgöl (tuz gölü),göl,tuz gölü,Q188025

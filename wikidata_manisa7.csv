@@ -1,0 +1,8 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089508,Demirköprü Barajı,SIGHT,38.616630,28.311720,,,CC0-1.0,9,Demirköprü Dam,,göl,baraj,Q12323
+Q736734,Afşar Barajı,SIGHT,38.246130,28.603070,,,CC0-1.0,6,Afşar Dam,,göl,baraj,Q12323
+Q5626664,Gördes Barajı,SIGHT,38.761840,28.056940,,,CC0-1.0,4,Gördes Dam,,göl,dolgu barajı,Q1244922
+Q126472932,Çamönü Barajı,SIGHT,38.949750,27.905861,,,CC0-1.0,1,Çamönü Dam,,göl,baraj,Q12323
+Q34966988,Çamköy Barajı,SIGHT,38.724167,27.407222,,,CC0-1.0,1,Çamköy Barajı,Çamköy Barajı (Manisa),göl,baraj,Q12323
+Q5626584,Güneşli Barajı,SIGHT,39.054722,28.361667,,,CC0-1.0,1,Güneşli Dam,,göl,baraj,Q12323
+Q34883032,Demirköprü Baraj Gölü,SIGHT,38.674790,28.373570,,,CC0-1.0,1,Demirköprü Reservoir,,göl,baraj gölü,Q131681

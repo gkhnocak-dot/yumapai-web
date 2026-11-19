@@ -1,0 +1,20 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1588084,Hasan Uğurlu Barajı,SIGHT,40.936150,36.646380,,,CC0-1.0,9,Hasan Uğurlu Dam,Hasan Uğurlu Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q447172,Altınkaya Barajı,SIGHT,41.363440,35.724060,,,CC0-1.0,9,Altınkaya Dam,,göl,dolgu barajı,Q1244922
+Q738309,Derbent Barajı,SIGHT,41.461300,35.842060,,,CC0-1.0,9,Derbent Dam,Derbent Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q2885305,Suat Uğurlu Barajı,SIGHT,41.074690,36.671020,,,CC0-1.0,8,Suat Uğurlu Dam,Suat Uğurlu Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090415,Çakmak Barajı,SIGHT,41.109840,36.633470,,,CC0-1.0,6,Çakmak Dam,,göl,baraj,Q12323
+Q7924253,Vezirköprü Barajı,SIGHT,41.159360,35.421460,,,CC0-1.0,3,Vezirköprü Dam,,göl,baraj,Q12323
+Q5262599,Derinöz Barajı,SIGHT,40.848312,35.841148,,,CC0-1.0,2,Derinöz Dam,,göl,baraj,Q12323
+Q7092217,Ondokuzmayıs Barajı,SIGHT,41.459000,36.029840,,,CC0-1.0,2,Ondokuzmayıs Dam,,göl,baraj,Q12323
+Q32836742,Divanbaşı Barajı,SIGHT,41.137222,35.989722,,,CC0-1.0,1,Divanbaşı Barajı,,göl,baraj,Q12323
+Q34822572,Güldere Barajı,SIGHT,41.197222,35.581389,,,CC0-1.0,1,Güldere Barajı,,göl,baraj,Q12323
+Q34823445,Hacıdede Barajı,SIGHT,40.959722,35.599444,,,CC0-1.0,1,Hacıdede Barajı,,göl,baraj,Q12323
+Q34857398,Kılıçgüney Barajı,SIGHT,41.114444,35.313611,,,CC0-1.0,1,Kılıçgüney Barajı,,göl,baraj,Q12323
+Q34861517,Kozansıkı Barajı,SIGHT,40.989722,36.007222,,,CC0-1.0,1,Kozansıkı Barajı,,göl,baraj,Q12323
+Q35700408,Gernek Gölü,SIGHT,41.650000,36.066667,,,CC0-1.0,1,Gernek Gölü,,göl,göl,Q23397
+Q49302014,Dumanlı Göl,SIGHT,41.333333,36.783333,,,CC0-1.0,1,Lake Dumanlı,,göl,göl,Q23397
+Q49304106,Liman Göl,SIGHT,41.700000,36.016670,,,CC0-1.0,1,Lake Liman,,göl,göl,Q23397
+Q49313021,Tatlı Gölü,SIGHT,41.570000,36.061944,,,CC0-1.0,1,Lake Tatlı,,göl,göl,Q23397
+Q49314696,Uzun Gölü,SIGHT,41.565278,36.093056,,,CC0-1.0,1,Lake Uzun,,göl,göl,Q23397
+Q101552467,Altınkaya Baraj Gölü,SIGHT,41.278056,35.459722,,,CC0-1.0,0,Altınkaya Reservoir,,göl,baraj gölü,Q131681

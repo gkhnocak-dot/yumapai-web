@@ -1,0 +1,19 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089647,Porsuk Barajı,SIGHT,39.635370,30.279250,,,CC0-1.0,9,Porsuk Dam,,göl,baraj,Q12323
+Q677072,Gökçekaya Barajı,SIGHT,40.033150,31.015990,,,CC0-1.0,9,Gökçekaya Dam,Gökçekaya Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1091496,Çatören Barajı,SIGHT,39.324600,30.578150,,,CC0-1.0,7,Çatören Dam,,göl,baraj,Q12323
+Q1090293,Kaymaz Barajı,SIGHT,39.543220,31.217540,,,CC0-1.0,6,Kaymaz Dam,,göl,baraj,Q12323
+Q1090471,Kunduzlar Barajı,SIGHT,39.356440,30.568240,,,CC0-1.0,6,Kunduzlar Dam,,göl,baraj,Q12323
+Q6370304,Kargı Barajı,SIGHT,39.966170,31.740120,,,CC0-1.0,5,Kargı Dam,,göl,baraj,Q12323
+Q2885197,Kuzfındık Barajı,SIGHT,39.692680,30.052110,,,CC0-1.0,4,Kuzfındık Dam,,göl,baraj,Q12323
+Q4899893,Beylikova Barajı,SIGHT,39.727230,31.204850,,,CC0-1.0,2,Beylikova Dam,,göl,baraj,Q12323
+Q5627154,Gürsöğüt Barajı,SIGHT,39.890427,31.785035,,,CC0-1.0,2,Gürsöğüt Dam,,göl,dolgu barajı,Q1244922
+Q32826642,Ayvalı I Barajı,SIGHT,39.487778,30.596111,,,CC0-1.0,1,Ayvalı I Barajı,,göl,baraj,Q12323
+Q32828466,Beylik Barajı,SIGHT,39.696389,30.977222,,,CC0-1.0,1,Beylik Barajı,,göl,baraj,Q12323
+Q34853557,Kanlıpınar Göleti,SIGHT,39.719444,30.670556,,,CC0-1.0,1,Kanlıpınar Göleti,,göl,baraj,Q12323
+Q34854032,Kayı Barajı,SIGHT,39.208333,30.786944,,,CC0-1.0,1,Kayı Barajı,,göl,baraj,Q12323
+Q34861598,Koçaş Barajı,SIGHT,39.435833,31.688056,,,CC0-1.0,1,Koçaş Barajı,,göl,baraj,Q12323
+Q34964999,Uluçayır Barajı,SIGHT,39.597778,30.422500,,,CC0-1.0,1,Uluçayır Barajı,,göl,baraj,Q12323
+Q34966301,Yukarı Söğüt Barajı,SIGHT,39.458056,30.571111,,,CC0-1.0,1,Yukarı Söğüt Barajı,,göl,baraj,Q12323
+Q34966312,Yukarıkartal Barajı,SIGHT,39.745833,30.269167,,,CC0-1.0,1,Yukarıkartal Barajı,,göl,baraj,Q12323
+Q34971603,Ömerköy Barajı,SIGHT,39.871944,31.534167,,,CC0-1.0,1,Ömerköy Barajı,,göl,baraj,Q12323

@@ -1,0 +1,5 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090594,Gelingüllü Barajı,SIGHT,39.609480,35.043530,,,CC0-1.0,8,Gelingüllü Dam,,göl,baraj,Q12323
+Q939312,Uzunlu Barajı,SIGHT,39.255540,35.418480,,,CC0-1.0,6,Uzunlu Dam,,göl,baraj,Q12323
+Q7666764,Süreyyabey Barajı,SIGHT,40.043630,35.549720,,,CC0-1.0,4,Süreyyabey Dam,Süreyyabey Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q34853546,Kanlıdere Barajı,SIGHT,39.439000,35.145100,,,CC0-1.0,1,Kanlıdere Dam,,göl,baraj,Q12323

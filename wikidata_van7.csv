@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090262,Koçköprü Barajı,SIGHT,39.121950,43.329050,,,CC0-1.0,6,Koçköprü Dam,Koçköprü Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q921621,Zernek Barajı,SIGHT,38.355610,43.656810,,,CC0-1.0,5,Zernek Dam,Zernek Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q6912013,Morgedik Barajı,SIGHT,39.161980,43.636730,,,CC0-1.0,2,Morgedik Dam,,göl,baraj,Q12323
+Q32838597,Emek Barajı,SIGHT,38.576389,43.987222,,,CC0-1.0,1,Emek Barajı,,göl,baraj,Q12323
+Q34801507,Bostaniçi Gölü,SIGHT,38.532778,43.418333,,,CC0-1.0,1,Bostaniçi Gölü,,göl,göl,Q23397

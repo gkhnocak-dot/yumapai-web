@@ -1,0 +1,11 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1659316,Ilısu Barajı,SIGHT,37.531100,41.849310,,,CC0-1.0,19,Ilısu Dam,Ilısu Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q2885099,Cizre Barajı,SIGHT,37.362926,42.154713,,,CC0-1.0,5,Cizre Dam,,göl,baraj,Q12323
+Q15196313,Ballı Barajı,SIGHT,37.406942,42.832431,,,CC0-1.0,1,Balli Dam,,göl,Ağırlık barajı,Q3497167
+Q15234767,Kavşaktepe Barajı,SIGHT,37.393547,42.868772,,,CC0-1.0,1,Kavşaktepe Dam,,göl,Ağırlık barajı,Q3497167
+Q15260342,Musatepe Barajı,SIGHT,37.387976,42.898918,,,CC0-1.0,1,Musatepe Dam,,göl,Ağırlık barajı,Q3497167
+Q15277798,Silopi Barajı,SIGHT,37.338175,42.728111,,,CC0-1.0,1,Silopi Dam,,göl,Ağırlık barajı,Q3497167
+Q16829144,Çetintepe Barajı,SIGHT,37.369600,42.938700,,,CC0-1.0,1,Çetintepe Dam,,göl,Ağırlık barajı,Q3497167
+Q16900232,Şırnak Barajı,SIGHT,37.441300,42.733700,,,CC0-1.0,1,Şırnak Dam,,göl,Ağırlık barajı,Q3497167
+Q16902298,Uludere Barajı,SIGHT,37.425500,42.806300,,,CC0-1.0,1,Uludere Dam,,göl,Ağırlık barajı,Q3497167
+Q32836727,Dirsekli Göleti,SIGHT,37.333611,41.849444,,,CC0-1.0,1,Dirsekli Göleti,,göl,baraj,Q12323

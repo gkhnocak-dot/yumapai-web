@@ -1,0 +1,8 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q420151,Akköprü Barajı,SIGHT,36.897820,28.902250,,,CC0-1.0,7,Akköprü Dam,Akköprü Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090286,Mumcular Barajı,SIGHT,37.117750,27.659960,,,CC0-1.0,6,Mumcular Dam,,göl,baraj,Q12323
+Q4875057,Bayır Barajı,SIGHT,37.287140,28.257050,,,CC0-1.0,3,Bayır Dam,,göl,baraj,Q12323
+Q6772115,Marmaris Barajı,SIGHT,36.948350,28.289770,,,CC0-1.0,2,Marmaris Dam,,göl,dolgu barajı,Q1244922
+Q61077756,Eşen 2 Barajı,SIGHT,36.767965,29.401742,,,CC0-1.0,1,,Eşen 2 Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q35719119,Koca Gölü,SIGHT,36.681389,28.824722,,,CC0-1.0,1,Koca Gölü,,göl,göl,Q23397
+Q49312865,Sülüngür Gölü,SIGHT,36.788333,28.644722,,,CC0-1.0,1,Lake Sülüngür,,göl,göl,Q23397

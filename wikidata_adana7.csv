@@ -1,0 +1,8 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090270,Çatalan Barajı,SIGHT,37.198400,35.282700,,,CC0-1.0,11,Çatalan Dam,Çatalan Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090329,Nergizlik Barajı,SIGHT,37.298800,35.049110,,,CC0-1.0,7,Nergizlik Dam,,göl,baraj,Q12323
+Q19279516,Feke 2 Barajı,SIGHT,37.744674,35.864971,,,CC0-1.0,3,Feke-2 dam,,göl,baraj,Q12323
+Q6049583,Yedigöze Barajı,SIGHT,37.401500,35.445300,,,CC0-1.0,3,Yedigöze Dam,Yedigöze Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q15234764,Kavşak Bendi Barajı,SIGHT,37.564586,35.529775,,,CC0-1.0,2,Kavşak Bendi Dam,,göl,Ağırlık barajı,Q3497167
+Q19296210,Menge Barajı,SIGHT,37.704855,35.723493,,,CC0-1.0,2,Menge Dam,,göl,baraj,Q12323
+Q34936471,Yağızlar Göleti,SIGHT,37.201389,35.545278,,,CC0-1.0,1,Yağızlar Göleti,,göl,baraj gölü,Q131681

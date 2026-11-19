@@ -1,0 +1,16 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090323,Doğancı-1 Barajı,SIGHT,40.113890,28.963080,,,CC0-1.0,7,Doğancı-1 Dam,,göl,baraj,Q12323
+Q1090606,Demirtaş Barajı,SIGHT,40.287870,29.113720,,,CC0-1.0,7,Demirtaş Dam,,göl,baraj,Q12323
+Q979619,Büyükorhan Barajı,SIGHT,39.793920,28.918940,,,CC0-1.0,7,Büyükorhan Dam,,göl,baraj,Q12323
+Q3707521,Nilüfer Barajı,SIGHT,40.011660,29.116270,,,CC0-1.0,5,Nilüfer Dam,,göl,baraj,Q12323
+Q4952946,Boğazköy Barajı,SIGHT,40.173780,29.524500,,,CC0-1.0,5,Boğazköy Dam,,göl,baraj,Q12323
+Q4837538,Babasultan Barajı,SIGHT,40.128631,29.385400,,,CC0-1.0,4,Babasultan Dam,,göl,baraj,Q12323
+Q8077837,Çınarcık Barajı,SIGHT,40.016010,28.773870,,,CC0-1.0,4,Çınarcık Dam,Çınarcık Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q16835121,Devecikonağı Barajı,SIGHT,39.875575,28.575386,,,CC0-1.0,1,Devecikonağı Dam,,göl,Ağırlık barajı,Q3497167
+Q32825088,Akalan Barajı,SIGHT,39.848611,29.007500,,,CC0-1.0,1,Akalan Barajı,,göl,baraj,Q12323
+Q32830766,Burcun Barajı,SIGHT,40.321389,29.408333,,,CC0-1.0,1,Burcun Barajı,,göl,baraj,Q12323
+Q32838976,Eymir Barajı,SIGHT,40.064167,29.653611,,,CC0-1.0,1,Eymir Barajı,,göl,baraj,Q12323
+Q34824091,Halhalca Barajı,SIGHT,40.165556,29.415000,,,CC0-1.0,1,Halhalca Barajı,,göl,baraj,Q12323
+Q34965600,Yolçatı Barajı,SIGHT,40.253611,28.855833,,,CC0-1.0,1,Yolçatı Barajı,,göl,baraj,Q12323
+Q34969714,Uşakpınar Barajı,SIGHT,40.186510,29.356860,,,CC0-1.0,1,Uşakpınar Barajı,,göl,baraj,Q12323
+Q49301349,Dalyan Gölü,SIGHT,40.385833,28.482222,,,CC0-1.0,1,Lake Dalyan (Bursa),Dalyan Gölü (Bursa),göl,göl,Q23397

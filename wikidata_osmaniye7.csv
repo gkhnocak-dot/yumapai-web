@@ -1,0 +1,5 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090378,Aslantaş Barajı,SIGHT,37.272880,36.270960,,,CC0-1.0,8,Aslantaş Dam,Aslantaş Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1089555,Mehmetli Barajı,SIGHT,37.507750,36.021380,,,CC0-1.0,7,Mehmetli Dam,,göl,baraj,Q12323
+Q2885168,Kalecik Barajı,SIGHT,37.147620,36.459310,,,CC0-1.0,6,Kalecik Dam,"Kalecik Barajı, Osmaniye",göl,baraj,Q12323
+Q101554260,Aslantaş Baraj Gölü,SIGHT,37.346944,36.285278,,,CC0-1.0,0,Aslantaş Reservoir,,göl,baraj gölü,Q131681

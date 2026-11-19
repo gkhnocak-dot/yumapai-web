@@ -1,0 +1,5 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q4734770,Alpaslan-1 Barajı,SIGHT,39.049110,41.818660,,,CC0-1.0,5,Alpaslan-1 Dam,Alpaslan-1 Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q15179528,Alpaslan-2 Barajı,SIGHT,39.035400,41.520380,,,CC0-1.0,3,Alpaslan-2 Dam,Alpaslan-2 Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q139432762,Akkent Barajı,SIGHT,38.920898,42.045460,,,CC0-1.0,0,,,göl,baraj,Q12323
+Q101552536,Alpaslan-1 Baraj Gölü,SIGHT,39.038333,41.921667,,,CC0-1.0,0,Alpaslan-1 Reservoir,,göl,baraj gölü,Q131681

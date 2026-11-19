@@ -1,0 +1,7 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090533,Sazlıdere Barajı,SIGHT,41.105833,28.718333,,,CC0-1.0,6,Sazlıdere Dam,,göl,baraj,Q12323
+Q1091506,Darlık Barajı,SIGHT,41.115190,29.568290,,,CC0-1.0,6,Darlık Dam,,göl,baraj,Q12323
+Q24915721,Valide Barajı,SIGHT,41.191111,28.987778,,,CC0-1.0,3,Valide Dam,,göl,baraj,Q12323
+Q25248121,Yeni Baraj,SIGHT,41.189722,28.986111,,,CC0-1.0,2,New Dam,Yeni Baraj (İstanbul),göl,baraj,Q12323
+Q24915720,Topuzlu Barajı,SIGHT,41.182778,28.993333,,,CC0-1.0,1,Topuzlu Dam,,göl,baraj,Q12323
+Q136812643,Bahçeşehir Gölet Parkı,SIGHT,41.068840,28.692280,,,CC0-1.0,1,Bahçeşehir Pond Park,,göl,yapay gölet,Q3253281

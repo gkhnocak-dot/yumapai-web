@@ -1,0 +1,11 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089626,Kartalkaya Barajı,SIGHT,37.468920,37.239560,,,CC0-1.0,8,Kartalkaya Dam,,göl,baraj,Q12323
+Q820828,Berke Barajı,SIGHT,37.372910,36.461350,,,CC0-1.0,8,Berke Dam,Berke Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090245,Sır Barajı,SIGHT,37.500980,36.595990,,,CC0-1.0,7,Sır Dam,Sır Barajı ve Hidroelektrik Santrali,göl,arch dam,Q890545
+Q1089443,Adatepe Barajı,SIGHT,38.107480,36.739240,,,CC0-1.0,6,Adatepe Dam,,göl,baraj,Q12323
+Q4831856,Ayvalı Barajı,SIGHT,37.577090,37.137260,,,CC0-1.0,3,Ayvalı Dam,,göl,baraj,Q12323
+Q32837671,Düzkesme Barajı,SIGHT,37.478889,36.538333,,,CC0-1.0,1,Düzkesme Barajı,,göl,baraj,Q12323
+Q34859473,Kızıleniş Barajı,SIGHT,37.349179,36.784201,,,CC0-1.0,1,Kızıleniş Barajı,,göl,baraj,Q12323
+Q34953457,Suçatı Barajı,SIGHT,37.761487,36.732906,,,CC0-1.0,1,Suçatı Dam,,göl,baraj,Q12323
+Q34972277,İncecik Barajı,SIGHT,38.402778,37.318611,,,CC0-1.0,1,İncecik Barajı,,göl,baraj,Q12323
+Q104850893,Sülüklü Gölü,SIGHT,37.304800,37.254900,,,CC0-1.0,1,Lake Sülüklü,Sülüklü Gölü (Gaziantep),göl,tatlı su gölü,Q3505788

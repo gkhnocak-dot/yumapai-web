@@ -1,0 +1,4 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1089599,Gülüç Barajı,SIGHT,41.243910,31.483620,,,CC0-1.0,6,Gülüç Dam,,göl,baraj,Q12323
+Q1090386,Kozlu Barajı,SIGHT,41.420370,31.801800,,,CC0-1.0,6,Kozlu Dam,,göl,baraj,Q12323
+Q1090518,Kızılcapınar Barajı,SIGHT,41.241090,31.616700,,,CC0-1.0,5,Kızılcapınar Dam,Kızılcapınar Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323

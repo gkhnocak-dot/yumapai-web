@@ -1,0 +1,9 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q2611551,Dicle Barajı,SIGHT,38.231230,40.176610,,,CC0-1.0,12,Dicle Dam,Dicle Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q2506536,Kralkızı Barajı,SIGHT,38.348970,40.021380,,,CC0-1.0,9,Kralkızı Dam,Kralkızı Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q810848,Batman Barajı,SIGHT,38.160530,41.202520,,,CC0-1.0,9,Batman Dam,Batman Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1674132,Silvan Barajı,SIGHT,38.293710,41.021940,,,CC0-1.0,7,Silvan Dam,Silvan Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q1091489,Göksu Barajı,SIGHT,37.683930,40.445240,,,CC0-1.0,4,Göksu Dam,,göl,dolgu barajı,Q1244922
+Q34854114,Kayser Barajı,SIGHT,38.423333,41.210000,,,CC0-1.0,1,Kayser Barajı,,göl,baraj,Q12323
+Q34877709,Beşpınar Göleti,SIGHT,37.765000,40.345833,,,CC0-1.0,1,Beşpınar Göleti,,göl,baraj gölü,Q131681
+Q32827542,Batman Baraj Gölü,SIGHT,38.225278,41.115556,,,CC0-1.0,0,Batman Reservoir,,göl,baraj gölü,Q131681

@@ -1,0 +1,14 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q784158,Alaca Barajı,SIGHT,40.107660,34.838550,,,CC0-1.0,6,Alaca Dam,,göl,baraj,Q12323
+Q2885343,Yenihayat Barajı,SIGHT,40.392744,34.667100,,,CC0-1.0,5,Yenihayat Dam,,göl,baraj,Q12323
+Q7075372,Obruk Barajı,SIGHT,40.770278,34.788056,,,CC0-1.0,5,Obruk Dam,Obruk Barajı ve Hidroelektrik Santrali,göl,dolgu barajı,Q1244922
+Q17127531,Gölpınar Hitit barajı,SIGHT,40.223611,34.708056,,,CC0-1.0,4,Gölpınar Dam,,göl,baraj,Q12323
+Q6435463,Koçhisar Barajı,SIGHT,40.098180,34.943940,,,CC0-1.0,3,Koçhisar Dam,,göl,baraj,Q12323
+Q32829938,Bozdoğan Suluma Göleti,SIGHT,40.162500,35.059167,,,CC0-1.0,1,Bozdoğan Suluma Göleti,,göl,baraj,Q12323
+Q32838941,Evciyenikışla Barajı,SIGHT,40.335278,34.596667,,,CC0-1.0,1,Evciyenikışla Barajı,,göl,baraj,Q12323
+Q34822514,Gökçedoğan Barajı,SIGHT,41.113333,34.656944,,,CC0-1.0,1,Gökçedoğan Barajı,,göl,baraj,Q12323
+Q34833915,Hıdırlık Barajı,SIGHT,40.441944,35.216667,,,CC0-1.0,1,Hıdırlık Barajı,,göl,baraj,Q12323
+Q34929159,Sincan Barajı,SIGHT,40.023611,34.908611,,,CC0-1.0,1,Sincan Dam,,göl,baraj,Q12323
+Q34972288,İnegazili Barajı,SIGHT,40.195556,33.996111,,,CC0-1.0,1,İnegazili Barajı,,göl,baraj,Q12323
+Q139436734,Örükaya Barajı,SIGHT,40.101158,34.899410,,,CC0-1.0,0,,,göl,baraj,Q12323
+Q35695576,Elekçi Gölü,SIGHT,40.235833,34.152500,,,CC0-1.0,1,Elekçi Gölü,,göl,göl,Q23397

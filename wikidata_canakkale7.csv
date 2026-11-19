@@ -1,0 +1,13 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090408,Gönen Barajı,SIGHT,39.969840,27.444740,,,CC0-1.0,8,Gönen Dam,Gönen Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090294,Bakacak Barajı,SIGHT,40.183517,27.022154,,,CC0-1.0,7,Bakacak Dam,,göl,baraj,Q12323
+Q1091467,Gökçeada Barajı,SIGHT,40.179170,25.866800,,,CC0-1.0,7,Gökçeada Dam,,göl,baraj,Q12323
+Q4831853,Ayvacık Barajı,SIGHT,39.603010,26.452790,,,CC0-1.0,6,Ayvacık Dam,,göl,baraj,Q12323
+Q585514,Tayfur Barajı,SIGHT,40.384481,26.487581,,,CC0-1.0,6,Tayfur Dam,,göl,baraj,Q12323
+Q12812106,Taşoluk Barajı,SIGHT,40.196030,27.354250,,,CC0-1.0,3,Taşoluk Dam,,göl,baraj,Q12323
+Q4874765,Bayramdere Barajı,SIGHT,40.336270,26.810860,,,CC0-1.0,3,Bayramdere Dam,,göl,baraj,Q12323
+Q32825636,Alpagut Barajı,SIGHT,40.369722,26.825833,,,CC0-1.0,1,Alpagut Barajı,,göl,baraj,Q12323
+Q34861504,Koyunyeri Barajı,SIGHT,40.034167,26.886389,,,CC0-1.0,1,Koyunyeri Barajı,,göl,baraj,Q12323
+Q34969680,Uzunhızırlı Barajı,SIGHT,40.307500,26.389167,,,CC0-1.0,1,Uzunhızırlı Baraj,,göl,baraj,Q12323
+Q49301573,Demirci Gölü,SIGHT,40.632500,26.930000,,,CC0-1.0,1,Lake Demirci,,göl,göl,Q23397
+Q49309759,Tuz Gölü,SIGHT,40.295920,26.257920,,,CC0-1.0,1,Tuz Gölü,,göl,göl,Q23397

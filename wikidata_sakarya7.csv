@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q20472105,Melen Barajı,SIGHT,41.004450,30.964130,,,CC0-1.0,1,,Melen Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q34897815,Okçular Barajı,SIGHT,40.995833,30.328056,,,CC0-1.0,1,Okçular Barajı,,göl,baraj,Q12323
+Q34915526,Salmanlı Barajı,SIGHT,40.902778,30.297500,,,CC0-1.0,1,Salmanlı Barajı,,göl,baraj,Q12323
+Q65220271,Adasu Barajı,SIGHT,40.743250,30.420361,,,CC0-1.0,1,Adasu Dam,,göl,baraj,Q12323
+Q110779563,Reisler Okçular Gölü,SIGHT,40.996506,30.331076,,,CC0-1.0,1,Reisler Okçular Lake,,göl,göl,Q23397

@@ -1,0 +1,16 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q379180,Tahtalı Barajı,SIGHT,38.088570,27.041730,,,CC0-1.0,8,Tahtalı Dam,,göl,dolgu barajı,Q1244922
+Q974488,Kestel Barajı,SIGHT,39.132150,27.190770,,,CC0-1.0,8,Kestel Dam,,göl,baraj,Q12323
+Q1090504,Balçova Barajı,SIGHT,38.372810,27.038540,,,CC0-1.0,7,Balçova Dam,,göl,baraj,Q12323
+Q1090460,Alaçatı Barajı,SIGHT,38.282840,26.405950,,,CC0-1.0,6,Alaçatı Dam,,göl,baraj,Q12323
+Q2577512,Yortanlı Barajı,SIGHT,39.228440,27.324460,,,CC0-1.0,5,Yortanlı Dam,,göl,baraj,Q12323
+Q4899840,Beydağ Barajı,SIGHT,38.105460,28.215060,,,CC0-1.0,5,Beydağ Dam,,göl,baraj,Q12323
+Q8077464,Çaltıkoru Barajı,SIGHT,39.243260,27.335380,,,CC0-1.0,5,Çaltıkoru Dam,,göl,baraj,Q12323
+Q19312065,Zeytinova Barajı,SIGHT,38.215000,27.731111,,,CC0-1.0,2,Zeytinova Dam,,göl,baraj,Q12323
+Q31188929,Bozköy Barajı,SIGHT,38.626389,26.465278,,,CC0-1.0,1,Bozköy Dam,,göl,baraj,Q12323
+Q6009493,Rahmanlar Barajı,SIGHT,38.274444,27.931111,,,CC0-1.0,1,Rahmanlar Dam,,göl,baraj,Q12323
+Q6053142,Salman Barajı,SIGHT,38.583889,26.388889,,,CC0-1.0,1,Salman Dam,,göl,baraj,Q12323
+Q87451548,Mordoğan Barajı,SIGHT,38.526944,26.560000,,,CC0-1.0,0,Mordoğan Dam,,göl,baraj,Q12323
+Q49314104,Tuzla Gölü,SIGHT,38.917778,26.993056,,,CC0-1.0,1,Lake Tuzla,Tuzla Gölü (göl),göl,deniz kulağı,Q187223
+Q49316540,Çatal Gölü,SIGHT,37.992778,27.317222,,,CC0-1.0,1,Lake Çatal,,göl,göl,Q23397
+Q49318661,İris Gölü,SIGHT,38.489167,26.446389,,,CC0-1.0,1,Lake İris,,göl,intermittent lake,Q10313934

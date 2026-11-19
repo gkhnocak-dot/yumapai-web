@@ -1,0 +1,27 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q674535,Kılıçkaya Barajı,SIGHT,40.242050,38.187080,,,CC0-1.0,9,Kılıçkaya Dam,Kılıçkaya Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090346,Çamlıgöze Barajı,SIGHT,40.229020,38.076140,,,CC0-1.0,7,Çamlıgöze Dam,Çamlıgöze Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090421,Gölova Barajı,SIGHT,40.045010,38.622590,,,CC0-1.0,6,Gölova Dam,,göl,baraj,Q12323
+Q1090485,4 Eylül Barajı,SIGHT,39.833720,37.062210,,,CC0-1.0,6,4 Eylül Dam,,göl,baraj,Q12323
+Q1090491,Mursal Barajı,SIGHT,39.143520,37.980990,,,CC0-1.0,6,Mursal Dam,Mursal Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090633,Gazibey Barajı,SIGHT,39.330420,36.665430,,,CC0-1.0,6,Gazibey Dam,,göl,baraj,Q12323
+Q478485,Yapıaltın Barajı,SIGHT,39.297760,36.415630,,,CC0-1.0,6,Yapıaltın Dam,,göl,baraj,Q12323
+Q8080114,İmranlı Barajı,SIGHT,39.880380,38.167780,,,CC0-1.0,5,İmranlı Dam,,göl,baraj,Q12323
+Q8079122,Pusat-Özen Barajı,SIGHT,40.016670,37.402540,,,CC0-1.0,4,Özen Dam,,göl,baraj,Q12323
+Q6367685,Karacalar Barajı,SIGHT,39.449480,36.953810,,,CC0-1.0,3,Karacalar Dam,,göl,baraj,Q12323
+Q117222875,Çermikler Barajı,SIGHT,39.400333,36.280000,,,CC0-1.0,1,,Çermikler Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q32825693,Altınoluk Barajı,SIGHT,40.021389,36.757500,,,CC0-1.0,1,Altınoluk Barajı,,göl,baraj,Q12323
+Q32826588,Avcıpınarı Barajı,SIGHT,39.901944,36.472500,,,CC0-1.0,1,Avcıpınarı Barajı,,göl,baraj,Q12323
+Q32829946,Boğazdere Barajı,SIGHT,39.357500,36.903333,,,CC0-1.0,1,Boğazdere Barajı,,göl,baraj,Q12323
+Q32836371,Delice Barajı,SIGHT,39.915556,38.109722,,,CC0-1.0,1,Delice Barajı,,göl,baraj,Q12323
+Q32836372,Deliilyas Barajı,SIGHT,39.330833,36.797500,,,CC0-1.0,1,Deliilyas Barajı,,göl,baraj,Q12323
+Q34822632,Güzeloğlan Barajı,SIGHT,39.244444,36.687500,,,CC0-1.0,1,Güzeloğlan Barajı,,göl,baraj,Q12323
+Q34826550,Harmancık Barajı,SIGHT,39.563333,37.174167,,,CC0-1.0,1,Harmancık Barajı,,göl,baraj,Q12323
+Q34853764,Karagöl Barajı,SIGHT,39.232222,36.226944,,,CC0-1.0,1,Karagöl Barajı,,göl,baraj,Q12323
+Q34857354,Kıldır Barajı,SIGHT,39.920556,36.787778,,,CC0-1.0,1,Kıldır Barajı,,göl,baraj,Q12323
+Q34896563,Mudarasın Barajı,SIGHT,39.137222,36.230000,,,CC0-1.0,1,Mudarasın Barajı,,göl,baraj,Q12323
+Q34919182,Sarıçal Barajı,SIGHT,39.858056,36.286389,,,CC0-1.0,1,Sarıçal Barajı,,göl,baraj,Q12323
+Q34960849,Yıldız Barajı,SIGHT,40.079722,36.924167,,,CC0-1.0,1,Yıldız Barajı,,göl,baraj,Q12323
+Q34971703,Üçtepe Barajı,SIGHT,39.562500,37.205000,,,CC0-1.0,1,Üçtepe Barajı,,göl,baraj,Q12323
+Q49301574,Demiryurt Gölü,SIGHT,39.880000,37.596667,,,CC0-1.0,1,Lake Demiryurt,,göl,göl,Q23397
+Q34857411,Kılıçkaya Baraj Gölü,SIGHT,40.184444,38.327778,,,CC0-1.0,0,Kılıçkaya Reservoir,,göl,baraj gölü,Q131681

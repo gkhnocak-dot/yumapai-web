@@ -1,0 +1,15 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1091457,Karacaören-1 Barajı,SIGHT,37.370010,30.829120,,,CC0-1.0,9,Karacaören-1 Dam,Karacaören-1 Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090372,Karacaören-2 Barajı,SIGHT,37.306720,30.808880,,,CC0-1.0,8,Karacaören-2 Dam,Karacaören-2 Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q2885336,Yapraklı Barajı,SIGHT,37.029340,29.453060,,,CC0-1.0,8,Yapraklı Dam,,göl,baraj,Q12323
+Q1089302,Onaç-1 Barajı,SIGHT,37.481050,30.568580,,,CC0-1.0,6,Onaç-1 Dam,,göl,baraj,Q12323
+Q1089629,Kızılsu Barajı,SIGHT,37.337630,30.562890,,,CC0-1.0,6,Kızılsu Dam,,göl,baraj,Q12323
+Q1090440,Çavdır Barajı,SIGHT,37.072100,29.729600,,,CC0-1.0,6,Çavdır Dam,,göl,baraj,Q12323
+Q1090627,Bademli Barajı,SIGHT,37.434040,29.909460,,,CC0-1.0,6,Bademli Dam,,göl,baraj,Q12323
+Q1748415,Onaç-2 Barajı,SIGHT,37.491460,30.569690,,,CC0-1.0,5,Onaç-2 Dam,,göl,baraj,Q12323
+Q20472019,Eşen 1 Barajı,SIGHT,36.834560,29.500820,,,CC0-1.0,3,,Eşen 1 Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q2885176,Karamanlı Barajı,SIGHT,37.396000,29.836200,,,CC0-1.0,3,Karamanlı Barajı,,göl,baraj,Q12323
+Q4883041,Belkaya Barajı,SIGHT,37.284300,29.602220,,,CC0-1.0,3,Belkaya Dam,,göl,baraj,Q12323
+Q32828061,Belenli Barajı,SIGHT,37.287778,29.988056,,,CC0-1.0,1,Belenli Barajı,,göl,baraj,Q12323
+Q34967019,Çavdır Barajı,SIGHT,37.154167,29.724167,,,CC0-1.0,1,Çavdır Barajı,,göl,baraj,Q12323
+Q30680540,Yaraşlı Gölü,SIGHT,37.567000,29.966000,,,CC0-1.0,1,Lake Yaraşlı,,göl,göl,Q23397

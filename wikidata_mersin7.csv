@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q1090431,Berdan Barajı,SIGHT,36.966017,34.895261,,,CC0-1.0,7,Berdan Dam,Berdan Barajı ve Hidroelektrik Santrali,göl,baraj,Q12323
+Q1090638,Gezende Barajı,SIGHT,36.528508,33.194423,,,CC0-1.0,6,Gezende Dam,,göl,arch dam,Q890545
+Q30621512,Pamukluk Barajı,SIGHT,37.066667,34.716667,,,CC0-1.0,4,Pamukluk Dam,,göl,baraj,Q12323
+Q985220,Kayraktepe Barajı,SIGHT,36.513889,33.518333,,,CC0-1.0,2,Kayraktepe Dam,,göl,baraj,Q12323
+Q49301695,Dipsiz Göl,SIGHT,36.738611,34.911944,,,CC0-1.0,1,Dipsiz Göl,,göl,göl,Q23397

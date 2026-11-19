@@ -1,0 +1,6 @@
+sourceRecordId,name,category,lat,lon,address,district,licence,sitelinks,enName,altNames,kategori,wdClass,p31
+Q612091,Kırklareli Barajı,SIGHT,41.738960,27.279130,,,CC0-1.0,7,Kırklareli Dam,,göl,baraj,Q12323
+Q2885179,Kayalıköy Barajı,SIGHT,41.788520,27.135460,,,CC0-1.0,5,Kayalıköy Dam,,göl,baraj,Q12323
+Q34919156,Sarıcalı Barajı,SIGHT,41.379167,27.237778,,,CC0-1.0,1,Sarıcalı Barajı,,göl,baraj,Q12323
+Q34932649,Sofuhalil Barajı,SIGHT,41.475556,27.187222,,,CC0-1.0,1,Sofuhalil Barajı,,göl,baraj,Q12323
+Q34971683,Üsküp Barajı,SIGHT,41.767778,27.423056,,,CC0-1.0,1,Üsküp Barajı,,göl,baraj,Q12323
