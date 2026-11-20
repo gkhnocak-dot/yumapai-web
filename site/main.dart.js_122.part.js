@@ -1,14 +1,14 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-Mb(d){return C.elr(d)},
-elr(d){var x=0,w=A.A(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+Mb(d){return C.elo(d)},
+elo(d){var x=0,w=A.A(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
 var $async$Mb=A.w(function(e,f){if(e===1){u.push(f)
 x=v}for(;;)switch(x){case 0:n=A.en(d,0,null)
 v=3
 t=!1
 v=7
 x=10
-return A.u(A.qP(n,B.rv,null),$async$Mb)
+return A.u(A.qP(n,B.rw,null),$async$Mb)
 case 10:t=f
 v=3
 x=9
@@ -22,17 +22,17 @@ case 6:x=3
 break
 case 9:x=!t&&n.giK()==="yandexnavi"?11:12
 break
-case 11:s=D.dSL(d,$.n().oX!=="DRIVE")
+case 11:s=D.dSJ(d,$.n().oX!=="DRIVE")
 x=s!=null?13:14
 break
 case 13:x=15
-return A.u(A.qP(A.en(s,0,null),B.rv,null),$async$Mb)
+return A.u(A.qP(A.en(s,0,null),B.rw,null),$async$Mb)
 case 15:t=f
 case 14:case 12:p=t
 x=!p?16:17
 break
 case 16:x=18
-return A.u(A.qP(n,B.rv,"_self"),$async$Mb)
+return A.u(A.qP(n,B.rw,"_self"),$async$Mb)
 case 18:case 17:v=1
 x=5
 break
@@ -55,4 +55,4 @@ C=a.updateHolder(c[66],C)
 D=c[70]
 var z=a.updateTypes([])
 var y={b:A.aj("@")}};
-(a=>{a["3h0IbhXzz7Wk/xZnScuSXdh4RdU="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["nXu/ojA/OcyDLWvLt6sfhSJ8eYc="]=a.current})($__dart_deferred_initializers__);
