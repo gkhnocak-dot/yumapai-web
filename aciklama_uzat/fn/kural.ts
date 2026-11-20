@@ -76,9 +76,9 @@ const DIL_ETIKETI = /^\s*[\p{L}.-]+(?:\s+[\p{L}.-]+){0,2}\s*:\s/u;
 const UZUN_PARANTEZ = 120; // daha uzun parantez açıklama/ara sözdür; ilk cümleyi şişirip açıklamayı düşürmesin diye atılır
 const GURULTU = /[;ˈˌ]|\b(?:lit\.|pronounced|IPA|Osmanlıca|Yunanca|Latince|Arapça|Ermenice|Kürtçe|Farsça|telaffuz|okunuşu)(?![\p{L}])|[\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]/u;
 // "(Turkish: Atatürk Evi (Büyük Taarruz Karargahı))" gibi iç içe dil parantezini kapanışına kadar siler.
-function disParantezSil(s: string, etiket = DIL_ETIKETI): string {
+function disParantezSil(s: string, etiket = DIL_ETIKETI, dilBasi?: RegExp): string {
   for (let i = s.indexOf("("); i >= 0; i = s.indexOf("(", i + 1)) {
-    if (!etiket.test(s.slice(i + 1, i + 60)) && !/^\s*(?:lit\.|IPA)/.test(s.slice(i + 1, i + 10))) continue;
+    if (!etiket.test(s.slice(i + 1, i + 60)) && !/^\s*(?:lit\.|IPA)/.test(s.slice(i + 1, i + 10)) && !(dilBasi && dilBasi.test(s.slice(i + 1, i + 60)))) continue;
     let d = 0, j = i; for (; j < s.length; j++) { if (s[j] === "(") d++; else if (s[j] === ")" && --d === 0) break; }
     if (j >= s.length) continue; // kapanmayan: dengeli() zaten reddeder
     const bas = s.slice(0, i).replace(/\s+$/, ""); s = bas + s.slice(j + 1); i = bas.length - 1;
@@ -103,6 +103,17 @@ function gurultu(l: Lang): RegExp {
   g = new RegExp(`[;；؛ˈˌ]|(?<![\\p{L}])(?:lit\\.|pronounced|IPA|${DIL_SOZ[l]})(?![\\p{L}])|[${yazilar.map((y) => `\\p{Script=${y}}`).join("")}]`, "iu");
   gurultuRe.set(l, g); return g;
 }
+// İç içe dil parantezi: "(griechisch Ανάζαρβος (f. sg.), … (n. pl.))" baştaki dil sözcüğünden kapanışına kadar silinir (de Anavarza bulgusu).
+const dilBas = new Map<Lang, RegExp>();
+const DIL_BAS = (l: Lang) => dilBas.get(l) ?? (dilBas.set(l, new RegExp(`^\\s*(?:${DIL_SOZ[l]})(?![\\p{L}])`, "iu")), dilBas.get(l)!);
+// Parantez dışı dil glosu: de ", lateinisch Anazarbus,", es ", en turco Yunus Sütunu," / "—del inglés «…», …—", ru ", тур. Canhasan —", ar "بالتركية: Hacı …"/"بالتركيةهو".
+const DIS_GLOS: Partial<Record<Lang, [RegExp, string][]>> = {
+  de: [[/,\s*(?:alt|neu|mittel)?(?:türkisch|griechisch|lateinisch|armenisch|osmanisch|kurdisch|arabisch|persisch|georgisch|aramäisch|syrisch|englisch|französisch)\s+[^,;()]{1,80}?,\s*/giu, " "]],
+  es: [[/\s*—\s*(?:en|del)\s+(?:turco|griego(?:\s+antiguo)?|lat[ií]n|armenio|otomano|kurdo|[aá]rabe|persa|ingl[eé]s)\b[^—]{1,200}—\s*/giu, " "],
+    [/,\s*(?:en|del)\s+(?:turco|griego(?:\s+antiguo)?|lat[ií]n|armenio|otomano|kurdo|[aá]rabe|persa|ingl[eé]s)\s+[^,;()]{1,80}?,\s*/giu, " "]],
+  ru: [[/,\s*(?:тур|турец|греч|др\.-греч|лат|арм|осман|курд|араб|перс|англ)\.\s+[^,—–;()]{1,80}?(?=\s*[,—–])/gu, ""]],
+  ar: [[/\s*(?:بال(?:تركية|يونانية|عثمانية|لاتينية|أرمنية|كردية|فارسية|إنجليزية|إنكليزية)|التركية العثمانية)\s*:?\s*[\p{Script=Latin}\d\s.,'’-]*/gu, " "]],
+};
 const LATIN_GLOS = (l: Lang, ic: string) => (l === "ru" || l === "ar" || l === "ja") && /\p{Script=Latin}/u.test(ic) && !new RegExp(`[\\p{Script=${YAZI[l]}}]`, "u").test(ic) && !/^[\s\dIVXLCM.,–-]+$/.test(ic);
 export function temizleDil(ham: string, l: Lang): string {
   const ja = l === "ja";
@@ -110,9 +121,10 @@ export function temizleDil(ham: string, l: Lang): string {
   if (ja) s = s.replace(/（/g, "(").replace(/）/g, ")");
   // Dil arası bağlantı artığı: "（6都市連合、en:Doric hexapolis）" -> "（6都市連合）", "(en:Foo)" -> "" (ja Knidos, kuru çalıştırma bulgusu).
   s = s.replace(/[、,，]\s*[a-z]{2,3}:[^()、,，]*(?=\))/g, "").replace(/\(\s*[a-z]{2,3}:[^()]*\)/g, "");
-  s = disParantezSil(s, DIL_ETIKETI_U); const G = gurultu(l); const uzun = ja ? 60 : UZUN_PARANTEZ;
+  s = disParantezSil(s, DIL_ETIKETI_U, DIL_SOZ[l] ? DIL_BAS(l) : undefined); const G = gurultu(l); const uzun = ja ? 60 : UZUN_PARANTEZ;
   for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => G.test(ic) || DIL_ETIKETI_U.test(ic) || LATIN_GLOS(l, ic) || ic.length > uzun || ic.trim() === "" ||
-    (ja && /^[\p{Script=Hiragana}ー・、\s]+$/u.test(ic)) ? "" : m); // ja: yalnız hiragana parantez okunuştur
+    (ja && /^[\p{Script=Hiragana}\p{Script=Katakana}ー・、\s]+$/u.test(ic) && /\p{Script=Hiragana}/u.test(ic)) ? "" : m); // ja: hiragana içeren kana parantez okunuştur (「…の城壁（…のじょうへき）」)
+  for (const [r, y] of DIS_GLOS[l] ?? []) s = s.replace(r, y);
   s = s.replace(/\s+([,.;:!?،؛؟])/g, "$1").replace(/,\s*,/g, ",").replace(/،\s*،/g, "،").replace(/\(\s*\)/g, "").replace(/\s+/g, " ").trim();
   if (ja) s = s.replace(/\(/g, "（").replace(/\)/g, "）").replace(/\s*（/g, "（").replace(/）\s+(?=[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}])/gu, "）");
   return s;
@@ -184,6 +196,8 @@ export function girisParagraflari(ham: string, l: Lang = "tr"): string {
   // Yeni diller: kaynak işaretinden artan görünmez karakter (es/ar "… Palestina. \u200b") paragraf sonunu gizlemesin. tr/en yolu değişmez (bayt eşitliği).
   const gor = (x: string) => (ESKI(l) ? x : x.replace(/[\u200b\u200c\u200e\u200f\u2060\ufeff]/g, "")).trim();
   for (const p of ham.split(/\n+/).map(gor).filter(Boolean)) {
+    // Yeni diller: ilk paragraf liste girişiyse (":" ile biter) liste öğeleri metin sanılmaz; girişten önceki tam cümleler alınır, orada kesilir (es İssos bulgusu).
+    if (!ESKI(l) && /[:：]\s*$/.test(p)) { const c = cumleler(p, l); c.pop(); if (c.length) out.push(c.join(l === "ja" ? "" : " ")); break; }
     if (/[:：]\s*$/.test(p) || !sonMu(p, l)) { if (out.length) break; else continue; }
     out.push(p);
   }
@@ -423,8 +437,30 @@ function turkceAdlarDil(metin: string, ek: (string | null | undefined)[], l: Lan
 }
 // Hedef dilde başka dil sızıntısı denetimi (kuru çalıştırma özeti + testler): ru/ar/ja metninde özel ad biçiminde olmayan Latin sözcük dizisi;
 // de/es metninde Wikidata kalıp cümlesine giren İngilizce ifade. Türkiye, eklenen "(İstanbul)" ve rakam/birim sızıntı sayılmaz.
+// Hedef dilde olmaması gereken yazılar (her yeni dil): Yunan/Ermeni/Gürcü her zaman; Kiril/Arap/Çin-Japon yazısı kendi dili dışında.
+const YABANCI_YAZI: Record<string, RegExp> = {
+  de: /[\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hebrew}\p{Script=Syriac}]+/gu,
+  ru: /[\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Arabic}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hebrew}\p{Script=Syriac}]+/gu,
+  ar: /[\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Cyrillic}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hebrew}\p{Script=Syriac}]+/gu,
+  ja: /[\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Hebrew}\p{Script=Syriac}]+/gu,
+};
+YABANCI_YAZI.es = YABANCI_YAZI.de;
+// Temizlikten kaçan dil glosu kalıntısı (parantez dışında dil adı + başka dilde ad).
+const GLOS_KALINTI: Partial<Record<Lang, RegExp>> = {
+  de: /(?<![\p{L}])(?:alt|neu)?(?:türkisch|griechisch|lateinisch|armenisch|osmanisch|kurdisch|arabisch|persisch|georgisch|aramäisch)\s+\p{Lu}/giu,
+  es: /(?<![\p{L}])(?:en|del)\s+(?:turco|griego|lat[ií]n|armenio|otomano|kurdo|ingl[eé]s)\s+[«"\p{Lu}]/giu,
+  ru: /(?<![\p{L}])(?:тур|греч|лат|арм|осман|курд|англ)\.\s/gu,
+  ar: /بال(?:تركية|يونانية|عثمانية|لاتينية|أرمنية|كردية|فارسية|إنجليزية|إنكليزية)/gu,
+};
+const ULKE_KALINTI: Partial<Record<Lang, RegExp>> = { de: /\p{L}*Türkei\p{L}*/gu, es: /\p{L}*Turqu[íi]a\p{L}*/gu, ru: /\p{L}*Турци\p{L}*/gu };
 export function sizinti(metin: string, l: Lang): string[] {
   if (ESKI(l)) return [];
+  const yazi = [...metin.matchAll(YABANCI_YAZI[l])].map((m) => m[0]); const glos = GLOS_KALINTI[l] ? [...metin.matchAll(GLOS_KALINTI[l]!)].map((m) => m[0].trim()) : [];
+  // Ülke kuralı uygulanamayan bitişik/bozuk biçim (es kaynak "en labTurquía asiática") — cümle yazılmaz.
+  const ulke = [...metin.matchAll(ULKE_KALINTI[l] ?? /$^/g)].map((m) => m[0]);
+  return [...yazi, ...glos, ...ulke, ...sizintiLatin(metin, l)];
+}
+function sizintiLatin(metin: string, l: Lang): string[] {
   const t = metin.replace(/Türkiye/g, "").replace(/[(（][^()（）]*[)）]/g, (m) => (/^[(（]\p{Lu}[\p{L}' -]*[)）]$/u.test(m) ? "" : m));
   if (LATINSIZ(l)) return [...t.matchAll(/\p{Script=Latin}[\p{Script=Latin}'’.-]*(?:\s+\p{Script=Latin}[\p{Script=Latin}'’.-]*)*/gu)].map((m) => m[0].replace(/[.'’-]+$/, ""))
     .filter((w) => !/^(?:km²?|m²?|ha|CC|UNESCO|ICOMOS|[IVXLCM]+)$/.test(w) && !ozelAdBicimi(w));
@@ -438,7 +474,7 @@ const ALAN_DIL: Partial<Record<Lang, RegExp>> = {
   de: /(?<![\p{L}\p{N}])(?:Hektar|ha|km²|km2|m²|Quadratkilometer\p{L}*|Quadratmeter\p{L}*|Morgen)(?![\p{L}\p{N}])/iu,
   es: /(?<![\p{L}\p{N}])(?:hect[aá]reas?|ha|km²|km2|m²|kil[oó]metros? cuadrados?|metros? cuadrados?)(?![\p{L}\p{N}])/iu,
   ru: /(?<![\p{L}\p{N}])(?:га|гектар\p{L}*|км²|км2|м²|кв\. ?км|кв\. ?м|km²|m²)(?![\p{L}\p{N}])/iu,
-  ar: /(?<![\p{L}\p{N}])(?:هكتار\p{L}*|كم²|كم2|م²|كيلومتر مربع|كيلومترات مربعة|متر مربع|أمتار مربعة|km²|m²)(?![\p{L}\p{N}])/iu,
+  ar: /(?<![\p{L}\p{N}])(?:هكتار\p{L}*|ها|كم²|كم2|م²|م2|ميل²|ميل2|كيلومتر مربع|كيلومترات مربعة|متر مربع|أمتار مربعة|ميل مربع|km²|m²)(?![\p{L}\p{N}])/iu,
   ja: /(?:ヘクタール|平方キロメートル|平方メートル|km²|km2|m²|㎢|㎡|ha)(?![\p{L}])/u,
 };
 function metindeVar(metin: string, p: string, l: Lang): boolean {
@@ -449,12 +485,16 @@ export function kur(l: Lang, yer: Yer, e: Wd, L: Etiketler, oz: Ozet | null): So
   const ad = (ESKI(l) ? [e.labels?.tr, e.labels?.en] : [e.labels?.tr, e.labels?.en, e.labels?.[l]]).filter(Boolean) as string[];
   let wiki: string[] = []; let red: string | null = null;
   if (oz) { red = ozetGecerli(oz, e, yer, ad)?.red ?? null; if (!red) { wiki = wikiCumleleri(oz); if (!wiki.length) red = "cumle-yok"; } }
+  if (!ESKI(l) && wiki.length) { // son savunma: sızıntılı Wikipedia cümlesi atılır; ilk cümlede ise metin kurulmaz (ad/kimlik cümlesi olmadan kalan metin yazılmaz)
+    const temiz = wiki.map((c) => !sizinti(turkceAdlar(c, [yer.il, yer.ilce], l), l).length);
+    if (!temiz[0]) { wiki = []; red = "dil-sizintisi"; } else wiki = wiki.filter((_, i) => temiz.slice(0, i + 1).every(Boolean));
+  }
   if (!ESKI(l) && !wiki.length) return { yok: (red ? red + "; " : oz ? "" : "madde-yok; ") + "yeni-dil-wikipedia-sart" }; // Wikidata-yalnız metin yeni dillerde kurulmaz
   const hepsi = gercekler(e, L).filter((g) => g.cumle[l]).sort((a, b) => ONCELIK.indexOf(a.key) - ONCELIK.indexOf(b.key));
   const metin = " " + normL(wiki.join(" "), l) + " ";
   // Özette zaten geçen bilgi tekrarlanmaz.
   // Wikipedia metni varken Wikidata yapım yılı eklenmez (metindeki tarihle çelişme riski: Teşvikiye Camii 1854 / 1794).
-  const alanVar = (ESKI(l) ? /(?<![\p{L}\p{N}])(?:hektar\p{L}*|hectares?|ha|km²|km2|m²|dönüm\p{L}*|acres?|dekar\p{L}*)(?![\p{L}\p{N}])/iu : ALAN_DIL[l]!).test(wiki.join(" "));
+  const alanVar = (ESKI(l) ? /(?<![\p{L}\p{N}])(?:hektar\p{L}*|hectares?|ha|km²|km2|m²|dönüm\p{L}*|acres?|dekar\p{L}*)(?![\p{L}\p{N}])/iu : ALAN_DIL[l]!).test(ESKI(l) ? wiki.join(" ") : wiki.join(" ").replace(/ـ/g, "")); // ar: tatweel ("كـم2") birimi gizlemesin
   const yokla = (g: Gercek) => (ESKI(l) ? g.yoklama : [...g.yoklama, ...(g.yoklamaDil[l] ?? [])]);
   const yeni = hepsi.filter((g) => !(wiki.length && g.key === "yapim") && !(alanVar && g.key === "alan"))
     .filter((g) => !yokla(g).some((p) => p && (l === "ja" ? metindeVar(metin, p, l) : normL(p, l).length >= 2 && metin.includes(" " + normL(p, l) + " "))));
