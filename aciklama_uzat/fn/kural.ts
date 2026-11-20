@@ -16,6 +16,7 @@ export type Sonuc = {
   nWiki: number; nFact: number; facts: string[]; wikiRed?: string;
 };
 
+import { IL_TR, ILCE_TR } from "./yer_adlari.ts";
 const norm = (s: string) => s.replace(/İ/g, "i").replace(/I/g, "i").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "")
   .replace(/ı/g, "i").replace(/ß/g, "ss").replace(/[^a-z0-9]+/g, " ").trim();
 const lowerTr = (s: string) => s.replace(/İ/g, "i").replace(/I/g, "ı").toLowerCase();
@@ -196,6 +197,26 @@ export function acilis(yer: Yer, e: Wd, L: Etiketler, l: Lang): string | null {
   return `${ad} is ${/^[aeiou]/i.test(t) ? "an" : "a"} ${t}${konum}.`;
 }
 
+// ---- Reis kuralları (kilitli): ülke adı her dilde "Türkiye" (private.turkiye_ad ile aynı); il/ilçe adları Türkçe yazımıyla ----
+const katla = (s: string) => s.replace(/[İıŞşĞğÜüÖöÇçÂâÎîÛû]/g, (c) => "IiSsGgUuOoCcAaIiUu"["İıŞşĞğÜüÖöÇçÂâÎîÛû".indexOf(c)]);
+const kac = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+function adTablosu(ek: string[]): Map<string, string> {
+  const m = new Map<string, string>();
+  for (const a of [...ek, ...IL_TR, ...ILCE_TR]) { const k = katla(a); if (k !== a && !m.has(k)) m.set(k, a); }
+  return m;
+}
+const TABLO = adTablosu([]);
+const re = (m: Map<string, string>) => new RegExp(`(?<![\\p{L}\\p{N}])(${[...m.keys()].sort((a, b) => b.length - a.length).map(kac).join("|")})(?![\\p{L}\\p{N}])`, "gu");
+const TABLO_RE = re(TABLO);
+export function turkceAdlar(metin: string, ek: (string | null | undefined)[] = []): string {
+  let t = metin
+    .replace(/\s*\(\s*(?:Turkey|Turkiye|Türkei|Turquía|Turquia|Turquie|Turchia|Turcja|Turkije)\s*\)/g, "")
+    .replace(/(?<![\p{L}])(?:Turkey|Turkiye|Türkei|Turquía|Turquia|Turquie|Turchia|Turcja|Turkije)(?![\p{L}])/gu, "Türkiye");
+  const ekler = ek.filter((x): x is string => !!x && katla(x) !== x && !TABLO.has(katla(x)));
+  if (ekler.length) { const m = adTablosu(ekler); t = t.replace(re(m), (x) => m.get(x) ?? x); }
+  return t.replace(TABLO_RE, (x) => TABLO.get(x) ?? x);
+}
+
 export const MAX_KAR = 800, MAX_CUMLE = 6; // Wikipedia bölümü <= 600 + Wikidata gerçekleri
 export function kur(l: Lang, yer: Yer, e: Wd, L: Etiketler, oz: Ozet | null): Sonuc | { yok: string } {
   const ad = [e.labels?.tr, e.labels?.en].filter(Boolean) as string[];
@@ -223,6 +244,6 @@ export function kur(l: Lang, yer: Yer, e: Wd, L: Etiketler, oz: Ozet | null): So
     sec.push(c); anahtar.push(g.key); n += c.length + 1;
   }
   if (!wiki.length && sec.length < 2) return { yok: "wikidata-gercek<2(sigmadi)" };
-  const text = [...basi, ...sec].join(" ");
+  const text = turkceAdlar([...basi, ...sec].join(" "), [yer.il, yer.ilce]);
   return { text, wiki: wiki.length ? { lang: oz!.lang, title: oz!.title, url: oz!.url ?? "", rev: oz!.rev ?? null } : undefined, nWiki: wiki.length, nFact: sec.length, facts: anahtar, wikiRed: red ?? undefined };
 }
