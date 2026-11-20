@@ -403,6 +403,16 @@ def uuid_kimlikten(kimlik):
     return f"{h[:8]}-{h[8:12]}-4{h[13:16]}-8{h[17:20]}-{h[20:32]}"
 
 
+def anahtar_turu(anahtar):
+    """Teşhis (anahtarın kendisi yazılmaz): sb_secret_/sb_publishable_ öneki ya da JWT 'role' alanı."""
+    if anahtar.startswith("sb_"): return "_".join(anahtar.split("_")[:2])
+    try:
+        import base64
+        g = anahtar.split(".")[1]; return "jwt:" + json.loads(base64.urlsafe_b64decode(g + "=" * (-len(g) % 4))).get("role", "?")
+    except Exception:
+        return "bilinmiyor"
+
+
 def yukle_storage(dosya, yol, durum):
     """Private 'music' kovasına yükler. Yeni tip anahtarlar (sb_secret_…) JWT değildir: yalnız apikey başlığı gider; eski JWT anahtarda Bearer da eklenir.
     Yanıt gövdesi kayda yazılır (yalnız ilk 120 karakter, anahtar içermez). Yetki/kova hatası tüm yüklemeyi kapatır; tek dosya hatası kapatmaz (üst üste 3 hata kapatır)."""
@@ -420,7 +430,7 @@ def yukle_storage(dosya, yol, durum):
         govde = e.read(300).decode("utf-8", "replace").replace(anahtar, "***").replace("\n", " ")[:120]
         durum["ust_uste_hata"] = durum.get("ust_uste_hata", 0) + 1
         if e.code in (401, 403) or "ucket not found" in govde or durum["ust_uste_hata"] >= 3: durum["kapali"] = True
-        return f"yukleme_hata_{e.code}:{govde}"
+        return f"yukleme_hata_{e.code}[anahtar={anahtar_turu(anahtar)}]:{govde}"
     except (urllib.error.URLError, OSError) as e:
         durum["ust_uste_hata"] = durum.get("ust_uste_hata", 0) + 1
         if durum["ust_uste_hata"] >= 3: durum["kapali"] = True
