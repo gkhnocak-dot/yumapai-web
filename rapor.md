@@ -1,0 +1,50 @@
+# Müzik çekimi raporu
+- Alınan: 48  Atlanan: 45  Toplam: 143.6 MiB
+- Storage yükleme: ['atlandi', 'yukleme_hata_400[anahtar=sb_publishable]:{"statusCode":"403","error":"Unauthorized","message":"new row violates row-level security policy","code":"AccessDenied"}']
+- ATLANDI inc-ethereal-relaxation (Ethereal Relaxation): sure_uygun_degil_1686
+- ATLANDI inc-healing (Healing): sure_uygun_degil_520
+- ATLANDI inc-peace-of-mind (Peace of Mind): sure_uygun_degil_2157
+- ATLANDI wc-bach-cello-suite-no-1-pr-lude-fopseh (Bach: Cello Suite No. 1, Prélude (Fopseh)): http_429
+- ATLANDI wc-bach-cello-suite-no-1-i-pr-lude (Bach: Cello Suite No. 1, I. Prélude): http_429
+- ATLANDI wc-bach-cello-suite-no-1-iv-sarabande (Bach: Cello Suite No. 1, IV. Sarabande): http_429
+- ATLANDI wc-bach-cello-suite-no-1-ii-allemande (Bach: Cello Suite No. 1, II. Allemande): http_429
+- ATLANDI wc-bach-violin-sonata-no-1-i-adagio (Bach: Violin Sonata No. 1, I. Adagio): http_429
+- ATLANDI wc-chopin-variations-for-flute-and-piano (Chopin: Variations for Flute and Piano): http_429
+- ATLANDI wc-chopin-tude-op-25-no-1-harp-study (Chopin: Étude Op. 25 No. 1 (Harp Study)): commons_TR_70_yil_dolmadi:2014
+- ATLANDI wc-schubert-ave-maria-keman-ve-piyano (Schubert: Ave Maria (keman ve piyano)): http_429
+- ATLANDI wc-beethoven-keman-sonat-no-5-bahar-ii (Beethoven: Keman Sonatı No. 5 (Bahar), II): http_429
+- ATLANDI wc-beethoven-keman-sonat-no-5-bahar-i (Beethoven: Keman Sonatı No. 5 (Bahar), I): http_429
+- ATLANDI wc-beethoven-keman-sonat-no-5-bahar-iv (Beethoven: Keman Sonatı No. 5 (Bahar), IV): http_429
+- ATLANDI wc-beethoven-piyano-sonat-no-28-ii (Beethoven: Piyano Sonatı No. 28, II): http_429
+- ATLANDI wc-mozart-sihirli-fl-t-uvert-r (Mozart: Sihirli Flüt Uvertürü): http_429
+- ATLANDI wc-mozart-fl-t-kon-ertosu-k-313-i (Mozart: Flüt Konçertosu K. 313, I): commons_TR_70_yil_dolmadi:2008
+- ATLANDI wc-el-noi-de-la-mare-gitar (El Noi de la Mare (gitar)): commons_yasak_lisans_sablonu
+- ATLANDI wc-respighi-balletto-detto-il-conte-orlando (Respighi: Balletto detto Il conte Orlando): commons_TR_70_yil_dolmadi:2010
+- ATLANDI wc-scott-joplin-pleasant-moments-piyano-rulosu (Scott Joplin: Pleasant Moments (piyano rulosu)): http_429
+- ATLANDI wc-james-scott-don-t-jazz-me-rag-1921 (James Scott: Don't Jazz Me Rag (1921)): commons_yasak_lisans_sablonu
+- ATLANDI wc-irving-berlin-the-ragtime-violin-1911 (Irving Berlin: The Ragtime Violin (1911)): commons_yasak_lisans_sablonu
+- ATLANDI wc-at-the-jazz-band-ball-1918 (At the Jazz Band Ball (1918)): commons_pd_kayit_sablonu_yok
+- ATLANDI wc-original-dixieland-jass-band-livery-stable-blues-1917 (Original Dixieland Jass Band: Livery Stable Blues (1917)): http_429
+- ATLANDI wc-fred-longshaw-chili-pepper-1927 (Fred Longshaw: Chili Pepper (1927)): http_429
+- ATLANDI wc-us-army-jazz-ambassadors-sweet-georgia-brown (US Army Jazz Ambassadors: Sweet Georgia Brown): commons_TR_70_yil_dolmadi:2017
+- ATLANDI wc-pixinguinha-sofres-porque-queres-1919 (Pixinguinha: Sofres porque queres (1919)): commons_pd_kayit_sablonu_yok
+- ATLANDI wc-kuzey-kaliforniya-halk-m-zi-i-mazurka (Kuzey Kaliforniya halk müziği: Mazurka): http_429
+- ATLANDI wc-purrple-cat-cloud-watching (Purrple Cat: Cloud Watching): http_429
+- ATLANDI wc-purrple-cat-indigo-dreams (Purrple Cat: Indigo Dreams): http_429
+- ATLANDI wc-purrple-cat-opening-the-window-for-some-fresh-air (Purrple Cat: Opening the Window for Some Fresh Air): http_429
+- ATLANDI wc-purrple-cat-saturday-morning (Purrple Cat: Saturday Morning): http_429
+- ATLANDI wc-purrple-cat-walking-to-the-park-at-3-a-m (Purrple Cat: Walking to the Park at 3 A.M.): http_429
+- ATLANDI wc-purrple-cat-this-feeling (Purrple Cat: This Feeling): http_429
+- ATLANDI wc-loyalty-freak-music-softly (Loyalty Freak Music: Softly): http_429
+- ATLANDI wc-loyalty-freak-music-beach (Loyalty Freak Music: Beach): http_429
+- ATLANDI wc-loyalty-freak-music-old-saga (Loyalty Freak Music: Old Saga): http_429
+- ATLANDI wc-loyalty-freak-music-sweet-you (Loyalty Freak Music: Sweet You): http_429
+- ATLANDI wc-loyalty-freak-music-love-her (Loyalty Freak Music: Love Her): http_429
+- ATLANDI wc-musiclfiles-warm-sunset (MusicLFiles: Warm Sunset): http_429
+- ATLANDI wc-raspberrymusic-lofi-hip-hop-upbeat (Raspberrymusic: Lofi Hip Hop Upbeat): http_429
+- ATLANDI wc-sascha-ende-thundering-highlands (Sascha Ende: Thundering Highlands): http_429
+- ATLANDI wc-axletree-breezy-may-acoustic (Axletree: Breezy May Acoustic): http_429
+- ATLANDI wc-rabindra-sangeet-pran-chai-chokkhu-na-chay-piyano (Rabindra Sangeet: Pran chai chokkhu na chay (piyano)): http_429
+- ATLANDI wc-rabindra-sangeet-dariye-achho-tumi-amar-gitar (Rabindra Sangeet: Dariye achho tumi amar (gitar)): http_429
+- Incompetech resmi liste keşfi (5 adres): [{"url": "https://incompetech.com/music/royalty-free/music.html", "bayt": 29732}, {"url": "https://incompetech.com/music/royalty-free/pieces.json", "bayt": 881512, "by4_isareti": 0, "ornek": "[{\"title\":\"The Britons\",\"filename\":\"The Britons.mp3\",\"length\":\"00:05:07\",\"instruments\":\"Lute, Recorder, Drums, Flute, Guitar\",\"genre\":\"22\",\"bpm\":\"180\",\"description\":\"Tavern music like from the olden d"}, {"url": "https://incompetech.com/music/royalty-free/isrc_to_name.php", "bayt": 4244, "by4_isareti": 0, "ornek": " <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <title>Royalty Free Music - ISRC Code to Track Name Lookup</t"}, {"url": "https://incompetech.com/music/royalty-free/full_list.php", "bayt": 4307, "by4_isareti": 0, "ornek": " <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <title>incompetech Music - All Tracks in Alphabetical Order</"}, {"site_lisansi": {"url": "https://incompetech.com/music/royalty-free/licenses/", "sha256": "479019ed42fd8384c63c04bd95dc6d0e0e0da505ddd6f567a13018c724f8416d", "cekildi": "2026-11-20T23:26:55Z", "alinti": "Creative Commons: By Attribution 4.0\\n\" + \"http://creativecommons.org/licenses/by/4.0/\"; document.getElementBy"}, "neden": ""}]
+- Openverse ses kaynakları: ['jamendo', 'wikimedia_audio', 'freesound']; FMA/Musopen yok: True; hata sayısı: 0

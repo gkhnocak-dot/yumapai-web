@@ -1,0 +1,33 @@
+[
+ {
+  "url": "https://incompetech.com/music/royalty-free/music.html",
+  "bayt": 29732
+ },
+ {
+  "url": "https://incompetech.com/music/royalty-free/pieces.json",
+  "bayt": 881512,
+  "by4_isareti": 0,
+  "ornek": "[{\"title\":\"The Britons\",\"filename\":\"The Britons.mp3\",\"length\":\"00:05:07\",\"instruments\":\"Lute, Recorder, Drums, Flute, Guitar\",\"genre\":\"22\",\"bpm\":\"180\",\"description\":\"Tavern music like from the olden d"
+ },
+ {
+  "url": "https://incompetech.com/music/royalty-free/isrc_to_name.php",
+  "bayt": 4244,
+  "by4_isareti": 0,
+  "ornek": " <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <title>Royalty Free Music - ISRC Code to Track Name Lookup</t"
+ },
+ {
+  "url": "https://incompetech.com/music/royalty-free/full_list.php",
+  "bayt": 4307,
+  "by4_isareti": 0,
+  "ornek": " <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <title>incompetech Music - All Tracks in Alphabetical Order</"
+ },
+ {
+  "site_lisansi": {
+   "url": "https://incompetech.com/music/royalty-free/licenses/",
+   "sha256": "479019ed42fd8384c63c04bd95dc6d0e0e0da505ddd6f567a13018c724f8416d",
+   "cekildi": "2026-11-20T23:26:55Z",
+   "alinti": "Creative Commons: By Attribution 4.0\\n\" + \"http://creativecommons.org/licenses/by/4.0/\"; document.getElementBy"
+  },
+  "neden": ""
+ }
+]
