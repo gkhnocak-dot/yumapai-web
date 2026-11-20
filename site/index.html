@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
   <base href="/">
-  <meta name="yu-release" content="c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074">
+  <meta name="yu-release" content="d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>YuMapAI</title>
@@ -14,8 +14,8 @@
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#05080E">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="YuMapAI">
-  <link rel="icon" type="image/png" href="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/favicon.png">
-  <link rel="apple-touch-icon" href="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/favicon.png">
+  <link rel="apple-touch-icon" href="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/icons/Icon-192.png">
   <link rel="manifest" href="manifest.json">
   <meta property="og:site_name" content="YuMapAI">
   <meta property="og:locale" content="tr_TR">
@@ -23,11 +23,11 @@
   <meta property="og:description" content="Türkiye'yi keşfet, gezini planla. Yumy gezi rehberi seninle.">
   <meta property="og:type" content="website">
   <meta property="og:image" content="icons/Icon-512.png">
-  <link rel="stylesheet" href="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/yu-web.css">
+  <link rel="stylesheet" href="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/yu-web.css">
   <!-- the engine script is the same on every browser: start its download now instead of after flutter_bootstrap.js ran -->
-  <link rel="preload" href="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/main.dart.js" as="script">
+  <link rel="preload" href="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/main.dart.js" as="script">
   <!-- Açılış plakası HTML’de de Flutter’da da aynı çözülmüş görüntüden oluşur. -->
-  <link rel="preload" href="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/assets/assets/images/yumapai-acilis.webp" as="image" type="image/webp" crossorigin="anonymous">
+  <link rel="preload" href="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/assets/assets/images/yumapai-acilis.webp" as="image" type="image/webp" crossorigin="anonymous">
   <style id="yu-file-input">
     /* Fotoğraf seçicinin gizli <input type=file> öğesi: iOS menüsü bu öğeye bağlanır; görünmez, 1 px, ekranın üst köşesinde */
     flt-image-picker-inputs, flt-image-picker-inputs input, flt-file-picker-inputs, flt-file-picker-inputs input,
@@ -39,12 +39,12 @@
   </style>
 </head>
 <body>
-  <div id="yu-splash" aria-hidden="true"><img src="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/assets/assets/images/yumapai-acilis.webp" alt="" width="196" height="196" crossorigin="anonymous"></div>
+  <div id="yu-splash" aria-hidden="true"><img src="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/assets/assets/images/yumapai-acilis.webp" alt="" width="196" height="196" crossorigin="anonymous"></div>
   <button type="button" id="yu-sw-update" data-yu-update hidden>Yeni sürüm hazır · Yenile</button>
   <noscript><p class="yu-noscript">YuMapAI'yi kullanmak için tarayıcında JavaScript açık olmalı.</p></noscript>
   <!-- Flutter’dan önce yönlendirme, dil ve talep üzerine harita yükleme kancalarını kur. -->
-  <script src="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/yu-web.js"></script>
-  <script src="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/yu-sw-init.js" defer></script>
-  <script src="yu-release/c7cde1d1b2a1514a700f5210387fed2daa46de7796c5d018c18e933685bba6d4-51299e8186f0130ee632c074/flutter_bootstrap.js" async></script>
+  <script src="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/yu-web.js"></script>
+  <script src="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/yu-sw-init.js" defer></script>
+  <script src="yu-release/d2eb1fe9bca0c13d86f71d8355cbe6b4c7ec8739639bcfa2379cc5106d7ad506-18d3390db9187b48121bcf93/flutter_bootstrap.js" async></script>
 </body>
 </html>
