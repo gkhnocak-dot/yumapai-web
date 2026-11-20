@@ -78,7 +78,6 @@ void main() { vUv = uv; gl_Position = vec4(position.xy, 0.0, 1.0); }`;
 
 const ORTAK_GLSL = `
 float karma(vec2 p) { return fract(sin(dot(p, vec2(12.9898, 78.233))) * 43758.5453); }
-float elips(vec2 p, vec2 c, vec2 r) { return length((p - c) / r); }
 float gauss(vec2 p, vec2 c, vec2 r) { vec2 d = (p - c) / r; return exp(-dot(d, d)); }`;
 
 const YUZ_VS = `
@@ -87,31 +86,32 @@ varying vec2 vUv;
 varying float vKenar;
 void main() { vUv = uv; vKenar = kenar; gl_Position = vec4(position.xy, 0.0, 1.0); }`;
 
-// Cilt maskesi: yüz ovalinin içi 1 (kenarda yumuşak), göz, kaş, dudak ve burun delikleri 0.
+// Cilt maskesi: yüz ağının içi 1, yüz konturuna doğru yumuşakça 0 (ağ yüz konturundan dışarı taşmaz). Göz, kaş, dudak ve
+// burun delikleri ayrı çizilir (DELIK_*): bu kişinin gerçek landmark konturlarından, kanonik doku koordinatından değil.
 const MASKE_FS = `
 varying vec2 vUv;
 varying float vKenar;
-${ORTAK_GLSL}
 void main() {
   float m = smoothstep(0.0, 1.0, vKenar);
-  m *= smoothstep(1.0, 1.4, elips(vUv, vec2(0.352, 0.385), vec2(0.085, 0.05)));
-  m *= smoothstep(1.0, 1.4, elips(vUv, vec2(0.648, 0.385), vec2(0.085, 0.05)));
-  m *= smoothstep(1.0, 1.5, elips(vUv, vec2(0.33, 0.275), vec2(0.11, 0.04)));
-  m *= smoothstep(1.0, 1.5, elips(vUv, vec2(0.67, 0.275), vec2(0.11, 0.04)));
-  m *= smoothstep(1.0, 1.35, elips(vUv, vec2(0.5, 0.695), vec2(0.135, 0.05)));
-  m *= smoothstep(0.9, 1.3, elips(vUv, vec2(0.462, 0.565), vec2(0.03, 0.018)));
-  m *= smoothstep(0.9, 1.3, elips(vUv, vec2(0.538, 0.565), vec2(0.03, 0.018)));
   gl_FragColor = vec4(m, m, m, 1.0);
 }`;
 
-// Taban: kamera karesi; cilt maskesinde kenar koruyan yumuşatma + ışıltı.
+// Delik: kontur içi tam (a = 1), kontur dışındaki halkada 0'a iner; maskeyi siyahla örter (m · (1 − a)).
+const DELIK_VS = `
+attribute float alfa;
+varying float vA;
+void main() { vA = alfa; gl_Position = vec4(position.xy, 0.0, 1.0); }`;
+const DELIK_FS = `
+varying float vA;
+void main() { gl_FragColor = vec4(0.0, 0.0, 0.0, vA); }`;
+
+// Taban: kamera karesi; cilt maskesinde kenar koruyan, ölçülü yumuşatma (renk/parlaklık eklenmez).
 const TABAN_FS = `
 uniform sampler2D tKaynak;
 uniform sampler2D tMaske;
 uniform vec2 uTexel;
 uniform float uYaricap;
 uniform float uPuruz;
-uniform float uIsilti;
 uniform float uYuz;
 varying vec2 vUv;
 void main() {
@@ -125,13 +125,11 @@ void main() {
       float r = sqrt((float(i) + 0.5) / 20.0) * uYaricap;
       vec3 s = texture2D(tKaynak, vUv + vec2(cos(a), sin(a)) * r * uTexel).rgb;
       vec3 d = s - c;
-      float w = exp(-dot(d, d) * 55.0);
+      float w = exp(-dot(d, d) * 260.0); // ayrıntı (kaş kılı, kirpik, gölge) korunur, düşük karşıtlıklı doku yumuşar
       top += s * w;
       ag += w;
     }
     c = mix(c, top / ag, m * uPuruz);
-    float l = dot(c, vec3(0.299, 0.587, 0.114));
-    c += m * uIsilti * (0.035 + 0.09 * smoothstep(0.5, 0.95, l)) * vec3(1.0, 0.97, 0.94);
   }
   gl_FragColor = vec4(c, 1.0);
 }`;
@@ -140,7 +138,6 @@ void main() {
 const MAKYAJ_FS = `
 uniform float uAllik;
 uniform float uCil;
-uniform float uIsilti;
 uniform float uYuz;
 varying vec2 vUv;
 varying float vKenar;
@@ -167,11 +164,6 @@ void main() {
     float boy = 0.13 + 0.16 * karma(h + 3.7);
     float lek = smoothstep(boy, boy * 0.35, length(f - m)) * var;
     o = ust(o, vec3(0.45, 0.27, 0.17), lek * bolge * (0.5 + 0.4 * karma(h + 5.2)) * uCil);
-  }
-  if (uIsilti > 0.0) {
-    float h = gauss(vUv, vec2(0.30, 0.475), vec2(0.06, 0.022)) + gauss(vUv, vec2(0.70, 0.475), vec2(0.06, 0.022))
-      + gauss(vUv, vec2(0.5, 0.44), vec2(0.016, 0.07)) * 0.8;
-    o = ust(o, vec3(1.0, 0.98, 0.95), 0.10 * h * uIsilti);
   }
   if (o.a < 0.002) discard;
   gl_FragColor = vec4(o.rgb / o.a, o.a * k * uYuz);
@@ -304,6 +296,61 @@ export function kanonikGeometri() {
 }
 
 /** Her köşenin yüz ovaline uzaklığı (doku uzayında, 0 = kenar, 1 = içeride) — maskenin yumuşak kenarı. */
+// Pürüzsüzde keskin kalan bölgeler: landmark konturu + dışa genişleme oranı (kirpik, kaş kılı, dudak çizgisi için pay).
+const DELIKLER = [
+  { kontur: [33, 7, 163, 144, 145, 153, 154, 155, 133, 173, 157, 158, 159, 160, 161, 246], ic: 1.25, dis: 1.9 },
+  { kontur: [263, 249, 390, 373, 374, 380, 381, 382, 362, 398, 384, 385, 386, 387, 388, 466], ic: 1.25, dis: 1.9 },
+  { kontur: [70, 63, 105, 66, 107, 55, 65, 52, 53, 46], ic: 1.15, dis: 1.6 },
+  { kontur: [300, 293, 334, 296, 336, 285, 295, 282, 283, 276], ic: 1.15, dis: 1.6 },
+  { kontur: DUDAK_DIS, ic: 1.08, dis: 1.35 },
+];
+
+/** Delik ağı: her bölge için merkez + iç halka (kontur × ic, alfa 1) + dış halka (kontur × dis, alfa 0). */
+function delikGeometrisi() {
+  let n = 0;
+  for (const d of DELIKLER) n += 1 + 2 * d.kontur.length;
+  const konum = new T.BufferAttribute(new Float32Array(n * 3), 3);
+  konum.setUsage(T.DynamicDrawUsage);
+  const alfa = new Float32Array(n), indis = [];
+  let b = 0;
+  for (const d of DELIKLER) {
+    const k = d.kontur.length;
+    alfa[b] = 1;
+    for (let i = 0; i < k; i++) { alfa[b + 1 + i] = 1; alfa[b + 1 + k + i] = 0; }
+    for (let i = 0; i < k; i++) {
+      const j = (i + 1) % k, ic = b + 1, dis = b + 1 + k;
+      indis.push(b, ic + i, ic + j, ic + i, dis + i, dis + j, ic + i, dis + j, ic + j);
+    }
+    b += 1 + 2 * k;
+  }
+  const geo = new T.BufferGeometry();
+  geo.setAttribute('position', konum);
+  geo.setAttribute('alfa', new T.BufferAttribute(alfa, 1));
+  geo.setIndex(indis);
+  return { geo, konum };
+}
+
+/** Delik konumlarını o anki landmark piksellerinden ([lm], w × h) NDC'ye yazar. */
+function delikGuncelle(delik, lm, w, h) {
+  const p = delik.konum.array;
+  let b = 0;
+  const yaz = (i, x, y) => { p[i * 3] = (x / w) * 2 - 1; p[i * 3 + 1] = 1 - (y / h) * 2; };
+  for (const d of DELIKLER) {
+    const k = d.kontur.length;
+    let cx = 0, cy = 0;
+    for (const n of d.kontur) { cx += lm[n * 2]; cy += lm[n * 2 + 1]; }
+    cx /= k; cy /= k;
+    yaz(b, cx, cy);
+    for (let i = 0; i < k; i++) {
+      const x = lm[d.kontur[i] * 2] - cx, y = lm[d.kontur[i] * 2 + 1] - cy;
+      yaz(b + 1 + i, cx + x * d.ic, cy + y * d.ic);
+      yaz(b + 1 + k + i, cx + x * d.dis, cy + y * d.dis);
+    }
+    b += 1 + 2 * k;
+  }
+  delik.konum.needsUpdate = true;
+}
+
 function kenarDegerleri() {
   const k = new Float32Array(468);
   for (let i = 0; i < 468; i++) {
@@ -549,10 +596,18 @@ export class Sahne {
     const mm = new T.Mesh(yg, new T.ShaderMaterial({ vertexShader: YUZ_VS, fragmentShader: MASKE_FS, depthTest: false, depthWrite: false, side: T.DoubleSide }));
     mm.frustumCulled = false;
     this.maskeSahne.add(mm);
+    this.delik = delikGeometrisi();
+    this.delikSahne = new T.Scene();
+    const dlm = new T.Mesh(this.delik.geo, new T.ShaderMaterial({
+      vertexShader: DELIK_VS, fragmentShader: DELIK_FS, transparent: true, blending: T.NormalBlending,
+      depthTest: false, depthWrite: false, side: T.DoubleSide,
+    }));
+    dlm.frustumCulled = false;
+    this.delikSahne.add(dlm);
 
     this.makyaj = new T.ShaderMaterial({
       vertexShader: YUZ_VS, fragmentShader: MAKYAJ_FS, transparent: true, depthTest: false, depthWrite: false, side: T.DoubleSide,
-      uniforms: { uAllik: { value: 0 }, uCil: { value: 0 }, uIsilti: { value: 0 }, uYuz: { value: 0 } },
+      uniforms: { uAllik: { value: 0 }, uCil: { value: 0 }, uYuz: { value: 0 } },
     });
     this.makyajSahne = new T.Scene();
     const ym = new T.Mesh(yg, this.makyaj);
@@ -583,7 +638,7 @@ export class Sahne {
 
     this.taban = tamEkran(TABAN_FS, {
       tKaynak: { value: null }, tMaske: { value: this.rtMaske.texture }, uTexel: { value: new T.Vector2() },
-      uYaricap: { value: 6 }, uPuruz: { value: 0 }, uIsilti: { value: 0 }, uYuz: { value: 0 },
+      uYaricap: { value: 6 }, uPuruz: { value: 0 }, uYuz: { value: 0 },
     });
     this.son = tamEkran(SON_FS, {
       tSahne: { value: this.rtSahne.texture }, tMaske: { value: this.rtMaske.texture }, uAyna: { value: 0 },
@@ -774,7 +829,7 @@ export class Sahne {
     const a = this.gorunurluk;
     const yuzGerek = a > 0.001;
     const maskeGerek = yuzGerek && (e === 'puruzsuz' || e === 'altin_saat');
-    const makyajGerek = yuzGerek && (e === 'allik' || e === 'cil' || e === 'puruzsuz');
+    const makyajGerek = yuzGerek && (e === 'allik' || e === 'cil');
 
     if (yuzGerek) {
       const p = this.yuzKonum.array;
@@ -791,18 +846,22 @@ export class Sahne {
         }
       }
       this.dudakKonum.needsUpdate = true;
+      if (e === 'puruzsuz') delikGuncelle(this.delik, this.lm, this.w, this.h);
     }
 
     r.setClearColor(0x000000, 1);
     r.setRenderTarget(this.rtMaske);
     r.clear();
-    if (maskeGerek) r.render(this.maskeSahne, this.orto);
+    if (maskeGerek) {
+      r.render(this.maskeSahne, this.orto);
+      if (e === 'puruzsuz') r.render(this.delikSahne, this.orto);
+    }
 
     const tu = this.taban.malzeme.uniforms;
     const yuzGen = Math.hypot(this.lm[454 * 2] - this.lm[234 * 2], this.lm[454 * 2 + 1] - this.lm[234 * 2 + 1]);
-    tu.uYaricap.value = Math.max(2, yuzGen * 0.018) * (this.rtSahne.width / Math.max(1, this.w));
-    tu.uPuruz.value = e === 'puruzsuz' ? 1 : 0;
-    tu.uIsilti.value = e === 'puruzsuz' ? 1 : 0;
+    // Yarıçap yüz genişliğiyle ölçeklenir ama sınırlıdır (yakın çekimde yüz bulanık bir lekeye dönmez).
+    tu.uYaricap.value = Math.min(9, Math.max(2, yuzGen * 0.012)) * (this.rtSahne.width / Math.max(1, this.w));
+    tu.uPuruz.value = e === 'puruzsuz' ? 0.7 : 0;
     tu.uYuz.value = a;
     r.setRenderTarget(this.rtSahne);
     r.clear();
@@ -812,7 +871,6 @@ export class Sahne {
       const mu = this.makyaj.uniforms;
       mu.uAllik.value = e === 'allik' ? 1 : 0;
       mu.uCil.value = e === 'cil' ? 1 : 0;
-      mu.uIsilti.value = e === 'puruzsuz' ? 1 : 0;
       mu.uYuz.value = a;
       this.dudak.uniforms.uDudak.value = e === 'allik' ? 1 : 0;
       this.dudak.uniforms.uYuz.value = a;
@@ -926,7 +984,7 @@ export class Sahne {
     this.rtMaske.dispose();
     this.rtSahne.dispose();
     this.sahne3.environment?.dispose();
-    for (const s of [this.sahne3, this.maskeSahne, this.makyajSahne, this.taban.sahne, this.son.sahne]) {
+    for (const s of [this.sahne3, this.maskeSahne, this.delikSahne, this.makyajSahne, this.taban.sahne, this.son.sahne]) {
       s.traverse((o) => {
         o.geometry?.dispose();
         const ms = o.material ? (Array.isArray(o.material) ? o.material : [o.material]) : [];

@@ -12,8 +12,8 @@ YuMapAI kamera stüdyosu — efekt varlıkları ve lisansları (web/ar/). Ayrın
   yu-ar-sahne.js içinde parametrik olarak (geometri + gölgelendirici kodu) üretilir; dışarıdan model, doku ya da görsel
   dosyası YOKTUR. Yansımalar three.js RoomEnvironment (MIT) ile hesaplanır.
 
-Karusel küçük resimleri (assets/ar/efekt_*.jpg): test/web/ar_sahne.py ile aynı çizim motorunun, kanonik yüz ağından çizilen
-sentetik manken üzerindeki gerçek çiziminden üretilir (gerçek kişi fotoğrafı kullanılmaz).
+Karusel ve Efektler paneli simgeleri: lib/kamera_studyosu/ks_efekt_simge.dart içinde Flutter ile vektör olarak çizilir
+(yüz/insan yok, görsel dosyası yok).
 Kulak modeli dağıtılmaz; nazar küpe kulak memesini yüz ağının noktalarından (132, 361) alır.
 
 Uzak adres yok: bütün dosyalar kendi sitemizden yüklenir (test/kamera_studyosu/ks_ar_yerel_test.dart, test/web/ar_8w.py).

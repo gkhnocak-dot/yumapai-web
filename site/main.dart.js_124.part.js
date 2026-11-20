@@ -1,70 +1,16 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-dM5(d){return new A.a4I(d,null)},
-a4I:function a4I(d,e){this.e=d
-this.a=e},
-aLE:function aLE(){var _=this
-_.e=_.d=!1
-_.f=""
-_.c=_.a=_.r=null},
-d8K:function d8K(d){this.a=d},
-d8J:function d8J(d){this.a=d},
-d8I:function d8I(d,e,f){this.a=d
-this.b=e
-this.c=f},
-d8H:function d8H(d){this.a=d}},D
-B=c[0]
-C=c[2]
-A=a.updateHolder(c[54],A)
-D=c[84]
-A.a4I.prototype={
-a2(){return new A.aLE()}}
-A.aLE.prototype={
-ad(){this.ai()
-this.r=B.d6(C.qE,new A.d8K(this))},
-n(){var x=this.r
-if(x!=null)x.ar(0)
-this.ag()},
-G(d){var x,w,v,u,t,s,r=this,q=B.qj(d,null,y.a)
-q=q==null?null:q.gll()
-x=$.n()
-w=r.a.e
-if(w==null)w=""
-v=w.length===0
-u=v?x.o1:w
-t=x.h2
-s=u+"|"+t
-if(r.e&&q===!0&&!r.d&&u.length!==0&&t!==u&&x.ky!=="loading"&&s!==r.f){r.d=!0
-r.f=s
-$.ay.ok$.push(new A.d8I(r,v,w))}return C.ak}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+dU6(d,e){var x,w,v,u="lat_from",t=A.uA(d)
+if(t==null||t.giL()!=="yandexnavi")return null
+x=t.gi2().h(0,"lat_to")
+w=t.gi2().h(0,"lon_to")
+v=t.gi2().h(0,u)==null?"":A.H(t.gi2().h(0,u))+","+A.H(t.gi2().h(0,"lon_from"))
+x=A.e([v,A.H(x)+","+A.H(w)],y.d)
+w=e?"pd":"auto"
+return"https://yandex.com.tr/maps/?rtext="+B.l.aR(x,"~")+"&rtt="+w}}
+A=c[0]
+B=c[2]
+C=a.updateHolder(c[69],C)
 var z=a.updateTypes([])
-A.d8K.prototype={
-$0(){var x=this.a
-if(x.c!=null)x.l(0,new A.d8J(x))},
-$S:0}
-A.d8J.prototype={
-$0(){return this.a.e=!0},
-$S:0}
-A.d8I.prototype={
-$1(d){return this.aHk(d)},
-aHk(d){var x=0,w=B.A(y.f),v,u=this,t,s
-var $async$$1=B.w(function(e,f){if(e===1)return B.x(f,w)
-for(;;)switch(x){case 0:s=u.a
-if(s.c==null){x=1
-break}t=u.b?"today":"detail"
-x=3
-return B.u(B.f1(t,u.c,"","",""),$async$$1)
-case 3:if(s.c!=null)s.l(0,new A.d8H(s))
-case 1:return B.y(v,w)}})
-return B.z($async$$1,w)},
-$S:18}
-A.d8H.prototype={
-$0(){return this.a.d=!1},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(A.a4I,B.aa)
-x(A.aLE,B.ag)
-w(B.dt,[A.d8K,A.d8J,A.d8H])
-x(A.d8I,B.dk)})()
-B.dw(b.typeUniverse,JSON.parse('{"a4I":{"aa":[],"J":[]},"aLE":{"ag":["a4I"]}}'))
-var y={a:B.aj("ah?"),f:B.aj("~")};(function constants(){D.rd=new B.aA(57686,"MaterialIcons",null,!1)})()};
-(a=>{a["HzVIfK8WnzkZ2S8kdCjLqFeZ9Ew="]=a.current})($__dart_deferred_initializers__);
+var y={d:A.aj("T<J>")}};
+(a=>{a["j+z5kLDix4YF9/ft/wRYBQ3VwOQ="]=a.current})($__dart_deferred_initializers__);

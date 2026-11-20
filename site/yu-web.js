@@ -131,37 +131,8 @@
   } catch (e) {}
   document.addEventListener('visibilitychange', function () { if (gizli()) kameraBirak(); });
   window.addEventListener('pagehide', kameraBirak);
-  // Önizleme/çekim çözünürlüğü: izin en-boy oranı korunarak uzun kenarı [uzun] olur, kare hızı en çok [fps].
-  // Yeni boyutta ilk kare gelince (resize) ya da 1,5 sn sonra true; desteklenmezse false (o anki ayarla sürer).
-  window.yuKameraCozunurluk = function (uzun, fps) {
-    return new Promise(function (bitti) {
-      var v = kameraVideo();
-      var t = v && v.srcObject.getVideoTracks()[0];
-      if (!t || typeof t.applyConstraints !== 'function') return bitti(false);
-      var s = typeof t.getSettings === 'function' ? t.getSettings() : {};
-      var w = s.width || v.videoWidth, h = s.height || v.videoHeight;
-      if (!w || !h) return bitti(false);
-      var k = uzun / Math.max(w, h);
-      var cw = Math.round(w * k), ch = Math.round(h * k);
-      var hizUygun = !fps || (s.frameRate && s.frameRate <= fps + 0.5);
-      if (Math.abs(cw - w) < 2 && Math.abs(ch - h) < 2 && hizUygun) return bitti(true);
-      var kosul = { width: { ideal: cw }, height: { ideal: ch } };
-      var zaman = null;
-      function son(ok) { clearTimeout(zaman); v.removeEventListener('resize', yeni); bitti(ok); }
-      function yeni() { son(true); }
-      function uygula(c) { return t.applyConstraints(c); }
-      var tam = Object.assign({}, kosul);
-      if (fps) tam.frameRate = { ideal: fps, max: fps };
-      uygula(tam)
-        .catch(function () { if (fps) kosul.frameRate = { ideal: fps }; return uygula(kosul); })
-        .then(function () {
-          if (Math.abs(cw - w) < 2 && Math.abs(ch - h) < 2) return son(true);
-          v.addEventListener('resize', yeni);
-          zaman = setTimeout(function () { son(true); }, 1500);
-        })
-        .catch(function () { son(false); });
-    });
-  };
+  // Kamera akışının ayarı (çözünürlük, kare hızı) açıldıktan sonra DEĞİŞTİRİLMEZ: iOS'ta kısıt değişimi sensörü yeniden
+  // kurar (pozlama/odak sıfırlanır, görüş alanı değişir). Akış baştan çekim çözünürlüğünde açılır (ks_kamera.dart).
   // Canlı izi olan <video>: gizliyken açılıp durdurulan (izleri 'ended') bir akışın öğesi kamera sayılmaz.
   function canliVideo(v) {
     var s = v && v.srcObject;

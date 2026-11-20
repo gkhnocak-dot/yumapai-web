@@ -3,9 +3,10 @@
 // Gizlilik: yüz verisi yalnız bu cihazda (tarayıcıda) işlenir; hiçbir yere gönderilmez ve saklanmaz.
 // Bu modül yalnız kullanıcı bir efekt seçince yu-web.js'teki yuArYukle() ile içeri alınır.
 //
-// Kamera tek: uygulamanın kamerası (camera_web'in <video>'su) açık kalır; 8th Wall'a aynı akışın KLONU verilir
-// (getUserMedia yalnız XR8 başlarken bu klonu döndürecek şekilde sarılır, akış alınınca hemen geri alınır). Böylece ikinci
-// bir kamera açılmaz (iOS Safari ikinci yakalamada ilkini susturur) ve ön/arka geçişte izleyici yeni akışla yeniden başlar.
+// Kamera tek: uygulamanın kamerası (camera_web'in <video>'su) açık kalır; 8th Wall'a o videodan küçültülerek çizilen bir
+// tuvalin akışının KLONU verilir (getUserMedia yalnız XR8 başlarken bu klonu döndürecek şekilde sarılır, akış alınınca hemen
+// geri alınır). Böylece ikinci bir kamera açılmaz (iOS Safari ikinci yakalamada ilkini susturur), kamera akışının ayarı
+// değişmez ve ön/arka geçişte izleyici yeni akışla yeniden başlar.
 // 8th Wall'un yüz verisi (478 nokta, MediaPipe sırası; dönüşüm) yu-ar-sahne.js'in beklediği diziye çevrilir.
 import { Sahne } from './yu-ar-sahne.js';
 import { KONUM } from './yuz_kanonik.js';
@@ -155,7 +156,31 @@ export function donustur(d, gorus, w, h) {
 // ---- izleyici (8th Wall) --------------------------------------------------------------------------------------------
 
 const iz = { video: null, akis: null, calisiyor: false, veri: null, gorus: 0, tuval: null, ozgunGum: null, sayac: 0, modul: null,
-  klonlar: [] };
+  klonlar: [], kucuk: null };
+
+/** İzleyicinin girdisi: kamera karesinin uzun kenarı bu boyuta küçültülmüş kopyası (yüz bulmaya yeter). */
+const IZLEME_UZUN = 640;
+
+/**
+ * Kamera akışı çekim çözünürlüğündedir (1920) ve hiç değiştirilmez (iOS'ta değişim pozlama/odak/alanı sıfırlar). Yüz izleyici
+ * tam kareyi değil, her döngüde [video]'dan çizilen küçük bir tuvalin akışını alır: GPU'ya yüklenen kare küçük kalır.
+ */
+function kucukKaynak(video) {
+  const w = video.videoWidth, h = video.videoHeight;
+  const o = Math.min(1, IZLEME_UZUN / Math.max(w, h));
+  const t = document.createElement('canvas');
+  t.width = Math.max(2, Math.round(w * o));
+  t.height = Math.max(2, Math.round(h * o));
+  t.setAttribute('aria-hidden', 'true');
+  Object.assign(t.style, { position: 'fixed', left: '0', top: '0', width: '2px', height: '2px', opacity: '0', pointerEvents: 'none',
+    zIndex: '-1' });
+  document.body.appendChild(t);
+  const cx = t.getContext('2d', { alpha: false });
+  const k = { tuval: t, w, h, akis: null, ciz() { cx.drawImage(video, 0, 0, t.width, t.height); } };
+  k.ciz();
+  k.akis = t.captureStream(30);
+  return k;
+}
 
 /** Yüz takibi gereken efektler (altın saat ve film yüzsüz çalışır: izleyici hiç başlatılmaz). */
 const YUZLU = new Set(['puruzsuz', 'allik', 'cil', 'gunes_gozlugu', 'cicek_taci', 'nazar_kupe', 'sim_yagmuru']);
@@ -188,20 +213,22 @@ function izModulu() {
   };
 }
 
-/** 8th Wall'u [video]'nun akış klonuyla başlatır (zaten aynı akışla çalışıyorsa bir şey yapmaz). */
+/** 8th Wall'u [video]'nun küçültülmüş kopyasıyla başlatır (zaten aynı akış ve boyutla çalışıyorsa bir şey yapmaz). */
 export function izlemeBaslat(video) {
   const akis = video && video.srcObject;
-  if (!xr || !akis || !akis.getVideoTracks || !akis.getVideoTracks().length) return false;
-  if (iz.calisiyor && iz.akis === akis) return true;
+  if (!xr || !akis || !akis.getVideoTracks || !akis.getVideoTracks().length || !video.videoWidth) return false;
+  if (iz.calisiyor && iz.akis === akis && iz.kucuk && iz.kucuk.w === video.videoWidth && iz.kucuk.h === video.videoHeight) return true;
   izlemeDurdur();
   iz.video = video;
   iz.akis = akis;
+  iz.kucuk = kucukKaynak(video);
+  const kucuk = iz.kucuk.akis;
   const md = navigator.mediaDevices;
   iz.ozgunGum = md.getUserMedia;
   const ozgun = iz.ozgunGum;
   md.getUserMedia = (c) => {
     if (!(c && c.video)) return ozgun.call(md, c);
-    const k = akis.clone();
+    const k = kucuk.clone(); // her istek kendi klonunu alır: 8th Wall'un durdurduğu klon kaynağı kesmez
     iz.klonlar.push(k);
     return Promise.resolve(k);
   };
@@ -236,6 +263,12 @@ export function izlemeDurdur() {
   // Klon izler kesin kapanır (özgün kamera akışına dokunulmaz).
   for (const k of iz.klonlar) for (const t of k.getTracks()) t.stop();
   iz.klonlar = [];
+  if (iz.kucuk) {
+    for (const t of iz.kucuk.akis.getTracks()) t.stop();
+    iz.kucuk.tuval.width = iz.kucuk.tuval.height = 0;
+    iz.kucuk.tuval.remove();
+    iz.kucuk = null;
+  }
   iz.calisiyor = false;
   iz.akis = null;
   iz.video = null;
@@ -275,8 +308,10 @@ function adim() {
   if (!v || !sahne) return;
   sahne.kaynakAyarla(v);
   // Yüz takibi yalnız yüz gerektiren efekt seçiliyken çalışır; kamera değiştiyse (ön/arka) yeni akışla yeniden başlar.
-  if (YUZLU.has(sahne.efekt)) izlemeBaslat(v);
-  else izlemeDurdur();
+  if (YUZLU.has(sahne.efekt)) {
+    izlemeBaslat(v);
+    iz.kucuk?.ciz();
+  } else izlemeDurdur();
   const simdi = performance.now();
   sahne.kare(iz.veri, simdi / 1000);
   if (olcum.son) olcum.fps = olcum.fps * 0.9 + (1000 / Math.max(1, simdi - olcum.son)) * 0.1;
