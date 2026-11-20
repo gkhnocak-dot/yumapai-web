@@ -45,6 +45,17 @@ def katalog_dogrula(kat):
         if not set(p.get("ruh", [])) <= ruhlar: hata.append(f"{i}: bilinmeyen ruh hali")
         if p.get("kaynak") != "incompetech" and p.get("bagimsiz_sanatci_dogrulandi") is not True:
             hata.append(f"{i}: birlik (MESAM/MSG) üyeliği belirsiz — alınmaz")
+    cm = kat.get("commons") or {}
+    for p in cm.get("parcalar", []):
+        i = p.get("id", "?")
+        if i in goruldu: hata.append(f"{i}: yinelenen kimlik")
+        goruldu.add(i)
+        if not str(p.get("dosya", "")).startswith("File:"): hata.append(f"{i}: dosya 'File:' ile başlamalı")
+        if p.get("tema") not in cm.get("tema_ruh", {}): hata.append(f"{i}: bilinmeyen tema")
+        if not p.get("baslik"): hata.append(f"{i}: başlık eksik")
+    for tema, r in cm.get("tema_ruh", {}).items():
+        if not set(r) <= ruhlar: hata.append(f"tema {tema}: bilinmeyen ruh hali")
+    if set(cm.get("izinli", {})) - {"CC0", "Public domain", "CC BY 4.0"}: hata.append("commons: izinli lisans listesi genişletilemez")
     return hata
 
 
@@ -194,6 +205,86 @@ def inc_site_lisansi(music_html, al=None, simdi=None):
             "cekildi": simdi or time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "alinti": re.sub(r"\s+", " ", m.group(0)).strip()}, ""
 
 
+RUH_SIRASI = ["sakin", "neseli", "romantik", "enerjik", "nostaljik", "doga", "sehir", "gece"]
+
+
+def ruh_turet(kayit, kural, varsayilan):
+    """Resmi kayıttaki feel/instruments/bpm → ruh halleri (eşleme tablosu katalogdaki 'etiket_kurallari'). Eşik üstü en çok N ruh;
+    hiçbiri eşiği geçmezse en yüksek puanlı tek ruh; hiç puan yoksa varsayılan (ön etiket) kalır."""
+    puan = {}
+    for alan, tablo in (("feel", kural["feel"]), ("instruments", kural["instruments"])):
+        for w in str(kayit.get(alan) or "").split(","):
+            for r, v in tablo.get(w.strip(), {}).items():
+                puan[r] = puan.get(r, 0) + v
+    try:
+        bpm = int(float(kayit.get("bpm")))
+        if bpm <= kural["yavas_bpm"]: puan["sakin"] = puan.get("sakin", 0) + kural["bpm_puan"]
+        elif bpm >= kural["hizli_bpm"]: puan["enerjik"] = puan.get("enerjik", 0) + kural["bpm_puan"]
+    except (TypeError, ValueError):
+        pass
+    sirali = sorted(puan.items(), key=lambda kv: (-kv[1], RUH_SIRASI.index(kv[0])))
+    sec = [r for r, v in sirali if v >= kural["esik"]][:kural["en_cok"]]
+    if not sec and sirali and sirali[0][1] > 0: sec = [sirali[0][0]]
+    return sec or list(varsayilan)
+
+
+def kategoriler_icin(ruh, kategori_ruh):
+    """Ruh hallerine uyan mekân kategorileri: kategorinin ilk ruhu seçilenlerde, ya da birincil ruh kategorinin ilk ikisinden biri."""
+    return sorted(c for c, r in kategori_ruh.items() if r[0] in ruh or (ruh and ruh[0] in r[:2]))
+
+
+# ---- Wikimedia Commons (resmi API) ----
+COMMONS_API = "https://commons.wikimedia.org/w/api.php"
+UA_COMMONS = "YuMapAI-muzik-cek/1.0 (https://github.com/gkhnocak-dot/yumapai-web; tek seferlik)"
+LISANS_URL = {"cc0": "https://creativecommons.org/publicdomain/zero/1.0/", "pdm": "https://creativecommons.org/publicdomain/mark/1.0/",
+              "cc_by_4": "https://creativecommons.org/licenses/by/4.0/"}
+PD_KAYIT_SABLONU = re.compile(r"\{\{\s*(pd-self|pd-author|pd-usgov[a-z-]*|pd-us[a-z0-9-]*|pd-release|pd-ineligible[a-z-]*|pd-because|pd-1923[a-z-]*|pd-record[a-z-]*|pd-anon-[a-z0-9-]*)\b", re.I)
+YASAK_SABLON = re.compile(r"cc-by-sa|cc-by-nc|cc-by-nd|cc-sa|cc-nc|gfdl|\bby-sa\b|\bby-nc\b", re.I)
+
+
+def commons_api(**p):
+    p.update(format="json", formatversion="2")
+    url = COMMONS_API + "?" + urllib.parse.urlencode(p)
+    for i in range(4):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA_COMMONS}), timeout=60) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or i == 3: raise
+            time.sleep(15 * (i + 1))
+
+
+def html_metin(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(s or ""))).strip()
+
+
+def commons_bilgi(dosya, api=None):
+    """Dosya sayfası: (imageinfo, wikitext, sayfa_url) ya da ValueError."""
+    r = (api or commons_api)(action="query", titles=dosya, prop="imageinfo|revisions", iiprop="url|size|mime|mediatype|extmetadata", rvprop="content", rvslots="main")
+    sayfa = (r.get("query", {}).get("pages") or [{}])[0]
+    if sayfa.get("missing") or not sayfa.get("imageinfo"): raise ValueError("commons_dosya_yok")
+    ii = sayfa["imageinfo"][0]
+    wt = ((sayfa.get("revisions") or [{}])[0].get("slots", {}).get("main", {}).get("content")) or ""
+    return ii, wt
+
+
+def commons_lisans(ii, wikitext, izinli):
+    """Dönüş (kayit_alanlari, '') ya da (None, neden). Lisans yalnız CC0 / Public domain / CC BY 4.0; SA/NC/ND/GFDL yok;
+    PD'de kaydı kapsayan PD şablonu (pd-old tek başına yetmez); sanatçı/kaydeden boş olamaz; ses dosyası; upload.wikimedia.org adresi."""
+    em = ii.get("extmetadata") or {}
+    kisa = (em.get("LicenseShortName") or {}).get("value", "")
+    if ii.get("mediatype") != "AUDIO": return None, "commons_ses_degil"
+    if kisa not in izinli: return None, f"commons_lisans_izinli_degil:{kisa or 'yok'}"
+    terms = " ".join((em.get(k) or {}).get("value", "") for k in ("UsageTerms", "LicenseShortName", "License"))
+    if YASAK_SABLON.search(wikitext) or re.search(r"\b(SA|NC|ND)\b", terms): return None, "commons_yasak_lisans_sablonu"
+    if kisa == "Public domain" and not PD_KAYIT_SABLONU.search(wikitext): return None, "commons_pd_kayit_sablonu_yok"
+    sanatci = html_metin((em.get("Artist") or {}).get("value"))
+    if not sanatci: return None, "commons_sanatci_yok"
+    if urlparse(ii.get("url", "")).hostname != "upload.wikimedia.org": return None, "commons_adres_resmi_degil"
+    return {"kisa": kisa, "kod": izinli[kisa], "sanatci": sanatci[:150], "terms": terms[:200], "indirme": ii["url"], "sayfa": ii.get("descriptionurl", ""),
+            "bayt": ii.get("size", 0)}, ""
+
+
 def sayfa_buyuk(url):
     istek = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(istek, timeout=60) as r:
@@ -309,7 +400,7 @@ def calis(a):
         i = p["id"]
         try:
             ham = os.path.join(tmp, i + ".bin")
-            kanit, indirme = None, p["indirme_url"]
+            kanit, indirme, ruhlar, kategoriler = None, p["indirme_url"], p["ruh"], p.get("kategoriler", [])
             if p["kaynak"] == "incompetech":
                 if inc_liste is None:
                     inc_liste = inc_kaynaklari_yukle(ek=kat["kaynaklar"]["incompetech"].get("resmi_liste_urlleri", []), kesif=kesif)
@@ -321,6 +412,8 @@ def calis(a):
                 if not kay: raise ValueError("resmi_kayit_bulunamadi" + (":yakin=" + "|".join(yakin) if yakin else ""))
                 if YASAK_ISARET.search(json.dumps(kay, ensure_ascii=False)) or YASAK_CC.search(json.dumps(kay)): raise ValueError("resmi_kayitta_yasak_isaret")
                 if kay.get("filename"): indirme = INC_BASE + "mp3-royaltyfree/" + urllib.parse.quote(str(kay["filename"]))
+                ruhlar = ruh_turet(kay, kat["etiket_kurallari"], p["ruh"]) if kat.get("etiket_kurallari") else p["ruh"]
+                kategoriler = kategoriler_icin(ruhlar, kat["kategori_ruh"])
                 kanit = {"tur": "resmi_liste+site_lisansi", "liste_url": liste_url, "kayit": {k: kay[k] for k in list(kay)[:12]}, "site_lisansi": site_lisans}
             if n: time.sleep(SIRA_BEKLEME)
             son = indir(indirme, ham)
@@ -343,12 +436,48 @@ def calis(a):
             k = {"id": i, "uuid": uuid_kimlikten(i), "title": p["baslik"], "artist": p["sanatci"], "license_code": p["lisans_kodu"],
                  "license_url": p["lisans_url"], "source_url": kaynak_sayfa, "storage_path": yol, "duration_s": int(round(sure2)),
                  "sha256_ham": sha256(ham), "sha256": sha256(cikis), "bayt": os.path.getsize(cikis), "indirme_url": indirme, "lisans_kanit": kanit,
-                 "cekildi": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "moods": p["ruh"], "categories": p.get("kategoriler", []),
+                 "cekildi": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "moods": ruhlar, "categories": kategoriler,
                  "attribution_text": atif_metni(p, kaynak_sayfa, adlar[p["lisans_kodu"]])}
             k["yukleme"] = yukle_storage(cikis, yol, durum)
             kayit.append(k)
             print(f"TAMAM {i} {k['duration_s']}s {k['bayt']}B {k['yukleme']}", flush=True)
         except Exception as e:  # ağ, 404, lisans… hepsi atlama sebebidir; sessiz geçilmez, rapora yazılır
+            neden = str(e) if isinstance(e, ValueError) else (f"http_{e.code}" if isinstance(e, urllib.error.HTTPError) else type(e).__name__)
+            atlanan.append({"id": i, "baslik": p["baslik"], "neden": neden})
+            print(f"ATLANDI {i}: {neden}", flush=True)
+        finally:
+            try: os.remove(os.path.join(tmp, i + ".bin"))
+            except OSError: pass
+    cm = kat.get("commons") or {}
+    for n, p in enumerate(cm.get("parcalar", [])):
+        i = p["id"]
+        try:
+            ii, wt = commons_bilgi(p["dosya"])
+            c, neden = commons_lisans(ii, wt, cm["izinli"])
+            if not c: raise ValueError(neden)
+            if c["bayt"] > 60 * 1024 * 1024: raise ValueError("cok_buyuk")
+            ham = os.path.join(tmp, i + ".bin")
+            time.sleep(max(SIRA_BEKLEME, 2.0))
+            indir(c["indirme"], ham)
+            _, sure = ffprobe(ham)
+            if not (MIN_SN <= sure <= MAX_SN): raise ValueError(f"sure_uygun_degil_{int(sure)}")
+            yol = f"{i}.mp3"; cikis = os.path.join(a.cikti, "dosyalar", yol)
+            kodla128(ham, cikis)
+            _, sure2 = ffprobe(cikis)
+            lurl = LISANS_URL[c["kod"]]
+            ruhlar = cm["tema_ruh"][p["tema"]]
+            atif = (f"“{p['baslik']}” — {c['sanatci']}; Wikimedia Commons ({c['sayfa']}). Lisans: {adlar[c['kod']]} ({lurl}). "
+                    "Değişiklik: 128 kbps MP3'e dönüştürüldü; hikâyede kısaltılmış bölüm çalınır.")
+            k = {"id": i, "uuid": uuid_kimlikten(i), "title": p["baslik"][:200], "artist": c["sanatci"], "license_code": c["kod"], "license_url": lurl,
+                 "source_url": c["sayfa"], "storage_path": yol, "duration_s": int(round(sure2)), "sha256_ham": sha256(ham), "sha256": sha256(cikis),
+                 "bayt": os.path.getsize(cikis), "indirme_url": c["indirme"],
+                 "lisans_kanit": {"tur": "commons_api", "sayfa": c["sayfa"], "lisans": c["kisa"], "kosullar": c["terms"]},
+                 "cekildi": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "moods": ruhlar, "categories": kategoriler_icin(ruhlar, kat["kategori_ruh"]),
+                 "attribution_text": atif}
+            k["yukleme"] = yukle_storage(cikis, yol, durum)
+            kayit.append(k)
+            print(f"TAMAM {i} {k['duration_s']}s {k['bayt']}B {k['yukleme']}", flush=True)
+        except Exception as e:
             neden = str(e) if isinstance(e, ValueError) else (f"http_{e.code}" if isinstance(e, urllib.error.HTTPError) else type(e).__name__)
             atlanan.append({"id": i, "baslik": p["baslik"], "neden": neden})
             print(f"ATLANDI {i}: {neden}", flush=True)

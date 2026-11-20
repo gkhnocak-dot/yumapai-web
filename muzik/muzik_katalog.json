@@ -118,13 +118,18 @@
   },
   "freemusicarchive": {
    "hedef": 30,
-   "durum": "BEKLIYOR",
+   "durum": "IPTAL (Openverse'te yok; yerine wikimedia_commons)",
    "neden": "Bu sunucudan freemusicarchive.org erişilemedi; parça adı/adresi uydurulmadı. tools/muzik_aday.py (Openverse resmi API) aday listesi üretir; seçim sonrası bu dosyaya 'bagimsiz_sanatci_dogrulandi': true ile eklenir (MESAM/MSG belirsizse alınmaz)."
   },
   "musopen": {
    "hedef": 10,
-   "durum": "BEKLIYOR",
+   "durum": "IPTAL (Openverse'te yok; yerine wikimedia_commons)",
    "neden": "Aynı neden; yalnız kayıt dahil CC0/PDM doğrulanan parçalar."
+  },
+  "wikimedia_commons": {
+   "hedef": 32,
+   "durum": "aday_listesi_hazir",
+   "aday": 42
   }
  },
  "parcalar": [
@@ -1133,5 +1138,533 @@
    ],
    "etiket_durumu": "on"
   }
- ]
+ ],
+ "etiket_kurallari": {
+  "aciklama": "Incompetech resmi kaydındaki feel/instruments/bpm → ruh hali (kural tabanlı; ön etiketlerin yerine geçer). Puan eşiği 2, en çok 3 ruh; eşiği geçen yoksa en yüksek puanlı tek ruh; hiç puan yoksa katalogdaki ön etiket kalır.",
+  "esik": 2.0,
+  "en_cok": 3,
+  "yavas_bpm": 80,
+  "hizli_bpm": 130,
+  "bpm_puan": 1.0,
+  "feel": {
+   "Bright": {
+    "neseli": 2
+   },
+   "Bouncy": {
+    "neseli": 1,
+    "enerjik": 1
+   },
+   "Relaxed": {
+    "sakin": 3
+   },
+   "Calming": {
+    "sakin": 3,
+    "doga": 1
+   },
+   "Grooving": {
+    "sehir": 2,
+    "enerjik": 1
+   },
+   "Uplifting": {
+    "neseli": 2,
+    "enerjik": 1
+   },
+   "Humorous": {
+    "neseli": 2
+   },
+   "Dark": {
+    "gece": 3
+   },
+   "Mysterious": {
+    "gece": 2
+   },
+   "Driving": {
+    "enerjik": 3
+   },
+   "Mystical": {
+    "gece": 1,
+    "doga": 1
+   },
+   "Intense": {
+    "enerjik": 2
+   },
+   "Suspenseful": {
+    "gece": 2
+   },
+   "Somber": {
+    "gece": 1,
+    "nostaljik": 2,
+    "sakin": 1
+   },
+   "Eerie": {
+    "gece": 3
+   },
+   "Epic": {
+    "enerjik": 2
+   },
+   "Romantic": {
+    "romantik": 3
+   },
+   "Peaceful": {
+    "sakin": 3
+   },
+   "Sentimental": {
+    "romantik": 2,
+    "nostaljik": 2
+   },
+   "Dreamy": {
+    "sakin": 2,
+    "gece": 1
+   },
+   "Nostalgic": {
+    "nostaljik": 3
+   }
+  },
+  "instruments": {
+   "Piano": {
+    "sakin": 1,
+    "romantik": 1
+   },
+   "Harp": {
+    "sakin": 1,
+    "romantik": 1,
+    "doga": 1
+   },
+   "Guitar": {
+    "sakin": 0.5,
+    "doga": 0.5
+   },
+   "Guitars": {
+    "sakin": 0.5,
+    "doga": 0.5
+   },
+   "Ukulele": {
+    "neseli": 1,
+    "doga": 1
+   },
+   "Violin": {
+    "romantik": 1,
+    "nostaljik": 1
+   },
+   "Viola": {
+    "romantik": 1,
+    "nostaljik": 1
+   },
+   "Cello": {
+    "romantik": 1,
+    "nostaljik": 1
+   },
+   "Strings": {
+    "romantik": 1,
+    "nostaljik": 1
+   },
+   "Pizzicato Strings": {
+    "neseli": 1
+   },
+   "Flute": {
+    "doga": 1,
+    "nostaljik": 1
+   },
+   "Flutes": {
+    "doga": 1,
+    "nostaljik": 1
+   },
+   "Oboe": {
+    "doga": 1,
+    "nostaljik": 1
+   },
+   "English Horn": {
+    "doga": 1,
+    "nostaljik": 1
+   },
+   "Uilleann Pipes": {
+    "doga": 1,
+    "nostaljik": 1
+   },
+   "Celesta": {
+    "nostaljik": 1,
+    "neseli": 0.5
+   },
+   "Music Box": {
+    "nostaljik": 1,
+    "neseli": 0.5
+   },
+   "Glockenspiel": {
+    "nostaljik": 1,
+    "neseli": 0.5
+   },
+   "Bells": {
+    "nostaljik": 1
+   },
+   "Marimba": {
+    "neseli": 1
+   },
+   "Vibraphone": {
+    "sehir": 1,
+    "neseli": 0.5
+   },
+   "Electric Piano": {
+    "sehir": 1
+   },
+   "Organ": {
+    "sehir": 0.5,
+    "nostaljik": 0.5
+   },
+   "Saxes": {
+    "sehir": 1,
+    "nostaljik": 1
+   },
+   "Trumpet": {
+    "sehir": 0.5,
+    "nostaljik": 1
+   },
+   "Trombones": {
+    "nostaljik": 1
+   },
+   "Tuba": {
+    "nostaljik": 0.5
+   },
+   "Clarinet": {
+    "sehir": 0.5,
+    "nostaljik": 1
+   },
+   "Bass Clarinet": {
+    "nostaljik": 0.5,
+    "gece": 0.5
+   },
+   "Synths": {
+    "sehir": 1,
+    "gece": 1
+   },
+   "Synth": {
+    "sehir": 1,
+    "gece": 1
+   },
+   "Drum Kit": {
+    "enerjik": 0.5,
+    "sehir": 0.5
+   },
+   "Drums": {
+    "enerjik": 0.5
+   },
+   "Percussion": {
+    "enerjik": 0.5
+   },
+   "Bass": {
+    "sehir": 0.5
+   },
+   "Orchestra": {
+    "nostaljik": 1,
+    "enerjik": 0.5
+   }
+  }
+ },
+ "commons": {
+  "aciklama": "Wikimedia Commons ses dosyaları (resmi API: imageinfo/extmetadata + wikitext lisans şablonları). Lisans yalnız CC0 / Public domain / CC BY 4.0; PD için dosya sayfasında kaydı kapsayan PD şablonu aranır (yalnız pd-old bestecinin ölçütüdür, kayıt için yeterli değildir). Sanatçı boşsa atlanır.",
+  "izinli": {
+   "CC0": "cc0",
+   "Public domain": "pdm",
+   "CC BY 4.0": "cc_by_4"
+  },
+  "tema_ruh": {
+   "klasik_sakin": [
+    "sakin",
+    "nostaljik"
+   ],
+   "klasik_romantik": [
+    "romantik",
+    "sakin"
+   ],
+   "klasik_enerjik": [
+    "enerjik",
+    "nostaljik"
+   ],
+   "caz_nostalji": [
+    "nostaljik",
+    "neseli",
+    "sehir"
+   ],
+   "lofi": [
+    "sakin",
+    "gece",
+    "sehir"
+   ],
+   "lofi_gunduz": [
+    "sakin",
+    "neseli",
+    "sehir"
+   ],
+   "akustik": [
+    "sakin",
+    "doga"
+   ],
+   "doga_sinematik": [
+    "doga",
+    "enerjik"
+   ],
+   "neseli_pop": [
+    "neseli",
+    "enerjik"
+   ],
+   "halk": [
+    "nostaljik",
+    "doga"
+   ]
+  },
+  "parcalar": [
+   {
+    "id": "wc-bach-cello-suite-no-1-pr-lude-fopseh",
+    "dosya": "File:Bach Cello Suite 1 Prelude (BWV 1007) Played by Chris.ogg",
+    "baslik": "Bach: Cello Suite No. 1, Prélude (Fopseh)",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-bach-cello-suite-no-1-i-pr-lude",
+    "dosya": "File:Bach - Cello Suite no. 1 in G major, BWV 1007 - I. Prélude.ogg",
+    "baslik": "Bach: Cello Suite No. 1, I. Prélude",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-bach-cello-suite-no-1-iv-sarabande",
+    "dosya": "File:Bach - Cello Suite no. 1 in G major, BWV 1007 - IV. Sarabande.ogg",
+    "baslik": "Bach: Cello Suite No. 1, IV. Sarabande",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-bach-cello-suite-no-1-ii-allemande",
+    "dosya": "File:Bach - Cello Suite no. 1 in G major, BWV 1007 - II. Allemande.ogg",
+    "baslik": "Bach: Cello Suite No. 1, II. Allemande",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-bach-violin-sonata-no-1-i-adagio",
+    "dosya": "File:J. S. Bach – Violin Sonata No.1 in G minor, BWV 1001, I. Adagio.ogg",
+    "baslik": "Bach: Violin Sonata No. 1, I. Adagio",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-chopin-variations-for-flute-and-piano",
+    "dosya": "File:Variations for flute and piano.mp3",
+    "baslik": "Chopin: Variations for Flute and Piano",
+    "tema": "klasik_romantik"
+   },
+   {
+    "id": "wc-chopin-tude-op-25-no-1-harp-study",
+    "dosya": "File:Chopin - 12 Études, Op. 25 - No. 1 in A-Flat major 'Harp Study' (Edward Neeman).flac",
+    "baslik": "Chopin: Étude Op. 25 No. 1 (Harp Study)",
+    "tema": "klasik_romantik"
+   },
+   {
+    "id": "wc-schubert-ave-maria-keman-ve-piyano",
+    "dosya": "File:Schubert - Ave Maria, arr. for violin and piano (Menuhin, Baller).flac",
+    "baslik": "Schubert: Ave Maria (keman ve piyano)",
+    "tema": "klasik_romantik"
+   },
+   {
+    "id": "wc-beethoven-keman-sonat-no-5-bahar-ii",
+    "dosya": "File:Violin Sonata No.5, Op.24 (Beethoven) 2.ogg",
+    "baslik": "Beethoven: Keman Sonatı No. 5 (Bahar), II",
+    "tema": "klasik_romantik"
+   },
+   {
+    "id": "wc-beethoven-keman-sonat-no-5-bahar-i",
+    "dosya": "File:Violin Sonata No.5, Op.24 (Beethoven) 1.ogg",
+    "baslik": "Beethoven: Keman Sonatı No. 5 (Bahar), I",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-beethoven-keman-sonat-no-5-bahar-iv",
+    "dosya": "File:Violin Sonata No.5, Op.24 (Beethoven) 4.ogg",
+    "baslik": "Beethoven: Keman Sonatı No. 5 (Bahar), IV",
+    "tema": "klasik_enerjik"
+   },
+   {
+    "id": "wc-beethoven-piyano-sonat-no-28-ii",
+    "dosya": "File:Beethoven - Piano Sonata No. 28 in A Major, Op. 101 - II. Lebhaft. Marschmäßig.ogg",
+    "baslik": "Beethoven: Piyano Sonatı No. 28, II",
+    "tema": "klasik_enerjik"
+   },
+   {
+    "id": "wc-mozart-sihirli-fl-t-uvert-r",
+    "dosya": "File:Mozart - Magic Flute Overture.ogg",
+    "baslik": "Mozart: Sihirli Flüt Uvertürü",
+    "tema": "klasik_enerjik"
+   },
+   {
+    "id": "wc-mozart-fl-t-kon-ertosu-k-313-i",
+    "dosya": "File:Wolfgang Amadeus Mozart - flute concerto in g major, k. 313 - i. allegro maestoso.ogg",
+    "baslik": "Mozart: Flüt Konçertosu K. 313, I",
+    "tema": "klasik_enerjik"
+   },
+   {
+    "id": "wc-el-noi-de-la-mare-gitar",
+    "dosya": "File:El Noi de la Mare (guitar).ogg",
+    "baslik": "El Noi de la Mare (gitar)",
+    "tema": "akustik"
+   },
+   {
+    "id": "wc-respighi-balletto-detto-il-conte-orlando",
+    "dosya": "File:Balletto detto Il conte Orlando.ogg",
+    "baslik": "Respighi: Balletto detto Il conte Orlando",
+    "tema": "halk"
+   },
+   {
+    "id": "wc-scott-joplin-pleasant-moments-piyano-rulosu",
+    "dosya": "File:Pleasant Moments Piano Roll.ogg",
+    "baslik": "Scott Joplin: Pleasant Moments (piyano rulosu)",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-james-scott-don-t-jazz-me-rag-1921",
+    "dosya": "File:James Scott - Don't Jazz Me Rag (1921).ogg",
+    "baslik": "James Scott: Don't Jazz Me Rag (1921)",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-irving-berlin-the-ragtime-violin-1911",
+    "dosya": "File:Irving Berlin - The Ragtime Violin (1911).ogg",
+    "baslik": "Irving Berlin: The Ragtime Violin (1911)",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-at-the-jazz-band-ball-1918",
+    "dosya": "File:At the jazz band ball (1918 sound recording).mp3",
+    "baslik": "At the Jazz Band Ball (1918)",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-original-dixieland-jass-band-livery-stable-blues-1917",
+    "dosya": "File:Original Dixieland Jass Band - Livery Stable Blues (1917) alternate edit.ogg",
+    "baslik": "Original Dixieland Jass Band: Livery Stable Blues (1917)",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-fred-longshaw-chili-pepper-1927",
+    "dosya": "File:Chili Pepper by Fred Longshaw (1927, Jazz piano).opus",
+    "baslik": "Fred Longshaw: Chili Pepper (1927)",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-us-army-jazz-ambassadors-sweet-georgia-brown",
+    "dosya": "File:US Army Jazz Ambassadors Sweet Georgia Brown.opus",
+    "baslik": "US Army Jazz Ambassadors: Sweet Georgia Brown",
+    "tema": "caz_nostalji"
+   },
+   {
+    "id": "wc-pixinguinha-sofres-porque-queres-1919",
+    "dosya": "File:Sofres porque queres - Pixinguinha 1919.ogg",
+    "baslik": "Pixinguinha: Sofres porque queres (1919)",
+    "tema": "halk"
+   },
+   {
+    "id": "wc-kuzey-kaliforniya-halk-m-zi-i-mazurka",
+    "dosya": "File:Northern California Folk Music - Mazurka.oga",
+    "baslik": "Kuzey Kaliforniya halk müziği: Mazurka",
+    "tema": "halk"
+   },
+   {
+    "id": "wc-purrple-cat-cloud-watching",
+    "dosya": "File:Purrple Cat - Cloud Watching.ogg",
+    "baslik": "Purrple Cat: Cloud Watching",
+    "tema": "lofi"
+   },
+   {
+    "id": "wc-purrple-cat-indigo-dreams",
+    "dosya": "File:Purrple Cat - Indigo Dreams.ogg",
+    "baslik": "Purrple Cat: Indigo Dreams",
+    "tema": "lofi"
+   },
+   {
+    "id": "wc-purrple-cat-opening-the-window-for-some-fresh-air",
+    "dosya": "File:Purrple Cat - Opening the Window for Some Fresh Air.ogg",
+    "baslik": "Purrple Cat: Opening the Window for Some Fresh Air",
+    "tema": "lofi_gunduz"
+   },
+   {
+    "id": "wc-purrple-cat-saturday-morning",
+    "dosya": "File:Purrple Cat - Saturday Morning.ogg",
+    "baslik": "Purrple Cat: Saturday Morning",
+    "tema": "lofi_gunduz"
+   },
+   {
+    "id": "wc-purrple-cat-walking-to-the-park-at-3-a-m",
+    "dosya": "File:Purrple Cat - Walking to the Park at 3 A.M.ogg",
+    "baslik": "Purrple Cat: Walking to the Park at 3 A.M.",
+    "tema": "lofi"
+   },
+   {
+    "id": "wc-purrple-cat-this-feeling",
+    "dosya": "File:Purrple Cat - This Feeling.ogg",
+    "baslik": "Purrple Cat: This Feeling",
+    "tema": "lofi"
+   },
+   {
+    "id": "wc-loyalty-freak-music-softly",
+    "dosya": "File:Loyalty Freak Music - 06 - Softly.ogg",
+    "baslik": "Loyalty Freak Music: Softly",
+    "tema": "akustik"
+   },
+   {
+    "id": "wc-loyalty-freak-music-beach",
+    "dosya": "File:Loyalty Freak Music - 08 - Beach.ogg",
+    "baslik": "Loyalty Freak Music: Beach",
+    "tema": "neseli_pop"
+   },
+   {
+    "id": "wc-loyalty-freak-music-old-saga",
+    "dosya": "File:Loyalty Freak Music - 02 - Old Saga.ogg",
+    "baslik": "Loyalty Freak Music: Old Saga",
+    "tema": "halk"
+   },
+   {
+    "id": "wc-loyalty-freak-music-sweet-you",
+    "dosya": "File:Loyalty Freak Music - 01 - Sweet You.ogg",
+    "baslik": "Loyalty Freak Music: Sweet You",
+    "tema": "neseli_pop"
+   },
+   {
+    "id": "wc-loyalty-freak-music-love-her",
+    "dosya": "File:Loyalty Freak Music - 04 - Love Her.ogg",
+    "baslik": "Loyalty Freak Music: Love Her",
+    "tema": "akustik"
+   },
+   {
+    "id": "wc-musiclfiles-warm-sunset",
+    "dosya": "File:Warm Sunset by MusicLFiles.ogg",
+    "baslik": "MusicLFiles: Warm Sunset",
+    "tema": "lofi_gunduz"
+   },
+   {
+    "id": "wc-raspberrymusic-lofi-hip-hop-upbeat",
+    "dosya": "File:Raspberrymusic - Lofi Hip Hop Upbeat.ogg",
+    "baslik": "Raspberrymusic: Lofi Hip Hop Upbeat",
+    "tema": "neseli_pop"
+   },
+   {
+    "id": "wc-sascha-ende-thundering-highlands",
+    "dosya": "File:Thundering Highlands - Scottish Folk Cinematic - by Sascha Ende.mp3",
+    "baslik": "Sascha Ende: Thundering Highlands",
+    "tema": "doga_sinematik"
+   },
+   {
+    "id": "wc-axletree-breezy-may-acoustic",
+    "dosya": "File:02 - Breezy May Acoustic.ogg",
+    "baslik": "Axletree: Breezy May Acoustic",
+    "tema": "akustik"
+   },
+   {
+    "id": "wc-rabindra-sangeet-pran-chai-chokkhu-na-chay-piyano",
+    "dosya": "File:Pran chai chokkhu na chay (Rabindra Sangeet) on Piano by Paramanu Sarkar.ogg",
+    "baslik": "Rabindra Sangeet: Pran chai chokkhu na chay (piyano)",
+    "tema": "klasik_sakin"
+   },
+   {
+    "id": "wc-rabindra-sangeet-dariye-achho-tumi-amar-gitar",
+    "dosya": "File:Dariye achho tumi amar (Rabindra Sangeet) on Electric guitar by Paramanu Sarkar.ogg",
+    "baslik": "Rabindra Sangeet: Dariye achho tumi amar (gitar)",
+    "tema": "akustik"
+   }
+  ],
+  "birlik_durumu": "dogrulanmadi (CC BY netlabel sanatçıları ve PD kayıtlar için MESAM/MSG üyeliği kontrol edilemez; avukat sorusu)"
+ }
 }
