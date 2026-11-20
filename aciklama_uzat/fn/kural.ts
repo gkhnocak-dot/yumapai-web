@@ -134,9 +134,14 @@ export function wikiCumleleri(oz: Ozet, butce = WIKI_BUTCE, enCok = WIKI_CUMLE):
 
 // ---- Wikidata gerçekleri ----
 export type Etiketler = Record<string, Etiket>;
-const lab = (L: Etiketler, id: string, l: Lang, ortak = false) => L[id]?.[l] ?? (ortak ? L[id]?.[l === "tr" ? "en" : "tr"] : undefined);
+// Dil geri düşmesi (tr etiketi yoksa en): özel ad (Aphrodisias, kişi adı) olur, İngilizce ifade ("… Caravanserais on the route from …") Türkçe metne girmez.
+const INGILIZCE_IFADE = /(?<![\p{L}])(?:of|the|and|on|at|from|to|in|for|with|Upper|Lower|Old|New|North|South|East|West|Great|Little|Sanctuary|Stadium|Basilica|Waterfalls?|Falls|Caravanserais?|Consulting|Company|Rock-tombs|District|Complex|Kings?|Sultan's)(?![\p{L}])/u;
+const lab = (L: Etiketler, id: string, l: Lang, ortak = false) => {
+  const v = L[id]?.[l]; if (v || !ortak) return v;
+  const g = L[id]?.[l === "tr" ? "en" : "tr"]; return g && l === "tr" && (INGILIZCE_IFADE.test(g) || INGILIZCE_AD.test(g)) ? undefined : g;
+};
 const ids = (e: Wd, p: string) => (e.claims?.[p] ?? []).map((c) => c?.mainsnak?.datavalue?.value?.id).filter(Boolean) as string[];
-const sayi = (n: number, l: Lang) => (Number.isInteger(n) ? String(n) : n.toFixed(1)).replace(".", l === "tr" ? "," : ".");
+const sayi = (n: number, l: Lang) => n.toLocaleString(l === "tr" ? "tr-TR" : "en-US", { maximumFractionDigits: 1 }); // 425.000 m² / 26,4 hektar
 const BIRIM: Record<string, Record<Lang, string>> = {
   Q11573: { tr: "m", en: "m" }, Q828224: { tr: "km", en: "km" }, Q712226: { tr: "km²", en: "km²" }, Q25343: { tr: "m²", en: "m²" }, Q35852: { tr: "hektar", en: "hectares" },
 };
@@ -208,7 +213,7 @@ export function tr_dir(kelime: string): string {
 }
 export function acilis(yer: Yer, e: Wd, L: Etiketler, l: Lang): string | null {
   const t = tur(e, L, l); if (!t) return null;
-  if (l === "tr" && !e.labels?.tr && INGILIZCE_AD.test(yer.name)) return null; // "Abdülkerim Efendi Fountain … bir çeşmedir" yazılmaz
+  if (l === "tr" && !e.labels?.tr && (INGILIZCE_AD.test(yer.name) || INGILIZCE_IFADE.test(yer.name) || /(?<![\p{L}])(?:City|Agora|Pythion|Monuments?|Mount|Heritage|Dynasty|Capital)(?![\p{L}])/u.test(yer.name))) return null; // "Abdülkerim Efendi Fountain … bir çeşmedir" yazılmaz
   const ad = ADTEMIZ(l === "en" ? (e.labels?.en ?? yer.name) : (e.labels?.tr ?? yer.name)); if (!ad) return null;
   const merkez = yer.il && yer.ilce && norm(yer.il) === norm(yer.ilce);
   if (l === "tr") {
@@ -248,7 +253,7 @@ export function kur(l: Lang, yer: Yer, e: Wd, L: Etiketler, oz: Ozet | null): So
   const metin = " " + norm(wiki.join(" ")) + " ";
   // Özette zaten geçen bilgi tekrarlanmaz.
   // Wikipedia metni varken Wikidata yapım yılı eklenmez (metindeki tarihle çelişme riski: Teşvikiye Camii 1854 / 1794).
-  const alanVar = /\b(?:hektar\w*|hectares?|ha|km²|km2|m²|dönüm\w*|acres?|dekar\w*)\b/iu.test(wiki.join(" "));
+  const alanVar = /(?<![\p{L}\p{N}])(?:hektar\p{L}*|hectares?|ha|km²|km2|m²|dönüm\p{L}*|acres?|dekar\p{L}*)(?![\p{L}\p{N}])/iu.test(wiki.join(" "));
   const yeni = hepsi.filter((g) => !(wiki.length && g.key === "yapim") && !(alanVar && g.key === "alan")).filter((g) => !g.yoklama.some((p) => p && norm(p).length >= 2 && metin.includes(" " + norm(p) + " ")));
   const sec: string[] = []; const anahtar: string[] = [];
   let basi = wiki.slice();
