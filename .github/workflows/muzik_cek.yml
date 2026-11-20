@@ -1,20 +1,26 @@
 name: muzik-cek
 # Tek seferlik hikâye müziği çekimi (Reis onayı 20.11.2026). Yalnız muzik/muzik_katalog.json'daki resmi indirme bağlantıları;
-# lisansı doğrulanamayan parça atlanır. Sonuç depoya YAZILMAZ: artefakt (mp3 + kayıt + seed SQL + rapor) ve, secret varsa, Supabase Storage 'music' kovası.
+# lisansı doğrulanamayan parça atlanır. Sonuç ana dala YAZILMAZ: 'veri-muzik-cikti' dalına (mp3 + muzik_kayit.json + muzik_seed.sql + rapor.md +
+# muzik_aday.json) tek commit olarak zorla yazılır; ayrıca, secret varsa, Supabase Storage 'music' kovasına yüklenir.
 on:
   push:
     branches: [veri-muzik]
     paths: ['arac/muzik_cek.py', 'arac/muzik_aday.py', 'muzik/muzik_katalog.json', '.github/workflows/muzik_cek.yml']
   workflow_dispatch: {}
 permissions:
-  contents: read
+  contents: write
 jobs:
   cek:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
-      - run: ffmpeg -version | head -1
+      - name: ffmpeg kur
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg
+          ffmpeg -version | head -1
+          ffprobe -version | head -1
       - name: Aday listesi (FMA/Musopen; Openverse resmi API, indirme yok)
         continue-on-error: true
         run: python3 arac/muzik_aday.py muzik_aday.json
@@ -23,12 +29,17 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python3 arac/muzik_cek.py --katalog muzik/muzik_katalog.json --cikti muzik_cikti
-      - uses: actions/upload-artifact@v4
+      - name: Çıktıyı veri-muzik-cikti dalına yaz
         if: always()
-        with:
-          name: muzik-cikti
-          path: |
-            muzik_cikti/
-            muzik_aday.json
-            !muzik_cikti/_ham
-          retention-days: 14
+        run: |
+          rm -rf muzik_cikti/_ham
+          mkdir -p /tmp/cikti
+          cp -r muzik_cikti/. /tmp/cikti/ 2>/dev/null || true
+          cp muzik_aday.json muzik_aday_durum.json /tmp/cikti/ 2>/dev/null || true
+          cd /tmp/cikti
+          git init -q -b veri-muzik-cikti
+          git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
+          git add -A
+          git commit -q -m "Hikâye müziği çekim çıktısı (tek seferlik; lisans doğrulanan parçalar + kayıt + seed SQL + rapor)"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -f origin veri-muzik-cikti

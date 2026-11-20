@@ -8,14 +8,14 @@ Ortamda SUPABASE_URL + SUPABASE_SERVICE_ROLE_KEY varsa dosyalar 'music' kovasın
 yoksa ya da kova yoksa yalnız çıktı klasörü (iş akışında artefakt) bırakılır.
 Yalnız standart kütüphane + ffmpeg/ffprobe.
 """
-import argparse, hashlib, json, os, re, subprocess, sys, time, urllib.error, urllib.request
+import argparse, hashlib, json, os, re, shutil, subprocess, sys, time, urllib.error, urllib.request
 from urllib.parse import urlparse
 
 UA = "YuMapAI-muzik-cek/1.0 (tek seferlik; resmi indirme baglantilari)"
 IZINLI_HOST = {"incompetech.com", "freemusicarchive.org", "musopen.org"}
 YASAK_CC = re.compile(r"creativecommons\.org/licenses/(by-nc|by-sa|by-nd|nc|sa|nd)[^\"'\s<>]*", re.I)
 CC_ADRES = re.compile(r"creativecommons\.org/(?:licenses|publicdomain)/[a-z0-9\-]+/[0-9.]+", re.I)
-EN_BUYUK_BAYT = 40 * 1024 * 1024
+EN_BUYUK_BAYT = 100 * 1024 * 1024  # süre süzgeci (≤ 8 dk) asıl sınırdır; bu yalnız kaçak büyük dosyaya karşı
 MIN_SN, MAX_SN = 20, 480
 SIRA_BEKLEME = 3.0
 
@@ -159,6 +159,8 @@ def calis(a):
     hata = katalog_dogrula(kat)
     if hata:
         print("KATALOG_HATASI\n" + "\n".join(hata)); return 2
+    if not (shutil.which("ffmpeg") and shutil.which("ffprobe")):
+        print("HATA: ffmpeg/ffprobe yok (apt-get install -y ffmpeg)"); return 3
     os.makedirs(os.path.join(a.cikti, "dosyalar"), exist_ok=True)
     tmp = os.path.join(a.cikti, "_ham"); os.makedirs(tmp, exist_ok=True)
     adlar, kayit, atlanan, durum = kat["lisans_adlari"], [], [], {}

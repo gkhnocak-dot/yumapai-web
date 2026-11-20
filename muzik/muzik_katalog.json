@@ -105,9 +105,16 @@
   "incompetech": {
    "hedef": 40,
    "durum": "aday_listesi_hazir",
-   "aday": 56,
+   "aday": 51,
    "birlik_durumu": "dogrulanmadi (ozet.md: sanatçının MESAM/MSG üyeliği kontrol edilmedi; avukat sorusu)",
-   "dogrulama": "indirilen mp3 etiketleri (ffprobe): telif/yorum alanında creativecommons.org/licenses/by/4.0 + sanatçı Kevin MacLeod; ISRC etiketinden kaynak sayfa adresi (index.html?isrc=) üretilir"
+   "dogrulama": "indirilen mp3 etiketleri (ffprobe): telif/yorum alanında creativecommons.org/licenses/by/4.0 + sanatçı Kevin MacLeod; ISRC etiketinden kaynak sayfa adresi (index.html?isrc=) üretilir",
+   "elenen_404_20261120": [
+    "inc-almost-in-f-tranquility",
+    "inc-canon-in-d",
+    "inc-cipher",
+    "inc-pickled-pink",
+    "inc-study-and-relax"
+   ]
   },
   "freemusicarchive": {
    "hedef": 30,
@@ -446,22 +453,6 @@
    "etiket_durumu": "on"
   },
   {
-   "id": "inc-cipher",
-   "kaynak": "incompetech",
-   "baslik": "Cipher",
-   "sanatci": "Kevin MacLeod",
-   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cipher.mp3",
-   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
-   "lisans_kodu": "cc_by_4",
-   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
-   "ruh": [
-    "gece",
-    "sehir"
-   ],
-   "kategoriler": [],
-   "etiket_durumu": "on"
-  },
-  {
    "id": "inc-investigations",
    "kaynak": "incompetech",
    "baslik": "Investigations",
@@ -569,26 +560,6 @@
    "baslik": "Fretless",
    "sanatci": "Kevin MacLeod",
    "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fretless.mp3",
-   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
-   "lisans_kodu": "cc_by_4",
-   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
-   "ruh": [
-    "sakin"
-   ],
-   "kategoriler": [
-    "CAFE",
-    "HISTORY",
-    "HOTEL",
-    "NATURE"
-   ],
-   "etiket_durumu": "on"
-  },
-  {
-   "id": "inc-study-and-relax",
-   "kaynak": "incompetech",
-   "baslik": "Study and Relax",
-   "sanatci": "Kevin MacLeod",
-   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Study%20and%20Relax.mp3",
    "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
    "lisans_kodu": "cc_by_4",
    "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
@@ -919,27 +890,6 @@
    "etiket_durumu": "on"
   },
   {
-   "id": "inc-almost-in-f-tranquility",
-   "kaynak": "incompetech",
-   "baslik": "Almost in F - Tranquility",
-   "sanatci": "Kevin MacLeod",
-   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Almost%20in%20F%20-%20Tranquility.mp3",
-   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
-   "lisans_kodu": "cc_by_4",
-   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
-   "ruh": [
-    "sakin",
-    "doga"
-   ],
-   "kategoriler": [
-    "CAFE",
-    "HISTORY",
-    "HOTEL",
-    "NATURE"
-   ],
-   "etiket_durumu": "on"
-  },
-  {
    "id": "inc-healing",
    "kaynak": "incompetech",
    "baslik": "Healing",
@@ -998,28 +948,6 @@
     "HISTORY",
     "HOTEL",
     "NATURE"
-   ],
-   "etiket_durumu": "on"
-  },
-  {
-   "id": "inc-canon-in-d",
-   "kaynak": "incompetech",
-   "baslik": "Canon in D",
-   "sanatci": "Kevin MacLeod",
-   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Canon%20in%20D.mp3",
-   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
-   "lisans_kodu": "cc_by_4",
-   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
-   "ruh": [
-    "sakin",
-    "romantik"
-   ],
-   "kategoriler": [
-    "CAFE",
-    "HISTORY",
-    "HOTEL",
-    "NATURE",
-    "RESTAURANT"
    ],
    "etiket_durumu": "on"
   },
@@ -1185,25 +1113,6 @@
     "HISTORY",
     "RESTAURANT",
     "SIGHT"
-   ],
-   "etiket_durumu": "on"
-  },
-  {
-   "id": "inc-pickled-pink",
-   "kaynak": "incompetech",
-   "baslik": "Pickled Pink",
-   "sanatci": "Kevin MacLeod",
-   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Pickled%20Pink.mp3",
-   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
-   "lisans_kodu": "cc_by_4",
-   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
-   "ruh": [
-    "neseli"
-   ],
-   "kategoriler": [
-    "ACTIVITY",
-    "FOOD",
-    "SHOPPING"
    ],
    "etiket_durumu": "on"
   },
