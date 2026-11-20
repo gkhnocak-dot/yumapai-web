@@ -61,6 +61,82 @@ def etiket_lisansi(etiketler):
     return True, "", isrc
 
 
+INC_BASE = "https://incompetech.com/music/royalty-free/"
+LISANS_BY4 = re.compile(r"Attribution\s*4\.0|licenses/by/4\.0|CC[ -]BY[ -]4\.0", re.I)
+ISRC_RE = re.compile(r"\b[A-Z]{2}[A-Z0-9]{3}\d{7}\b")
+KAYNAK_YOLU_RE = re.compile(r"""["'(=\s]((?:https?://incompetech\.com)?/?[A-Za-z0-9_./\-]*\.(?:json|php|js)(?:\?[^"'\s)<>]*)?)["')\s>]""")
+
+
+def inc_kaynak_adaylari(html, taban=INC_BASE, ek=()):
+    """Resmi müzik sayfasının kendi yüklediği betik/veri adresleri (yalnız incompetech.com; en çok 25). Yeni adres UYDURULMAZ."""
+    from urllib.parse import urljoin
+    sonuc = []
+    for u in list(ek) + [m.group(1) for m in KAYNAK_YOLU_RE.finditer(html)] + [taban + "isrc_to_name.php", taban + "full_list.php"]:
+        tam = urljoin(taban, u)
+        if urlparse(tam).hostname == "incompetech.com" and tam not in sonuc and "jquery" not in tam.lower():
+            sonuc.append(tam)
+    return sonuc[:25]
+
+
+def _kayit_penceresi(metin, i):
+    """Başlığın içinde olduğu en yakın {...} nesnesi (komşu parçaların lisansı karışmasın); yoksa dar çevre."""
+    s, e = metin.rfind("{", 0, i), metin.find("}", i)
+    if s != -1 and e != -1 and e - s < 2000:
+        return metin[s:e + 1]
+    return metin[max(0, i - 200): i + 400]
+
+
+def inc_resmi_kanit(baslik, kaynaklar):
+    """Resmi sayfa/liste metinlerinde parçanın kaydını arar. kaynaklar: [(url, metin)]. Döner (kanit|None, neden).
+    Kayıt = başlığın tam (tırnaklı ya da etiket arası) geçtiği yerin çevresi; çevrede CC BY 4.0 işareti olmalı, NC/SA/ND olmamalı."""
+    bulundu_ama_lisanssiz = False
+    for url, metin in kaynaklar:
+        for kalip in (json.dumps(baslik, ensure_ascii=False), '"' + baslik + '"', ">" + baslik + "<", "'" + baslik + "'"):
+            i = metin.find(kalip)
+            while i != -1:
+                pencere = _kayit_penceresi(metin, i)
+                if YASAK_CC.search(pencere) or re.search(r"\bBY-(NC|SA|ND)\b", pencere, re.I):
+                    return None, "resmi_kayit_yasak_lisans"
+                if LISANS_BY4.search(pencere):
+                    m = ISRC_RE.search(pencere)
+                    return {"url": url, "alinti": re.sub(r"\s+", " ", pencere)[:500], "isrc": m.group(0) if m else None}, ""
+                bulundu_ama_lisanssiz = True
+                i = metin.find(kalip, i + 1)
+    return None, "resmi_kayitta_lisans_yok" if bulundu_ama_lisanssiz else "resmi_kayit_bulunamadi"
+
+
+def inc_kaynaklari_yukle(ek=(), al=None, kesif=None):
+    """music.html + sayfanın yüklediği veri/betik dosyaları (bir kademe daha) → [(url, metin)]. Keşif günlüğü kesif listesine yazılır."""
+    al = al or sayfa_buyuk
+    kesif = kesif if kesif is not None else []
+    cikti, gorulen = [], set()
+    try:
+        html = al(INC_BASE + "music.html")
+    except Exception as e:
+        kesif.append({"url": INC_BASE + "music.html", "hata": type(e).__name__}); return cikti
+    kesif.append({"url": INC_BASE + "music.html", "bayt": len(html)})
+    sira = inc_kaynak_adaylari(html, ek=ek)
+    while sira and len(gorulen) < 40:
+        u = sira.pop(0)
+        if u in gorulen: continue
+        gorulen.add(u)
+        try:
+            metin = al(u)
+        except Exception as e:
+            kesif.append({"url": u, "hata": getattr(e, "code", type(e).__name__)}); continue
+        kesif.append({"url": u, "bayt": len(metin), "by4_isareti": len(LISANS_BY4.findall(metin)), "ornek": re.sub(r"\s+", " ", metin[:200])})
+        cikti.append((u, metin))
+        if len(gorulen) < 20:
+            sira += [x for x in inc_kaynak_adaylari(metin, taban=u) if x not in gorulen and x not in sira][:10]
+    return cikti
+
+
+def sayfa_buyuk(url):
+    istek = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(istek, timeout=60) as r:
+        return r.read(8_000_000).decode("utf-8", "replace")
+
+
 def sayfa_lisansi(html, beklenen_url):
     """FMA/Musopen parça sayfası: beklenen lisans adresi geçmeli, hiçbir yasak (NC/SA/ND) lisans adresi geçmemeli."""
     if YASAK_CC.search(html): return False, "sayfada_yasak_lisans"
@@ -164,30 +240,43 @@ def calis(a):
     os.makedirs(os.path.join(a.cikti, "dosyalar"), exist_ok=True)
     tmp = os.path.join(a.cikti, "_ham"); os.makedirs(tmp, exist_ok=True)
     adlar, kayit, atlanan, durum = kat["lisans_adlari"], [], [], {}
+    inc_liste, kesif = None, []
     for n, p in enumerate(kat["parcalar"]):
         if a.sinir and n >= a.sinir: break
         i = p["id"]
         try:
             ham = os.path.join(tmp, i + ".bin")
             if n: time.sleep(SIRA_BEKLEME)
+            resmi_kanit, resmi_neden = None, ""
+            if p["kaynak"] == "incompetech":
+                if inc_liste is None:
+                    inc_liste = inc_kaynaklari_yukle(ek=kat["kaynaklar"]["incompetech"].get("resmi_liste_urlleri", []), kesif=kesif)
+                resmi_kanit, resmi_neden = inc_resmi_kanit(p["baslik"], inc_liste)
+                if resmi_neden == "resmi_kayit_yasak_lisans": raise ValueError(resmi_neden)
             son = indir(p["indirme_url"], ham)
             if urlparse(son).scheme != "https": raise ValueError("https_degil")
             etiket, sure = ffprobe(ham)
             kaynak_sayfa = p["kaynak_sayfa_url"]
             if p["kaynak"] == "incompetech":
                 tamam, neden, isrc = etiket_lisansi(etiket)
-                if not tamam: raise ValueError(neden)
+                if tamam:
+                    kanit = {"tur": "mp3_etiketi", "url": p["indirme_url"]}
+                elif resmi_kanit:
+                    kanit, isrc = {"tur": "resmi_liste", "url": resmi_kanit["url"], "alinti": resmi_kanit["alinti"]}, resmi_kanit["isrc"]
+                else:
+                    raise ValueError(f"{neden}+{resmi_neden}")
                 if isrc: kaynak_sayfa = f"https://incompetech.com/music/royalty-free/index.html?isrc={isrc}"
             else:
                 tamam, neden = sayfa_lisansi(sayfa_al(p["kaynak_sayfa_url"]), p["lisans_url"])
                 if not tamam: raise ValueError(neden)
+                kanit = {"tur": "kaynak_sayfasi", "url": p["kaynak_sayfa_url"]}
             if not (MIN_SN <= sure <= MAX_SN): raise ValueError(f"sure_uygun_degil_{int(sure)}")
             yol = f"{i}.mp3"; cikis = os.path.join(a.cikti, "dosyalar", yol)
             kodla128(ham, cikis)
             _, sure2 = ffprobe(cikis)
             k = {"id": i, "uuid": uuid_kimlikten(i), "title": p["baslik"], "artist": p["sanatci"], "license_code": p["lisans_kodu"],
                  "license_url": p["lisans_url"], "source_url": kaynak_sayfa, "storage_path": yol, "duration_s": int(round(sure2)),
-                 "sha256_ham": sha256(ham), "sha256": sha256(cikis), "bayt": os.path.getsize(cikis), "indirme_url": p["indirme_url"],
+                 "sha256_ham": sha256(ham), "sha256": sha256(cikis), "bayt": os.path.getsize(cikis), "indirme_url": p["indirme_url"], "lisans_kanit": kanit,
                  "cekildi": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "moods": p["ruh"], "categories": p.get("kategoriler", []),
                  "attribution_text": atif_metni(p, kaynak_sayfa, adlar[p["lisans_kodu"]])}
             k["yukleme"] = yukle_storage(cikis, yol, durum)
@@ -205,6 +294,14 @@ def calis(a):
     toplam = sum(k["bayt"] for k in kayit)
     rapor = [f"# Müzik çekimi raporu", f"- Alınan: {len(kayit)}  Atlanan: {len(atlanan)}  Toplam: {toplam / 1048576:.1f} MiB",
              f"- Storage yükleme: {sorted({k['yukleme'] for k in kayit})}"] + [f"- ATLANDI {x['id']} ({x['baslik']}): {x['neden']}" for x in atlanan]
+    rapor.append("- Incompetech resmi liste keşfi (" + str(len(kesif)) + " adres): " + json.dumps(kesif, ensure_ascii=False)[:3000])
+    try:
+        ad = json.load(open(a.aday_durum, encoding="utf-8"))
+        kay = ad.get("kaynaklar_stats") or []
+        rapor.append(f"- Openverse ses kaynakları: {kay}; FMA/Musopen yok: {not any(k in ('freemusicarchive', 'musopen') for k in kay)}; hata sayısı: {len(ad.get('hatalar', []))}")
+    except Exception:
+        rapor.append("- Openverse durumu okunamadı (muzik_aday_durum.json yok)")
+    json.dump(kesif, open(os.path.join(a.cikti, "incompetech_kesif.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     open(os.path.join(a.cikti, "rapor.md"), "w", encoding="utf-8").write("\n".join(rapor) + "\n")
     print("\n".join(rapor))
     return 0
@@ -215,4 +312,5 @@ if __name__ == "__main__":
     ap.add_argument("--katalog", default="muzik/muzik_katalog.json")
     ap.add_argument("--cikti", default="muzik_cikti")
     ap.add_argument("--sinir", type=int, default=0)
+    ap.add_argument("--aday-durum", dest="aday_durum", default="muzik_aday_durum.json")
     sys.exit(calis(ap.parse_args()))
