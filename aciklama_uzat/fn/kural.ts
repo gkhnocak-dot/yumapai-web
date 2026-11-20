@@ -106,8 +106,10 @@ function gurultu(l: Lang): RegExp {
 const LATIN_GLOS = (l: Lang, ic: string) => (l === "ru" || l === "ar" || l === "ja") && /\p{Script=Latin}/u.test(ic) && !new RegExp(`[\\p{Script=${YAZI[l]}}]`, "u").test(ic) && !/^[\s\dIVXLCM.,–-]+$/.test(ic);
 export function temizleDil(ham: string, l: Lang): string {
   const ja = l === "ja";
-  let s = ham.replace(/\[\d+\]|\[[a-z]\]/g, "").replace(/\s+/g, " ");
+  let s = ham.replace(/[\u200b\u200c\u200e\u200f\u2060\ufeff]/g, "").replace(/\[\d+\]|\[[a-z]\]/g, "").replace(/\s+/g, " ");
   if (ja) s = s.replace(/（/g, "(").replace(/）/g, ")");
+  // Dil arası bağlantı artığı: "（6都市連合、en:Doric hexapolis）" -> "（6都市連合）", "(en:Foo)" -> "" (ja Knidos, kuru çalıştırma bulgusu).
+  s = s.replace(/[、,，]\s*[a-z]{2,3}:[^()、,，]*(?=\))/g, "").replace(/\(\s*[a-z]{2,3}:[^()]*\)/g, "");
   s = disParantezSil(s, DIL_ETIKETI_U); const G = gurultu(l); const uzun = ja ? 60 : UZUN_PARANTEZ;
   for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => G.test(ic) || DIL_ETIKETI_U.test(ic) || LATIN_GLOS(l, ic) || ic.length > uzun || ic.trim() === "" ||
     (ja && /^[\p{Script=Hiragana}ー・、\s]+$/u.test(ic)) ? "" : m); // ja: yalnız hiragana parantez okunuştur
@@ -179,7 +181,9 @@ const SON: Partial<Record<Lang, RegExp>> = { ar: /[.!?؟]["'”’)»]?$/, ja: /
 const sonMu = (c: string, l: Lang) => (SON[l] ?? /[.!?]["'”’)»]?$/).test(c);
 export function girisParagraflari(ham: string, l: Lang = "tr"): string {
   const out: string[] = [];
-  for (const p of ham.split(/\n+/).map((x) => x.trim()).filter(Boolean)) {
+  // Yeni diller: kaynak işaretinden artan görünmez karakter (es/ar "… Palestina. \u200b") paragraf sonunu gizlemesin. tr/en yolu değişmez (bayt eşitliği).
+  const gor = (x: string) => (ESKI(l) ? x : x.replace(/[\u200b\u200c\u200e\u200f\u2060\ufeff]/g, "")).trim();
+  for (const p of ham.split(/\n+/).map(gor).filter(Boolean)) {
     if (/[:：]\s*$/.test(p) || !sonMu(p, l)) { if (out.length) break; else continue; }
     out.push(p);
   }

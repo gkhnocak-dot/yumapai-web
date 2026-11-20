@@ -11,7 +11,7 @@ permissions:
 jobs:
   kuru:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
       - uses: denoland/setup-deno@v2
@@ -22,12 +22,16 @@ jobs:
         run: cd aciklama_uzat && deno run -A kuru.ts orneklem500.tsv /tmp/cikti
       - name: Ek örneklem (en Wikipedia maddesi olan 166 yer; yeni dillerde madde oranı yüksek)
         run: cd aciklama_uzat && deno run -A kuru.ts orneklem_dil.tsv /tmp/cikti/ek
+      - name: Tüm küme (16.040 Wikidata yeri, 7 dil; canlıya yazım öncesi tam denetim)
+        run: cd aciklama_uzat && deno run -A kuru.ts orneklem500.tsv /tmp/cikti/tum --tum ../wikidata_*.csv
       - name: Çıktıyı veri-aciklama-dil-cikti dalına yaz
         if: always()
         run: |
           cd /tmp/cikti && ls -la
           test -f ham.jsonl && gzip -9 ham.jsonl || true
           test -f ek/ham.jsonl && gzip -9 ek/ham.jsonl || true
+          test -f tum/ham.jsonl && gzip -9 tum/ham.jsonl || true
+          test -f tum/tum.jsonl && gzip -9 tum/tum.jsonl || true
           git init -q -b veri-aciklama-dil-cikti
           git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
           git add -A
