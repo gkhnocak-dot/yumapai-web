@@ -5,9 +5,9 @@
  "start_url": ".",
  "scope": ".",
  "display": "standalone",
- "background_color": "#1E7BEA",
- "theme_color": "#1688F8",
- "description": "Arkadaşlarının gezileri, Keşfet, Yumy gezi rehberi, mesajlar ve gezilerin.",
+ "background_color": "#F4F6FA",
+ "theme_color": "#F4F6FA",
+ "description": "Arkadaşlarının gezileri, Keşfet, mesajlar ve gezilerin.",
  "icons": [
   {
    "src": "icons/Icon-192.png",
