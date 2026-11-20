@@ -1,70 +1,56 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-dK4(d){return new A.a4B(d,null)},
-a4B:function a4B(d,e){this.e=d
-this.a=e},
-aLp:function aLp(){var _=this
-_.e=_.d=!1
-_.f=""
-_.c=_.a=_.r=null},
-d6L:function d6L(d){this.a=d},
-d6K:function d6K(d){this.a=d},
-d6J:function d6J(d,e,f){this.a=d
-this.b=e
-this.c=f},
-d6I:function d6I(d){this.a=d}},D
-B=c[0]
-C=c[2]
-A=a.updateHolder(c[53],A)
-D=c[84]
-A.a4B.prototype={
-a2(){return new A.aLp()}}
-A.aLp.prototype={
-ad(){this.ai()
-this.r=B.dj(C.x8,new A.d6L(this))},
-n(){var x=this.r
-if(x!=null)x.av(0)
-this.ag()},
-G(d){var x,w,v,u,t,s,r=this,q=B.qi(d,null,y.a)
-q=q==null?null:q.glk()
-x=$.n()
-w=r.a.e
-if(w==null)w=""
-v=w.length===0
-u=v?x.o1:w
-t=x.h6
-s=u+"|"+t
-if(r.e&&q===!0&&!r.d&&u.length!==0&&t!==u&&x.ky!=="loading"&&s!==r.f){r.d=!0
-r.f=s
-$.ay.ok$.push(new A.d6J(r,v,w))}return C.ak}}
-var z=a.updateTypes([])
-A.d6L.prototype={
-$0(){var x=this.a
-if(x.c!=null)x.l(0,new A.d6K(x))},
-$S:0}
-A.d6K.prototype={
-$0(){return this.a.e=!0},
-$S:0}
-A.d6J.prototype={
-$1(d){return this.aGx(d)},
-aGx(d){var x=0,w=B.A(y.f),v,u=this,t,s
-var $async$$1=B.w(function(e,f){if(e===1)return B.x(f,w)
-for(;;)switch(x){case 0:s=u.a
-if(s.c==null){x=1
-break}t=u.b?"today":"detail"
-x=3
-return B.u(B.f_(t,u.c,"","",""),$async$$1)
-case 3:if(s.c!=null)s.l(0,new A.d6I(s))
-case 1:return B.y(v,w)}})
-return B.z($async$$1,w)},
-$S:18}
-A.d6I.prototype={
-$0(){return this.a.d=!1},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(A.a4B,B.aa)
-x(A.aLp,B.ag)
-w(B.dw,[A.d6L,A.d6K,A.d6I])
-x(A.d6J,B.dl)})()
-B.du(b.typeUniverse,JSON.parse('{"a4B":{"aa":[],"J":[]},"aLp":{"ag":["a4B"]}}'))
-var y={a:B.al("ai?"),f:B.al("~")};(function constants(){D.qS=new B.aD(57686,"MaterialIcons",null,!1)})()};
-(a=>{a["c92wMjXgNY8MYwI+9rF6XDg1HpY="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={RM:function RM(d,e){this.a=d
+this.b=e},a4A:function a4A(d,e){this.c=d
+this.a=e},buH:function buH(d,e,f,g){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g},buI:function buI(d,e){this.a=d
+this.b=e}},D
+A=c[0]
+B=c[2]
+C=a.updateHolder(c[64],C)
+D=c[171]
+C.RM.prototype={
+Y(){return"YuRouteMode."+this.b}}
+C.a4A.prototype={
+G(d){var x=null,w=A.a(d).ax.a===B.a?A.c():A.b(),v=A.ce(d),u=new C.buH(this,d,v,w),t=v.a?B.qa:B.cR,s=A.M(12)
+return A.d(x,A.v(A.e([u.$3(D.a4S,A.P("yu_in_the_city_df6a",x),"RotaPlanPage"),u.$3(D.a4T,A.P("yu_between_cities_1f1c",x),"YolUstuPage")],y.e),B.E,x,B.z,B.i,0,x,x),B.b,x,x,new A.I(t,x,x,s,x,x,B.o),x,x,x,x,B.nL,x,x,x)}}
+var z=a.updateTypes(["J(RM,L,L)"])
+C.buH.prototype={
+$3(d,e,f){var x,w,v,u,t=this,s=null,r=t.a.c===d,q=r?s:new C.buI(t.b,f)
+if(r){x=t.c.a
+w=x?D.acw:t.d.ga0()
+v=A.M(10)
+w=new A.I(w,s,s,v,x?s:B.Mi,s,B.o)
+x=w}else x=s
+w=t.d
+v=new A.j(w).glm()
+u=r?B.T:B.aC
+if(r)w=t.c.a?B.y:w.gB()
+else w=w.gt()
+return A.C(A.aR(s,!0,s,A.bb(B.a7,A.d(B.Q,A.h(e,s,s,1,s,s,s,s,A.k(v,w,"Manrope",13,u,0),s,s,s,s),B.b,s,s,x,s,44,s,s,s,s,s,s),B.N,!1,new A.T("yuKMode_"+d.b,y.a),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,q,s,s,s,s,s,s,!1,B.S),!1,s,s,s,s,!0,s,!1,s,s,s,s,s,s,s,s,s,s,s,e,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,r,s,s,s,s,s,s,s,B.J,s),1)},
+$S:z+0}
+C.buI.prototype={
+$0(){var x,w,v,u=A.cW(this.a),t=u.a
+t===$&&A.o()
+t=t.aeu(this.b,B.ds,B.V)
+if($.uU)$.tg().od(B.dP,"pushReplacement "+t)
+x=u.d
+x===$&&A.o()
+w=u.c
+w===$&&A.o()
+w=w.d
+v=new A.aP($.aM,y.k)
+x.Vt(t,new A.wM(null,new A.bu(v,y.c),w,B.bl7))
+return v},
+$S:0};(function inheritance(){var x=a.inherit
+x(C.RM,A.pg)
+x(C.a4A,A.ar)
+x(C.buH,A.dk)
+x(C.buI,A.dt)})()
+A.dw(b.typeUniverse,JSON.parse('{"a4A":{"ar":[],"J":[]}}'))
+var y={e:A.aj("S<J>"),a:A.aj("T<L>"),c:A.aj("bu<ah?>"),k:A.aj("aP<ah?>")};(function constants(){D.acw=new A.a1(1,0.3215686274509804,0.40784313725490196,0.5607843137254902,B.B)
+D.a4S=new C.RM(0,"inCity")
+D.a4T=new C.RM(1,"between")})()};
+(a=>{a["P0bLlNdrO+KxzEj1ynvRdyl/NHc="]=a.current})($__dart_deferred_initializers__);

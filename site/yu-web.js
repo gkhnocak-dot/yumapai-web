@@ -79,14 +79,107 @@
 
   // Kamera stüdyosu (sürüm 77). Kameranın <video> öğesi camera_web eklentisinindir; burada yalnız bulunur.
   // Canlı filtre CSS filter ile videoya uygulanır (Flutter katman filtresi platform görünümüne işlemez).
+  //
+  // Kamera kaynakları (DERSLER: kapanışta bırakılır). getUserMedia'dan dönen her akış kayda girer. yuKameraBirak() hepsini
+  // bırakır: her iz stop(), akışı gösteren <video> durur, srcObject=null, DOM'dan çıkar. Sayfa gizlenince (uygulama arka
+  // plana gidince, iPhone ana ekran uygulaması) ya da kapanırken (pagehide) bu iş Flutter'ı beklemeden, eş zamanlı yapılır:
+  // iOS sayfayı askıya almadan önce kamera göstergesi söner. Gizliyken sonuçlanan bir açılışın izleri de hemen durur.
+  // Kamera yeniden yalnız Flutter isteyince (stüdyo açık ve görünürken) açılır.
+  var akislar = [];
+  var sonVideo = null;
+  function canliIzler() {
+    var l = [];
+    for (var i = 0; i < akislar.length; i++) {
+      var t = akislar[i].getTracks();
+      for (var j = 0; j < t.length; j++) if (t[j].readyState !== 'ended') l.push(t[j]);
+    }
+    return l;
+  }
+  function gizli() { return document.visibilityState === 'hidden'; }
+  function videoBirak(v) {
+    try { v.pause(); } catch (e) {}
+    try { v.srcObject = null; v.removeAttribute('src'); v.load(); } catch (e) {}
+    try { v.remove(); } catch (e) {}
+  }
+  function kameraBirak() {
+    var eski = akislar;
+    akislar = [];
+    sonVideo = null;
+    var kokler = [document];
+    document.querySelectorAll('flt-glass-pane, flutter-view').forEach(function (e) { if (e.shadowRoot) kokler.push(e.shadowRoot); });
+    kokler.forEach(function (k) {
+      k.querySelectorAll('video').forEach(function (v) { if (v.srcObject && eski.indexOf(v.srcObject) >= 0) videoBirak(v); });
+    });
+    eski.forEach(function (s) { s.getTracks().forEach(function (t) { try { t.stop(); } catch (e) {} }); });
+    // Efekt motorunun kamera klonları (yüz izleyici) da durur; sahne açık kalırsa yeni akışla yeniden başlar.
+    try { if (arModul && typeof arModul.izlemeDurdur === 'function') arModul.izlemeDurdur(); } catch (e) {}
+  }
+  window.yuKameraBirak = kameraBirak;
+  window.yuKameraIzSayisi = function () { return canliIzler().length; };
+  try {
+    var md = navigator.mediaDevices;
+    if (md && typeof md.getUserMedia === 'function') {
+      var asilGum = md.getUserMedia.bind(md);
+      md.getUserMedia = function () {
+        return asilGum.apply(null, arguments).then(function (s) {
+          if (gizli()) s.getTracks().forEach(function (t) { try { t.stop(); } catch (e) {} });
+          else akislar.push(s);
+          return s;
+        });
+      };
+    }
+  } catch (e) {}
+  document.addEventListener('visibilitychange', function () { if (gizli()) kameraBirak(); });
+  window.addEventListener('pagehide', kameraBirak);
+  // Önizleme/çekim çözünürlüğü: izin en-boy oranı korunarak uzun kenarı [uzun] olur, kare hızı en çok [fps].
+  // Yeni boyutta ilk kare gelince (resize) ya da 1,5 sn sonra true; desteklenmezse false (o anki ayarla sürer).
+  window.yuKameraCozunurluk = function (uzun, fps) {
+    return new Promise(function (bitti) {
+      var v = kameraVideo();
+      var t = v && v.srcObject.getVideoTracks()[0];
+      if (!t || typeof t.applyConstraints !== 'function') return bitti(false);
+      var s = typeof t.getSettings === 'function' ? t.getSettings() : {};
+      var w = s.width || v.videoWidth, h = s.height || v.videoHeight;
+      if (!w || !h) return bitti(false);
+      var k = uzun / Math.max(w, h);
+      var cw = Math.round(w * k), ch = Math.round(h * k);
+      var hizUygun = !fps || (s.frameRate && s.frameRate <= fps + 0.5);
+      if (Math.abs(cw - w) < 2 && Math.abs(ch - h) < 2 && hizUygun) return bitti(true);
+      var kosul = { width: { ideal: cw }, height: { ideal: ch } };
+      var zaman = null;
+      function son(ok) { clearTimeout(zaman); v.removeEventListener('resize', yeni); bitti(ok); }
+      function yeni() { son(true); }
+      function uygula(c) { return t.applyConstraints(c); }
+      var tam = Object.assign({}, kosul);
+      if (fps) tam.frameRate = { ideal: fps, max: fps };
+      uygula(tam)
+        .catch(function () { if (fps) kosul.frameRate = { ideal: fps }; return uygula(kosul); })
+        .then(function () {
+          if (Math.abs(cw - w) < 2 && Math.abs(ch - h) < 2) return son(true);
+          v.addEventListener('resize', yeni);
+          zaman = setTimeout(function () { son(true); }, 1500);
+        })
+        .catch(function () { son(false); });
+    });
+  };
+  // Canlı izi olan <video>: gizliyken açılıp durdurulan (izleri 'ended') bir akışın öğesi kamera sayılmaz.
+  function canliVideo(v) {
+    var s = v && v.srcObject;
+    if (!s || typeof s.getVideoTracks !== 'function') return false;
+    var t = s.getVideoTracks();
+    for (var i = 0; i < t.length; i++) if (t[i].readyState !== 'ended') return true;
+    return false;
+  }
   function kameraVideo() {
+    if (sonVideo && sonVideo.isConnected && canliVideo(sonVideo)) return sonVideo;
+    sonVideo = null;
     var kokler = [document];
     document.querySelectorAll('flt-glass-pane, flutter-view').forEach(function (e) { if (e.shadowRoot) kokler.push(e.shadowRoot); });
     for (var i = 0; i < kokler.length; i++) {
       var list = kokler[i].querySelectorAll('video');
       for (var j = 0; j < list.length; j++) {
         var v = list[j];
-        if (v.srcObject && typeof v.srcObject.getVideoTracks === 'function' && v.srcObject.getVideoTracks().length) return v;
+        if (canliVideo(v)) return (sonVideo = v);
       }
     }
     return null;
@@ -99,7 +192,7 @@
   window.yuKameraFiltre = function (css) {
     var v = kameraVideo();
     if (!v) return false;
-    v.style.filter = css || '';
+    if (v.style.filter !== (css || '')) v.style.filter = css || ''; // aynı değer yeniden yazılmaz (gereksiz stil hesabı yok)
     return true;
   };
   // Flaş (torch): yalnız kamera izi bu yeteneği açıkça bildiriyorsa (iOS Safari bildirmez → düğme gizlenir).
@@ -111,21 +204,46 @@
       return t.getCapabilities().torch === true;
     } catch (e) { return false; }
   };
-  // Yüz efektleri (AR): MediaPipe yalnız kullanıcı efekt seçince, kendi sitemizin ar/ klasöründen yüklenir.
+  // Yüz efektleri (AR): 8th Wall + three.js yalnız kullanıcı efekt seçince, kendi sitemizin ar/ klasöründen yüklenir.
   // Yüz verisi yalnız bu cihazda işlenir; hiçbir yere gönderilmez ve saklanmaz.
+  // Kapatılınca (stüdyo kapanır/gizlenir) döngü, 8th Wall izleyicisi, klon kamera izleri ve WebGL bağlamları bırakılır
+  // (yu-ar.js kapat). Yükleme sürerken kapatılırsa yükleme bitince kendini bırakır (nesil), sahipsiz motor kalmaz.
   var arModul = null;
   var arBekleyen = null;
+  var arNesil = 0;
   window.yuArTaban = function () { return new URL('ar/', runtime).href; };
   window.yuArYukle = function () {
     if (arBekleyen) return arBekleyen;
     var taban = new URL('ar/', runtime).href;
+    var n = ++arNesil;
     arBekleyen = import(new URL('yu-ar.js', taban).href)
-      .then(function (m) { return m.yukle(taban).then(function (d) { arModul = m; return d; }); })
-      .catch(function (e) { arBekleyen = null; arModul = null; throw e; });
+      .then(function (m) {
+        return m.yukle(taban).then(function (d) {
+          if (n !== arNesil) { m.kapat(); throw new Error('yu-ar kapatildi'); }
+          arModul = m;
+          return d;
+        });
+      })
+      .catch(function (e) { if (n === arNesil) { arBekleyen = null; arModul = null; } throw e; });
     return arBekleyen;
   };
-  window.yuArAlgila = function () { return arModul ? arModul.algila(kameraVideo()) : null; };
-  window.yuArKapat = function () { if (arModul) arModul.kapat(); arModul = null; arBekleyen = null; };
+  // Efekt sahnesi (three.js): tuval Flutter'ın platform görünümüdür; döngü ar/yu-ar.js'te döner.
+  window.yuArSahne = function (tuval, efekt, ayna, filtre) {
+    if (!arModul) return false;
+    arModul.sahneBaslat(tuval, kameraVideo, efekt, ayna, filtre);
+    return true;
+  };
+  window.yuArSahneAyar = function (efekt, ayna, filtre) { if (arModul) arModul.sahneAyar(efekt, ayna, filtre); };
+  window.yuArSahneDurdur = function () { if (arModul) arModul.sahneDurdur(); };
+  window.yuArKareAl = function () { return arModul ? arModul.kareAl() : Promise.reject(new Error('ar')); };
+  window.yuArOlcum = function () { return arModul ? arModul.olcumAl() : null; };
+  window.yuArKapat = function () {
+    arNesil++; // yükleme sürüyorsa bitince kendini bırakır
+    var m = arModul;
+    arModul = null;
+    arBekleyen = null;
+    if (m) m.kapat();
+  };
 
   // 3. Keep the same plate over the engine until the browser can paint Flutter's first frame.
   window.addEventListener('flutter-first-frame', function () {
