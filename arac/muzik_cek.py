@@ -258,6 +258,9 @@ def html_metin(s):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(s or ""))).strip()
 
 
+COMMONS_BEKLEME_BUTCE = [1200]  # sn: tüm koşuda 429 için toplam bekleme üst sınırı (iş akışı zaman aşımına düşüp çıktıyı kaybetmesin)
+
+
 def commons_indir(url, hedef, bekle=time.sleep):
     """upload.wikimedia.org 429 verirse Retry-After (yoksa artan bekleme) ile en çok 5 deneme; başka hata yükselir."""
     for i in range(5):
@@ -267,7 +270,10 @@ def commons_indir(url, hedef, bekle=time.sleep):
             if e.code != 429 or i == 4: raise
             try: s = int(e.headers.get("Retry-After") or 0)
             except (TypeError, ValueError): s = 0
-            bekle(min(max(s, 30 * (i + 1)), 180))
+            s = min(max(s, 30 * (i + 1)), 180)
+            if s > COMMONS_BEKLEME_BUTCE[0]: raise
+            COMMONS_BEKLEME_BUTCE[0] -= s
+            bekle(s)
 
 
 def commons_bilgi(dosya, api=None):
