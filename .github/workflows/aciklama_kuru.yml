@@ -1,0 +1,33 @@
+name: aciklama-kuru
+# Açıklama uzatma kuru çalıştırması (Reis onayı 20.11.2026 23:02). Veritabanına YAZMAZ; yalnız resmi Wikipedia/Wikidata API okur.
+# Çıktı 'veri-aciklama-cikti' dalına tek commit olarak zorla yazılır (orneklem500.jsonl + tum.jsonl.gz).
+on:
+  push:
+    branches: [veri-aciklama]
+    paths: ['aciklama_uzat/**', '.github/workflows/aciklama_kuru.yml']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  kuru:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with: { deno-version: v2.x }
+      - name: Kural/kaynak kopyası denetimi
+        run: cd aciklama_uzat/fn && md5sum -c MD5
+      - name: Kuru çalıştırma (örneklem + tüm Wikidata yüklemesi)
+        run: cd aciklama_uzat && deno run -A kuru.ts orneklem500.tsv /tmp/cikti --tum ../wikidata_*.csv
+      - name: Çıktıyı veri-aciklama-cikti dalına yaz
+        if: always()
+        run: |
+          cd /tmp/cikti && ls -la
+          test -f tum.jsonl && gzip -9 tum.jsonl || true
+          git init -q -b veri-aciklama-cikti
+          git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
+          git add -A
+          git commit -q -m "Açıklama uzatma kuru çalıştırma çıktısı (Wikipedia CC BY-SA 4.0 + Wikidata CC0; DB'ye yazılmadı)"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -f origin veri-aciklama-cikti
