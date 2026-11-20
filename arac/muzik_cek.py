@@ -404,17 +404,27 @@ def uuid_kimlikten(kimlik):
 
 
 def yukle_storage(dosya, yol, durum):
-    url, anahtar = os.environ.get("SUPABASE_URL", "").rstrip("/"), os.environ.get("SUPABASE_SERVICE_ROLE_KEY", "")
+    """Private 'music' kovasına yükler. Yeni tip anahtarlar (sb_secret_…) JWT değildir: yalnız apikey başlığı gider; eski JWT anahtarda Bearer da eklenir.
+    Yanıt gövdesi kayda yazılır (yalnız ilk 120 karakter, anahtar içermez). Yetki/kova hatası tüm yüklemeyi kapatır; tek dosya hatası kapatmaz (üst üste 3 hata kapatır)."""
+    url, anahtar = os.environ.get("SUPABASE_URL", "").rstrip("/"), os.environ.get("SUPABASE_SERVICE_ROLE_KEY", "").strip()
     if not url or not anahtar or durum.get("kapali"): return "atlandi"
     with open(dosya, "rb") as f: veri = f.read()
-    istek = urllib.request.Request(f"{url}/storage/v1/object/music/{yol}", data=veri, method="POST",
-        headers={"Authorization": "Bearer " + anahtar, "apikey": anahtar, "Content-Type": "audio/mpeg", "x-upsert": "true", "User-Agent": UA})
+    basliklar = {"apikey": anahtar, "Content-Type": "audio/mpeg", "x-upsert": "true", "User-Agent": UA}
+    if anahtar.startswith("eyJ"): basliklar["Authorization"] = "Bearer " + anahtar
+    istek = urllib.request.Request(f"{url}/storage/v1/object/music/{yol}", data=veri, method="POST", headers=basliklar)
     try:
         urllib.request.urlopen(istek, timeout=120).read()
+        durum["ust_uste_hata"] = 0
         return "yuklendi"
     except urllib.error.HTTPError as e:
-        durum["kapali"] = True  # kova yok / yetki yok: tekrar denenmez, çıktı artefakt olarak kalır
-        return f"yukleme_hata_{e.code}"
+        govde = e.read(300).decode("utf-8", "replace").replace(anahtar, "***").replace("\n", " ")[:120]
+        durum["ust_uste_hata"] = durum.get("ust_uste_hata", 0) + 1
+        if e.code in (401, 403) or "ucket not found" in govde or durum["ust_uste_hata"] >= 3: durum["kapali"] = True
+        return f"yukleme_hata_{e.code}:{govde}"
+    except (urllib.error.URLError, OSError) as e:
+        durum["ust_uste_hata"] = durum.get("ust_uste_hata", 0) + 1
+        if durum["ust_uste_hata"] >= 3: durum["kapali"] = True
+        return f"yukleme_hata_ag:{type(e).__name__}"
 
 
 def calis(a):
