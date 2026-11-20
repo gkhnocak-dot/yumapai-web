@@ -280,7 +280,15 @@ def commons_bilgi(dosya, api=None):
     return ii, wt
 
 
-def commons_lisans(ii, wikitext, izinli):
+def kayit_yili(em):
+    """extmetadata'daki tarih alanlarından kaydın yılı (aralık/çoklu yılda EN GEÇ yıl — temkinli); yoksa None."""
+    for k in ("DateTimeOriginal", "DateTime"):
+        yil = [int(y) for y in re.findall(r"\b(1[0-9]{3}|20[0-9]{2})\b", html_metin((em.get(k) or {}).get("value")))]
+        if yil: return max(yil)
+    return None
+
+
+def commons_lisans(ii, wikitext, izinli, bugun_yili=None):
     """Dönüş (kayit_alanlari, '') ya da (None, neden). Lisans yalnız CC0 / Public domain / CC BY 4.0; SA/NC/ND/GFDL yok;
     PD'de kaydı kapsayan PD şablonu (pd-old tek başına yetmez); sanatçı/kaydeden boş olamaz; ses dosyası; upload.wikimedia.org adresi."""
     em = ii.get("extmetadata") or {}
@@ -293,7 +301,14 @@ def commons_lisans(ii, wikitext, izinli):
     sanatci = html_metin((em.get("Artist") or {}).get("value"))
     if not sanatci: return None, "commons_sanatci_yok"
     if urlparse(ii.get("url", "")).hostname != "upload.wikimedia.org": return None, "commons_adres_resmi_degil"
-    return {"kisa": kisa, "kod": izinli[kisa], "sanatci": sanatci[:150], "terms": terms[:200], "indirme": ii["url"], "sayfa": ii.get("descriptionurl", ""),
+    tr70 = None
+    if kisa == "Public domain":
+        # Türkiye'de ses kaydı (bağlantılı hak) süresi 70 yıl: kayıt yılı belli ve ≥70 yıl önce olmalı
+        yil = kayit_yili(em); son = (bugun_yili or time.gmtime().tm_year) - 70
+        if yil is None: return None, "commons_kayit_yili_yok"
+        if yil > son: return None, f"commons_TR_70_yil_dolmadi:{yil}"
+        tr70 = {"kayit_yili": yil, "en_gec_yil": son, "sonuc": "gecti"}
+    return {"kisa": kisa, "kod": izinli[kisa], "tr70": tr70, "sanatci": sanatci[:150], "terms": terms[:200], "indirme": ii["url"], "sayfa": ii.get("descriptionurl", ""),
             "bayt": ii.get("size", 0)}, ""
 
 
@@ -484,7 +499,7 @@ def calis(a):
             k = {"id": i, "uuid": uuid_kimlikten(i), "title": p["baslik"][:200], "artist": c["sanatci"], "license_code": c["kod"], "license_url": lurl,
                  "source_url": c["sayfa"], "storage_path": yol, "duration_s": int(round(sure2)), "sha256_ham": sha256(ham), "sha256": sha256(cikis),
                  "bayt": os.path.getsize(cikis), "indirme_url": c["indirme"],
-                 "lisans_kanit": {"tur": "commons_api", "sayfa": c["sayfa"], "lisans": c["kisa"], "kosullar": c["terms"]},
+                 "lisans_kanit": {"tur": "commons_api", "sayfa": c["sayfa"], "lisans": c["kisa"], "kosullar": c["terms"], "TR_70_yil_kontrol": c["tr70"] or "gerekmez_pd_degil"},
                  "cekildi": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "moods": ruhlar, "categories": kategoriler_icin(ruhlar, kat["kategori_ruh"]),
                  "attribution_text": atif}
             k["yukleme"] = yukle_storage(cikis, yol, durum)
