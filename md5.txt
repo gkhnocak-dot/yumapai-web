@@ -1,0 +1,8 @@
+9c0746d47a49654ae6bb23f00a28ffb6  yeni/functions/geo-foto/ekle.ts
+fed39fc2d06654e202f43b6de8841634  yeni/functions/geo-foto/genis.ts
+63c040fa0169c4a4dc91a8e176e801da  yeni/functions/geo-foto/konu.ts
+1045e7b1277c4fd984954232edbc8949  yeni/functions/geo-foto/kural.ts
+9c0746d47a49654ae6bb23f00a28ffb6  eski/functions/geo-foto/ekle.ts
+08f9f0f0ccb0991538733b1e00e4cbd8  eski/functions/geo-foto/genis.ts
+946b1aa98e780145b0248c1e4e5d4120  eski/functions/geo-foto/konu.ts
+1045e7b1277c4fd984954232edbc8949  eski/functions/geo-foto/kural.ts
