@@ -116,19 +116,90 @@
   }
   window.yuKameraBirak = kameraBirak;
   window.yuKameraIzSayisi = function () { return canliIzler().length; };
+  // Tanı: her gerçek getUserMedia çağrısının zamanı ve sonucu (son 20 kayıt; kişisel veri yok: aygıt kimliği/etiket
+  // yazılmaz). Konsoldan window.__yuGumLog okunur; n = sayfa açılışından beri toplam çağrı (iOS izin istemi sayımı için).
+  var gumLog = [];
+  gumLog.n = 0;
+  function simdi() { return typeof performance !== 'undefined' && performance.now ? performance.now() : Date.now(); }
+  window.__yuGumLog = gumLog;
+  function gumKaydet(c, bas, sonuc, iz) {
+    var v = c && c.video;
+    var tur = !v ? 'yok' : v === true ? 'video' : v.deviceId ? 'aygit' : v.facingMode ? 'yon' : 'video';
+    gumLog.push({ n: gumLog.n, t: Math.round(bas), ms: Math.round(simdi() - bas), tur: tur,
+      ses: !!(c && c.audio), sonuc: sonuc, iz: iz, gizli: gizli() });
+    if (gumLog.length > 20) gumLog.shift();
+  }
   try {
     var md = navigator.mediaDevices;
     if (md && typeof md.getUserMedia === 'function') {
       var asilGum = md.getUserMedia.bind(md);
-      md.getUserMedia = function () {
+      md.getUserMedia = function (c) {
+        var bas = simdi();
+        gumLog.n++;
         return asilGum.apply(null, arguments).then(function (s) {
+          gumKaydet(c, bas, 'ok', s.getTracks().length);
           if (gizli()) s.getTracks().forEach(function (t) { try { t.stop(); } catch (e) {} });
           else akislar.push(s);
+          // Durmuş akışlar kayıtta birikmez.
+          akislar = akislar.filter(function (a) { return a.getTracks().some(function (t) { return t.readyState !== 'ended'; }); });
           return s;
+        }, function (e) {
+          gumKaydet(c, bas, (e && e.name) || 'Error', 0);
+          throw e;
         });
       };
     }
   } catch (e) {}
+
+  // Kamera listesi tek getUserMedia ile (ks_web_web.dart yuKsKameraListesi). camera_web'in availableCameras'ı HER kamerayı
+  // ayrı açıp kapatıyordu (iPhone'da 1+3..5 getUserMedia). Burada: izin yoklaması ({video:true}, hemen stop) +
+  // enumerateDevices; yön InputDeviceInfo.getCapabilities, yoklama izinin ayarı ya da etiketten bulunur. Aygıt kimlikleri
+  // yalnız bu cihazda localStorage'da tutulur; önbellek varsa listeleme getUserMedia AÇMAZ (açılış tek getUserMedia).
+  var LISTE_ANAHTAR = 'yu_kamera_aygitlari_v1';
+  function etiketYon(ad) {
+    var a = (ad || '').toLowerCase();
+    if (/front|user|selfie|(^|\s)ön(\s|$)/.test(a)) return 'user';
+    if (/back|rear|environment|(^|\s)arka(\s|$)/.test(a)) return 'environment';
+    return null;
+  }
+  function aygitYon(d, yoklamaId, yoklamaYon) {
+    try {
+      if (typeof d.getCapabilities === 'function') {
+        var f = d.getCapabilities().facingMode;
+        if (f && f.length && (f[0] === 'user' || f[0] === 'environment')) return f[0];
+      }
+    } catch (e) {}
+    if (yoklamaId && d.deviceId === yoklamaId && yoklamaYon) return yoklamaYon;
+    return etiketYon(d.label);
+  }
+  window.yuKameraListe = function (onbellek) {
+    if (onbellek) {
+      try {
+        var k = JSON.parse(localStorage.getItem(LISTE_ANAHTAR) || 'null');
+        if (k && k.length) return Promise.resolve({ liste: k, onbellekten: true });
+      } catch (e) {}
+    }
+    var md = navigator.mediaDevices;
+    if (!md || typeof md.getUserMedia !== 'function') return Promise.resolve({ hata: 'NotSupportedError' });
+    var yId = null, yYon = null;
+    return md.getUserMedia({ video: true }).then(function (s) {
+      var t = s.getVideoTracks()[0];
+      var g = t && typeof t.getSettings === 'function' ? t.getSettings() : {};
+      yId = g.deviceId || null;
+      yYon = g.facingMode || null;
+      s.getTracks().forEach(function (t) { try { t.stop(); } catch (e) {} });
+      return md.enumerateDevices();
+    }).then(function (l) {
+      var liste = [];
+      for (var i = 0; i < l.length; i++) {
+        var d = l[i];
+        if (d.kind === 'videoinput' && d.deviceId) liste.push({ id: d.deviceId, ad: d.label || '', yon: aygitYon(d, yId, yYon) });
+      }
+      if (liste.length) { try { localStorage.setItem(LISTE_ANAHTAR, JSON.stringify(liste)); } catch (e) {} }
+      return { liste: liste, onbellekten: false };
+    }).catch(function (e) { return { hata: (e && e.name) || 'Error' }; });
+  };
+  window.yuKameraListeSil = function () { try { localStorage.removeItem(LISTE_ANAHTAR); } catch (e) {} };
   document.addEventListener('visibilitychange', function () { if (gizli()) kameraBirak(); });
   window.addEventListener('pagehide', kameraBirak);
   // Kamera akışının ayarı (çözünürlük, kare hızı) açıldıktan sonra DEĞİŞTİRİLMEZ: iOS'ta kısıt değişimi sensörü yeniden
@@ -156,6 +227,15 @@
     return null;
   }
   window.yuKameraVideo = kameraVideo;
+  // Bekleyen akış stüdyoya dönünce: <video> DOM'a yeniden takılırken tarayıcı oynatmayı durdurur; takıldıktan sonra
+  // yeniden oynatılır (getUserMedia yok). Döner: video bağlı ve oynuyor.
+  window.yuKameraOynat = function () {
+    var v = kameraVideo();
+    if (!v || gizli()) return false;
+    if (!v.paused) return true;
+    try { var p = v.play(); if (p && p.catch) p.catch(function () {}); } catch (e) {}
+    return false;
+  };
   window.yuKameraBoyut = function () {
     var v = kameraVideo();
     return v && v.videoWidth ? [v.videoWidth, v.videoHeight] : null;

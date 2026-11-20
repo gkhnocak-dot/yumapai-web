@@ -4,8 +4,10 @@
 // Bu modül yalnız kullanıcı bir efekt seçince yu-web.js'teki yuArYukle() ile içeri alınır.
 //
 // Kamera tek: uygulamanın kamerası (camera_web'in <video>'su) açık kalır; 8th Wall'a o videodan küçültülerek çizilen bir
-// tuvalin akışının KLONU verilir (getUserMedia yalnız XR8 başlarken bu klonu döndürecek şekilde sarılır, akış alınınca hemen
-// geri alınır). Böylece ikinci bir kamera açılmaz (iOS Safari ikinci yakalamada ilkini susturur), kamera akışının ayarı
+// tuvalin akışının KLONU verilir (getUserMedia izleyici çalıştığı sürece bu klonu döndürecek şekilde sarılır, izlemeDurdur'da
+// geri alınır: 8th Wall pause/resume ya da yeniden deneme ile getUserMedia'yı yeniden çağırırsa da gerçek kamera açılmaz;
+// uygulamanın kendi isteği — camera_web'in aygıt kimlikli {deviceId:{exact}} isteği — sarmaldan geçer, ayrıca uygulama her
+// yeni açılıştan önce yuKameraBirak ile izleyiciyi durdurur). Böylece ikinci bir kamera açılmaz (iOS Safari ikinci yakalamada ilkini susturur), kamera akışının ayarı
 // değişmez ve ön/arka geçişte izleyici yeni akışla yeniden başlar.
 // 8th Wall'un yüz verisi (478 nokta, MediaPipe sırası; dönüşüm) yu-ar-sahne.js'in beklediği diziye çevrilir.
 import { Sahne } from './yu-ar-sahne.js';
@@ -156,7 +158,7 @@ export function donustur(d, gorus, w, h) {
 // ---- izleyici (8th Wall) --------------------------------------------------------------------------------------------
 
 const iz = { video: null, akis: null, calisiyor: false, veri: null, gorus: 0, tuval: null, ozgunGum: null, sayac: 0, modul: null,
-  klonlar: [], kucuk: null };
+  klonlar: [], kucuk: null, sarmal: null, klonIstek: 0 };
 
 /** İzleyicinin girdisi: kamera karesinin uzun kenarı bu boyuta küçültülmüş kopyası (yüz bulmaya yeter). */
 const IZLEME_UZUN = 640;
@@ -186,8 +188,15 @@ function kucukKaynak(video) {
 const YUZLU = new Set(['puruzsuz', 'allik', 'cil', 'gunes_gozlugu', 'cicek_taci', 'nazar_kupe', 'sim_yagmuru']);
 
 function gumGeriAl() {
-  if (iz.ozgunGum) navigator.mediaDevices.getUserMedia = iz.ozgunGum;
+  if (iz.ozgunGum && navigator.mediaDevices.getUserMedia === iz.sarmal) navigator.mediaDevices.getUserMedia = iz.ozgunGum;
   iz.ozgunGum = null;
+  iz.sarmal = null;
+}
+
+/** Uygulamanın (camera_web) isteği: aygıt kimliği kesin verilmiştir; 8th Wall ön kamerayı facingMode ile ister. */
+function uygulamaIstegi(c) {
+  const d = c && c.video && c.video.deviceId;
+  return !!(d && typeof d === 'object' && d.exact);
 }
 
 function izModulu() {
@@ -207,9 +216,8 @@ function izModulu() {
       const f = processCpuResult && processCpuResult.facecontroller;
       if (f && f.intrinsics && f.intrinsics[5]) iz.gorus = (2 * Math.atan(1 / f.intrinsics[5]) * 180) / Math.PI;
     },
-    onCameraStatusChange: ({ status }) => {
-      if (status !== 'requesting') gumGeriAl(); // klon verildi (ya da başarısız): asıl getUserMedia hemen geri
-    },
+    // Sarmal burada geri ALINMAZ (eskiden 'requesting' sonrası alınıyordu): 8th Wall pause/resume'da getUserMedia'yı
+    // yeniden çağırırsa gerçek kamera/izin yolu açılırdı. Geri alma izlemeDurdur'da.
   };
 }
 
@@ -222,16 +230,17 @@ export function izlemeBaslat(video) {
   iz.video = video;
   iz.akis = akis;
   iz.kucuk = kucukKaynak(video);
-  const kucuk = iz.kucuk.akis;
   const md = navigator.mediaDevices;
   iz.ozgunGum = md.getUserMedia;
   const ozgun = iz.ozgunGum;
-  md.getUserMedia = (c) => {
-    if (!(c && c.video)) return ozgun.call(md, c);
-    const k = kucuk.clone(); // her istek kendi klonunu alır: 8th Wall'un durdurduğu klon kaynağı kesmez
+  iz.sarmal = (c) => {
+    if (!(c && c.video) || !iz.kucuk || uygulamaIstegi(c)) return ozgun.call(md, c);
+    const k = iz.kucuk.akis.clone(); // her istek kendi klonunu alır: 8th Wall'un durdurduğu klon kaynağı kesmez
     iz.klonlar.push(k);
+    iz.klonIstek++;
     return Promise.resolve(k);
   };
+  md.getUserMedia = iz.sarmal;
   const X = xr;
   X.clearCameraPipelineModules();
   X.FaceController.configure({
@@ -365,6 +374,8 @@ export function ayrinti() {
     noktalar: iz.veri ? Array.from(iz.veri.subarray(24)) : null,
     gorus: iz.gorus,
     boyut: sahne ? [sahne.w, sahne.h] : null,
+    gumSarili: !!iz.sarmal && navigator.mediaDevices.getUserMedia === iz.sarmal,
+    klonIstek: iz.klonIstek,
   };
 }
 
