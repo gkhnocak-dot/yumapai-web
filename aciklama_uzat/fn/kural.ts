@@ -38,10 +38,13 @@ export function cumleler(metin: string): string[] {
 }
 
 // Telaffuz / alfabe ayrıntısı veren parantezleri at; öteki parantezler kalır.
-const GURULTU = /[;ˈˌ]|\b(lit\.|pronounced|IPA|Turkish:|Greek:|Latin:|Arabic:|Armenian:|Kurdish:|Osmanlıca|Yunanca|Latince|Arapça|Ermenice|Kürtçe|Farsça|telaffuz|okunuşu)\b|[\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]/u;
+// Dil/okunuş parantezi: "(Turkish: …)", "(Azerice: …)", "(Dağlık Kilikya: …)" — baştaki 1–3 sözcük + ":" (REST özeti bunları kendisi atıyordu; Action API atmaz).
+const DIL_ETIKETI = /^\s*[\p{L}.-]+(?:\s+[\p{L}.-]+){0,2}\s*:\s/u;
+const UZUN_PARANTEZ = 120; // daha uzun parantez açıklama/ara sözdür; ilk cümleyi şişirip açıklamayı düşürmesin diye atılır
+const GURULTU = /[;ˈˌ]|\b(?:lit\.|pronounced|IPA|Osmanlıca|Yunanca|Latince|Arapça|Ermenice|Kürtçe|Farsça|telaffuz|okunuşu)(?![\p{L}])|[\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]/u;
 export function temizle(ham: string): string {
   let s = ham.replace(/\[\d+\]|\[[a-z]\]/g, "").replace(/\s+/g, " ");
-  for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => GURULTU.test(ic) || ic.trim() === "" ? "" : m);
+  for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => GURULTU.test(ic) || DIL_ETIKETI.test(ic) || ic.length > UZUN_PARANTEZ || ic.trim() === "" ? "" : m);
   return s.replace(/\s+([,.;:!?])/g, "$1").replace(/,\s*,/g, ",").replace(/\(\s*\)/g, "").replace(/\s+/g, " ").trim();
 }
 
@@ -149,7 +152,8 @@ export function gercekler(e: Wd, L: Etiketler): Gercek[] {
     const x = [...new Set(qs.map((q) => lab(L, q, l, ortak)).filter(Boolean) as string[])].slice(0, en); return x.length ? x : null;
   };
   const ek = (key: string, f: (l: Lang) => string | null, yoklama: (l: Lang) => string[]) => {
-    const c = { tr: f("tr"), en: f("en") }; if (c.tr || c.en) out.push({ key, cumle: c, yoklama: [...yoklama("tr"), ...yoklama("en")] });
+    const den = (x: string | null) => (x && (x.match(/\(/g)?.length ?? 0) === (x.match(/\)/g)?.length ?? 0) && !/[\[\]]/.test(x) ? x : null); // bozuk etiket ("Art Nouveau (mimarlığı")
+    const c = { tr: den(f("tr")), en: den(f("en")) }; if (c.tr || c.en) out.push({ key, cumle: c, yoklama: [...yoklama("tr"), ...yoklama("en")] });
   };
   const lbls = (qs: string[], l: Lang, ortak: boolean) => liste(qs, l, ortak) ?? [];
   ek("miras", (l) => { const x = liste(ids(e, "P1435"), l, false, 2); return x ? KALIP[l].miras(x.map((s) => buyuk(s, l)).join("; ")) : null; }, (l) => lbls(ids(e, "P1435"), l, false));
@@ -166,8 +170,9 @@ export function gercekler(e: Wd, L: Etiketler): Gercek[] {
   const ozel = (x: string[] | null) => (x ? x.filter((v) => /^\p{Lu}/u.test(v)) : []); // "şehir" gibi cins adı Wikidata verisinden "adını aldığı" olmaz
   ek("ad", (l) => { const x = ozel(liste(ids(e, "P138"), l, true, 2)); return x.length ? KALIP[l].ad(x[0]) : null; }, (l) => ozel(lbls(ids(e, "P138"), l, true)));
   ek("icerir", (l) => { const x = liste(ids(e, "P527"), l, true, 3); return x && x.length >= 1 ? KALIP[l].icerir(x.join(", ")) : null; }, (l) => lbls(ids(e, "P527"), l, true));
-  ek("alan", (l) => { const a = miktar(e, "P2046", l); return a ? KALIP[l].alan(a) : null; }, () => []);
-  ek("yukseklik", (l) => { const a = miktar(e, "P2048", l); return a ? KALIP[l].yukseklik(a) : null; }, () => []);
+  const sayiYok = (p: string) => (l: Lang) => { const a = miktar(e, p, l); return a ? [a.split(" ")[0]] : []; }; // "65 hektarlık alan" varsa "Alan: 65 hektar" eklenmez
+  ek("alan", (l) => { const a = miktar(e, "P2046", l); return a ? KALIP[l].alan(a) : null; }, sayiYok("P2046"));
+  ek("yukseklik", (l) => { const a = miktar(e, "P2048", l); return a ? KALIP[l].yukseklik(a) : null; }, sayiYok("P2048"));
   return out;
 }
 const ONCELIK = ["miras", "koruma", "yapim", "mimar", "tarz", "parca", "ad", "icerir", "yukseklik", "alan"];
@@ -177,6 +182,7 @@ function tur(e: Wd, L: Etiketler, l: Lang): string | null {
   for (const q of p31(e)) { const s = L[q]?.[l]; if (s && s.length <= 40) return l === "tr" ? lowerTr(s) : s.toLowerCase(); }
   return null;
 }
+const INGILIZCE_AD = /\b(?:Fountain|Mosque|Church|Monastery|Bridge|Castle|Tomb|Bath|Baths|Hotel|Museum|Square|Palace|Tower|Gate|Wall|Walls|Cemetery|Lake|Dam|Cave|Monument|Mansion|Inn|Caravanserai|Synagogue|Library|Park|Theatre|Theater|Mausoleum)\b/;
 const ADTEMIZ = (a: string) => a.replace(/\s*\([^)]*\)/g, "").replace(/,\s*[\p{L}]+$/u, "").trim();
 // Türkçe -DIR eki: son ünlüye göre ı/i/u/ü, sert ünsüzden sonra t.
 export function tr_dir(kelime: string): string {
@@ -187,7 +193,8 @@ export function tr_dir(kelime: string): string {
 }
 export function acilis(yer: Yer, e: Wd, L: Etiketler, l: Lang): string | null {
   const t = tur(e, L, l); if (!t) return null;
-  const ad = ADTEMIZ(l === "en" ? (e.labels?.en ?? yer.name) : yer.name); if (!ad) return null;
+  if (l === "tr" && !e.labels?.tr && INGILIZCE_AD.test(yer.name)) return null; // "Abdülkerim Efendi Fountain … bir çeşmedir" yazılmaz
+  const ad = ADTEMIZ(l === "en" ? (e.labels?.en ?? yer.name) : (e.labels?.tr ?? yer.name)); if (!ad) return null;
   const merkez = yer.il && yer.ilce && norm(yer.il) === norm(yer.ilce);
   if (l === "tr") {
     const konum = merkez ? `${yer.il} il merkezinde` : yer.il && yer.ilce ? `${yer.il} ilinin ${yer.ilce} ilçesinde` : yer.il ? `${yer.il} ilinde` : yer.ilce ? `${yer.ilce} ilçesinde` : "";
