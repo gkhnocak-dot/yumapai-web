@@ -76,3 +76,4 @@ for (const y of yerler) {
   Deno.writeTextFileSync(CACHE, JSON.stringify(cache));
 }
 Deno.writeTextFileSync(Deno.args[1], out.join("\n") + "\n");
+
