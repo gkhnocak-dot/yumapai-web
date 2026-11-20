@@ -20,8 +20,6 @@ jobs:
         run: md5sum yeni/functions/geo-foto/*.ts eski/functions/geo-foto/*.ts | tee /tmp/md5.txt
       - name: Yeni kural
         run: mkdir -p /tmp/cikti && deno run --no-check -A kuru.ts yeni /tmp/cikti/yeni.jsonl /tmp/onbellek.json
-      - name: Eski kural (aynı önbellek)
-        run: deno run --no-check -A kuru.ts eski /tmp/cikti/eski.jsonl /tmp/onbellek.json
       - name: Küçük resimler
         if: always()
         run: |

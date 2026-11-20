@@ -170,6 +170,12 @@ function ekDenetim(m: Meta, y: KonuYer, ap: AdParca, baslik: string[], kats: str
   const muzeGecer = baslik.some((w) => SOZ2SINIF.get(w) === "muze") || kats.some((c) => tokens(c).some((w) => SOZ2SINIF.get(w) === "muze"));
   if (!muzeYer && muzeGecer && !/\b(muze|museum)\b/.test(adN) && !/\b(sergi|kultur|sanat|galeri)\b/.test(adN)) return "muze-icinden";
   if (muzeYer && (MUZE_ESER.test(m.title.replace(/[._]/g, " ")) || kats.some((c) => /\b(finds|exhibits?|collections?|objects?|artefacts?|artifacts?|interiors?)\b/i.test(c)))) return "muze-eser";
+  // (b2) Müze/kültür merkezi fotoğrafı yapının dışını göstermeli: iç mekân, sergi, eser fotoğrafı kapak olmaz (21.11.2026 ölçümü: Muğla/Nevşehir müzesi manken sergisi, Konya müzesi sarkofag kabartması).
+  //      Dış görünüş kanıtı: başlık/kategori/açıklamada dış cephe, bina, giriş, avlu, bahçe, genel görünüm sözcüğü.
+  if (muzeYer || ap.siniflar.includes("kultur")) {
+    const kanit = " " + norm(m.title.replace(/\.[a-zA-Z0-9]+$/, "") + " " + m.obj + " " + kats.join(" ") + " " + m.desc) + " ";
+    if (!/ (exterior|exteriors|outside|facade|cephe|cephesi|building|buildings|bina|binasi|entrance|giris|girisi|courtyard|avlu|avlusu|garden|bahce|bahcesi|general view|genel gorunum|aerial|havadan|ana bina|front view|on cephe) /.test(kanit)) return "muze-dis-kanit-yok";
+  }
   // (c) Fresk/mozaik/kitabe ayrıntısı (başlık tek sözcük bitişik olsa da: "YilanliFresco")
   if (/fresco|fresk|mosaic|mozaik|kitabe|inscription/i.test(m.title) && !/fresk|mozaik|mosaic/.test(adN)) return "ayrinti:fresk-mozaik";
   if (faz === "icerik") return null; // ad kanıtı denetimleri (aşağısı) yalnız tam denetimde ve mevcut ad/tür denetimlerinden sonra çalışır; P18'de hiç çalışmaz
@@ -178,6 +184,8 @@ function ekDenetim(m: Meta, y: KonuYer, ap: AdParca, baslik: string[], kats: str
     const son = y.name.split("/").pop()!.trim(); const sp = adParca(son);
     if (sp.ayirt.length && !(ardisikBitis(baslik, sp.ayirt) >= 0 || kats.some((c) => ardisikBitis(tokens(c), sp.ayirt) >= 0))) return "hiyerarsik-ad:son-parca-yok";
   }
+  // (e00) Başlıkta "by <yazar>" imzası var ve yerin türü belli değil ("Oludeniz- by A shamlou (2)": kalabalık/yürüyüş karesi): başlık konuyu söylemez
+  if (!ap.siniflar.length && baslik.includes("by") && baslik.indexOf("by") >= 1 && baslik.length - baslik.indexOf("by") >= 2) return "imzali-baslik";
   // (e0) Adda 2+ basamaklı sayı varsa (100. Yıl Müzesi) başlıkta/kategoride aynı sayı geçmeli
   for (const n of tokens(y.name.split(/[,/]/)[0]).filter((w) => /^[0-9]{2,}$/.test(w))) {
     if (!baslik.includes(n) && !kats.some((c) => tokens(c).includes(n))) return "sayi-uyusmuyor:" + n;
