@@ -1,0 +1,59 @@
+name: foto-konu-kuru
+# Geo-foto konu denetimi bağımsız ölçüm (Reis onayı 21.11.2026). Veritabanına YAZMAZ; yalnız Commons/Wikidata API okur.
+# Çıktı 'veri-foto-konu-cikti' dalına tek commit olarak zorla yazılır (yeni.jsonl, eski.jsonl, kucuk/*.jpg).
+on:
+  push:
+    branches: [veri-foto-konu]
+    paths: ['yeni/**', 'eski/**', 'kuru.ts', 'yerler.json', '.github/workflows/foto_konu_kuru.yml']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  kuru:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with: { deno-version: v2.x }
+      - name: Kural kopyaları (md5)
+        run: md5sum yeni/functions/geo-foto/*.ts eski/functions/geo-foto/*.ts | tee /tmp/md5.txt
+      - name: Yeni kural
+        run: mkdir -p /tmp/cikti && deno run --no-check -A kuru.ts yeni /tmp/cikti/yeni.jsonl /tmp/onbellek.json
+      - name: Eski kural (aynı önbellek)
+        run: deno run --no-check -A kuru.ts eski /tmp/cikti/eski.jsonl /tmp/onbellek.json
+      - name: Küçük resimler
+        if: always()
+        run: |
+          mkdir -p /tmp/cikti/kucuk && cd /tmp/cikti
+          python3 - <<'PY'
+          import json,urllib.parse,urllib.request,time,hashlib
+          seen=set()
+          for fn in ("yeni.jsonl","eski.jsonl"):
+              try: rows=[json.loads(l) for l in open(fn) if l.strip()]
+              except Exception: continue
+              for r in rows:
+                  d=r.get("dosya")
+                  if not d or d in seen: continue
+                  seen.add(d)
+                  u="https://commons.wikimedia.org/wiki/Special:FilePath/"+urllib.parse.quote(d.replace(" ","_"))+"?width=480"
+                  p="kucuk/"+hashlib.md5(d.encode()).hexdigest()[:12]+".jpg"
+                  for i in range(5):
+                      try:
+                          req=urllib.request.Request(u,headers={"User-Agent":"YuMapAI-photo-import/1.0 (https://yumapai.com)"})
+                          open(p,"wb").write(urllib.request.urlopen(req,timeout=60).read()); break
+                      except Exception as e:
+                          time.sleep(10*(i+1))
+                  time.sleep(1.5)
+          PY
+          cp /tmp/md5.txt .
+      - name: Çıktıyı veri-foto-konu-cikti dalına yaz
+        if: always()
+        run: |
+          cd /tmp/cikti && ls -la
+          git init -q -b veri-foto-konu-cikti
+          git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
+          git add -A
+          git commit -q -m "Foto konu denetimi kuru ölçüm çıktısı (Commons CC lisansları; DB'ye yazılmadı)"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -f origin veri-foto-konu-cikti

@@ -1,0 +1,902 @@
+[
+{
+"name": "Yerköylü Ahmed Ağa Fountain",
+"lat": 41.02815,
+"lon": 28.95534,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Kahramanmaraş Kalesi",
+"lat": 37.58639,
+"lon": 36.92583,
+"il": null,
+"ilce": null,
+"art_key": "kale",
+"qid": "Q6044520"
+},
+{
+"name": "Sütlüce Çeşmesi",
+"lat": 41.04837,
+"lon": 28.94106,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Akçakoca Kalesi",
+"lat": 41.0861,
+"lon": 31.0928,
+"il": null,
+"ilce": null,
+"art_key": "kale",
+"qid": "Q21523967"
+},
+{
+"name": "Askeri Müze",
+"lat": 41.0484,
+"lon": 28.9883,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "muze",
+"qid": "Q12808583"
+},
+{
+"name": "Dombaycıoğlu Hanı",
+"lat": 38.9208,
+"lon": 27.84235,
+"il": null,
+"ilce": "Akhisar",
+"art_key": "han_carsi",
+"qid": "Q132752833"
+},
+{
+"name": "Tekke Çeşmesi",
+"lat": 41.1696,
+"lon": 29.05817,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi",
+"lat": 37.06226,
+"lon": 37.38711,
+"il": null,
+"ilce": "Şahinbey",
+"art_key": "turbe",
+"qid": "Q131390527"
+},
+{
+"name": "Şekerci Han",
+"lat": 41.02021,
+"lon": 28.94815,
+"il": null,
+"ilce": "Fatih",
+"art_key": "han_carsi",
+"qid": "Q106141315"
+},
+{
+"name": "İvaz Paşa Türbesi",
+"lat": 38.60716,
+"lon": 27.42223,
+"il": null,
+"ilce": "Yunusemre",
+"art_key": "turbe",
+"qid": "Q131391402"
+},
+{
+"name": "Tigranakert",
+"lat": 38.14222,
+"lon": 41.00139,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": "Q720583"
+},
+{
+"name": "Ömerli Merkez Camii",
+"lat": 41.07697,
+"lon": 29.32899,
+"il": "İstanbul",
+"ilce": "Çekmeköy",
+"art_key": "cami",
+"qid": null
+},
+{
+"name": "Süleyman Subaşı Mosque",
+"lat": 41.02162,
+"lon": 28.96295,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cami",
+"qid": null
+},
+{
+"name": "Merdivenköy Manastırı",
+"lat": 40.98865,
+"lon": 29.07789,
+"il": null,
+"ilce": "Kadıköy",
+"art_key": null,
+"qid": "Q135429369"
+},
+{
+"name": "Refia Hanım Çeşmesi",
+"lat": 41.00756,
+"lon": 28.94783,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Domuztepe Höyüğü (Osmaniye)",
+"lat": 37.32098,
+"lon": 37.03568,
+"il": null,
+"ilce": null,
+"art_key": "hoyuk",
+"qid": "Q4165990"
+},
+{
+"name": "Tuğlacı Mosque",
+"lat": 40.98458,
+"lon": 29.04778,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cami",
+"qid": null
+},
+{
+"name": "Küçük Hamam",
+"lat": 41.0094,
+"lon": 28.93147,
+"il": null,
+"ilce": "Fatih",
+"art_key": "tarihi_hamam",
+"qid": "Q131738586"
+},
+{
+"name": "Çifte Minareli Medrese",
+"lat": 39.74832,
+"lon": 37.01439,
+"il": null,
+"ilce": "Sivas",
+"art_key": null,
+"qid": null
+},
+{
+"name": "Okçular Tekkesi",
+"lat": 41.04129,
+"lon": 28.95987,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "muze",
+"qid": null
+},
+{
+"name": "ODTÜ Bilim ve Teknoloji Müzesi",
+"lat": 39.902,
+"lon": 32.772,
+"il": "Ankara",
+"ilce": "Çankaya",
+"art_key": "muze",
+"qid": "Q6715515"
+},
+{
+"name": "Eski Smyrna",
+"lat": 38.46444,
+"lon": 27.17,
+"il": null,
+"ilce": "Bayraklı",
+"art_key": "antik_kent",
+"qid": "Q108923214"
+},
+{
+"name": "Nerik",
+"lat": 41.207,
+"lon": 35.42,
+"il": null,
+"ilce": "Vezirköprü",
+"art_key": "antik_kent",
+"qid": "Q916681"
+},
+{
+"name": "Vezir Çeşme Bird Dispenser",
+"lat": 41.01695,
+"lon": 28.94792,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Davutpaşa İskelesi Hamamı",
+"lat": 41.00374,
+"lon": 28.94414,
+"il": null,
+"ilce": "Fatih",
+"art_key": "tarihi_hamam",
+"qid": "Q131738548"
+},
+{
+"name": "Şeyhülislam Sunullah Efendi Türbesi",
+"lat": 41.01686,
+"lon": 28.95524,
+"il": null,
+"ilce": "Fatih",
+"art_key": "turbe",
+"qid": "Q131391161"
+},
+{
+"name": "Aynalıkavak Palace",
+"lat": 41.03792,
+"lon": 28.95532,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "konak_saray",
+"qid": "Q793169"
+},
+{
+"name": "Taâvün Fountain",
+"lat": 41.05119,
+"lon": 28.92249,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Elaeus",
+"lat": 40.05972,
+"lon": 26.23056,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": null
+},
+{
+"name": "Ayder",
+"lat": 40.95252,
+"lon": 41.10205,
+"il": null,
+"ilce": null,
+"art_key": null,
+"qid": "Q2582947"
+},
+{
+"name": "Nicomedia",
+"lat": 40.7625,
+"lon": 29.9175,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": "Q209349"
+},
+{
+"name": "Uzun Piyale Paşa Çeşmesi",
+"lat": 41.03628,
+"lon": 28.96538,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Ani Kalesi",
+"lat": 40.50142,
+"lon": 43.56717,
+"il": null,
+"ilce": null,
+"art_key": "kale",
+"qid": "Q107690042"
+},
+{
+"name": "Nevşehir Müzesi",
+"lat": 38.62806,
+"lon": 34.725,
+"il": null,
+"ilce": null,
+"art_key": "muze",
+"qid": "Q28221127"
+},
+{
+"name": "Amber Ağa Çeşmesi",
+"lat": 41.04494,
+"lon": 28.99834,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Hadım Hasan Paşa Medresesi",
+"lat": 41.01057,
+"lon": 28.97505,
+"il": null,
+"ilce": "Fatih",
+"art_key": null,
+"qid": "Q131741294"
+},
+{
+"name": "Kara Mustafa Paşa Çeşmesi",
+"lat": 41.01791,
+"lon": 28.96525,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "İşçi Heykeli",
+"lat": 41.02689,
+"lon": 28.98203,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "anit",
+"qid": null
+},
+{
+"name": "Beykoz Surp Nigoğayos Kilisesi",
+"lat": 41.13398,
+"lon": 29.09475,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "kilise",
+"qid": "Q20472206"
+},
+{
+"name": "Fountain of Mahmud II (Beyoğlu)",
+"lat": 41.03802,
+"lon": 28.97586,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Şekerci Hamamı",
+"lat": 38.32277,
+"lon": 26.30492,
+"il": null,
+"ilce": null,
+"art_key": "tarihi_hamam",
+"qid": "Q131738980"
+},
+{
+"name": "Merzifon Taşhan",
+"lat": 40.87285,
+"lon": 35.46465,
+"il": null,
+"ilce": "Merzifon",
+"art_key": "han_carsi",
+"qid": "Q116260117"
+},
+{
+"name": "Gazi Köşkü",
+"lat": 37.89563,
+"lon": 40.2292,
+"il": null,
+"ilce": "Sur",
+"art_key": "muze",
+"qid": "Q63372490"
+},
+{
+"name": "Derviş Paşa Çeşmesi, Fatih",
+"lat": 41.01865,
+"lon": 28.95581,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Milet Liman Anıtı",
+"lat": 37.53067,
+"lon": 27.27898,
+"il": null,
+"ilce": "Didim",
+"art_key": "anit",
+"qid": "Q134727996"
+},
+{
+"name": "Şah Sultan Camii",
+"lat": 41.05344,
+"lon": 28.93592,
+"il": null,
+"ilce": null,
+"art_key": "cami",
+"qid": "Q6031340"
+},
+{
+"name": "West Çilingir Fountain",
+"lat": 41.18947,
+"lon": 28.68166,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Ahura Manastırı",
+"lat": 39.7201,
+"lon": 44.3785,
+"il": null,
+"ilce": null,
+"art_key": null,
+"qid": "Q7401339"
+},
+{
+"name": "Tanır Yazıtı",
+"lat": 38.42123,
+"lon": 36.91996,
+"il": null,
+"ilce": "Afşin",
+"art_key": null,
+"qid": "Q55524133"
+},
+{
+"name": "Valide Atik Camii Doğu Çeşmesi",
+"lat": 41.01904,
+"lon": 29.02414,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Sekibaşı Camii",
+"lat": 37.21911,
+"lon": 28.35944,
+"il": null,
+"ilce": null,
+"art_key": "cami",
+"qid": "Q19612437"
+},
+{
+"name": "Artvin Atatürk Heykeli",
+"lat": 41.17083,
+"lon": 41.82906,
+"il": null,
+"ilce": null,
+"art_key": "anit",
+"qid": "Q83019225"
+},
+{
+"name": "Emirgan Mektebi Sokak Çeşmesi",
+"lat": 41.10456,
+"lon": 29.05397,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "I. Mahmut Han Çeşmesi",
+"lat": 41.07392,
+"lon": 29.05854,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Seleucia Pieria",
+"lat": 36.124,
+"lon": 35.922,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": "Q1605894"
+},
+{
+"name": "Karasu Rölyefi",
+"lat": 37.43083,
+"lon": 37.90847,
+"il": null,
+"ilce": "Araban",
+"art_key": "anit",
+"qid": "Q18411672"
+},
+{
+"name": "Şehzade Bayezid Fountain",
+"lat": 41.02174,
+"lon": 29.01531,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Akhisar Sinagogu",
+"lat": 38.92313,
+"lon": 27.83927,
+"il": null,
+"ilce": "Akhisar",
+"art_key": null,
+"qid": "Q136980661"
+},
+{
+"name": "Hüseyin Sırrı Pasha Fountain",
+"lat": 41.18222,
+"lon": 29.06656,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Çeşme 2, Nakkaş",
+"lat": 41.18885,
+"lon": 28.55644,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Hoca Ali Cami",
+"lat": 41.02615,
+"lon": 28.97673,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cami",
+"qid": null
+},
+{
+"name": "Derbe",
+"lat": 37.34857,
+"lon": 33.36145,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": "Q20717624"
+},
+{
+"name": "İç Ada, Antalya",
+"lat": 36.13295,
+"lon": 29.74917,
+"il": null,
+"ilce": null,
+"art_key": null,
+"qid": "Q6103275"
+},
+{
+"name": "Canfeda Kadın Çeşmesi",
+"lat": 41.00782,
+"lon": 28.96742,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Sadrazam Bahir Mustafa Paşa Çeşmesi",
+"lat": 41.04256,
+"lon": 28.91814,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Milli Mücadele Parkı",
+"lat": 38.47999,
+"lon": 27.07596,
+"il": null,
+"ilce": "İzmir",
+"art_key": "muze",
+"qid": null
+},
+{
+"name": "Roma Köprüsü, Biga",
+"lat": 40.37286,
+"lon": 27.30981,
+"il": null,
+"ilce": "Gelibolu",
+"art_key": "kopru",
+"qid": null
+},
+{
+"name": "Silahtar Bahçesi Street Fountain",
+"lat": 41.02244,
+"lon": 29.02916,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Oylum Höyük",
+"lat": 36.69914,
+"lon": 37.17846,
+"il": null,
+"ilce": null,
+"art_key": "hoyuk",
+"qid": "Q1528589"
+},
+{
+"name": "Hacı Beşir Ağa Fountain",
+"lat": 41.00791,
+"lon": 28.97823,
+"il": "İstanbul",
+"ilce": "Fatih",
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Piri Mustafa Paşa Hamamı",
+"lat": 41.02225,
+"lon": 28.9532,
+"il": "İstanbul",
+"ilce": "Fatih",
+"art_key": "tarihi_hamam",
+"qid": null
+},
+{
+"name": "Muğla Müzesi",
+"lat": 37.21722,
+"lon": 28.36806,
+"il": null,
+"ilce": "Menteşe",
+"art_key": "muze",
+"qid": "Q6053676"
+},
+{
+"name": "Mismarcı Fountain",
+"lat": 41.02795,
+"lon": 28.95243,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Klazomenai",
+"lat": 38.35817,
+"lon": 26.76758,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": "Q536598"
+},
+{
+"name": "Kyzikos Amfitiyatrosu",
+"lat": 40.398,
+"lon": 27.884,
+"il": null,
+"ilce": "Erdek",
+"art_key": "antik_kent",
+"qid": "Q29002438"
+},
+{
+"name": "Ölüdeniz",
+"lat": 36.5387,
+"lon": 29.16986,
+"il": null,
+"ilce": "Fethiye",
+"art_key": null,
+"qid": null
+},
+{
+"name": "Antik Luvi Kültür Merkezi",
+"lat": 36.98398,
+"lon": 35.33174,
+"il": null,
+"ilce": null,
+"art_key": "antik_kent",
+"qid": "Q132900662"
+},
+{
+"name": "Hagios Mokios Sarnıcı",
+"lat": 41.0103,
+"lon": 28.9347,
+"il": null,
+"ilce": "Fatih",
+"art_key": null,
+"qid": "Q18210713"
+},
+{
+"name": "Atik Valide Sultan Çeşmesi",
+"lat": 41.00603,
+"lon": 29.21119,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Hacı Nefis Hanım Fountain",
+"lat": 41.23379,
+"lon": 29.05569,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Ança Manastırı",
+"lat": 41.19222,
+"lon": 42.10967,
+"il": null,
+"ilce": null,
+"art_key": null,
+"qid": "Q4752590"
+},
+{
+"name": "Hüseyin Avni Pasha Fountain",
+"lat": 41.03187,
+"lon": 29.02245,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Konya Archeological Museum",
+"lat": 37.86799,
+"lon": 32.49357,
+"il": null,
+"ilce": "Meram",
+"art_key": "muze",
+"qid": null
+},
+{
+"name": "Kadılar Türbesi",
+"lat": 40.6492,
+"lon": 35.8232,
+"il": null,
+"ilce": null,
+"art_key": "turbe",
+"qid": "Q118957982"
+},
+{
+"name": "Kaz Dağı",
+"lat": 39.70442,
+"lon": 26.82916,
+"il": null,
+"ilce": null,
+"art_key": "dag_yayla",
+"qid": "Q1127771"
+},
+{
+"name": "Çukur Han",
+"lat": 39.93736,
+"lon": 32.86319,
+"il": null,
+"ilce": "Altındağ",
+"art_key": "han_carsi",
+"qid": "Q61076555"
+},
+{
+"name": "Millet Bahçesi",
+"lat": 37.8647,
+"lon": 32.48003,
+"il": null,
+"ilce": "Meram",
+"art_key": "park_bahce",
+"qid": null
+},
+{
+"name": "İpek Hanı",
+"lat": 40.18519,
+"lon": 29.06094,
+"il": "Bursa",
+"ilce": "Osmangazi",
+"art_key": "han_carsi",
+"qid": "Q47484780"
+},
+{
+"name": "Has Yunus Paşa Türbesi",
+"lat": 41.01493,
+"lon": 28.96613,
+"il": null,
+"ilce": "Fatih",
+"art_key": "turbe",
+"qid": "Q131391067"
+},
+{
+"name": "Paşalar Kalesi",
+"lat": 40.5286,
+"lon": 30.10182,
+"il": null,
+"ilce": "Pamukova",
+"art_key": "kale",
+"qid": "Q131901936"
+},
+{
+"name": "Marmara Surları, 82. Kule",
+"lat": 41.00133,
+"lon": 28.93808,
+"il": null,
+"ilce": "Fatih",
+"art_key": "kale",
+"qid": "Q135035116"
+},
+{
+"name": "Mahmut Efendi Çeşmesi",
+"lat": 41.02913,
+"lon": 28.98189,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cesme",
+"qid": null
+},
+{
+"name": "Kuşadalı İbrahim Halveti Mezarı",
+"lat": 37.86351,
+"lon": 27.24856,
+"il": null,
+"ilce": "Kuşadası",
+"art_key": "turbe",
+"qid": "Q131390688"
+},
+{
+"name": "Sultan Selim Camii",
+"lat": 41.015,
+"lon": 28.9421,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cami",
+"qid": null
+},
+{
+"name": "Ayaş Kalesi",
+"lat": 36.76732,
+"lon": 35.79216,
+"il": null,
+"ilce": null,
+"art_key": "kale",
+"qid": "Q131902123"
+},
+{
+"name": "Şehsuvar Mosque",
+"lat": 41.02673,
+"lon": 28.97301,
+"il": "İstanbul",
+"ilce": null,
+"art_key": "cami",
+"qid": null
+},
+{
+"name": "Hekimbaşı Yalısı",
+"lat": 41.09078,
+"lon": 29.06625,
+"il": null,
+"ilce": "Beykoz",
+"art_key": "konak_saray",
+"qid": "Q6005543"
+},
+{
+"name": "İslam Medeniyetleri Müzesi",
+"lat": 41.03457,
+"lon": 29.07153,
+"il": "İstanbul",
+"ilce": "Üsküdar",
+"art_key": "muze",
+"qid": null
+},
+{
+"name": "İlhan Koman Heykel ve Resim Müzesi",
+"lat": 41.65167,
+"lon": 26.52269,
+"il": null,
+"ilce": "Edirne",
+"art_key": "muze",
+"qid": "Q131861582"
+},
+{
+"name": "Aziz Vasil Kilisesi, Tirilye",
+"lat": 40.39175,
+"lon": 28.79428,
+"il": null,
+"ilce": "Mudanya",
+"art_key": "kilise",
+"qid": "Q23695173"
+}
+]
