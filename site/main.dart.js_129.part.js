@@ -1,21 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D={
-dLQ(d,e,f){var x,w,v,u=null,t="yu_undo_5d39"
-if(d==null)return
-x=e.a
-switch(x){case"completed":w=A.R("yu_route_completed_6f2c",u)
-break
-case"cancelled":w=A.R("yu_route_cancelled_7bc7",u)
-break
-default:w=A.R("yu_previous_route_closed_679b",u)
-break}v=x==="replaced"
-if(v&&e.gawe())w=w+" \xb7 "+A.R(t,u)
-v=v&&e.gawe()&&f!=null?new A.Jv(A.R(t,u),f,u):u
-A.Tx(d,w,v,new A.U("yuTripNotice_"+x,y.a),B.acx,C.dj,!1)}},B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+dZQ(d,e){return new A.BZ(!1,e,d,null)}}
 A=c[0]
-C=c[2]
-D=a.updateHolder(c[54],D)
-B=c[174]
-var z=a.updateTypes([])
-var y={a:A.ai("U<L>")};(function constants(){B.acx=new A.bX(6e6)})()};
-(a=>{a["hPOHGV/78JbWFo1QytzbS/h7YOI="]=a.current})($__dart_deferred_initializers__);
+B=a.updateHolder(c[30],B)
+var z=a.updateTypes([])};
+(a=>{a["ssD12l6btbY94meXawA2gipvKvM="]=a.current})($__dart_deferred_initializers__);
