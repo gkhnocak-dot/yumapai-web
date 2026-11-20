@@ -25,6 +25,7 @@ jobs:
         run: |
           cd /tmp/cikti && ls -la
           test -f tum.jsonl && gzip -9 tum.jsonl || true
+          test -f ham.jsonl && gzip -9 ham.jsonl || true
           git init -q -b veri-aciklama-cikti
           git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
           git add -A

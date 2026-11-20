@@ -29,7 +29,7 @@ export function cumleler(metin: string): string[] {
   while ((m = re.exec(t))) {
     const onceki = t.slice(bas, m.index + 1); const w = /([\p{L}.]+)\.$/u.exec(onceki.replace(/["'”’)\]»]+$/, ""))?.[1] ?? "";
     const w0 = w.replace(/\./g, "");
-    if (/^\p{Lu}$/u.test(w0) || /^[IVXL]{1,4}$/.test(w0) && !/\./.test(w) || /\./.test(w) && w0.length <= 3 || KISALTMA.has(w.toLowerCase())) continue; // M.Ö., A.D., St., Dr.
+    if (/^\p{L}$/u.test(w0) || /^[IVXL]{1,4}$/.test(w0) && !/\./.test(w) || /\./.test(w) && w0.length <= 3 || KISALTMA.has(w.toLowerCase())) continue; // M.Ö., A.D., St., Dr.
     if (/\d$/.test(onceki.replace(/["'”’)\]»]+$/, "").slice(0, -1)) && /^\.\s/.test(m[0]) && /^\p{Ll}/u.test(t.slice(m.index + m[0].length))) continue;
     out.push(t.slice(bas, m.index + m[0].trimEnd().length).trim()); bas = m.index + m[0].length;
   }
@@ -42,8 +42,19 @@ export function cumleler(metin: string): string[] {
 const DIL_ETIKETI = /^\s*[\p{L}.-]+(?:\s+[\p{L}.-]+){0,2}\s*:\s/u;
 const UZUN_PARANTEZ = 120; // daha uzun parantez açıklama/ara sözdür; ilk cümleyi şişirip açıklamayı düşürmesin diye atılır
 const GURULTU = /[;ˈˌ]|\b(?:lit\.|pronounced|IPA|Osmanlıca|Yunanca|Latince|Arapça|Ermenice|Kürtçe|Farsça|telaffuz|okunuşu)(?![\p{L}])|[\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Greek}\p{Script=Armenian}\p{Script=Georgian}\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]/u;
+// "(Turkish: Atatürk Evi (Büyük Taarruz Karargahı))" gibi iç içe dil parantezini kapanışına kadar siler.
+function disParantezSil(s: string): string {
+  for (let i = s.indexOf("("); i >= 0; i = s.indexOf("(", i + 1)) {
+    if (!DIL_ETIKETI.test(s.slice(i + 1, i + 60)) && !/^\s*(?:lit\.|IPA)/.test(s.slice(i + 1, i + 10))) continue;
+    let d = 0, j = i; for (; j < s.length; j++) { if (s[j] === "(") d++; else if (s[j] === ")" && --d === 0) break; }
+    if (j >= s.length) continue; // kapanmayan: dengeli() zaten reddeder
+    const bas = s.slice(0, i).replace(/\s+$/, ""); s = bas + s.slice(j + 1); i = bas.length - 1;
+  }
+  return s;
+}
 export function temizle(ham: string): string {
   let s = ham.replace(/\[\d+\]|\[[a-z]\]/g, "").replace(/\s+/g, " ");
+  s = disParantezSil(s);
   for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => GURULTU.test(ic) || DIL_ETIKETI.test(ic) || ic.length > UZUN_PARANTEZ || ic.trim() === "" ? "" : m);
   return s.replace(/\s+([,.;:!?])/g, "$1").replace(/,\s*,/g, ",").replace(/\(\s*\)/g, "").replace(/\s+/g, " ").trim();
 }
@@ -81,9 +92,10 @@ export function ozetGecerli(oz: Ozet, e: Wd, yer: Yer, ad: string[]): Red | null
   if (!yerMi(e)) return { red: "yer-disi-p31" };
   if (!oz.extract || oz.extract.length < 40) return { red: "ozet-kisa" };
   const cum = cumleler(temizle(oz.extract)); const ilk = cum.slice(0, 2).join(" ");
+  const ilkHam = cumleler(oz.extract.replace(/\s+/g, " ")).slice(0, 2).join(" "); // "(Turkish: Sabancı Merkez Camii)" ad kanıtıdır
   if (KISI_EVENT.test(cum[0] ?? "")) return { red: "kisi-olay-kalibi" }; // yalnız ilk cümle: "(1842–1847)" gibi yapı yılları ikinci cümlede kişi sayılmaz
-  if (!adTasiyor(ilk + " " + oz.title, [yer.name, ...ad])) return { red: "ad-yok" };
-  if (!adTasiyor(ilk, [yer.name, oz.title, ...ad])) return { red: "ilk-cumlede-ad-yok" };
+  if (!adTasiyor(ilk + " " + ilkHam + " " + oz.title, [yer.name, ...ad])) return { red: "ad-yok" };
+  if (!adTasiyor(ilk, [yer.name, oz.title, ...ad]) && !adTasiyor(ilkHam, [yer.name, oz.title, ...ad])) return { red: "ilk-cumlede-ad-yok" };
   const k: [number, number] | null = oz.lat != null && oz.lon != null ? [oz.lat, oz.lon] : wdKonum(e);
   if (k && yer.lat != null && yer.lon != null && km(k, [yer.lat, yer.lon]) > 30) return { red: "uzak-konum" };
   return null;
@@ -100,7 +112,10 @@ export function girisParagraflari(ham: string): string {
   }
   return out.join(" ");
 }
-const dengeli = (c: string) => (c.match(/\(/g)?.length ?? 0) === (c.match(/\)/g)?.length ?? 0) && !/[\[\]]/.test(c);
+const dengeli = (c: string) => { // sayı + sıra: "1808–1839), and … (r." gibi parçalar reddedilir
+  let d = 0; for (const ch of c) { if (ch === "(") d++; else if (ch === ")" && --d < 0) return false; }
+  return d === 0 && !/[\[\]]/.test(c);
+};
 // Uzatma (Reis onayı 20.11.2026 23:02): giriş bölümünden 2–4 cümle, en çok WIKI_BUTCE harf; cümle ortasında kesme yok.
 export const WIKI_BUTCE = 600, WIKI_CUMLE = 4;
 export function wikiCumleleri(oz: Ozet, butce = WIKI_BUTCE, enCok = WIKI_CUMLE): string[] {
@@ -134,7 +149,7 @@ const miktar = (e: Wd, p: string, l: Lang): string | null => {
   if (Object.keys(c0?.qualifiers ?? {}).length || (e.claims?.[p] ?? []).length > 1) return null; // "parçasının alanı"/çoklu ölçü: belirsiz
   if (ids(e, "P1435").includes("Q9259")) return null; // Dünya Mirası çekirdek bölgesi dağın alanı değildir
   const u = /Q\d+$/.exec(String(v.unit ?? ""))?.[0]; const b = u ? BIRIM[u] : undefined; const a = Number(v.amount);
-  if (!b || !(a > 0)) return null; return `${sayi(Math.round(a * 10) / 10, l)} ${b[l]}`;
+  if (!b || !(Math.round(a * 10) / 10 > 0)) return null; return `${sayi(Math.round(a * 10) / 10, l)} ${b[l]}`;
 };
 export type Gercek = { key: string; cumle: Record<Lang, string | null>; yoklama: string[] };
 // Her dil için kalıp tablosu. Diğer diller (de, es, ru, ar, ja) için kalıplar buraya aynı anahtarlarla eklenir; uygulama dili açılana dek kullanılmaz.
@@ -182,7 +197,7 @@ function tur(e: Wd, L: Etiketler, l: Lang): string | null {
   for (const q of p31(e)) { const s = L[q]?.[l]; if (s && s.length <= 40) return l === "tr" ? lowerTr(s) : s.toLowerCase(); }
   return null;
 }
-const INGILIZCE_AD = /\b(?:Fountain|Mosque|Church|Monastery|Bridge|Castle|Tomb|Bath|Baths|Hotel|Museum|Square|Palace|Tower|Gate|Wall|Walls|Cemetery|Lake|Dam|Cave|Monument|Mansion|Inn|Caravanserai|Synagogue|Library|Park|Theatre|Theater|Mausoleum)\b/;
+const INGILIZCE_AD = /(?<![\p{L}])(?:Fountain|Mosque|Church|Monastery|Bridge|Castle|Tomb|Bath|Baths|Hotel|Museum|Square|Palace|Tower|Gate|Wall|Walls|Cemetery|Lake|Dam|Cave|Monument|Mansion|Inn|Caravanserai|Synagogue|Library|Park|Theatre|Theater|Mausoleum|Kiosk|Pavilion|Hall|Fortress|Citadel|Aqueduct|Cistern|Station|Lighthouse|Harbour|Harbor|Island|Mountain|River|Valley|Canyon|Waterfall|Spring|Tumulus|Necropolis|House|Building|Madrasa|Hammam|Market|Bazaar|Shrine|Temple)(?![\p{L}])/u; // büyük harf duyarlı: "Tabiat Parkı" eşleşmez
 const ADTEMIZ = (a: string) => a.replace(/\s*\([^)]*\)/g, "").replace(/,\s*[\p{L}]+$/u, "").trim();
 // Türkçe -DIR eki: son ünlüye göre ı/i/u/ü, sert ünsüzden sonra t.
 export function tr_dir(kelime: string): string {
@@ -233,7 +248,8 @@ export function kur(l: Lang, yer: Yer, e: Wd, L: Etiketler, oz: Ozet | null): So
   const metin = " " + norm(wiki.join(" ")) + " ";
   // Özette zaten geçen bilgi tekrarlanmaz.
   // Wikipedia metni varken Wikidata yapım yılı eklenmez (metindeki tarihle çelişme riski: Teşvikiye Camii 1854 / 1794).
-  const yeni = hepsi.filter((g) => !(wiki.length && g.key === "yapim")).filter((g) => !g.yoklama.some((p) => p && norm(p).length >= 2 && metin.includes(" " + norm(p) + " ")));
+  const alanVar = /\b(?:hektar\w*|hectares?|ha|km²|km2|m²|dönüm\w*|acres?|dekar\w*)\b/iu.test(wiki.join(" "));
+  const yeni = hepsi.filter((g) => !(wiki.length && g.key === "yapim") && !(alanVar && g.key === "alan")).filter((g) => !g.yoklama.some((p) => p && norm(p).length >= 2 && metin.includes(" " + norm(p) + " ")));
   const sec: string[] = []; const anahtar: string[] = [];
   let basi = wiki.slice();
   if (!wiki.length) {
