@@ -134,6 +134,8 @@ const KONU: { ad: string; re: RegExp; sert: boolean; istisna?: RegExp }[] = [
   // Sahne uyumsuzluğu (20.11.2026 görsel denetimi): ad/başlık uyuşsa da fotoğraf yeri değil uydu görüntüsü, trafik/taksi sokağı, kalabalık, dalgıç gibi başka bir sahneyi gösteriyor.
   { ad: "sahne-uyumsuz", sert: true, re: /\b(satellite (images?|views?|photographs?|photos?)|landsat|sentinel-2|traffic|taxis?|taxicabs?|crowds?|audiences?|scuba|divers?|diving|rush hour|traffic jams?)\b/i,
     istisna: /\b(otoyol|trafik|caddesi|bulvari|kavsagi|meydani|dalis|dalgic|uydu|taksi|durak|stadyum|stadium|arena|salon|sahne)\b/ },
+  { ad: "sokak", sert: true, re: /\b(streets?|roads?|avenues?|boulevards?|alleys?) (in|of)\b|\bstreets?\b|\bsokag[iı]\b|\bsokak\b/i,
+    istisna: /\b(sokak|sokagi|street|cadde|caddesi|bulvar|bulvari|yol|yolu|carsi|carsisi|bedesten|han|hani)\b/ },
   { ad: "yiyecek", sert: true, re: /\b(food|dishes|cuisine|desserts)\b/i },
   // 21.11.2026 (GENIS ilk saat ölçümü, kesinlik ~%75): işletme/otel, bitki-hayvan, eski görsel ve fresk/mozaik ayrıntısı yer fotoğrafı sayılmaz.
   { ad: "isletme", sert: true, re: /\b(hotels?|motels?|hostels?|resorts? hotels?|tattoo studios?|restaurants?|shops?|supermarkets?|banks?|bank branches|offices|apartments?|real estate|gyms?|pool tables)\b/i,
@@ -205,7 +207,7 @@ function ekDenetim(m: Meta, y: KonuYer, ap: AdParca, baslik: string[], kats: str
 }
 
 /** Fotoğrafın konusu bu yer mi. p18: dosya yerin Wikidata P18 görseli (yalnız konu dışı denetimi). */
-export function konuDenetle(m: Meta, y: KonuYer, opt: { p18?: boolean } = {}): KonuSonuc {
+export function konuDenetle(m: Meta, y: KonuYer, opt: { p18?: boolean; baslikSart?: boolean } = {}): KonuSonuc {
   const adN = " " + norm(y.name + " " + (y.art_key ?? "").replaceAll("_", " ")) + " ";
   const adT = new Set(tokens(y.name));
   const baslik = tokens(m.title.replace(/\.[a-zA-Z0-9]+$/, "") + " " + m.obj);
@@ -225,6 +227,7 @@ export function konuDenetle(m: Meta, y: KonuYer, opt: { p18?: boolean } = {}): K
   }
   const ek = ekDenetim(m, y, ap, baslik, kats, "icerik");
   if (ek) return red(ek, "yuksek");
+  if (opt.baslikSart && ap.ayirt.length && !ap.ayirt.some((w) => baslik.some((x) => es(w, x)))) return red("baslik-ad-yok", "orta"); // kategori üyesi: dosya adı yerin adını taşımalı ("Hemit 6.jpg" <- Malkara şehir kategorisi)
   if (opt.p18) return { ok: true };
   // 2) Ad: ayırt edici sözcükler başlıkta ya da bir kategoride ardışık. İl/ilçe adı, başka güçlü sözcük varsa zorunlu değil
   //    ("Güdül Sorgun Gölü" = "Sorgun Lake"), yalnız il/ilçe/ortak sözcükten oluşan ad ise türüyle BİTİŞİK geçmeli ("Alanya Beach").

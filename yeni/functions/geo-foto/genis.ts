@@ -166,7 +166,7 @@ async function genisAra2(p: Yer, api: Api, iz: string[]): Promise<Sonuc> {
     if (p18) return { sonuc: "OK", pick: p18, yol: "wd-p18", qid };
     if (wd.kategori) {
       const kat = await api.category(wd.kategori); iz.push(`kat:${kat.length}/${kat.filter(uygun).length}`);
-      const k = enIyiGuclu(kat.filter(resmi), p.name) ?? undefined;
+      const k = enIyiGuclu(kat.filter((m) => konuDenetle(m, { name: p.name, art_key: p.art_key }, { p18: !!p.qid, baslikSart: true }).ok), p.name) ?? undefined; // kategori üyesi: dosya adında yer adı şart
       if (k) return { sonuc: "OK", pick: k, yol: "wd-kat", qid };
     }
     neden = "wd-var-foto-yok";
