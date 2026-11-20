@@ -238,7 +238,7 @@ COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 UA_COMMONS = "YuMapAI-muzik-cek/1.0 (https://github.com/gkhnocak-dot/yumapai-web; tek seferlik)"
 LISANS_URL = {"cc0": "https://creativecommons.org/publicdomain/zero/1.0/", "pdm": "https://creativecommons.org/publicdomain/mark/1.0/",
               "cc_by_4": "https://creativecommons.org/licenses/by/4.0/"}
-PD_KAYIT_SABLONU = re.compile(r"\{\{\s*(pd-self|pd-author|pd-usgov[a-z-]*|pd-us[a-z0-9-]*|pd-release|pd-ineligible[a-z-]*|pd-because|pd-1923[a-z-]*|pd-record[a-z-]*|pd-anon-[a-z0-9-]*)\b", re.I)
+PD_KAYIT_SABLONU = re.compile(r"\{\{\s*(pd-self|pd-author|pd-usgov[a-z-]*|pd-us[a-z0-9-]*|pd-release|pd-ineligible[a-z-]*|pd-because|pd-1923[a-z-]*|pd-record[a-z-]*|pd-anon-[a-z0-9-]*|pd-eu-audio|pd/1923|pd-old-audio[a-z0-9-]*)\b", re.I)
 YASAK_SABLON = re.compile(r"cc-by-sa|cc-by-nc|cc-by-nd|cc-sa|cc-nc|gfdl|\bby-sa\b|\bby-nc\b", re.I)
 
 
@@ -256,6 +256,18 @@ def commons_api(**p):
 
 def html_metin(s):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(s or ""))).strip()
+
+
+def commons_indir(url, hedef, bekle=time.sleep):
+    """upload.wikimedia.org 429 verirse Retry-After (yoksa artan bekleme) ile en çok 5 deneme; başka hata yükselir."""
+    for i in range(5):
+        try:
+            return indir(url, hedef)
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or i == 4: raise
+            try: s = int(e.headers.get("Retry-After") or 0)
+            except (TypeError, ValueError): s = 0
+            bekle(min(max(s, 30 * (i + 1)), 180))
 
 
 def commons_bilgi(dosya, api=None):
@@ -452,13 +464,14 @@ def calis(a):
     for n, p in enumerate(cm.get("parcalar", [])):
         i = p["id"]
         try:
+            time.sleep(3 if n else 0)
             ii, wt = commons_bilgi(p["dosya"])
             c, neden = commons_lisans(ii, wt, cm["izinli"])
             if not c: raise ValueError(neden)
             if c["bayt"] > 60 * 1024 * 1024: raise ValueError("cok_buyuk")
             ham = os.path.join(tmp, i + ".bin")
-            time.sleep(max(SIRA_BEKLEME, 2.0))
-            indir(c["indirme"], ham)
+            time.sleep(max(SIRA_BEKLEME, 5.0))
+            commons_indir(c["indirme"], ham)
             _, sure = ffprobe(ham)
             if not (MIN_SN <= sure <= MAX_SN): raise ValueError(f"sure_uygun_degil_{int(sure)}")
             yol = f"{i}.mp3"; cikis = os.path.join(a.cikti, "dosyalar", yol)
