@@ -3,7 +3,7 @@ from PIL import Image
 from transformers import CLIPModel,CLIPProcessor,AutoModel,AutoProcessor
 P=json.load(open('prompts.json'))
 man=json.load(open('manifest.json'))
-MODELS=[("openai/clip-vit-base-patch32","clip"),("google/siglip-base-patch16-224","siglip")]
+MODELS=[("openai/clip-vit-large-patch14","clip"),("google/siglip-so400m-patch14-384","siglip"),("google/siglip-base-patch16-224","siglip")]
 out={"lisans":{},"skor":{}}
 for mid,kind in MODELS:
     try:
@@ -12,6 +12,7 @@ for mid,kind in MODELS:
     except Exception as e: out["lisans"][mid]=f"okunamadi {e}"
     model=AutoModel.from_pretrained(mid).eval(); proc=AutoProcessor.from_pretrained(mid)
     texts=[t for _,t in P]
+    pad=64
     sk={}
     for m in man:
         im=Image.open(f"img/{m['h']}.jpg").convert("RGB")
