@@ -2,7 +2,7 @@
 // GitHub Actions kuru çalıştırması (yumapai-web veri-aciklama) aynı dosyayı kullanır, böylece önizleme ile canlı yazım aynı metni üretir.
 //   Wikipedia: Action API (prop=extracts&exintro&explaintext): giriş bölümünün tamamı, 20 başlık/istek. Lisans CC BY-SA 4.0; atıf = başlık + URL + revizyon.
 //   Wikidata: wbgetentities (CC0).
-import type { Etiketler, Lang, Ozet, Wd } from "./kural.ts";
+import { DILLER, type Etiketler, type Lang, type Ozet, type Wd, WIKI_SITE } from "./kural.ts";
 
 export const UA = "YuMapAI-aciklama/1.1 (https://yumapai.com; open-reference descriptions)";
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -23,19 +23,21 @@ const yilOf = (cl: any[] | undefined) => {
   const v = cl?.[0]?.mainsnak?.datavalue?.value; if (!v?.time || (v.precision ?? 0) < 9) return undefined;
   const m = /^([+-])0*(\d+)-/.exec(v.time); return m ? (m[1] === "-" ? -1 : 1) * Number(m[2]) : undefined;
 };
+// Wikidata etiketleri: yalnız istenen dildeki etiket (Wikidata'nın "mul"/dil geri düşmesi kullanılmaz; languagefallback istenmez).
+const etiket = (e: any) => Object.fromEntries(DILLER.map((l) => [l, e.labels?.[l]?.language === l || e.labels?.[l]?.language == null ? e.labels?.[l]?.value : undefined]).filter(([, v]) => v)) as Record<Lang, string>;
 export async function wikidata(qids: string[], aralik = 1200): Promise<{ ents: Record<string, Wd>; L: Etiketler }> {
   const ents: Record<string, Wd> = {};
   for (let i = 0; i < qids.length; i += 25) {
-    const d = await get(WD + new URLSearchParams({ ids: qids.slice(i, i + 25).join("|"), props: "sitelinks|claims|labels", languages: "tr|en", sitefilter: "trwiki|enwiki" }), aralik);
-    for (const [k, e] of Object.entries<any>(d?.entities ?? {})) if (!("missing" in e)) ents[k] = { id: k, labels: { tr: e.labels?.tr?.value, en: e.labels?.en?.value }, sitelinks: e.sitelinks, claims: e.claims };
+    const d = await get(WD + new URLSearchParams({ ids: qids.slice(i, i + 25).join("|"), props: "sitelinks|claims|labels", languages: DILLER.join("|"), sitefilter: DILLER.map((l) => WIKI_SITE[l]).join("|") }), aralik);
+    for (const [k, e] of Object.entries<any>(d?.entities ?? {})) if (!("missing" in e)) ents[k] = { id: k, labels: etiket(e), sitelinks: e.sitelinks, claims: e.claims };
   }
   const refs = new Set<string>();
   for (const e of Object.values(ents)) for (const p of ["P31", "P1435", "P5816", "P84", "P149", "P361", "P527", "P138"])
     for (const c of e.claims?.[p] ?? []) { const id = c?.mainsnak?.datavalue?.value?.id; if (id) refs.add(id); }
   const L: Etiketler = {}; const rl = [...refs];
   for (let i = 0; i < rl.length; i += 50) {
-    const d = await get(WD + new URLSearchParams({ ids: rl.slice(i, i + 50).join("|"), props: "labels", languages: "tr|en" }), aralik);
-    for (const [k, v] of Object.entries<any>(d?.entities ?? {})) L[k] = { tr: v.labels?.tr?.value, en: v.labels?.en?.value };
+    const d = await get(WD + new URLSearchParams({ ids: rl.slice(i, i + 50).join("|"), props: "labels", languages: DILLER.join("|") }), aralik);
+    for (const [k, v] of Object.entries<any>(d?.entities ?? {})) L[k] = etiket(v);
   }
   // Mimar ömrü (yapım yılıyla çelişen mimar gösterilmez).
   const arch = new Set<string>();

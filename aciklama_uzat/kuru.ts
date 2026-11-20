@@ -2,6 +2,7 @@
 // Kaynak/kural kodu YuMapAI deposundaki supabase/functions/aciklama/{kural,kaynak}.ts'nin birebir kopyasıdır (fn/MD5 ile denetlenir),
 // böylece canlı edge function aynı metni üretir. Yalnız resmi API: Wikipedia Action API (CC BY-SA 4.0), Wikidata wbgetentities (CC0).
 // Kullanım: deno run -A kuru.ts orneklem500.tsv <cikti_dizini> [--tum ../wikidata_*.csv]
+// Çok dilli (21.11.2026): DILLER kural.ts'ten gelir (tr, en, de, ru, ar, ja, es); her dil kendi Wikipedia'sından okunur, ham önbellek tüm dilleri taşır.
 import { DILLER, kur, type Lang, WIKI_SITE, type Wd, type Yer } from "./fn/kural.ts";
 import { Durdur, ozetler, wikidata } from "./fn/kaynak.ts";
 

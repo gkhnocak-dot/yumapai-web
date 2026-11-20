@@ -1,0 +1,33 @@
+name: aciklama-dil-kuru
+# Açıklamaların de/ru/ar/ja/es genişlemesi KURU ÇALIŞTIRMA (21.11.2026). Veritabanına YAZMAZ; yalnız resmi Wikipedia Action API (CC BY-SA 4.0)
+# ve Wikidata wbgetentities (CC0) okunur. Çıktı 'veri-aciklama-dil-cikti' dalına tek commit olarak zorla yazılır (orneklem500.jsonl + ham.jsonl.gz).
+on:
+  push:
+    branches: [veri-aciklama-dil]
+    paths: ['aciklama_uzat/**', '.github/workflows/aciklama_dil.yml']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  kuru:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with: { deno-version: v2.x }
+      - name: Kural/kaynak kopyası denetimi
+        run: cd aciklama_uzat/fn && md5sum -c MD5
+      - name: Kuru çalıştırma (500 yer örneklemi, 7 dil)
+        run: cd aciklama_uzat && deno run -A kuru.ts orneklem500.tsv /tmp/cikti
+      - name: Çıktıyı veri-aciklama-dil-cikti dalına yaz
+        if: always()
+        run: |
+          cd /tmp/cikti && ls -la
+          test -f ham.jsonl && gzip -9 ham.jsonl || true
+          git init -q -b veri-aciklama-dil-cikti
+          git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
+          git add -A
+          git commit -q -m "Açıklama çok dilli kuru çalıştırma çıktısı (Wikipedia CC BY-SA 4.0 + Wikidata CC0; DB'ye yazılmadı)"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -f origin veri-aciklama-dil-cikti

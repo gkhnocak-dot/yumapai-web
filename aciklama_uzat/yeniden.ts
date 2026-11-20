@@ -8,7 +8,7 @@ let buf = "", i = 0; const o1: string[] = [], o2: string[] = [], gor = new Set<s
 const isle = (sat: string) => {
   if (!sat.trim()) return; const { k: km, y, e, L, oz } = JSON.parse(sat); const ilk = km === "o"; i++; if (!ilk && gor.has(y.qid)) return; if (!ilk) gor.add(y.qid);
   const r: any = { qid: y.qid, ad: y.name, il: y.il, ilce: y.ilce, onceTr: y.onceTr, onceEn: y.onceEn };
-  for (const l of ["tr", "en"]) {
+  for (const l of K.DILLER as string[]) {
     if (!e) { r[l] = { yok: "wikidata-varlik-yok" }; continue; }
     const k = K.kur(l, { ...y, ilce: temizIlce(y.ilce) }, e, L, oz[l]);
     r[l] = "text" in k ? { n: k.text.length, nWiki: k.nWiki, facts: k.facts, wikiRed: k.wikiRed ?? null, text: k.text, wiki: k.wiki ?? null } : { yok: k.yok };
