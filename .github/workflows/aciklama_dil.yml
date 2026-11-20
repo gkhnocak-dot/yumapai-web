@@ -20,11 +20,14 @@ jobs:
         run: cd aciklama_uzat/fn && md5sum -c MD5
       - name: Kuru çalıştırma (500 yer örneklemi, 7 dil)
         run: cd aciklama_uzat && deno run -A kuru.ts orneklem500.tsv /tmp/cikti
+      - name: Ek örneklem (en Wikipedia maddesi olan 166 yer; yeni dillerde madde oranı yüksek)
+        run: cd aciklama_uzat && deno run -A kuru.ts orneklem_dil.tsv /tmp/cikti/ek
       - name: Çıktıyı veri-aciklama-dil-cikti dalına yaz
         if: always()
         run: |
           cd /tmp/cikti && ls -la
           test -f ham.jsonl && gzip -9 ham.jsonl || true
+          test -f ek/ham.jsonl && gzip -9 ek/ham.jsonl || true
           git init -q -b veri-aciklama-dil-cikti
           git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
           git add -A
