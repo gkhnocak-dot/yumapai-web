@@ -77,6 +77,56 @@
     return pendingMap;
   };
 
+  // Kamera stüdyosu (sürüm 77). Kameranın <video> öğesi camera_web eklentisinindir; burada yalnız bulunur.
+  // Canlı filtre CSS filter ile videoya uygulanır (Flutter katman filtresi platform görünümüne işlemez).
+  function kameraVideo() {
+    var kokler = [document];
+    document.querySelectorAll('flt-glass-pane, flutter-view').forEach(function (e) { if (e.shadowRoot) kokler.push(e.shadowRoot); });
+    for (var i = 0; i < kokler.length; i++) {
+      var list = kokler[i].querySelectorAll('video');
+      for (var j = 0; j < list.length; j++) {
+        var v = list[j];
+        if (v.srcObject && typeof v.srcObject.getVideoTracks === 'function' && v.srcObject.getVideoTracks().length) return v;
+      }
+    }
+    return null;
+  }
+  window.yuKameraVideo = kameraVideo;
+  window.yuKameraBoyut = function () {
+    var v = kameraVideo();
+    return v && v.videoWidth ? [v.videoWidth, v.videoHeight] : null;
+  };
+  window.yuKameraFiltre = function (css) {
+    var v = kameraVideo();
+    if (!v) return false;
+    v.style.filter = css || '';
+    return true;
+  };
+  // Flaş (torch): yalnız kamera izi bu yeteneği açıkça bildiriyorsa (iOS Safari bildirmez → düğme gizlenir).
+  window.yuKameraTorchVar = function () {
+    try {
+      var v = kameraVideo();
+      var t = v && v.srcObject.getVideoTracks()[0];
+      if (!t || typeof t.getCapabilities !== 'function') return false;
+      return t.getCapabilities().torch === true;
+    } catch (e) { return false; }
+  };
+  // Yüz efektleri (AR): MediaPipe yalnız kullanıcı efekt seçince, kendi sitemizin ar/ klasöründen yüklenir.
+  // Yüz verisi yalnız bu cihazda işlenir; hiçbir yere gönderilmez ve saklanmaz.
+  var arModul = null;
+  var arBekleyen = null;
+  window.yuArTaban = function () { return new URL('ar/', runtime).href; };
+  window.yuArYukle = function () {
+    if (arBekleyen) return arBekleyen;
+    var taban = new URL('ar/', runtime).href;
+    arBekleyen = import(new URL('yu-ar.js', taban).href)
+      .then(function (m) { return m.yukle(taban).then(function (d) { arModul = m; return d; }); })
+      .catch(function (e) { arBekleyen = null; arModul = null; throw e; });
+    return arBekleyen;
+  };
+  window.yuArAlgila = function () { return arModul ? arModul.algila(kameraVideo()) : null; };
+  window.yuArKapat = function () { if (arModul) arModul.kapat(); arModul = null; arBekleyen = null; };
+
   // 3. Keep the same plate over the engine until the browser can paint Flutter's first frame.
   window.addEventListener('flutter-first-frame', function () {
     requestAnimationFrame(function () {

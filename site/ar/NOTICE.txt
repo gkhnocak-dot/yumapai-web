@@ -1,0 +1,15 @@
+YuMapAI kamera stüdyosu — yüz efektleri (AR) için kullanılan üçüncü taraf dosyalar
+
+1) @mediapipe/tasks-vision 1.2.3 (npm) — vision_bundle.js, wasm/vision_wasm_internal.js, wasm/vision_wasm_internal.wasm
+   Copyright Google LLC. Apache License 2.0 (LICENSE.txt).
+   https://github.com/google-ai-edge/mediapipe
+   DEĞİŞİKLİK BEYANI (20.11.2026, YuMapAI): vision_bundle.js'te kullanım günlüğü (telemetri) gönderimi kapatıldı
+   (zamanlayıcı kurulmaz, flush kuyruğu boşaltıp döner, günlük adresi boşaltıldı) ve kaynak haritası yorumu kaldırıldı.
+   Yama tools/ar_paketle.sh'tadır; başka değişiklik yoktur.
+
+2) face_landmarker.task (MediaPipe Face Landmarker, float16, sürüm 1)
+   Copyright Google LLC. Model kartı: Apache License 2.0.
+   https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker
+   Değiştirilmeden dağıtılır.
+
+Yüz verisi yalnız cihazda (tarayıcıda) işlenir; hiçbir yere gönderilmez ve saklanmaz.
