@@ -1,0 +1,1228 @@
+{
+ "surum": 1,
+ "hazirlanma": "2026-11-20",
+ "aciklama": "YuMapAI hikâye müziği kütüphanesi kataloğu. Yalnız CC BY 4.0 / CC0 / PDM. Bu dosya ADAY listesidir: parça ancak tools/muzik_cek.py doğrulamasından (lisans + dosya) geçerse kütüphaneye girer; geçmeyen atlanır ve raporda nedeni yazılır.",
+ "izinli_lisanslar": {
+  "cc_by_4": "https://creativecommons.org/licenses/by/4.0/",
+  "cc0": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pdm": "https://creativecommons.org/publicdomain/mark/1.0/"
+ },
+ "lisans_adlari": {
+  "cc_by_4": "CC BY 4.0",
+  "cc0": "CC0 1.0",
+  "pdm": "Kamu Malı (PDM 1.0)"
+ },
+ "ruh_halleri": {
+  "sakin": "Sakin",
+  "neseli": "Neşeli",
+  "romantik": "Romantik",
+  "enerjik": "Enerjik",
+  "nostaljik": "Nostaljik",
+  "doga": "Doğa",
+  "sehir": "Şehir",
+  "gece": "Gece"
+ },
+ "kategori_ruh": {
+  "CAFE": [
+   "sakin",
+   "romantik",
+   "nostaljik"
+  ],
+  "RESTAURANT": [
+   "romantik",
+   "sehir",
+   "gece"
+  ],
+  "HOTEL": [
+   "sakin",
+   "romantik",
+   "gece"
+  ],
+  "ACTIVITY": [
+   "enerjik",
+   "neseli",
+   "doga"
+  ],
+  "SHOPPING": [
+   "neseli",
+   "sehir",
+   "enerjik"
+  ],
+  "SIGHT": [
+   "nostaljik",
+   "sehir",
+   "sakin"
+  ],
+  "HISTORY": [
+   "nostaljik",
+   "sakin"
+  ],
+  "NATURE": [
+   "doga",
+   "sakin"
+  ],
+  "FOOD": [
+   "neseli",
+   "sehir",
+   "romantik"
+  ]
+ },
+ "saat_ruh": [
+  {
+   "baslangic": 5,
+   "bitis": 11,
+   "ruh": [
+    "neseli",
+    "enerjik"
+   ]
+  },
+  {
+   "baslangic": 11,
+   "bitis": 17,
+   "ruh": [
+    "neseli",
+    "sehir"
+   ]
+  },
+  {
+   "baslangic": 17,
+   "bitis": 21,
+   "ruh": [
+    "romantik",
+    "nostaljik"
+   ]
+  },
+  {
+   "baslangic": 21,
+   "bitis": 29,
+   "ruh": [
+    "gece",
+    "sakin"
+   ]
+  }
+ ],
+ "kaynaklar": {
+  "incompetech": {
+   "hedef": 40,
+   "durum": "aday_listesi_hazir",
+   "aday": 56,
+   "birlik_durumu": "dogrulanmadi (ozet.md: sanatçının MESAM/MSG üyeliği kontrol edilmedi; avukat sorusu)",
+   "dogrulama": "indirilen mp3 etiketleri (ffprobe): telif/yorum alanında creativecommons.org/licenses/by/4.0 + sanatçı Kevin MacLeod; ISRC etiketinden kaynak sayfa adresi (index.html?isrc=) üretilir"
+  },
+  "freemusicarchive": {
+   "hedef": 30,
+   "durum": "BEKLIYOR",
+   "neden": "Bu sunucudan freemusicarchive.org erişilemedi; parça adı/adresi uydurulmadı. tools/muzik_aday.py (Openverse resmi API) aday listesi üretir; seçim sonrası bu dosyaya 'bagimsiz_sanatci_dogrulandi': true ile eklenir (MESAM/MSG belirsizse alınmaz)."
+  },
+  "musopen": {
+   "hedef": 10,
+   "durum": "BEKLIYOR",
+   "neden": "Aynı neden; yalnız kayıt dahil CC0/PDM doğrulanan parçalar."
+  }
+ },
+ "parcalar": [
+  {
+   "id": "inc-carefree",
+   "kaynak": "incompetech",
+   "baslik": "Carefree",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-fluffing-a-duck",
+   "kaynak": "incompetech",
+   "baslik": "Fluffing a Duck",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-monkeys-spinning-monkeys",
+   "kaynak": "incompetech",
+   "baslik": "Monkeys Spinning Monkeys",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli",
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-sneaky-snitch",
+   "kaynak": "incompetech",
+   "baslik": "Sneaky Snitch",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik",
+    "sehir"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-wallpaper",
+   "kaynak": "incompetech",
+   "baslik": "Wallpaper",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wallpaper.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli",
+    "sakin"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "CAFE",
+    "FOOD",
+    "HOTEL",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-local-forecast-elevator",
+   "kaynak": "incompetech",
+   "baslik": "Local Forecast - Elevator",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast%20-%20Elevator.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "sehir"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-pixel-peeker-polka-faster",
+   "kaynak": "incompetech",
+   "baslik": "Pixel Peeker Polka - faster",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Pixel%20Peeker%20Polka%20-%20faster.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli",
+    "nostaljik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "HISTORY",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-happy-bee",
+   "kaynak": "incompetech",
+   "baslik": "Happy Bee",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Happy%20Bee.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-bossa-antigua",
+   "kaynak": "incompetech",
+   "baslik": "Bossa Antigua",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "romantik",
+    "sehir"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HOTEL",
+    "RESTAURANT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-dreamy-flashback",
+   "kaynak": "incompetech",
+   "baslik": "Dreamy Flashback",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dreamy%20Flashback.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "nostaljik",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-gymnopedie-no-1",
+   "kaynak": "incompetech",
+   "baslik": "Gymnopedie No 1",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Gymnopedie%20No%201.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "nostaljik",
+    "gece"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-porch-swing-days-faster",
+   "kaynak": "incompetech",
+   "baslik": "Porch Swing Days - faster",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Porch%20Swing%20Days%20-%20faster.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "nostaljik"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-easy-lemon",
+   "kaynak": "incompetech",
+   "baslik": "Easy Lemon",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli",
+    "sehir"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-heartwarming",
+   "kaynak": "incompetech",
+   "baslik": "Heartwarming",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heartwarming.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "romantik",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HOTEL",
+    "RESTAURANT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-windswept",
+   "kaynak": "incompetech",
+   "baslik": "Windswept",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Windswept.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "doga",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-hall-of-the-mountain-king",
+   "kaynak": "incompetech",
+   "baslik": "Hall of the Mountain King",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hall%20of%20the%20Mountain%20King.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik",
+    "gece"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-cipher",
+   "kaynak": "incompetech",
+   "baslik": "Cipher",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cipher.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "gece",
+    "sehir"
+   ],
+   "kategoriler": [],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-investigations",
+   "kaynak": "incompetech",
+   "baslik": "Investigations",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "gece"
+   ],
+   "kategoriler": [],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-the-lift",
+   "kaynak": "incompetech",
+   "baslik": "The Lift",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/The%20Lift.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sehir",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "FOOD",
+    "HOTEL",
+    "RESTAURANT",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-backed-vibes-clean",
+   "kaynak": "incompetech",
+   "baslik": "Backed Vibes Clean",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Backed%20Vibes%20Clean.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sehir",
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "RESTAURANT",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-funkorama",
+   "kaynak": "incompetech",
+   "baslik": "Funkorama",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Funkorama.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik",
+    "sehir"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-jazz-brunch",
+   "kaynak": "incompetech",
+   "baslik": "Jazz Brunch",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Jazz%20Brunch.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sehir",
+    "sakin",
+    "romantik"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "FOOD",
+    "HOTEL",
+    "RESTAURANT",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-fretless",
+   "kaynak": "incompetech",
+   "baslik": "Fretless",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fretless.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-study-and-relax",
+   "kaynak": "incompetech",
+   "baslik": "Study and Relax",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Study%20and%20Relax.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-impact-moderato",
+   "kaynak": "incompetech",
+   "baslik": "Impact Moderato",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Impact%20Moderato.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-salty-ditty",
+   "kaynak": "incompetech",
+   "baslik": "Salty Ditty",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Salty%20Ditty.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli",
+    "nostaljik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "HISTORY",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-fiddles-mcginty",
+   "kaynak": "incompetech",
+   "baslik": "Fiddles McGinty",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fiddles%20McGinty.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli",
+    "nostaljik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "HISTORY",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-merry-go",
+   "kaynak": "incompetech",
+   "baslik": "Merry Go",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Merry%20Go.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-marty-gots-a-plan",
+   "kaynak": "incompetech",
+   "baslik": "Marty Gots a Plan",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Marty%20Gots%20a%20Plan.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-pamgaea",
+   "kaynak": "incompetech",
+   "baslik": "Pamgaea",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Pamgaea.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "doga",
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-ethereal-relaxation",
+   "kaynak": "incompetech",
+   "baslik": "Ethereal Relaxation",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ethereal%20Relaxation.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "doga",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-floating-cities",
+   "kaynak": "incompetech",
+   "baslik": "Floating Cities",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Floating%20Cities.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "gece"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-lobby-time",
+   "kaynak": "incompetech",
+   "baslik": "Lobby Time",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lobby%20Time.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sehir",
+    "neseli"
+   ],
+   "kategoriler": [
+    "FOOD",
+    "RESTAURANT",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-airport-lounge",
+   "kaynak": "incompetech",
+   "baslik": "Airport Lounge",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Airport%20Lounge.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sehir",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "FOOD",
+    "HOTEL",
+    "RESTAURANT",
+    "SHOPPING",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-spy-glass",
+   "kaynak": "incompetech",
+   "baslik": "Spy Glass",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spy%20Glass.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "nostaljik",
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "HISTORY",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-thinking-music",
+   "kaynak": "incompetech",
+   "baslik": "Thinking Music",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Thinking%20Music.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-kool-kats",
+   "kaynak": "incompetech",
+   "baslik": "Kool Kats",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kool%20Kats.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "nostaljik",
+    "sehir"
+   ],
+   "kategoriler": [
+    "HISTORY",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-hot-swing",
+   "kaynak": "incompetech",
+   "baslik": "Hot Swing",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hot%20Swing.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "nostaljik",
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "HISTORY",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-moorland",
+   "kaynak": "incompetech",
+   "baslik": "Moorland",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Moorland.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "doga",
+    "nostaljik"
+   ],
+   "kategoriler": [
+    "HISTORY",
+    "NATURE",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-ossuary-1-a-beginning",
+   "kaynak": "incompetech",
+   "baslik": "Ossuary 1 - A Beginning",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%201%20-%20A%20Beginning.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "gece"
+   ],
+   "kategoriler": [],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-almost-in-f-tranquility",
+   "kaynak": "incompetech",
+   "baslik": "Almost in F - Tranquility",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Almost%20in%20F%20-%20Tranquility.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "doga"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-healing",
+   "kaynak": "incompetech",
+   "baslik": "Healing",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Healing.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "doga"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-meditation-impromptu-01",
+   "kaynak": "incompetech",
+   "baslik": "Meditation Impromptu 01",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Meditation%20Impromptu%2001.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "doga"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-peace-of-mind",
+   "kaynak": "incompetech",
+   "baslik": "Peace of Mind",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Peace%20of%20Mind.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-canon-in-d",
+   "kaynak": "incompetech",
+   "baslik": "Canon in D",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Canon%20in%20D.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "sakin",
+    "romantik"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HISTORY",
+    "HOTEL",
+    "NATURE",
+    "RESTAURANT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-mining-by-moonlight",
+   "kaynak": "incompetech",
+   "baslik": "Mining by Moonlight",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mining%20by%20Moonlight.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "gece",
+    "sakin"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HOTEL"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-cheery-monday",
+   "kaynak": "incompetech",
+   "baslik": "Cheery Monday",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cheery%20Monday.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-faster-does-it",
+   "kaynak": "incompetech",
+   "baslik": "Faster Does It",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Faster%20Does%20It.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-smooth-lovin",
+   "kaynak": "incompetech",
+   "baslik": "Smooth Lovin",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Smooth%20Lovin.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "romantik",
+    "sehir"
+   ],
+   "kategoriler": [
+    "CAFE",
+    "HOTEL",
+    "RESTAURANT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-slow-burn",
+   "kaynak": "incompetech",
+   "baslik": "Slow Burn",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Slow%20Burn.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "gece",
+    "romantik"
+   ],
+   "kategoriler": [
+    "RESTAURANT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-fun-in-a-bottle",
+   "kaynak": "incompetech",
+   "baslik": "Fun in a Bottle",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fun%20in%20a%20Bottle.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-disco-con-tutti",
+   "kaynak": "incompetech",
+   "baslik": "Disco con Tutti",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Disco%20con%20Tutti.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-space-jazz",
+   "kaynak": "incompetech",
+   "baslik": "Space Jazz",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Space%20Jazz.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "gece",
+    "sehir"
+   ],
+   "kategoriler": [],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-crinoline-dreams",
+   "kaynak": "incompetech",
+   "baslik": "Crinoline Dreams",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crinoline%20Dreams.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "nostaljik",
+    "romantik"
+   ],
+   "kategoriler": [
+    "HISTORY",
+    "RESTAURANT",
+    "SIGHT"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-pickled-pink",
+   "kaynak": "incompetech",
+   "baslik": "Pickled Pink",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Pickled%20Pink.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "neseli"
+   ],
+   "kategoriler": [
+    "ACTIVITY",
+    "FOOD",
+    "SHOPPING"
+   ],
+   "etiket_durumu": "on"
+  },
+  {
+   "id": "inc-scheming-weasel-faster",
+   "kaynak": "incompetech",
+   "baslik": "Scheming Weasel faster",
+   "sanatci": "Kevin MacLeod",
+   "indirme_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Scheming%20Weasel%20faster.mp3",
+   "kaynak_sayfa_url": "https://incompetech.com/music/royalty-free/music.html",
+   "lisans_kodu": "cc_by_4",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0/",
+   "ruh": [
+    "enerjik"
+   ],
+   "kategoriler": [
+    "ACTIVITY"
+   ],
+   "etiket_durumu": "on"
+  }
+ ]
+}
