@@ -304,6 +304,63 @@
   }, { once: true });
 })();
 
+// Güvenli alan bekçisi (21.11.2026). Flutter web motoru viewPadding'i (env(safe-area-inset-*)) önbelleğe alır ve yalnız
+// visualViewport 'resize' olayında yeniden okur; iOS ana ekran uygulamasında açılışta env() 0 gelirse oturum boyunca 0 kalır
+// (arama kutusu saatin altına, alt bar ana ekran çizgisine taşır). Burada aynı değerler gizli bir sondayla okunur; motorun
+// bildiğinden (başlangıçta 0 varsayılır) farklıysa tek bir sentetik 'resize' yollanır, değişmediyse hiçbir şey yollanmaz.
+// Motor kaynağı: window.dart _handleBrowserResize → _viewPadding = computeSafeAreaInsets(); dinleyici visualViewport'ta.
+(function () {
+  'use strict';
+  var sonda = null;
+  var bilinen = '0,0,0,0';
+  var gozlemci = null;
+  function sondaAl() {
+    if (sonda && sonda.isConnected) return sonda;
+    var ana = document.body || document.documentElement;
+    if (!ana) return null;
+    sonda = document.createElement('div');
+    sonda.setAttribute('aria-hidden', 'true');
+    sonda.setAttribute('data-yu-guvenli-alan', '');
+    sonda.style.cssText = 'position:fixed;left:0;top:0;width:0;height:0;visibility:hidden;pointer-events:none;' +
+      'padding:env(safe-area-inset-top,0px) env(safe-area-inset-right,0px) env(safe-area-inset-bottom,0px) env(safe-area-inset-left,0px)';
+    ana.appendChild(sonda);
+    try {
+      if (window.ResizeObserver) {
+        if (gozlemci) gozlemci.disconnect();
+        gozlemci = new ResizeObserver(function () { kontrol(); });
+        gozlemci.observe(sonda, { box: 'border-box' }); // içerik kutusu 0x0'dır; env() dolgudadır
+      }
+    } catch (e) {}
+    return sonda;
+  }
+  function oku() {
+    var el = sondaAl();
+    if (!el) return null;
+    var cs = getComputedStyle(el);
+    return ['top', 'right', 'bottom', 'left'].map(function (k) {
+      return Math.round(parseFloat(cs.getPropertyValue('padding-' + k)) || 0);
+    }).join(',');
+  }
+  function kontrol() {
+    var v;
+    try { v = oku(); } catch (e) { return; }
+    if (v === null || v === bilinen) return;
+    bilinen = v;
+    try {
+      (window.visualViewport || window).dispatchEvent(new Event('resize'));
+    } catch (e) {}
+  }
+  window.yuGuvenliAlanKontrol = kontrol;
+  window.addEventListener('flutter-first-frame', kontrol);
+  window.addEventListener('pageshow', kontrol);
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'visible') kontrol();
+  });
+  window.addEventListener('resize', kontrol);
+  window.addEventListener('orientationchange', kontrol);
+  [0, 300, 1000, 3000].forEach(function (ms) { setTimeout(kontrol, ms); });
+})();
+
 // Yönetim paneli (18.11.2026): bu adreste "Ana Ekrana Ekle" ayrı bir "YuMapAI Yönetim" simgesi oluşturur ve
 // simge doğrudan yönetim paneline açılır (uygulamanın kendi simgesi değişmez). Giriş ekranına yönlenirken (yu_next)
 // ve uygulama içi geçişlerde de güncel tutulur (Sürüm 43).

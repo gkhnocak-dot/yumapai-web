@@ -1,10 +1,10 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,E,C={a4M:function a4M(d){this.a=d},aM9:function aM9(){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,E,C={a4M:function a4M(d){this.a=d},aM8:function aM8(){var _=this
 _.d=null
 _.e=!1
-_.c=_.a=null},d71:function d71(d){this.a=d},d7_:function d7_(d,e){this.a=d
-this.b=e},d70:function d70(d){this.a=d},
-e70(){return new C.Cs(null)},
+_.c=_.a=null},d70:function d70(d){this.a=d},d6Z:function d6Z(d,e){this.a=d
+this.b=e},d7_:function d7_(d){this.a=d},
+e71(){return new C.Cs(null)},
 oh:function oh(d,e,f,g,h,i){var _=this
 _.a=d
 _.b=e
@@ -13,17 +13,17 @@ _.d=g
 _.e=h
 _.f=i},
 Cs:function Cs(d){this.a=d},
-aEs:function aEs(d){this.d=d
+aEr:function aEr(d){this.d=d
 this.c=this.a=null},
-cn2:function cn2(d){this.a=d},
 cn1:function cn1(d){this.a=d},
-cn_:function cn_(d,e,f){this.a=d
-this.b=e
-this.c=f},
+cn0:function cn0(d){this.a=d},
 cmZ:function cmZ(d,e,f){this.a=d
 this.b=e
 this.c=f},
-cn0:function cn0(){}},D
+cmY:function cmY(d,e,f){this.a=d
+this.b=e
+this.c=f},
+cn_:function cn_(){}},D
 J=c[1]
 A=c[0]
 B=c[2]
@@ -31,10 +31,10 @@ E=c[148]
 C=a.updateHolder(c[6],C)
 D=c[147]
 C.a4M.prototype={
-a3(){return new C.aM9()}}
-C.aM9.prototype={
+a3(){return new C.aM8()}}
+C.aM8.prototype={
 ac(){this.ah()
-new C.d71(this).$0()},
+new C.d70(this).$0()},
 G(d){var x,w,v,u,t,s,r,q,p,o,n=null,m=A.a(d).ax.a===B.a?A.c():A.b(),l=this.d
 if(!this.e)x=l==null||J.cU(l)
 else x=!1
@@ -42,7 +42,7 @@ if(x)return B.ak
 x=A.aO(d,22)
 w=A.e([A.h(A.P("yu_music_licenses_title",n),n,n,n,n,n,n,n,new A.j(m).gbe().qn("Manrope",B.J),n,n,n,n),B.aw,A.h(A.P("yu_music_licenses_body",n),n,n,n,n,n,n,n,new A.j(m).gap(),n,n,n,n),B.aw],y.u)
 if(this.e)w.push(A.h(A.P("yu_music_licenses_empty",n),D.bM_,n,n,n,n,n,n,new A.j(m).gm(),n,n,n,n))
-v=J.b_(l==null?B.Oa:l)
+v=J.b_(l==null?B.Ob:l)
 u=y.q
 while(v.E()){t=v.gZ(v)
 s=t.a
@@ -53,74 +53,74 @@ t=t.f
 o=A.oe(t)
 if(o==null)o=n
 else{o=o.gmV(o)
-o=A.aPL(o,"www.","",0)}if((o==null?"":o).length===0)t=""
+o=A.aPK(o,"www.","",0)}if((o==null?"":o).length===0)t=""
 else{t=A.oe(t)
 if(t==null)t=n
 else{t=t.gmV(t)
-t=A.aPL(t,"www.","",0)}t=" \xb7 "+(t==null?"":t)}o=m.gB()
+t=A.aPK(t,"www.","",0)}t=" \xb7 "+(t==null?"":t)}o=m.gB()
 w.push(new A.i(B.nT,new A.aZ(r+" \u2014 "+q+" \xb7 "+p+t,n,new A.ad(!0,o,n,"Manrope",n,n,13,B.N,n,n,n,n,1.46,n,n,n,n,n,n,n,n,n,n,n,n,n).PF(1.35),n,n,n,n,n,n,n,n,n,n,n),new A.S("lisans_muzik_"+s,u)))}return new A.i(B.nQ,A.d(n,A.L(w,B.P,n,B.z,B.i,0,n,B.k),B.b,n,n,x,n,n,D.bLZ,n,D.y4,n,n,n),n)}}
 C.oh.prototype={}
 C.Cs.prototype={
-a3(){return new C.aEs(A.b5(y.w))}}
-C.aEs.prototype={
+a3(){return new C.aEr(A.b5(y.w))}}
+C.aEr.prototype={
 G(b5){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9=null,b0="ODbL 1.0 \xb7 CC BY 4.0",b1="Apache-2.0",b2="photo_manager",b3=A.a(b5).ax.a===B.a?A.c():A.b(),b4=A.m(b5,B.e,y.y)
 b4.toString
 x=b4.a.jL("_")==="tr"
-b4=A.bD(B.Xz,A.fl(x))
+b4=A.bD(B.XA,A.fl(x))
 b4=A.bH(b4.length===0?"yu_place_names_categories_and_e861":b4,a9)
 w=y.j
 v=A.e([new A.aL("CDLA-Permissive-2.0",'\xa9 Overture Maps Foundation (overturemaps.org). Places data from Meta, Microsoft, PinMeTo, Krick, RenderSEO, DAC and BrightQuery\nis available under the Community Data License Agreement \u2013 Permissive 2.0 (text below); Foursquare (FSQ OS Places) data under\nthe Apache License 2.0 (full text in the YuMapAI licenses page and in this list); AllThePlaces data under CC0 1.0.\nNotice of changes: YuMapAI modified the data (normalized names, categories and addresses; matched and merged records with\nother sources; added province and district) into its own place schema. Dates of changes: September\u2013November 2026,\nlast updated 18.11.2026.\n\nCommunity Data License Agreement - Permissive - Version 2.0\n\nThis is the Community Data License Agreement - Permissive, Version 2.0 (the "agreement"). Data Provider(s) and Data Recipient(s) agree as follows:\n\n1. Provision of the Data\n\n1.1. A Data Recipient may use, modify, and share the Data made available by Data Provider(s) under this agreement if that Data Recipient follows the terms of this agreement.\n\n1.2. This agreement does not impose any restriction on a Data Recipient\'s use, modification, or sharing of any portions of the Data that are in the public domain or that may be used, modified, or shared under any other legal exception or limitation.\n\n2. Conditions for Sharing Data\n\n2.1. A Data Recipient may share Data, with or without modifications, so long as the Data Recipient makes available the text of this agreement with the shared Data.\n\n3. No Restrictions on Results\n\n3.1. This agreement does not impose any restriction or obligations with respect to the use, modification, or sharing of Results.\n\n4. No Warranty; Limitation of Liability\n\n4.1. All Data Recipients receive the Data subject to the following terms:\n\nTHE DATA IS PROVIDED ON AN "AS IS" BASIS, WITHOUT REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.\n\nNO DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n5. Definitions\n\n5.1. "Data" means the material received by a Data Recipient under this agreement.\n\n5.2. "Data Provider" means any person who is the source of Data provided under this agreement and in reliance on a Data Recipient\'s agreement to its terms.\n\n5.3. "Data Recipient" means any person who receives Data directly or indirectly from a Data Provider and agrees to the terms of this agreement.\n\n5.4. "Results" means any outcome obtained by computational analysis of Data, including for example machine learning models and models\' insights.\n'),D.uB],w)
-u=A.bD(B.XF,A.fl(x))
+u=A.bD(B.XG,A.fl(x))
 u=A.bH(u.length===0?"yu_some_places_turkish_names_2867":u,a9)
-t=A.bD(B.Xn,A.fl(x))
+t=A.bD(B.Xo,A.fl(x))
 t=A.bH(t.length===0?"yu_cc_by_cc_by_sa_cc0_pub_e07e":t,a9)
-s=A.bD(B.W9,A.fl(x))
+s=A.bD(B.Wa,A.fl(x))
 s=A.bH(s.length===0?"yu_each_photo_s_author_an_cea8":s,a9)
-r=A.bD(B.XN,A.fl(x))
+r=A.bD(B.XO,A.fl(x))
 r=A.bH(r.length===0?"yu_place_photos_come_from_7c9c":r,a9)
-q=A.bD(B.WU,A.fl(x))
+q=A.bD(B.WV,A.fl(x))
 q=A.bH(q.length===0?"yu_openstreetmap_contribu_63f7":q,a9)
-p=A.bD(B.Xe,A.fl(x))
+p=A.bD(B.Xf,A.fl(x))
 p=A.bH(p.length===0?"yu_the_base_map_is_served_by_e3d0":p,a9)
-o=A.bD(B.Wx,A.fl(x))
+o=A.bD(B.Wy,A.fl(x))
 o=A.bH(o.length===0?"yu_geonames_data_is_used_to_80b6":o,a9)
-n=A.bD(B.WW,A.fl(x))
+n=A.bD(B.WX,A.fl(x))
 n=A.bH(n.length===0?"yu_provinces_districts_166f":n,a9)
-m=A.bD(B.XB,A.fl(x))
+m=A.bD(B.XC,A.fl(x))
 m=A.bH(m.length===0?"yu_province_district_boun_attr_7d21":m,a9)
-l=A.bD(B.Wn,A.fl(x))
+l=A.bD(B.Wo,A.fl(x))
 l=A.bH(l.length===0?"yu_province_district_boun_body_9e40":l,a9)
-k=A.bD(B.WO,A.fl(x))
+k=A.bD(B.WP,A.fl(x))
 k=A.bH(k.length===0?"yu_municipal_open_data_884e":k,a9)
-j=A.bD(B.Wl,A.fl(x))
+j=A.bD(B.Wm,A.fl(x))
 j=A.bH(j.length===0?"yu_ibb_open_data_cc_by_4_3b87":j,a9)
-i=A.bD(B.VV,A.fl(x))
+i=A.bD(B.VW,A.fl(x))
 i=A.bH(i.length===0?"yu_source_ibb_open_data_p_34c4":i,a9)
-h=A.bD(B.X5,A.fl(x))
+h=A.bD(B.X6,A.fl(x))
 h=A.bH(h.length===0?"yu_i_stanbul_museums_come_from_053d":h,a9)
-g=A.bD(B.Wm,A.fl(x))
+g=A.bD(B.Wn,A.fl(x))
 g=A.bH(g.length===0?"yu_ks_lic_8thwall":g,a9)
 f=A.e([D.bum],w)
-e=A.bD(B.Xa,A.fl(x))
+e=A.bD(B.Xb,A.fl(x))
 e=A.bH(e.length===0?"yu_ks_lic_51degrees":e,a9)
 d=A.e([D.bv8],w)
-a0=A.bD(B.W0,A.fl(x))
+a0=A.bD(B.W1,A.fl(x))
 a0=A.bH(a0.length===0?"yu_ks_lic_mediapipe":a0,a9)
 a1=A.e([D.uB],w)
-a2=A.bD(B.Xq,A.fl(x))
+a2=A.bD(B.Xr,A.fl(x))
 a2=A.bH(a2.length===0?"yu_ks_lic_tflite":a2,a9)
 a3=A.e([D.uB],w)
-a4=A.bD(B.Xk,A.fl(x))
+a4=A.bD(B.Xl,A.fl(x))
 a4=A.bH(a4.length===0?"yu_ks_lic_three":a4,a9)
 a5=A.e([D.bul],w)
-a6=A.bD(B.WQ,A.fl(x))
+a6=A.bD(B.WR,A.fl(x))
 a7=[new C.oh("overture","Overture Maps","CDLA-Permissive-2.0 \xb7 Apache-2.0","\xa9 Overture Maps Foundation",b4,v),new C.oh("wikidata","Wikidata","CC0 1.0","Wikidata (wikidata.org)",u,D.m8),new C.oh("commons","Wikimedia Commons",t,s,r,D.m8),new C.oh("osm","OpenStreetMap \xb7 OpenMapTiles \xb7 OpenFreeMap",b0,q,p,D.m8),new C.oh("geonames","GeoNames","CC BY 4.0","GeoNames (geonames.org)",o,D.m8),new C.oh("overture_sinir",n+" \xb7 Overture Maps",b0,m,l,D.m8),new C.oh("tr_acik",k,j,i,h,D.m8),new C.oh("8thwall","8th Wall Engine","MIT","\xa9 2026 Niantic Spatial, Inc. \u2014 @8thwall/engine 0.1.0 (Face Effects)",g,f),new C.oh("51degrees","51Degrees Renderer","MPL-2.0","\xa9 51 Degrees Mobile Experts Limited \u2014 https://github.com/51Degrees/Renderer",e,d),new C.oh("mediapipe","MediaPipe",b1,"\xa9 Google LLC \u2014 face detector / face mesh (web: 8th Wall de\u011fi\u015fiklikleriyle; iOS/Android: face_landmarker.task float16/1, de\u011fi\u015ftirilmeden), canonical face mesh",a0,a1),new C.oh("tflite","TensorFlow Lite / LiteRT (tflite_flutter)",b1,"\xa9 The TensorFlow Authors \u2014 tflite_flutter 0.12.1, LiteRT 1.4.0 (Android), TensorFlowLiteSwift 2.12.0 (iOS)",a2,a3),new C.oh("threejs","three.js","MIT","\xa9 three.js authors \u2014 three@0.187.0 (r187)",a4,a5),new C.oh(b2,b2,b1,"\xa9 fluttercandies \u2014 photo_manager 3.12.0",A.bH(a6.length===0?"yu_ks_lic_photo_manager":a6,a9),A.e([D.uB],w))]
 b4=b3.gbA()
 w=A.bD(B.Ar,A.fl(x))
 w=A.bH(w.length===0?"yu_back_2e39":w,a9)
 v=b3.ga0()
-w=A.aR(a9,!0,a9,A.et(!1,B.aa,!0,a9,A.R(!1,a9,!0,new A.r(44,44,A.B(B.aZ,b3.gB(),a9,a9,a9,20),a9),B.ci,!0,a9,a9,a9,a9,D.bM1,a9,a9,a9,a9,a9,new C.cn1(b5),a9,a9,a9,a9,a9,a9,a9),B.b,v,0,a9,a9,B.ci,a9,a9,B.ba),!1,a9,a9,a9,a9,!0,a9,!1,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,w,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,new C.cn2(b5),a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,B.I,a9)
-v=A.bD(B.XK,A.fl(x))
+w=A.aR(a9,!0,a9,A.et(!1,B.aa,!0,a9,A.R(!1,a9,!0,new A.r(44,44,A.B(B.aZ,b3.gB(),a9,a9,a9,20),a9),B.ci,!0,a9,a9,a9,a9,D.bM1,a9,a9,a9,a9,a9,new C.cn0(b5),a9,a9,a9,a9,a9,a9,a9),B.b,v,0,a9,a9,B.ci,a9,a9,B.ba),!1,a9,a9,a9,a9,!0,a9,!1,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,w,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,new C.cn1(b5),a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,B.I,a9)
+v=A.bD(B.XL,A.fl(x))
 u=y.u
 v=A.e([A.v(A.e([w,B.b4,A.C(A.h(A.bH(v.length===0?"yu_licences_and_data_sour_d928":v,a9),a9,a9,a9,a9,a9,a9,a9,new A.j(b3).gd7().qn("Manrope",B.J),a9,a9,a9,a9),1)],u),B.D,a9,B.z,B.i,0,a9,a9),B.aQ,A.h(A.P("yu_the_place_data_photos_and_caf4",a9),a9,a9,a9,a9,a9,a9,a9,new A.j(b3).gap().c2(b3.gt()),a9,a9,a9,a9),B.d0],u)
 for(a8=0;a8<13;++a8)B.m.V(v,A.e([this.b9K(b3,a7[a8],x),B.aQ],u))
@@ -141,23 +141,23 @@ b0u(d,e,f,g,h){var x,w,v,u=null,t=this.d.v(0,e),s=y.q,r=A.M(999),q=t?B.ze:B.ru
 q=A.B(q,d.gI(),u,u,u,u)
 x=A.fl(h)
 w=A.f(["title",f],y.w,y.x)
-x=A.bD(B.Wr,x)
+x=A.bD(B.Ws,x)
 v=y.u
-v=A.e([A.aR(u,!0,u,A.R(!1,r,!0,new A.i(B.e7,A.v(A.e([q,B.bi,A.C(A.h(A.bH(x.length===0?"yu_title_full_text_77d8":x,w),u,u,u,u,u,u,u,new A.j(d).gl9().aAX(d.gI(),"Manrope",B.T),u,u,u,u),1)],v),B.D,u,B.z,B.i,0,u,u),u),u,!0,u,u,u,u,new A.S("lisans_tam_"+e,s),u,u,u,u,u,new C.cn_(this,t,e),u,u,u,u,u,u,u),!1,u,u,u,u,!1,t,!1,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,B.I,u)],v)
+v=A.e([A.aR(u,!0,u,A.R(!1,r,!0,new A.i(B.e7,A.v(A.e([q,B.bi,A.C(A.h(A.bH(x.length===0?"yu_title_full_text_77d8":x,w),u,u,u,u,u,u,u,new A.j(d).gl9().aAX(d.gI(),"Manrope",B.T),u,u,u,u),1)],v),B.D,u,B.z,B.i,0,u,u),u),u,!0,u,u,u,u,new A.S("lisans_tam_"+e,s),u,u,u,u,u,new C.cmZ(this,t,e),u,u,u,u,u,u,u),!1,u,u,u,u,!1,t,!1,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,B.I,u)],v)
 if(t){r=d.gbA()
 q=A.M(14)
 v.push(A.d(u,A.dCg(B.q.aa(g),new A.S("lisans_metin_"+e,s),new A.j(d).gm().PF(1.35)),B.b,u,u,new A.J(r,u,u,q,u,u,B.o),u,u,u,u,B.dq,u,u,u))}return A.L(v,B.an,u,B.z,B.i,0,u,B.k)},
 bkp(d,e){var x,w,v,u,t=null,s=this.c
 s.toString
 s=A.aO(s,22)
-x=A.bD(B.Xv,A.fl(e))
+x=A.bD(B.Xw,A.fl(e))
 x=A.h(A.bH(x.length===0?"yu_software_and_fonts_dc32":x,t),t,t,t,t,t,t,t,new A.j(d).gbe().qn("Manrope",B.J),t,t,t,t)
 w=A.h(A.P("yu_licences_of_flutter_and_the_bab0",t),t,t,t,t,t,t,t,new A.j(d).gap(),t,t,t,t)
 v=A.B(B.lC,d.gI(),t,t,t,18)
-u=A.bD(B.VP,A.fl(e))
-return A.d(t,A.L(A.e([x,B.aw,w,B.aW,new A.eI(new C.cn0(),A.h(A.bH(u.length===0?"yu_show_open_source_licen_8835":u,t),t,t,t,t,t,t,t,A.aA(t,t,d.gB(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.T,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bLY)],y.u),B.P,t,B.z,B.i,0,t,B.k),B.b,t,t,s,t,t,D.bM0,t,D.y4,t,t,t)}}
+u=A.bD(B.VQ,A.fl(e))
+return A.d(t,A.L(A.e([x,B.aw,w,B.aW,new A.eI(new C.cn_(),A.h(A.bH(u.length===0?"yu_show_open_source_licen_8835":u,t),t,t,t,t,t,t,t,A.aA(t,t,d.gB(),t,t,t,t,t,"Manrope",t,t,t,t,t,B.T,t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t),v,!1,46,D.bLY)],y.u),B.P,t,B.z,B.i,0,t,B.k),B.b,t,t,s,t,t,D.bM0,t,D.y4,t,t,t)}}
 var z=a.updateTypes([])
-C.d71.prototype={
+C.d70.prototype={
 $0(){var x=0,w=A.A(y.F),v=1,u=[],t=this,s,r,q,p
 var $async$$0=A.w(function(d,e){if(d===1){u.push(e)
 x=v}for(;;)switch(x){case 0:v=3
@@ -165,14 +165,14 @@ x=6
 return A.u(B.l5.Kl(),$async$$0)
 case 6:s=e
 r=t.a
-if(r.c!=null)r.l(0,new C.d7_(r,s))
+if(r.c!=null)r.l(0,new C.d6Z(r,s))
 v=1
 x=5
 break
 case 3:v=2
 p=u.pop()
 r=t.a
-if(r.c!=null)r.l(0,new C.d70(r))
+if(r.c!=null)r.l(0,new C.d7_(r))
 x=5
 break
 case 2:x=1
@@ -181,34 +181,34 @@ case 5:return A.y(null,w)
 case 1:return A.x(u.at(-1),w)}})
 return A.z($async$$0,w)},
 $S:19}
-C.d7_.prototype={
+C.d6Z.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
-C.d70.prototype={
+C.d7_.prototype={
 $0(){return this.a.e=!0},
 $S:0}
-C.cn2.prototype={
-$0(){return A.kN(this.a)},
-$S:0}
 C.cn1.prototype={
-$0(){return A.kN(this.a)},
+$0(){return A.kM(this.a)},
 $S:0}
-C.cn_.prototype={
-$0(){var x=this.a
-return x.l(0,new C.cmZ(x,this.b,this.c))},
+C.cn0.prototype={
+$0(){return A.kM(this.a)},
 $S:0}
 C.cmZ.prototype={
+$0(){var x=this.a
+return x.l(0,new C.cmY(x,this.b,this.c))},
+$S:0}
+C.cmY.prototype={
 $0(){var x=this.c,w=this.a.d
 return this.b?w.Y(0,x):w.P(0,x)},
 $S:0}
-C.cn0.prototype={
+C.cn_.prototype={
 $0(){return A.fS("licenses")},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.ab,[C.a4M,C.Cs])
-x(A.ag,[C.aM9,C.aEs])
-x(A.dC,[C.d71,C.d7_,C.d70,C.cn2,C.cn1,C.cn_,C.cmZ,C.cn0])
+x(A.ag,[C.aM8,C.aEr])
+x(A.dC,[C.d70,C.d6Z,C.d7_,C.cn1,C.cn0,C.cmZ,C.cmY,C.cn_])
 w(C.oh,A.ah)})()
-A.dD(b.typeUniverse,JSON.parse('{"a4M":{"ab":[],"K":[]},"aM9":{"ag":["a4M"]},"Cs":{"ab":[],"K":[]},"aEs":{"ag":["Cs"]}}'))
+A.dD(b.typeUniverse,JSON.parse('{"a4M":{"ab":[],"K":[]},"aM8":{"ag":["a4M"]},"Cs":{"ab":[],"K":[]},"aEr":{"ag":["Cs"]}}'))
 var y={y:A.aj("dT"),j:A.aj("T<+(I,I)>"),u:A.aj("T<K>"),F:A.aj("bN"),w:A.aj("I"),q:A.aj("S<I>"),x:A.aj("ah?")};(function constants(){var x=a.makeConstList
 D.a80=new A.aE(0,880,0,1/0)
 D.y4=new A.a4(16,14,16,14)
@@ -224,4 +224,4 @@ D.bM0=new A.S("lisans_yazilim",y.q)
 D.bM1=new A.S("lisanslar_back",y.q)
 D.bM2=new A.S("lisanslar_list",y.q)
 D.bVu=new C.a4M(null)})()};
-(a=>{a["gZBxGxhMQloEqY02OuIMnEO5sBs="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["BPAxkK/2HasoYu957xLmCaIH1xo="]=a.current})($__dart_deferred_initializers__);
