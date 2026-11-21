@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,D,B={
-aeU(d,e){return D.m.e7(A.KD,new B.dwW(d,e))},
+aeU(d,e){return D.m.e7(A.KD,new B.dwX(d,e))},
 e6:function e6(d,e){this.a=d
 this.b=e},
-dwW:function dwW(d,e){this.a=d
+dwX:function dwX(d,e){this.a=d
 this.b=e}},A
 C=c[0]
 D=c[2]
@@ -11,11 +11,11 @@ B=a.updateHolder(c[74],B)
 A=c[192]
 B.e6.prototype={}
 var z=a.updateTypes(["a0(e6)"])
-B.dwW.prototype={
+B.dwX.prototype={
 $1(d){return d.b===this.a&&d.a===this.b},
 $S:z+0};(function inheritance(){var y=a.inherit
 y(B.e6,C.ah)
-y(B.dwW,C.dn)})();(function constants(){var y=a.makeConstList
+y(B.dwX,C.dn)})();(function constants(){var y=a.makeConstList
 A.bV4=new B.e6("cafe.coffee_shop","CAFE")
 A.bVc=new B.e6("cafe.tea_house","CAFE")
 A.bUS=new B.e6("cafe.patisserie","CAFE")
@@ -63,4 +63,4 @@ A.bVz=new B.e6("shopping.street","SHOPPING")
 A.bUY=new B.e6("shopping.specialty_food","SHOPPING")
 A.bV2=new B.e6("shopping.artisan","SHOPPING")
 A.KD=y([A.bV4,A.bVc,A.bUS,A.bUX,A.bVm,A.bVh,A.bVx,A.bV7,A.bVj,A.bVu,A.bVr,A.bVk,A.bV5,A.bVg,A.bV6,A.bV3,A.bUZ,A.bVa,A.bVi,A.bUT,A.bVn,A.bUW,A.bUV,A.bVb,A.bVv,A.bVp,A.bV0,A.bVf,A.bVl,A.bVd,A.bV9,A.bVs,A.bV1,A.bVq,A.bVt,A.bUU,A.bVo,A.bVw,A.bV8,A.bV_,A.bVA,A.bVe,A.bVy,A.bVz,A.bUY,A.bV2],C.aj("T<e6>"))})()};
-(a=>{a["mav5q1mAjVoc+ZThzSso0cHtp1Q="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["C7osCU8yem9XOY3CacZZZOrtaQI="]=a.current})($__dart_deferred_initializers__);

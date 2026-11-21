@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-Mk(d){return C.eoK(d)},
-eoK(d){var x=0,w=A.A(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
+Mk(d){return C.eoM(d)},
+eoM(d){var x=0,w=A.A(y.b),v=1,u=[],t,s,r,q,p,o,n,m,l
 var $async$Mk=A.w(function(e,f){if(e===1){u.push(f)
 x=v}for(;;)switch(x){case 0:n=A.en(d,0,null)
 v=3
@@ -22,7 +22,7 @@ case 6:x=3
 break
 case 9:x=!t&&n.giu()==="yandexnavi"?11:12
 break
-case 11:s=D.dVS(d,$.n().i9!=="DRIVE")
+case 11:s=D.dVU(d,$.n().i9!=="DRIVE")
 x=s!=null?13:14
 break
 case 13:x=15
@@ -55,4 +55,4 @@ C=a.updateHolder(c[63],C)
 D=c[67]
 var z=a.updateTypes([])
 var y={b:A.aj("@")}};
-(a=>{a["UyZXM6M3GPLJoUg1mKC51PTKRA8="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["BvnKu+bbHG2q9r85/hymlS6VvG0="]=a.current})($__dart_deferred_initializers__);

@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-dVS(d,e){var x,w,v,u="lat_from",t=A.oe(d)
+dVU(d,e){var x,w,v,u="lat_from",t=A.oe(d)
 if(t==null||t.giu()!=="yandexnavi")return null
 x=t.ghQ().h(0,"lat_to")
 w=t.ghQ().h(0,"lon_to")
@@ -13,4 +13,4 @@ B=c[2]
 C=a.updateHolder(c[67],C)
 var z=a.updateTypes([])
 var y={d:A.aj("T<J>")}};
-(a=>{a["YHOxxynWokqKPKaWNtC2RZoU7Bo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["TxVyjYWo/2osdoQSHGn42bwpn7U="]=a.current})($__dart_deferred_initializers__);

@@ -1,0 +1,20 @@
+/* YuMapAI web start plate (D-119W): the app's own start colour + logo while the engine loads; no layout shift (fixed). */
+/* html/body zemini = sayfa zemini (iOS standalone durum çubuğu buradan boyanır); #yu-splash da sayfa zemininde (yalnız logo); üst kenara değen sabit öğe mavi olmaz. */
+html, body { margin: 0; height: 100%; background: #F4F6FA; }
+@media (prefers-color-scheme: dark) { html, body { background: #05080E; } }
+/* iOS 26 durum çubuğu rengini üst kenara değen sabit (fixed) öğeden de örnekler ve plaka kalktıktan sonra güncellemeyebilir:
+   tam ekran plaka sayfa zemininde, plakada mavi zemin yok, yalnız logo (Reis 21.11.2026, mavi bar). */
+#yu-splash { position: fixed; inset: 0; z-index: 1; display: flex; align-items: center; justify-content: center;
+  background: #F4F6FA; pointer-events: none; }
+@media (prefers-color-scheme: dark) { #yu-splash { background: #05080E; } }
+#yu-splash img { border-radius: 40px; box-shadow: 0 10px 30px rgba(13, 27, 48, .16); }
+.yu-noscript { position: fixed; inset: auto 16px 24px 16px; margin: 0; padding: 14px 18px; border-radius: 18px; background: #FFFFFF;
+  color: #0D1B30; font: 600 16px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; text-align: center; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+#yu-sw-update { position: fixed; inset: auto 16px calc(16px + env(safe-area-inset-bottom)); margin: auto; z-index: 2147483647;
+  width: max-content; max-width: calc(100% - 32px); min-height: 44px; padding: 10px 16px; border: 2px solid #0D1B30;
+  border-radius: 12px; background: #FFFFFF; color: #0D1B30; font: 600 15px/1.4 system-ui, sans-serif; cursor: pointer; }
+#yu-sw-update:focus-visible { outline: 3px solid #1E7BEA; outline-offset: 2px; }
+
+/* Harita atfı her haritada metin olarak çizilir; kütüphanenin (i) düğmesi ikinci kopya (Reis 19.11.2026) */
+.maplibregl-ctrl-attrib { display: none !important; }
