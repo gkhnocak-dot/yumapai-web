@@ -8,7 +8,7 @@ if(r.b.test(s))u=!0
 else{r=A.bh("[A-Za-z\\u00C0-\\u00D6\\u00D8-\\u00F6\\u00F8-\\u02B8\\u0300-\\u0590\\u0800-\\u1FFF\\u2C00-\\uFB1C\\uFDFE-\\uFE6F\\uFEFD-\\uFFFF]",!0,!1)
 if(r.b.test(s))++v
 else{r=A.bh("\\d",!0,!1)
-if(r.b.test(s))u=!0}}}}if(v===0)return u?C.a3H:C.bA6
+if(r.b.test(s))u=!0}}}}if(v===0)return u?C.a3H:C.bA8
 else if(w>0.4*v)return C.dK
 else return C.a3H}},C
 A=c[0]
@@ -19,5 +19,5 @@ B.a2V.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.a2V,A.ah)})();(function constants(){C.a3H=new B.a2V("LTR")
 C.dK=new B.a2V("RTL")
-C.bA6=new B.a2V("UNKNOWN")})()};
-(a=>{a["FsVsLi68BvhhU0H5wQecfsP9oyo="]=a.current})($__dart_deferred_initializers__);
+C.bA8=new B.a2V("UNKNOWN")})()};
+(a=>{a["eZtoM13/QdFM4t0dX4eaiPpJLyg="]=a.current})($__dart_deferred_initializers__);
