@@ -1,0 +1,31 @@
+YuMapAI kamera stüdyosu — yüz efektleri (AR) için kullanılan üçüncü taraf dosyalar
+Bütün dosyalar YuMapAI'ın kendi sitesinden sunulur; çalışırken başka sunucuya istek atılmaz. Yüz verisi yalnız cihazda
+(tarayıcıda) işlenir; hiçbir yere gönderilmez ve saklanmaz.
+
+1) 8th Wall Engine (@8thwall/engine 0.1.0, npm) — 8thwall/xr.js, 8thwall/xr-face.js
+   Copyright 2026 Niantic Spatial, Inc. MIT License (LICENSES/8thwall-MIT.txt). https://github.com/8thwall/8thwall
+   Yalnız açık kaynak motor ve Face Effects parçası kullanılır; kapalı "Distributed Engine Binary" (SLAM) KULLANILMAZ.
+   DEĞİŞİKLİK BEYANI (20.11.2026, YuMapAI; tools/ar_paketle.sh): uzak adresler kaldırıldı — GLTFLoader (cdn.rawgit.com,
+   yalnız AR/VR gözlüklerinde) istek atmadan hata döner; WebXR el profilleri (cdn.jsdelivr.net) yolu boş; Draco çözücü
+   adresleri (cdn.8thwall.com; motor zaten "desteklenmiyor" der, hiç indirmez) adres metninden arındırıldı. Başka değişiklik yok.
+
+2) 51Degrees Renderer (GPU algılayıcısı; xr.js'in içinde gömülü) — Mozilla Public License 2.0
+   Copyright 51 Degrees Mobile Experts Limited. "Incompatible With Secondary Licenses" (MPL-2.0 tanımıyla).
+   Kaynak Kod Biçimi: LICENSES/51degrees-getRenderer.js.txt (8th Wall deposu, commit 052ad1ee5528, değiştirilmedi);
+   özgün kaynak: https://github.com/51Degrees/Renderer (renderer.js). Lisans: LICENSES/51degrees-MPL-2.0.md.
+   Kullanım Reis onayıyla (20.11.2026).
+
+3) Yüz modelleri — 8thwall/resources/face-model.tflite, face-mesh-model.tflite
+   MediaPipe (Google LLC) modellerinden türetilmiştir: "Original License: Apache 2.0 github.com/8thwall/mediapipe/blob/
+   d68f5e416903e3d756ebe07d08c4a3b911741a91/LICENSE; Modifications by 8th Wall Inc." (modelin meta verisi).
+   Apache License 2.0 (LICENSES/mediapipe-Apache-2.0.txt). Değiştirilmeden dağıtılır.
+   Kulak modeli (face-ear-model.tflite) kökeni belgelenmediği için DAĞITILMAZ ve kullanılmaz.
+
+4) yuz_kanonik.js — MediaPipe kanonik yüz ağı (face_landmarker.task içindeki geometry_pipeline_metadata), Apache-2.0,
+   © Google LLC. tools/ar/kanonik.py ile JS dizisine çevrildi (değer değişikliği yok); modelin kendisi dağıtılmaz.
+
+5) three.min.js — three.js r187 (three@0.187.0), MIT (LICENSES/three.js-MIT.txt), © three.js authors. esbuild ile
+   küçültüldü, kod değiştirilmedi.
+
+6) efektler.js — YuMapAI'nin kendi dosyası: efekt listesi tek kaynaktan (tools/ar/efektler.json) üretilir; iOS/Android
+   uygulaması aynı listeyi kullanır. iOS/Android'in model ve çalışma zamanı bildirimleri: assets/ar/NOTICE.txt.
