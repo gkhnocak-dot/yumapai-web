@@ -1,0 +1,27 @@
+name: aday-sheet
+# Geo-foto aday küçük resim kontakt sayfaları (okuma; DB'ye yazmaz). Girdi: c.txt (aday_id|yer|dosya). Çıktı: veri-aday-sheet-cikti dalı.
+on:
+  push:
+    branches: [veri-aday-sheet]
+    paths: ['c.txt','sheet.py','.github/workflows/aday_sheet.yml']
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  sheet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install pillow
+      - run: python sheet.py
+      - name: Çıktı dalı
+        if: always()
+        run: |
+          cd out && git init -q -b veri-aday-sheet-cikti
+          git config user.name "YuMapAI veri" && git config user.email "noreply@yumapai.com"
+          git add -A && git commit -q --allow-empty -m "aday sheet"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -f origin veri-aday-sheet-cikti
