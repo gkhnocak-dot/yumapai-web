@@ -26,3 +26,6 @@ Bütün dosyalar YuMapAI'ın kendi sitesinden sunulur; çalışırken başka sun
 
 5) three.min.js — three.js r187 (three@0.187.0), MIT (LICENSES/three.js-MIT.txt), © three.js authors. esbuild ile
    küçültüldü, kod değiştirilmedi.
+
+6) efektler.js — YuMapAI'nin kendi dosyası: efekt listesi tek kaynaktan (tools/ar/efektler.json) üretilir; iOS/Android
+   uygulaması aynı listeyi kullanır. iOS/Android'in model ve çalışma zamanı bildirimleri: assets/ar/NOTICE.txt.

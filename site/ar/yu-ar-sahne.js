@@ -6,19 +6,17 @@
 // 3B modeller bu dosyada parametrik üretilir (dış model dosyası yok; lisans: web/ar/LICENSES/README.txt).
 import * as T from './three.min.js';
 import { KONUM, UV, INDIS } from './yuz_kanonik.js';
+import { EFEKTLER, CAPA, KULAK_MEMESI } from './efektler.js';
 
 T.ColorManagement.enabled = false; // renkler sRGB değerleriyle işlenir: Flutter filtre matrisiyle aynı uzay
 
-/** Efekt kimlikleri (Dart: lib/kamera_studyosu/ks_efekt.dart ile aynı sıra ve adlar). */
-export const EFEKTLER = [
-  'puruzsuz', 'allik', 'cil', 'altin_saat', 'film', 'gunes_gozlugu', 'cicek_taci', 'nazar_kupe', 'sim_yagmuru',
-];
+/** Efekt kimlikleri, çapa noktaları ve kulak memesi noktaları tek kaynaktan gelir (tools/ar/efektler.json → efektler.js;
+ * iOS/Android aynı dosyadan üretilen lib/kamera_studyosu/yuz/ks_efekt_tanim.g.dart'ı kullanır). */
+export { EFEKTLER, CAPA, KULAK_MEMESI };
 
 /** Varsayılan dikey görüş açısı (derece); izleyici gerçek değeri her karede bildirir (veri[3]). */
 export const GORUS = 63;
 
-/** Kulak memesi noktaları (MediaPipe 468 ağ; kanonik ağda yüz kenarının çene–kulak birleşimi). */
-export const KULAK_MEMESI = { sag: 132, sol: 361 };
 
 const OVAL = [10, 338, 297, 332, 284, 251, 389, 356, 454, 323, 361, 288, 397, 365, 379, 378, 400, 377, 152, 148, 176, 149, 150,
   136, 172, 58, 132, 93, 234, 127, 162, 21, 54, 103, 67, 109];
@@ -382,8 +380,11 @@ function yuvarlakDortgen(gen, yuk, r, ustDaralma = 0) {
   return s;
 }
 
+/** Bölüt sayısı × ayrıntı (web 1; iOS/Android modeli tools/ar/model_pisir.mjs ile daha az üçgenle pişirilir). */
+const bolut = (n, ayr, en = 3) => Math.max(en, Math.round(n * ayr));
+
 /** Modern güneş gözlüğü: parlak asetat çerçeve, yansımalı degrade cam, metal menteşe; sapları kafanın yanından geriye. */
-function gunesGozlugu() {
+export function gunesGozlugu(ayr = 1) {
   const g = new T.Group();
   const cerceve = new T.MeshPhysicalMaterial({ color: 0x15110f, roughness: 0.28, metalness: 0.05, clearcoat: 1, clearcoatRoughness: 0.12, transparent: true });
   const cam = new T.MeshPhysicalMaterial({
@@ -396,8 +397,8 @@ function gunesGozlugu() {
     const dis = yuvarlakDortgen(gen + 0.95, yuk + 0.85, 1.75, 0.32);
     const delik = yuvarlakDortgen(gen, yuk, 1.45, 0.28);
     dis.holes.push(delik);
-    const cg = new T.ExtrudeGeometry(dis, { depth: 0.38, bevelEnabled: true, bevelThickness: 0.08, bevelSize: 0.07, bevelSegments: 3, curveSegments: 24 });
-    const lg = new T.ShapeGeometry(delik, 24);
+    const cg = new T.ExtrudeGeometry(dis, { depth: 0.38, bevelEnabled: true, bevelThickness: 0.08, bevelSize: 0.07, bevelSegments: bolut(3, ayr, 1), curveSegments: bolut(24, ayr) });
+    const lg = new T.ShapeGeometry(delik, bolut(24, ayr));
     // Cam hafif kavisli (dış kenar geride), üstten alta koyudan açığa degrade.
     for (const geo of [cg, lg]) {
       const p = geo.attributes.position;
@@ -417,34 +418,34 @@ function gunesGozlugu() {
     c.position.set(yon * 3.35, 2.75, 5.85);
     const l = new T.Mesh(lg, cam);
     l.position.set(yon * 3.35, 2.75, 6.0);
-    const men = new T.Mesh(new T.CylinderGeometry(0.16, 0.16, 0.9, 12), metal);
+    const men = new T.Mesh(new T.CylinderGeometry(0.16, 0.16, 0.9, bolut(12, ayr)), metal);
     men.position.set(yon * 6.45, 3.55, 5.85);
     men.rotation.z = Math.PI / 2;
     g.add(c, l, men);
     const sap = new T.TubeGeometry(new T.CatmullRomCurve3([
       new T.Vector3(yon * 6.75, 3.55, 5.8), new T.Vector3(yon * 7.55, 3.4, 2.0),
       new T.Vector3(yon * 7.7, 3.05, -3.0), new T.Vector3(yon * 7.25, 1.6, -6.2),
-    ]), 24, 0.17, 8, false);
+    ]), bolut(24, ayr), 0.17, bolut(8, ayr), false);
     g.add(new T.Mesh(sap, cerceve));
   }
   const kopru = new T.TubeGeometry(new T.CatmullRomCurve3([
     new T.Vector3(-0.85, 3.5, 6.1), new T.Vector3(0, 3.95, 6.35), new T.Vector3(0.85, 3.5, 6.1),
-  ]), 16, 0.26, 10, false);
+  ]), bolut(16, ayr), 0.26, bolut(10, ayr), false);
   g.add(new T.Mesh(kopru, cerceve));
-  return { grup: g, capa: 168 };
+  return { grup: g, capa: CAPA.gunes_gozlugu };
 }
 
 /** Çiçek tacı: alnın üstünden kafanın arkasına eğik halka; 16 çiçek (6 yaprak + göbek) ve yapraklar (örnekli ağ). */
-function cicekTaci() {
+export function cicekTaci(ayr = 1) {
   const g = new T.Group();
   const N = 16, YAPRAK = 6;
   const palet = [0xf7a1b5, 0xfff3ea, 0xb9a3e3, 0xffc08a, 0xe25a7a, 0xffd6e0];
-  const yaprakGeo = new T.SphereGeometry(1, 14, 10);
+  const yaprakGeo = new T.SphereGeometry(1, bolut(14, ayr), bolut(10, ayr, 2));
   yaprakGeo.scale(0.62, 0.34, 0.14);
   yaprakGeo.translate(0.58, 0, 0);
   const yapraklar = new T.InstancedMesh(yaprakGeo, new T.MeshStandardMaterial({ roughness: 0.55, side: T.DoubleSide, transparent: true }), N * YAPRAK);
-  const gobekler = new T.InstancedMesh(new T.SphereGeometry(0.32, 14, 10), new T.MeshStandardMaterial({ color: 0xf2c14e, roughness: 0.7, transparent: true }), N);
-  const yesilGeo = new T.SphereGeometry(1, 10, 8);
+  const gobekler = new T.InstancedMesh(new T.SphereGeometry(0.32, bolut(14, ayr), bolut(10, ayr, 2)), new T.MeshStandardMaterial({ color: 0xf2c14e, roughness: 0.7, transparent: true }), N);
+  const yesilGeo = new T.SphereGeometry(1, bolut(10, ayr), bolut(8, ayr, 2));
   yesilGeo.scale(0.95, 0.32, 0.1);
   yesilGeo.translate(0.8, 0, 0);
   const yesil = new T.InstancedMesh(yesilGeo, new T.MeshStandardMaterial({ color: 0x5e9e5a, roughness: 0.6, side: T.DoubleSide, transparent: true }), N * 2);
@@ -486,25 +487,25 @@ function cicekTaci() {
     }
   }
   g.add(yapraklar, gobekler, yesil);
-  return { grup: g, capa: 10 };
+  return { grup: g, capa: CAPA.cicek_taci };
 }
+
+/** Nazar boncuğu yüzü: dıştan içe halkalar (yarıçap 128 px dokuda; iOS/Android modeli aynı halkalarla pişirilir). */
+export const NAZAR_HALKALARI = [[64, '#0b3a8f'], [46, '#f4f7fb'], [31, '#3fa4ea'], [15, '#0d1016']];
 
 function nazarDokusu() {
   const c = document.createElement('canvas');
   c.width = c.height = 128;
   const x = c.getContext('2d');
   const hal = (r, renk) => { x.beginPath(); x.arc(64, 64, r, 0, Math.PI * 2); x.fillStyle = renk; x.fill(); };
-  hal(64, '#0b3a8f');
-  hal(46, '#f4f7fb');
-  hal(31, '#3fa4ea');
-  hal(15, '#0d1016');
+  for (const [r, renk] of NAZAR_HALKALARI) hal(r, renk);
   const t = new T.CanvasTexture(c);
   t.colorSpace = T.LinearSRGBColorSpace;
   return t;
 }
 
 /** Nazar boncuklu altın küpe: halka + zincir + cam boncuk. Pivot (0,0,0) kulak memesindedir. */
-function nazarKupe(doku) {
+export function nazarKupe(doku) {
   const g = new T.Group();
   const altin = new T.MeshPhysicalMaterial({ color: 0xe8b64c, roughness: 0.22, metalness: 1, transparent: true });
   const halka = new T.Mesh(new T.TorusGeometry(0.3, 0.06, 12, 36), altin);
@@ -915,7 +916,7 @@ export class Sahne {
     const e = this.efekt;
     const n = this.nesneler[e];
     // Kafa: matris + anahtar noktayı landmark pikseline oturtan düzlem içi öteleme (görüş açısı farkını giderir).
-    const capa = n?.capa ?? 168;
+    const capa = n?.capa ?? CAPA.sim_yagmuru;
     const hedef = this._capaKonum(capa);
     const ham = kanonikNokta(capa).applyMatrix4(this.matris);
     this.kafa.matrix.copy(this.matris);

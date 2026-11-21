@@ -1397,6 +1397,7 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 --------------------------------------------------------------------------------
 ansicolor
+tflite_flutter
 
 
                                  Apache License
@@ -2450,6 +2451,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 clock
 fake_async
+quiver
 retry
 
 
