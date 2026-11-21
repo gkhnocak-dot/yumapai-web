@@ -125,6 +125,7 @@ export function temizleDil(ham: string, l: Lang): string {
   for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => G.test(ic) || DIL_ETIKETI_U.test(ic) || LATIN_GLOS(l, ic) || ic.length > uzun || ic.trim() === "" ||
     (ja && /^[\p{Script=Hiragana}\p{Script=Katakana}ー・、\s]+$/u.test(ic) && /\p{Script=Hiragana}/u.test(ic)) ? "" : m); // ja: hiragana içeren kana parantez okunuştur (「…の城壁（…のじょうへき）」)
   for (const [r, y] of DIS_GLOS[l] ?? []) s = s.replace(r, y);
+  s = s.replace(/\s*\/[^\/\s][^\/]{0,40}\/(?=[\s,;.)、。،])/gu, (m) => (/[ˈˌːɪəʊæɛɔʃʒθðŋ]/u.test(m) ? "" : m)); // parantez dışı IPA (tr/en ile aynı, ec4354c)
   s = s.replace(/\s+([,.;:!?،؛؟])/g, "$1").replace(/,\s*,/g, ",").replace(/،\s*،/g, "،").replace(/\(\s*\)/g, "").replace(/\s+/g, " ").trim();
   if (ja) s = s.replace(/\(/g, "（").replace(/\)/g, "）").replace(/\s*（/g, "（").replace(/）\s+(?=[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}])/gu, "）");
   return s;
@@ -133,6 +134,7 @@ export function temizle(ham: string, l: Lang = "tr"): string {
   if (!ESKI(l)) return temizleDil(ham, l);
   let s = ham.replace(/\[\d+\]|\[[a-z]\]/g, "").replace(/\s+/g, " ");
   s = disParantezSil(s);
+  s = s.replace(/\s*\/[^\/\s][^\/]{0,40}\/(?=[\s,;.)])/gu, (m) => (/[ˈˌːɪəʊæɛɔʃʒθðŋ]/u.test(m) ? "" : m)); // parantez dışı IPA okunuşu: "Canae /ˈkeɪ.niː/,"
   for (let i = 0; i < 3; i++) s = s.replace(/\s*\(([^()]*)\)/g, (m, ic) => GURULTU.test(ic) || DIL_ETIKETI.test(ic) || ic.length > UZUN_PARANTEZ || ic.trim() === "" ? "" : m);
   return s.replace(/\s+([,.;:!?])/g, "$1").replace(/,\s*,/g, ",").replace(/\(\s*\)/g, "").replace(/\s+/g, " ").trim();
 }
